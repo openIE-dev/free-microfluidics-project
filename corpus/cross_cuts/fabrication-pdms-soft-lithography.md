@@ -1,0 +1,606 @@
+---
+title: fabrication-pdms-soft-lithography
+parent: Cross-cuts
+layout: default
+---
+
+# Cross-cut: `fabrication-pdms-soft-lithography`
+
+**59 corpus entries disclose this subsystem.**
+
+Earliest disclosure: 1993
+
+Listed in chronological order. Each entry's `prior_art_notes` and
+`disclosure_citation` constitute the citeable prior art material.
+
+---
+
+## Features of gold by µCP using PDMS stamps (1993)
+
+- **id**: `kumar-whitesides-1993-microcontact-printing`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Whitesides group, Harvard
+- **disclosure**: Kumar, A.; Whitesides, G. M. Features of gold having micrometer to centimeter dimensions can be formed through a combination of stamping with an elastomeric stamp and an alkanethiol 'ink' followed by chemical etching. Appl. Phys. Lett. 1993, 63, 2002–2004. DOI: 10.1063/1.110628
+- **ip status**: patented
+- **prior art notes**: The foundational disclosure of microcontact printing: a PDMS stamp inked with alkanethiol creates a self-assembled monolayer pattern on gold, which serves as etch mask for sub-micron metal features. Anticipates: PDMS-stamp pattern transfer as a category, µCP for biological-pattern definition (proteins, cells), and the entire elastomeric-stamp lineage that enabled Duffy 1998's PDMS microchannel work five years later.
+
+## Rapid prototyping of microfluidic systems in PDMS (1998)
+
+- **id**: `duffy-1998-pdms-soft-lithography-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Whitesides group, Harvard
+- **disclosure**: Duffy, D. C.; McDonald, J. C.; Schueller, O. J. A.; Whitesides, G. M. Rapid prototyping of microfluidic systems in poly(dimethylsiloxane). Anal. Chem. 1998, 70, 4974–4984. DOI: 10.1021/ac980656z
+- **ip status**: public-domain
+- **prior art notes**: The paper that turned PDMS soft lithography into the default microfluidics fabrication method for the next 25+ years. Anticipates: SU-8 master mold + PDMS replica casting, oxygen-plasma bonding of PDMS to glass or PDMS, hydrophilic surface treatment by plasma oxidation, and rapid-prototyping iteration of channel designs. Any patent claiming novelty over 'PDMS replica molding from a photoresist master with plasma bonding to substrate' must address this disclosure.
+
+## Soft lithography review (Xia & Whitesides 1998) (1998)
+
+- **id**: `xia-whitesides-1998-soft-lithography-review`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Whitesides group, Harvard
+- **disclosure**: Xia, Y.; Whitesides, G. M. Soft lithography. Annu. Rev. Mater. Sci. 1998, 28, 153–184. DOI: 10.1146/annurev.matsci.28.1.153
+- **ip status**: public-domain
+- **prior art notes**: The canonical soft-lithography review enumerating microcontact printing (µCP), replica molding (REM), microtransfer molding (µTM), micromolding in capillaries (MIMIC), and solvent-assisted micromolding (SAMIM). Cited as the standard reference for the entire family of elastomer-based pattern-transfer techniques. Anticipates: µCP for SAM patterning, REM for PDMS device fabrication, and the framing of soft lithography as a unified set of pattern-transfer techniques distinct from photolithography. Companion to Duffy 1998 which is the specific PDMS-microfluidics implementation.
+
+## Quake monolithic pneumatic membrane valve and pump (2000)
+
+- **id**: `unger-2000-quake-monolithic-membrane-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Stephen Quake group, Caltech
+- **disclosure**: Unger, M. A.; Chou, H.-P.; Thorsen, T.; Scherer, A.; Quake, S. R. Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 2000, 288, 113–116. DOI: 10.1126/science.288.5463.113
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of pneumatically actuated elastomeric membrane valves built monolithically into a multilayer PDMS chip. By cyclically actuating three valves in series, a peristaltic pump is realized. This is the architectural ancestor of essentially every subsequent on-chip pneumatic valve and pump. Anticipates: pneumatic membrane valve (control channel + thin membrane + flow channel), peristaltic pumping by sequential valve actuation, large-scale integrated chip-scale fluidic circuits. Subsequent papers (Nordin 2017, Sanchez Noriega 2021) re-implement the same architecture in 3D-printed photopolymer.
+
+## Stop-flow lithography and Beebe geometry (2000)
+
+- **id**: `beebe-2000-stop-flow`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Beebe group (UIUC / Wisconsin)
+- **disclosure**: Beebe, D. J.; Moore, J. S.; Bauer, J. M.; Yu, Q.; Liu, R. H.; Devadoss, C.; Jo, B.-H. Functional hydrogel structures for autonomous flow control inside microfluidic channels. Nature 2000, 404, 588–590. DOI: 10.1038/35007047
+- **ip status**: patented
+- **prior art notes**: Disclosed pH-responsive hydrogel structures photopatterned in situ inside microchannels to act as autonomous valves and chemostat-like sensors. Anticipates: in-channel photopolymerized hydrogel valves, stimulus-responsive autonomous flow regulation, and the entire 'smart hydrogel' microfluidics subfield. Among the most-cited microfluidics papers and a foundational primitive distinct from Quake-style pneumatic valves.
+
+## Dynamic pattern formation in a vesicle-generating microfluidic device (2001)
+
+- **id**: `thorsen-2002-droplet-microfluidics-flow-focusing`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Thorsen, Quake et al., Caltech
+- **disclosure**: Thorsen, T.; Roberts, R. W.; Arnold, F. H.; Quake, S. R. Dynamic pattern formation in a vesicle-generating microfluidic device. Phys. Rev. Lett. 2001, 86, 4163–4166. DOI: 10.1103/PhysRevLett.86.4163
+- **ip status**: public-domain
+- **prior art notes**: One of the earliest demonstrations of monodisperse aqueous droplet generation in oil within a microfluidic geometry. Anticipates: T-junction droplet formation, controlled droplet size as a function of flow rate ratio, monodisperse emulsion as a microfluidic primitive. The lineage from here runs through Anna 2003 (flow focusing) into the entire droplet-microfluidics field including ddPCR, single-cell RNA-seq, and barcoded bead workflows.
+
+## Generation of gradients having complex shapes using microfluidic networks (2001)
+
+- **id**: `dertinger-2001-christmas-tree-gradient`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Whitesides group, Harvard
+- **disclosure**: Dertinger, S. K. W.; Chiu, D. T.; Jeon, N. L.; Whitesides, G. M. Generation of gradients having complex shapes using microfluidic networks. Anal. Chem. 2001, 73, 1240–1246. DOI: 10.1021/ac001132d
+- **ip status**: public-domain
+- **prior art notes**: Disclosed the iconic 'Christmas tree' splitting-and-recombining microfluidic network for arbitrary-shape concentration gradient generation. Anticipates: branched diffusion-mixer cascade for gradient generation, parallel-channel concentration gradient as a primitive in chemotaxis assays, and the gradient-generator microfluidic motif appearing in hundreds of subsequent cell-biology papers.
+
+## Chaotic mixer for microchannels (staggered herringbone) (2002)
+
+- **id**: `stroock-2002-staggered-herringbone-mixer`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Stroock, Whitesides et al., Harvard
+- **disclosure**: Stroock, A. D.; Dertinger, S. K. W.; Ajdari, A.; Mezic, I.; Stone, H. A.; Whitesides, G. M. Chaotic mixer for microchannels. Science 2002, 295, 647–651. DOI: 10.1126/science.1066238
+- **ip status**: public-domain
+- **prior art notes**: The canonical disclosure of passive chaotic mixing in microchannels via patterned grooves on the channel floor. Anticipates: staggered herringbone topology, the principle of using transverse flow patterns to fold fluid layers and shorten diffusion paths in laminar regimes. Any patent claiming novelty over 'patterned floor structures producing transverse flow for mixing' must contend with this disclosure.
+
+## Microfluidic large-scale integration (2002)
+
+- **id**: `thorsen-2002-microfluidic-large-scale-integration`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Quake group, Caltech
+- **disclosure**: Thorsen, T.; Maerkl, S. J.; Quake, S. R. Microfluidic large-scale integration. Science 2002, 298, 580–584. DOI: 10.1126/science.1076996
+- **ip status**: patented
+- **prior art notes**: Demonstrated 'microfluidic large-scale integration' — thousands of Quake valves operated as binary multiplexers to address hundreds of chambers from a few control lines. The conceptual analog of VLSI for microfluidics. Anticipates: hierarchical valve multiplexing for chamber-array addressing (n chambers from O(log n) control lines), and the architectural model that underlies Fluidigm IFCs and most chip-scale microfluidic automation. Companion to Unger 2000 valve disclosure; together they define MLSI.
+
+## Poly(dimethylsiloxane) as a material for fabricating microfluidic devices (McDonald & Whitesides 2002) (2002)
+
+- **id**: `mcdonald-whitesides-2002-pdms-review`
+- **corpus**: academic
+- **device class**: other
+- **creator**: McDonald, Whitesides (Harvard)
+- **disclosure**: McDonald, J. C.; Whitesides, G. M. Poly(dimethylsiloxane) as a material for fabricating microfluidic devices. Acc. Chem. Res. 2002, 35, 491–499. DOI: 10.1021/ar010110q
+- **ip status**: public-domain
+- **prior art notes**: The canonical methodology paper for PDMS as a microfluidic substrate: physical properties, surface chemistry, plasma activation, design constraints. Cited as the standard methodological reference for any PDMS-based microfluidic device. Companion to Duffy 1998 (the originating disclosure) and Xia/Whitesides 1998 (the broader soft-lithography review).
+
+## Microfluidic flow cytometer architectures (academic) (2002)
+
+- **id**: `berkeley-cellium-flow-cytometer-2009`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Quake group, Caltech
+- **disclosure**: Fu, A. Y.; Spence, C.; Scherer, A.; Arnold, F. H.; Quake, S. R. A microfabricated fluorescence-activated cell sorter. Nat. Biotechnol. 1999, 17, 1109–1111. DOI: 10.1038/15095
+- **ip status**: patented
+- **prior art notes**: The first microfabricated FACS — fluorescence-activated cell sorter on chip. Demonstrated cell sorting at modest throughput (~10 cells/s) with optical interrogation and pneumatic actuation in PDMS. Anticipates: chip-FACS architecture, microfluidic flow cytometry, and the entire chip-based flow cytometry subfield subsequently expanded by Sony SP6800, BD Cytopeia, On-chip Sort, and others.
+
+## Microfluidic protein crystallization in nanoliter chambers (2002)
+
+- **id**: `quake-2003-microfluidic-protein-crystallization`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Quake group, Caltech
+- **disclosure**: Hansen, C. L.; Skordalakes, E.; Berger, J. M.; Quake, S. R. A robust and scalable microfluidic metering method that allows protein crystal growth by free interface diffusion. Proc. Natl. Acad. Sci. USA 2002, 99, 16531–16536. DOI: 10.1073/pnas.262485199
+- **ip status**: patented
+- **prior art notes**: Disclosed PDMS-Quake-valve-based protein crystallization screening: hundreds of nanoliter-scale crystallization chambers in parallel using free-interface diffusion as the supersaturation mechanism. Architectural ancestor of Fluidigm Topaz protein crystallization chip — and of the broader nanoliter-screen / structural-biology automation that competes with Mosquito / Formulatrix dispensers.
+
+## Flow-focusing droplet generation in microfluidic devices (2003)
+
+- **id**: `anna-2003-flow-focusing-droplet`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Anna, Bontoux, Stone (Harvard)
+- **disclosure**: Anna, S. L.; Bontoux, N.; Stone, H. A. Formation of dispersions using 'flow focusing' in microchannels. Appl. Phys. Lett. 2003, 82, 364–366. DOI: 10.1063/1.1537519
+- **ip status**: public-domain
+- **prior art notes**: Established flow-focusing droplet generation as a parallel architecture to the T-junction. Disclosed: a continuous-phase fluid focuses a dispersed-phase stream through a constriction, forming droplets at controllable rates and sizes. This geometry underlies most modern droplet platforms (10x Genomics-style microfluidic chips, Bio-Rad ddPCR generators, etc.).
+
+## Fluidigm Dynamic Array Integrated Fluidic Circuit (2003)
+
+- **id**: `fluidigm-dynamic-array-ifc`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluidigm Corp. (now Standard BioTools)
+- **disclosure**: Fluidigm Corp. (now Standard BioTools) Integrated Fluidic Circuit / Dynamic Array. https://www.standardbio.com/products/instruments-and-consumables and Fluidigm IFC patent family.
+- **ip status**: patented
+- **prior art notes**: Commercial implementation of Quake / Thorsen MLSI (microfluidic large-scale integration) for high-throughput qPCR, single-cell qPCR, and digital PCR. Anticipates: direct architectural lineage from Unger 2000 + Thorsen 2002 to commercial multi-thousand-well qPCR arrays. The corpus exists in part because of the IP positions Fluidigm built around this architecture.
+
+## PEG grafting on PDMS for surface passivation (2003)
+
+- **id**: `eddington-2008-pdms-peg-grafting`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Allbritton group, UC Irvine
+- **disclosure**: Hu, S.; Ren, X.; Bachman, M.; Sims, C. E.; Li, G. P.; Allbritton, N. Surface modification of poly(dimethylsiloxane) microfluidic devices by ultraviolet polymer grafting. Anal. Chem. 2002, 74, 4117–4123. DOI: 10.1021/ac025700w
+- **ip status**: public-domain
+- **prior art notes**: Established UV-initiated PEG grafting on PDMS as a route to non-fouling, non-protein-adsorbing PDMS microfluidic surfaces. Anticipates: PEG-grafted PDMS as a standard surface treatment for cell-culture and protein-handling chips, addressing PDMS's well-known protein-adsorption problem. Sub-strate-side counterpart to Quake-LSI's plumbing-side innovations.
+
+## PEGDA hydrogel photopatterning in microfluidic channels (2003)
+
+- **id**: `chen-2003-pegda-hydrogel-photopatterning`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Beebe group, UIUC / Wisconsin
+- **disclosure**: Beebe, D. J.; Mensing, G. A.; Walker, G. M. Physics and applications of microfluidics in biology. Annu. Rev. Biomed. Eng. 2002, 4, 261–286. DOI: 10.1146/annurev.bioeng.4.112601.125916
+- **ip status**: patented
+- **prior art notes**: Beebe-group establishment of in-channel PEGDA hydrogel photopatterning as a route to autonomous valve and trap structures. Subsequent papers (post Beebe 2000 Nature) demonstrated systematic PEGDA structure formation, sub-100 µm feature definition, and biocompatible cell encapsulation in situ. Anticipates: PEGDA as the canonical photopatternable hydrogel for chips, distinct from the alginate-bead and gelatin approaches.
+
+## Microfluidic cell-trap array for single-cell analysis (2006)
+
+- **id**: `di-carlo-2006-cell-trap-array`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: L. P. Lee, Di Carlo (UC Berkeley)
+- **disclosure**: Di Carlo, D.; Aghdam, N.; Lee, L. P. Single-cell enzyme concentrations, kinetics, and inhibition analysis using high-density hydrodynamic cell isolation arrays. Anal. Chem. 2006, 78, 4925–4930. DOI: 10.1021/ac060541s
+- **ip status**: patented
+- **prior art notes**: Disclosed high-density hydrodynamic cell trap array: PDMS chip with serial-arranged U-shaped cup traps, each capturing exactly one cell from flowing suspension by streamline-following. Anticipates: U-cup hydrodynamic single-cell trap as a primitive, addressable single-cell observation arrays, and the architectural pattern subsequently elaborated by Tay-group and others for time-resolved single-cell measurement.
+
+## Continuous inertial focusing, ordering, and separation of particles in microchannels (2007)
+
+- **id**: `di-carlo-2007-inertial-microfluidics`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Di Carlo, Toner et al. (Harvard / Mass General)
+- **disclosure**: Di Carlo, D.; Irimia, D.; Tompkins, R. G.; Toner, M. Continuous inertial focusing, ordering, and separation of particles in microchannels. Proc. Natl. Acad. Sci. USA 2007, 104, 18892–18897. DOI: 10.1073/pnas.0704958104
+- **ip status**: patented
+- **prior art notes**: Established inertial microfluidics as a continuous-flow particle-separation regime exploiting Dean drag and shear-gradient lift in curving and straight channels at intermediate Reynolds numbers (Re~10–100). Anticipates: spiral and serpentine inertial focusing geometries, label-free CTC enrichment by inertial migration, sheath-free particle ordering, and the entire inertial-microfluidics subfield as commercialized by Vortex Biosciences, ClearCell, and the iCellate / iChip CTC platforms. Together with Sturm/Huang DLD (2004) it defines the dominant label-free continuous-separation paradigms.
+
+## Acoustically detectable cellular-level lung injury model (2007)
+
+- **id**: `huh-2007-lung-on-chip-precursor`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Takayama group, Michigan
+- **disclosure**: Huh, D.; Fujioka, H.; Tung, Y.-C.; Futai, N.; Paine, R., 3rd; Grotberg, J. B.; Takayama, S. Acoustically detectable cellular-level lung injury induced by fluid mechanical stresses in microfluidic airway systems. Proc. Natl. Acad. Sci. USA 2007, 104, 18886–18891. DOI: 10.1073/pnas.0610868104
+- **ip status**: public-domain
+- **prior art notes**: Direct precursor to the Huh-Ingber 2010 lung-on-chip paper; demonstrated airway-stress modeling in PDMS chips. Establishes the Takayama-group lineage that connects to Ingber's Wyss Institute lung-on-chip and ultimately Emulate's commercial platform. Important for tracing the academic-to-commercial pathway of organ-on-chip work.
+
+## Microfluidic bubble logic (2007)
+
+- **id**: `prakash-2007-bubble-logic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Prakash, Gershenfeld (MIT)
+- **disclosure**: Prakash, M.; Gershenfeld, N. Microfluidic bubble logic. Science 2007, 315, 832–835. DOI: 10.1126/science.1136907
+- **ip status**: public-domain
+- **prior art notes**: Disclosed microfluidic bubble logic gates: AND/OR/NOT operations implemented purely in two-phase flow geometry, using bubbles as the binary signal. Anticipates: programmable microfluidic logic without electrical actuation, and the broader concept of fluidic-Turing-completeness on chip. Precursor of HUVAS-style bubble computers.
+
+## Bead-based cell capture in microfluidic channels (2007)
+
+- **id**: `yu-2010-cell-pull-down-bead`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Toner group, Mass General Hospital
+- **disclosure**: Toner, M.; Irimia, D. Blood-on-a-chip. Annu. Rev. Biomed. Eng. 2005, 7, 77–103. DOI: 10.1146/annurev.bioeng.7.011205.135108
+- **ip status**: patented
+- **prior art notes**: Toner-group review consolidating the 'blood-on-a-chip' research program: integrated separation, capture, and analysis of blood components on microfluidic chips. Cited as the canonical review for chip-format hematology and CTC isolation work; precursor to the CTC-iChip lineage.
+
+## Microfluidic alginate microbead generation (2007)
+
+- **id**: `choi-weitz-2007-alginate-microbead`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: various — Lee, Weitz, Doyle (early 2000s contributions)
+- **disclosure**: Choi, C.-H.; Jung, J.-H.; Rhee, Y. W.; Kim, D.-P.; Shim, S.-E.; Lee, C.-S. Generation of monodisperse alginate microbeads and in situ encapsulation of cell in microfluidic device. Biomed. Microdevices 2007, 9, 855–862. DOI: 10.1007/s10544-007-9098-7
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of microfluidic alginate microbead generation: aqueous alginate flow-focused into oil with downstream calcium-mediated gelation produces monodisperse alginate microbeads suitable for cell encapsulation. Anticipates: alginate-as-microbead-substrate-in-droplet-microfluidics, which became the backbone of single-cell sequencing platforms (Drop-seq, inDrops, Tapestri) where the bead encapsulates barcoding oligos.
+
+## RainDance Technologies droplet platform (acquired by Bio-Rad) (2008)
+
+- **id**: `raindance-bio-rad-acquisition`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: RainDance Technologies (acquired by Bio-Rad 2017)
+- **disclosure**: RainDance Technologies (acquired by Bio-Rad 2017). Brouzes 2009 commercialization. https://www.bio-rad.com
+- **ip status**: patented
+- **prior art notes**: Commercial pioneer in droplet microfluidics for high-throughput screening and ddPCR (RainDrop ddPCR), absorbed into Bio-Rad's portfolio in 2017. The combined RainDance + QuantaLife (Bio-Rad's earlier ddPCR acquisition) IP estate is the dominant patent thicket in droplet-format diagnostics and the foundational portfolio behind Bio-Rad QX ddPCR.
+
+## NOA-81 (Norland Optical Adhesive) microfluidic chip fabrication (2008)
+
+- **id**: `bartolo-2008-noa-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Studer group, ESPCI
+- **disclosure**: Bartolo, D.; Degré, G.; Nghe, P.; Studer, V. Microfluidic stickers. Lab Chip 2008, 8, 274–279. DOI: 10.1039/B712368J
+- **ip status**: public-domain
+- **prior art notes**: Disclosed NOA-81 (Norland Optical Adhesive 81) microfluidic chip fabrication: UV-curable thiol-ene polymer cast against PDMS master and bonded to glass without plasma activation. Architectural alternative to PDMS that addresses PDMS's well-known limitations: hydrophobicity recovery, small-molecule absorption, gas permeability. Anticipates: thiol-ene-as-microfluidic-substrate, and the broader 'PDMS-skeptical' fabrication trend that includes OSTE (off-stoichiometry thiol-ene) and Norland-cousin photopolymers.
+
+## Microfluidics for drug delivery (Langer-Farokhzad lineage) (2008)
+
+- **id**: `microfluidics-drug-delivery-langer`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Langer / Farokhzad labs (MIT / BWH)
+- **disclosure**: Karnik, R.; Gu, F.; Basto, P.; Cannizzaro, C.; Dean, L.; Kyei-Manu, W.; Langer, R.; Farokhzad, O. C. Microfluidic platform for controlled synthesis of polymeric nanoparticles. Nano Lett. 2008, 8, 2906–2912. DOI: 10.1021/nl801736q
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of microfluidic polymeric nanoparticle synthesis: rapid solvent-displacement mixing in microfluidic device drives controlled self-assembly of PLGA-PEG drug-loaded nanoparticles. Architectural cousin of LNP synthesis but for hydrophobic-drug-loaded polymeric (rather than lipid) nanoparticles. Anticipates: microfluidic-controlled nanomedicine manufacturing as a commercial category.
+
+## Droplet microfluidic technology for single-cell high-throughput screening (2009)
+
+- **id**: `brouzes-2009-droplet-screening`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: RainDance Technologies / Perrimon lab
+- **disclosure**: Brouzes, E.; Medkova, M.; Savenelli, N.; Marran, D.; Twardowski, M.; Hutchison, J. B.; Rothberg, J. M.; Link, D. R.; Perrimon, N.; Samuels, M. L. Droplet microfluidic technology for single-cell high-throughput screening. Proc. Natl. Acad. Sci. USA 2009, 106, 14195–14200. DOI: 10.1073/pnas.0903542106
+- **ip status**: patented
+- **prior art notes**: Established droplet microfluidics for single-cell HTS by combining flow-focusing droplet generation, on-droplet barcoding, fluorescence-activated droplet sorting (FADS), and downstream analysis. Anticipates: barcoded droplet libraries for combinatorial screening, droplet sorting at kHz rates with electrocoalescence, and the directed-evolution / single-cell-screen workflows commercialized by RainDance and absorbed into Bio-Rad's portfolio.
+
+## Acoustic-streaming microvortex cell trap (2009)
+
+- **id**: `hou-2013-acoustic-cell-trapping`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Hilgenfeldt group / A. Lee group (UCI)
+- **disclosure**: Wang, C.; Jalikop, S. V.; Hilgenfeldt, S. Size-sensitive sorting of microparticles through control of flow geometry. Appl. Phys. Lett. 2011, 99, 034101. DOI: 10.1063/1.3610940 (and earlier Lee/Hilgenfeldt work)
+- **ip status**: patented
+- **prior art notes**: Established oscillating air-liquid interface as a microstreaming-vortex cell trap: a piezoactuated chip drives oscillation of trapped bubbles, which generate steady-streaming microvortices that capture cells. Direct architectural ancestor of the AESOP work (Zhang 2026) which uses the same trap mechanism for sequential transfection. Anticipates: bubble-driven steady-streaming microvortex cell trap as a primitive.
+
+## Microfluidic cell-pairing trap arrays for cell fusion (2009)
+
+- **id**: `skelley-2009-cell-pairing-trap`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Voldman, Jaenisch labs (MIT / Whitehead)
+- **disclosure**: Skelley, A. M.; Kirak, O.; Suh, H.; Jaenisch, R.; Voldman, J. Microfluidic control of cell pairing and fusion. Nat. Methods 2009, 6, 147–152. DOI: 10.1038/nmeth.1290
+- **ip status**: patented
+- **prior art notes**: Disclosed weir-trap cell-pairing arrays: paired wells with hydrodynamic capture geometry that traps exactly two cells per well in defined order. Anticipates: addressable cell-pairing on chip for fusion / cytotoxicity / interaction studies, and the broader category of hydrodynamic-trap arrays for deterministic single-cell positioning. Distinct architectural primitive from droplet co-encapsulation.
+
+## Magnetic-bead microvalve and pump (2009)
+
+- **id**: `leslie-2009-magnetic-bead-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Landers group, Virginia
+- **disclosure**: Leslie, D. C.; Easley, C. J.; Seker, E.; Karlinsey, J. M.; Utz, M.; Begley, M. R.; Landers, J. P. Frequency-specific flow control in microfluidic circuits with passive elastomeric features. Nat. Phys. 2009, 5, 231–235. DOI: 10.1038/nphys1196
+- **ip status**: patented
+- **prior art notes**: Disclosed elastomeric features whose pressure-deformation response selectively passes flow at specific frequencies — frequency-specific microfluidic logic gates without active elements. Provides a pure-passive alternative to Quake valves for many on-chip control tasks. Anticipates: frequency-domain microfluidic logic, passive frequency filters as flow control, and architectural designs that eliminate external pneumatic control.
+
+## Lung-on-a-chip (2010)
+
+- **id**: `huh-2010-lung-on-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald Ingber group, Wyss Institute
+- **disclosure**: Huh, D.; Matthews, B. D.; Mammoto, A.; Montoya-Zavala, M.; Hsin, H. Y.; Ingber, D. E. Reconstituting organ-level lung functions on a chip. Science 2010, 328, 1662–1668. DOI: 10.1126/science.1188302
+- **ip status**: patented
+- **prior art notes**: The foundational organ-on-chip disclosure: lung alveolar-capillary interface reconstituted on a microfluidic chip with cyclic mechanical stretch. Anticipates: dual-channel architecture with intervening porous membrane, mechanical actuation of cell-bearing membranes via pneumatic chambers, perfused human cell co-culture with epithelial-endothelial interfaces. Spawned the Emulate Inc. commercial platform and the entire organ-on-chip field.
+
+## TTP Mirus / Sphere Fluidics droplet picoinjector (2010)
+
+- **id**: `ttp-mirus`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: Weitz lab (Harvard); commercialized by Sphere Fluidics
+- **disclosure**: Abate, A. R.; Hung, T.; Mary, P.; Agresti, J. J.; Weitz, D. A. High-throughput injection with microfluidics using picoinjectors. Proc. Natl. Acad. Sci. USA 2010, 107, 19163–19166. DOI: 10.1073/pnas.1006888107
+- **ip status**: patented
+- **prior art notes**: Microfluidic picoinjector: introduces a precise volume of reagent into pre-formed droplets at >10 kHz rates by combining electrocoalescence with a side-channel injection orifice. Anticipates: post-formation droplet reagent injection as a primitive, and the multi-step droplet workflow architectures used in commercial directed-evolution and single-cell screening platforms.
+
+## Latching microfluidic valves and digital logic (2010)
+
+- **id**: `weaver-2010-microfluidic-large-scale-integration`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Quake / Horowitz groups, Stanford
+- **disclosure**: Weaver, J. A.; Melin, J.; Stark, D.; Quake, S. R.; Horowitz, M. A. Static control logic for microfluidic devices using pressure-gain valves. Nat. Phys. 2010, 6, 218–223. DOI: 10.1038/nphys1513
+- **ip status**: patented
+- **prior art notes**: Disclosed pressure-gain microfluidic valves enabling combinational logic on chip — microfluidic equivalents of CMOS logic gates. Demonstrates 8-bit shift register and ring oscillator implemented in PDMS. Anticipates: microfluidic-only digital control logic without external addressing electronics, and the architectural goal of a self-contained programmable chip without electronic peripherals.
+
+## Fluidic rectifier and microfluidic memory (2010)
+
+- **id**: `mosadegh-2010-fluidic-rectifier`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Takayama group, Michigan
+- **disclosure**: Mosadegh, B.; Kuo, C.-H.; Tung, Y.-C.; Torisawa, Y.; Bersano-Begey, T.; Tavana, H.; Takayama, S. Integrated elastomeric components for autonomous regulation of sequential and oscillatory flow switching in microfluidic devices. Nat. Phys. 2010, 6, 433–437. DOI: 10.1038/nphys1637
+- **ip status**: patented
+- **prior art notes**: Disclosed elastomeric fluidic-rectifier and oscillator primitives implemented as monolithic-PDMS Quake-valve variants. Provides a microfluidic equivalent of the diode and the relaxation oscillator. Anticipates: monolithic elastomeric fluidic logic substrate, and autonomous-pumping microfluidic chips that operate without external pressure modulation.
+
+## Mother machine: high-throughput single-bacterium tracking (2010)
+
+- **id**: `ferry-2011-mother-machine`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Jun group, UCSD
+- **disclosure**: Wang, P.; Robert, L.; Pelletier, J.; Dang, W. L.; Taddei, F.; Wright, A.; Jun, S. Robust growth of Escherichia coli. Curr. Biol. 2010, 20, 1099–1103. DOI: 10.1016/j.cub.2010.04.045
+- **ip status**: public-domain
+- **prior art notes**: The 'mother machine': arrays of dead-end channels each holding a single bacterium with daughter cells flushed downstream. Enables thousands of independent single-cell lineage observations in parallel. Anticipates: dead-end-channel single-bacterium trap array architecture, time-resolved bacterial physiology measurements at scale, and the broader category of microfluidic devices for systematic bacterial physiology that became central in microbial-aging and antibiotic-resistance research.
+
+## Ingber lab organ-chip platform (Wyss Institute) (2010)
+
+- **id**: `ingber-emulate-organ-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Ingber group, Wyss Institute / Harvard
+- **disclosure**: Huh, D.; Hamilton, G. A.; Ingber, D. E. From 3D cell culture to organs-on-chips. Trends Cell Biol. 2011, 21, 745–754. DOI: 10.1016/j.tcb.2011.09.005
+- **ip status**: patented
+- **prior art notes**: Wyss-Institute consolidating publication establishing the 'organ-on-chip' research program — direct architectural and IP ancestor of the Emulate Inc. commercial platform. Ingber group's organ-chip lineage covers lung-on-chip (Huh 2010), gut-on-chip, kidney-on-chip, blood-brain-barrier-on-chip and others, all sharing the dual-channel PDMS architecture with vacuum-driven mechanical strain.
+
+## Microfluidic bioreactor for individual yeast cells (2011)
+
+- **id**: `rusconi-2011-microfluidic-bioreactor`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Heinemann, Lee labs (ETH / Berkeley)
+- **disclosure**: Lee, S. S.; Avalos Vizcarra, I.; Huberts, D. H. E. W.; Lee, L. P.; Heinemann, M. Whole lifespan microscopic observation of budding yeast aging through a microfluidic dissection platform. Proc. Natl. Acad. Sci. USA 2012, 109, 4916–4920. DOI: 10.1073/pnas.1113505109
+- **ip status**: public-domain
+- **prior art notes**: Microfluidic device for whole-lifespan single-yeast-cell observation: cells trapped in posts that retain mother cells while flushing daughter cells, allowing 50+ cell-division observations without moving the trap. Anticipates: lifespan-tracking microfluidic single-cell traps, used widely in aging research and in synthetic-biology dynamics measurement.
+
+## OSTE (off-stoichiometry thiol-ene) microfluidic substrates (2011)
+
+- **id**: `carlborg-2011-oste-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: van der Wijngaart, Carlborg, Haraldsson (KTH Stockholm)
+- **disclosure**: Carlborg, C. F.; Haraldsson, T.; Öberg, K.; Malkoch, M.; van der Wijngaart, W. Beyond PDMS: off-stoichiometry thiol-ene (OSTE) based soft lithography for rapid prototyping of microfluidic devices. Lab Chip 2011, 11, 3136–3147. DOI: 10.1039/C1LC20388F
+- **ip status**: patented
+- **prior art notes**: Disclosed OSTE (off-stoichiometry thiol-ene) substrate for microfluidics: a tunable photopolymer with controllable surface chemistry, mechanical properties, and bonding behavior. The OSTE+ variant adds reactive surface chemistry that allows direct chemical bonding to other substrates. Architectural alternative to PDMS for chips needing tuned surface chemistry, organic-solvent compatibility, and rigid mechanical properties.
+
+## Standing surface acoustic wave (SSAW) acoustic tweezers (2012)
+
+- **id**: `ding-2012-saw-acoustic-tweezers`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: T. J. Huang group, Penn State / Duke
+- **disclosure**: Ding, X.; Lin, S.-C. S.; Kiraly, B.; Yue, H.; Li, S.; Chiang, I.-K.; Shi, J.; Benkovic, S. J.; Huang, T. J. On-chip manipulation of single microparticles, cells, and organisms using surface acoustic waves. Proc. Natl. Acad. Sci. USA 2012, 109, 11105–11109. DOI: 10.1073/pnas.1209288109
+- **ip status**: patented
+- **prior art notes**: Disclosed SSAW (standing surface acoustic wave) micromanipulation of cells and microparticles in a PDMS channel atop a lithium niobate substrate with paired IDTs. Anticipates: IDT-on-LiNbO3 SSAW architecture for sub-mm patterning of pressure nodes in solution, individually addressable cell trapping by SAW phase shifting, and the SAW microfluidics paradigm that competes with Laurell-style BAW. Underlies most subsequent SAW-based cell-separation papers.
+
+## Gut-on-chip with peristalsis-mimicking mechanical strain (2012)
+
+- **id**: `kim-ingber-2012-gut-on-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Ingber group, Wyss Institute / Harvard
+- **disclosure**: Kim, H. J.; Huh, D.; Hamilton, G.; Ingber, D. E. Human gut-on-a-chip inhabited by microbial flora that experiences intestinal peristalsis-like motions and flow. Lab Chip 2012, 12, 2165–2174. DOI: 10.1039/c2lc40074j
+- **ip status**: patented
+- **prior art notes**: Disclosed gut-on-chip: dual-channel PDMS architecture similar to lung-on-chip but with peristalsis-mimicking mechanical strain via vacuum-driven side channels, supporting Caco-2 villi formation and microbial co-culture. Anticipates: peristaltic-strain organ-chip architecture, microbial-mammalian co-culture on chip, and the gut-microbiome organ-chip subfield.
+
+## Blood-brain barrier-on-chip (2012)
+
+- **id**: `booth-kim-2012-bbb-on-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Kim group, Vanderbilt
+- **disclosure**: Booth, R.; Kim, H. Characterization of a microfluidic in vitro model of the blood-brain barrier (µBBB). Lab Chip 2012, 12, 1784–1792. DOI: 10.1039/c2lc40094d
+- **ip status**: public-domain
+- **prior art notes**: Disclosed in vitro blood-brain barrier on chip: porous-membrane-separated dual-channel device with brain endothelial cells on luminal side and astrocytes on abluminal side, with TEER (trans-endothelial electrical resistance) measurement. Anticipates: TEER-integrated BBB-on-chip architecture, dual-cell-type co-culture organ-chip with electrical readout, and the BBB drug-permeability screening application.
+
+## Microfluidic mRNA-LNP vaccine formulation (2012)
+
+- **id**: `microfluidic-mrna-vaccine-formulation`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Cullis, Hansen labs (UBC)
+- **disclosure**: Belliveau, N. M.; Huft, J.; Lin, P. J. C.; Chen, S.; Leung, A. K. K.; Leaver, T. J.; Wild, A. W.; Lee, J. B.; Taylor, R. J.; Tam, Y. K.; Hansen, C. L.; Cullis, P. R. Microfluidic synthesis of highly potent limit-size lipid nanoparticles for in vivo delivery of siRNA. Mol. Ther. Nucleic Acids 2012, 1, e37. DOI: 10.1038/mtna.2012.28
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of microfluidic LNP (lipid nanoparticle) formulation for nucleic acid delivery: rapid mixing of lipid-in-ethanol with nucleic-acid-in-aqueous in microfluidic herringbone mixer drives spontaneous LNP self-assembly with sub-100 nm size distribution. Architecturally critical: the Pfizer-BioNTech and Moderna COVID-19 vaccines depend on Precision Nanosystems' microfluidic LNP manufacturing, which descends directly from this disclosure. Among the highest-impact commercial applications of microfluidics in history.
+
+## CTC-iChip: inertial focusing for high-throughput rare-cell isolation (2013)
+
+- **id**: `ozkumur-2013-ctc-iChip`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Toner / Maheswaran / Haber labs (Mass General)
+- **disclosure**: Ozkumur, E.; Shah, A. M.; Ciciliano, J. C.; Emmink, B. L.; Miyamoto, D. T.; Brachtel, E.; Yu, M.; Chen, P.-i.; Morgan, B.; Trautwein, J.; Kimura, A.; Sengupta, S.; Stott, S. L.; Karabacak, N. M.; Barber, T. A.; Walsh, J. R.; Smith, K.; Spuhler, P. S.; Sullivan, J. P.; Lee, R. J.; Ting, D. T.; Luo, X.; Shaw, A. T.; Bardia, A.; Sequist, L. V.; Louis, D. N.; Maheswaran, S.; Kapur, R.; Haber, D. A.; Toner, M. Inertial focusing for tumor antigen-dependent and -independent sorting of rare circulating tumor cells. Sci. Transl. Med. 2013, 5, 179ra47. DOI: 10.1126/scitranslmed.3005616
+- **ip status**: patented
+- **prior art notes**: Translational descendant of Di Carlo 2007 demonstrating clinical-grade circulating tumor cell isolation by combining hydrodynamic size-based debulking, inertial focusing into a single streamline, and immunomagnetic deflection in series. Anticipates: integrated multi-modal CTC-isolation cartridge architecture, sheath-flow whole-blood debulking with leukocyte depletion, and antigen-independent rare-cell capture as a clinical workflow. Direct ancestor of multiple commercial CTC platforms.
+
+## Standard BioTools (formerly Fluidigm) C1 single-cell genomics IFC (2013)
+
+- **id**: `standard-biotools-csg-fluidigm`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluidigm (now Standard BioTools)
+- **disclosure**: Fluidigm Corp. C1 system (now Standard BioTools). Pollen et al. 2014 Nat. Biotechnol. 32, 1053–1058. DOI: 10.1038/nbt.2967
+- **ip status**: patented
+- **prior art notes**: Single-cell capture-and-amplify IFC: 96 chambers each receiving exactly one cell by hydrodynamic trap, then automated lysis, RT, and PCR per chamber for downstream sequencing. Architectural ancestor of all subsequent microfluidic-trap single-cell genomics, including 10x Chromium's droplet successor. Largely displaced by droplet platforms after 2015 because of cost-per-cell, but retains use in low-throughput high-fidelity work.
+
+## Acoustic-streaming sharp-edge cell trap (2013)
+
+- **id**: `hou-2012-acoustic-vortex-cell-trap`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: T. J. Huang group, Penn State
+- **disclosure**: Huang, P.-H.; Xie, Y.; Ahmed, D.; Rufo, J.; Nama, N.; Chen, Y.; Chan, C. Y.; Huang, T. J. An acoustofluidic micromixer based on oscillating sidewall sharp-edges. Lab Chip 2013, 13, 3847–3852. DOI: 10.1039/c3lc50568e
+- **ip status**: patented
+- **prior art notes**: Disclosed acoustic-streaming sharp-edge mixer architecture: a piezoelectric chip excites oscillation of patterned sharp PDMS edges, generating localized streaming vortices that mix at low Re. Anticipates: sharp-edge-as-streaming-source as a primitive for acoustic mixing on chip, and an alternative to bubble-driven streaming. Used in subsequent T. J. Huang acoustofluidic papers.
+
+## Kidney proximal tubule-on-chip (2013)
+
+- **id**: `jang-suh-2013-kidney-on-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Suh / Ingber labs (Wyss Institute)
+- **disclosure**: Jang, K.-J.; Mehr, A. P.; Hamilton, G. A.; McPartlin, L. A.; Chung, S.; Suh, K.-Y.; Ingber, D. E. Human kidney proximal tubule-on-a-chip for drug transport and nephrotoxicity assessment. Integr. Biol. 2013, 5, 1119–1129. DOI: 10.1039/c3ib40049b
+- **ip status**: patented
+- **prior art notes**: Disclosed kidney proximal tubule-on-chip: dual-channel PDMS with porous membrane and unidirectional shear flow mimicking tubular fluid mechanics, used for nephrotoxicity drug screening. Anticipates: tubule-shear-stress organ-chip architecture, and the FDA-relevant nephrotoxicity drug-screening application that became part of the NIH MPS / FDA Modernization Act 2.0 framework.
+
+## Liver hepatocyte sandwich-culture on chip (2013)
+
+- **id**: `bhushan-2013-liver-on-chip`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Yarmush, Taylor labs (MGH / Pittsburgh)
+- **disclosure**: Bhushan, A.; Senutovitch, N.; Bale, S. S.; McCarty, W. J.; Hegde, M.; Jindal, R.; Golberg, I.; Berk Usta, O.; Yarmush, M. L.; Vernetti, L.; Gough, A.; Bakan, A.; Shun, T. Y.; Biasio, R.; Taylor, D. L. Towards a three-dimensional microfluidic liver platform for predicting drug efficacy and toxicity in humans. Stem Cell Res. Ther. 2013, 4, S16. DOI: 10.1186/scrt377
+- **ip status**: patented
+- **prior art notes**: Disclosed 3D liver-on-chip: hepatocyte sandwich-culture in microfluidic perfusion device for hepatotoxicity drug screening. Architecturally an organ-chip variant emphasizing 3D tissue rather than dual-channel architecture. Anticipates: 3D-cultured-hepatocyte microfluidic platform, and the drug-induced-liver-injury (DILI) screening application that drove much of the early commercial organ-chip market.
+
+## Emulate Inc. Organ-Chip platform (2014)
+
+- **id**: `emulate-organ-on-chip-platform`
+- **corpus**: private
+- **device class**: organ-on-chip
+- **creator**: Emulate Inc. (Donald Ingber / Wyss spinout)
+- **disclosure**: Emulate Inc. (Wyss spinout) Organ-Chip platform; product literature. https://www.emulatebio.com
+- **ip status**: patented
+- **prior art notes**: Commercial organ-on-chip platform deriving from the Huh 2010 lung-on-chip disclosure. The Zoë instrument provides perfusion and stretch actuation to standard 'Bio-Kit' organ chips. Anticipates: standardized commercial organ-chip cartridge with paired perfusion + cyclic-stretch instrument, and the organ-chip-as-a-product category.
+
+## Vortex chip for label-free CTC isolation (Sollier 2014) (2014)
+
+- **id**: `sollier-2014-vortex-chip`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Di Carlo group, UCLA / Vortex Biosciences
+- **disclosure**: Sollier, E. et al. Size-selective collection of circulating tumor cells using Vortex technology. Lab Chip 2014, 14, 63–77. DOI: 10.1039/C3LC50689D
+- **ip status**: patented
+- **prior art notes**: Disclosed vortex-chamber inertial separation: large CTCs are trapped in microscale vortex chambers via inertial migration while smaller blood cells flow through, enabling label-free size-based CTC enrichment. Anticipates: vortex-chamber-as-cell-trap architecture, label-free CTC isolation by inertial trapping (distinct from inertial focusing for streamline ordering). Commercial implementation: Vortex Biosciences VTX-1 (now part of NanoString).
+
+## uFluidix microfluidic chip fabrication services (2014)
+
+- **id**: `ufluidix-foundry-services`
+- **corpus**: open
+- **device class**: other
+- **creator**: uFluidix Inc.
+- **disclosure**: uFluidix microfluidic foundry services. https://www.ufluidix.com
+- **ip status**: open-permissive
+- **prior art notes**: Commercial microfluidic chip foundry serving the academic research community: PDMS, glass, and thermoplastic chip fabrication services at academic-budget pricing. While uFluidix itself is commercial, the broader 'foundry services for academic microfluidics' ecosystem (including Microfluidic ChipShop, Dolomite, Black Hole Lab) plays a critical role in lowering the barrier for academic groups without in-house fabrication capability.
+
+## Microfluidic extracellular vesicle / exosome isolation (2014)
+
+- **id**: `microfluidic-extracellular-vesicle-isolation`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Various — Kersaudy-Kerhoas (Heriot-Watt), Toner group, Lim group (Singapore)
+- **disclosure**: Liga, A.; Vliegenthart, A. D. B.; Oosthuyzen, W.; Dear, J. W.; Kersaudy-Kerhoas, M. Exosome isolation: a microfluidic road-map. Lab Chip 2015, 15, 2388–2394. DOI: 10.1039/C5LC00240K
+- **ip status**: patented
+- **prior art notes**: Composite reference for the microfluidic exosome / EV isolation subfield. Combines size-based (DLD adapted for sub-200-nm cutoff), affinity-based (immunomagnetic), and electrokinetic (DEP) strategies. Anticipates: clinical-grade microfluidic exosome isolation for liquid biopsy applications. Underlies commercial efforts by Exosome Diagnostics, NX Pharmagen, and academic spinouts.
+
+## Drop-seq single-cell RNA sequencing (2015)
+
+- **id**: `macosko-2015-drop-seq`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Macosko, McCarroll lab, Broad Institute
+- **disclosure**: Macosko, E. Z. et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. Cell 2015, 161, 1202–1214. DOI: 10.1016/j.cell.2015.05.002
+- **ip status**: public-domain
+- **prior art notes**: Anticipates: co-encapsulation of single cells with barcoded beads in droplets via flow-focusing, lysis-on-bead chemistry, downstream pooled sequencing with barcode demultiplexing. Together with InDrops (Klein et al. 2015), this is the technical foundation of the modern single-cell genomics ecosystem, including the commercial 10x Genomics Chromium platform.
+
+## inDrops: droplet-based barcoding for single-cell transcriptomics (2015)
+
+- **id**: `klein-2015-indrops`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Klein, Weitz, Kirschner labs (Harvard)
+- **disclosure**: Klein, A. M.; Mazutis, L.; Akartuna, I.; Tallapragada, N.; Veres, A.; Li, V.; Peshkin, L.; Weitz, D. A.; Kirschner, M. W. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell 2015, 161, 1187–1201. DOI: 10.1016/j.cell.2015.04.044
+- **ip status**: public-domain
+- **prior art notes**: Published one week after Drop-seq; together they establish single-cell droplet RNA-seq as a category. inDrops uses hydrogel-encapsulated barcodes (rather than Drop-seq's polystyrene beads), an architectural choice subsequently inherited by 1Cell-Bio's commercial inDrops platform. Both papers anticipate: massively parallel single-cell RNA-seq via droplet co-encapsulation, but with different bead chemistries that anchor distinct patent positions.
+
+## Barcoded hydrogel beads for single-cell RNA-seq (2015)
+
+- **id**: `rotem-zilionis-2015-barcoded-bead`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Klein / Mazutis / Weitz (Harvard)
+- **disclosure**: Klein, A. M.; Mazutis, L.; et al. (inDrops paper, see klein-2015-indrops). Zilionis, R. et al. Single-cell barcoding and sequencing using droplet microfluidics. Nat. Protoc. 2017, 12, 44–73.
+- **ip status**: public-domain
+- **prior art notes**: Disclosed barcoded-hydrogel-bead manufacturing for single-cell RNA-seq: split-and-pool synthesis on alginate beads in microfluidic encapsulation produces a library of beads each bearing a unique barcode, used in inDrops and similar platforms. Anticipates: split-pool-bead-barcoding architecture, which became central to the inDrops and 10x Chromium commercial platforms.
+
+## Soft, skin-mounted epidermal microfluidic device for sweat collection and analysis (2016)
+
+- **id**: `koh-rogers-2016-epidermal-microfluidic`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: John Rogers group (Northwestern / Illinois)
+- **disclosure**: Koh, A.; Kang, D.; Xue, Y.; Lee, S.; Pielak, R. M.; Kim, J.; Hwang, T.; Min, S.; Banks, A.; Bastien, P.; Manco, M. C.; Wang, L.; Ammann, K. R.; Jang, K.-I.; Won, P.; Han, S.; Ghaffari, R.; Paik, U.; Slepian, M. J.; Balooch, G.; Huang, Y.; Rogers, J. A. A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat. Sci. Transl. Med. 2016, 8, 366ra165. DOI: 10.1126/scitranslmed.aaf2593
+- **ip status**: patented
+- **prior art notes**: Disclosed soft skin-mounted epidermal microfluidic patch with networks of capillary-driven channels, color-changing reagent zones, and smartphone-based readout. Anticipates: PDMS-based skin-conformal microfluidic chip architecture, capillary-driven sweat collection and reservoir storage on body, colorimetric multiplexed analysis with smartphone readout. Direct architectural ancestor of the Epicore Biosystems Gx Sweat Patch and similar commercial products.
+
+## DBiT-seq spatial multi-omics on chip (2020)
+
+- **id**: `liu-fan-2020-dbit-seq`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: R. Fan group, Yale
+- **disclosure**: Liu, Y. et al. High-spatial-resolution multi-omics sequencing via deterministic barcoding in tissue. Cell 2020, 183, 1665–1681.e18. DOI: 10.1016/j.cell.2020.10.026
+- **ip status**: patented
+- **prior art notes**: Disclosed DBiT-seq: deterministic-barcoding-in-tissue using two orthogonal sets of barcoded reagent flows through PDMS microfluidic channels pressed onto tissue, defining a 50 × 50 grid of 50 µm × 50 µm spatial barcodes. Anticipates: PDMS-microchannel-defined spatial barcoding architecture as alternative to spotted-array (Visium) and random-bead (Slide-seq) approaches.
+
+## Organoid-on-chip integration (Clevers 2020 review) (2020)
+
+- **id**: `organoid-on-chip-clevers-2020`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Huh group, Penn / Clevers organoid lineage
+- **disclosure**: Park, S. E.; Georgescu, A.; Huh, D. Organoids-on-a-chip. Science 2019, 364, 960–965. DOI: 10.1126/science.aaw7894
+- **ip status**: patented
+- **prior art notes**: Methodological framing of the organoids-on-chip subfield: integration of stem-cell-derived 3D self-organizing organoids with microfluidic perfusion / mechanical-strain platforms. Architectural successor to the dual-channel organ-on-chip lineage by replacing flat 2D tissue culture with 3D organoids. Anticipates: organoid-format tissue + chip-format perfusion as a hybrid architecture, used in subsequent disease-modeling platforms.
+
+## Machine-learning-driven droplet generator design (Lashkaripour 2021/2024) (2021)
+
+- **id**: `lashkaripour-2024-ml-droplet-design`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Densmore lab, Boston University
+- **disclosure**: Lashkaripour, A.; Rodriguez, C.; Mehdipour, N.; Mardian, R.; McIntyre, D.; Ortiz, L.; Campbell, J.; Densmore, D. Machine learning enables design automation of microfluidic flow-focusing droplet generation. Nat. Commun. 2021, 12, 25. DOI: 10.1038/s41467-020-20284-z
+- **ip status**: open-permissive
+- **prior art notes**: Disclosed DAFD (Design Automation of Fluid Dynamics): ML model trained on microfluidic experimental data predicts flow-focusing droplet generator geometry from desired droplet size and rate. Anticipates: ML-as-design-automation for microfluidic chip geometry, and the broader trend of replacing CFD simulation with trained models for microfluidic design.
+
+## Microfluidic rare-cell isolation (2023-onward methods) (2023)
+
+- **id**: `microfluidic-rare-cell-academic-2023`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Various groups
+- **disclosure**: Various 2023-2026 publications on next-generation rare-cell isolation. Representative: cancer-cell-on-chip cluster-isolation methods.
+- **ip status**: patented
+- **prior art notes**: Composite reference for 2023-onward rare-cell isolation work: CTC-cluster isolation (rather than single CTC), circulating immune-cell phenotyping, antigen-independent capture by combined biophysical + biochemical signatures. Cumulative architectural disclosures from this period define current state-of-the-art in rare-cell microfluidic isolation, complementing the foundational 2007-2013 work (Di Carlo, Toner, etc.).
+
+## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
+
+- **id**: `zhang-2026-aesop-acoustic-electric-poration`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Abraham P. Lee group, UC Irvine
+- **disclosure**: Zhang, M.; Taravatfard, A. Z.; Aghaamoo, M.; Lee, A. P. Sequential intracellular delivery of genetic coding molecules using an acoustic electric microfluidic platform. Lab Chip 2026, advance article. DOI: 10.1039/D5LC00941C
+- **ip status**: patented
+- **prior art notes**: Discloses an acoustic-electric microfluidic platform for sequential intracellular transfection without external pumping. Anticipates: arrays of acoustic microstreaming vortices generated by oscillating air-liquid interfaces (trapped bubbles driven by piezoactuation) for cell trapping, simultaneous use of the same acoustic field for sequential reagent exchange, combined mechanical shear + electric field poration as a single transfection step, and 7× efficiency gain over co-transfection for plasmid DNA + Cas9 RNP delivery. Single physical mechanism (acoustic streaming) collapses three subsystems (cell trap, fluid handler, transfection actuator).

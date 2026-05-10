@@ -1,0 +1,46 @@
+---
+title: fabrication-glass-anodic-bonding
+parent: Cross-cuts
+layout: default
+---
+
+# Cross-cut: `fabrication-glass-anodic-bonding`
+
+**3 corpus entries disclose this subsystem.**
+
+Earliest disclosure: 1979
+
+Listed in chronological order. Each entry's `prior_art_notes` and
+`disclosure_citation` constitute the citeable prior art material.
+
+---
+
+## Miniaturized gas chromatograph on a silicon wafer (Stanford 1979) (1979)
+
+- **id**: `terry-1979-stanford-gas-chromatograph`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Terry, Jerman, Angell (Stanford)
+- **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26, 1880–1886. DOI: 10.1109/T-ED.1979.19791
+- **ip status**: public-domain
+- **prior art notes**: The first paper widely cited as a microfluidic-equivalent device: a 5-cm silicon wafer integrating a sample-injection valve, 1.5-meter spiral GC column, and a thermal conductivity detector. Predates Manz/Widmer's µTAS framing by 11 years and Manz's CE-on-chip by 11 years. Anticipates: silicon-substrate microfluidic chip as integrated analytical instrument, on-chip valves and integrated detection, and the entire silicon-microfluidic precursor literature. Often called the 'first lab-on-a-chip' although that term wasn't coined until much later.
+
+## Free-flow acoustophoresis for cell separation (2007)
+
+- **id**: `laurell-2007-acoustophoresis`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Laurell group, Lund University
+- **disclosure**: Petersson, F.; Åberg, L.; Swärd-Nilsson, A.-M.; Laurell, T. Free flow acoustophoresis: microfluidic-based mode of particle and cell separation. Anal. Chem. 2007, 79, 5117–5123. DOI: 10.1021/ac070444e
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of free-flow acoustophoresis: continuous-flow particle separation in a microchannel by transverse acoustic radiation force from a half-wavelength bulk acoustic standing wave, with sample inlet and multiple outlets at distinct lateral positions. Anticipates: silicon-channel BAW resonator architecture, label-free continuous acoustic separation by particle compressibility / density contrast, and the entire bulk-acoustic-wave acoustofluidics field commercialized by AcouSort and used in dozens of academic CTC and exosome platforms.
+
+## AcouSort BAW acoustofluidic platform (2013)
+
+- **id**: `acousort-acoustofluidic-platform`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: AcouSort AB (Lund Sweden, spinoff from Laurell group)
+- **disclosure**: AcouSort AB. https://acousort.com
+- **ip status**: patented
+- **prior art notes**: Commercial bulk-acoustic-wave (BAW) acoustofluidic platform: silicon-microchannel BAW resonator for label-free continuous cell separation. Architecturally the commercial descendant of Laurell 2007 acoustophoresis. Used clinically for blood-cell washing, platelet separation, and CTC enrichment. Anticipates: BAW-acoustofluidic platform commercialization at clinical scale.
