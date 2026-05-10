@@ -16,10 +16,13 @@ DigiCert + OpenTimestamps).
 
 ## Cadence
 
-Quarterly tags: `2026.Q2`, `2026.Q3`, `2026.Q4`, `2027.Q1`. Each
-sub-tree tags as `<sub-tree>-<quarter>`, e.g., `corpus-2026.Q2`,
-`fab-2026.Q3`. The corpus may release more frequently than other
-sub-trees if its expansion rate warrants it.
+Quarterly tags: `2026.Q2`, `2026.Q3`, `2026.Q4`, `2027.Q1`. The git tag
+is the bare quarter; the per-sub-tree distinction lives in the tarball
+name (`corpus-2026.Q2.tar.gz`, etc.) and the release directory
+(`corpus/releases/2026.Q2/`). When fab/cad/control begin shipping their
+own tarballs, they'll land under the same quarter tag as additional
+artifacts on the same release commit. The corpus may release more
+frequently than other sub-trees if its expansion rate warrants it.
 
 ## Validation gate
 
