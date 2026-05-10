@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**17 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluidigm Corp. (now Standard BioTools) Integrated Fluidic Circuit / Dynamic Array. https://www.standardbio.com/products/instruments-and-consumables and Fluidigm IFC patent family.
 - **ip status**: patented
 - **prior art notes**: Commercial implementation of Quake / Thorsen MLSI (microfluidic large-scale integration) for high-throughput qPCR, single-cell qPCR, and digital PCR. Anticipates: direct architectural lineage from Unger 2000 + Thorsen 2002 to commercial multi-thousand-well qPCR arrays. The corpus exists in part because of the IP positions Fluidigm built around this architecture.
+
+## MBARI Environmental Sample Processor (ESP) (2003)
+
+- **id**: `mbari-esp-environmental-sample-processor`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Monterey Bay Aquarium Research Institute (MBARI) (Scholin lab) / McLane Research Laboratories (commercial 2G/3G ESP)
+- **disclosure**: Scholin CA et al., 'The Environmental Sample Processor (ESP) — An autonomous robotic device for detecting microorganisms remotely using molecular probe technology,' Proc. OCEANS 2003: 1-7 (2003); Scholin CA et al., 'Remote detection of marine microbes, small invertebrates, harmful algae, and biotoxins using the Environmental Sample Processor (ESP),' Oceanography 22(2):158-167 (2009)
+- **ip status**: patented
+- **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
 
 ## Cepheid GeneXpert cartridge (2004)
 
@@ -125,6 +135,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: High-throughput lab-format qPCR cartridges spanning 96-well, 384-well, and 7K Array Card formats, with TaqMan probe chemistry. Architecturally a successor to traditional PCR plates with lab-automation integration. Significant for the FDA-authorized COVID-19 TaqPath test which became the dominant US laboratory-format SARS-CoV-2 PCR.
 
+## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
+
+- **id**: `hologic-panther-fusion-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Hologic / Gen-Probe
+- **disclosure**: Hologic Panther launch 2012-04; Panther Fusion launch 2017-09; FDA 510(k) K112113 (Panther); K173494 (Fusion module)
+- **ip status**: patented
+- **prior art notes**: Discloses the Panther/Fusion fluidic architecture: random-access processing of single-use Aptima Target Capture tubes containing magnetic capture oligonucleotide-functionalized beads — the bead/capture-oligo hybridizes the target nucleic acid before any amplification, washing away interferents (e.g., for urine and vaginal swab matrices); released targets are transferred to amplification tubes for either TMA (Panther main module: chemiluminescent detection via hybridization protection assay HPA) or RT-PCR (Panther Fusion module: real-time fluorescent multiplex). Anticipates: true random-access molecular analyzers integrating target capture + amplification + detection in a continuous single-tube workflow; HPA dual-kinetic-assay chemiluminescence as a non-amplification-coupled detection alternative to fluorescence; architectural separation of TMA and PCR onto distinct modules sharing the same sample handler.
+
+## Fluidigm C1 single-cell auto prep system (2012)
+
+- **id**: `fluidigm-c1-singlecell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluidigm Corp. (now Standard BioTools)
+- **disclosure**: Fluidigm Corp. C1 Single-Cell Auto Prep System product launch 2012. Pollen, A. A. et al. Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex. Nat. Biotechnol. 2014, 32, 1053-1058. DOI: 10.1038/nbt.2967.
+- **ip status**: patented
+- **prior art notes**: Pre-droplet commercial single-cell platform: a multilayer PDMS IFC with hydrodynamic capture sites and Quake-valve-controlled reagent chambers performs lysis, reverse transcription, and pre-amplification for 96 (or 800) single cells in parallel. Anticipates: integrated-valve-array single-cell prep architectures; the predecessor approach to droplet-based single-cell prep, with much lower throughput but full-length cDNA. The Pollen 2014 paper (and dozens of similar single-cell papers in 2013-2016) all use the C1; this is the architectural anchor for any 'integrated single-cell mRNA prep on chip' claim before droplets dominated.
+
 ## Standard BioTools (formerly Fluidigm) C1 single-cell genomics IFC (2013)
 
 - **id**: `standard-biotools-csg-fluidigm`
@@ -145,6 +175,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed a multiplex molecular diagnostic cartridge integrating sample prep, PCR amplification, and electrochemical detection on a printed gold electrode array (eSensor technology). Anticipates: electrochemical-array detection as alternative to optical fluorescence in syndromic POC molecular diagnostics, and the architectural pattern of integrating eSensor-style detection within a self-contained cartridge.
 
+## The ODIN DIY Genetic Engineering Kits (2015)
+
+- **id**: `the-odin-diy-genetic-eng-kits`
+- **corpus**: open
+- **device class**: other
+- **creator**: The ODIN (Josiah Zayner)
+- **disclosure**: The ODIN founded 2015 by Josiah Zayner; first public DIY CRISPR kit released 2016; https://www.the-odin.com; documented in Zayner J., 'A Step-by-Step Guide to DIY CRISPR' (2016 e-book) and extensive press coverage (NYT, Wired, MIT Tech Review)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses retail distribution of complete molecular-biology workflows to non-institutional users, including microfluidic-adjacent open hardware (PCR thermocycler, gel rig, mini-centrifuge) bundled with reagents and step-by-step protocols. The ODIN's open documentation of its kits' hardware (BOMs, schematics) and its written protocols are prior art against post-2016 'consumer molecular biology kit' patents and against many 'low-cost integrated PCR-and-gel cartridge' claims. Specifically anticipates: any patent claiming 'a consumer-grade integrated genetic engineering kit comprising thermocycling, electrophoresis, and reagent components.'
+
 ## Bento Bioworks Bento Lab portable PCR + electrophoresis (2016)
 
 - **id**: `bento-bio-engineer`
@@ -154,6 +194,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bento Bioworks Bento Lab. https://www.bento.bio
 - **ip status**: open-permissive
 - **prior art notes**: Portable laboratory in a briefcase combining centrifuge, PCR thermal cycler, and gel electrophoresis with open-source documentation. Sub-$2k consumer price point. Reference for the broader 'lab-in-a-box' movement bringing molecular biology infrastructure to citizen scientists, classrooms, and field-deployed contexts.
+
+## ISS WetLab-2 Real-Time RT-PCR on Station (2016)
+
+- **id**: `iss-wetlab-2-rt-pcr-on-station`
+- **corpus**: open
+- **device class**: lab-on-chip
+- **creator**: NASA Ames Research Center / Cepheid (SmartCycler thermal block heritage) / BioRad (CFX-derived optics)
+- **disclosure**: Parra M et al., 'Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station,' PLOS ONE 12(9):e0183480 (2017), doi:10.1371/journal.pone.0183480; NASA WetLab-2 facility description, ISS Research Office (2016)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an end-to-end RNA-extraction + RT-qPCR cartridge architecture qualified for microgravity. Element-by-element prior art: (a) the closed-cartridge magnetic-bead RNA extraction protocol with no open-air liquid transfer steps anticipates patents claiming aerosol-free spaceflight or BSL-3 nucleic acid extraction cartridges; (b) the validation of paramagnetic-bead binding/wash kinetics in zero-G is published prior art against any patent claiming novel microgravity-compatible bead handling; (c) the integration of off-the-shelf SmartCycler-class Peltier modules with a custom reaction tube format anticipates retrofit spaceflight diagnostic cartridge concepts. Combined with iss-biomolecule-sequencer-minion below, WetLab-2 establishes the full sample-prep + amplification + sequencing chain in spaceflight prior art.
+
+## Bento Lab Portable PCR + Centrifuge + Gel Workstation (2016-04)
+
+- **id**: `bento-lab-portable-pcr-bento-bio`
+- **corpus**: open
+- **device class**: other
+- **creator**: Bento Bioworks Ltd. (Wolfenden B., Boeing P.)
+- **disclosure**: Bento Lab Kickstarter campaign launched April 2016 by Bento Bioworks Ltd. (London) — Bethan Wolfenden, Philipp Boeing; https://www.bento.bio; product first shipped 2017
+- **ip status**: patented
+- **prior art notes**: Existing corpus entry 'bento-bio-engineer' covers Bento at the brand level. This entry pins the original Bento Lab product as a specific, dated disclosure (April 2016 Kickstarter, with public BOM/teardowns subsequently published) of an integrated portable thermocycler+centrifuge+gel-electrophoresis workstation. Specifically anticipates: 'portable integrated molecular-biology workstation' patent claims that read on the combination of <3 kg form factor, integrated thermocycler with PCR-tube format, integrated centrifuge with PCR-tube/strip format, integrated horizontal gel-electrophoresis with built-in transilluminator, and smartphone-app-driven thermocycling programs. Discloses element-by-element each of these subsystems in their integrated single-enclosure architecture.
 
 ## Cepheid Xpress (rapid GeneXpert) cartridge (2017)
 
@@ -165,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Newer family of Cepheid GeneXpert cartridges optimized for sub-30-minute runtime: Xpert Xpress Flu/RSV, Xpert Xpress SARS-CoV-2, Xpert Xpress Strep A. Architecturally identical to original GeneXpert cartridge with optimized chemistry (faster amplification cycles, multiplexed assays).
 
+## Abbott Alinity m Molecular Diagnostics Sample-to-Result Cartridge (2017)
+
+- **id**: `abbott-alinity-m-molecular-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Laboratories (Abbott Molecular)
+- **disclosure**: Abbott Alinity m CE-IVD launch 2018; FDA 510(k) K191601 (HBV viral load); product datasheet 2018-09
+- **ip status**: patented
+- **prior art notes**: Discloses a tip-and-vessel cartridge architecture for magnetic-bead nucleic-acid extraction integrated with on-board real-time PCR amplification: a disposable plastic tip aspirates sample, mixes with lysis buffer and silica-coated magnetic beads, and the bead pellet is washed and eluted in a thermally cycled microreactor instrumented with multiplex fluorescence detection. Anticipates: random-access viral load PCR with single-use extraction tips, eliminating cross-contamination of the analyzer fluid path; per-sample disposable amplification well used as the optical detection cuvette; pre-loaded reagent strip with foil-pierce sequencing. Distinct from Cepheid GeneXpert (corpus) in extraction modality (tip-suspended vs glass-fiber column) and from Roche Cobas Liat (corpus) in modular continuous queueing.
+
 ## Visby Medical PCR cartridge (2018)
 
 - **id**: `visby-medical-cartridge`
@@ -174,6 +244,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Visby Medical respiratory and STI tests. FDA 510(k) family. https://www.visbymedical.com
 - **ip status**: patented
 - **prior art notes**: Single-use, palm-sized PCR cartridge with integrated optical detection and battery power; the test result is read by visual inspection of color-coded LEDs without requiring an instrument. Architecturally distinguished from Lucira (isothermal LAMP) by using true PCR thermal cycling on disposable. Anticipates: instrument-free thermal-cycled PCR cartridge with embedded heater and battery, and the device-disposable-as-instrument architectural collapse.
+
+## Open Bioeconomy Lab (2018)
+
+- **id**: `open-bioeconomy-lab-africa`
+- **corpus**: open
+- **device class**: other
+- **creator**: Open Bioeconomy Lab (Molloy J. et al.); Mboalab (Cameroon); Kumasi Hive (Ghana)
+- **disclosure**: Open Bioeconomy Lab founded 2018 by Jenny Molloy (U Cambridge) with partners in Ghana and Cameroon; https://openbioeconomy.org; ReClone enzyme distribution network site https://reclone.org
+- **ip status**: public-domain
+- **prior art notes**: Discloses open-source release of molecular-biology enzymes and distributed-manufacturing protocols for low-resource settings. Relevance to the microfluidics commons: many of the released protocols are explicitly designed to be executed in low-cost open microfluidic / chromatography hardware, and OBL is the de-facto distribution backbone for many post-2020 DIY-bio reagent kits used in open microfluidic LAMP/PCR cartridges. Specifically anticipates: any patent claiming 'distributed manufacturing of molecular biology reagents at point-of-use in low-resource settings via open hardware purification stacks.'
+
+## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
+
+- **id**: `dnanudge-rapid-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: DnaNudge Ltd. (Imperial College London spin-out)
+- **disclosure**: Gibani MM et al. Lancet Microbe 1(7):e300-e307 2020 doi:10.1016/S2666-5247(20)30121-X (CovidNudge clinical evaluation); UK MHRA authorization
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
 
 ## Environmental microbiome sample-to-sequencing cartridges (2024 academic) (2024)
 

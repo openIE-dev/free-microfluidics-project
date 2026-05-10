@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-electrowetting`
 
-**2 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed field-effect flow control: a gate electrode adjacent to a microfluidic channel modulates electroosmotic flow by directly modifying the local zeta potential, enabling integrated 'fluidic transistor' control. Anticipates: integrated electronic-microfluidic interface architecture, gate-controlled electroosmotic flow as a valve primitive, and the broader 'silicon-electronics-meets-microfluidics' tradition.
 
+## MicroCHIPS / Microchips Biotech Implantable Drug Reservoir Array (1999-01-28)
+
+- **id**: `microchips-biotech-implantable-reservoir`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Microchips Biotech Inc. (Langer / Cima MIT spin-out)
+- **disclosure**: Santini JT, Cima MJ, Langer R Nature 397:335-338 1999 doi:10.1038/16898; first-in-human Farra R et al. Sci Transl Med 4(122):122ra21 2012 doi:10.1126/scitranslmed.3003276
+- **ip status**: patented
+- **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
+
 ## Electrowetting-based actuation of liquid droplets for microfluidic applications (2000)
 
 - **id**: `pollack-2000-electrowetting-droplet`
@@ -34,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pollack, M. G.; Fair, R. B.; Shenderov, A. D. Electrowetting-based actuation of liquid droplets for microfluidic applications. Appl. Phys. Lett. 2000, 77, 1725–1726. DOI: 10.1063/1.1308534
 - **ip status**: patented
 - **prior art notes**: The foundational disclosure of electrowetting-on-dielectric (EWOD) for digital microfluidics. Demonstrated discrete water-droplet transport across an addressable electrode array under voltage control. Anticipates: addressable-electrode array DMF architecture, DC + AC EWOD actuation modes, droplet-merge / droplet-split / droplet-dispense as primitives, and the Advanced Liquid Logic / Illumina commercial DMF lineage. Together with Cho 2003 it defines the EWOD field.
+
+## Volta Labs Desktop digital microfluidics library prep (2023)
+
+- **id**: `volta-labs-desktop`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Volta Labs
+- **disclosure**: Volta Labs Desktop product launch 2023. https://voltalabs.com/. Spun out of MIT Sambasivan / Wang lab work on EWOD library prep.
+- **ip status**: patented
+- **prior art notes**: Commercial digital-microfluidics instrument focused on NGS library prep: an EWOD electrode array under an oil-coated glass top moves discrete reagent droplets through library-prep steps without bulk channels or pipettors. Anticipates: post-Illumina-DMF-acquisition (Advanced Liquid Logic) commercial DMF for genomics; integration with kit chemistries (NEB UltraExpress) tuned for the DMF format. Major prior art point: that EWOD library prep can match conventional library quality at production NGS scale - a claim several competitors will want to make.

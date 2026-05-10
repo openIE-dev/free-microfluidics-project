@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-magnetophoresis`
 
-**8 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -94,3 +94,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Liga, A.; Vliegenthart, A. D. B.; Oosthuyzen, W.; Dear, J. W.; Kersaudy-Kerhoas, M. Exosome isolation: a microfluidic road-map. Lab Chip 2015, 15, 2388–2394. DOI: 10.1039/C5LC00240K
 - **ip status**: patented
 - **prior art notes**: Composite reference for the microfluidic exosome / EV isolation subfield. Combines size-based (DLD adapted for sub-200-nm cutoff), affinity-based (immunomagnetic), and electrokinetic (DEP) strategies. Anticipates: clinical-grade microfluidic exosome isolation for liquid biopsy applications. Underlies commercial efforts by Exosome Diagnostics, NX Pharmagen, and academic spinouts.
+
+## Beckman Biomek i5 / i7 automated workstation (2016)
+
+- **id**: `beckman-biomek-iseries`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Beckman Coulter Life Sciences (Danaher)
+- **disclosure**: Beckman Coulter Biomek i-Series launch 2016. https://www.beckman.com/liquid-handlers/biomek-i7. Successor to Biomek FX/NX (1990s-2000s).
+- **ip status**: patented
+- **prior art notes**: Dual-arm air-displacement liquid handler with hot-swappable 96-channel and 384-channel pods, deck-mounted positive-pressure / vacuum modules, and magnetic-bead processing carriers. Anticipates: dual-pod-on-single-deck liquid-handling architectures; the explicit integration of magnetic-bead and vacuum SPE workflows directly onto a pipetting robot deck; the (now standard) Biomek-style scripting model for NGS library prep. Major back-end automation for clinical NGS, with an installed base measured in tens of thousands.
+
+## Singleron Matrix microwell single-cell platform (2020)
+
+- **id**: `singleron-matrix-microwell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies Matrix product launch 2020. https://singleronbio.com/. Dura, B. et al. scFTD-seq: freeze-thaw lysis based, portable approach toward high-density scRNA-seq. Nucleic Acids Res. 2019, 47, e16. DOI: 10.1093/nar/gky1173 (foundational microwell architecture).
+- **ip status**: unknown
+- **prior art notes**: Microwell-array single-cell platform analogous to BD Rhapsody and HIVE: cells and barcoded beads gravity-loaded into picoliter microwells in a thermoplastic chip, lysed in-well, and beads collected magnetically. Anticipates: the architectural convergence on picoliter-microwell-plus-barcoded-bead single-cell prep across multiple vendors and geographies, which is a major prior-art counter to broad claims attempting to monopolize that architecture.
+
+## Miltenyi CliniMACS Prodigy Adapt module (2023)
+
+- **id**: `miltenyi-prodigy-adapt`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Miltenyi Biotec
+- **disclosure**: Miltenyi Biotec CliniMACS Prodigy Adapt product launch. https://www.miltenyibiotec.com/global/en/products/clinimacs-prodigy-adapt.html (announced 2023; references parent CliniMACS Prodigy patent family).
+- **ip status**: patented
+- **prior art notes**: Extension module to the CliniMACS Prodigy closed-cartridge platform that adds higher-throughput and adaptable process steps for allogeneic cell therapies (gene-edited NK, iPSC-derived, off-the-shelf CAR-T). Architecturally significant as the first commercial closed cartridge to integrate selection, activation, transduction/electroporation, expansion, formulation, and fill-finish for allogeneic products in a single disposable. Anticipates: closed-cartridge architectures supporting multi-modal gene delivery (lentiviral, electroporation, chemical) and continuous selection across multiple cell types within one disposable; modular extensions to GMP cartridge platforms.

@@ -6,14 +6,74 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**1 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2026-01-19
+Earliest disclosure: 2003
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hamilton Microlab STAR liquid handler (2003)
+
+- **id**: `hamilton-microlab-star`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Company
+- **disclosure**: Hamilton Company Microlab STAR product literature. https://www.hamiltoncompany.com/automated-liquid-handling/platforms/microlab-star. Hamilton STAR family launched ~2003.
+- **ip status**: patented
+- **prior art notes**: Air-displacement multi-channel pipettor with the proprietary CO-RE (compressed O-ring expansion) tip-locking mechanism: a tapered steel mandrel expands an internal O-ring inside a disposable tip to form a leak-free seal without forceful press-fit. Anticipates: air-displacement liquid handlers with sealing-mandrel disposable tips; integration of pressure-sensor monitoring (MAD) for liquid-level and clog detection; the integration of microfluidic add-on modules (for example Hamilton's NIMBUS / STAR with chip-based options) on a 96/384-channel automation backbone. Foundational prior art for any 'air-displacement multi-channel head with monitored aspiration' claim post-2003.
+
+## Future Chemistry FlowStart Evo and FlowSyn (FutureChem BV) (2008)
+
+- **id**: `future-chemistry-flowstart`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Future Chemistry BV (Nijmegen, NL)
+- **disclosure**: Future Chemistry BV product launch FlowStart 2008; van der Linden, J. J. M.; Hilberink, P. W.; Kronenburg, C. M. P.; Kemperman, G. J. 'Investigation of the Moffatt-Swern oxidation in a continuous flow microreactor system' Org. Process Res. Dev. 2008, 12, 911–920; Future Chemistry datasheet rev 2010
+- **ip status**: patented
+- **prior art notes**: Discloses an educational/screening-grade glass microreactor platform with: (a) Peltier-cooled chip holder integrated with pump electronics to enable continuous flow at -40 °C (Swern oxidation, lithiation chemistry); (b) clamped borosilicate chip with sequential T-mixer geometry; (c) protocolized 'reaction starter kits' enabling teaching of flow chemistry by reproducing well-known wet-chemistry exemplars. Anticipates patent claims directed to integrated cryogenic chip holders for continuous-flow chemistry, and education-grade flow chemistry packages bundling chip, pump, holder, and protocol library.
+
+## Intarcia ITCA 650 Implantable Osmotic Mini-Pump (Exenatide) (2008)
+
+- **id**: `intarcia-itca-650-osmotic-pump`
+- **corpus**: private
+- **device class**: pump-component
+- **creator**: Intarcia Therapeutics Inc.
+- **disclosure**: Intarcia Therapeutics 10-K filings; clinical trial NCT01455896 (FREEDOM-1) 2012; FDA CRL 2017 / 2020
+- **ip status**: patented
+- **prior art notes**: Discloses a fully implantable osmotic micropump in titanium alloy housing where water osmotically infuses through a controlled-permeability membrane into an osmotic-engine compartment, the engine swells and pushes a piston advancing concentrated peptide formulation through a delivery orifice at sub-microliter-per-day rates for 6-12 months. Anticipates: long-term implantable osmotic mini-pumps for peptide drug delivery; the entire DUROS architecture pattern of titanium tube + semipermeable membrane + osmotic engine + piston + orifice; constant-rate sub-microliter dispensing without electronics or batteries.
+
+## Chemtrix Labtrix S1 (2009)
+
+- **id**: `chemtrix-labtrix-s1`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Chemtrix BV
+- **disclosure**: Chemtrix BV product launch, Labtrix Start (2008) and Labtrix S1 (2009); Hessel, V.; Cortese, B.; de Croon, M. H. J. M. 'Novel process windows — concept, proposition and evaluation methodology, and intensified superheated processing' Chem. Eng. Sci. 2011, 66, 1426–1448; Chemtrix Labtrix S1 datasheet 2009
+- **ip status**: patented
+- **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
+
+## Beckman Biomek i5 / i7 automated workstation (2016)
+
+- **id**: `beckman-biomek-iseries`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Beckman Coulter Life Sciences (Danaher)
+- **disclosure**: Beckman Coulter Biomek i-Series launch 2016. https://www.beckman.com/liquid-handlers/biomek-i7. Successor to Biomek FX/NX (1990s-2000s).
+- **ip status**: patented
+- **prior art notes**: Dual-arm air-displacement liquid handler with hot-swappable 96-channel and 384-channel pods, deck-mounted positive-pressure / vacuum modules, and magnetic-bead processing carriers. Anticipates: dual-pod-on-single-deck liquid-handling architectures; the explicit integration of magnetic-bead and vacuum SPE workflows directly onto a pipetting robot deck; the (now standard) Biomek-style scripting model for NGS library prep. Major back-end automation for clinical NGS, with an installed base measured in tens of thousands.
+
+## OSIRIS-REx TAGSAM (Touch-and-Go Sample Acquisition Mechanism) (2017)
+
+- **id**: `osiris-rex-tagsam-bennu-sample`
+- **corpus**: academic
+- **device class**: chip-holder
+- **creator**: Lockheed Martin Space / NASA Goddard / University of Arizona (D. Lauretta PI)
+- **disclosure**: Bierhaus EB et al., 'The OSIRIS-REx Spacecraft and the Touch-and-Go Sample Acquisition Mechanism (TAGSAM),' Space Science Reviews 214:107 (2018), doi:10.1007/s11214-018-0521-6; Lauretta DS et al., 'Asteroid (101955) Bennu in the laboratory: Properties of the sample collected by OSIRIS-REx,' Meteoritics & Planetary Science 59:2453 (2024)
+- **ip status**: patented
+- **prior art notes**: The TAGSAM head is a gas-fluidized sample acquisition cartridge — relevant to the microfluidics corpus as a non-canonical fluidic system: pressurized N2 jets fluidize asteroid regolith into the collection chamber, then the chamber is sealed with an O-ring against contamination. Element-by-element prior art for: (a) gas-fluidized loose-particulate sampling cartridges with sealed return architecture (anticipates terrestrial industrial fluid-bed dry-sample collectors and bio-aerosol capture cartridges); (b) the integration of multiple sample-capture methods on one head (gas jets + Velcro contact pads) anticipates patents claiming hybrid dry-sampling cartridges; (c) the curation chain from in-flight sealed canister -> Earth-return capsule -> JSC nitrogen glove-box curation establishes a published cleanroom protocol for friable carbonaceous samples that anticipates Mars Sample Return curation patents. Patent citation is for the Lockheed-developed sample capture architecture.
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

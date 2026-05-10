@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**19 corpus entries disclose this subsystem.**
+**43 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1968
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hertz–Simonsson Continuous Inkjet (Lund Institute) (1965)
+
+- **id**: `hertz-simonsson-1965-lund-cij`
+- **corpus**: academic
+- **device class**: inkjet-printhead
+- **creator**: Carl Hellmuth Hertz and Sven Simonsson, Lund Institute of Technology
+- **disclosure**: Swedish patent application by C. H. Hertz and S. Simonsson, Lund Institute of Technology, 1965; US Patent 3,416,153 issued 1968-12-10
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous inkjet method in which a pressurized fluid is forced through a small orifice while a piezoelectric transducer modulates the jet to produce a uniform stream of droplets, and an electrostatic field controllably disperses charged droplets to vary the number that pass an aperture and reach the substrate, thereby producing greyscale by stochastic drop attenuation rather than binary deflection. Anticipates: (a) Hertz-style 'binary disperse' CIJ greyscale printing later commercialized by Iris Graphics and Stork; (b) the use of a vibrating glass capillary as the drop-generation primitive; (c) charge-based per-drop selection downstream of break-off. Foundational to all multi-tone continuous inkjet imaging.
 
 ## Sysmex hematology analyzer flow cell (1968)
 
@@ -45,6 +55,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of integrated-blood-gas-and-chemistry POC cartridge: a single-use cartridge with sample-handling chamber, calibrant pouch, electrochemical sensor array, and reagent reservoirs in injection-molded thermoplastic. The i-STAT cartridge is among the longest-running and highest-volume POC cartridges in clinical use (1990s onward). Anticipates: integrated-biochemistry-cartridge architecture combining electrolyte, blood gas, and metabolite measurements in a single bedside device.
 
+## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
+
+- **id**: `roche-elecsys-ecl-reagent-cassette`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Roche Diagnostics (formerly Boehringer Mannheim) / IGEN International (ECL chemistry)
+- **disclosure**: Roche/Boehringer Mannheim Elecsys 2010 immunoassay analyzer launch 1996; J. Clin. Lab. Anal. 1998 evaluation; US patents 5,238,808 and 5,310,687 (Boehringer Mannheim ECL cell)
+- **ip status**: patented
+- **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
+
+## Cygnus GlucoWatch G2 Biographer (1999-12-06)
+
+- **id**: `cygnus-glucowatch-biographer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Cygnus Inc.
+- **disclosure**: FDA PMA P990026 December 6 1999 (first wearable continuous glucose monitor cleared in US); Tamada JA et al. JAMA 282(19):1839-1844 1999 doi:10.1001/jama.282.19.1839
+- **ip status**: patented
+- **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
+
 ## Werfen GEM Premier 5000 blood gas cartridge (2002)
 
 - **id**: `instrumentation-laboratory-gem-premier`
@@ -65,6 +95,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: POC blood gas / chemistry / hematology cartridge with disposable test card and Bluetooth-connected reader. Architectural cousin of i-STAT in the same product category. Smaller cartridge form factor and Bluetooth-rather-than-direct-instrument architecture are differentiators.
 
+## Nova StatStrip Glucose/Ketone Hospital Test Strip (2006)
+
+- **id**: `nova-statstrip-glucose-strip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Nova Biomedical
+- **disclosure**: Nova Biomedical StatStrip Glucose 510(k) K061893 cleared 2006-12; first FDA-cleared glucose strip for critically ill patients (2014 K140509)
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-electrode glucose test strip with on-strip interferent correction electrodes: in addition to the main GDH-mediator amperometric working electrode, additional working electrodes detect Hct (impedance), oxidizable interferents (acetaminophen, urate, ascorbate, dopamine), and reducing sugars (maltose, galactose, xylose), with the meter algorithm subtracting interferent contribution from glucose readout. Anticipates: multi-channel POC glucose strips with on-strip interferent correction; Hct compensation electrodes integrated into the same capillary chamber; FDA-clearable strip-based POC glucose for critically ill (where interfering substances and abnormal Hct break older single-electrode strips). Foundational to the Nova approach extending to lactate, ketone, and creatinine strips.
+
+## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
+
+- **id**: `roche-cobas-6000-modular-fluidics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Diagnostics
+- **disclosure**: Roche Diagnostics Cobas 6000 product launch 2007; AACC product showcase; FDA 510(k) K072321 (c501 module)
+- **ip status**: patented
+- **prior art notes**: Discloses a modular clinical analyzer fluidics architecture: a single primary-tube sample-handling rail introduces blood/serum/plasma to multiple specialized assay modules (photometric c501 with permanent cuvette wheel; electrochemiluminescence e601 with disposable ECL cups containing electrode-paramagnetic-bead capture). The c501 module uses a thermostatted rotary cuvette wheel with washable permanent cuvettes; the e601 uses single-use polypropylene assay cups with integrated read-while-flow ECL detection at a Pt working electrode. Anticipates: hybrid permanent-cuvette + disposable-cup analyzer trains; ruthenium-tag ECL detection in disposable cups with paramagnetic bead capture and on-electrode wash; modular interconnect of clinical chemistry and immunoassay sharing primary-tube sample handler.
+
+## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
+
+- **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Siemens Healthineers (formerly Bayer Diagnostics)
+- **disclosure**: Siemens RAPIDPoint 500 510(k) K080776 cleared 2008; product datasheet 2008-09; predecessor RAPIDLab 1265 patents (Bayer Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Discloses an all-in-one POC blood gas cartridge integrating: thick-film potentiometric ISE array (pH, pCO2, pNa, pK, pCa, pCl), amperometric pO2 + glucose + lactate enzyme electrodes, and a multi-wavelength CO-oximetry cuvette for total Hb fractionation, all sharing a peristaltic-pump-driven flow path; reagent/calibrant/wash bags integrated into the cartridge body and pierced by mechanical actuators inside the analyzer; auto-calibration runs between samples without user intervention; cartridge-resident sample volume <100 µL. Anticipates: long-life POC blood-gas cartridges with on-board reagent storage and integrated CO-oximetry — the architectural pattern dominating ICU/ER/OR analyzers. Differs from Werfen GEM Premier (separate entry) in cartridge design (Siemens' 'measurement cartridge' separates sensors from reagents).
+
+## Phoenix Mars Lander MECA Wet Chemistry Laboratory (WCL) (2008)
+
+- **id**: `phoenix-meca-wet-chemistry-lab`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA Jet Propulsion Laboratory / Tufts University (Kounaves) / University of Arizona (Hecht PI)
+- **disclosure**: Hecht MH et al., 'Detection of Perchlorate and the Soluble Chemistry of Martian Soil at the Phoenix Lander Site,' Science 325(5936):64-67 (2009), doi:10.1126/science.1172466; Kounaves SP et al., 'The MECA Wet Chemistry Laboratory on the 2007 Phoenix Mars Scout Lander,' JGR Planets 114:E00A19 (2009), doi:10.1029/2008JE003084
+- **ip status**: public-domain
+- **prior art notes**: Discloses a planetary in-situ wet chemistry cartridge architecture: a sealed disposable reaction beaker with integrated multi-ion electrochemical sensor array on the cell wall, dry-stored reagent pellets released by a mechanical dispenser, and a magnetic stir bar for homogenization. Element-by-element prior art for: (a) any cartridge claim that integrates an ISE array on a single beaker wall with a multi-ion readout (Li, Na, K, NH4, Mg, Ca, Cl, NO3, Br, perchlorate-sensitive); (b) the standard-addition titration protocol implemented through sequential dry-pellet dissolution (the BaCl2 -> SO4 turbidity step, the HNO3 acidification step) anticipates patents on dry-reagent diagnostic cartridges that perform sequential reagent additions for water-quality analysis; (c) the integration of cyclic voltammetry on the same beaker as ion-selective potentiometry anticipates multi-modal electrochemical cartridge designs. The Phoenix WCL is one of two flight precedents (with Viking Biology Instrument) for in-situ aqueous chemistry on a planetary surface.
+
+## Abbott FreeStyle Navigator Continuous Glucose Monitor (2008-03-12)
+
+- **id**: `abbott-freestyle-navigator-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Diabetes Care
+- **disclosure**: FDA PMA P050020 March 12 2008; Abbott press release 2008
+- **ip status**: patented
+- **prior art notes**: Discloses Heller's wired-enzyme (osmium polymer) electrode architecture in a wearable subcutaneous filament for continuous glucose monitoring. Anticipates: redox-polymer-mediator electrode chemistry as alternative to peroxide-detection glucose-oxidase systems; the entire architectural pattern of insertable filament + on-skin transmitter that defined the Libre and Navigator lines.
+
 ## Single-molecule DNA sequencing through nanopore (2009)
 
 - **id**: `clarke-2009-nanopore-sequencing`
@@ -84,6 +164,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Genia Technologies (acquired by Roche 2014). Architectural disclosures in patents and subsequent Roche Sequencing Solutions publications.
 - **ip status**: patented
 - **prior art notes**: Roche's silicon-CMOS nanopore sequencing platform: each nanopore is co-fabricated with its own integrated current-amplifier and ADC on a CMOS chip. Architecturally distinct from Oxford Nanopore's printed-electrode-array approach by integrating sense electronics directly into the silicon chip. Roche announced exit from sequencing 2024; the IP and architectural disclosures remain part of the foundational nanopore patent thicket.
+
+## Cytiva ÄKTA ready single-use chromatography skid (2009)
+
+- **id**: `cytiva-akta-ready`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cytiva (Danaher; formerly GE Healthcare)
+- **disclosure**: GE Healthcare (now Cytiva) ÄKTA ready launch 2009. Cytiva Application Note 28-9408-25 AB. Underlying single-use flow-path patent family: US8221629B2 (GE Healthcare; priority 2007).
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use chromatography skid in which the entire wetted flow path (tubing, valves, sensors, filters) is supplied as a pre-assembled gamma-irradiated disposable, eliminating clean-in-place validation between batches. Anticipates: (a) fully single-use chromatography skids as a category, including for CGT viral-vector downstream processing; (b) integration of disposable in-line UV, conductivity, and pH sensors into the chromatography flow path; (c) modular interchangeability between disposable flow paths and pre-packed chromatography columns. The single-use skid pattern is the dominant downstream bioprocessing architecture for new-build AAV and lentivirus manufacturing facilities.
+
+## Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette (2009)
+
+- **id**: `radiometer-abl90-flex-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Radiometer Medical (Danaher)
+- **disclosure**: Radiometer ABL90 FLEX launch 2009-09; FDA 510(k) K093103; ABL90 FLEX PLUS update 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
 ## µPADs II / III: Systematic Whitesides disclosures (2010)
 
@@ -175,6 +275,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial pioneer in skin-conformal flexible electronic and microfluidic patches for clinical-grade physiological monitoring. Architectural ancestor of much of the modern wearable-microfluidic landscape — anticipates: ultra-thin flexible substrate + integrated electronics + microfluidic-equivalent fluid handling, deployed at clinical-trial scale before the academic literature peaked.
 
+## Eccrine Systems Continuous Sweat Sensor Platform (2014)
+
+- **id**: `eccrine-systems-sweat-platform`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Eccrine Systems Inc. (Cincinnati spin-out, Heikenfeld lab)
+- **disclosure**: Heikenfeld J et al. (founder publications) Lab Chip 14:79-88 2014 doi:10.1039/c3lc50924g; company technology disclosures 2014-2018
+- **ip status**: patented
+- **prior art notes**: Discloses integrated wearable platform combining iontophoretic sweat-stimulation electrode pad with a microfluidic wick collecting sweat from the stimulated gland orifice and transporting it to multiplexed electrochemical/aptamer sensors. Anticipates: integrated sweat-induction-plus-collection-plus-sensing wearable architectures; aptamer-based wearable cortisol biosensors; routing of microliter sweat volumes from gland to sensor through thin paper-elastomer hybrid wicks.
+
+## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
+
+- **id**: `werfen-gem-premier-5000-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Instrumentation Laboratory / Werfen
+- **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
+
+## Dexcom G5 Mobile Continuous Glucose Monitor (2015-08-24)
+
+- **id**: `dexcom-g5-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Dexcom Inc.
+- **disclosure**: FDA PMA P120005/S041 supplement August 2015; Dexcom press release 2015-08-24
+- **ip status**: patented
+- **prior art notes**: Predecessor to G6 (already in corpus). Discloses subcutaneous platinum filament with multilayer polymer envelope (interferent-blocking layer / glucose-oxidase enzyme layer / diffusion-limiting outer polymer). Anticipates: smartphone-tethered CGM data architectures and the multilayer membrane chemistry approach used across modern CGMs.
+
 ## Wearable sweat sensors with multiplexed biosensing (2016)
 
 - **id**: `gao-2016-sweat-sensor-wearable`
@@ -184,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gao, W.; Emaminejad, S.; Nyein, H. Y. Y.; Challa, S.; Chen, K.; Peck, A.; Fahad, H. M.; Ota, H.; Shiraki, H.; Kiriya, D.; Lien, D.-H.; Brooks, G. A.; Davis, R. W.; Javey, A. Fully integrated wearable sensor arrays for multiplexed in situ perspiration analysis. Nature 2016, 529, 509–514. DOI: 10.1038/nature16521
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of fully integrated wearable sweat sensor: flexible PCB with multiple ion-selective electrodes, wireless transmission, and integrated microfluidic-equivalent sweat-collection layer. Anticipates: skin-conformal microfluidic sensor architecture, real-time multiplexed sweat metabolite monitoring, and the entire wearable-microfluidic-biosensor commercial category subsequently pursued by Epicore Biosystems, Nix Biosensors, and major sports-physiology efforts.
+
+## Nemaura SugarBEAT Transdermal CGM Patch (2016-05)
+
+- **id**: `nemaura-sugarbeat-transdermal`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Nemaura Medical Inc.
+- **disclosure**: Nemaura Medical CE Mark announcement 2016; Nemaura SEC filings (10-K) and clinical trial NCT02942888
+- **ip status**: patented
+- **prior art notes**: Discloses a daily-disposable transdermal patch that uses low-current iontophoresis to extract glucose into a thin hydrogel film and a screen-printed amperometric sensor for readout. Effectively a modernized GlucoWatch with patch (rather than watch) form factor. Anticipates: daily-disposable transdermal-extraction CGM patches; consumer-wellness positioning for non-invasive glucose tracking; layered-hydrogel sample-collection architectures behind a skin-contact membrane.
 
 ## Medtronic MiniMed 780G insulin pump cartridge (2017)
 
@@ -195,6 +335,86 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Long-lived insulin pump platform with integrated CGM (continuous glucose monitor) and closed-loop dosing algorithm. The CGM cartridge involves microfluidic-equivalent transcutaneous glucose sensing. Architectural precedent for closed-loop sense+dose wearable microfluidic systems.
 
+## LumiraDx Point-of-Care Platform Microfluidic Test Strip (2017)
+
+- **id**: `lumiradx-platform-microfluidic-strip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: LumiraDx Limited
+- **disclosure**: LumiraDx Platform CE-IVD launch 2017-12; SARS-CoV-2 Ag EUA 2020-08-18; INR strip 510(k) K191167; D-dimer 510(k) K203049
+- **ip status**: patented
+- **prior art notes**: Discloses a unified POC platform architecture: a single handheld electromechanical reader (with electrical contacts, optical excitation, and pneumatic/mechanical actuators) accepts a family of injection-molded microfluidic test strips, each pre-loaded with assay-specific dry reagents in metered zones along a capillary-driven flow path. The strip-level architecture pattern: sample inlet → capillary metering → dry-reagent rehydration mixer → optional incubation serpentine → detection chamber (electrochemical for INR/glucose; fluorescence for SARS-CoV-2 Ag, NT-proBNP, hsTnI). Anticipates: single-reader-multi-assay POC platforms using injection-molded microfluidic strips with assay-class-specific detection chambers; the commercial scaling pattern of strip manufacturing as the unit-economics enabler for menu breadth. Differs from i-STAT (single class: electrochemistry) and Sofia (single class: fluorescent immunoassay) by spanning electrochemistry + fluorescence on the same instrument.
+
+## GraphWear Non-Invasive Glucose Monitor (2017)
+
+- **id**: `graphwear-non-invasive-glucose`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: GraphWear Technologies Inc.
+- **disclosure**: GraphWear Technologies pitch & product disclosures (Y Combinator W17 batch); company website disclosures
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable patch using a graphene-functionalized electrode to detect glucose in sweat or interstitial fluid that reaches the skin surface, without piercing skin. Limited primary clinical validation; company has been in development for years. Anticipates: graphene-affinity-electrode wearable biosensor architectures.
+
+## Kenzen ECHO H2 Smart Patch (2017-01-05)
+
+- **id**: `kenzen-echo-h2-sweat-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Kenzen Inc.
+- **disclosure**: Kenzen Inc. CES 2017 launch announcement; company white paper 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable sweat-collecting patch with capillary wicking layer feeding electrochemical electrodes that quantify electrolytes and biomarkers continuously. Marketed for occupational heat-stress monitoring (mining, military). Anticipates: continuous-monitoring industrial sweat patches; multi-biomarker electrochemical sensing on a wearable substrate.
+
+## Medtronic Guardian Connect / Guardian 3 Sensor (2017-03)
+
+- **id**: `medtronic-guardian-3-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Medtronic Diabetes
+- **disclosure**: FDA approval (Guardian Connect) March 2018; Medtronic press release 2017 (Guardian Sensor 3 with MiniMed 670G launch); FDA P160017 (670G system)
+- **ip status**: patented
+- **prior art notes**: Subcutaneous amperometric glucose sensor with multi-electrode redundancy (at least two working electrodes whose ISIG is fused to reject motion artifact). Discloses the architecture of pairing a CGM with an automated insulin pump for closed-loop control. Anticipates: redundant-electrode CGM filament architectures; CGM-pump integration topology in the SmartGuard / Auto Mode hybrid closed loop family.
+
+## Abbott i-STAT Alinity Handheld Blood Analysis Cartridge (2018)
+
+- **id**: `abbott-istat-alinity-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Point of Care
+- **disclosure**: Abbott i-STAT Alinity FDA 510(k) K172011 cleared 2018-01-10; product launch press release 2018-02
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
+
+## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
+
+- **id**: `dexcom-g6-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Dexcom Inc.
+- **disclosure**: FDA 510(k) clearance DEN170088 (Dexcom G6, March 27 2018); Dexcom press release March 27 2018; US patent 9,724,025 (in vivo glucose sensor)
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable CGM in which a thin polymer-membrane-coated platinum filament is inserted subcutaneously by a single-use applicator and continuously samples interstitial fluid via passive diffusion across an outer biocompatible polymer (the diffusion-limiting membrane). The membrane stack creates a microliter-scale sample envelope at the electrode surface where glucose oxidase generates hydrogen peroxide that is amperometrically quantified. Anticipates: factory-calibrated subcutaneous glucose sensors with diffusion-limited polymer envelopes; single-button push insertion of a microneedle-style sensor with auto-retraction; transmitter-on-patch architectures using BLE telemetry. Element-by-element it teaches every subsystem now considered standard for CGMs except the redox mediator chemistry choice.
+
+## AfaSci-style Wearable Cortisol Sensor (sweat cortisol aptamer wearable, multi-author) (2018-06-25)
+
+- **id**: `afasci-wearable-cortisol`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Parlak O, Salleo A et al. (Stanford)
+- **disclosure**: Parlak O et al. Sci Adv 4(7):eaar2904 2018 doi:10.1126/sciadv.aar2904 (molecularly selective electrochemical sweat cortisol patch)
+- **ip status**: unknown
+- **prior art notes**: Academic prior-art entry covering the wearable-cortisol-patch class. Discloses sweat-collecting wearable patch with molecularly imprinted polymer recognition layer and electrochemical readout for cortisol. Anticipates: wearable hormone sensing architectures combining a microfluidic sweat-collection layer with affinity-functionalized electrodes.
+
+## Biolinq Intradermal Microneedle CGM Patch (2019)
+
+- **id**: `biolinq-intradermal-microneedle-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Biolinq Inc. (formerly Electrozyme)
+- **disclosure**: Biolinq Inc. corporate disclosures; clinical trial NCT04790344 2021; Krishnan SR et al. for Biolinq founder publications
+- **ip status**: patented
+- **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
+
 ## Dexcom G7 continuous glucose monitor sensor (2022)
 
 - **id**: `dexcom-g7-cgm`
@@ -204,3 +424,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dexcom G7 Continuous Glucose Monitoring System. https://www.dexcom.com
 - **ip status**: patented
 - **prior art notes**: Skin-mounted continuous glucose monitor with subcutaneous enzymatic glucose sensor wire and integrated wireless transmitter. Architecturally a wearable microfluidic-equivalent biosensor: the sensor wire performs enzymatic glucose oxidation at sub-mm scale with electrochemical detection. The Dexcom and Abbott Libre CGM cartridges are the highest-volume wearable biosensors deployed globally (~10s of millions of units annually).
+
+## Medtronic Simplera Disposable CGM (2023-09-21)
+
+- **id**: `medtronic-simplera-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Medtronic Diabetes
+- **disclosure**: Medtronic press release 2023-09-21 (CE Mark); FDA clearance K232973 August 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable CGM in which the sensor electronics, applicator, and on-skin patch are unified into a single throwaway unit (versus reusable transmitter clipping onto disposable sensor base). Anticipates: integrated-electronics disposable CGM architecture; one-handed two-step insertion mechanisms; the consumer simplification driving the all-in-one form factor adopted by Dexcom G7 and Abbott Libre 3.
+
+## Dexcom Stelo Glucose Biosensor System (2024-03-05)
+
+- **id**: `dexcom-stelo-otc-cgm`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Dexcom Inc.
+- **disclosure**: FDA De Novo DEN230071 March 5 2024 (first OTC CGM clearance); Dexcom press release 2024-03-05
+- **ip status**: patented
+- **prior art notes**: OTC variant of Dexcom G7 sensor stack with extended wear time and consumer-grade alerting (no high/low alarms). Same enzymatic membrane architecture as G6/G7. Anticipates: OTC regulatory pathway for amperometric subcutaneous biosensors; consumer wellness positioning for CGMs without diabetes label.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**13 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Piepenburg, O.; Williams, C. H.; Stemple, D. L.; Armes, N. A. DNA detection using recombination proteins. PLOS Biol. 2006, 4, e204. DOI: 10.1371/journal.pbio.0040204
 - **ip status**: patented
 - **prior art notes**: Disclosed recombinase polymerase amplification (RPA): nucleic acid amplification at low constant temperature (37–42 °C) using bacterial recombinase proteins to drive primer-template recognition without thermal denaturation. Even simpler thermal-management requirements than LAMP. Anticipates: low-temperature isothermal NAAT compatible with body-temperature operation and battery-powered POC cartridges. Used in TwistDx (acquired by Abbott 2018), Visby Medical, and several pandemic-response platforms.
+
+## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
+
+- **id**: `hologic-panther-fusion-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Hologic / Gen-Probe
+- **disclosure**: Hologic Panther launch 2012-04; Panther Fusion launch 2017-09; FDA 510(k) K112113 (Panther); K173494 (Fusion module)
+- **ip status**: patented
+- **prior art notes**: Discloses the Panther/Fusion fluidic architecture: random-access processing of single-use Aptima Target Capture tubes containing magnetic capture oligonucleotide-functionalized beads — the bead/capture-oligo hybridizes the target nucleic acid before any amplification, washing away interferents (e.g., for urine and vaginal swab matrices); released targets are transferred to amplification tubes for either TMA (Panther main module: chemiluminescent detection via hybridization protection assay HPA) or RT-PCR (Panther Fusion module: real-time fluorescent multiplex). Anticipates: true random-access molecular analyzers integrating target capture + amplification + detection in a continuous single-tube workflow; HPA dual-kinetic-assay chemiluminescence as a non-amplification-coupled detection alternative to fluorescence; architectural separation of TMA and PCR onto distinct modules sharing the same sample handler.
 
 ## Abbott ID NOW isothermal amplification cartridge (2014)
 
@@ -65,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Foundational review establishing microfluidic waterborne pathogen detection as a coherent subfield: integration of sample-prep (filtration, concentration), nucleic-acid extraction, isothermal amplification, and integrated detection on portable cartridges. Anticipates: water-quality cartridge architecture for field deployment, distinct from clinical POC cartridges by emphasizing large-volume sample concentration upstream of small-volume analytical chamber. Underlies subsequent commercial efforts by ALS Limited, IDEXX Colilert systems, and academic agricultural-water-quality startups.
 
+## HP Multi Jet Fusion Thermal-Agent Inkjet Array (2014)
+
+- **id**: `hp-multi-jet-fusion-thermal-agent-array`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: HP Inc.
+- **disclosure**: HP MJF technology white paper (h20195.www2.hp.com/v2/GetPDF.aspx/4aa6-8157eew.pdf and 4AA6-4892EEAU.pdf); HP MJF launch announcement 2014
+- **ip status**: patented
+- **prior art notes**: Discloses an additive-manufacturing process in which an HP-style thermal inkjet pagewide bar selectively jets a fusing agent (carbon-black-loaded ink absorbing IR) and a detailing agent (cooling/anti-fusing ink) onto a layer of polymer powder, after which a broadband IR lamp passes over the bed and selectively fuses the printed regions per voxel. Anticipates: (a) the use of a TIJ pagewide array as the patterning primitive for a powder-bed fusion process (rather than as the print engine), (b) per-voxel fusion modulation by combinations of two jetted reagents (fusing × detailing), (c) integration of broadband IR fusion immediately downstream of the print bar in a single pass. Predicate to HP MJF 3D 4200/5200/5210 and HP Metal Jet Fusion lines and to imitators using TIJ as a powder-bed agent dispenser.
+
 ## SHERLOCK CRISPR-Cas13 nucleic acid detection (2017)
 
 - **id**: `gootenberg-zhang-2017-sherlock`
@@ -94,6 +114,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Myhrvold, C. et al. Field-deployable viral diagnostics using CRISPR-Cas13. Science 2018, 360, 444–448. DOI: 10.1126/science.aas8836
 - **ip status**: patented
 - **prior art notes**: Disclosed SHINE: SHERLOCK + paper-strip lateral-flow readout, allowing fully field-deployable CRISPR diagnostic without instrumentation. Anticipates: paper-format CRISPR diagnostic architecture, integrating Cas13 collateral cleavage with lateral-flow visual readout. Direct ancestor of Sherlock Biosciences' commercial COVID-19 test.
+
+## Open Bioeconomy Lab (2018)
+
+- **id**: `open-bioeconomy-lab-africa`
+- **corpus**: open
+- **device class**: other
+- **creator**: Open Bioeconomy Lab (Molloy J. et al.); Mboalab (Cameroon); Kumasi Hive (Ghana)
+- **disclosure**: Open Bioeconomy Lab founded 2018 by Jenny Molloy (U Cambridge) with partners in Ghana and Cameroon; https://openbioeconomy.org; ReClone enzyme distribution network site https://reclone.org
+- **ip status**: public-domain
+- **prior art notes**: Discloses open-source release of molecular-biology enzymes and distributed-manufacturing protocols for low-resource settings. Relevance to the microfluidics commons: many of the released protocols are explicitly designed to be executed in low-cost open microfluidic / chromatography hardware, and OBL is the de-facto distribution backbone for many post-2020 DIY-bio reagent kits used in open microfluidic LAMP/PCR cartridges. Specifically anticipates: any patent claiming 'distributed manufacturing of molecular biology reagents at point-of-use in low-resource settings via open hardware purification stacks.'
+
+## Just One Giant Lab (JOGL) (2018)
+
+- **id**: `jogl-just-one-giant-lab`
+- **corpus**: open
+- **device class**: other
+- **creator**: JOGL (Santolini M., Landrain T., Blondel L.)
+- **disclosure**: JOGL launched 2018 by Marc Santolini, Thomas Landrain, Leo Blondel; https://app.jogl.io; OpenCovid19 initiative launched March 2020 publishing dozens of open microfluidic and diagnostic projects; documented in Santolini et al., 'JOGL: A platform for open and distributed scientific research', PLOS Biology 19:e3001020 (2021)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses a distributed open-research collaboration platform whose OpenCovid19 initiative published dozens of open microfluidic diagnostic designs (RT-LAMP cartridges, paper-based COVID tests, low-cost PCR cartridges) in 2020 with timestamped publication. Relevance: the JOGL OpenCovid19 archive is itself a citable prior-art trove for low-cost open RT-LAMP and paper-microfluidic COVID tests, and the JOGL platform model anticipates 'distributed federated open-science platforms with timestamped output suitable as defensive publication.'
 
 ## Lucira Health Check It home COVID-19 isothermal molecular test (2020)
 

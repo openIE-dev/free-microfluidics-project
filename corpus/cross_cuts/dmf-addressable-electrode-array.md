@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dmf-addressable-electrode-array`
 
-**4 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -54,3 +54,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fobel, R.; Fobel, C.; Wheeler, A. R. DropBot: an open-source digital microfluidics control system with precise control of electrostatic driving force and instantaneous drop velocity measurement. Appl. Phys. Lett. 2013, 102, 193513. DOI: 10.1063/1.4807118
 - **ip status**: open-permissive
 - **prior art notes**: Disclosed an open-source DMF (digital microfluidics) control system with software, electronics, and reference EWOD chip designs released under permissive license. Anticipates: open-source EWOD instrument architecture, real-time droplet velocity feedback as a control primitive, and Python-based DMF protocol scripting.
+
+## Illumina NeoPrep digital-microfluidic NGS library prep (2014-09-30)
+
+- **id**: `advanced-liquid-logic-illumina-neoprep`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Illumina (Advanced Liquid Logic acquisition)
+- **disclosure**: Illumina NeoPrep launch press release 2014-09-30; product withdrawn 2017. Pamula, V. K. et al. Advanced Liquid Logic digital microfluidic platform for sample prep. https://www.illumina.com (archived).
+- **ip status**: patented
+- **prior art notes**: First commercial DMF-based NGS library prep instrument: Illumina productized the Advanced Liquid Logic EWOD platform to perform end-to-end TruSeq-style library prep on 16 samples in parallel using ~700 nL droplets. Discontinued 2017 due to library-quality issues, but the disclosed architecture remains useful prior art for any later DMF-based NGS library prep claim. Anticipates: large-cohort DMF library prep on a PCB-substrate EWOD array; the 'cartridge-top + reusable electrode-bottom' architecture for DMF.
+
+## Volta Labs Desktop digital microfluidics library prep (2023)
+
+- **id**: `volta-labs-desktop`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Volta Labs
+- **disclosure**: Volta Labs Desktop product launch 2023. https://voltalabs.com/. Spun out of MIT Sambasivan / Wang lab work on EWOD library prep.
+- **ip status**: patented
+- **prior art notes**: Commercial digital-microfluidics instrument focused on NGS library prep: an EWOD electrode array under an oil-coated glass top moves discrete reagent droplets through library-prep steps without bulk channels or pipettors. Anticipates: post-Illumina-DMF-acquisition (Advanced Liquid Logic) commercial DMF for genomics; integration with kit chemistries (NEB UltraExpress) tuned for the DMF format. Major prior art point: that EWOD library prep can match conventional library quality at production NGS scale - a claim several competitors will want to make.

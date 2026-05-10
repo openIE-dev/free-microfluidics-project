@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-volumetric-3d-printing`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2019
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kelly, B. E.; Bhattacharya, I.; Heidari, H.; Shusteff, M.; Spadaccini, C. M.; Taylor, H. K. Volumetric additive manufacturing via tomographic reconstruction. Science 2019, 363, 1075–1079. DOI: 10.1126/science.aau7114
 - **ip status**: patented
 - **prior art notes**: Disclosed computed axial lithography (CAL): volumetric 3D printing by superimposing multi-angle 2D light projections on a rotating photoresin volume to deliver a polymerization-threshold dose at every voxel of the target geometry simultaneously. Anticipates: tomographic-reconstruction-based volumetric printing, sample-rotation architecture, threshold-dose accumulation as the print mechanism. Direct ancestor of DISH (Wang 2026) which inverts the rotation onto a periscope and adds holographic synthesis.
+
+## Readily3D Tomolite volumetric bioprinter (2020)
+
+- **id**: `readily3d-tomolite`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Readily3D SA
+- **disclosure**: Bernal, P.N. et al. Volumetric bioprinting of complex living-tissue constructs within seconds. Adv. Mater. 2019, 31:1904209. doi:10.1002/adma.201904209. Readily3D SA founded 2020 (EPFL spinout). https://readily3d.com. Underlying tomographic-projection patent family: WO2018039210A1 (EPFL/UC Berkeley; priority 2016).
+- **ip status**: patented
+- **prior art notes**: Discloses a commercial volumetric (tomographic-projection) bioprinter implementing the Kelly/Loterie technology. Anticipates: commercial volumetric bioprinting for living tissue at centimeter scale; tomographic-projection cure of cell-laden bioinks within seconds with cell viability preserved; integration of computer-vision feedback during volumetric cure for shape-fidelity correction. Companion to lineage entry kelly-2019-cal-volumetric-printing and wang-2026-dish-volumetric-3d-printing.
 
 ## DISH: digital incoherent synthesis of holographic light fields (2026-02-11)
 

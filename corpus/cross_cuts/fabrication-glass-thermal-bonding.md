@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-thermal-bonding`
 
-**10 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992
 
@@ -45,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed PicoTiterPlate: a fiber-optic faceplate etched into ~1.6M picoliter wells, each loaded with a single template-loaded bead for emulsion-PCR-amplified pyrosequencing. The first commercial massively parallel sequencing platform (2005); discontinued 2016. Architectural ancestor of every microwell-array-based NGS platform that followed (Ion Torrent, BGI, Singular Genomics).
 
+## Little Things Factory glass microreactor (LTF-MS, LTF-V) (2005)
+
+- **id**: `little-things-factory-mikroreaktor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Little Things Factory GmbH
+- **disclosure**: Little Things Factory GmbH (Ilmenau, DE) product brochure 2005; Hessel, V.; Hardt, S.; Löwe, H. Chemical Micro Process Engineering: Fundamentals, Modelling and Reactions, Wiley-VCH, 2004 (cites LTF); LTF product catalog rev 2018; product page https://www.ltf-gmbh.com
+- **ip status**: patented
+- **prior art notes**: Discloses an off-the-shelf catalog of standardized borosilicate-glass microreactor chips (T-mixer, V-mixer, HEX with integrated heat exchanger, residence-time meanders) in two standard footprints — a 'commodity glass chip' supplier providing the substrates that other vendors (Future Chemistry, Chemtrix Labtrix, Syrris) integrate into their platforms. Anticipates patent claims to standardized-footprint glass microreactor chip families and to integrated-heat-exchanger glass microreactor plates ('HEX' variants).
+
 ## Singulex Erenna single-molecule counting immunoassay (2006)
 
 - **id**: `todd-singulex-erenna-2006`
@@ -54,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Todd, J.; Freese, B.; Lu, A.; Held, D.; Morey, J.; Livingston, R.; Goix, P. Ultrasensitive flow-based immunoassays using single-molecule counting. Clin. Chem. 2007, 53, 1990–1995. DOI: 10.1373/clinchem.2007.091181
 - **ip status**: patented
 - **prior art notes**: Disclosed single-molecule counting immunoassay: fluorescent immunocomplexes flow through a confocal interrogation volume in a microfluidic capillary, generating discrete photon bursts that are individually counted rather than ensemble-integrated. Anticipates: capillary-flow single-molecule counting as immunoassay-detection mode (sub-femtomolar sensitivity), and one of the architectural paths now embodied in Quanterix Simoa (microwell counting) and Singulex (capillary counting). Singulex was acquired by EMD Millipore 2018; the architectural disclosures remain part of the foundational prior-art for ultrasensitive POC immunoassays.
+
+## Corning Advanced-Flow Reactor G1 (2007)
+
+- **id**: `corning-advanced-flow-reactor-g1`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Corning Incorporated
+- **disclosure**: Lavric, E. D.; Woehl, P. Advanced-Flow Glass Reactors for Seamless Scale-Up. Chimica Oggi - Chemistry Today 2009, 27 (3); Corning Inc. Advanced-Flow Reactors product brochure (Corning AFR G1, 2007); US patent 7,939,033 'Honeycomb microchannel reactor design'
+- **ip status**: patented
+- **prior art notes**: Discloses a borosilicate glass microreactor module composed of stacked etched plates with a 'heart-shaped' (HEART) mixing/heat-transfer geometry that produces repeated splitting and recombination of the reagent stream within sub-millimeter channels. Heat-transfer fluid flows in adjacent channels, enabling kW/L heat removal. Anticipates: (a) the heart/teardrop micro-mixer geometry as a manufacturable industrial micromixer with isothermal control of fast exotherms; (b) numbering-up by stacking thin glass plates rather than scale-up by enlarging channels; (c) continuous-flow production-grade reactor with all wetted parts borosilicate glass for chemical compatibility; (d) integration of heat-exchange and reaction in the same fluidic plate using counter-current cross-flow architecture. Should be cited against any later patent claiming heart/teardrop split-and-recombine mixers in stacked glass plates for continuous chemistry.
 
 ## Illumina Solexa sequencing flow cell (2008)
 
@@ -65,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of the Illumina sequencing flow cell: a glass channel with patterned oligo lawn supporting bridge amplification, reversible-terminator sequencing chemistry, and per-channel optical scanning. Architecturally a microfluidic device, although it is rarely classified as one in microfluidics literature. Anticipates: patterned-flow-cell architecture for massively parallel single-molecule chemistry, and the entire Illumina commercial sequencing platform that dominated the genomics market 2010–2025.
 
+## Future Chemistry FlowStart Evo and FlowSyn (FutureChem BV) (2008)
+
+- **id**: `future-chemistry-flowstart`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Future Chemistry BV (Nijmegen, NL)
+- **disclosure**: Future Chemistry BV product launch FlowStart 2008; van der Linden, J. J. M.; Hilberink, P. W.; Kronenburg, C. M. P.; Kemperman, G. J. 'Investigation of the Moffatt-Swern oxidation in a continuous flow microreactor system' Org. Process Res. Dev. 2008, 12, 911–920; Future Chemistry datasheet rev 2010
+- **ip status**: patented
+- **prior art notes**: Discloses an educational/screening-grade glass microreactor platform with: (a) Peltier-cooled chip holder integrated with pump electronics to enable continuous flow at -40 °C (Swern oxidation, lithiation chemistry); (b) clamped borosilicate chip with sequential T-mixer geometry; (c) protocolized 'reaction starter kits' enabling teaching of flow chemistry by reproducing well-known wet-chemistry exemplars. Anticipates patent claims directed to integrated cryogenic chip holders for continuous-flow chemistry, and education-grade flow chemistry packages bundling chip, pump, holder, and protocol library.
+
 ## Dolomite Microfluidics droplet generation system (2009)
 
 - **id**: `dolomite-microfluidics-droplet-system`
@@ -75,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Glass-based commercial droplet generation chips and instruments aimed at research and bioprocess users. Anticipates: glass droplet-junction chips as commodity components, integration with Mitos pressure pumps, and the modular off-the-shelf microfluidics product category as opposed to bespoke PDMS chips.
 
+## Chemtrix Labtrix S1 (2009)
+
+- **id**: `chemtrix-labtrix-s1`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Chemtrix BV
+- **disclosure**: Chemtrix BV product launch, Labtrix Start (2008) and Labtrix S1 (2009); Hessel, V.; Cortese, B.; de Croon, M. H. J. M. 'Novel process windows — concept, proposition and evaluation methodology, and intensified superheated processing' Chem. Eng. Sci. 2011, 66, 1426–1448; Chemtrix Labtrix S1 datasheet 2009
+- **ip status**: patented
+- **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
+
 ## Single molecule arrays (Simoa) for ultrasensitive immunoassay (2010)
 
 - **id**: `rissin-2010-quanterix-simoa`
@@ -84,6 +124,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rissin, D. M. et al. Single-molecule enzyme-linked immunosorbent assay detects serum proteins at subfemtomolar concentrations. Nat. Biotechnol. 2010, 28, 595–599. DOI: 10.1038/nbt.1641
 - **ip status**: patented
 - **prior art notes**: Disclosed single-molecule immunoassay (Simoa): trap individual antibody-functionalized beads in femtoliter microwells, isolate by oil overlay to digitize fluorogenic-substrate signal per bead. Anticipates: femtoliter-microwell-array architecture for digital ELISA, oil-isolated chamber arrays for single-molecule chemistry, and the Quanterix HD-X / SR-X commercial platforms. Sub-femtomolar protein detection in serum.
+
+## Corning Advanced-Flow Reactor G3 (production-scale) (2010)
+
+- **id**: `corning-advanced-flow-reactor-g3`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Corning Incorporated
+- **disclosure**: Corning Inc. AFR G3 launch announcement (Achema 2009 / 2010 product release); Buisson, B.; Donegan, S.; Wray, D.; Parracho, A.; Gamoudi, J.; Bonny, M.; Guermeur, S. 'Slurry hydrogenation in a continuous flow reactor for pharmaceutical application' Chimica Oggi/Chemistry Today 2009, 27 (6) Suppl; Corning AFR G3 product datasheet rev 2010
+- **ip status**: patented
+- **prior art notes**: Production-scale numbering-up of the AFR G1 architecture: same heart-shaped channel motif, scaled to ~1 mm hydraulic diameter and ~25× footprint. Discloses (a) industrial-throughput borosilicate microreactor at multi-hundred-gram-per-minute regime; (b) modular stacking with shared heat-transfer manifolds; (c) compatibility with slurries (catalytic hydrogenation, crystallization-onset reactions) within microchannels — historically considered impossible. Anticipates patent claims directed to 'stacked plate microreactor for continuous pharmaceutical manufacturing at multi-tonne scale'. Pairs with G1 entry for full numbering-up disclosure.
+
+## Mathies/Quinn 2017 Microchip Capillary Electrophoresis for Mars Amino Acid Detection (2017)
+
+- **id**: `mathies-quinn-2017-microchip-ce-mars-amino-acids`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard Mathies group (UC Berkeley) / Peter Willis (NASA JPL) / Maria Mora (NASA JPL) / Aaron Noell
+- **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
+- **ip status**: patented
+- **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
+
+## Corning ULC-G2 ultra-low-cost flow reactor (2018)
+
+- **id**: `corning-ulc-g2-low-cost-flow-reactor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Corning Incorporated
+- **disclosure**: Corning Inc. ULC-G2 product brochure 2018; Corning press release Achema 2018 launch; Lavric, E. D.; Roberge, D. M. 'Lab-scale Corning ULC reactor for fast prototyping' Chem. Eng. Process. 2019 supplement; product page https://www.corning.com/worldwide/en/innovation/corning-emerging-innovations/advanced-flow-reactors/laboratory-reactors.html
+- **ip status**: patented
+- **prior art notes**: Discloses Corning's ultra-low-cost entry-level variant of the AFR family, marketed at the academic/teaching/screening price point (<$10k). Maintains the same heart-shape channel motif as G1/G3/G4 — confirming that the fundamental mixing geometry is the IP, and form-factor cost-engineering is the productization decision. Anticipates patent claims to compact academic-priced single-module microreactors derived from production-scale microreactor families.
 
 ## Nanofluidic scattering microscopy (NSM) (2022)
 
@@ -114,3 +184,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Singular Genomics G4 system. https://www.singulargenomics.com
 - **ip status**: patented
 - **prior art notes**: Patterned-flow-cell sequencer with parallel-flow-cell architecture for fast turnaround. Part of the post-2020 wave of Illumina alternatives. Microfluidically very similar to AVITI and Illumina; differentiation is in chemistry and instrument throughput.
+
+## PacBio Onso short-read sequencer flow cell (2022-10-26)
+
+- **id**: `pacbio-onso-shortread`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Pacific Biosciences (Omniome lineage)
+- **disclosure**: Pacific Biosciences Onso system launch (acquired Omniome 2021); press release 2022-10-26. https://www.pacb.com/onso/. Drmanac, R. comparison data 2023.
+- **ip status**: patented
+- **prior art notes**: Short-read sequencer using sequencing-by-binding chemistry (Omniome): polymerase forms a stable but non-extending complex with the correct nucleotide, identity is read optically, then the polymerase is allowed to extend. The flow cell is a patterned glass surface analogous to Illumina's, but with chemistry not encumbered by Illumina's reversible-terminator IP. Anticipates: SBB short-read flow cells as a third architectural family alongside Illumina-class reversible terminators (Element AVITI, Singular G4 also in this space) and DNB arrays (BGI/MGI).
+
+## 10x Genomics Visium HD spatial transcriptomics slide (2023-10-05)
+
+- **id**: `10x-genomics-visium-hd`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics
+- **disclosure**: 10x Genomics Visium HD product launch announcement, 2023-10-05. https://www.10xgenomics.com/products/visium-hd. Oliveira, M. F. et al. Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling. bioRxiv 2024-06-04. DOI: 10.1101/2024.06.04.597233.
+- **ip status**: patented
+- **prior art notes**: Successor to Visium with photolithographically-defined ~2 µm spatial barcode bins (vs. 55 µm spots in original Visium), enabling near-single-cell resolution while retaining the 'tissue-on-barcoded-grid' architecture. Capture is via a glass slide whose surface is patterned with millions of barcoded oligo-dT regions; tissue placed on top releases mRNA into the barcoded grid, then library prep proceeds off-slide. Anticipates: sub-cellular spatial-barcode arrays at 2 µm pitch, as a converging upper bound for Visium-class spatial transcriptomics; the integration with 10x's CytAssist instrument as an FFPE-compatible workflow.

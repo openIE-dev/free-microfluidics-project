@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-t-junction-generation`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2001
 
@@ -34,3 +34,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dolomite Microfluidics droplet system; product literature. https://www.dolomite-microfluidics.com
 - **ip status**: patented
 - **prior art notes**: Glass-based commercial droplet generation chips and instruments aimed at research and bioprocess users. Anticipates: glass droplet-junction chips as commodity components, integration with Mitos pressure pumps, and the modular off-the-shelf microfluidics product category as opposed to bespoke PDMS chips.
+
+## Bhattacharjee 2016 3D-Printed Microfluidics Toolkit (2016-04)
+
+- **id**: `bhattacharjee-2016-3d-printed-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Albert Folch lab (U Washington); Bhattacharjee N., Urrios A., Kang S.
+- **disclosure**: Bhattacharjee N., Urrios A., Kang S., Folch A., 'The upcoming 3D-printing revolution in microfluidics', Lab on a Chip 16:1720-1742 (2016); doi:10.1039/C6LC00163G; companion review and design library
+- **ip status**: open-permissive
+- **prior art notes**: Discloses a comprehensive 3D-printed microfluidics design toolkit with free downloadable CAD files including: pressure-actuated membrane valves, T-junction droplet generators, herringbone mixers, and serpentine reactors all printable on commodity DLP-SLA printers using PEGDA-based resins. Specifically anticipates patents post-2016 claiming '3D-printed pneumatic membrane microvalves for microfluidic devices' and 'libraries of 3D-printable microfluidic components distributed as parametric CAD files.' Element-by-element discloses the membrane-deflection valve geometry achievable in stereolithography, the choice of biocompatible PEGDA resins, and the calibration of channel dimensions against printer pixel pitch.

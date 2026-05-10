@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**59 corpus entries disclose this subsystem.**
+**67 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -174,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beebe, D. J.; Mensing, G. A.; Walker, G. M. Physics and applications of microfluidics in biology. Annu. Rev. Biomed. Eng. 2002, 4, 261–286. DOI: 10.1146/annurev.bioeng.4.112601.125916
 - **ip status**: patented
 - **prior art notes**: Beebe-group establishment of in-channel PEGDA hydrogel photopatterning as a route to autonomous valve and trap structures. Subsequent papers (post Beebe 2000 Nature) demonstrated systematic PEGDA structure formation, sub-100 µm feature definition, and biocompatible cell encapsulation in situ. Anticipates: PEGDA as the canonical photopatternable hydrogel for chips, distinct from the alginate-bead and gelatin approaches.
+
+## OpenWetWare Community Wiki (2005)
+
+- **id**: `openwetware-mit-wiki`
+- **corpus**: open
+- **device class**: other
+- **creator**: MIT (Knight T., Endy D., Smolke C., et al.); OpenWetWare community
+- **disclosure**: OpenWetWare launched May 2005 at MIT by Knight T., Endy D., et al.; https://openwetware.org; foundational paper Bobe J., Endy D., 'OpenWetWare: a wiki for sharing biology lab protocols', Yeast 24:s223 (2007)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses a long-running open protocol archive whose documented procedures for soft lithography, PDMS microfluidic fabrication, paper microfluidics, and on-chip cell culture, with timestamped wiki edit-histories from 2005 onward, are themselves citable prior art. Specifically anticipates protocol claims in many post-2010 patents for 'methods of fabricating PDMS microfluidic devices,' 'methods of bonding PDMS to glass,' and 'protocols for cell culture in microfluidic devices' to the extent these claims read on the OWW protocol pages timestamped before the patent's earliest priority date. Cite OWW page revision URLs (https://openwetware.org/index.php?title=...&oldid=...) for entry-specific anticipation.
 
 ## Microfluidic cell-trap array for single-cell analysis (2006)
 
@@ -425,6 +435,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of microfluidic LNP (lipid nanoparticle) formulation for nucleic acid delivery: rapid mixing of lipid-in-ethanol with nucleic-acid-in-aqueous in microfluidic herringbone mixer drives spontaneous LNP self-assembly with sub-100 nm size distribution. Architecturally critical: the Pfizer-BioNTech and Moderna COVID-19 vaccines depend on Precision Nanosystems' microfluidic LNP manufacturing, which descends directly from this disclosure. Among the highest-impact commercial applications of microfluidics in history.
 
+## Fluidigm C1 single-cell auto prep system (2012)
+
+- **id**: `fluidigm-c1-singlecell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluidigm Corp. (now Standard BioTools)
+- **disclosure**: Fluidigm Corp. C1 Single-Cell Auto Prep System product launch 2012. Pollen, A. A. et al. Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex. Nat. Biotechnol. 2014, 32, 1053-1058. DOI: 10.1038/nbt.2967.
+- **ip status**: patented
+- **prior art notes**: Pre-droplet commercial single-cell platform: a multilayer PDMS IFC with hydrodynamic capture sites and Quake-valve-controlled reagent chambers performs lysis, reverse transcription, and pre-amplification for 96 (or 800) single cells in parallel. Anticipates: integrated-valve-array single-cell prep architectures; the predecessor approach to droplet-based single-cell prep, with much lower throughput but full-length cDNA. The Pollen 2014 paper (and dozens of similar single-cell papers in 2013-2016) all use the C1; this is the architectural anchor for any 'integrated single-cell mRNA prep on chip' claim before droplets dominated.
+
 ## CTC-iChip: inertial focusing for high-throughput rare-cell isolation (2013)
 
 - **id**: `ozkumur-2013-ctc-iChip`
@@ -555,6 +575,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed soft skin-mounted epidermal microfluidic patch with networks of capillary-driven channels, color-changing reagent zones, and smartphone-based readout. Anticipates: PDMS-based skin-conformal microfluidic chip architecture, capillary-driven sweat collection and reservoir storage on body, colorimetric multiplexed analysis with smartphone readout. Direct architectural ancestor of the Epicore Biosystems Gx Sweat Patch and similar commercial products.
 
+## Berkeley Lights Beacon optofluidic platform (2016)
+
+- **id**: `berkeley-lights-beacon`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights / PhenomeX / Bruker
+- **disclosure**: Berkeley Lights Inc. Beacon platform launch 2016. Le, K. et al. A novel mammalian cell line development platform utilizing nanofluidics and optoelectro positioning technology. Biotechnol. Prog. 2018, 34:1438-1446. doi:10.1002/btpr.2690. Foundational optoelectronic-tweezers patent: US7612355B2 (UC Berkeley, Wu et al.; priority 2003).
+- **ip status**: patented
+- **prior art notes**: Discloses an optofluidic single-cell platform: an OptoSelect chip combines a photoconductive layer with patterned electrodes such that a projected light pattern induces local dielectrophoretic forces sufficient to translate individual cells into and out of nanoliter pen chambers. Within each pen, individual cells can be cultured, assayed for secretion (e.g., antibody titer via fluorescent bead reporter), and selectively retrieved. Anticipates: (a) optoelectronic-tweezer single-cell manipulation in commercial nanofluidic chips; (b) in-chip clonal expansion and secretion-assay workflows for hybridoma/B-cell antibody discovery and biopharma cell-line development; (c) optofluidic CGT applications including TCR/CAR T-cell functional screening at single-cell resolution.
+
+## 1CellBio inDrop platform (commercial inDrops) (2016)
+
+- **id**: `1cellbio-indrops-commercial`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop System commercial release 2016. https://1cell-bio.com/. Klein, A. M. et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell 2015, 161, 1187-1201. DOI: 10.1016/j.cell.2015.05.044.
+- **ip status**: patented
+- **prior art notes**: Commercial implementation of inDrops (Klein 2015): single cells co-encapsulated with photo-cleavable hydrogel barcoded beads in a PDMS flow-focusing chip driven by external syringe pumps. Anticipates: the academic-spinout commercialization path for single-cell barcoding, the use of dissolvable hydrogel beads as barcode carriers (vs. solid beads in Drop-seq), and the lower-cost open-architecture alternative to 10x Chromium. Many academic labs run this directly off the Klein 2015 paper without 1CellBio hardware.
+
+## Berkeley Lights Beacon (PhenomeX, now Bruker) optofluidic platform (2016)
+
+- **id**: `phenomex-beacon-bli`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights / PhenomeX (Bruker)
+- **disclosure**: Berkeley Lights Beacon system launch 2016. Le, K. et al. A novel mammalian cell line development platform utilizing nanofluidics and OptoElectro Positioning technology. Biotechnol. Prog. 2018, 34, 1438-1446. DOI: 10.1002/btpr.2690. PhenomeX rebrand 2022; acquired by Bruker 2023.
+- **ip status**: patented
+- **prior art notes**: Optoelectronic-positioning (OEP) single-cell array: a CMOS-photoconductor chip with overlaid microfluidic NanoPen chambers, where projected light patterns generate localized electric-field dielectrophoretic forces that move single cells into individual NanoPens. In-pen assays (proliferation, antibody secretion) are imaged on-instrument; selected clones can be exported. Anticipates: light-addressed dielectrophoretic single-cell handling on a CMOS substrate; the integration of a photoconductor-based DEP positioner with a closed microfluidic NanoPen array for clonal cell-line development; the broader category of light-driven addressable cell-handling chips. Acquisition trajectory (Berkeley Lights -> PhenomeX -> Bruker) and the breadth of the patent family make this a significant prior-art anchor.
+
+## Epicore Biosystems Microfluidic Sweat Sensor Patch (2016-11-23)
+
+- **id**: `epicore-biosystems-sweat-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Epicore Biosystems Inc. (Northwestern / Rogers spin-out)
+- **disclosure**: Koh A et al. Sci Transl Med 8(366):366ra165 2016 doi:10.1126/scitranslmed.aaf2593 (already in corpus as koh-rogers-2016-epidermal-microfluidic — this entry covers the Epicore commercial product line spun out from Rogers lab)
+- **ip status**: patented
+- **prior art notes**: Commercial product line built around the Rogers-lab epidermal microfluidic platform (academic disclosure already covered by koh-rogers-2016-epidermal-microfluidic). Discloses skin-adhered PDMS patches with sub-millimeter serpentine channels routing sweat into discrete colorimetric assay chambers (chloride, glucose, lactate, pH) that change color as sweat fills them, read by smartphone camera. Anticipates: capillary-driven sweat sample collection at gland scale (microliter volumes); multi-analyte colorimetric reservoir architecture in a wearable patch; Gatorade Gx and Connected Hydration commercial implementations.
+
+## Mathies/Quinn 2017 Microchip Capillary Electrophoresis for Mars Amino Acid Detection (2017)
+
+- **id**: `mathies-quinn-2017-microchip-ce-mars-amino-acids`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard Mathies group (UC Berkeley) / Peter Willis (NASA JPL) / Maria Mora (NASA JPL) / Aaron Noell
+- **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
+- **ip status**: patented
+- **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
+
 ## DBiT-seq spatial multi-omics on chip (2020)
 
 - **id**: `liu-fan-2020-dbit-seq`
@@ -584,6 +654,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lashkaripour, A.; Rodriguez, C.; Mehdipour, N.; Mardian, R.; McIntyre, D.; Ortiz, L.; Campbell, J.; Densmore, D. Machine learning enables design automation of microfluidic flow-focusing droplet generation. Nat. Commun. 2021, 12, 25. DOI: 10.1038/s41467-020-20284-z
 - **ip status**: open-permissive
 - **prior art notes**: Disclosed DAFD (Design Automation of Fluid Dynamics): ML model trained on microfluidic experimental data predicts flow-focusing droplet generator geometry from desired droplet size and rate. Anticipates: ML-as-design-automation for microfluidic chip geometry, and the broader trend of replacing CFD simulation with trained models for microfluidic design.
+
+## Gatorade Gx Sweat Patch (2021-08-25)
+
+- **id**: `gatorade-gx-sweat-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Epicore Biosystems Inc. for PepsiCo Gatorade
+- **disclosure**: PepsiCo Gatorade press release 2021-08-25; Epicore Biosystems product disclosure
+- **ip status**: patented
+- **prior art notes**: Consumer-branded variant of the Epicore epidermal sweat patch. Same microfluidic architecture as the Rogers-lab disclosure (capillary-routed sweat into colorimetric reservoirs) but commercialized for athletic consumer market. Anticipates: consumer wellness business models for one-time-use microfluidic patches; smartphone-as-reader colorimetric quantification of sweat sodium and volume.
 
 ## Microfluidic rare-cell isolation (2023-onward methods) (2023)
 

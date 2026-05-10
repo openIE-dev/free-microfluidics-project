@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-optical-window-borofloat`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2022
+Earliest disclosure: 2018
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Refeyn TwoMP / OneMP mass photometer with microfluidic flow cell (2018)
+
+- **id**: `refeyn-twomp-mass-photometry`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Refeyn Ltd. (Oxford spinout from Kukura group)
+- **disclosure**: Young, G. et al. Quantitative mass imaging of single biological macromolecules. Science 2018, 360(6387):423-427. doi:10.1126/science.aar5839. Refeyn Ltd. founded 2018; OneMP launch 2019; TwoMP launch 2020. Patent family: WO2018011591A1 / EP3485243B1.
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop mass-photometry instrument that measures the mass of individual biomolecules landing on a coverslip surface via interferometric scattering microscopy. The microfluidic component is the disposable flow-cell-on-coverslip used to deliver sample to the field of view at low concentrations (~nM single-molecule landing rate). Anticipates: (a) coverslip-bottomed disposable microfluidic flow cells for single-molecule landing-rate analytical instruments; (b) iSCAT mass photometry as a label-free analytical readout coupled to microfluidic sample delivery; (c) Refeyn-style microfluidic flow cells for QC-relevant biopharma analytics including viral vector empty/full ratio characterization, AAV gene-therapy capsid analysis, and oligomeric-state determination of biotherapeutics.
 
 ## Nanofluidic scattering microscopy (NSM) (2022)
 

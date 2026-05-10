@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**13 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Anna, S. L.; Bontoux, N.; Stone, H. A. Formation of dispersions using 'flow focusing' in microchannels. Appl. Phys. Lett. 2003, 82, 364–366. DOI: 10.1063/1.1537519
 - **ip status**: public-domain
 - **prior art notes**: Established flow-focusing droplet generation as a parallel architecture to the T-junction. Disclosed: a continuous-phase fluid focuses a dispersed-phase stream through a constriction, forming droplets at controllable rates and sizes. This geometry underlies most modern droplet platforms (10x Genomics-style microfluidic chips, Bio-Rad ddPCR generators, etc.).
+
+## iGEM Foundation Distribution Kit (2003)
+
+- **id**: `igem-distribution-kit`
+- **corpus**: open
+- **device class**: other
+- **creator**: iGEM Foundation (originally MIT — Endy, Knight, Smolke, Rettberg)
+- **disclosure**: iGEM founded as MIT IAP course 2003; first formal distribution kit 2004; iGEM Foundation incorporated 2012; https://igem.org; Registry of Standard Biological Parts http://parts.igem.org; key paper Smolke C., 'Building outside of the box: iGEM and the BioBricks Foundation', Nat Biotechnol 27:1099 (2009)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an annual mass-distribution of standardized DNA parts under permissive license, plus a public registry of their characterizations. Relevance to microfluidics commons: hundreds of iGEM projects 2007-2024 have published microfluidic device designs (paper microfluidics, droplet generators, lab-on-chip cartridges) on the iGEM wiki under CC-BY licenses; these wiki pages are themselves a substantial body of prior art for low-cost microfluidic education kits, point-of-care biosensors, and student-built droplet generators. Specifically anticipates the 'student-built point-of-care diagnostic with cell-free expression on paper or in droplets' design pattern many times over since 2010.
 
 ## Microfluidic alginate microbead generation (2007)
 
@@ -125,6 +135,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial single-cell encapsulation platform: Chromium controller drives flow-focusing geometry on a disposable Next GEM chip, co-encapsulating cells with barcoded gel beads in droplets for downstream sequencing. Anticipates: high-throughput parallel droplet generation in a disposable thermoplastic cartridge driven by an instrument-side pneumatic pressure source, the gel-bead-in-droplet architecture for barcoded single-cell genomics, and the integration of microfluidic droplet generation with a turnkey commercial instrument workflow. Encumbered by an aggressive patent thicket; corpus entry exists to enable invalidity analysis.
 
+## 1CellBio inDrop platform (commercial inDrops) (2016)
+
+- **id**: `1cellbio-indrops-commercial`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop System commercial release 2016. https://1cell-bio.com/. Klein, A. M. et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell 2015, 161, 1187-1201. DOI: 10.1016/j.cell.2015.05.044.
+- **ip status**: patented
+- **prior art notes**: Commercial implementation of inDrops (Klein 2015): single cells co-encapsulated with photo-cleavable hydrogel barcoded beads in a PDMS flow-focusing chip driven by external syringe pumps. Anticipates: the academic-spinout commercialization path for single-cell barcoding, the use of dissolvable hydrogel beads as barcode carriers (vs. solid beads in Drop-seq), and the lower-cost open-architecture alternative to 10x Chromium. Many academic labs run this directly off the Klein 2015 paper without 1CellBio hardware.
+
+## Sphere Fluidics Cyto-Mine Single-Cell Analysis System (2017)
+
+- **id**: `sphere-fluidics-cyto-mine-acoustic-droplet-sorting`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Sphere Fluidics Limited (Cambridge UK; Huck/Edel academic origins)
+- **disclosure**: Sphere Fluidics Cyto-Mine launch press release 2017; Mazutis L., Gilbert J., Ung W. L., Weitz D. A., Griffiths A. D., Heyman J. A., Nature Protocols 8:870 (2013), doi:10.1038/nprot.2013.046; US patent 9,486,803
+- **ip status**: patented
+- **prior art notes**: Cyto-Mine discloses an integrated single-cell platform using PDMS picodroplet generation, on-chip incubation, fluorogenic assay readout, and dielectrophoretic sort of selected droplets into recovery wells. Anticipates: (i) integrated cartridge platforms combining droplet generation, incubation, image-based assay, and DEP sort in a single workflow; (ii) DEP droplet sorting at >300 Hz integrated with picodroplet microfluidics; (iii) cell-line and antibody discovery workflows fully on-cartridge. Adjacent to Berkeley Lights Beacon (different actuation: OEP vs droplet+DEP).
+
+## Sphere Fluidics Cyto-Mine single-cell screening platform (2017)
+
+- **id**: `sphere-fluidics-cytomine`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Sphere Fluidics
+- **disclosure**: Sphere Fluidics Cyto-Mine product launch 2017. https://spherefluidics.com/.
+- **ip status**: patented
+- **prior art notes**: Integrated picodroplet workflow for single-cell antibody discovery and clonal cell-line selection: cells encapsulated in flow-focusing droplets together with reporters, droplets imaged in flow for fluorescence signal, target droplets sorted dielectrophoretically into recovery wells. Anticipates: end-to-end automated picodroplet single-cell screening cartridges - droplet generation, incubation, fluorescence-activated sorting - integrated in a single instrument. Important commercial prior art for the picodroplet cell-line-development workflow.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -144,3 +184,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lashkaripour, A.; Rodriguez, C.; Mehdipour, N.; Mardian, R.; McIntyre, D.; Ortiz, L.; Campbell, J.; Densmore, D. Machine learning enables design automation of microfluidic flow-focusing droplet generation. Nat. Commun. 2021, 12, 25. DOI: 10.1038/s41467-020-20284-z
 - **ip status**: open-permissive
 - **prior art notes**: Disclosed DAFD (Design Automation of Fluid Dynamics): ML model trained on microfluidic experimental data predicts flow-focusing droplet generator geometry from desired droplet size and rate. Anticipates: ML-as-design-automation for microfluidic chip geometry, and the broader trend of replacing CFD simulation with trained models for microfluidic design.
+
+## Fluent BioSciences PIPseq particle-templated emulsification (2022-02-01)
+
+- **id**: `fluent-biosciences-pipseq`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluent BioSciences
+- **disclosure**: Clark, I. C. et al. Microfluidics-free single-cell genomics with templated emulsification. Nat. Biotechnol. 2023, 41, 1557-1566. DOI: 10.1038/s41587-023-01685-z. Fluent BioSciences product launch 2022.
+- **ip status**: patented
+- **prior art notes**: PIPseq replaces flow-focusing droplet generation with templated emulsification: pre-formed hydrogel particles carrying barcoded oligos are mixed with cells and oil in a tube, then vortexed; the hydrogel particle becomes the template that nucleates a uniform aqueous droplet around each particle. Anticipates: chip-free droplet-template emulsification for single-cell barcoding, reducing the sample-prep instrument to a vortexer. Major prior-art consequence: invalidates broad claims requiring 'microfluidic flow-focusing' as the necessary droplet-generation mechanism for high-throughput single-cell barcoding. Originated in the Adam Abate lab (UCSF).

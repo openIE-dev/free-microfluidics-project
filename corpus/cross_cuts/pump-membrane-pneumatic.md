@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**2 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -24,6 +24,66 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unger, M. A.; Chou, H.-P.; Thorsen, T.; Scherer, A.; Quake, S. R. Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 2000, 288, 113–116. DOI: 10.1126/science.288.5463.113
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of pneumatically actuated elastomeric membrane valves built monolithically into a multilayer PDMS chip. By cyclically actuating three valves in series, a peristaltic pump is realized. This is the architectural ancestor of essentially every subsequent on-chip pneumatic valve and pump. Anticipates: pneumatic membrane valve (control channel + thin membrane + flow channel), peristaltic pumping by sequential valve actuation, large-scale integrated chip-scale fluidic circuits. Subsequent papers (Nordin 2017, Sanchez Noriega 2021) re-implement the same architecture in 3D-printed photopolymer.
+
+## Repligen XCell ATF alternating tangential flow cell-retention device (2002)
+
+- **id**: `repligen-xcell-atf`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Repligen Corporation (formerly Refine Technology)
+- **disclosure**: Refine Technology (acquired by Repligen 2014) ATF system commercialized 2002. Original patent: US6544424B1 (Shevitz, J.; Refine Technology; priority 1999).
+- **ip status**: patented
+- **prior art notes**: Discloses an alternating tangential flow (ATF) cell-retention device: a hollow-fiber filter is operated with periodic reversal of axial flow (driven by a diaphragm pump on one end of the filter) so that filter-cake buildup is repeatedly disrupted and the filter sustains long-term operation at high cell densities. Anticipates: (a) ATF cell retention as the standard perfusion-bioreactor cell-retention modality; (b) hollow-fiber-with-periodic-flow-reversal architectures broadly; (c) integration of ATF cell retention with single-use bioreactors (Sartorius BIOSTAT, Cytiva Xcellerex) for high-density perfusion CGT processes.
+
+## Repligen KrosFlo tangential flow filtration system (2005)
+
+- **id**: `repligen-krosflo-tff`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Repligen Corporation (formerly Spectrum Laboratories)
+- **disclosure**: Spectrum Laboratories (acquired by Repligen 2017) KrosFlo line. https://www.repligen.com/products/krosflo. Patent family: US8231788B2 (Spectrum Laboratories; priority 2007).
+- **ip status**: patented
+- **prior art notes**: Discloses tangential-flow-filtration platform built around hollow-fiber filter cartridges, with automated TFF process control for buffer exchange, concentration, and clarification across the bioprocess scale spectrum. Anticipates: hollow-fiber TFF as a CGT downstream processing modality, including for viral-vector concentration and exosome/EV isolation; automated TFF instruments with permeate-flux and TMP feedback control loops.
+
+## Replenish Inc. Ophthalmic MEMS Drug Delivery Micropump (2008)
+
+- **id**: `replenish-mems-ophthalmic-micropump`
+- **corpus**: private
+- **device class**: pump-component
+- **creator**: Replenish Inc. (USC Doheny / Meng spin-out)
+- **disclosure**: Lo R, Li PY, Saati S, Agrawal RN, Humayun MS, Meng E Biomed Microdevices 11(5):959-970 2009 doi:10.1007/s10544-009-9313-9
+- **ip status**: patented
+- **prior art notes**: Discloses a fully implantable ophthalmic micropump in which an electrolysis pair generates gas that deflects a parylene/silicone membrane separating the gas chamber from a drug reservoir, expelling sub-microliter drug volumes through a tubing cannula into the vitreous humor via a passive check valve. Anticipates: electrolysis-actuated implantable micropump architectures; nanoliter-resolution chronic ophthalmic drug delivery; parylene-C as combined fluidic and membrane material in implants.
+
+## 3M / Solventum Hollow Microstructured Transdermal System (hMTS) (2008)
+
+- **id**: `3m-hollow-microneedle-patch`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: 3M Drug Delivery Systems (now Solventum)
+- **disclosure**: Burton SA et al. Pharm Res 28(1):31-40 2011 doi:10.1007/s11095-010-0177-8; 3M Drug Delivery Systems patent family
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
+
+## Formulatrix Mantis and Tempest nanoliter dispensers (2013)
+
+- **id**: `formulatrix-mantis-tempest`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Formulatrix
+- **disclosure**: Formulatrix Mantis liquid handler product literature. https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/. Tempest launch ~2017.
+- **ip status**: patented
+- **prior art notes**: Disposable-microfluidic-chip dispenser: each chip carries pneumatic diaphragm valves that meter and dispense nanoliter reagent volumes from off-chip reservoirs. Mantis is the lower-throughput single-channel system; Tempest is a 96-channel rack of identical metering primitives. Anticipates: the architectural pattern of putting the dispense metering primitive on a disposable consumable rather than on a fixed instrument syringe, which categorically eliminates carryover; the use of pneumatic diaphragm valves as the metering element in nanoliter dispensing; the chip-on-instrument architecture for low-volume reagent dispensing as an alternative to acoustic (Echo) or piezo (Mosquito) approaches.
+
+## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
+
+- **id**: `dnanudge-rapid-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: DnaNudge Ltd. (Imperial College London spin-out)
+- **disclosure**: Gibani MM et al. Lancet Microbe 1(7):e300-e307 2020 doi:10.1016/S2666-5247(20)30121-X (CovidNudge clinical evaluation); UK MHRA authorization
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
 
 ## Multi-resolution DLP-SLA for 2 µm microfluidic channels (2026-02-27)
 

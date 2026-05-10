@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-check`
 
-**1 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2007
+Earliest disclosure: 2003
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hamilton Microlab STAR liquid handler (2003)
+
+- **id**: `hamilton-microlab-star`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Company
+- **disclosure**: Hamilton Company Microlab STAR product literature. https://www.hamiltoncompany.com/automated-liquid-handling/platforms/microlab-star. Hamilton STAR family launched ~2003.
+- **ip status**: patented
+- **prior art notes**: Air-displacement multi-channel pipettor with the proprietary CO-RE (compressed O-ring expansion) tip-locking mechanism: a tapered steel mandrel expands an internal O-ring inside a disposable tip to form a leak-free seal without forceful press-fit. Anticipates: air-displacement liquid handlers with sealing-mandrel disposable tips; integration of pressure-sensor monitoring (MAD) for liquid-level and clog detection; the integration of microfluidic add-on modules (for example Hamilton's NIMBUS / STAR with chip-based options) on a 96/384-channel automation backbone. Foundational prior art for any 'air-displacement multi-channel head with monitored aspiration' claim post-2003.
 
 ## Lee fixed-volume solenoid dispense pump (2007)
 
@@ -24,3 +34,43 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lee Company fixed volume dispense pump product line. https://www.theleeco.com/industries/diagnostics/products/pumps/ and product datasheets.
 - **ip status**: patented
 - **prior art notes**: Discloses a chemically inert solenoid-driven positive-displacement pump with integrated check valves, energize-to-aspirate / de-energize-to-dispense control. Anticipates: single-electrical-input deterministic-volume dispensing in IVD instruments, anti-siphon housing geometry with diaphragm seal, and the broader category of solenoid-driven discrete-volume pumps for clinical diagnostics.
+
+## Replenish Inc. Ophthalmic MEMS Drug Delivery Micropump (2008)
+
+- **id**: `replenish-mems-ophthalmic-micropump`
+- **corpus**: private
+- **device class**: pump-component
+- **creator**: Replenish Inc. (USC Doheny / Meng spin-out)
+- **disclosure**: Lo R, Li PY, Saati S, Agrawal RN, Humayun MS, Meng E Biomed Microdevices 11(5):959-970 2009 doi:10.1007/s10544-009-9313-9
+- **ip status**: patented
+- **prior art notes**: Discloses a fully implantable ophthalmic micropump in which an electrolysis pair generates gas that deflects a parylene/silicone membrane separating the gas chamber from a drug reservoir, expelling sub-microliter drug volumes through a tubing cannula into the vitreous humor via a passive check valve. Anticipates: electrolysis-actuated implantable micropump architectures; nanoliter-resolution chronic ophthalmic drug delivery; parylene-C as combined fluidic and membrane material in implants.
+
+## Pall Allegro STR / single-use fluidic train (2010)
+
+- **id**: `pall-allegro-stt`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Pall Corporation (Danaher)
+- **disclosure**: Pall Life Sciences Allegro single-use product line launch 2010. Pall Application Note USD3036. Patent family: US8506198B2 (Pall Corporation; priority 2008).
+- **ip status**: patented
+- **prior art notes**: Discloses end-to-end single-use bioprocess fluidic train architecture (mix, hold, transfer, filter, chromatograph, fill) with pre-assembled gamma-irradiated containers and tubing assemblies. Anticipates: pre-assembled multi-step single-use fluidic train architectures for biopharma upstream and downstream processing including CGT and viral-vector workflows.
+
+## Sartorius BioSMB continuous multi-column chromatography (2010)
+
+- **id**: `sartorius-biosmb-continuous-chromatography`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sartorius / Pall (formerly Tarpon Biosystems)
+- **disclosure**: Tarpon Biosystems (acquired by Pall 2015; subsequently part of Sartorius portfolio via Danaher BioPharma divestment) BioSMB launch 2010. Bisschops, M. et al. Single-use, continuous-countercurrent, multicolumn chromatography. BioProcess Int. 2009. Patent family: US8057694B2 (Tarpon Biosystems; priority 2008).
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-column simulated-moving-bed continuous chromatography platform using a single-use disposable diaphragm-valve manifold rather than traditional metal rotary SMB valves. Anticipates: single-use disposable valve manifolds for continuous chromatography; SMB continuous Protein A capture as a CGT/mAb downstream architecture; multi-column countercurrent chromatography integrated with single-use bioprocess trains.
+
+## EOFlow EOPatch Insulin Pump (2017-06)
+
+- **id**: `eoflow-eopatch-insulin`
+- **corpus**: private
+- **device class**: pump-component
+- **creator**: EOFlow Co. Ltd.
+- **disclosure**: EOFlow Co. Ltd. press release 2017; KFDA approval 2017; Lee SH et al. clinical reports
+- **ip status**: patented
+- **prior art notes**: Discloses tubeless patch insulin pump using an electroosmotic micropump element to drive insulin through a cannula into subcutaneous tissue. Distinct from the spring/motor-driven syringe pumping in Omnipod. Anticipates: electroosmotic micropumping in implantable/wearable insulin delivery; alternative architectures to spring-driven syringe pumps in patch-pumps.

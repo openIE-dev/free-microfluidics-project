@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2026-04-09
+Earliest disclosure: 2013
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Diagenode Megaruptor hydrodynamic DNA shearer (2013)
+
+- **id**: `diagenode-megaruptor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagenode
+- **disclosure**: Diagenode Megaruptor product launch 2013; Megaruptor 3 launch 2019. https://www.diagenode.com/en/p/megaruptor-3.
+- **ip status**: patented
+- **prior art notes**: Hydrodynamic DNA shearing in a disposable thermoplastic cartridge: a syringe pumps DNA solution through a precisely-defined micro-orifice, the resulting shear forces fragment DNA to a flow-rate-tunable target length. Anticipates: cartridge-based hydrodynamic shearing for long-read library prep, a categorically different fragmentation primitive vs. acoustic (Covaris) or enzymatic (transposase) shearing. Critical consumable for high-quality ONT and PacBio HiFi prep.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

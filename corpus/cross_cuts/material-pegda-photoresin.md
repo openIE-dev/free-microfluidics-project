@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `material-pegda-photoresin`
 
-**3 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017
+Earliest disclosure: 1999-12-06
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Cygnus GlucoWatch G2 Biographer (1999-12-06)
+
+- **id**: `cygnus-glucowatch-biographer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Cygnus Inc.
+- **disclosure**: FDA PMA P990026 December 6 1999 (first wearable continuous glucose monitor cleared in US); Tamada JA et al. JAMA 282(19):1839-1844 1999 doi:10.1001/jama.282.19.1839
+- **ip status**: patented
+- **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
+
+## 1CellBio inDrop platform (commercial inDrops) (2016)
+
+- **id**: `1cellbio-indrops-commercial`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop System commercial release 2016. https://1cell-bio.com/. Klein, A. M. et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell 2015, 161, 1187-1201. DOI: 10.1016/j.cell.2015.05.044.
+- **ip status**: patented
+- **prior art notes**: Commercial implementation of inDrops (Klein 2015): single cells co-encapsulated with photo-cleavable hydrogel barcoded beads in a PDMS flow-focusing chip driven by external syringe pumps. Anticipates: the academic-spinout commercialization path for single-cell barcoding, the use of dissolvable hydrogel beads as barcode carriers (vs. solid beads in Drop-seq), and the lower-cost open-architecture alternative to 10x Chromium. Many academic labs run this directly off the Klein 2015 paper without 1CellBio hardware.
+
+## Bhattacharjee 2016 3D-Printed Microfluidics Toolkit (2016-04)
+
+- **id**: `bhattacharjee-2016-3d-printed-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Albert Folch lab (U Washington); Bhattacharjee N., Urrios A., Kang S.
+- **disclosure**: Bhattacharjee N., Urrios A., Kang S., Folch A., 'The upcoming 3D-printing revolution in microfluidics', Lab on a Chip 16:1720-1742 (2016); doi:10.1039/C6LC00163G; companion review and design library
+- **ip status**: open-permissive
+- **prior art notes**: Discloses a comprehensive 3D-printed microfluidics design toolkit with free downloadable CAD files including: pressure-actuated membrane valves, T-junction droplet generators, herringbone mixers, and serpentine reactors all printable on commodity DLP-SLA printers using PEGDA-based resins. Specifically anticipates patents post-2016 claiming '3D-printed pneumatic membrane microvalves for microfluidic devices' and 'libraries of 3D-printable microfluidic components distributed as parametric CAD files.' Element-by-element discloses the membrane-deflection valve geometry achievable in stereolithography, the choice of biocompatible PEGDA resins, and the calibration of channel dimensions against printer pixel pitch.
 
 ## Custom 3D printer and resin for 18×20 µm microfluidic flow channels (2017)
 
@@ -24,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gong, H.; Bickham, B. P.; Woolley, A. T.; Nordin, G. P. Custom 3D printer and resin for 18 µm × 20 µm microfluidic flow channels. Lab Chip 2017, 17, 2899–2909. DOI: 10.1039/C7LC00644F
 - **ip status**: public-domain
 - **prior art notes**: Established that DLP-SLA 3D printing can produce sub-25-µm enclosed microfluidic channels using a custom printer with custom UV-absorber resin formulation. Anticipates: dual-cycle resin with photoinitiator + UV absorber to localize photopolymerization, layer thickness selected from optical penetration depth (not arbitrary), and enclosed channel formation via timed exposures. The direct ancestor of the Nordin 2026 multi-resolution work.
+
+## Fluent BioSciences PIPseq particle-templated emulsification (2022-02-01)
+
+- **id**: `fluent-biosciences-pipseq`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluent BioSciences
+- **disclosure**: Clark, I. C. et al. Microfluidics-free single-cell genomics with templated emulsification. Nat. Biotechnol. 2023, 41, 1557-1566. DOI: 10.1038/s41587-023-01685-z. Fluent BioSciences product launch 2022.
+- **ip status**: patented
+- **prior art notes**: PIPseq replaces flow-focusing droplet generation with templated emulsification: pre-formed hydrogel particles carrying barcoded oligos are mixed with cells and oil in a tube, then vortexed; the hydrogel particle becomes the template that nucleates a uniform aqueous droplet around each particle. Anticipates: chip-free droplet-template emulsification for single-cell barcoding, reducing the sample-prep instrument to a vortexer. Major prior-art consequence: invalidates broad claims requiring 'microfluidic flow-focusing' as the necessary droplet-generation mechanism for high-throughput single-cell barcoding. Originated in the Adam Abate lab (UCSF).
 
 ## DISH: digital incoherent synthesis of holographic light fields (2026-02-11)
 

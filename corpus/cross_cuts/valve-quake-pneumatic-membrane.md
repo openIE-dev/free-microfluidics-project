@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-quake-pneumatic-membrane`
 
-**14 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1988
 
@@ -115,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed elastomeric fluidic-rectifier and oscillator primitives implemented as monolithic-PDMS Quake-valve variants. Provides a microfluidic equivalent of the diode and the relaxation oscillator. Anticipates: monolithic elastomeric fluidic logic substrate, and autonomous-pumping microfluidic chips that operate without external pressure modulation.
 
+## Fluidigm C1 single-cell auto prep system (2012)
+
+- **id**: `fluidigm-c1-singlecell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Fluidigm Corp. (now Standard BioTools)
+- **disclosure**: Fluidigm Corp. C1 Single-Cell Auto Prep System product launch 2012. Pollen, A. A. et al. Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex. Nat. Biotechnol. 2014, 32, 1053-1058. DOI: 10.1038/nbt.2967.
+- **ip status**: patented
+- **prior art notes**: Pre-droplet commercial single-cell platform: a multilayer PDMS IFC with hydrodynamic capture sites and Quake-valve-controlled reagent chambers performs lysis, reverse transcription, and pre-amplification for 96 (or 800) single cells in parallel. Anticipates: integrated-valve-array single-cell prep architectures; the predecessor approach to droplet-based single-cell prep, with much lower throughput but full-length cDNA. The Pollen 2014 paper (and dozens of similar single-cell papers in 2013-2016) all use the C1; this is the architectural anchor for any 'integrated single-cell mRNA prep on chip' claim before droplets dominated.
+
 ## Standard BioTools (formerly Fluidigm) C1 single-cell genomics IFC (2013)
 
 - **id**: `standard-biotools-csg-fluidigm`
@@ -124,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluidigm Corp. C1 system (now Standard BioTools). Pollen et al. 2014 Nat. Biotechnol. 32, 1053–1058. DOI: 10.1038/nbt.2967
 - **ip status**: patented
 - **prior art notes**: Single-cell capture-and-amplify IFC: 96 chambers each receiving exactly one cell by hydrodynamic trap, then automated lysis, RT, and PCR per chamber for downstream sequencing. Architectural ancestor of all subsequent microfluidic-trap single-cell genomics, including 10x Chromium's droplet successor. Largely displaced by droplet platforms after 2015 because of cost-per-cell, but retains use in low-throughput high-fidelity work.
+
+## Formulatrix Mantis and Tempest nanoliter dispensers (2013)
+
+- **id**: `formulatrix-mantis-tempest`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Formulatrix
+- **disclosure**: Formulatrix Mantis liquid handler product literature. https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/. Tempest launch ~2017.
+- **ip status**: patented
+- **prior art notes**: Disposable-microfluidic-chip dispenser: each chip carries pneumatic diaphragm valves that meter and dispense nanoliter reagent volumes from off-chip reservoirs. Mantis is the lower-throughput single-channel system; Tempest is a 96-channel rack of identical metering primitives. Anticipates: the architectural pattern of putting the dispense metering primitive on a disposable consumable rather than on a fixed instrument syringe, which categorically eliminates carryover; the use of pneumatic diaphragm valves as the metering element in nanoliter dispensing; the chip-on-instrument architecture for low-volume reagent dispensing as an alternative to acoustic (Echo) or piezo (Mosquito) approaches.
 
 ## Emulate Inc. Organ-Chip platform (2014)
 
@@ -135,6 +155,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial organ-on-chip platform deriving from the Huh 2010 lung-on-chip disclosure. The Zoë instrument provides perfusion and stretch actuation to standard 'Bio-Kit' organ chips. Anticipates: standardized commercial organ-chip cartridge with paired perfusion + cyclic-stretch instrument, and the organ-chip-as-a-product category.
 
+## nScrypt 3Dn-Tissue bioprinter (2014)
+
+- **id**: `nscrypt-3dn-tissue`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: nScrypt Inc.
+- **disclosure**: nScrypt Inc. 3Dn-Tissue launch ~2014 (built on Microdispensing nFD technology, ca. 2002). https://www.nscrypt.com. Patent family: US7338613B2 (nScrypt; priority 2002 SmartPump).
+- **ip status**: patented
+- **prior art notes**: Discloses a high-precision dispense bioprinter built on the nScrypt SmartPump piezo-valve dispensing technology, capable of multi-material printing of cells, hydrogels, and conductive inks. Anticipates: piezo-valve-actuated multi-material bioprinters that combine biological and electronic inks in a single platform; 3Dn-Tissue-class bioprinters as the platform for combining bioprinting with on-construct sensor printing.
+
+## Bhattacharjee 2016 3D-Printed Microfluidics Toolkit (2016-04)
+
+- **id**: `bhattacharjee-2016-3d-printed-microfluidics`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Albert Folch lab (U Washington); Bhattacharjee N., Urrios A., Kang S.
+- **disclosure**: Bhattacharjee N., Urrios A., Kang S., Folch A., 'The upcoming 3D-printing revolution in microfluidics', Lab on a Chip 16:1720-1742 (2016); doi:10.1039/C6LC00163G; companion review and design library
+- **ip status**: open-permissive
+- **prior art notes**: Discloses a comprehensive 3D-printed microfluidics design toolkit with free downloadable CAD files including: pressure-actuated membrane valves, T-junction droplet generators, herringbone mixers, and serpentine reactors all printable on commodity DLP-SLA printers using PEGDA-based resins. Specifically anticipates patents post-2016 claiming '3D-printed pneumatic membrane microvalves for microfluidic devices' and 'libraries of 3D-printable microfluidic components distributed as parametric CAD files.' Element-by-element discloses the membrane-deflection valve geometry achievable in stereolithography, the choice of biocompatible PEGDA resins, and the calibration of channel dimensions against printer pixel pitch.
+
 ## 3D-printed microfluidic valves and pumps (2017)
 
 - **id**: `kong-2017-3d-printed-microfluidic-valves`
@@ -144,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kong, D. S.; Thorsen, T. A.; Babb, J.; Wick, S. T.; Gam, J. J.; Weiss, R.; Carr, P. A. Open-source, community-driven microfluidics with Metafluidics. Nat. Biotechnol. 2017, 35, 523–529. DOI: 10.1038/nbt.3873
 - **ip status**: open-permissive
 - **prior art notes**: Demonstrated 3D-printed pneumatic membrane valves on SLA-printed substrates, replacing PDMS soft-lithography Quake valves with directly-printed equivalents. Anticipates: 3D-printed pneumatic valve architecture and the broader trend of replacing soft-lithography with single-step 3D printing.
+
+## Mathies/Quinn 2017 Microchip Capillary Electrophoresis for Mars Amino Acid Detection (2017)
+
+- **id**: `mathies-quinn-2017-microchip-ce-mars-amino-acids`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard Mathies group (UC Berkeley) / Peter Willis (NASA JPL) / Maria Mora (NASA JPL) / Aaron Noell
+- **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
+- **ip status**: patented
+- **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
 
 ## Multi-resolution DLP-SLA for 2 µm microfluidic channels (2026-02-27)
 

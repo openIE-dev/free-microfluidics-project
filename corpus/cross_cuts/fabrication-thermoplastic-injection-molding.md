@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**41 corpus entries disclose this subsystem.**
+**89 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1992
+Earliest disclosure: 1990
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
+
+- **id**: `biomerieux-vidas-3-spr-cone`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: bioMérieux
+- **disclosure**: bioMérieux VIDAS launch 1990 (pioneering ELFA technology); VIDAS 3 launch 2014; FDA 510(k) K133769
+- **ip status**: patented
+- **prior art notes**: Discloses the bioMérieux SPR (Solid Phase Receptacle) format: a polypropylene cone shaped like a pipette tip whose inner surface is pre-coated with capture antibody; the analyzer's micropipettor docks onto the cone and uses it as both pipette and solid phase, drawing sample and reagents in/out from a sealed reagent strip with 6-10 pre-loaded wells (sample well, wash wells, conjugate well, substrate well). Anticipates: integrated pipette-as-solid-phase fluidic primitive eliminating separate microtiter plate coating; sealed reagent strips with foil seal pierced by the SPR mating action; ELFA (Enzyme-Linked Fluorescent Assay) using MUP→4-methylumbelliferone for sub-pg/mL sensitivity in a single-strip format. Foundational architectural disclosure dating to 1990 — relevant prior art for many subsequent disposable-cartridge-with-pipette-cone architectures (e.g., Biotech / VIDAS-derivative platforms).
 
 ## i-STAT cartridge family (CHEM8+, CG8+, etc.) (1992)
 
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abaxis (acquired by Zoetis 2018) VetScan VS2 system; same disc-format as Piccolo Xpress for veterinary use.
 - **ip status**: patented
 - **prior art notes**: Veterinary-market sibling product of the Piccolo Xpress: same centrifugal microfluidic disc architecture but with veterinary chemistry panels. Reference for the broader veterinary diagnostic cartridge market, which under-indexes in human-medicine prior-art reviews despite using the same architectural primitives.
+
+## Quidel Triage MeterPro Immunoassay Cartridge (1995)
+
+- **id**: `quidel-triage-meterpro-fluorescence-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Quidel (formerly Biosite, then Alere)
+- **disclosure**: Biosite Triage launch 1995 (drug-of-abuse panel); Triage BNP first cardiac assay 2000-11 (FDA 510(k) K003425); Quidel acquisition of Alere/Biosite Triage 2017; ongoing assays through 2020s
+- **ip status**: patented
+- **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
 
 ## Burstein/Tecan LabCD original disc-format platform (1997)
 
@@ -84,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen Instrumentation Laboratory GEM Premier system. https://www.werfen.com
 - **ip status**: patented
 - **prior art notes**: Cartridge-based blood gas analyzer with extended on-cartridge calibration and quality control. The GEM Premier cartridge contains all reagents, calibrants, and waste reservoirs sufficient for several hundred patient samples before replacement. Architectural cousin of i-STAT and Siemens epoc but at higher per-cartridge throughput. Reference for the multi-sample-cartridge POC blood gas segment.
+
+## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
+
+- **id**: `biomerieux-vitek-2-card-fluidics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: bioMérieux
+- **disclosure**: bioMérieux VITEK 2 launch 1999; VITEK 2 Compact 2002; FDA 510(k) K022366; VITEK 2 XL launch 2009
+- **ip status**: patented
+- **prior art notes**: Discloses an automated microbial ID/AST card-based fluidic system: a credit-card-sized polystyrene cassette containing 64 isolated microwells, each pre-loaded with a different lyophilized substrate (sugars, amino acids, antibiotic dilutions); the card mates with a transfer tube dipped into the bacterial inoculum suspension, and the analyzer's vacuum chamber draws inoculum into all wells simultaneously; the card is then sealed and continuously incubated at 35.5 °C with kinetic optical readout (turbidity at 660 nm + colorimetric pH/redox indicators). Anticipates: vacuum-loaded multi-well microbiology cards as a fluidic primitive for parallel substrate testing; the 'transfer tube + manifold + sealed card' architecture distinguishing VITEK from microtiter plate ID systems. Foundational disclosure for automated clinical microbiology workflows.
 
 ## Beckman Coulter AU/DxC clinical chemistry analyzer (2003)
 
@@ -175,6 +205,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Reagent-cartridge format for high-volume clinical chemistry (200+ assays / hour). Each reagent cartridge integrates microfluidic delivery channels for reagent metering. Architecturally a high-volume implementation of microfluidic reagent dispensing in central lab automation context. Reference for the broader 'central-lab-automation' microfluidic patent thicket distinct from POC cartridges.
 
+## Wilson Wolf G-Rex gas-permeable bioreactor (2007)
+
+- **id**: `wilson-wolf-grex`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Wilson Wolf Manufacturing
+- **disclosure**: Vera, J.F. et al. Accelerated production of antigen-specific T cells for preclinical and clinical applications using gas-permeable rapid expansion cultureware (G-Rex). J. Immunother. 2010, 33(3):305-15. doi:10.1097/CJI.0b013e3181c0c3cb. Earlier disclosure: US7745209B2 (Wilson, J.; priority 2005).
+- **ip status**: patented
+- **prior art notes**: Discloses a closed gas-permeable cell-culture vessel using a thin silicone bottom membrane to permit O2/CO2 transfer from below while supporting a deep static medium column above the cells. Enables T-cell expansion at densities and absolute cell numbers an order of magnitude beyond conventional flask geometries without active pumping or perfusion. Anticipates: (a) gas-permeable membrane bottoms for closed cell-therapy expansion vessels; (b) static-perfusion-free CAR-T expansion architecture; (c) integrated Luer-and-tubing harness for closed-system aseptic transfer between expansion vessel and downstream wash/concentrate steps. As nominal architectural ancestor to G-Rex-equivalent compartments inside Lonza Cocoon, Cellares Cell Shuttle, and Miltenyi CliniMACS Prodigy, the G-Rex line is the workhorse for academic and most commercial CAR-T expansion.
+
+## Cytiva Xcellerex XDR single-use stirred-tank bioreactor (2007)
+
+- **id**: `cytiva-xcellerex-xdr`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Cytiva (Danaher; formerly Xcellerex)
+- **disclosure**: Xcellerex Inc. XDR launch 2007 (acquired by GE Healthcare 2012, now Cytiva). Patent family: US7682067B2 (Xcellerex; priority 2005).
+- **ip status**: patented
+- **prior art notes**: Discloses single-use stirred-tank bioreactor architecture with rigid outer support and disposable inner bag plus impeller assembly. Anticipates: large-format single-use stirred-tank bioreactor architectures for CGT and viral-vector manufacturing; integration with single-use sensor patches and tubing harnesses for closed-system operation at 50-2000 L scale.
+
+## Stago STA R Max Coagulation Analyzer Cuvette Ball Mixer (2007)
+
+- **id**: `stago-sta-r-max-coag-fluidics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagnostica Stago
+- **disclosure**: Stago STA R Evolution launch 2007; STA R Max launch 2014; FDA 510(k) K082437; mechanical viscosity detection patent US4319194 (Stago 1982)
+- **ip status**: patented
+- **prior art notes**: Discloses Stago's signature mechanical clot detection: the assay cuvette contains a small steel ball oscillated by an external rotating magnetic field; as plasma coagulation progresses, viscosity rises, dampening ball oscillation amplitude/phase, sensed by a Hall-effect or coil pickup. Unlike optical (Werfen ACL TOP) or chromogenic (Sysmex CS) detection, the viscosity-based primitive is immune to chyle/hemolysis/icterus optical interference — enabling testing on samples that would fail other analyzers. Anticipates: magneto-mechanical viscosity-based clot detection in disposable cuvettes; the architectural choice of pre-loading the ball into the cuvette during manufacture (vs adding it at runtime). Defines the commercial niche for centers with high pediatric / hemolyzed sample loads.
+
+## ISS Lab-on-Chip Application Development Portable Test System (LOCAD-PTS) (2007)
+
+- **id**: `iss-locad-pts-handheld-bioassay`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: NASA Marshall Space Flight Center / Charles River Laboratories (Endosafe-PTS) / University of Surrey
+- **disclosure**: Maule J et al., 'Rapid culture-independent microbial analysis aboard the International Space Station (ISS) Stage Two: Quantifying microbial Burden,' Astrobiology 9(8):759-775 (2009), doi:10.1089/ast.2008.0319; Morris HC et al., 'Lab-on-a-Chip Application Development Portable Test System (LOCAD-PTS) on the International Space Station,' SAE Tech. Paper 2007-01-3142 (2007)
+- **ip status**: patented
+- **prior art notes**: LOCAD-PTS is the spaceflight derivative of the Charles River Endosafe PTS handheld endotoxin tester. Microfluidic prior art disclosed: (a) the 4-channel parallel capillary-driven cartridge with lyophilized LAL/glucan-detection reagents and integrated optical absorbance window is itself prior art for any cartridge claiming similar handheld bioburden / pyrogen testing in resource-constrained environments (spaceflight, military forward operating, deep-sea); (b) the qualification of the cartridge for microgravity operation (no syringe / no positive pressure source — purely capillary wicking) is prior art for capillary-driven point-of-care cartridges that are deliberately pump-free for environments where pumping is failure-prone; (c) the published ISS protocol for swab-elute-load-read in <15 min anticipates cartridge-based environmental microbial monitoring patents for industrial and built-environment applications. The Charles River Endosafe US patents are the IP citations; the spaceflight qualification is open-published.
+
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
 - **id**: `biofire-filmarray-multiplex-pcr-cartridge`
@@ -195,6 +265,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Major commercial food-pathogen detection platform: cartridge-format integrated sample prep + amplification + detection for Salmonella, Listeria, E. coli O157:H7, and other foodborne pathogens. The food-safety POC cartridge segment is dominated by Neogen, 3M Petrifilm, BioControl, and Hygiena — all with substantial cartridge-architecture patent estates.
 
+## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
+
+- **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Siemens Healthineers (formerly Bayer Diagnostics)
+- **disclosure**: Siemens RAPIDPoint 500 510(k) K080776 cleared 2008; product datasheet 2008-09; predecessor RAPIDLab 1265 patents (Bayer Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Discloses an all-in-one POC blood gas cartridge integrating: thick-film potentiometric ISE array (pH, pCO2, pNa, pK, pCa, pCl), amperometric pO2 + glucose + lactate enzyme electrodes, and a multi-wavelength CO-oximetry cuvette for total Hb fractionation, all sharing a peristaltic-pump-driven flow path; reagent/calibrant/wash bags integrated into the cartridge body and pierced by mechanical actuators inside the analyzer; auto-calibration runs between samples without user intervention; cartridge-resident sample volume <100 µL. Anticipates: long-life POC blood-gas cartridges with on-board reagent storage and integrated CO-oximetry — the architectural pattern dominating ICU/ER/OR analyzers. Differs from Werfen GEM Premier (separate entry) in cartridge design (Siemens' 'measurement cartridge' separates sensors from reagents).
+
+## BD BACTEC FX Blood Culture Bottle Fluorescence Detection (referenced; predominantly BD product) (2008)
+
+- **id**: `biomerieux-bactec-fx-bottle-fluorescence`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Becton Dickinson (BD Diagnostics)
+- **disclosure**: BD BACTEC FX launch 2008; FDA 510(k) K081298; BACTEC fluorescent CO2 sensor patent US4945060 (1990)
+- **ip status**: patented
+- **prior art notes**: Discloses non-invasive optical detection of microbial growth in blood culture bottles via a polymer-embedded fluorescent CO2-sensitive dye disk bonded to the bottle's interior bottom; CO2 produced by metabolizing organisms diffuses into the polymer matrix, lowering pH, increasing protonation of the dye and shifting fluorescence emission. The reader monitors each bottle every 10 minutes via LED illumination through the bottle bottom and PMT detection of dye fluorescence. Anticipates: optical-bottom growth-monitoring blood culture systems (vs the displaced colorimetric Bactec NR system requiring needle-stick CO2 sampling); the architectural pattern of disposable bottle-as-sensor with continuous external optical readout — the fluidic-engineering primitive being reagent-free monitoring through a polymer membrane.
+
+## Thermo Fisher Phadia 2500 Allergy/Autoimmune ImmunoCAP Cartridge (2008)
+
+- **id**: `thermo-fisher-phadia-2500-immunoassay`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Thermo Fisher Scientific (formerly Phadia AB / Pharmacia Diagnostics)
+- **disclosure**: Phadia 2500 launch 2008; Phadia 5000 launch 2009; FDA 510(k) K071727 (Phadia 250 predecessor); ImmunoCAP first cleared 1989
+- **ip status**: patented
+- **prior art notes**: Discloses the ImmunoCAP solid-phase fluorescent enzyme immunoassay: a cellulose-based 3D porous matrix in a capsule, derivatized with allergen, providing massively expanded surface area (vs flat-bottom microtiter wells) for IgE binding kinetics; the capsule is the disposable assay element, transported through automated wash, conjugate, and substrate steps in a Phadia rotor analyzer. Anticipates: 3D porous solid-phase immunoassay matrices as the binding-kinetics primitive distinguishing allergy testing (which requires capturing very low IgE concentrations against extract heterogeneity); the WHO IgE calibration traceability that established Phadia/ImmunoCAP as the global allergy reference. Element-by-element architectural disclosure relevant to all derivative ImmunoCAP assays (Phadia 100, 250, 1000, 2500, 5000).
+
+## ChemoMetec NucleoCounter NC-200 / NC-3000 Single-Use Cassette (2008)
+
+- **id**: `chemometec-nucleocounter-nc-200-cassette`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: ChemoMetec A/S
+- **disclosure**: ChemoMetec NucleoCounter NC-3000 launch 2008; NC-200 launch 2014; cell viability via DAPI fluorescence imaging
+- **ip status**: patented
+- **prior art notes**: Discloses the Via-1 single-use cassette architecture: a sealed disposable microfluidic chamber pre-loaded with acridine orange (AO, all-cells stain) + DAPI (dead-cells stain), with an integrated piston-syringe for user-driven 60 µL sample aspiration, optical window for CCD imaging, and embedded lot/calibration QR code. The NucleoCounter platform replaces flow-cell hematology-style cell counting with a static-chamber image-cytometry primitive — eliminating clogging issues with clumpy bioreactor samples. Anticipates: image-cytometry single-use cassette format for biopharma cell counting; lysis-free total + viable cell count using AO+DAPI fluorescence imaging; the 21 CFR Part 11 GMP-traceable single-cassette workflow (audit trail per cassette). Distinguishes from Beckman Vi-CELL (Trypan Blue + brightfield + flow cell) by static-chamber + fluorescence approach.
+
+## 3M / Solventum Hollow Microstructured Transdermal System (hMTS) (2008)
+
+- **id**: `3m-hollow-microneedle-patch`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: 3M Drug Delivery Systems (now Solventum)
+- **disclosure**: Burton SA et al. Pharm Res 28(1):31-40 2011 doi:10.1007/s11095-010-0177-8; 3M Drug Delivery Systems patent family
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
+
 ## Fluxion BioFlux organ-on-chip platform (2009)
 
 - **id**: `fluxion-bioflux-platform`
@@ -204,6 +324,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluxion Biosciences BioFlux platform. https://www.fluxionbio.com
 - **ip status**: patented
 - **prior art notes**: Plate-format microfluidic perfusion platform: 24-well plate footprint with each well containing a microfluidic channel for cell culture under shear stress. Used widely in vascular biology, endothelial-shear, and adhesion-assay applications. Architectural cousin of Emulate organ chips at lower complexity but plate-compatible footprint.
+
+## Sartorius ambr 15 microbioreactor system (2009)
+
+- **id**: `sartorius-ambr-15`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Sartorius Stedim Biotech (formerly TAP Biosystems)
+- **disclosure**: TAP Biosystems (acquired by Sartorius 2013) ambr 15 launch 2009. Bareither, R.; Pollard, D. A review of advanced small-scale parallel bioreactor technology for accelerated process development. Biotechnol. Prog. 2011, 27:2-14. doi:10.1002/btpr.522. Patent family: US8501462B2 (TAP Biosystems; priority 2007).
+- **ip status**: patented
+- **prior art notes**: Discloses a parallel-array microbioreactor system in which 24-48 single-use stirred-tank vessels of 10-15 mL working volume are simultaneously controlled with individual DO, pH, temperature, and gas-mix feedback, fed and sampled by a robotic pipettor. Anticipates: (a) parallel-microbioreactor process development as a category, including for CGT cell-line characterization; (b) robotic-pipettor-fed parallel small-scale stirred-tank arrays; (c) computer-vision and impedance-based monitoring of individual microbioreactor wells for AI-driven design-of-experiment process optimization.
+
+## Cytiva ÄKTA ready single-use chromatography skid (2009)
+
+- **id**: `cytiva-akta-ready`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cytiva (Danaher; formerly GE Healthcare)
+- **disclosure**: GE Healthcare (now Cytiva) ÄKTA ready launch 2009. Cytiva Application Note 28-9408-25 AB. Underlying single-use flow-path patent family: US8221629B2 (GE Healthcare; priority 2007).
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use chromatography skid in which the entire wetted flow path (tubing, valves, sensors, filters) is supplied as a pre-assembled gamma-irradiated disposable, eliminating clean-in-place validation between batches. Anticipates: (a) fully single-use chromatography skids as a category, including for CGT viral-vector downstream processing; (b) integration of disposable in-line UV, conductivity, and pH sensors into the chromatography flow path; (c) modular interchangeability between disposable flow paths and pre-packed chromatography columns. The single-use skid pattern is the dominant downstream bioprocessing architecture for new-build AAV and lentivirus manufacturing facilities.
+
+## Roche MagNA Pure 96 Magnetic-Bead Nucleic Acid Extraction Cartridge (2009)
+
+- **id**: `roche-magna-pure-96-extraction-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 96 product launch 2009-09; CE-IVD; product datasheet; FDA 510(k) K141195 (DNA/RNA extraction)
+- **ip status**: patented
+- **prior art notes**: Discloses a magnetic-bead nucleic acid extraction architecture using a magnetic rod inserted into and retracted from a tip-shrouded sleeve to capture/release silica-coated magnetic beads in successive wells of lysis, wash, and elution buffers — the 'Magtration'-style fluid handling distinct from open-well aspirate-based magnetic transfer. Anticipates: 96-well moving-magnet pipettor extraction systems; the 'tip-comb' format where each magnetic rod is sleeved by a disposable polypropylene tip preventing cross-contamination of the rod itself. Workflow improvement over manual Boom 1990 silica extraction (already in corpus, ID boom-1990-silica-magnetic-extraction).
+
+## Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette (2009)
+
+- **id**: `radiometer-abl90-flex-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Radiometer Medical (Danaher)
+- **disclosure**: Radiometer ABL90 FLEX launch 2009-09; FDA 510(k) K093103; ABL90 FLEX PLUS update 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
 ## Thermo Fisher TaqPath / Applied Biosystems QuantStudio cartridge (2010)
 
@@ -245,6 +405,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Veterinary POC cartridge platform spanning blood chemistry, hematology, and infectious disease testing. Architecturally similar to human-medicine i-STAT and Piccolo Xpress but tuned for veterinary species and workflows. Reference for the broader veterinary POC cartridge market, which under-indexes in human-medicine prior-art reviews.
 
+## Pall Allegro STR / single-use fluidic train (2010)
+
+- **id**: `pall-allegro-stt`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Pall Corporation (Danaher)
+- **disclosure**: Pall Life Sciences Allegro single-use product line launch 2010. Pall Application Note USD3036. Patent family: US8506198B2 (Pall Corporation; priority 2008).
+- **ip status**: patented
+- **prior art notes**: Discloses end-to-end single-use bioprocess fluidic train architecture (mix, hold, transfer, filter, chromatograph, fill) with pre-assembled gamma-irradiated containers and tubing assemblies. Anticipates: pre-assembled multi-step single-use fluidic train architectures for biopharma upstream and downstream processing including CGT and viral-vector workflows.
+
+## Sartorius BioSMB continuous multi-column chromatography (2010)
+
+- **id**: `sartorius-biosmb-continuous-chromatography`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sartorius / Pall (formerly Tarpon Biosystems)
+- **disclosure**: Tarpon Biosystems (acquired by Pall 2015; subsequently part of Sartorius portfolio via Danaher BioPharma divestment) BioSMB launch 2010. Bisschops, M. et al. Single-use, continuous-countercurrent, multicolumn chromatography. BioProcess Int. 2009. Patent family: US8057694B2 (Tarpon Biosystems; priority 2008).
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-column simulated-moving-bed continuous chromatography platform using a single-use disposable diaphragm-valve manifold rather than traditional metal rotary SMB valves. Anticipates: single-use disposable valve manifolds for continuous chromatography; SMB continuous Protein A capture as a CGT/mAb downstream architecture; multi-column countercurrent chromatography integrated with single-use bioprocess trains.
+
+## Werfen ACL TOP 750 Coagulation Analyzer Optical Cuvette Train (2010)
+
+- **id**: `werfen-acl-top-750-coag-optical`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Instrumentation Laboratory / Werfen
+- **disclosure**: Instrumentation Laboratory ACL TOP 700 launch 2010; ACL TOP 750 launch 2014; FDA 510(k) K141728
+- **ip status**: patented
+- **prior art notes**: Discloses an optical-detection coagulation analyzer with a four-wavelength LED illumination + photodiode receiver per cuvette: 405 nm for clot turbidity (PT/aPTT) and chromogenic substrate absorbance (e.g., antithrombin); 575 nm correction wavelength for hemoglobin/icterus interference; 671 nm for immunoturbidimetric (D-dimer); 810 nm for HIL flagging and longer-wavelength immunoturbidimetric. The fluid handler integrates automated cap piercing, primary-tube sampling, automated dilutions, and on-board reagent reconstitution. Anticipates: multi-wavelength optical coag detection consolidating clot/chromogenic/immunoturbidimetric assays in a single-cuvette format; HIL flagging by absorbance ratiometry. Direct competitor architecture to Stago (mechanical) and Sysmex CS series.
+
+## DiaSorin LIAISON XL Immunoassay Magnetic Bead Cuvette (2010)
+
+- **id**: `diasorin-liaison-xl-magnetic-bead-cuvette`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DiaSorin S.p.A.
+- **disclosure**: DiaSorin LIAISON XL launch 2010-04; FDA 510(k) K100796 (25-OH Vitamin D), K113036 (BNP)
+- **ip status**: patented
+- **prior art notes**: Discloses an isoluminol-based flash chemiluminescence immunoassay analyzer using PMP capture: cuvette receives sample + PMP-coated capture antibody + isoluminol-conjugated detection antibody, magnetic capture and wash, then injection of trigger reagent (peroxide-base) generates isoluminol oxidation flash detected by PMT. The cuvette is single-use; the analyzer pipettor and magnet stations are washed between samples. Anticipates: isoluminol (vs acridinium ester, vs ECL ruthenium) as the chemiluminescence label class for high-throughput immunoassay; the global Vitamin D testing market built on this fluidic primitive (since 25-OH-D Total assay's 2010 standardization). Distinct from Roche Elecsys (ECL) and Beckman DxI (alkaline phosphatase + dioxetane glow).
+
+## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
+
+- **id**: `vaxxas-hd-map-microneedle`
+- **corpus**: private
+- **device class**: other
+- **creator**: Vaxxas Pty Ltd (University of Queensland spin-out)
+- **disclosure**: Fernando GJ et al. PLoS ONE 5(4):e10266 2010 doi:10.1371/journal.pone.0010266; Vaxxas patent family
+- **ip status**: patented
+- **prior art notes**: Discloses high-density microneedle array patches with vaccine antigen dry-coated on each tip; rehydration occurs in epidermal interstitial fluid. The microneedle array itself is the dispense interface, and the microliter interstitial-fluid envelope around each tip is the microfluidic delivery space. Anticipates: solid-microneedle dry-coated vaccine patches; HD-MAP applicator architectures; epidermal interstitial-fluid as a delivery microfluidic.
+
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
 - **id**: `bio-rad-qx-ddpcr-system`
@@ -255,6 +465,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated commercial workflow for droplet digital PCR: cartridge-based generation of ~20,000 monodisperse droplets per sample, off-chip thermal cycling, and droplet-by-droplet fluorescence readout. Anticipates: the digital-PCR workflow as a discrete commercial category, integration of injection-molded droplet-generation cartridges with an instrument-side flow controller, and a sample-to-answer ddPCR system architecture.
 
+## Quanterix Simoa HD-X / HD-1 Single-Molecule Array Bead Cartridge (2011)
+
+- **id**: `quanterix-simoa-hd-x-bead-cartridge`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Quanterix Corporation
+- **disclosure**: Quanterix Simoa HD-1 launch 2014-02 (commercial); HD-X launch 2017-09; founding paper Rissin et al. Nat. Biotechnol. 2010 (already in corpus as rissin-2010-quanterix-simoa); FDA 510(k) K181616 (Simoa Nf-Light)
+- **ip status**: patented
+- **prior art notes**: Discloses the commercial Simoa fluidic platform: capture beads functionalized with antibody capture single-molecule analyte; bead suspension is loaded onto an injection-molded cyclic-olefin-polymer femtoliter microwell array disc (each array contains ~216,000 50 fL wells, sized to seat exactly one bead per well); fluorocarbon oil seals each well, isolating it as a digital reaction chamber; β-galactosidase-mediated cleavage of RGP in 'on' wells produces resorufin fluorescence detectable by CCD imaging — enabling binary single-molecule counting (digital ELISA). Anticipates: commercial-scale single-molecule immunoassay cartridges with sealed femtoliter wells; 24-array disposable disc format; the architectural pattern of bead-as-capture + microwell-as-digital-counter + oil-seal-as-isolation that defines digital immunoassay. Companion (Sherman et al. patent family) covers the 24-array disc geometry and bead-loading pipettor sequence not detailed in the academic Rissin 2010 paper.
+
 ## Tandem Diabetes t:slim X2 insulin pump cartridge (2012)
 
 - **id**: `tandem-tslim-x2-cartridge`
@@ -264,6 +484,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tandem Diabetes Care t:slim X2 Insulin Pump. https://www.tandemdiabetes.com
 - **ip status**: patented
 - **prior art notes**: Disposable insulin pump cartridge with integrated micro-pump (microfluidic delivery channel + flat-membrane reservoir) for sub-µL/min closed-loop insulin dosing. Architecturally a high-volume implementation of microfluidic dosing technology — the sub-mL/day insulin delivery rates make this one of the most demanding commercial microfluidic dosing applications. Anticipates: programmable closed-loop microfluidic pharmaceutical delivery in disposable cartridge form factor.
+
+## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
+
+- **id**: `hologic-panther-fusion-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Hologic / Gen-Probe
+- **disclosure**: Hologic Panther launch 2012-04; Panther Fusion launch 2017-09; FDA 510(k) K112113 (Panther); K173494 (Fusion module)
+- **ip status**: patented
+- **prior art notes**: Discloses the Panther/Fusion fluidic architecture: random-access processing of single-use Aptima Target Capture tubes containing magnetic capture oligonucleotide-functionalized beads — the bead/capture-oligo hybridizes the target nucleic acid before any amplification, washing away interferents (e.g., for urine and vaginal swab matrices); released targets are transferred to amplification tubes for either TMA (Panther main module: chemiluminescent detection via hybridization protection assay HPA) or RT-PCR (Panther Fusion module: real-time fluorescent multiplex). Anticipates: true random-access molecular analyzers integrating target capture + amplification + detection in a continuous single-tube workflow; HPA dual-kinetic-assay chemiluminescence as a non-amplification-coupled detection alternative to fluorescence; architectural separation of TMA and PCR onto distinct modules sharing the same sample handler.
+
+## ANGLE Parsortix Cell Capture Cassette (2012)
+
+- **id**: `angle-parsortix-wearable-thought`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: ANGLE plc
+- **disclosure**: ANGLE plc patent family WO2012094325; Miller MC et al. Cancers 10(9):344 2018 doi:10.3390/cancers10090344; FDA De Novo DEN200054 May 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable size-and-deformability CTC capture microfluidic cassette with a precision step feature that traps cells stiffer/larger than the gap height while smaller blood cells flow through. Recovers viable captured cells for downstream assay. Anticipates: deformability-step CTC capture cassettes; FDA-cleared CTC capture-and-harvest topology distinct from CellSearch (already in corpus as kapur-2013-cellsearch-ctc-system).
+
+## Sartorius ambr 250 high-throughput single-use bioreactor (2013)
+
+- **id**: `sartorius-ambr-250`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: TAP Biosystems / Sartorius ambr 250 launch 2013. Tai, M. et al. ambr 250 use in CHO cell process development. Biotechnol. Prog. 2015, 31:1388-1395. doi:10.1002/btpr.2142. Patent family extends from US8501462B2.
+- **ip status**: patented
+- **prior art notes**: Mid-scale parallel-array stirred-tank microbioreactor system bridging the ambr 15 and pilot-scale bioreactors. Anticipates: scale-down models of 2000 L commercial bioreactors implemented as parallel 100-250 mL single-use vessels with matched mixing and aeration characteristics, used as the FDA-recognized scale-down qualification approach for bioprocess development. The ambr 250 HT perfusion variant additionally anticipates integration of single-use cell-retention devices (ATF/TFF) into a parallel-array small-scale platform.
+
+## Formulatrix Mantis and Tempest nanoliter dispensers (2013)
+
+- **id**: `formulatrix-mantis-tempest`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Formulatrix
+- **disclosure**: Formulatrix Mantis liquid handler product literature. https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/. Tempest launch ~2017.
+- **ip status**: patented
+- **prior art notes**: Disposable-microfluidic-chip dispenser: each chip carries pneumatic diaphragm valves that meter and dispense nanoliter reagent volumes from off-chip reservoirs. Mantis is the lower-throughput single-channel system; Tempest is a 96-channel rack of identical metering primitives. Anticipates: the architectural pattern of putting the dispense metering primitive on a disposable consumable rather than on a fixed instrument syringe, which categorically eliminates carryover; the use of pneumatic diaphragm valves as the metering element in nanoliter dispensing; the chip-on-instrument architecture for low-volume reagent dispensing as an alternative to acoustic (Echo) or piezo (Mosquito) approaches.
+
+## Diagenode Megaruptor hydrodynamic DNA shearer (2013)
+
+- **id**: `diagenode-megaruptor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagenode
+- **disclosure**: Diagenode Megaruptor product launch 2013; Megaruptor 3 launch 2019. https://www.diagenode.com/en/p/megaruptor-3.
+- **ip status**: patented
+- **prior art notes**: Hydrodynamic DNA shearing in a disposable thermoplastic cartridge: a syringe pumps DNA solution through a precisely-defined micro-orifice, the resulting shear forces fragment DNA to a flow-rate-tunable target length. Anticipates: cartridge-based hydrodynamic shearing for long-read library prep, a categorically different fragmentation primitive vs. acoustic (Covaris) or enzymatic (transposase) shearing. Critical consumable for high-quality ONT and PacBio HiFi prep.
 
 ## Abbott ID NOW isothermal amplification cartridge (2014)
 
@@ -294,6 +564,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: T2 Biosystems T2Dx Instrument and T2Candida / T2Bacteria Panels. FDA approval September 2014.
 - **ip status**: patented
 - **prior art notes**: Cartridge platform using T2MR (magnetic resonance) detection for sepsis-causing pathogen identification directly from whole blood without culture. Anticipates: NMR-based detection on cartridge as alternative to fluorescence/electrochemistry, and the bacteremia-from-whole-blood-without-culture clinical positioning.
+
+## Haemonetics TEG 6s Thromboelastography Microfluidic Cartridge (2014)
+
+- **id**: `mindray-teg-6s-thromboelastography-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Haemonetics Corporation
+- **disclosure**: Haemonetics TEG 6s 510(k) K151967 cleared 2017-02 (US); CE-IVD 2014; technology origin: Cora Healthcare acquired by Haemonetics 2010
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic cartridge-based viscoelastic hemostasis analyzer using mechanical resonance frequency detection rather than the historic torque-pin method (TEG 5000, ROTEM): the cartridge is excited by piezoelectric driver at ~0.06 Hz; an LED illuminates the blood-air meniscus inside each microwell; clot formation increases mechanical coupling between the resonating cartridge wall and the meniscus, modulating the meniscus position which is detected by photodiode displacement sensor — yielding a TEG-equivalent amplitude trace (R, K, alpha, MA) without any moving torque pin in the blood. Anticipates: cartridge-resident viscoelastic hemostasis testing eliminating the cup-and-pin mechanism; the architectural choice of resonance-shift detection enabling vibration tolerance suitable for transport / cardiac OR. Distinct from ROTEM sigma (Werfen) which uses electromechanical detection in a similar cartridge format.
+
+## Sysmex CS-2500 / CN-6000 Coagulation Analyzer Multi-Wavelength Cuvette (2014)
+
+- **id**: `sysmex-cs-2500-coag-automated`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sysmex Corporation (in partnership with Siemens for hemostasis menu)
+- **disclosure**: Sysmex CS-2500 launch 2014-04; CN-6000 (next-gen) launch 2018; FDA 510(k) K140617 (CS-2500)
+- **ip status**: patented
+- **prior art notes**: Discloses a coagulation analyzer with pre-analytical HIL flagging integrated into the same cuvette as the assay measurement: before reagent dispense, the analyzer reads plasma absorbance at 340/405/575/660/800 nm to detect hemoglobin (free Hb >0.2 g/dL), bilirubin, and lipid scattering, allowing the analyzer to skip or reflex assays whose chemistry is invalidated by interference (e.g., D-dimer immunoturbidimetric is invalidated by lipemia). The five-wavelength optical detection consolidates clot turbidity (PT/aPTT), chromogenic substrate hydrolysis (chromogenic factor activity), and immunoturbidimetric (D-dimer, antithrombin antigen) in a single cuvette type. Anticipates: pre-analytical HIL detection in the assay cuvette as a fluidic-engineering primitive enabling reflex routing; multi-wavelength optical detection consolidating diverse coag chemistries in one cuvette; the Sysmex/Siemens partnership architecture (Sysmex hardware + Siemens HemosIL-equivalent reagent menu).
+
+## Sage Science PippinHT cassette electrophoresis (2014)
+
+- **id**: `sage-pippinht-electrophoresis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sage Science
+- **disclosure**: Sage Science PippinHT product launch ~2014. https://sagescience.com/product/pippinht/. PippinPrep launched 2010.
+- **ip status**: patented
+- **prior art notes**: Cassette-format automated DNA size selection: a disposable agarose-filled cassette has electrodes integrated and software-controlled collection wells that elute target size ranges by gating the field at the right time. Anticipates: cassette electrophoresis as a fluidic primitive for NGS / long-read library prep; integration of size-selection into a closed disposable rather than manual gel cut-and-elute. The Pippin cassette is the dominant size-selection step in PacBio HiFi and ONT long-read library prep.
+
+## Cytiva Sefia S-2000 cell processing system (2015)
+
+- **id**: `cytiva-sefia`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Cytiva (Danaher) / Biosafe SA
+- **disclosure**: Cytiva (formerly GE Healthcare; technology originally from Biosafe SA, acquired 2016). Sefia S-2000 product launch 2015. https://www.cytivalifesciences.com/en/us/shop/cell-therapy/instruments/sefia-s-2000-cell-processing-system. Underlying Sepax patent family: US7311849B2 (Biosafe SA; priority 2002).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated closed-system cell-processing platform built around a single-use centrifugal separation chamber. The chamber spins on a vertical axis while inlet/outlet ports remain stationary via a rotary fluidic interface; cells are concentrated, washed, and reformulated in successive scripted cycles. Anticipates: (a) closed centrifugal-bowl architecture for CGT washing and formulation steps, especially as an interoperable upstream-downstream module in mixed-vendor CAR-T workflows; (b) rotary fluidic-interface valving for connecting stationary tubing to a spinning processing chamber; (c) script-driven multi-step cell processing in a barcode-tracked single-use kit. The Sefia kit is the de facto standard wash/concentrate step in many academic and commercial CAR-T lines including Kymriah and Yescarta.
+
+## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
+
+- **id**: `werfen-gem-premier-5000-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Instrumentation Laboratory / Werfen
+- **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
 
 ## 10x Genomics Chromium controller and Next GEM chip (2016)
 
@@ -335,6 +655,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Closed-cartridge cell therapy manufacturing platform — same product category as Cellares Cell Shuttle and Miltenyi CliniMACS Prodigy. The cell therapy manufacturing cartridge segment is one of the fastest-growing commercial microfluidic markets (2020-onward).
 
+## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
+
+- **id**: `abbott-alinity-i-immunoassay-fluidics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Abbott Laboratories (Abbott Diagnostics Division)
+- **disclosure**: Abbott Diagnostics Alinity i product launch press release 2017-09-19; Alinity i Operations Manual; FDA 510(k) K163388
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous-access central-laboratory immunoassay analyzer with a single-use injection-molded reaction vessel (RV) per assay, a multi-arm robotic pipettor performing sample/diluent/microparticle/conjugate aspiration in metered sub-microliter volumes, an in-RV magnetic-bead capture wash station, and an integrated chemiluminescent detection cuvette. The fluidic architecture distinguishes from Architect i2000 (already in corpus, ID abbott-architect-i2000) by replacing the shared cuvette wash circuit with disposable RVs, eliminating cross-contamination paths. Anticipates: walk-away CMIA cartridge architectures using one-disposable-per-test with integrated mag-bead wash and flash chemiluminescence detection in the same vessel. Element-by-element coverage of: disposable PP reaction-vessel arrays presented in continuous queue; sample probe + reagent probes co-located over RV stations; pre-trigger and trigger reagent dispense; integrated PMT detection well.
+
+## Abbott Alinity m Molecular Diagnostics Sample-to-Result Cartridge (2017)
+
+- **id**: `abbott-alinity-m-molecular-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Laboratories (Abbott Molecular)
+- **disclosure**: Abbott Alinity m CE-IVD launch 2018; FDA 510(k) K191601 (HBV viral load); product datasheet 2018-09
+- **ip status**: patented
+- **prior art notes**: Discloses a tip-and-vessel cartridge architecture for magnetic-bead nucleic-acid extraction integrated with on-board real-time PCR amplification: a disposable plastic tip aspirates sample, mixes with lysis buffer and silica-coated magnetic beads, and the bead pellet is washed and eluted in a thermally cycled microreactor instrumented with multiplex fluorescence detection. Anticipates: random-access viral load PCR with single-use extraction tips, eliminating cross-contamination of the analyzer fluid path; per-sample disposable amplification well used as the optical detection cuvette; pre-loaded reagent strip with foil-pierce sequencing. Distinct from Cepheid GeneXpert (corpus) in extraction modality (tip-suspended vs glass-fiber column) and from Roche Cobas Liat (corpus) in modular continuous queueing.
+
+## LumiraDx Point-of-Care Platform Microfluidic Test Strip (2017)
+
+- **id**: `lumiradx-platform-microfluidic-strip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: LumiraDx Limited
+- **disclosure**: LumiraDx Platform CE-IVD launch 2017-12; SARS-CoV-2 Ag EUA 2020-08-18; INR strip 510(k) K191167; D-dimer 510(k) K203049
+- **ip status**: patented
+- **prior art notes**: Discloses a unified POC platform architecture: a single handheld electromechanical reader (with electrical contacts, optical excitation, and pneumatic/mechanical actuators) accepts a family of injection-molded microfluidic test strips, each pre-loaded with assay-specific dry reagents in metered zones along a capillary-driven flow path. The strip-level architecture pattern: sample inlet → capillary metering → dry-reagent rehydration mixer → optional incubation serpentine → detection chamber (electrochemical for INR/glucose; fluorescence for SARS-CoV-2 Ag, NT-proBNP, hsTnI). Anticipates: single-reader-multi-assay POC platforms using injection-molded microfluidic strips with assay-class-specific detection chambers; the commercial scaling pattern of strip manufacturing as the unit-economics enabler for menu breadth. Differs from i-STAT (single class: electrochemistry) and Sofia (single class: fluorescent immunoassay) by spanning electrochemistry + fluorescence on the same instrument.
+
+## BD Rhapsody single-cell analysis system (2017)
+
+- **id**: `bd-rhapsody-microwell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: BD Biosciences (Cellular Research)
+- **disclosure**: Fan, H. C., Fu, G. K., Fodor, S. P. A. Combinatorial labeling of single cells for gene expression cytometry. Science 2015, 347, 1258367. DOI: 10.1126/science.1258367. BD Rhapsody product launch press release, 2017 (BD acquired Cellular Research 2015).
+- **ip status**: patented
+- **prior art notes**: Microwell-array cartridge that loads single cells and barcoded capture beads pairwise into ~200k Poisson-loaded picoliter wells by gravity. Lysis is performed in-well, mRNA hybridizes to bead-bound poly-T capture probes, then beads are pooled for off-cartridge cDNA synthesis. Anticipates: pairwise cell+bead microwell loading at picoliter scale as an alternative to droplet co-encapsulation; the architecture explicitly trades throughput for elimination of moving fluidic parts. The Cellular Research / Fodor 2015 disclosure is the academic anchor for any microwell-based single-cell barcoding claim. Direct competitor architecture to 10x Chromium and HIVE.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -354,6 +714,76 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Visby Medical respiratory and STI tests. FDA 510(k) family. https://www.visbymedical.com
 - **ip status**: patented
 - **prior art notes**: Single-use, palm-sized PCR cartridge with integrated optical detection and battery power; the test result is read by visual inspection of color-coded LEDs without requiring an instrument. Architecturally distinguished from Lucira (isothermal LAMP) by using true PCR thermal cycling on disposable. Anticipates: instrument-free thermal-cycled PCR cartridge with embedded heater and battery, and the device-disposable-as-instrument architectural collapse.
+
+## Adva Biotechnology AdvaBio bioreactor (2018)
+
+- **id**: `adva-biotechnology-advabio`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Adva Biotechnology Ltd.
+- **disclosure**: Adva Biotechnology Ltd. AdvaBio platform. https://www.advabio.com. Patent family: US10465155B2 (Adva Biotechnology; priority 2014).
+- **ip status**: patented
+- **prior art notes**: Closed single-use bioreactor for CGT expansion targeting smaller batch sizes than the Wave/Xuri family, with integrated process-analytical-technology (DO/pH/glucose) feedback. Anticipates: integration of in-line PAT sensors with closed single-use bioreactors at sub-litre scale for CGT-specific workflows.
+
+## Abbott i-STAT Alinity Handheld Blood Analysis Cartridge (2018)
+
+- **id**: `abbott-istat-alinity-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Point of Care
+- **disclosure**: Abbott i-STAT Alinity FDA 510(k) K172011 cleared 2018-01-10; product launch press release 2018-02
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
+
+## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
+
+- **id**: `heska-element-ht5-veterinary-imaging`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Heska Corporation (now Mars Petcare)
+- **disclosure**: Heska Element HT5 launch 2018-09; product datasheet; companion Heska 510(k) K200147
+- **ip status**: patented
+- **prior art notes**: Discloses an in-clinic veterinary hematology analyzer using image cytometry (vs flow cytometry) for the WBC differential: stained WBCs flow through a microfluidic imaging channel under high-magnification CCD imaging, and convolutional-neural-network (CNN)-based image classification produces 5-part diff plus reticulocyte count (since 2019 software updates). Distinguishes from IDEXX ProCyte Dx (Sysmex-licensed flow cytometry), Sysmex XN, Beckman DxH, and Mindray BC-6800 (all flow cytometry-based) by retaining actual cell images for veterinarian review — important in veterinary clinical pathology where edge cases (mast cell tumor mast cells in peripheral blood, exotic species hematology) benefit from image evidence. Anticipates: image-cytometry hematology as an alternative to flow cytometry; CNN-based image classification embedded in a clinical analyzer; the architectural choice of single-cuvette image + impedance hybrid (vs separate multi-channel architecture).
+
+## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
+
+- **id**: `parse-biosciences-evercode`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Parse Biosciences (formerly Split Biosciences)
+- **disclosure**: Rosenberg, A. B. et al. Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science 2018, 360, 176-182. DOI: 10.1126/science.aam8999. Parse Biosciences (Split Biosciences) commercial launch 2019.
+- **ip status**: patented
+- **prior art notes**: Combinatorial split-pool barcoding kit derived from the SPLiT-seq method (Rosenberg & Roco 2018). Each cell or nucleus is fixed and permeabilized, then distributed across plate wells through 3-4 sequential rounds of in-cell barcode oligo ligation/RT; the cell itself is the compartment, no droplet generator or microwell chip is required. Anticipates: instrument-free, plate-based combinatorial single-cell barcoding architectures; fixable-sample workflows for single-cell RNA-seq that decouple sample collection from library prep; the architectural distinction from 10x Chromium (no droplet microfluidics, only multichannel pipettors and 96-well plates) enabling sub-$1 per-cell economics at >100k cell scale. Also anticipates instrument-side passive fluidic handling consisting solely of plate transfer and centrifugation.
+
+## Ori Biotech IRO cell therapy manufacturing platform (2019)
+
+- **id**: `ori-biotech-iro`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Ori Biotech Ltd
+- **disclosure**: Ori Biotech IRO platform. Press launch 2019; commercial availability 2023. https://www.oribiotech.com. Patent family: WO2018229497A1 / US11629322B2 (Ori Biotech Ltd; priority 2017).
+- **ip status**: patented
+- **prior art notes**: Discloses a closed-cartridge end-to-end CGT manufacturing system architecturally distinguished from Cellares Cell Shuttle and Lonza Cocoon by its emphasis on (a) decentralized hospital-deployable manufacturing rather than centralized factories; (b) in-line cell counting and viability sensing integrated within the cartridge fluidic path; (c) modular multi-cartridge-per-instrument architecture. Anticipates: distributed-manufacturing CGT cartridge instruments; in-cartridge sensor integration for real-time release-criterion monitoring; multi-tenant-batch CGT instruments supporting concurrent patient-specific runs.
+
+## S2 Genomics Singulator tissue dissociation system (2019)
+
+- **id**: `s2-genomics-singulator`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: S2 Genomics
+- **disclosure**: S2 Genomics Singulator 100 product launch 2019. https://s2genomics.com/.
+- **ip status**: unknown
+- **prior art notes**: Disposable-cartridge automated tissue dissociation: tissue and enzyme cocktail are loaded into a sealed plastic cartridge, the instrument applies controlled mechanical agitation and temperature, and the resulting cell or nuclei suspension is filtered into a recovery tube. Anticipates: cartridge-format upstream sample-prep automation for single-cell genomics, decoupling the upstream dissociation step from the downstream scRNA-seq instrument and reducing operator-dependence. Direct architectural prior art for any 'closed-cartridge tissue-to-suspension automation' claim.
+
+## Azenta (Brooks) GENEWIZ NGS sample-prep cartridges (2019)
+
+- **id**: `azenta-brooks-cartridges`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Azenta Life Sciences (formerly Brooks Life Sciences)
+- **disclosure**: Brooks Life Sciences acquisition of GENEWIZ 2018; rebranded Azenta Life Sciences 2022. https://www.azenta.com/.
+- **ip status**: trade-secret
+- **prior art notes**: Azenta (formerly Brooks Life Sciences) supplies thermoplastic sample-storage and prep consumables (cryotubes, racks, scanning labware) that interoperate with their automated sample-management instruments. Many of these consumables incorporate microfluidic features (e.g. integrated filters in lysis cartridges, sealed transfer ports). Anticipates: the integration of microfluidic-feature-bearing consumables into a sample-management ecosystem rather than a single instrument.
 
 ## Lucira Health Check It home COVID-19 isothermal molecular test (2020)
 
@@ -385,6 +815,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AI-augmented veterinary diagnostic platform: cartridge-format sample preparation + smartphone or instrument imaging + cloud-based AI analysis. Reference for the broader 'AI-augmented veterinary POC' product category. Architectural cousin of the human-medicine Ozcan/Cunningham smartphone-microfluidic diagnostic platforms but tuned for veterinary workflow and species.
 
+## Singleron Matrix microwell single-cell platform (2020)
+
+- **id**: `singleron-matrix-microwell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies Matrix product launch 2020. https://singleronbio.com/. Dura, B. et al. scFTD-seq: freeze-thaw lysis based, portable approach toward high-density scRNA-seq. Nucleic Acids Res. 2019, 47, e16. DOI: 10.1093/nar/gky1173 (foundational microwell architecture).
+- **ip status**: unknown
+- **prior art notes**: Microwell-array single-cell platform analogous to BD Rhapsody and HIVE: cells and barcoded beads gravity-loaded into picoliter microwells in a thermoplastic chip, lysed in-well, and beads collected magnetically. Anticipates: the architectural convergence on picoliter-microwell-plus-barcoded-bead single-cell prep across multiple vendors and geographies, which is a major prior-art counter to broad claims attempting to monopolize that architecture.
+
+## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
+
+- **id**: `dnanudge-rapid-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: DnaNudge Ltd. (Imperial College London spin-out)
+- **disclosure**: Gibani MM et al. Lancet Microbe 1(7):e300-e307 2020 doi:10.1016/S2666-5247(20)30121-X (CovidNudge clinical evaluation); UK MHRA authorization
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
+
+## Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track (2021)
+
+- **id**: `beckman-coulter-dxi-9000-immunoassay`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Beckman Coulter (Danaher)
+- **disclosure**: Beckman Coulter DxI 9000 launch 2021-09; FDA 510(k) K223188 (cleared 2023)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use reaction vessel immunoassay analyzer optimized for cardiac STAT throughput: each RV is loaded onto a continuous track, receives sample + PMP-conjugated capture antibody + alkaline-phosphatase-labeled detection antibody via independently controlled pipettors, undergoes magnet-station capture and wash within the same RV (no transfer), and is moved to the dioxetane-substrate dispense and PMT integration station. Anticipates: high-throughput single-use RV immunoassay tracks with in-vessel PMP wash; alkaline-phosphatase + Lumi-Phos 530 dioxetane chemiluminescence substrate (alternative to acridinium ester and ECL); the centralized fluidic path where sample-and-reagent transit is robotic but each RV is the immutable assay vessel. Foundational fluidic difference from Roche e-series (ECL on electrode) and Abbott Architect (CMIA flash on washed wells) — Beckman uses prolonged glow chemiluminescence integrated for 4-5 seconds.
+
+## Honeycomb Biotechnologies HIVE scRNAseq solution (2021)
+
+- **id**: `honeycomb-hive-scrnaseq`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Honeycomb Biotechnologies
+- **disclosure**: Honeycomb Biotechnologies HIVE scRNAseq Solution. Product launch announcement 2021. https://honeycomb.bio/. Founder technology from Lisa Cameron / Wyss Institute lineage.
+- **ip status**: patented
+- **prior art notes**: Hand-held microwell-array sample-collection device: a disposable plastic cartridge containing tens of thousands of picoliter microwells with pre-loaded barcoded capture beads. Cell suspension is loaded directly at the collection site; cells settle into wells by gravity / centrifugation; storage buffer immediately preserves transcriptome. The architectural innovation is decoupling sample-collection from instrument scheduling: clinics or field sites collect samples into HIVEs and ship to a sequencing core. Anticipates: ambient-temperature shippable single-cell collection cartridges, integration of microwell single-cell barcoding into specimen-collection (rather than core-facility) workflows.
+
 ## Cellares Cell Shuttle CAR-T manufacturing platform (2022)
 
 - **id**: `cellares-cell-shuttle`
@@ -414,6 +884,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sherlock Biosciences INSPECTR product family. https://sherlock.bio
 - **ip status**: patented
 - **prior art notes**: Commercial SHERLOCK-platform CRISPR cartridge: SHERLOCK Cas13-based detection in single-use cartridge with smartphone or instrument readout. Direct architectural cousin of Mammoth DETECTR BOOST but with Cas13 enzyme and different sample-prep chemistry. Reference for the broader CRISPR-cartridge product category alongside the academic foundational disclosures.
+
+## Miltenyi CliniMACS Prodigy Adapt module (2023)
+
+- **id**: `miltenyi-prodigy-adapt`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Miltenyi Biotec
+- **disclosure**: Miltenyi Biotec CliniMACS Prodigy Adapt product launch. https://www.miltenyibiotec.com/global/en/products/clinimacs-prodigy-adapt.html (announced 2023; references parent CliniMACS Prodigy patent family).
+- **ip status**: patented
+- **prior art notes**: Extension module to the CliniMACS Prodigy closed-cartridge platform that adds higher-throughput and adaptable process steps for allogeneic cell therapies (gene-edited NK, iPSC-derived, off-the-shelf CAR-T). Architecturally significant as the first commercial closed cartridge to integrate selection, activation, transduction/electroporation, expansion, formulation, and fill-finish for allogeneic products in a single disposable. Anticipates: closed-cartridge architectures supporting multi-modal gene delivery (lentiviral, electroporation, chemical) and continuous selection across multiple cell types within one disposable; modular extensions to GMP cartridge platforms.
 
 ## SHUGA POC molecular diagnostic cartridge (2024 demonstration) (2024)
 

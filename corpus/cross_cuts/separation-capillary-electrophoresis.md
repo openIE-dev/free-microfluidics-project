@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**13 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953
 
@@ -144,3 +144,63 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hughes, A. J. et al. Single-cell western blotting. Nat. Methods 2014, 11, 749–755. DOI: 10.1038/nmeth.2992
 - **ip status**: patented
 - **prior art notes**: Disclosed single-cell western blotting on a polyacrylamide-gel chip with thousands of microwells, each containing one cell, where after lysis and electrophoresis the gel-bound proteins are immunoprobed in place. Anticipates: per-cell-resolution proteomics by chip-format gel electrophoresis, and the gel-as-microfluidic-substrate paradigm.
+
+## Sage Science PippinHT cassette electrophoresis (2014)
+
+- **id**: `sage-pippinht-electrophoresis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sage Science
+- **disclosure**: Sage Science PippinHT product launch ~2014. https://sagescience.com/product/pippinht/. PippinPrep launched 2010.
+- **ip status**: patented
+- **prior art notes**: Cassette-format automated DNA size selection: a disposable agarose-filled cassette has electrodes integrated and software-controlled collection wells that elute target size ranges by gating the field at the right time. Anticipates: cassette electrophoresis as a fluidic primitive for NGS / long-read library prep; integration of size-selection into a closed disposable rather than manual gel cut-and-elute. The Pippin cassette is the dominant size-selection step in PacBio HiFi and ONT long-read library prep.
+
+## The ODIN DIY Genetic Engineering Kits (2015)
+
+- **id**: `the-odin-diy-genetic-eng-kits`
+- **corpus**: open
+- **device class**: other
+- **creator**: The ODIN (Josiah Zayner)
+- **disclosure**: The ODIN founded 2015 by Josiah Zayner; first public DIY CRISPR kit released 2016; https://www.the-odin.com; documented in Zayner J., 'A Step-by-Step Guide to DIY CRISPR' (2016 e-book) and extensive press coverage (NYT, Wired, MIT Tech Review)
+- **ip status**: open-permissive
+- **prior art notes**: Discloses retail distribution of complete molecular-biology workflows to non-institutional users, including microfluidic-adjacent open hardware (PCR thermocycler, gel rig, mini-centrifuge) bundled with reagents and step-by-step protocols. The ODIN's open documentation of its kits' hardware (BOMs, schematics) and its written protocols are prior art against post-2016 'consumer molecular biology kit' patents and against many 'low-cost integrated PCR-and-gel cartridge' claims. Specifically anticipates: any patent claiming 'a consumer-grade integrated genetic engineering kit comprising thermocycling, electrophoresis, and reagent components.'
+
+## Bento Lab Portable PCR + Centrifuge + Gel Workstation (2016-04)
+
+- **id**: `bento-lab-portable-pcr-bento-bio`
+- **corpus**: open
+- **device class**: other
+- **creator**: Bento Bioworks Ltd. (Wolfenden B., Boeing P.)
+- **disclosure**: Bento Lab Kickstarter campaign launched April 2016 by Bento Bioworks Ltd. (London) — Bethan Wolfenden, Philipp Boeing; https://www.bento.bio; product first shipped 2017
+- **ip status**: patented
+- **prior art notes**: Existing corpus entry 'bento-bio-engineer' covers Bento at the brand level. This entry pins the original Bento Lab product as a specific, dated disclosure (April 2016 Kickstarter, with public BOM/teardowns subsequently published) of an integrated portable thermocycler+centrifuge+gel-electrophoresis workstation. Specifically anticipates: 'portable integrated molecular-biology workstation' patent claims that read on the combination of <3 kg form factor, integrated thermocycler with PCR-tube format, integrated centrifuge with PCR-tube/strip format, integrated horizontal gel-electrophoresis with built-in transilluminator, and smartphone-app-driven thermocycling programs. Discloses element-by-element each of these subsystems in their integrated single-enclosure architecture.
+
+## Abbott Alinity c Clinical Chemistry Analyzer Cuvette Wheel (2017)
+
+- **id**: `abbott-alinity-c-clinical-chemistry-fluidics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Abbott Laboratories
+- **disclosure**: Abbott Diagnostics Alinity c product launch 2017-09-19; FDA 510(k) K163387
+- **ip status**: patented
+- **prior art notes**: Discloses a thermostatted reaction cuvette wheel with permanent fused-quartz cuvettes, a multi-channel sample/reagent pipettor metering with sub-microliter precision via ceramic syringes, an in-place wash/dry station between assay cycles, and an in-line ion-selective-electrode (ISE) module fed by the same primary sample probe. Anticipates: high-throughput central-lab photometric chemistry analyzers using a fixed-cuvette rotary wheel + spectrophotometer reading at multiple wavelengths through each cuvette as it rotates past a fixed light source; ISE module sharing pipettor metering with photometric channel. Differs from Roche Cobas c (in corpus) in cuvette material (fused quartz vs glass), wash sequence, and integration with Alinity i shared sample track.
+
+## ExoMars Rosalind Franklin MOMA (Mars Organic Molecule Analyser) (2017)
+
+- **id**: `exomars-moma-pyr-gcms-ldms`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Max Planck Institute for Solar System Research (MPS) / NASA GSFC / LISA / CNES / ESA / Thales Alenia Space
+- **disclosure**: Goesmann F et al., 'The Mars Organic Molecule Analyzer (MOMA) Instrument: Characterization of Organic Material in Martian Sediments,' Astrobiology 17(6-7):655-685 (2017), doi:10.1089/ast.2016.1551
+- **ip status**: public-domain
+- **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
+
+## Mathies/Quinn 2017 Microchip Capillary Electrophoresis for Mars Amino Acid Detection (2017)
+
+- **id**: `mathies-quinn-2017-microchip-ce-mars-amino-acids`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard Mathies group (UC Berkeley) / Peter Willis (NASA JPL) / Maria Mora (NASA JPL) / Aaron Noell
+- **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
+- **ip status**: patented
+- **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.

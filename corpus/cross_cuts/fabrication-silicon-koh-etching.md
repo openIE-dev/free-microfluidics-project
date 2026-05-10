@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-koh-etching`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -44,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manz, A.; Graber, N.; Widmer, H. M. Miniaturized total chemical analysis systems: a novel concept for chemical sensing. Sens. Actuators B 1990, 1, 244–248. DOI: 10.1016/0925-4005(90)80209-I
 - **ip status**: public-domain
 - **prior art notes**: The seminal disclosure of integrated total chemical analysis on a single miniaturized substrate. Anticipates the entire concept of multi-step assay integration on a chip — sample prep, reagent addition, separation, and detection in one device. Any patent claim asserting novelty over 'integrated chemical analysis on a microscale chip' as a generic concept must contend with this 1990 paper.
+
+## Epson PrecisionCore MicroTFP Print Chip (2013)
+
+- **id**: `epson-precisioncore-microtfp-chip`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Seiko Epson Corporation
+- **disclosure**: Seiko Epson PrecisionCore product introduction 2013; Epson 'Thin-Film Piezoelectric Technology' technology brief at corporate.epson/en/technology/overview/printer-inkjet/thin-film-micro-piezo.html
+- **ip status**: patented
+- **prior art notes**: Discloses a unitized MEMS print chip in which a 1-µm-thick PZT film is deposited on a silicon wafer by a spin-coated liquid-precursor process and patterned to form 800 individually addressable actuators over silicon-etched ink chambers and a silicon nozzle plate. Anticipates: (a) the general class of thin-film-PZT-on-silicon high-density industrial DOD printheads, (b) the use of a sol-gel-derived PZT film as the actuator layer (an alternative to bulk PZT bonding), (c) tile-and-stitch construction yielding pagewide and wide-format heads from the same MEMS chip primitive. Predicate to Epson SureColor, Monna Lisa textile, and SC-S series products as well as the Epson S800/S3200 OEM chips supplied to third-party machine builders.

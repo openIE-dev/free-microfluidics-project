@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `cell-poration-electric`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2026-04-09
+Earliest disclosure: 2023
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Miltenyi CliniMACS Prodigy Adapt module (2023)
+
+- **id**: `miltenyi-prodigy-adapt`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Miltenyi Biotec
+- **disclosure**: Miltenyi Biotec CliniMACS Prodigy Adapt product launch. https://www.miltenyibiotec.com/global/en/products/clinimacs-prodigy-adapt.html (announced 2023; references parent CliniMACS Prodigy patent family).
+- **ip status**: patented
+- **prior art notes**: Extension module to the CliniMACS Prodigy closed-cartridge platform that adds higher-throughput and adaptable process steps for allogeneic cell therapies (gene-edited NK, iPSC-derived, off-the-shelf CAR-T). Architecturally significant as the first commercial closed cartridge to integrate selection, activation, transduction/electroporation, expansion, formulation, and fill-finish for allogeneic products in a single disposable. Anticipates: closed-cartridge architectures supporting multi-modal gene delivery (lentiviral, electroporation, chemical) and continuous selection across multiple cell types within one disposable; modular extensions to GMP cartridge platforms.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 
