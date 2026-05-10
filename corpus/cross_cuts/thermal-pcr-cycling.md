@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**26 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -255,6 +255,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses open-source release of molecular-biology enzymes and distributed-manufacturing protocols for low-resource settings. Relevance to the microfluidics commons: many of the released protocols are explicitly designed to be executed in low-cost open microfluidic / chromatography hardware, and OBL is the de-facto distribution backbone for many post-2020 DIY-bio reagent kits used in open microfluidic LAMP/PCR cartridges. Specifically anticipates: any patent claiming 'distributed manufacturing of molecular biology reagents at point-of-use in low-resource settings via open hardware purification stacks.'
 
+## Tecan DreamPrep NGS Sample Prep (2018)
+
+- **id**: `tecan-dreamprep-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tecan Group
+- **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -264,6 +274,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gibani MM et al. Lancet Microbe 1(7):e300-e307 2020 doi:10.1016/S2666-5247(20)30121-X (CovidNudge clinical evaluation); UK MHRA authorization
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
+
+## Camena Bioscience gSynth Enzymatic DNA Synthesis (2021)
+
+- **id**: `camena-bioscience-gsynth`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Camena Bioscience Ltd.
+- **disclosure**: Camena Bioscience product launch 2021; WO2019/166791 priority 2018
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic gene-synthesis platform combining short pre-made oligonucleotide blocks with controlled in-vitro assembly under chip-scale fluidic delivery. Anticipates claims to hybrid block-and-extend synthesis architectures with on-platform thermocycling.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
 
 ## Environmental microbiome sample-to-sequencing cartridges (2024 academic) (2024)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-pressure-controlled-air-over-liquid`
 
-**13 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Distinct from base Syrris-flow-chemistry entry. Discloses (a) 'pressurized-syringe' pump with sealed reservoir and electronic pressure feedback eliminating pulsation typical of HPLC pumps; (b) the FLLEX inline liquid-liquid extraction unit using a hydrophobic porous PTFE membrane to phase-separate organic and aqueous flows continuously without settling tanks; (c) Asia 320 ultra-high-pressure variant for supercritical-like flow chemistry; (d) modular architecture with shared 19-inch rack and tablet-based control software. Anticipates patent claims to pressurized-reservoir pulsation-free pumps for flow chemistry, and to inline membrane LLE within the residence-time loop of a flow reactor.
 
+## QIAGEN QIAcube HT Sample Prep (2013)
+
+- **id**: `qiagen-qiacube-ht-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
+
 ## Elveflow OB1 pressure controller (2014)
 
 - **id**: `elveflow-ob1-pressure-controller`
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Elveflow OB1 product datasheet. https://www.elveflow.com/microfluidic-products/microfluidics-flow-control-systems/ob1-pressure-controller/
 - **ip status**: trade-secret
 - **prior art notes**: Commercial multi-channel pressure controller for microfluidics, providing precise gas-pressure regulation (mbar resolution) to drive air-over-liquid flow in chips. Anticipates: instrument-side pressure regulation as a substitute for syringe pumping, integrated PID feedback on multiple independent reservoirs, and the architectural pattern of decoupling instrument pressure delivery from chip-side fluidics.
+
+## Touchlight Genetics doggybone DNA (dbDNA) Synthesis (2014)
+
+- **id**: `touchlight-doggybone-dna-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Touchlight Genetics Ltd.
+- **disclosure**: Walters et al., Nucleic Acids Res 42:e10 (2014) doi:10.1093/nar/gkt1101 (foundational dbDNA paper); EP2820164B1 priority 2012
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
 
 ## T&R Biofab IB3D / 3DX Multi-Head Bioprinter (2015)
 
@@ -135,6 +155,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
 
+## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
+
+- **id**: `molecular-assemblies-fams-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Molecular Assemblies Inc.
+- **disclosure**: Molecular Assemblies press release 2018; US10683537B2 priority 2017; Hyman & Efcavitch foundational publications
+- **ip status**: patented
+- **prior art notes**: Discloses an aqueous enzymatic DNA synthesis system designed around modular fluidic cassettes and a cleavable-terminator nucleotide chemistry distinct from DNA Script and Ansa approaches. Anticipates: variant enzymatic-synthesis chemistries deployed via modular fluidic cartridges with vendor-independent reagent delivery; positioning for DNA-data-storage industrial throughput. Useful as 102 art against claims that conflate cassette modularity with chemistry-specific architecture.
+
+## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
+
+- **id**: `microsoft-dna-storage-research-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Microsoft Research + University of Washington Molecular Information Systems Lab
+- **disclosure**: Takahashi et al., Sci Rep 9:4998 (2019) doi:10.1038/s41598-019-41228-8 (first end-to-end automated DNA storage demonstration, Microsoft Research); Newman et al., bioRxiv 2019
+- **ip status**: patented
+- **prior art notes**: Discloses an end-to-end automated DNA-storage platform integrating commercial column synthesis, microfluidic pooling and storage, and Oxford Nanopore read-out, with software encoding/decoding loops closing the cycle. Anticipates: end-to-end DNA storage system architectures that integrate commodity write and read components rather than custom synthesis chemistry; demonstration of practical write-store-read cycles measurable in hours. Useful as 102 prior art for any system claim that does not specifically tie value to a custom write or read chemistry.
+
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 
 - **id**: `mars2020-pixl-fluidic-flush`
@@ -144,3 +184,163 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Allwood AC et al., 'PIXL: Planetary Instrument for X-ray Lithochemistry,' Space Science Reviews 216:134 (2020), doi:10.1007/s11214-020-00767-7
 - **ip status**: public-domain
 - **prior art notes**: PIXL's microfluidic relevance lies in its low-pressure helium gas purge subsystem and in being the most spatially-resolved astrobiology-grade elemental mapping instrument on another planet. Element-by-element prior art disclosure: (a) gas-purge enclosure of an X-ray beam path on a robotic arm as a workaround for thin-atmosphere absorption losses anticipates patents claiming pressurized-gas-purge atmospheric-isolation envelopes for spectroscopic instruments on planetary rovers, (b) the hexapod 6-DOF micro-positioning system with 50 µm placement repeatability for a microspectroscopy instrument anticipates equivalent industrial precision-fluidic-positioning patents, and (c) PIXL's tight co-registration with SHERLOC's deep-UV map provides prior art for any 'integrated multi-modal arm-mounted astrobiology head' architecture. Co-cite with mars2020-sherloc-spectrometer for the broader Mars 2020 arm-mounted instrument pattern.
+
+## Bruker CellScape (Canopy Biosciences) (2020)
+
+- **id**: `bruker-cellscape-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Bruker Cellular Analysis (formerly Canopy Biosciences)
+- **disclosure**: Canopy Biosciences product launch 2020; Bruker acquisition of Canopy Bio 2020-08-31; Hennig et al., Cytometry A 75A:362 (2009), doi:10.1002/cyto.a.20693 (ChipCytometry foundational paper)
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic flow chip enclosing a tissue section, with integrated fluidic ports for cyclic antibody delivery and bleaching between cycles. Anticipates: ChipCytometry architecture combining a tissue-stage flow chamber with non-destructive iterative photobleaching to deplete fluorescence between cycles (vs chemical stripping in Lunaphore COMET, DNA-removal in CODEX, or laser ablation in MIBI). Anticipates claims to single-chip multiplex immunofluorescence in which the tissue is preserved as a citable physical sample.
+
+## DNA Script SYNTAX Enzymatic DNA Synthesizer (2020)
+
+- **id**: `dna-script-syntax-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Script SAS
+- **disclosure**: DNA Script SYNTAX product launch 2020-06-30; Palluk et al., Nat Biotechnol 36:645 (2018) doi:10.1038/nbt.4173; US11236377B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop microfluidic platform for enzymatic DNA synthesis using engineered TdT-nucleotide conjugates as reversible terminators, with aqueous reagent cycling delivered through a 96-well cartridge. Anticipates: chip-scale enzymatic DNA synthesis architectures that displace phosphoramidite chemistry; integration of tethered-terminator nucleotides with on-cartridge wash and deprotection cycles; benchtop-scale fluidic manifolds for parallel oligo synthesis without organic-waste handling. Anticipates claims to enzymatic synthesis platforms that pair TdT-conjugate nucleotides with aqueous flow cycling.
+
+## Ribbon Biolabs Long DNA Synthesis Platform (2020)
+
+- **id**: `ribbon-biolabs-rna-ligation-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ribbon Biolabs GmbH
+- **disclosure**: Ribbon Biolabs Series A press release 2021-09; WO2020100640A1 priority 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a long-DNA synthesis platform that constructs gene-length sequences by enzymatic ligation of pre-synthesized trimer DNA blocks under controlled fluidic conditions. Anticipates: alternative architectures to per-base synthesis that combine block-libraries with on-instrument fluidic ligation; benchtop synthesis platforms that target >10 kb DNA without PCR. Prior art for claims to ligation-based gene synthesis automated through chip-scale fluidics.
+
+## Lunaphore COMET (2021)
+
+- **id**: `lunaphore-comet-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Lunaphore Technologies SA (acquired by Bio-Techne 2023)
+- **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## Camena Bioscience gSynth Enzymatic DNA Synthesis (2021)
+
+- **id**: `camena-bioscience-gsynth`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Camena Bioscience Ltd.
+- **disclosure**: Camena Bioscience product launch 2021; WO2019/166791 priority 2018
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic gene-synthesis platform combining short pre-made oligonucleotide blocks with controlled in-vitro assembly under chip-scale fluidic delivery. Anticipates claims to hybrid block-and-extend synthesis architectures with on-platform thermocycling.
+
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
+
+- **id**: `ansa-biotechnologies-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ansa Biotechnologies Inc.
+- **disclosure**: Ansa Biotechnologies announcement 2023-06-29 of synthesizing world-record 1005 nt enzymatic-only oligo; press release; US11332757B2
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic synthesis platform that pushes oligo length past the historical ~200 nt phosphoramidite barrier through engineered TdT activity and refined fluidic cycling, demonstrating 1005 nt single-oligo synthesis. Anticipates: long enzymatic-oligo synthesis processes integrated with chip-scale fluidic cycling; chemistries with cleavable nucleotides that approach gene-length single-pass synthesis. Useful prior art against claims to enzymatic synthesis platforms that achieve >500 nt single-pass length.
+
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
+## Resolve Bioscience Molecular Cartography Pro (2024)
+
+- **id**: `resolve-bioscience-molecular-cartography-pro`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Resolve Biosciences GmbH
+- **disclosure**: Resolve Bioscience product update 2024; technical brief MC-Pro-001; original MC platform paper Groiss et al., bioRxiv 2021.10.20.464988
+- **ip status**: patented
+- **prior art notes**: Discloses platform extension of single-molecule FISH spatial transcriptomics with increased panel size and slide footprint, on the same fluidic delivery architecture. Anticipates claims to sub-100 nm lateral resolution spatial transcriptomics through iterative smFISH delivered by on-instrument microfluidics, distinct from amplification-based approaches (Xenium) or sequencing-by-hybridization (CosMx).
+
+## Akoya CODEX Athena (Imaging Bay Update) (2024)
+
+- **id**: `akoya-codex-athena-cytassist-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Akoya Biosciences Inc.
+- **disclosure**: Akoya Biosciences press release 2024; PhenoCycler-Fusion product update brief
+- **ip status**: patented
+- **prior art notes**: Discloses an additional fluidics module (Athena) that off-loads buffer management from the imaging instrument, enabling continuous multi-day cycling. Anticipates split-architecture multiplex-IF systems with separate imaging and fluidic-management modules.
+
+## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
+
+- **id**: `nanostring-cosmx-wta-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: NanoString Technologies (Bruker Spatial Biology since 2024-05)
+- **disclosure**: NanoString/Bruker product launch CosMx WTA, JPM Conference 2024-01; SP-1108 datasheet rev A; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of CosMx in-situ multiplex from ~1000-plex panels to ~18000-plex whole transcriptome through extended cycling of barcoded oligo reporters delivered by an on-instrument microfluidic system. Anticipates: on-instrument fluidic delivery sequences that perform N>16 hybridization-image-strip cycles on a single mounted slide, with microfluidic reagent storage/manifold and per-slide flowcell sealing; combinatorial barcoding scheme for ~18k targets within manageable optical-readout cycles. Specifically anticipates claims to single-instrument WTA spatial transcriptomics by sequential hybridization (vs SBS-based Xenium or sequencing-by-ligation Visium HD).
+
+## Vizgen MERSCOPE Ultra (2024-04)
+
+- **id**: `vizgen-merscope-ultra`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen press release 2024-04-15 'MERSCOPE Ultra'; AGBT 2024 abstract; product datasheet SD-0009 rev B
+- **ip status**: patented
+- **prior art notes**: Extends MERSCOPE platform with larger flowcell footprint and improved encoding chemistry that reduces total fluidic cycles. Anticipates: scaling of MERFISH-based spatial transcriptomics to >0.5 cm^2 tissue per slide using on-instrument microfluidic delivery, and reduced-round encoding schemes compatible with the same imaging hardware. Anticipates claims to high-throughput in-situ-hybridization platforms that combine optical multiplexing with progressively longer panel sizes through chemistry rather than instrument changes.
+
+## 10x Genomics Xenium Prime 5K (2024-10)
+
+- **id**: `10x-xenium-prime-5k`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.
+
+## Element Biosciences AVITI Cloudbreak (Long-Read) (2024-10)
+
+- **id**: `element-biosciences-aviti-cloudbreak`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Element Biosciences Inc.
+- **disclosure**: Element Biosciences press release 2024-10-22; AGBT 2024 'Cloudbreak' presentation; product datasheet EL-DOC-00185
+- **ip status**: patented
+- **prior art notes**: Discloses chemistry to extend the effective read length of polony sequencing by maintaining physical clustering of related fragments on the same surface region (linked-read approach), then assembling locally during base-calling. Anticipates: long-read sequencing achieved through surface-chemistry-based linkage rather than dedicated long-read instrumentation; reuse of short-read flowcell hardware for >200 bp contiguous reads via spatial linkage. Anticipates claims to long-read methods that depend on surface arrangement and sliding-window assembly within a single SBS flowcell.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-merging-electrocoalescence`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -54,3 +54,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abate, A. R.; Hung, T.; Mary, P.; Agresti, J. J.; Weitz, D. A. High-throughput injection with microfluidics using picoinjectors. Proc. Natl. Acad. Sci. USA 2010, 107, 19163–19166. DOI: 10.1073/pnas.1006888107
 - **ip status**: patented
 - **prior art notes**: Microfluidic picoinjector: introduces a precise volume of reagent into pre-formed droplets at >10 kHz rates by combining electrocoalescence with a side-channel injection orifice. Anticipates: post-formation droplet reagent injection as a primitive, and the multi-step droplet workflow architectures used in commercial directed-evolution and single-cell screening platforms.
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.

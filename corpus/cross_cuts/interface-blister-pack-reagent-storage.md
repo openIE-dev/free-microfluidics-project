@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**46 corpus entries disclose this subsystem.**
+**71 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosite Triage launch 1995 (drug-of-abuse panel); Triage BNP first cardiac assay 2000-11 (FDA 510(k) K003425); Quidel acquisition of Alere/Biosite Triage 2017; ongoing assays through 2020s
 - **ip status**: patented
 - **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
+
+## Star Trek VOY EMH emergency medical kit (1995)
+
+- **id**: `star-trek-voy-emh-emergency-kit`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Rick Berman / Brannon Braga
+- **disclosure**: Star Trek: Voyager (Paramount 1995-2001); EMH carries a portable emergency medical kit on away missions.
+- **ip status**: fictional
+- **prior art notes**: EMH's portable emergency medical kit combines diagnostic tricorder, hyposprays, surgical tools, and wound-sealant in a single carry case. Defensive prior art for self-contained emergency medical-kit form-factor with integrated diagnostics + treatments + drug-delivery.
 
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
@@ -65,6 +75,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
 
+## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
+
+- **id**: `halo-mjolnir-biofoam-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries / Microsoft / Eric Nylund
+- **disclosure**: Halo: Combat Evolved (Bungie/Microsoft, 2001); detailed in Halo: The Fall of Reach (Eric Nylund, Del Rey ISBN 978-0-345-45132-3, 2001) and Halo: First Strike (Eric Nylund, 2003).
+- **ip status**: fictional
+- **prior art notes**: Discloses an armor-integrated wound-sealant fluidic dispenser. Per the Fall of Reach novelization and on-armor lore, the MJOLNIR Mark IV/V/VI armor carries a biofoam canister system that, on detection of a penetrating wound, automatically injects a polymerizing fluid into the wound cavity to halt bleeding, immobilize damaged tissue, and deliver analgesics. Architecturally anticipates: (a) wearable closed-system fluid reservoir + on-demand actuator + injection cannula, (b) automated trigger via biosensor (heart-rate / pressure-loss / breach), (c) two-component reactive polymer mixed in-situ for cavity-fill, (d) drug-delivery payload bundled with mechanical hemostatic. The combat-armor automated injector concept is repeatedly described across Halo novels and games 2001-present and is depicted as a hands-free wearable microfluidic-equivalent sealant dispenser. Defensive prior art for hands-free combat-medic auto-injectors, wearable hemostatic foam dispensers, and biosensor-triggered drug delivery integrated into clothing/armor.
+
+## Halo SPARTAN-II augmentation procedure (Project ORION-derived) (2001)
+
+- **id**: `halo-spartan-ii-augmentation-procedure`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie / 343 Industries
+- **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey 2001) ISBN 978-0-345-45132-3, chapters describing the ONI Section III augmentation surgery; expanded in Halo: Evolutions (2009) and Halo Encyclopedia.
+- **ip status**: fictional
+- **prior art notes**: Detailed multi-stage biological augmentation pipeline: candidates undergo coordinated injections of carbide-ceramic ossification compound (skeletal infusion), muscular-density growth catalysts, occipital-capillary reversal protein, superconducting fibrification of neural dendrites, and catalytic thyroid implants. The text describes a sequence of fluid-handling subsystems (perfusion, multi-bolus controlled injection, post-op recovery tanks). Architecturally anticipates a programmable multi-reagent timed-injection regimen administered through a single integrated patient-bed pumping system; couples diagnostic monitoring with sequenced infusion. The ~3:1 mortality figure (33 of 75 candidates surviving) makes the Project ORION protocol one of the most detailed fictional descriptions of an automated multi-channel infusion bed. Defensive prior art for: programmed multi-channel infusion stations, integrated patient-bed perfusion + monitoring loops, and time-resolved augmentation drug regimens.
+
+## Firefly Simon Tam handheld medical kit (2002)
+
+- **id**: `firefly-simon-medical-bag`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Joss Whedon / Mutant Enemy
+- **disclosure**: Firefly (Fox/Mutant Enemy, 2002); Serenity (Universal, 2005).
+- **ip status**: fictional
+- **prior art notes**: Simon Tam's portable medical kit appears repeatedly across Firefly episodes — handheld diagnostic readers, single-use ampoule injectors, smart-syringe drug delivery. Architecturally anticipates: portable point-of-care diagnostic + therapeutic kit, smart pre-filled injectors with automated dosing, and combined diagnostic-therapeutic handheld device. The Serenity film extends this with the Miranda-investigation handheld scanner.
+
 ## MBARI Environmental Sample Processor (ESP) (2003)
 
 - **id**: `mbari-esp-environmental-sample-processor`
@@ -94,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DNA Genotek Oragene-DNA datasheet 2007; 23andMe consumer launch November 2007; US patent 8,470,536
 - **ip status**: patented
 - **prior art notes**: Discloses a consumer sample-collection tube whose closure mechanism is a microfluidic dispensing event: turning the cap forces a piercing element through a foil disc that holds a precise aliquot of DNA stabilizer (proteinase, chelator, antimicrobial), releasing it into the saliva sample. Anticipates: foil-pierce dispensing in consumer collection tubes; the architectural pattern of stabilizer-on-board sample tubes that release reagent at the moment of sealing for transport stability.
+
+## BioShock Plasmid bottling plant / Adam-Eve production facility (2007)
+
+- **id**: `bioshock-plasmid-bottling-plant`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Irrational Games / 2K
+- **disclosure**: BioShock (2K Games/Irrational 2007); 'Fontaine Futuristics' level in BioShock 2 (2010).
+- **ip status**: fictional
+- **prior art notes**: Plasmid bottling plant depicted as an industrial pharmaceutical-synthesis facility processing Adam (slug-secreted stem cells) into Plasmid and Eve injectables. Visible mechanics: cell-extraction tanks, mixing vats, fill-and-seal lines, distribution. Defensive prior art for: integrated bioproduction facility from raw-cell extraction through injectable-fill-and-finish, vending-machine-distributed injectable drugs.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -225,6 +275,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Lamination-based microfluidic manufacturing: stacked laser-cut PMMA / COC layers with pressure-sensitive-adhesive interlayers form integrated flow cells, including embedded blister reagent pouches and burst valves. Anticipates: PSA-laminate manufacturing as a third major microfluidic fabrication process category alongside soft lithography and thermoplastic injection molding; the architectural pattern of a CRO/CDMO providing both prototyping and production-scale runs of laminate flow cells. Many commercial diagnostic cartridges (including OEM cards inside larger systems) are ALine-built or ALine-architected.
 
+## Iron Man Bleeding Edge armor (subdermal nanofluidic suit storage) (2010)
+
+- **id**: `iron-man-bleeding-edge-armor`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Matt Fraction / Salvador Larroca / Marvel
+- **disclosure**: Invincible Iron Man #25 (Marvel December 2010), Matt Fraction & Salvador Larroca; Endo-Sym armor variant in Superior Iron Man (2014).
+- **ip status**: fictional
+- **prior art notes**: Bleeding Edge armor depicted as a nanofluidic suit stored in subdermal hollow-bone reservoirs that emerges on demand to form full powered armor. Architecturally anticipates: subdermal nano-fluid reservoirs in bone, on-demand exteriorization of programmable nanofluidic material, and bone-integrated-armor storage architecture. Defensive prior art for implanted nanofluid reservoir storage and on-demand assembly.
+
+## ThermoFisher AutoMate Express Forensic DNA Extraction (2010)
+
+- **id**: `thermofisher-automate-express-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Applied Biosystems / ThermoFisher Scientific
+- **disclosure**: Applied Biosystems AutoMate Express user guide (2010) PN 4441934; PrepFiler Express chemistry datasheet
+- **ip status**: patented
+- **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
+
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
 - **id**: `hologic-panther-fusion-cartridge`
@@ -254,6 +324,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AncestryDNA consumer launch May 2012; tube manufacturer disclosures
 - **ip status**: patented
 - **prior art notes**: Sister entry to 23andMe collection tube (same DNA Genotek architecture). Listed for completeness of the consumer-shipped microfluidic neighborhood.
+
+## Numenera Auto-doctor cypher and biotech artifacts (2013)
+
+- **id**: `numenera-autodoctor-cypher`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Monte Cook / Monte Cook Games
+- **disclosure**: Numenera Corebook (Monte Cook Games 2013) ISBN 978-1-939979-00-3; Numenera: Discovery (2018).
+- **ip status**: fictional
+- **prior art notes**: Numenera's auto-doctor cypher is a published biotech micro-device performing automated wound treatment via injected nanofluidic agents. The book details numerous similar single-use biotech cyphers (drug nanos, healing pads, anti-toxin patches). Defensive prior art for single-use disposable nanofluidic medical patches and microscale autodoc devices.
 
 ## RoosterBio xeno-free hMSC manufacturing platform (2014)
 
@@ -335,6 +415,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a small wearable tubed insulin pump that accepts standard prefilled 1.6mL glass insulin cartridges (with rubber septum and bromobutyl plunger) rather than user-filled reservoirs. The drive mechanism is a stepper motor advancing a screw against the cartridge plunger in microliter increments. Anticipates: prefilled-cartridge architectures for wearable insulin pumps; minimal-button-touchscreen wearable pump UX patterns.
 
+## Promega Maxwell RSC 48 Instrument (2016)
+
+- **id**: `promega-maxwell-rsc-48-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Promega Corp.
+- **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
+
 ## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
 
 - **id**: `abbott-alinity-i-immunoassay-fluidics`
@@ -415,6 +505,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
 
+## Star Citizen medical equipment (medical beds, MedPens, hospital ships) (2018)
+
+- **id**: `star-citizen-medical-equipment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Cloud Imperium Games / Chris Roberts
+- **disclosure**: Star Citizen alpha (Cloud Imperium Games 2018-present); Galactapedia and ship-spec sourcebooks; Endeavor-class hospital ship Q&A (2014).
+- **ip status**: fictional
+- **prior art notes**: Star Citizen has published extensive in-game and sourcebook material describing medical equipment tiers (T1 surgical bed, T2 hospital bed, T3 ambulatory bed), MedPen single-use auto-injectors, and hospital-class ships (Apollo, Endeavor). Each tier has documented capabilities for diagnostics, fluid-handling, and surgical interventions. Defensive prior art (publication 2018+) for tiered ship-medical-bed architecture and consumer-grade auto-injector pen systems.
+
+## Veracyte Decipher GRID Sample Prep Cartridge (2018)
+
+- **id**: `veracyte-decipher-prep-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Veracyte Inc.
+- **disclosure**: Veracyte Decipher Bladder + Prostate GRID product literature; FDA-cleared Decipher Prostate Genomic Classifier 510(k) K191926
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic cartridge that performs deparaffinization, lysis, magnetic-bead RNA capture, and elution of FFPE biopsy samples in an automated system. Anticipates: integrated FFPE-input molecular diagnostic cartridge with on-cartridge organic-solvent paraffin removal followed by aqueous magnetic-bead capture, eliminating manual deparaffinization steps. Useful as prior art against claims to single-cartridge FFPE-to-microarray sample prep architectures.
+
 ## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
 
 - **id**: `dexcom-g6-cgm`
@@ -434,6 +544,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Brooks Life Sciences acquisition of GENEWIZ 2018; rebranded Azenta Life Sciences 2022. https://www.azenta.com/.
 - **ip status**: trade-secret
 - **prior art notes**: Azenta (formerly Brooks Life Sciences) supplies thermoplastic sample-storage and prep consumables (cryotubes, racks, scanning labware) that interoperate with their automated sample-management instruments. Many of these consumables incorporate microfluidic features (e.g. integrated filters in lysis cartridges, sealed transfer ports). Anticipates: the integration of microfluidic-feature-bearing consumables into a sample-management ecosystem rather than a single instrument.
+
+## The Outer Worlds Unreliable medical bay and corporate medical kiosks (2019)
+
+- **id**: `outer-worlds-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Obsidian Entertainment
+- **disclosure**: The Outer Worlds (Obsidian Entertainment/Private Division 2019).
+- **ip status**: fictional
+- **prior art notes**: Spacer's Choice / Auntie Cleo medical kiosks depicted as standalone vending-machine medical units providing diagnostic scan + injectable dispensing. Defensive prior art for retail-style medical kiosks with combined diagnostic + drug-vending interfaces.
+
+## Cyberpunk RED MaxTac response unit medical capability (2020)
+
+- **id**: `cyberpunk-red-maxtac-response`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Mike Pondsmith / R. Talsorian
+- **disclosure**: Cyberpunk RED (R. Talsorian 2020) ISBN 978-1-950911-06-9.
+- **ip status**: fictional
+- **prior art notes**: MaxTac (Maximum Force Tactical Division) operators carry combat-medical equipment including auto-injectors, Speedheal injectors, and on-armor drug dispensers. Defensive prior art for combat-tactical-officer wearable drug-injector arsenal.
+
+## BillionToOne UNITY cfDNA Prep Cartridge (2020)
+
+- **id**: `billiontoone-unity-cfdna-prep`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BillionToOne Inc.
+- **disclosure**: BillionToOne UNITY product launch 2020; Tsao et al., Genet Med 24:545 (2022) doi:10.1016/j.gim.2021.10.014; US10968494B2
+- **ip status**: patented
+- **prior art notes**: Discloses cfDNA prep that integrates synthetic Quantitative Counting Templates (QCTs) at the extraction stage to provide internal calibration of allelic dosage during downstream sequencing. Anticipates: cfDNA cartridge architectures that introduce molecular controls during nucleic-acid capture rather than during library prep, enabling single-gene NIPT through quantitative allelic balance. Useful prior art against claims to cfDNA prep cartridges that bake in calibration-bead spike-in chemistry.
 
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
@@ -465,6 +605,66 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hand-held microwell-array sample-collection device: a disposable plastic cartridge containing tens of thousands of picoliter microwells with pre-loaded barcoded capture beads. Cell suspension is loaded directly at the collection site; cells settle into wells by gravity / centrifugation; storage buffer immediately preserves transcriptome. The architectural innovation is decoupling sample-collection from instrument scheduling: clinics or field sites collect samples into HIVEs and ship to a sequencing core. Anticipates: ambient-temperature shippable single-cell collection cartridges, integration of microwell single-cell barcoding into specimen-collection (rather than core-facility) workflows.
 
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
 ## Medtronic Simplera Disposable CGM (2023-09-21)
 
 - **id**: `medtronic-simplera-cgm`
@@ -474,3 +674,53 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Medtronic press release 2023-09-21 (CE Mark); FDA clearance K232973 August 2024
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable CGM in which the sensor electronics, applicator, and on-skin patch are unified into a single throwaway unit (versus reusable transmitter clipping onto disposable sensor base). Anticipates: integrated-electronics disposable CGM architecture; one-handed two-step insertion mechanisms; the consumer simplification driving the all-in-one form factor adopted by Dexcom G7 and Abbott Libre 3.
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
+
+## Akoya CODEX Athena (Imaging Bay Update) (2024)
+
+- **id**: `akoya-codex-athena-cytassist-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Akoya Biosciences Inc.
+- **disclosure**: Akoya Biosciences press release 2024; PhenoCycler-Fusion product update brief
+- **ip status**: patented
+- **prior art notes**: Discloses an additional fluidics module (Athena) that off-loads buffer management from the imaging instrument, enabling continuous multi-day cycling. Anticipates split-architecture multiplex-IF systems with separate imaging and fluidic-management modules.
+
+## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
+
+- **id**: `nanostring-cosmx-wta-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: NanoString Technologies (Bruker Spatial Biology since 2024-05)
+- **disclosure**: NanoString/Bruker product launch CosMx WTA, JPM Conference 2024-01; SP-1108 datasheet rev A; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of CosMx in-situ multiplex from ~1000-plex panels to ~18000-plex whole transcriptome through extended cycling of barcoded oligo reporters delivered by an on-instrument microfluidic system. Anticipates: on-instrument fluidic delivery sequences that perform N>16 hybridization-image-strip cycles on a single mounted slide, with microfluidic reagent storage/manifold and per-slide flowcell sealing; combinatorial barcoding scheme for ~18k targets within manageable optical-readout cycles. Specifically anticipates claims to single-instrument WTA spatial transcriptomics by sequential hybridization (vs SBS-based Xenium or sequencing-by-ligation Visium HD).
+
+## Vizgen MERSCOPE Ultra (2024-04)
+
+- **id**: `vizgen-merscope-ultra`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen press release 2024-04-15 'MERSCOPE Ultra'; AGBT 2024 abstract; product datasheet SD-0009 rev B
+- **ip status**: patented
+- **prior art notes**: Extends MERSCOPE platform with larger flowcell footprint and improved encoding chemistry that reduces total fluidic cycles. Anticipates: scaling of MERFISH-based spatial transcriptomics to >0.5 cm^2 tissue per slide using on-instrument microfluidic delivery, and reduced-round encoding schemes compatible with the same imaging hardware. Anticipates claims to high-throughput in-situ-hybridization platforms that combine optical multiplexing with progressively longer panel sizes through chemistry rather than instrument changes.
+
+## 10x Genomics Xenium Prime 5K (2024-10)
+
+- **id**: `10x-xenium-prime-5k`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.

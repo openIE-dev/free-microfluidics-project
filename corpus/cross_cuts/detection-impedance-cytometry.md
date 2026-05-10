@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-impedance-cytometry`
 
-**14 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coulter, W.H. US patent application filed 1949-10-20, US2656508A issued 1953-10-20, 'Means for counting particles suspended in a fluid'; Coulter, W.H. 'High speed automatic blood cell counter and cell size analyzer,' Proc. National Electronics Conference vol. 12 pp. 1034-1042 (1956)
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
+
+## Star Trek TOS Enterprise sickbay biobed (1966)
+
+- **id**: `star-trek-tos-biobed`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gene Roddenberry / Desilu
+- **disclosure**: Star Trek (NBC 1966-1969); pilot 'The Cage' (1965) shows early biobed; 'The Enemy Within' (1966) shows full biobed in service.
+- **ip status**: fictional
+- **prior art notes**: TOS biobed shows continuous-monitoring biosensor display panel above each bed reading vitals (cardiac, respiratory, temperature, biomass) without contact electrodes — implicit non-contact biosensor and continuous patient monitoring. Defensive prior art (1966) for non-contact wireless continuous biosensor beds. Strong cumulative depiction across 79 episodes 1966-69 plus subsequent series.
 
 ## OLS Bio CASY Cell Counter and Analyzer (formerly Innovatis CASY-TT) (1991)
 
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Drew Scientific HemaVet 850/950 launch ~1996; HemaVet 1500 launch 2003; pivotal multi-species reference distribution publications by Provost, Vet Clin Pathol
 - **ip status**: patented
 - **prior art notes**: Discloses an impedance-only multi-species veterinary hematology analyzer optimized for low-volume rodent samples (20 µL): single Coulter-principle aperture with species-specific lysing reagents; differential by impedance-histogram peak deconvolution applying species-specific RBC/WBC/PLT volume distribution priors. Anticipates: low-cost impedance-only veterinary hematology suitable for academic/preclinical pharmacology where cost and rodent-sample volume dominate over diff-channel diversity. Distinct from IDEXX ProCyte Dx (impedance + flow cytometry, higher cost, in-clinic) and from Heska Element HT5 (image cytometry). Important architectural anchor for the segment of veterinary/preclinical hematology that doesn't need fluorescence cytometry.
+
+## Halo MJOLNIR Smart-Link armor-to-medbay biotelemetry (2001)
+
+- **id**: `halo-smart-link-armor-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries / Eric Nylund
+- **disclosure**: Halo: The Fall of Reach (Nylund 2001); Halo Encyclopedia (DK 2009); Halo 4 (343 Industries, 2012) on-screen Smart-Link HUD.
+- **ip status**: fictional
+- **prior art notes**: MJOLNIR armor continually telemeters wearer biometrics (heart rate, blood gas, hydration, neural activity, wound status) to UNSC medical infrastructure. Architecturally anticipates wearable continuous biosensor + secure radio uplink + clinical decision support feedback loop. Defensive prior art for: combat-armor-integrated continuous biosensor arrays, real-time triage uplink to remote medical AI, and biosensor-driven autonomous drug-delivery decisions.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 
@@ -75,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a planetary in-situ wet chemistry cartridge architecture: a sealed disposable reaction beaker with integrated multi-ion electrochemical sensor array on the cell wall, dry-stored reagent pellets released by a mechanical dispenser, and a magnetic stir bar for homogenization. Element-by-element prior art for: (a) any cartridge claim that integrates an ISE array on a single beaker wall with a multi-ion readout (Li, Na, K, NH4, Mg, Ca, Cl, NO3, Br, perchlorate-sensitive); (b) the standard-addition titration protocol implemented through sequential dry-pellet dissolution (the BaCl2 -> SO4 turbidity step, the HNO3 acidification step) anticipates patents on dry-reagent diagnostic cartridges that perform sequential reagent additions for water-quality analysis; (c) the integration of cyclic voltammetry on the same beaker as ion-selective potentiometry anticipates multi-modal electrochemical cartridge designs. The Phoenix WCL is one of two flight precedents (with Viking Biology Instrument) for in-situ aqueous chemistry on a planetary surface.
 
+## Aber Instruments Incyte (Hamilton Incyte) Capacitance Probe (2008)
+
+- **id**: `aber-incyte-capacitance-probe`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Aber Instruments Ltd. (UK; partnered with Hamilton Bonaduz AG for Incyte)
+- **disclosure**: Aber Instruments Futura biomass monitor (predecessor) ~2000; Incyte single-use capacitance probe launched as joint Aber/Hamilton product ~2008; US patent US7,930,110B2 (Aber Instruments; biomass monitor based on dielectric spectroscopy); product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
+
 ## IDEXX ProCyte Dx Veterinary Hematology Analyzer Optical/Impedance Flow Cell (2010)
 
 - **id**: `idexx-procyte-dx-veterinary-hematology`
@@ -84,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX ProCyte Dx launch 2010-09; ProCyte One launch 2020-06
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer based on a Sysmex-licensed dual-modality flow cell (impedance + flow cytometry with side scatter and side fluorescence), ported to a compact bench-top form factor with species-specific reagent and algorithm sets. Anticipates: in-clinic veterinary applications of hybrid impedance + optical hematology platforms; the multi-species calibration architecture (RBC volume, MCV, WBC subtype distributions vary substantially across species — the analyzer must select species-specific reference distributions). Important prior art for the veterinary in-clinic hematology market as it differentiates from human-clinical-only platforms (Sysmex XN, Beckman DxH, Mindray BC). Companion to ProCyte One (2020) which uses a different IDEXX-internal optical fluorescent imaging architecture rather than Sysmex licensure.
+
+## Sartorius BioPAT Process Analytical Technology Suite (2010)
+
+- **id**: `sartorius-biopat-pat-framework`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sartorius AG
+- **disclosure**: Sartorius BioPAT product line introduced ~2010 with BioPAT MFCS SCADA; BioPAT ViaMass capacitance launched 2018; Sartorius product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a vertically-integrated PAT framework where multiple in-line probes (capacitance, Raman, DO, pH) feed a unified SCADA layer (BioPAT MFCS) that supports model-based and closed-loop process control. Anticipates: the architectural pattern of treating PAT as a software-integrated suite rather than a collection of independent probes; closed-loop bioprocess control where a probe-derived state (cell density, glucose concentration) directly modulates a feed pump. Element-by-element: probe array + transmitter rack + MFCS SCADA + closed-loop controller + bioreactor actuator (feed pump, gas valve).
 
 ## Mindray BC-6800 Hematology Analyzer SF Cube Flow Cell (2011)
 
@@ -144,6 +184,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ori Biotech IRO platform. Press launch 2019; commercial availability 2023. https://www.oribiotech.com. Patent family: WO2018229497A1 / US11629322B2 (Ori Biotech Ltd; priority 2017).
 - **ip status**: patented
 - **prior art notes**: Discloses a closed-cartridge end-to-end CGT manufacturing system architecturally distinguished from Cellares Cell Shuttle and Lonza Cocoon by its emphasis on (a) decentralized hospital-deployable manufacturing rather than centralized factories; (b) in-line cell counting and viability sensing integrated within the cartridge fluidic path; (c) modular multi-cartridge-per-instrument architecture. Anticipates: distributed-manufacturing CGT cartridge instruments; in-cartridge sensor integration for real-time release-criterion monitoring; multi-tenant-batch CGT instruments supporting concurrent patient-specific runs.
+
+## Death Stranding Bridge Baby (BB) pod and chiral-fluid life support (2019)
+
+- **id**: `death-stranding-bb-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hideo Kojima / Kojima Productions
+- **disclosure**: Death Stranding (Kojima Productions/Sony 2019); Director's Cut (2021).
+- **ip status**: fictional
+- **prior art notes**: BB pod depicted as a portable wearable life-support system: amniotic-fluid-filled vessel with integrated nutrient/oxygen circulation, neural-EEG biosensor uplink to wearer's HUD, and umbilical fluid-delivery interface. Defensive prior art for: wearable amniotic-fluid maintenance pods, infant-organism portable life-support, and biosensor uplink from immersed organism to wearer. Plus chiral-fluid (interpreted as a programmable smart-fluid) used as a tool with handheld delivery.
+
+## Iridia DNA Data Storage Chip (2020)
+
+- **id**: `iridia-dna-storage-chip`
+- **corpus**: private
+- **device class**: nanofluidic-chip
+- **creator**: Iridia Inc.
+- **disclosure**: Iridia Inc. announcement 2020; US10752946B2 priority 2017; US11214586B2
+- **ip status**: patented
+- **prior art notes**: Discloses a CMOS-fabricated DNA storage chip in which each cell is independently addressable for single-molecule DNA synthesis and read-out via integrated nanopore. Anticipates: integration of DNA-storage write and read on the same CMOS substrate; per-cell electronic addressing of nanopore-and-synthesis sites at >10^6 site density; nanofluidic single-molecule chemistries pairing on-chip electronics with enzymatic write. Anticipates claims to DNA-storage devices that combine CMOS electronics with nanopore-coupled per-cell synthesis.
 
 ## Oxford Nanopore R10.4.1 flow cell (2022-05-19)
 

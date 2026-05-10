@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `interface-optical-window-borofloat`
 
-**3 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018
+Earliest disclosure: 2005
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## optek-Danulat AF26 Absorption / Turbidity Sensor (2005)
+
+- **id**: `optek-af26-turbidity`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: optek-Danulat GmbH
+- **disclosure**: optek-Danulat GmbH AF26 product literature; sensor introduced ~2005; product datasheet rev 2018
+- **ip status**: patented
+- **prior art notes**: Discloses an inline turbidity / absorption sensor with sapphire windows in a stainless flow cell, NIR LED + photodiode pair across the optical path, signal proportional to cell-density-times-pathlength. Used as in-line PAT for fermentation cell-density measurement and downstream chromatography elution monitoring. Anticipates: inline sapphire-windowed turbidity probe architecture for high-temperature/high-pH-tolerant PAT; combined absorption + scattering measurement in a single flow cell. Element-by-element: stainless flow body + sapphire windows + LED source + photodiode detector + transmitter electronics.
+
+## Cellenion cellenONE X1 (formerly F1.4) (2017)
+
+- **id**: `cellenion-cellenone-x1-single-cell-printer`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Cellenion (a SCIENION company)
+- **disclosure**: SCIENION/Cellenion product literature 2017; Schoof et al., Nat Commun 12:3341 (2021), doi:10.1038/s41467-021-23667-y (SCoPE-MS using cellenONE); EP3431618 family
+- **ip status**: patented
+- **prior art notes**: Discloses a piezo-driven on-demand single-cell dispenser combining sub-nanoliter droplet ejection with closed-loop optical inspection of the nozzle reservoir, gating dispense on detection of exactly one cell within the droplet field of view. Anticipates: image-gated single-cell isolation into wellplates without sorting (no fluidic FACS pressurization, no microfluidic chip required); deposition of single cells with sub-nanoliter accompanying volume to enable downstream low-input proteomics or genomics; reservoir-based piezo nozzle that recirculates uncommitted cells. Anticipates claims to single-cell printers using machine-vision verification before each ejection event.
 
 ## Refeyn TwoMP / OneMP mass photometer with microfluidic flow cell (2018)
 
@@ -24,6 +44,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Young, G. et al. Quantitative mass imaging of single biological macromolecules. Science 2018, 360(6387):423-427. doi:10.1126/science.aar5839. Refeyn Ltd. founded 2018; OneMP launch 2019; TwoMP launch 2020. Patent family: WO2018011591A1 / EP3485243B1.
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop mass-photometry instrument that measures the mass of individual biomolecules landing on a coverslip surface via interferometric scattering microscopy. The microfluidic component is the disposable flow-cell-on-coverslip used to deliver sample to the field of view at low concentrations (~nM single-molecule landing rate). Anticipates: (a) coverslip-bottomed disposable microfluidic flow cells for single-molecule landing-rate analytical instruments; (b) iSCAT mass photometry as a label-free analytical readout coupled to microfluidic sample delivery; (c) Refeyn-style microfluidic flow cells for QC-relevant biopharma analytics including viral vector empty/full ratio characterization, AAV gene-therapy capsid analysis, and oligomeric-state determination of biotherapeutics.
+
+## Berkeley Lights Lightning Optofluidic System (2019)
+
+- **id**: `berkeley-lights-lightning`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights Inc. (now PhenomeX)
+- **disclosure**: Berkeley Lights Lightning product launch 2019; Berkeley Lights S-1 SEC filing 2020-06; OptoElectroPositioning patent estate US9,023,628B2
+- **ip status**: patented
+- **prior art notes**: Variant of the Berkeley Lights OptoSelect / Beacon architecture in which the optoelectronic positioning array is paired with on-chip imaging and a transfection workflow within the NanoPen chambers — distinct from the original Beacon (cell-line development focus) by including transfection-after-isolation as a single integrated workflow. Anticipates: optoelectronic-positioning chip extended with on-chip transfection events triggered after single-cell isolation; combined imaging + delivery in the same chamber array. Element-by-element: photoconductor array + NanoPen chamber + objective + on-chip pulse/cargo flush + clonal recovery export.
+
+## Bruker CellScape (Canopy Biosciences) (2020)
+
+- **id**: `bruker-cellscape-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Bruker Cellular Analysis (formerly Canopy Biosciences)
+- **disclosure**: Canopy Biosciences product launch 2020; Bruker acquisition of Canopy Bio 2020-08-31; Hennig et al., Cytometry A 75A:362 (2009), doi:10.1002/cyto.a.20693 (ChipCytometry foundational paper)
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic flow chip enclosing a tissue section, with integrated fluidic ports for cyclic antibody delivery and bleaching between cycles. Anticipates: ChipCytometry architecture combining a tissue-stage flow chamber with non-destructive iterative photobleaching to deplete fluorescence between cycles (vs chemical stripping in Lunaphore COMET, DNA-removal in CODEX, or laser ablation in MIBI). Anticipates claims to single-chip multiplex immunofluorescence in which the tissue is preserved as a citable physical sample.
 
 ## Nanofluidic scattering microscopy (NSM) (2022)
 

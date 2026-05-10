@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-drie`
 
-**41 corpus entries disclose this subsystem.**
+**48 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -285,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon-MEMS-based piezo DOD printhead developed over a decade of Ricoh thin-film piezo R&D, supporting solvent and aqueous inks at 600 dpi with 8-level greyscale through pulse-shaped multi-drop firing. Anticipates: (a) silicon-MEMS DOD printhead specifically tuned for solvent inks (sealing, swelling resistance), (b) shared compact head form factor for both wide-format scanning machines and tile-and-stitch single-pass arrays, (c) integration of an in-head heater for ink-temperature control that stabilizes drop volume against ambient drift. Predicate to Ricoh GH/MH/TH industrial printhead families and Ricoh's Pro VC60000 series web-press print engines.
 
+## SQZ Biotechnologies Cell Squeeze platform (2013)
+
+- **id**: `sqz-biotech-cell-squeeze-platform`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: SQZ Biotechnologies (originated MIT Langer/Jensen labs)
+- **disclosure**: Sharei et al., 'A vector-free microfluidic platform for intracellular delivery,' PNAS 110(6):2082-2087 (2013), doi:10.1073/pnas.1218705110; US patent US9,950,049B2 (Compositions and methods for intracellular delivery; priority 2013); SQZ Biotechnologies S-1 (2020)
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon microfluidic chip containing parallel arrays of constrictions narrower than the cell diameter; cells flow through under pressure, transient membrane discontinuities form by mechanical shear, allowing diffusive uptake of co-flowing cargo before membrane reseals. Anticipates: (a) cell-poration by passive geometric constriction without external field; (b) parallel scale-out of constriction channels for clinical-throughput delivery; (c) using the same chip architecture for B/T-cell antigen loading (SQZ APC product); (d) closed disposable cartridge format coupled to the chip for sterile fill of patient-derived cells. Distinguishable from electroporation (no field), from sonoporation (no acoustic), and from viral transduction (no biologic vector). Element-by-element: parallel constrictions + pressure drive + cargo co-flow + downstream collection chamber.
+
 ## HP Multi Jet Fusion Thermal-Agent Inkjet Array (2014)
 
 - **id**: `hp-multi-jet-fusion-thermal-agent-array`
@@ -325,6 +335,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Optoelectronic-positioning (OEP) single-cell array: a CMOS-photoconductor chip with overlaid microfluidic NanoPen chambers, where projected light patterns generate localized electric-field dielectrophoretic forces that move single cells into individual NanoPens. In-pen assays (proliferation, antibody secretion) are imaged on-instrument; selected clones can be exported. Anticipates: light-addressed dielectrophoretic single-cell handling on a CMOS substrate; the integration of a photoconductor-based DEP positioner with a closed microfluidic NanoPen array for clonal cell-line development; the broader category of light-driven addressable cell-handling chips. Acquisition trajectory (Berkeley Lights -> PhenomeX -> Bruker) and the breadth of the patent family make this a significant prior-art anchor.
 
+## Twist Bioscience Silicon Chip DNA Synthesis Platform (2016)
+
+- **id**: `twist-bioscience-silicon-oligo-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience SEC S-1 filing 2018; Mardis et al., Nature 537:533 (2016) reference to Twist; US9895673B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-wafer-based DNA synthesis platform combining DRIE-etched pico-to-femtoliter reaction wells with selective surface chemistry, addressable phosphoramidite delivery via piezo inkjet, and parallel coupling of >1 million unique sequences per wafer. Anticipates: silicon-MEMS DNA-synthesis substrates as a class; integration of inkjet-style addressed reagent delivery with photolithographically-patterned femtoliter reaction sites; use of process-controlled cycle times across an array large enough to synthesize ~10^6 unique oligos in a single wafer cycle. Anticipates claims to high-density DNA-synthesis platforms that combine MEMS substrates with pressure or piezo reagent delivery, distinct from prior Agilent inkjet-on-glass methods (which lacked the pico-well structuring).
+
+## Twist Bioscience Cell Engineering (Twist Cellomics) (2016)
+
+- **id**: `twist-bioscience-cellomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience S-1 SEC filing 2018; Twist silicon DNA synthesis patent estate US10,384,189B2 (Methods for nucleic acid assembly and high throughput sequencing, priority 2014)
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon substrate with parallel addressable reaction wells in which phosphoramidite DNA synthesis runs at scale; reagents are routed by integrated microfluidic distribution and printhead-style deposition; output oligos are pooled or selectively retrieved. The Cellomics extension packages synthesized variant libraries with downstream cell-line generation services. Anticipates: silicon-substrate massively-parallel DNA synthesis (distinct from Agilent inkjet-on-glass and from solid-phase column synthesis); subsequent integration of synthesis with cell-line variant manufacturing as a single offering. Element-by-element: silicon reaction-well array + reagent printhead + deprotection/washing fluidics + library retrieval + downstream cell engineering.
+
 ## Bionano Genomics Saphyr optical genome mapping (2017)
 
 - **id**: `nanofluidics-bionano-saphyr`
@@ -344,6 +374,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BGI MGI subsidiary product family. https://en.mgi-tech.com
 - **ip status**: patented
 - **prior art notes**: MGI Tech is BGI's sequencing-instrument subsidiary; cumulative MGI cartridge product family (DNBSEQ-T7, DNBSEQ-G400, etc.) extends the original Complete Genomics DNB technology with multiple instrument configurations. Together with native Chinese semiconductor manufacturing, MGI is positioned to compete with Illumina globally. Cumulative cartridge architectural disclosures from this family expand the broader sequencing-cartridge prior art.
+
+## SQZ AAC (Activating Antigen Carrier) platform (2017)
+
+- **id**: `sqz-aac-antigen-presenting-cells`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: SQZ Biotechnologies
+- **disclosure**: Szeto et al., 'Microfluidic squeezing for intracellular antigen loading in polyclonal B-cells as cellular vaccines,' Sci Rep 5:10276 (2015); ClinicalTrials.gov NCT04084951 (SQZ-PBMC-HPV-101 study, first posted 2019); US patent US10870112B2
+- **ip status**: patented
+- **prior art notes**: Application-specific implementation of the Cell Squeeze chip in a closed sterile single-use cartridge for clinical manufacture: leukapheresis bag connects via sterile weld to cartridge; cells routed by pneumatic flow drive through silicon constriction array; antigen co-flowed at controlled molar ratio; squeezed cells collected, washed via tangential flow, formulated for IV infusion. Anticipates: closed-cartridge silicon-constriction APC manufacturing where the entire workflow from apheresis bag to formulated drug product runs in single-use fluidic train without breaking sterile boundary. Distinguishable from CliniMACS Prodigy (uses magnetic separation + Sepax bag, no constriction-mediated cargo loading) and from Lonza Cocoon (no mechanical poration). Element-by-element: sterile inlet weld + cell-pre-conditioning chamber + silicon constriction chip + co-flowed peptide reservoir + collection bag + sterile outlet weld.
 
 ## Abbott i-STAT Alinity Handheld Blood Analysis Cartridge (2018)
 
@@ -385,6 +425,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
 
+## Iridia DNA Data Storage Chip (2020)
+
+- **id**: `iridia-dna-storage-chip`
+- **corpus**: private
+- **device class**: nanofluidic-chip
+- **creator**: Iridia Inc.
+- **disclosure**: Iridia Inc. announcement 2020; US10752946B2 priority 2017; US11214586B2
+- **ip status**: patented
+- **prior art notes**: Discloses a CMOS-fabricated DNA storage chip in which each cell is independently addressable for single-molecule DNA synthesis and read-out via integrated nanopore. Anticipates: integration of DNA-storage write and read on the same CMOS substrate; per-cell electronic addressing of nanopore-and-synthesis sites at >10^6 site density; nanofluidic single-molecule chemistries pairing on-chip electronics with enzymatic write. Anticipates claims to DNA-storage devices that combine CMOS electronics with nanopore-coupled per-cell synthesis.
+
 ## Quantum-Si Platinum protein sequencer (2022)
 
 - **id**: `quantum-si-platinum`
@@ -424,3 +474,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pacific Biosciences Revio system launch press release 2022-10-26. https://www.pacb.com/revio/. Eid, J. et al. Real-time DNA sequencing from single polymerase molecules. Science 2009, 323, 133-138. DOI: 10.1126/science.1162986 (SMRT foundational).
 - **ip status**: patented
 - **prior art notes**: Successor SMRT cell to the Sequel II SMRT cell, scaled to ~25 million zero-mode waveguides per cell (vs. ~8 million prior) on a single silicon die, enabling 4 cells to be processed simultaneously by the Revio instrument. Anticipates: the next-generation scaling of ZMW-array nanofluidic sequencing chips, including denser packing, parallel-cell architectures, and the tighter coupling of optical readout with on-chip nanofluidics.
+
+## Ultima Genomics UG100 W-series Wafer Flow Cell (2024)
+
+- **id**: `ultima-genomics-100ug-100w-wafer-flowcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ultima Genomics Inc.
+- **disclosure**: Ultima Genomics product update 2024; AGBT 2024 abstract; US11434531B2 / US11486003B2 (Ultima open-substrate sequencing patents)
+- **ip status**: patented
+- **prior art notes**: Discloses a sequencing-by-synthesis architecture in which a 200 mm patterned silicon wafer is spun on a chuck while reagents are dispensed centrally and distributed by centrifugal force to all bead-binding sites simultaneously. Anticipates: open-substrate massively parallel sequencing dispensing reagents by radial centrifugal coating instead of channelized flow; pairing of wafer-scale TDI line-scan imaging with patterned bead anchors; wafer-format scale-up of sequencing throughput by enlarging the substrate rather than increasing channel density. Distinguishes from all enclosed-flowcell sequencers (Illumina, Element, MGI) and is itself unanticipated by them. The W-series specifically scales to a 200 mm wafer (vs prior UG100 chip).
+
+## Twist Bioscience Cellomics Single-Cell Barcoding Kit (2024)
+
+- **id**: `twist-bioscience-cellomics-singlecell`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience product announcement 2024; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses commercial productization of Twist's silicon-chip oligo synthesis output as single-cell barcode pools, leveraging the picoliter-well synthesis chip for combinatorial-barcode purity advantage over bead-based or other commercial barcode pools.

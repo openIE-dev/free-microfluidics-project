@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-microchannel-cooling-electronics`
 
-**21 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1981
 
@@ -85,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a borosilicate glass microreactor module composed of stacked etched plates with a 'heart-shaped' (HEART) mixing/heat-transfer geometry that produces repeated splitting and recombination of the reagent stream within sub-millimeter channels. Heat-transfer fluid flows in adjacent channels, enabling kW/L heat removal. Anticipates: (a) the heart/teardrop micro-mixer geometry as a manufacturable industrial micromixer with isothermal control of fast exotherms; (b) numbering-up by stacking thin glass plates rather than scale-up by enlarging channels; (c) continuous-flow production-grade reactor with all wetted parts borosilicate glass for chemical compatibility; (d) integration of heat-exchange and reaction in the same fluidic plate using counter-current cross-flow architecture. Should be cited against any later patent claiming heart/teardrop split-and-recombine mixers in stacked glass plates for continuous chemistry.
 
+## Peter F. Hamilton ANA Governance distributed-consciousness substrate (Void Trilogy) (2007)
+
+- **id**: `hamilton-ana-governance-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter F. Hamilton
+- **disclosure**: Peter F. Hamilton, The Dreaming Void (Macmillan UK 2007) ISBN 978-0-230-00135-6; The Temporal Void (2008); The Evolutionary Void (2010).
+- **ip status**: fictional
+- **prior art notes**: ANA is depicted as a distributed substrate hosting uploaded human consciousness on Earth, including biological wetware components requiring continuous fluidic life-support and cooling. Defensive prior art for distributed wetware computational substrates with integrated coolant and nutrient circulation. Mark draft due to thinner specifics than Memorycell entry.
+
 ## Lonza FlowPlate microreactor (with Ehrfeld BTS) (2008)
 
 - **id**: `lonza-flowplate`
@@ -124,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PowerCell Sweden AB founding 2008 (Volvo SOFC spinout); Karlsson, P.; Lundberg, J.; Sjöstrand, M. 'Diesel-fueled SOFC APU using a microchannel reformer' SAE Technical Paper 2011-01-2271, 2011; PowerCell datasheet rev 2018; Volvo Powertrain microchannel reformer prior art DE19712114A1 1997
 - **ip status**: patented
 - **prior art notes**: Discloses a diffusion-bonded stainless-steel microchannel autothermal reformer with catalyst-coated reaction channels and parallel combustion channels for in-situ heating, sized for vehicle-APU SOFC integration. Anticipates patent claims directed to integrated microchannel reformer-combustor architectures for distributed hydrogen production. Pairs with Velocys (FT side) and Air Products (steam reforming) to broadly cover the microchannel-reformer prior art.
+
+## Eclipse Phase synthmorph internal fluid-skeleton and lubricant systems (2009)
+
+- **id**: `eclipse-phase-synthmorph-fluid-skeleton`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Posthuman Studios
+- **disclosure**: Eclipse Phase core rulebook (Posthuman Studios 2009); Transhuman sourcebook.
+- **ip status**: fictional
+- **prior art notes**: Synthmorph mechanical bodies described with internal hydraulic actuator fluid, cooling loops, and self-repair fluidic systems requiring periodic 'fueling' at maintenance hubs. Defensive prior art for humanoid-robot internal fluid-handling subsystems and dedicated robot-maintenance fluid-fill stations.
 
 ## Corning Advanced-Flow Reactor G3 (production-scale) (2010)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-foil-pierce-actuation`
 
-**16 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hecht MH et al., 'Detection of Perchlorate and the Soluble Chemistry of Martian Soil at the Phoenix Lander Site,' Science 325(5936):64-67 (2009), doi:10.1126/science.1172466; Kounaves SP et al., 'The MECA Wet Chemistry Laboratory on the 2007 Phoenix Mars Scout Lander,' JGR Planets 114:E00A19 (2009), doi:10.1029/2008JE003084
 - **ip status**: public-domain
 - **prior art notes**: Discloses a planetary in-situ wet chemistry cartridge architecture: a sealed disposable reaction beaker with integrated multi-ion electrochemical sensor array on the cell wall, dry-stored reagent pellets released by a mechanical dispenser, and a magnetic stir bar for homogenization. Element-by-element prior art for: (a) any cartridge claim that integrates an ISE array on a single beaker wall with a multi-ion readout (Li, Na, K, NH4, Mg, Ca, Cl, NO3, Br, perchlorate-sensitive); (b) the standard-addition titration protocol implemented through sequential dry-pellet dissolution (the BaCl2 -> SO4 turbidity step, the HNO3 acidification step) anticipates patents on dry-reagent diagnostic cartridges that perform sequential reagent additions for water-quality analysis; (c) the integration of cyclic voltammetry on the same beaker as ion-selective potentiometry anticipates multi-modal electrochemical cartridge designs. The Phoenix WCL is one of two flight precedents (with Viking Biology Instrument) for in-situ aqueous chemistry on a planetary surface.
+
+## Aseptic Technologies Crystal Closed Vial / AT-Closed Vial (2008)
+
+- **id**: `aseptic-technologies-crystal-closed-vial`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Aseptic Technologies SA
+- **disclosure**: Aseptic Technologies SA Crystal Closed Vial product launch 2008; US patent US7,766,919B2 (Closed sterile vial with septum, Aseptic Technologies); EP1853488B1
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-sterilized closed vial in which the thermoplastic-elastomer septum is permanently bonded to a cyclic-olefin-copolymer body; filling is performed by needle pierce through the septum, and the pierce hole is sealed by laser welding (or similar localized melt-and-reflow) immediately after needle withdrawal. The fluid path during fill is through a single sterile needle into a closed vessel — the vial interior never sees ambient atmosphere. Anticipates: closed-vial fill-finish architecture in which the conventional aseptic-fill open window is eliminated by combining pierce-fill with post-fill laser-resealing. Element-by-element: COC body + bonded TPE septum + sterile fill needle + laser-weld station + final crimp/cap. Distinguishable from Vanrx SA25 (open-vial fill in isolator) by maintaining vial closure throughout fill.
 
 ## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
 

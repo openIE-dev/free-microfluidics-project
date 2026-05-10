@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `material-paper-cellulose`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Everlywell Inc. consumer launch November 2015; product instructions and lab partner agreements (PWNHealth/Everly Health)
 - **ip status**: trade-secret
 - **prior art notes**: Consumer at-home collection kit category. Microfluidic relevance is the dried-blood-spot card (capillary blood wicking into nitrocellulose / Whatman 903) and the microcontainer tubes that are the sample-handling primitive. Anticipates: consumer-shipped DBS card workflows and the business architecture of decoupled at-home microfluidic sampling from lab-based analysis.
+
+## Abbott BinaxNOW COVID-19 Antigen Self Test (OTC) (2021-03)
+
+- **id**: `abbott-binaxnow-self-test-otc-2021`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Diagnostics
+- **disclosure**: Abbott BinaxNOW Antigen Self Test FDA EUA 2021-03-31; product user manual
+- **ip status**: patented
+- **prior art notes**: Discloses a folded-card lateral-flow antigen test designed for OTC consumer use with integrated swab and instrument-free visual readout. Anticipates: folded-card consumer form factor for paper-based lateral-flow molecular diagnostics with attached sampling apparatus and OTC-grade instructions.
 
 ## Clearblue Connected Digital Pregnancy Test (Bluetooth) (2021-06)
 

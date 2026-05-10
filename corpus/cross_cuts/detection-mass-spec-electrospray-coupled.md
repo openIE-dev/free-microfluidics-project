@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-mass-spec-electrospray-coupled`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1976
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune Bene Gesserit poison-snooper / chemical microsensor (1965)
+
+- **id**: `dune-bene-gesserit-poison-snooper`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; appendix and dinner-scene descriptions of the poison snooper apparatus.
+- **ip status**: fictional
+- **prior art notes**: Herbert's Dune describes the 'poison snooper' — a small device hung over food/drink that performs continuous chemical sensing for poisons. The novel's appendix and dialogue describe an apparatus that draws air/vapor samples and performs assay. Defensive prior art for: portable chemical-sensor air-sampling devices, real-time food/drink contamination detection, and continuous-monitoring point-of-use sensors. The 1965 publication anchors the concept of an always-on portable analytical chemistry instrument decades before commercial portable mass-specs.
 
 ## Viking 1/2 GCMS and Biology Package (1976)
 

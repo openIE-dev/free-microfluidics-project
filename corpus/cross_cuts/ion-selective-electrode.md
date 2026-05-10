@@ -1,0 +1,46 @@
+---
+title: ion-selective-electrode
+parent: Cross-cuts
+layout: default
+---
+
+# Cross-cut: `ion-selective-electrode`
+
+**3 corpus entries disclose this subsystem.**
+
+Earliest disclosure: 2017
+
+Listed in chronological order. Each entry's `prior_art_notes` and
+`disclosure_citation` constitute the citeable prior art material.
+
+---
+
+## Heska Element POC Blood Gas/Electrolyte Analyzer (2017)
+
+- **id**: `heska-element-poc-blood-gas`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Heska Corporation (Nova Biomedical OEM)
+- **disclosure**: Heska Element POC press release 2017 (OEM of Stat Profile Prime VET / Nova Biomedical cartridge); Heska operator's manual; US patent 7,022,517 (Nova multi-sensor cartridge)
+- **ip status**: patented
+- **prior art notes**: Veterinary-branded OEM of the Nova Biomedical Stat Profile Prime VET cartridge: a multi-week consumable holding a screen-printed array of ion-selective and amperometric electrodes within a thermoplastic flow channel, with on-board calibrant pouches and waste containment. Anticipates: long-life multi-week electrochemical cartridges for in-clinic blood gas; integrated calibrant-pouch + sensor-card + waste-bag architectures; and screen-printed electrode arrays serving as the analytical primitive for veterinary blood-gas POC platforms.
+
+## Siemens RAPIDPoint 500e Blood Gas Analyzer (2018)
+
+- **id**: `siemens-rapidpoint-500e-blood-gas`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Siemens Healthineers AG
+- **disclosure**: Siemens Healthineers RAPIDPoint 500e product launch 2018; RAPIDPoint 500e operator's guide; US patent 7,763,151 (Integri-sense cartridge)
+- **ip status**: patented
+- **prior art notes**: Discloses Siemens' multi-analyte POC blood-gas/co-oximetry cartridge architecture: a single integrated thermoplastic body holding all sensors, calibrant, gas mix and waste, mounted to a peristaltic-pump-driven instrument that runs auto-QC every few hours. Anticipates: single-cartridge consolidation of blood-gas + electrolyte + co-oximetry sensing in critical-care POC instruments; high-test-count (>=750) consumable lifetimes as an architectural target; and integrated waste-and-calibrant containment that eliminates external bottle plumbing.
+
+## Zoetis VETSCAN i-STAT Alinity v (2020)
+
+- **id**: `zoetis-vetscan-istat-alinity-v`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Zoetis Inc. / Abbott Point of Care
+- **disclosure**: Zoetis / Abbott VETSCAN i-STAT Alinity v co-launch 2020; Abbott i-STAT Alinity operator's manual; US patent 5,096,669 (i-STAT cartridge); US patent 7,419,821 (Alinity-generation cartridge)
+- **ip status**: patented
+- **prior art notes**: Veterinary configuration of the Abbott i-STAT Alinity wireless handheld with species-specific calibration algorithms applied to standard i-STAT cartridges (silicon-microfabricated potentiometric and amperometric biosensors in a thermoplastic carrier with calibrant pouch and displacement actuator). Anticipates: species-specific firmware overlays on a shared human/veterinary cartridge SKU; the architectural pattern of identical microfluidic disposables driving distinct human and animal POC workflows on shared instrument hardware.

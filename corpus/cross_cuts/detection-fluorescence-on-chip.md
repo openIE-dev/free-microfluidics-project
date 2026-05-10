@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**81 corpus entries disclose this subsystem.**
+**103 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosite Triage launch 1995 (drug-of-abuse panel); Triage BNP first cardiac assay 2000-11 (FDA 510(k) K003425); Quidel acquisition of Alere/Biosite Triage 2017; ongoing assays through 2020s
 - **ip status**: patented
 - **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
+
+## Mettler-Toledo InPro 6800 / 6850 Dissolved Oxygen Sensor (1995)
+
+- **id**: `mettler-toledo-inpro-6800-do`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mettler-Toledo Process Analytics
+- **disclosure**: Mettler-Toledo InPro 6800 polarographic DO sensor product introduction mid-1990s; InPro 6850 optical successor introduced ~2010; Mettler-Toledo Process Analytics product literature; US patent US7,022,505B1 (Mettler-Toledo, optical oxygen sensor)
+- **ip status**: patented
+- **prior art notes**: Discloses two architectures: the InPro 6800 implements a Clark-cell polarographic DO measurement (Pt cathode, Ag/AgCl anode, electrolyte-filled chamber, PTFE gas-permeable membrane); the InPro 6850 implements a luminescence-lifetime optical DO measurement (luminophore in polymer matrix, LED excitation, photodiode detection of fluorescence-decay phase shift). Anticipates: paired polarographic and optical DO architectures with shared probe-body form factor and digital ISM interface, allowing process-development to validate either sensor type in interchangeable ports. Element-by-element: probe body + sensing element (membrane + electrolyte / optical spot) + signal-processing electronics + digital interface.
 
 ## LightCycler real-time rapid PCR (Wittwer 1997) (1997)
 
@@ -84,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Scholin CA et al., 'The Environmental Sample Processor (ESP) — An autonomous robotic device for detecting microorganisms remotely using molecular probe technology,' Proc. OCEANS 2003: 1-7 (2003); Scholin CA et al., 'Remote detection of marine microbes, small invertebrates, harmful algae, and biotoxins using the Environmental Sample Processor (ESP),' Oceanography 22(2):158-167 (2009)
 - **ip status**: patented
 - **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
+
+## Battlestar Galactica Galactica sickbay (Doc Cottle's bay) (2003)
+
+- **id**: `bsg-galactica-sickbay-cottle`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ronald D. Moore / Universal Television
+- **disclosure**: Battlestar Galactica miniseries (Sci Fi 2003) and series (2004-2009).
+- **ip status**: fictional
+- **prior art notes**: Galactica sickbay depicted across many episodes as a multi-bed military medical bay with manual+automated diagnostics, the Cylon detection assay (an explicit cellular-level diagnostic), pregnancy tests with Cylon-specific markers, and surgical interventions. Defensive prior art for: military-grade triage bay architecture and species/origin-discriminating cellular assays at the bedside.
 
 ## Cepheid GeneXpert cartridge (2004)
 
@@ -274,6 +294,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX ProCyte Dx launch 2010-09; ProCyte One launch 2020-06
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer based on a Sysmex-licensed dual-modality flow cell (impedance + flow cytometry with side scatter and side fluorescence), ported to a compact bench-top form factor with species-specific reagent and algorithm sets. Anticipates: in-clinic veterinary applications of hybrid impedance + optical hematology platforms; the multi-species calibration architecture (RBC volume, MCV, WBC subtype distributions vary substantially across species — the analyzer must select species-specific reference distributions). Important prior art for the veterinary in-clinic hematology market as it differentiates from human-clinical-only platforms (Sysmex XN, Beckman DxH, Mindray BC). Companion to ProCyte One (2020) which uses a different IDEXX-internal optical fluorescent imaging architecture rather than Sysmex licensure.
+
+## Hamilton Arc Intelligent Sensors (pH, DO, ORP, conductivity) (2010)
+
+- **id**: `hamilton-arc-sensors`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Hamilton Bonaduz AG
+- **disclosure**: Hamilton Bonaduz AG Arc sensor platform launch 2010; Hamilton Arc View 3 product datasheet; product literature 2012-2023
+- **ip status**: patented
+- **prior art notes**: Discloses an intelligent-sensor architecture where the calibration data, signal conditioning electronics, and digital communication interface are all resident in the probe head, allowing the probe to be moved between transmitters without recalibration. The VisiFerm DO variant uses an optical-spot fluorescence-quenching architecture in which a luminophore is excited and the lifetime of fluorescence quenching is proportional to dissolved oxygen — supports both stainless and single-use (patch) form factors. Anticipates: digital intelligent-sensor architecture for bioprocess PAT (distinguishable from analog probes whose calibration lives in the transmitter); luminescence-lifetime DO measurement compatible with single-use bioreactor patch sensors.
+
+## ChemoMetec NucleoCounter NC-3000 (Image Cytometer) (2010)
+
+- **id**: `chemometec-nucleocounter-nc-3000`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: ChemoMetec A/S
+- **disclosure**: ChemoMetec A/S NC-3000 product launch 2010; product literature 2012-2023; ChemoMetec patent estate US8,309,025B1 (Cassette for cell counting based on fluorescent staining)
+- **ip status**: patented
+- **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
 
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
@@ -565,6 +605,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
 
+## Namocell Hana Single Cell Dispenser (2017)
+
+- **id**: `namocell-hana-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (acquired by Bio-Rad 2021)
+- **disclosure**: Namocell Inc. product launch 2017 (Stanford spinout, Bio-Rad acquisition 2021); US10625259B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable cartridge implementing pressure-driven flow-focusing droplet ejection coupled to a real-time fluorescence detector that gates each droplet's destination plate well based on cell count and fluorescence intensity. Anticipates: integrated single-use cell sorter that delivers verified single cells into target wells without sheath-fluid contamination paths; disposable plastic equivalent of a sterile FACS sort with deposition recorded per well. Specifically anticipates claims to single-cell printers that combine flow-focusing droplet generation with downstream fluorescence-based well assignment.
+
 ## Chi.Bio open-hardware bioreactor (2018)
 
 - **id**: `chibio-bioreactor`
@@ -595,6 +645,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Although SHERLOC has minimal classical fluidics, it is a load-bearing prior art entry for the broader 'in-situ life detection' patent landscape because it discloses (a) a deep-UV resonance-Raman + native-fluorescence dual-mode standoff cartridge architecture as an alternative to wet-chemistry GCMS for organic detection, (b) a co-mounted optical micrometer (WATSON) providing context imaging for spectroscopic point picks, and (c) the use of polymer/fabric witness samples on the calibration target as a vehicle for additional in-flight prior-art disclosure (the spacesuit Vectran/polycarbonate samples become public-domain prior art for astronaut suit polymers by virtue of being launched). For invalidation purposes, SHERLOC anticipates any claim to a deep-UV (sub-260 nm) raster-Raman cartridge for biosignature detection or any claim to a combined Raman/LIF standoff astrobiology head with mineralogical context co-imaging.
 
+## Nexcelom Cellaca PLX (and MX) Image Cytometer (2018)
+
+- **id**: `nexcelom-cellaca-plx`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Nexcelom Bioscience LLC (now Revvity)
+- **disclosure**: Nexcelom Bioscience Cellaca MX product launch 2018; Cellaca PLX (high-throughput plate version) launched 2021; US patent US10,222,373B2 (Nexcelom, cell counting cassette); Nexcelom acquired by PerkinElmer (now Revvity) 2021
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-well disposable counting plate format for image cytometry: each well has an integrated optical-quality bottom window; the instrument acquires brightfield + AO/PI fluorescence images per well in parallel; total count, viable count, and viability are computed per well. The Cellaca PLX increases parallelism to 96-well plate format. Anticipates: plate-format parallel image cytometry (vs serial single-cassette NC-200/NC-3000); high-throughput cell-counting suitable for bioprocess sampling at scale. Element-by-element: multi-well disposable plate + per-well stain + multi-channel imaging + per-well cell-count algorithm.
+
 ## MGI DNBSEQ-T7 flow cell (2018-10)
 
 - **id**: `mgi-dnbseq-t7-flow-cell`
@@ -614,6 +674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MGI Tech DNBSEQ-G400 product launch 2019. https://en.mgi-tech.com/products/instruments_info/3/.
 - **ip status**: patented
 - **prior art notes**: Mid-throughput sibling of T7; same DNB-on-patterned-silicon architecture at smaller scale, intended for clinical and translational labs. Anticipates: the explicit segmentation of the same core flow-cell architecture into clinical-mid and discovery-high configurations within one product family, parallel to Illumina's NextSeq vs. NovaSeq segmentation.
+
+## Berkeley Lights Lightning Optofluidic System (2019)
+
+- **id**: `berkeley-lights-lightning`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights Inc. (now PhenomeX)
+- **disclosure**: Berkeley Lights Lightning product launch 2019; Berkeley Lights S-1 SEC filing 2020-06; OptoElectroPositioning patent estate US9,023,628B2
+- **ip status**: patented
+- **prior art notes**: Variant of the Berkeley Lights OptoSelect / Beacon architecture in which the optoelectronic positioning array is paired with on-chip imaging and a transfection workflow within the NanoPen chambers — distinct from the original Beacon (cell-line development focus) by including transfection-after-isolation as a single integrated workflow. Anticipates: optoelectronic-positioning chip extended with on-chip transfection events triggered after single-cell isolation; combined imaging + delivery in the same chamber array. Element-by-element: photoconductor array + NanoPen chamber + objective + on-chip pulse/cargo flush + clonal recovery export.
 
 ## Squid open-hardware microscopy platform (2020)
 
@@ -645,6 +715,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Subcellular-resolution spatial transcriptomics using sequential single-molecule FISH on a perfusion fluidic platform. Architecturally adjacent to MERSCOPE (Vizgen) and CosMx (NanoString) but with distinct decoding chemistry (Resolve uses a smaller number of imaging rounds with high-fidelity probe-pair decoding). Anticipates: alternative encoding schemes for multiplexed in-situ-hybridization spatial transcriptomics; a European competitor in the hybridization-cycle spatial omics race.
 
+## Namocell Pala Single Cell Dispenser (2020)
+
+- **id**: `namocell-pala-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (Bio-Rad)
+- **disclosure**: Namocell Pala datasheet 2020; Bio-Rad press 2021; US patent family above
+- **ip status**: patented
+- **prior art notes**: Extends Hana design to 5-color fluorescence and explicit doublet discrimination by per-droplet image analysis. Anticipates claims to disposable-cartridge multi-color cell sorters with image-based event verification and per-deposit traceability metadata for regulated single-cell-cloning workflows (cell-line provenance documentation under USP/ICH guidelines).
+
+## Logos Biosystems LUNA-FX7 Automated Cell Counter (2020)
+
+- **id**: `logos-luna-fx7`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Logos Biosystems Inc.
+- **disclosure**: Logos Biosystems LUNA-FX7 product launch 2020; user manual rev 2.0; predecessor LUNA-II product literature 2014-2019
+- **ip status**: patented
+- **prior art notes**: Discloses a compact image-cytometer with a multi-chamber disposable slide (8 wells per slide) and three-channel fluorescence imaging for bioprocess/research cell counting. Architecturally similar to NucleoCounter NC-3000 and Cellaca MX; differentiated by slide form factor and 3-channel fluorescence (vs 8-channel NC-3000 or 24-well Cellaca). Anticipates: compact bench-top image-cytometer with multi-chamber disposable slide and multi-channel fluorescence for combined viability + reporter-gene measurement.
+
+## Thermo Fisher Countess 3 / Countess 3 FL Automated Cell Counter (2020)
+
+- **id**: `thermofisher-countess-3`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Thermo Fisher Scientific (Invitrogen)
+- **disclosure**: Thermo Fisher Scientific Countess 3 product launch 2020; Countess II original launch 2014; user guide MAN0019150 rev 1.0; predecessor patent estate US8,481,332B2 (Invitrogen, Countess hemocytometer slide)
+- **ip status**: patented
+- **prior art notes**: Discloses an automated hemocytometer architecture in which a disposable two-chamber slide is loaded by capillary action with sample + trypan blue stain (or unstained for fluorescence); the instrument autofocuses, acquires brightfield + optional fluorescence images, segments cells, and computes total/dead/viable counts. The Countess 3 generation adds two-channel fluorescence and improved imaging optics. Anticipates: automated brightfield+fluorescence cell-counting on a disposable hemocytometer slide with embedded counting chambers. Element-by-element: disposable slide + brightfield/fluorescence imaging + autofocus + cell-segmentation algorithm + count display.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -675,6 +775,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use reaction vessel immunoassay analyzer optimized for cardiac STAT throughput: each RV is loaded onto a continuous track, receives sample + PMP-conjugated capture antibody + alkaline-phosphatase-labeled detection antibody via independently controlled pipettors, undergoes magnet-station capture and wash within the same RV (no transfer), and is moved to the dioxetane-substrate dispense and PMT integration station. Anticipates: high-throughput single-use RV immunoassay tracks with in-vessel PMP wash; alkaline-phosphatase + Lumi-Phos 530 dioxetane chemiluminescence substrate (alternative to acridinium ester and ECL); the centralized fluidic path where sample-and-reagent transit is robotic but each RV is the immutable assay vessel. Foundational fluidic difference from Roche e-series (ECL on electrode) and Abbott Architect (CMIA flash on washed wells) — Beckman uses prolonged glow chemiluminescence integrated for 4-5 seconds.
 
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
 ## Vizgen MERSCOPE platform (2021-05-19)
 
 - **id**: `vizgen-merscope`
@@ -695,6 +805,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a consumer lateral-flow pregnancy test with on-board electronic optical readout and Bluetooth telemetry. Lateral-flow nitrocellulose strip is the microfluidic substrate; conjugate pad releases gold-labeled hCG antibodies, sample wicks across capture line, photodetector quantifies optical density. Anticipates: connected-consumer lateral-flow architectures; smartphone-paired single-use diagnostic disposables.
 
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
 ## Pioreactor (2021-09)
 
 - **id**: `pioreactor-open-bioreactor`
@@ -714,6 +834,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nix Inc. product launch 2021; Reinertsen E et al. founder publications; product manual rev 1
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use sweat patch with a passive microfluidic network distributing sweat to colorimetric reagent pads, with a reusable optical reader puck snapping onto the patch and streaming hydration estimates to phone. The reader sees absorbance changes as sweat fills successive chambers. Anticipates: hybrid disposable-patch-plus-reusable-reader microfluidic architectures; capillary-routed colorimetric hydration tracking.
+
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
 
 ## Element Biosciences AVITI sequencer flow cell (2022)
 
@@ -805,6 +935,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses extensions to the openSPIM open-source light-sheet platform (already covered in corpus as openspim-microscope) including spinning-disc and patterned-illumination variants, designed for perfused-sample imaging. The relevant disclosure for microfluidics is the documented sample-chamber holders that integrate an open microfluidic perfusion device into the light-sheet imaging path; this provides anticipating prior art for 'integrated light-sheet imaging of microfluidically perfused organoids/embryos using open hardware.'
 
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
 ## Science Jubilee Lab-Automation Fork (2024)
 
 - **id**: `sonderegger-2024-science-jubilee`
@@ -824,3 +964,83 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Akoya Biosciences PhenoImager Athena product announcement, 2024. https://www.akoyabio.com.
 - **ip status**: unknown
 - **prior art notes**: Translational-research / clinical-grade configuration of the CODEX iterative-fluidic-cycling spatial-protein platform, with workflow tailored for FFPE clinical specimens at higher throughput than PhenoCycler-Fusion. Anticipates: clinical-grade configurations of cycled-fluorescence spatial proteomics that focus on regulatory / diagnostic-development workflows rather than discovery research.
+
+## Resolve Bioscience Molecular Cartography Pro (2024)
+
+- **id**: `resolve-bioscience-molecular-cartography-pro`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Resolve Biosciences GmbH
+- **disclosure**: Resolve Bioscience product update 2024; technical brief MC-Pro-001; original MC platform paper Groiss et al., bioRxiv 2021.10.20.464988
+- **ip status**: patented
+- **prior art notes**: Discloses platform extension of single-molecule FISH spatial transcriptomics with increased panel size and slide footprint, on the same fluidic delivery architecture. Anticipates claims to sub-100 nm lateral resolution spatial transcriptomics through iterative smFISH delivered by on-instrument microfluidics, distinct from amplification-based approaches (Xenium) or sequencing-by-hybridization (CosMx).
+
+## Ultima Genomics UG100 W-series Wafer Flow Cell (2024)
+
+- **id**: `ultima-genomics-100ug-100w-wafer-flowcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ultima Genomics Inc.
+- **disclosure**: Ultima Genomics product update 2024; AGBT 2024 abstract; US11434531B2 / US11486003B2 (Ultima open-substrate sequencing patents)
+- **ip status**: patented
+- **prior art notes**: Discloses a sequencing-by-synthesis architecture in which a 200 mm patterned silicon wafer is spun on a chuck while reagents are dispensed centrally and distributed by centrifugal force to all bead-binding sites simultaneously. Anticipates: open-substrate massively parallel sequencing dispensing reagents by radial centrifugal coating instead of channelized flow; pairing of wafer-scale TDI line-scan imaging with patterned bead anchors; wafer-format scale-up of sequencing throughput by enlarging the substrate rather than increasing channel density. Distinguishes from all enclosed-flowcell sequencers (Illumina, Element, MGI) and is itself unanticipated by them. The W-series specifically scales to a 200 mm wafer (vs prior UG100 chip).
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
+
+## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
+
+- **id**: `nanostring-cosmx-wta-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: NanoString Technologies (Bruker Spatial Biology since 2024-05)
+- **disclosure**: NanoString/Bruker product launch CosMx WTA, JPM Conference 2024-01; SP-1108 datasheet rev A; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of CosMx in-situ multiplex from ~1000-plex panels to ~18000-plex whole transcriptome through extended cycling of barcoded oligo reporters delivered by an on-instrument microfluidic system. Anticipates: on-instrument fluidic delivery sequences that perform N>16 hybridization-image-strip cycles on a single mounted slide, with microfluidic reagent storage/manifold and per-slide flowcell sealing; combinatorial barcoding scheme for ~18k targets within manageable optical-readout cycles. Specifically anticipates claims to single-instrument WTA spatial transcriptomics by sequential hybridization (vs SBS-based Xenium or sequencing-by-ligation Visium HD).
+
+## Vizgen MERSCOPE Ultra (2024-04)
+
+- **id**: `vizgen-merscope-ultra`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen press release 2024-04-15 'MERSCOPE Ultra'; AGBT 2024 abstract; product datasheet SD-0009 rev B
+- **ip status**: patented
+- **prior art notes**: Extends MERSCOPE platform with larger flowcell footprint and improved encoding chemistry that reduces total fluidic cycles. Anticipates: scaling of MERFISH-based spatial transcriptomics to >0.5 cm^2 tissue per slide using on-instrument microfluidic delivery, and reduced-round encoding schemes compatible with the same imaging hardware. Anticipates claims to high-throughput in-situ-hybridization platforms that combine optical multiplexing with progressively longer panel sizes through chemistry rather than instrument changes.
+
+## Vizgen MERFISH 2 Encoding Chemistry (2024-04)
+
+- **id**: `vizgen-merfish-2-chemistry`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen MERSCOPE Ultra technical note 2024; updated assay protocol AP-0042 rev 1
+- **ip status**: patented
+- **prior art notes**: Discloses an updated MERFISH encoding scheme that allocates more bits per imaging cycle (multi-color combinatorial decoding) and uses higher-affinity LNA-modified readout probes for shorter hybridization. Anticipates: chemistry-only improvements to in-situ hybridization throughput on existing microfluidic delivery hardware; increased information-per-cycle scaling that defers the need for new fluidic platforms. Useful as 102 art against claims that tie panel-scaling improvements to specific microfluidic instrument architectures.
+
+## 10x Genomics Xenium Prime 5K (2024-10)
+
+- **id**: `10x-xenium-prime-5k`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.
+
+## Element Biosciences AVITI Cloudbreak (Long-Read) (2024-10)
+
+- **id**: `element-biosciences-aviti-cloudbreak`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Element Biosciences Inc.
+- **disclosure**: Element Biosciences press release 2024-10-22; AGBT 2024 'Cloudbreak' presentation; product datasheet EL-DOC-00185
+- **ip status**: patented
+- **prior art notes**: Discloses chemistry to extend the effective read length of polony sequencing by maintaining physical clustering of related fragments on the same surface region (linked-read approach), then assembling locally during base-calling. Anticipates: long-read sequencing achieved through surface-chemistry-based linkage rather than dedicated long-read instrumentation; reuse of short-read flowcell hardware for >200 bp contiguous reads via spatial linkage. Anticipates claims to long-read methods that depend on surface arrangement and sliding-window assembly within a single SBS flowcell.

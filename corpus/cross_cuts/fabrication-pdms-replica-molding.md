@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-replica-molding`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998
 
@@ -34,3 +34,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OpenWetWare launched May 2005 at MIT by Knight T., Endy D., et al.; https://openwetware.org; foundational paper Bobe J., Endy D., 'OpenWetWare: a wiki for sharing biology lab protocols', Yeast 24:s223 (2007)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a long-running open protocol archive whose documented procedures for soft lithography, PDMS microfluidic fabrication, paper microfluidics, and on-chip cell culture, with timestamped wiki edit-histories from 2005 onward, are themselves citable prior art. Specifically anticipates protocol claims in many post-2010 patents for 'methods of fabricating PDMS microfluidic devices,' 'methods of bonding PDMS to glass,' and 'protocols for cell culture in microfluidic devices' to the extent these claims read on the OWW protocol pages timestamped before the patent's earliest priority date. Cite OWW page revision URLs (https://openwetware.org/index.php?title=...&oldid=...) for entry-specific anticipation.
+
+## 1CellBio inDrop Commercial Reagent System (2017)
+
+- **id**: `1cellbio-indrops-commercial-extension`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop product launch 2017; Klein et al., Cell 161:1187 (2015) doi:10.1016/j.cell.2015.04.044 (academic origin)
+- **ip status**: patented
+- **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.

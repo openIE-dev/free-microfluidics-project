@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**17 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -85,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an additive-manufacturing process in which an HP-style thermal inkjet pagewide bar selectively jets a fusing agent (carbon-black-loaded ink absorbing IR) and a detailing agent (cooling/anti-fusing ink) onto a layer of polymer powder, after which a broadband IR lamp passes over the bed and selectively fuses the printed regions per voxel. Anticipates: (a) the use of a TIJ pagewide array as the patterning primitive for a powder-bed fusion process (rather than as the print engine), (b) per-voxel fusion modulation by combinations of two jetted reagents (fusing × detailing), (c) integration of broadband IR fusion immediately downstream of the print bar in a single pass. Predicate to HP MJF 3D 4200/5200/5210 and HP Metal Jet Fusion lines and to imitators using TIJ as a powder-bed agent dispenser.
 
+## Touchlight Genetics doggybone DNA (dbDNA) Synthesis (2014)
+
+- **id**: `touchlight-doggybone-dna-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Touchlight Genetics Ltd.
+- **disclosure**: Walters et al., Nucleic Acids Res 42:e10 (2014) doi:10.1093/nar/gkt1101 (foundational dbDNA paper); EP2820164B1 priority 2012
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
+
 ## SHERLOCK CRISPR-Cas13 nucleic acid detection (2017)
 
 - **id**: `gootenberg-zhang-2017-sherlock`
@@ -155,6 +165,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Composite reference for European CRISPR-cartridge academic work centered at Institut Pasteur, complementing US (Sherlock, Mammoth, Broad) and academic-to-commercial pipelines. The Pasteur lineage is particularly strong in tropical disease applications (Plasmodium, dengue, chikungunya) where CRISPR cartridge architectures have specific advantages.
 
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
 ## Mammoth Biosciences DETECTR BOOST cartridge (2022)
 
 - **id**: `mammoth-detectr-boost-cartridge`
@@ -164,6 +194,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mammoth Biosciences DETECTR BOOST. https://mammoth.bio
 - **ip status**: patented
 - **prior art notes**: Commercial DETECTR-platform CRISPR cartridge: integrated sample-prep, RPA amplification, Cas12a-based detection in single-use cartridge format. Anticipates: high-throughput automated CRISPR diagnostic cartridges as a commercial product category. Companion to academic disclosures (Chen 2018 DETECTR foundational, Myhrvold 2018 SHINE) by establishing instrument-format CRISPR-cartridge architecture.
+
+## Aspara CRISPR-based Detection Cartridge (2022)
+
+- **id**: `aspara-crispr-detection-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aspara Pte Ltd.
+- **disclosure**: Aspara Pte Ltd. product literature 2022; SG patent application
+- **ip status**: patented
+- **prior art notes**: Discloses a regional Asian-market CRISPR diagnostic cartridge integrating RT-RPA + Cas12a + lateral-flow strip in a single disposable. Anticipates similar regional-market CRISPR diagnostic cartridge architectures.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
 
 ## Sherlock Biosciences INSPECTR cartridge (2023)
 
@@ -175,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial SHERLOCK-platform CRISPR cartridge: SHERLOCK Cas13-based detection in single-use cartridge with smartphone or instrument readout. Direct architectural cousin of Mammoth DETECTR BOOST but with Cas13 enzyme and different sample-prep chemistry. Reference for the broader CRISPR-cartridge product category alongside the academic foundational disclosures.
 
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
 ## SHUGA POC molecular diagnostic cartridge (2024 demonstration) (2024)
 
 - **id**: `kaminski-shuga-cartridge-2024`
@@ -184,3 +244,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various 2024 publications on next-generation CRISPR-cartridge POC diagnostics. Representative: Kaminski/Sabeti lab Broad Institute SHERLOCK-cartridge work.
 - **ip status**: patented
 - **prior art notes**: Composite reference for the 2024-onward wave of CRISPR-cartridge POC diagnostic disclosures: integrated sample-prep + RPA/LAMP amplification + Cas12/Cas13 detection in single-use cartridges with smartphone or instrument readout. Architectural extension of the Lucira/Visby/Cue isothermal-NAAT cartridge family with CRISPR-based detection chemistry replacing fluorescent or colorimetric direct-readout. Multiple academic and commercial efforts active in this space.
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.

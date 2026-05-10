@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**2 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2013
 
@@ -24,6 +24,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diagenode Megaruptor product launch 2013; Megaruptor 3 launch 2019. https://www.diagenode.com/en/p/megaruptor-3.
 - **ip status**: patented
 - **prior art notes**: Hydrodynamic DNA shearing in a disposable thermoplastic cartridge: a syringe pumps DNA solution through a precisely-defined micro-orifice, the resulting shear forces fragment DNA to a flow-rate-tunable target length. Anticipates: cartridge-based hydrodynamic shearing for long-read library prep, a categorically different fragmentation primitive vs. acoustic (Covaris) or enzymatic (transposase) shearing. Critical consumable for high-quality ONT and PacBio HiFi prep.
+
+## SQZ Biotechnologies Cell Squeeze platform (2013)
+
+- **id**: `sqz-biotech-cell-squeeze-platform`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: SQZ Biotechnologies (originated MIT Langer/Jensen labs)
+- **disclosure**: Sharei et al., 'A vector-free microfluidic platform for intracellular delivery,' PNAS 110(6):2082-2087 (2013), doi:10.1073/pnas.1218705110; US patent US9,950,049B2 (Compositions and methods for intracellular delivery; priority 2013); SQZ Biotechnologies S-1 (2020)
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon microfluidic chip containing parallel arrays of constrictions narrower than the cell diameter; cells flow through under pressure, transient membrane discontinuities form by mechanical shear, allowing diffusive uptake of co-flowing cargo before membrane reseals. Anticipates: (a) cell-poration by passive geometric constriction without external field; (b) parallel scale-out of constriction channels for clinical-throughput delivery; (c) using the same chip architecture for B/T-cell antigen loading (SQZ APC product); (d) closed disposable cartridge format coupled to the chip for sterile fill of patient-derived cells. Distinguishable from electroporation (no field), from sonoporation (no acoustic), and from viral transduction (no biologic vector). Element-by-element: parallel constrictions + pressure drive + cargo co-flow + downstream collection chamber.
+
+## SQZ AAC (Activating Antigen Carrier) platform (2017)
+
+- **id**: `sqz-aac-antigen-presenting-cells`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: SQZ Biotechnologies
+- **disclosure**: Szeto et al., 'Microfluidic squeezing for intracellular antigen loading in polyclonal B-cells as cellular vaccines,' Sci Rep 5:10276 (2015); ClinicalTrials.gov NCT04084951 (SQZ-PBMC-HPV-101 study, first posted 2019); US patent US10870112B2
+- **ip status**: patented
+- **prior art notes**: Application-specific implementation of the Cell Squeeze chip in a closed sterile single-use cartridge for clinical manufacture: leukapheresis bag connects via sterile weld to cartridge; cells routed by pneumatic flow drive through silicon constriction array; antigen co-flowed at controlled molar ratio; squeezed cells collected, washed via tangential flow, formulated for IV infusion. Anticipates: closed-cartridge silicon-constriction APC manufacturing where the entire workflow from apheresis bag to formulated drug product runs in single-use fluidic train without breaking sterile boundary. Distinguishable from CliniMACS Prodigy (uses magnetic separation + Sepax bag, no constriction-mediated cargo loading) and from Lonza Cocoon (no mechanical poration). Element-by-element: sterile inlet weld + cell-pre-conditioning chamber + silicon constriction chip + co-flowed peptide reservoir + collection bag + sterile outlet weld.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

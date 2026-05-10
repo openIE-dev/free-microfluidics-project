@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-magnetophoresis`
 
-**11 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -65,6 +65,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Toner-group review consolidating the 'blood-on-a-chip' research program: integrated separation, capture, and analysis of blood components on microfluidic chips. Cited as the canonical review for chip-format hematology and CTC isolation work; precursor to the CTC-iChip lineage.
 
+## bioMerieux NucliSENS easyMAG / EMAG (2007)
+
+- **id**: `biomerieux-easymag-emag`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: bioMerieux SA
+- **disclosure**: bioMerieux NucliSENS easyMAG launch 2007; EMAG launch 2017; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses an automated Boom-chemistry NA extraction platform using single-vessel batch processing with movable magnet bars rather than plate-to-plate transfer, with the EMAG variant providing per-strip independent magnet actuation and clinical-lab sample tracking. Anticipates: single-vessel-batch automated extraction architectures using moving magnet bars with strip-level independent control; integration of Boom-chemistry silica-bead chemistry into clinical-lab IVD-compliant instruments.
+
+## QIAGEN QIAsymphony SP/AS (2008)
+
+- **id**: `qiagen-qiasymphony-sp-as`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAsymphony product launch 2008; user manual HB-0212; FDA-cleared QIAsymphony RGQ MDx 510(k) K133314
+- **ip status**: patented
+- **prior art notes**: Discloses a modular two-stage clinical-laboratory automation architecture where one module performs NA extraction continuously while a downstream module sets up downstream PCR/assay reactions with the same pipetting infrastructure. Anticipates: random-access continuous-loading clinical-lab extraction architectures; modular-track plus shared-robotics extraction-plus-assay-setup automation; FDA-cleared NA-extraction modules feeding integrated downstream PCR systems.
+
+## Roche MagNA Pure 96 System (2010)
+
+- **id**: `roche-magnapure-96-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 96 launch 2010; user guide V4; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: 96-sample scale-up of MagNA Pure 24 with same pipette-based architecture. Anticipates 96-format pipette-tip magnetic-bead extraction with full IVD validation.
+
+## ThermoFisher AutoMate Express Forensic DNA Extraction (2010)
+
+- **id**: `thermofisher-automate-express-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Applied Biosystems / ThermoFisher Scientific
+- **disclosure**: Applied Biosystems AutoMate Express user guide (2010) PN 4441934; PrepFiler Express chemistry datasheet
+- **ip status**: patented
+- **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
+
 ## CTC-iChip: inertial focusing for high-throughput rare-cell isolation (2013)
 
 - **id**: `ozkumur-2013-ctc-iChip`
@@ -74,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ozkumur, E.; Shah, A. M.; Ciciliano, J. C.; Emmink, B. L.; Miyamoto, D. T.; Brachtel, E.; Yu, M.; Chen, P.-i.; Morgan, B.; Trautwein, J.; Kimura, A.; Sengupta, S.; Stott, S. L.; Karabacak, N. M.; Barber, T. A.; Walsh, J. R.; Smith, K.; Spuhler, P. S.; Sullivan, J. P.; Lee, R. J.; Ting, D. T.; Luo, X.; Shaw, A. T.; Bardia, A.; Sequist, L. V.; Louis, D. N.; Maheswaran, S.; Kapur, R.; Haber, D. A.; Toner, M. Inertial focusing for tumor antigen-dependent and -independent sorting of rare circulating tumor cells. Sci. Transl. Med. 2013, 5, 179ra47. DOI: 10.1126/scitranslmed.3005616
 - **ip status**: patented
 - **prior art notes**: Translational descendant of Di Carlo 2007 demonstrating clinical-grade circulating tumor cell isolation by combining hydrodynamic size-based debulking, inertial focusing into a single streamline, and immunomagnetic deflection in series. Anticipates: integrated multi-modal CTC-isolation cartridge architecture, sheath-flow whole-blood debulking with leukocyte depletion, and antigen-independent rare-cell capture as a clinical workflow. Direct ancestor of multiple commercial CTC platforms.
+
+## QIAGEN QIAcube HT Sample Prep (2013)
+
+- **id**: `qiagen-qiacube-ht-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
 
 ## Miltenyi CliniMACS Prodigy cell therapy platform (2014)
 
@@ -95,6 +145,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Composite reference for the microfluidic exosome / EV isolation subfield. Combines size-based (DLD adapted for sub-200-nm cutoff), affinity-based (immunomagnetic), and electrokinetic (DEP) strategies. Anticipates: clinical-grade microfluidic exosome isolation for liquid biopsy applications. Underlies commercial efforts by Exosome Diagnostics, NX Pharmagen, and academic spinouts.
 
+## ThermoFisher KingFisher Duo Prime Magnetic Particle Processor (2014)
+
+- **id**: `thermofisher-kingfisher-duo-prime`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher KingFisher Duo Prime datasheet (2014); product manual MAN0009957
+- **ip status**: patented
+- **prior art notes**: Lower-throughput sibling of KingFisher Apex sharing the same rod-transfer architecture. Anticipates: scaled-down magnetic-bead processors targeting <16 samples per run with direct elution into PCR-ready format; same architectural class as Apex.
+
+## Roche MagNA Pure 24 System (2015)
+
+- **id**: `roche-magnapure-24-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 24 product release 2015; technical user guide V2; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses a 24-position pipette-based magnetic-bead NA extraction processor with sealed reagent reservoirs and disposable pipette tips, distinct from rod-transfer-based KingFisher architecture. Anticipates: pipette-tip magnetic-bead extraction at the 24-sample scale with integrated waste handling and IVD-compliant sample tracking.
+
 ## Beckman Biomek i5 / i7 automated workstation (2016)
 
 - **id**: `beckman-biomek-iseries`
@@ -104,6 +174,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter Biomek i-Series launch 2016. https://www.beckman.com/liquid-handlers/biomek-i7. Successor to Biomek FX/NX (1990s-2000s).
 - **ip status**: patented
 - **prior art notes**: Dual-arm air-displacement liquid handler with hot-swappable 96-channel and 384-channel pods, deck-mounted positive-pressure / vacuum modules, and magnetic-bead processing carriers. Anticipates: dual-pod-on-single-deck liquid-handling architectures; the explicit integration of magnetic-bead and vacuum SPE workflows directly onto a pipetting robot deck; the (now standard) Biomek-style scripting model for NGS library prep. Major back-end automation for clinical NGS, with an installed base measured in tens of thousands.
+
+## Promega Maxwell RSC 48 Instrument (2016)
+
+- **id**: `promega-maxwell-rsc-48-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Promega Corp.
+- **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
+
+## Hamilton Microlab Vantage NA Extraction Workstation (2017)
+
+- **id**: `hamilton-microlab-vantage-na-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Robotics
+- **disclosure**: Hamilton Microlab Vantage launch 2017; product datasheet 391413/00; method library include for NA extraction (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
+
+## Eppendorf epMotion 5075 NGS Solution (2017)
+
+- **id**: `eppendorf-epmotion-5075-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Eppendorf SE
+- **disclosure**: Eppendorf epMotion 5075 NGS Solution launch 2017; user manual #5075909001
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop NGS-library-prep automation system suitable for academic and small-clinical-lab use, sized between handheld and full lab automation, with integrated SPRI magnetic-bead cleanup. Anticipates: benchtop-scale NGS library-prep automation as a product class.
+
+## Tecan DreamPrep NGS Sample Prep (2018)
+
+- **id**: `tecan-dreamprep-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tecan Group
+- **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
+
+- **id**: `thermofisher-kingfisher-apex-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher Scientific KingFisher Apex datasheet (2019); product manual MAN0019116; FDA-cleared as KingFisher Apex Dx 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a magnetic-particle-processor architecture in which a vertical magnetic-rod array picks up paramagnetic beads from a deepwell source plate and transfers them through wash and elution wells via plate-to-plate vertical movement, eliminating fluidic channels entirely. Anticipates: rod-transfer magnetic-bead processing for NA extraction at 96-well format; tipcomb consumables with disposable plastic sleeves; high-throughput clinical-lab extraction without microfluidic channels. Useful prior art against magnetic-rod-transfer extraction claims and against any combined extraction+heating workflow at 96-well scale.
 
 ## Singleron Matrix microwell single-cell platform (2020)
 

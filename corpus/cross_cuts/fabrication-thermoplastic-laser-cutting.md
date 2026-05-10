@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-laser-cutting`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pearce J.M., 'Building Research Equipment with Free, Open-Source Hardware', Science 337:1303-1304 (2012), doi:10.1126/science.1228183; Pearce J.M., 'Open-Source Lab' (Elsevier 2014, ISBN 978-0-12-410462-4); https://www.appropedia.org/Category:MOST
 - **ip status**: open-copyleft
 - **prior art notes**: Discloses a foundational suite of >50 published open lab instruments from a single research group, including: open syringe pump (already cataloged separately), open peristaltic pump, open colorimeter, open spectrophotometer, open mass-balance, open magnetic stirrer hot-plate, open shaker incubator, open laser-cut/3D-printed centrifuge, open optical-density meter, open temperature-controlled stage. Each is published with full BOM, parametric CAD (typically OpenSCAD), firmware, and calibration data. Together these constitute a substantial fraction of the post-2012 open lab-equipment commons. Citable as 102 prior art against many commercial 'low-cost lab instrument' patents from 2014-2024. Specifically anticipates the architectural pattern of a research lab releasing its full instrument library as a coordinated commons under permissive licenses.
+
+## Diagenode Megaruptor Mechanical DNA Shearing (2014)
+
+- **id**: `diagenode-megaruptor-bead-shear`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagenode SA
+- **disclosure**: Diagenode Megaruptor product launch 2014; product manual; Megaruptor 3 launch 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic shear-based DNA fragmentation platform using flow through narrow constrictions to produce reproducible long-DNA fragment distributions for long-read library prep. Anticipates: hydrodynamic-shear DNA fragmentation as a microfluidic-channel design class with channel-geometry-determined fragment-length distributions.
 
 ## Wijnen / Pearce Lab Open-Source Syringe Pump (2014-09-22)
 

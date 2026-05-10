@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-anodic-bonding`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -44,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AcouSort AB. https://acousort.com
 - **ip status**: patented
 - **prior art notes**: Commercial bulk-acoustic-wave (BAW) acoustofluidic platform: silicon-microchannel BAW resonator for label-free continuous cell separation. Architecturally the commercial descendant of Laurell 2007 acoustophoresis. Used clinically for blood-cell washing, platelet separation, and CTC enrichment. Anticipates: BAW-acoustofluidic platform commercialization at clinical scale.
+
+## SQZ Biotechnologies Cell Squeeze platform (2013)
+
+- **id**: `sqz-biotech-cell-squeeze-platform`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: SQZ Biotechnologies (originated MIT Langer/Jensen labs)
+- **disclosure**: Sharei et al., 'A vector-free microfluidic platform for intracellular delivery,' PNAS 110(6):2082-2087 (2013), doi:10.1073/pnas.1218705110; US patent US9,950,049B2 (Compositions and methods for intracellular delivery; priority 2013); SQZ Biotechnologies S-1 (2020)
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon microfluidic chip containing parallel arrays of constrictions narrower than the cell diameter; cells flow through under pressure, transient membrane discontinuities form by mechanical shear, allowing diffusive uptake of co-flowing cargo before membrane reseals. Anticipates: (a) cell-poration by passive geometric constriction without external field; (b) parallel scale-out of constriction channels for clinical-throughput delivery; (c) using the same chip architecture for B/T-cell antigen loading (SQZ APC product); (d) closed disposable cartridge format coupled to the chip for sterile fill of patient-derived cells. Distinguishable from electroporation (no field), from sonoporation (no acoustic), and from viral transduction (no biologic vector). Element-by-element: parallel constrictions + pressure drive + cargo co-flow + downstream collection chamber.

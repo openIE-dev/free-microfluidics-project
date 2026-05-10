@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-syringe-driven`
 
-**23 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 1994
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Babylon 5 Medlab automated diagnostic and treatment beds (Dr. Franklin's lab) (1994)
+
+- **id**: `babylon5-medlab-autodoc`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 (PTEN/TNT, 1993-1998); Medlab scenes appear continuously seasons 1-5; pilot 'The Gathering' (1993) and 'Soul Hunter' (1994) establish the bed architecture.
+- **ip status**: fictional
+- **prior art notes**: Multi-bed medical bay with integrated diagnostic scanners over each bed, IV/perfusion lines, automated drug-delivery via overhead manipulators, and on-bed surgical interventions. Repeated detailed depictions across 110 episodes 1993-1998. Defensive prior art for: multi-bed integrated diagnostic-and-treatment ward architectures with overhead instrumentation rails and per-bed fluid-handling.
 
 ## Vapourtec continuous-flow chemistry system (2003)
 
@@ -184,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan Fluent automation workstation product launch 2014. https://www.tecan.com/fluent-automation-workstation. Cavro syringe pump (Tecan subsidiary) datasheets.
 - **ip status**: patented
 - **prior art notes**: Modular liquid-handling workstation built around Tecan-owned Cavro precision syringe pumps. Cavro pumps are themselves a load-bearing piece of microfluidic prior art: glass-barrel high-resolution syringe pumps with multi-port distribution valves, used by hundreds of OEM instruments for sub-µL precision dispensing. The Fluent integrates Cavro pumps with multi-channel pipetting heads and supports microfluidic chip add-ons. Anticipates: modular automation platforms integrating precision syringe pumps with multi-channel air-displacement heads; the OEM ecosystem of Cavro-pumped instruments (used inside e.g. Roche, BD, Qiagen analyzers).
+
+## Diagenode Megaruptor Mechanical DNA Shearing (2014)
+
+- **id**: `diagenode-megaruptor-bead-shear`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagenode SA
+- **disclosure**: Diagenode Megaruptor product launch 2014; product manual; Megaruptor 3 launch 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic shear-based DNA fragmentation platform using flow through narrow constrictions to produce reproducible long-DNA fragment distributions for long-read library prep. Anticipates: hydrodynamic-shear DNA fragmentation as a microfluidic-channel design class with channel-geometry-determined fragment-length distributions.
 
 ## Wijnen / Pearce Lab Open-Source Syringe Pump (2014-09-22)
 

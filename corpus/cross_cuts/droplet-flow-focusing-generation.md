@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**18 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -165,6 +165,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Integrated picodroplet workflow for single-cell antibody discovery and clonal cell-line selection: cells encapsulated in flow-focusing droplets together with reporters, droplets imaged in flow for fluorescence signal, target droplets sorted dielectrophoretically into recovery wells. Anticipates: end-to-end automated picodroplet single-cell screening cartridges - droplet generation, incubation, fluorescence-activated sorting - integrated in a single instrument. Important commercial prior art for the picodroplet cell-line-development workflow.
 
+## Namocell Hana Single Cell Dispenser (2017)
+
+- **id**: `namocell-hana-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (acquired by Bio-Rad 2021)
+- **disclosure**: Namocell Inc. product launch 2017 (Stanford spinout, Bio-Rad acquisition 2021); US10625259B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable cartridge implementing pressure-driven flow-focusing droplet ejection coupled to a real-time fluorescence detector that gates each droplet's destination plate well based on cell count and fluorescence intensity. Anticipates: integrated single-use cell sorter that delivers verified single cells into target wells without sheath-fluid contamination paths; disposable plastic equivalent of a sterile FACS sort with deposition recorded per well. Specifically anticipates claims to single-cell printers that combine flow-focusing droplet generation with downstream fluorescence-based well assignment.
+
+## 1CellBio inDrop Commercial Reagent System (2017)
+
+- **id**: `1cellbio-indrops-commercial-extension`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop product launch 2017; Klein et al., Cell 161:1187 (2015) doi:10.1016/j.cell.2015.04.044 (academic origin)
+- **ip status**: patented
+- **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -174,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mission Bio Tapestri platform. https://missionbio.com/tapestri/
 - **ip status**: patented
 - **prior art notes**: Two-step droplet workflow for single-cell DNA sequencing: cells encapsulated, lysed, and tagged in primary droplets; PCR products extracted and re-emulsified for amplicon sequencing. Anticipates: serial-emulsion architecture in single-cell genomics workflows, distinguishing Mission Bio's IP position from 10x Genomics' single-emulsion approach.
+
+## Namocell Pala Single Cell Dispenser (2020)
+
+- **id**: `namocell-pala-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (Bio-Rad)
+- **disclosure**: Namocell Pala datasheet 2020; Bio-Rad press 2021; US patent family above
+- **ip status**: patented
+- **prior art notes**: Extends Hana design to 5-color fluorescence and explicit doublet discrimination by per-droplet image analysis. Anticipates claims to disposable-cartridge multi-color cell sorters with image-based event verification and per-deposit traceability metadata for regulated single-cell-cloning workflows (cell-line provenance documentation under USP/ICH guidelines).
 
 ## Machine-learning-driven droplet generator design (Lashkaripour 2021/2024) (2021)
 
@@ -185,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Disclosed DAFD (Design Automation of Fluid Dynamics): ML model trained on microfluidic experimental data predicts flow-focusing droplet generator geometry from desired droplet size and rate. Anticipates: ML-as-design-automation for microfluidic chip geometry, and the broader trend of replacing CFD simulation with trained models for microfluidic design.
 
+## DAFD — Design Automation of Flow-Focusing Droplet Generators (2021-01-06)
+
+- **id**: `lashkaripour-2021-dafd-droplet-design-automation`
+- **corpus**: open
+- **device class**: droplet-generator
+- **creator**: Ali Lashkaripour, Douglas Densmore et al. (Boston University CIDAR Lab)
+- **disclosure**: Lashkaripour A, Rodriguez C, Mehdipour N, Mardian R, McIntyre D, Ortiz L, Campbell J, Densmore D. Machine learning enables design automation of microfluidic flow-focusing droplet generation. Nature Communications 12: 25 (2021). doi:10.1038/s41467-020-20284-z
+- **ip status**: open-permissive
+- **prior art notes**: Discloses element-by-element an inverse-design pipeline: (1) parameterized geometry of a flow-focusing droplet generator, (2) supervised ML model trained on experimental droplet datasets predicting diameter and generation rate, (3) automated search over geometry + flow rates given user-specified targets, (4) public web deployment generating ready-to-fabricate device files, (5) successor versions covering versatility/stability metrics and aqueous-in-oil + oil-in-aqueous double emulsions. Anticipates: (a) ML inverse-design claims for droplet-microfluidic devices, (b) automated design of double-emulsion generators, (c) cloud-deployed microfluidic CAD generating chip files from performance specs, (d) using neural ensembles plus search algorithms to deliver targeted droplet morphology — published two-plus years before most commercial assertions in this niche.
+
 ## Fluent BioSciences PIPseq particle-templated emulsification (2022-02-01)
 
 - **id**: `fluent-biosciences-pipseq`
@@ -194,3 +234,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Clark, I. C. et al. Microfluidics-free single-cell genomics with templated emulsification. Nat. Biotechnol. 2023, 41, 1557-1566. DOI: 10.1038/s41587-023-01685-z. Fluent BioSciences product launch 2022.
 - **ip status**: patented
 - **prior art notes**: PIPseq replaces flow-focusing droplet generation with templated emulsification: pre-formed hydrogel particles carrying barcoded oligos are mixed with cells and oil in a tube, then vortexed; the hydrogel particle becomes the template that nucleates a uniform aqueous droplet around each particle. Anticipates: chip-free droplet-template emulsification for single-cell barcoding, reducing the sample-prep instrument to a vortexer. Major prior-art consequence: invalidates broad claims requiring 'microfluidic flow-focusing' as the necessary droplet-generation mechanism for high-throughput single-cell barcoding. Originated in the Adam Abate lab (UCSF).
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.
+
+## DAFD 3.0 — Double-Emulsion Droplet Design Automation (2024-01-02)
+
+- **id**: `lashkaripour-2024-dafd-double-emulsion`
+- **corpus**: open
+- **device class**: droplet-generator
+- **creator**: Ali Lashkaripour, Polly Fordyce, Douglas Densmore et al. (Stanford / Boston University)
+- **disclosure**: Lashkaripour A, McIntyre DP, Calhoun SGK, Krauth K, Densmore D, Fordyce PM. Design automation of microfluidic single and double emulsion droplets with machine learning. Nature Communications 15: 83 (2024). doi:10.1038/s41467-023-44068-3
+- **ip status**: open-permissive
+- **prior art notes**: Distinct from the 2021 DAFD 1.0 disclosure, this entry pins the 2024 extension to double emulsions. Element-by-element discloses: (1) parameterised geometry library for single + double-emulsion flow-focusing devices, (2) consensus ensemble ML model trained on experimental droplet datasets, (3) automated search returning device geometry + flow-rate setpoints for user-targeted single or double-emulsion morphology, (4) open web deployment generating fab-ready files. Anticipates: claims directed to inverse-design of double-emulsion droplet generators, ML-driven design automation for W/O/W and O/W/O architectures, and cloud-served device-design APIs covering both emulsion classes.

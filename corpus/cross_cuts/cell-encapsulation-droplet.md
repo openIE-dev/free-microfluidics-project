@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**18 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2007
+Earliest disclosure: 1989
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hyperion Cruciform parasitic implant (resurrection bioparasite) (1989)
+
+- **id**: `hyperion-cruciform-parasite`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Hyperion (Doubleday 1989) ISBN 0-385-24949-7; The Fall of Hyperion (1990); Endymion (1996); The Rise of Endymion (1997).
+- **ip status**: fictional
+- **prior art notes**: Simmons' Cruciform is a parasitic biological implant that integrates into host tissue, samples and stores cellular/genetic material, and on host-death triggers regeneration of tissue using stored cellular templates. Architecturally a wearable/embedded sample-capture + storage + regrowth system. Defensive prior art for: implanted cell-banking devices, integrated host-cell sampling + cryostorage + regeneration triggering, and parasitic biological-implant communication with external substrate. Strong cumulative-fiction anchor (4-novel canon, 1989-1997).
+
+## Peter F. Hamilton Edenist affinity-bonding and longevity clinic (Night's Dawn) (1996)
+
+- **id**: `hamilton-edenist-affinity-clinic`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter F. Hamilton
+- **disclosure**: Peter F. Hamilton, The Reality Dysfunction (Macmillan UK 1996) ISBN 0-333-65063-9 (Night's Dawn Trilogy book 1); The Neutronium Alchemist (1997); The Naked God (1999).
+- **ip status**: fictional
+- **prior art notes**: Edenists are genetically engineered to express affinity (telepathic linkage) and depicted with extensive longevity treatments, gestation-ex-utero in habitat tanks, and continuous health maintenance. Habitat clinics depict whole-body perfusion suites and serotonergic gene-expression management. Defensive prior art for: genetically-engineered-population health-maintenance clinics, ex-utero gestation tanks, and integrated continuous longevity-treatment infrastructure.
+
+## Vernor Vinge Spider 'Focus' serum (A Deepness in the Sky) (1999)
+
+- **id**: `vinge-deepness-spider-focus-serum`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Vernor Vinge
+- **disclosure**: Vernor Vinge, A Deepness in the Sky (Tor 1999) ISBN 0-312-85683-0; Emergent culture's Focus technology.
+- **ip status**: fictional
+- **prior art notes**: Focus is a cognitive-modification therapy administered through a controlled neuroviral payload. The 'Mindrot' progenitor was a biological agent; Focus is engineered downstream. Defensive prior art for: targeted-delivery cognitive-modification therapeutics and engineered-virus drug-delivery systems.
 
 ## Microfluidic alginate microbead generation (2007)
 
@@ -135,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Integrated picodroplet workflow for single-cell antibody discovery and clonal cell-line selection: cells encapsulated in flow-focusing droplets together with reporters, droplets imaged in flow for fluorescence signal, target droplets sorted dielectrophoretically into recovery wells. Anticipates: end-to-end automated picodroplet single-cell screening cartridges - droplet generation, incubation, fluorescence-activated sorting - integrated in a single instrument. Important commercial prior art for the picodroplet cell-line-development workflow.
 
+## 1CellBio inDrop Commercial Reagent System (2017)
+
+- **id**: `1cellbio-indrops-commercial-extension`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 1CellBio Inc.
+- **disclosure**: 1CellBio inDrop product launch 2017; Klein et al., Cell 161:1187 (2015) doi:10.1016/j.cell.2015.04.044 (academic origin)
+- **ip status**: patented
+- **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -194,3 +234,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Clark, I. C. et al. Microfluidics-free single-cell genomics with templated emulsification. Nat. Biotechnol. 2023, 41, 1557-1566. DOI: 10.1038/s41587-023-01685-z. Fluent BioSciences product launch 2022.
 - **ip status**: patented
 - **prior art notes**: PIPseq replaces flow-focusing droplet generation with templated emulsification: pre-formed hydrogel particles carrying barcoded oligos are mixed with cells and oil in a tube, then vortexed; the hydrogel particle becomes the template that nucleates a uniform aqueous droplet around each particle. Anticipates: chip-free droplet-template emulsification for single-cell barcoding, reducing the sample-prep instrument to a vortexer. Major prior-art consequence: invalidates broad claims requiring 'microfluidic flow-focusing' as the necessary droplet-generation mechanism for high-throughput single-cell barcoding. Originated in the Adam Abate lab (UCSF).
+
+## Singleron Matrix sCircle Barcoding (2023)
+
+- **id**: `singleron-matrix-scircle-barcoding`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies product update 2023; technical brief; CN patent family CN112538505A and US application
+- **ip status**: patented
+- **prior art notes**: Discloses circular-barcode bead chemistry deployed on the Singleron Matrix microwell platform, increasing barcode diversity available per cell. Anticipates circular DNA-barcoded bead pools used in microwell-based single-cell platforms.
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-quake-pneumatic-membrane`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1988
 
@@ -194,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
 - **ip status**: patented
 - **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
+
+## Inscripta Onyx Digital Genome Engineering Platform (2019)
+
+- **id**: `inscripta-onyx-genome-engineering`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Inscripta Inc.
+- **disclosure**: Inscripta Onyx product launch 2019; Inscripta MAD7 nuclease publication: Garst et al., 'Genome-wide engineering of E. coli using CREATE,' Nat Biotechnol 35:48 (2017); Inscripta SEC filings; US patent US10,808,254B2 (Inscripta nucleic acid engineering systems)
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
 
 ## Multi-resolution DLP-SLA for 2 µm microfluidic channels (2026-02-27)
 

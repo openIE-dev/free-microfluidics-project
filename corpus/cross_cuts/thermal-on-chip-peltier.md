@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-peltier`
 
-**5 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2008
+Earliest disclosure: 1977
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Traveller Far Trader medical bay (Classic Traveller and Mongoose editions) (1977)
+
+- **id**: `traveller-far-trader-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marc Miller / GDW / Mongoose Publishing
+- **disclosure**: Classic Traveller (Game Designers' Workshop 1977); Book 2: Starships (1977); Mongoose Traveller High Guard (Mongoose 2008) ISBN 978-1-906103-95-1.
+- **ip status**: fictional
+- **prior art notes**: The Traveller small-ship medical bay (~1977) is one of the longest-running tabletop sourcebook depictions of a starship medical facility: low-berth (cold-sleep coffin) banks, autodoc chambers, and integrated drug-delivery. Mongoose Traveller High Guard (2008) provides explicit ship-design rules and module specifications for medical bays. Defensive prior art for modular spacecraft medical bay architecture with cold-sleep + autodoc integration. The 1977 publication is one of the earliest tabletop autodoc anchors.
+
+## Vernor Vinge Slow Zone repair / cold-sleep pods (A Fire Upon the Deep) (1992)
+
+- **id**: `vinge-fire-upon-deep-slowzone-pods`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Vernor Vinge
+- **disclosure**: Vernor Vinge, A Fire Upon the Deep (Tor 1992) ISBN 0-312-85182-0.
+- **ip status**: fictional
+- **prior art notes**: Vinge's Out of Band II crew uses cold-sleep pods extensively during the slow descent into the Slow Zone. Pods include cellular-repair cycle programs running over years. Defensive prior art for long-duration cold-sleep-with-active-cellular-repair protocols. Distinct from existing 'vinge-fire-upon-deep-medical' entry.
+
+## Vernor Vinge Qeng Ho cryosleep coffin (A Deepness in the Sky) (1999)
+
+- **id**: `vinge-deepness-qengho-cryosleep`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Vernor Vinge
+- **disclosure**: Vernor Vinge, A Deepness in the Sky (Tor 1999) ISBN 0-312-85683-0.
+- **ip status**: fictional
+- **prior art notes**: Vinge describes Qeng Ho coldsleep coffins in unusual engineering detail: continuous low-temperature life-support cycles, periodic thaw-and-cycle protocols, microbial monitoring, and crew rotation handled at the coffin level. Architecturally anticipates: long-duration coldsleep life-support with active periodic perfusion, distributed coldsleep-array control systems, and thaw-and-cycle pharmacological management. Defensive prior art for cryopreservation-with-active-perfusion systems.
 
 ## Future Chemistry FlowStart Evo and FlowSyn (FutureChem BV) (2008)
 

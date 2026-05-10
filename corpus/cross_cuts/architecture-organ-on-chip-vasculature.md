@@ -6,14 +6,84 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**11 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2010
+Earliest disclosure: 1969
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune Tleilaxu vat-grown organs and replacement-tissue industry (1969)
+
+- **id**: `dune-tleilaxu-vat-grown-organs`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune Messiah (Putnam 1969) ISBN 0-399-10641-3; expanded extensively in Heretics of Dune (1984).
+- **ip status**: fictional
+- **prior art notes**: The Bene Tleilax run a galactic industry producing replacement organs, eyes (e.g., Duncan Idaho's metal eyes), and engineered tissues from cell cultures. Herbert depicts the entire pipeline: cell-line maintenance, vat cultivation, harvesting, and surgical implantation. Architecturally anticipates: tissue-engineering-as-an-industry, custom-grown organ-on-demand fabrication, and pluripotent cell-banking + culture + harvest pipelines. The 1969 first publication date predates almost all modern tissue-engineering patents.
+
+## Dune axlotl tank — Tleilaxu ghola biological matter compiler (1976)
+
+- **id**: `dune-axlotl-tank-ghola`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Children of Dune (1976) ISBN 0-399-11697-4 and God Emperor of Dune (1981) ISBN 0-399-12604-X; expanded in Heretics of Dune (1984) and Chapterhouse: Dune (1985).
+- **ip status**: fictional
+- **prior art notes**: Iconic and one of the most detailed fictional biological-compiler systems in SF. The axlotl tank is a controlled biological growth vat — a perfused, temperature-regulated, nutrient-cycling chamber that can grow organs, ghola (clone) bodies from cellular material, and (in later books) melange spice. Herbert's text repeatedly describes nutrient feeds, temperature control, sample loading, and harvested-product extraction, all elements of an industrial bioreactor / organ-culture system. Defensive prior art for: large-volume perfused organ-culture bioreactors, whole-body / whole-organ tissue-engineered cultivation systems, hybrid bioreactor-pharmaceutical synthesis (drug + cell co-production), and integrated nutrient-recycle culture systems. The 1976-1985 publication window predates virtually all modern bioreactor tissue-engineering patents.
+
+## Octavia Butler Lilith's Brood Oankali biological technology (living ships and tools) (1987)
+
+- **id**: `butler-oankali-bio-technology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Octavia E. Butler
+- **disclosure**: Octavia E. Butler, Dawn (Warner 1987) ISBN 0-446-51317-2; Adulthood Rites (1988); Imago (1989); collected as Lilith's Brood (Warner 2000).
+- **ip status**: fictional
+- **prior art notes**: Butler's Oankali deploy biological technology — ships are living organisms with circulatory and respiratory systems, medical tools are themselves biological organisms (the 'ooloi' use their own bodies as a medical interface), and gene-mixing is performed through direct biological manipulation. Defensive prior art for: living biological substrate as engineering medium, ooloi-style direct-genetic manipulation interface, and biological-vehicle integrated life-support-and-locomotion systems.
+
+## C. J. Cherryh Cyteen azi production facility (Reseune azi vats) (1988)
+
+- **id**: `cherryh-cyteen-azi-production`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: C. J. Cherryh
+- **disclosure**: C. J. Cherryh, Cyteen (Warner 1988) ISBN 0-446-51428-4.
+- **ip status**: fictional
+- **prior art notes**: Cyteen depicts Reseune as an industrial-scale azi (vat-grown human) production facility. Cherryh provides extensive engineering detail: cell-line maintenance laboratories, gestation tanks (artificial wombs), nutrient-fluid management, embryonic monitoring, and the tape-teaching protocol applied during gestation. Architecturally anticipates: industrialized artificial-womb facilities, mass-throughput human-grow tanks, and integrated in-vat education/conditioning systems. Strong fictional prior art (1988) for whole-population-scale gestation-and-conditioning facilities.
+
+## Battlestar Galactica Cylon resurrection tank (re-imagined series) (2004)
+
+- **id**: `bsg-cylon-resurrection-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ronald D. Moore / Universal Television
+- **disclosure**: Battlestar Galactica miniseries (Sci Fi Channel 2003); resurrection tank introduced in 'Resistance' (2005); detailed in 'Downloaded' (2006) and 'Hero' (2006).
+- **ip status**: fictional
+- **prior art notes**: Iconic explicit fluid-cloning depiction. The resurrection tank is depicted as a translucent vat filled with viscous nutrient/regenerative fluid, in which a Cylon's downloaded consciousness manifests in a freshly-grown body. The 'Downloaded' episode (S2E18, 2006) provides extensive on-screen depictions: vat geometry, fluid-perfusion lines, environmental control, and medical attendants extracting the newly-downloaded Cylon. The 'Hero' (S3E8) episode details the Resurrection Ship infrastructure as an industrialized network of tanks. Architecturally anticipates: closed-vat whole-body biological grow-tank with integrated upload/download interface, mass-resurrection facility with networked tanks, and biological-template + electronic-mind merge facility. Strong fictional prior art for whole-body cloning vats, tied to detailed visual depictions across 4 seasons (2003-2009).
+
+## Firefly River Tam Academy operating tables (neural intervention surgery) (2005)
+
+- **id**: `firefly-river-tam-academy-table`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Joss Whedon
+- **disclosure**: Serenity (Universal 2005); Serenity: Those Left Behind comic (Dark Horse 2005).
+- **ip status**: fictional
+- **prior art notes**: Academy operating tables depicted in Serenity flashbacks performing neurosurgical interventions on River Tam, including neural-tissue extraction (amygdala stripping). Defensive prior art for high-precision neurosurgical operating tables with automated perfusion, sample extraction, and integrated neural recording.
+
+## Eclipse Phase healing vat — detailed mechanics (extends wave 1) (2009)
+
+- **id**: `eclipse-phase-healing-vat-detailed`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Posthuman Studios / Rob Boyle
+- **disclosure**: Eclipse Phase core rulebook (Posthuman Studios 2009) ISBN 978-0-9845835-0-7; Transhuman sourcebook (2013); Panopticon (2011).
+- **ip status**: fictional
+- **prior art notes**: Eclipse Phase healing vats are documented in published RPG sourcebooks with explicit mechanics: nutrient-fluid composition, healing rates per damage value, integrated nanofabrication subsystems, and morph-specific protocols. Published as defensive disclosure under CC-BY-SA 3.0. Extends wave 1 entry by adding the explicit nanofab integration. Defensive prior art for: regenerative cell-and-fluid bath with integrated nanofabricator, morph-specific healing protocols.
 
 ## Lung-on-a-chip (2010)
 
@@ -104,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hinton, T. J.; Jallerat, Q.; Palchesko, R. N.; Park, J. H.; Grodzicki, M. S.; Shue, H.-J.; Ramadan, M. H.; Hudson, A. R.; Feinberg, A. W. Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels. Sci. Adv. 2015, 1, e1500758. DOI: 10.1126/sciadv.1500758
 - **ip status**: patented
 - **prior art notes**: Disclosed FRESH: extrusion 3D printing of soft hydrogel structures into a thixotropic gelatin support bath that holds the soft material until thermal release. Anticipates: support-bath-stabilized soft-material 3D printing, biocompatible scaffold printing for tissue engineering, and the FluidForm commercial bioprinting platform. Architecturally adjacent to organ-on-chip vasculature manufacturing.
+
+## Horizon Zero Dawn Cradle facility (genetic ark + Elisabet Sobeck reconstruction) (2017)
+
+- **id**: `horizon-zero-dawn-cradle`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Guerrilla Games / Sony
+- **disclosure**: Horizon Zero Dawn (Guerrilla Games/Sony 2017); Horizon Forbidden West (2022).
+- **ip status**: fictional
+- **prior art notes**: Cradle facilities depicted as underground bunkers housing genetic templates and gestation tanks for reconstructing all of Earth's biology after the extinction event. Aloy is herself depicted as a clone produced from one of these facilities. Defensive prior art for: planetary-scale species-archive cloning facility, gestation-tank infant production at scale, and hardened underground biotech facility architecture.
 
 ## Organoid-on-chip disease modeling (2023-2026 academic work) (2023)
 

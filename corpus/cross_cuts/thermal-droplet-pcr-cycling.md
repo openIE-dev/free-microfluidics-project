@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-droplet-pcr-cycling`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999
 
@@ -44,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wong, B. G.; Mancuso, C. P.; Kiriakov, S.; Bashor, C. J.; Khalil, A. S. Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER. Nat. Biotechnol. 2018, 36, 614–623. DOI: 10.1038/nbt.4151
 - **ip status**: open-permissive
 - **prior art notes**: Open-hardware 16-vessel parallel bioreactor system with per-vessel temperature, OD, stirring, and feed control. Designed for laboratory directed-evolution and high-throughput growth experiments. Anticipates: massively-parallel addressable bioreactor architecture, open-source bioreactor scaling, and the experimental-evolution use case at academic-budget price points.
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.

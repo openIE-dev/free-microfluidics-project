@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-burst-frangible`
 
-**13 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-01-28
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Santini JT, Cima MJ, Langer R Nature 397:335-338 1999 doi:10.1038/16898; first-in-human Farra R et al. Sci Transl Med 4(122):122ra21 2012 doi:10.1126/scitranslmed.3003276
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
+
+## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
+
+- **id**: `halo-mjolnir-biofoam-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries / Microsoft / Eric Nylund
+- **disclosure**: Halo: Combat Evolved (Bungie/Microsoft, 2001); detailed in Halo: The Fall of Reach (Eric Nylund, Del Rey ISBN 978-0-345-45132-3, 2001) and Halo: First Strike (Eric Nylund, 2003).
+- **ip status**: fictional
+- **prior art notes**: Discloses an armor-integrated wound-sealant fluidic dispenser. Per the Fall of Reach novelization and on-armor lore, the MJOLNIR Mark IV/V/VI armor carries a biofoam canister system that, on detection of a penetrating wound, automatically injects a polymerizing fluid into the wound cavity to halt bleeding, immobilize damaged tissue, and deliver analgesics. Architecturally anticipates: (a) wearable closed-system fluid reservoir + on-demand actuator + injection cannula, (b) automated trigger via biosensor (heart-rate / pressure-loss / breach), (c) two-component reactive polymer mixed in-situ for cavity-fill, (d) drug-delivery payload bundled with mechanical hemostatic. The combat-armor automated injector concept is repeatedly described across Halo novels and games 2001-present and is depicted as a hands-free wearable microfluidic-equivalent sealant dispenser. Defensive prior art for hands-free combat-medic auto-injectors, wearable hemostatic foam dispensers, and biosensor-triggered drug delivery integrated into clothing/armor.
 
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
@@ -85,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a fully implantable osmotic micropump in titanium alloy housing where water osmotically infuses through a controlled-permeability membrane into an osmotic-engine compartment, the engine swells and pushes a piston advancing concentrated peptide formulation through a delivery orifice at sub-microliter-per-day rates for 6-12 months. Anticipates: long-term implantable osmotic mini-pumps for peptide drug delivery; the entire DUROS architecture pattern of titanium tube + semipermeable membrane + osmotic engine + piston + orifice; constant-rate sub-microliter dispensing without electronics or batteries.
 
+## Cytiva ReadyMate Sterile Connector (2009)
+
+- **id**: `cytiva-readymate-sterile-connector`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare Life Sciences (now Cytiva) ReadyMate product launch 2009; US patent US8,205,915B1 (Aseptic coupler, GE Healthcare); product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a two-part sterile connector in which each half carries a peelable sterile membrane; the halves are coupled mechanically in non-sterile environment, then the membranes are pulled simultaneously to expose two sterile fluid faces that mate in a sealed annular boundary, opening a sterile fluid path between the two systems. Anticipates: dry-mate sterile connector architecture (distinguishable from sterile-weld-tube approaches that require thermal welding equipment) for bioprocess closed-system connections. Element-by-element: two connector halves + peelable membrane each + mechanical mate + simultaneous membrane peel + sealed sterile bore.
+
 ## ALine integrated multilayer flow cells (laminate microfluidics) (2010)
 
 - **id**: `aline-integrated-flowcell`
@@ -94,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ALine Inc. integrated multilayer microfluidic flow cells. https://alineinc.com/. ALine Inc. founded 2002 as a contract designer / manufacturer for laminate-based microfluidic devices.
 - **ip status**: patented
 - **prior art notes**: Lamination-based microfluidic manufacturing: stacked laser-cut PMMA / COC layers with pressure-sensitive-adhesive interlayers form integrated flow cells, including embedded blister reagent pouches and burst valves. Anticipates: PSA-laminate manufacturing as a third major microfluidic fabrication process category alongside soft lithography and thermoplastic injection molding; the architectural pattern of a CRO/CDMO providing both prototyping and production-scale runs of laminate flow cells. Many commercial diagnostic cartridges (including OEM cards inside larger systems) are ALine-built or ALine-architected.
+
+## ThermoFisher AutoMate Express Forensic DNA Extraction (2010)
+
+- **id**: `thermofisher-automate-express-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Applied Biosystems / ThermoFisher Scientific
+- **disclosure**: Applied Biosystems AutoMate Express user guide (2010) PN 4441934; PrepFiler Express chemistry datasheet
+- **ip status**: patented
+- **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
 
 ## AncestryDNA Saliva Collection Tube (2012-05)
 
@@ -135,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Sister consumer-saliva-kit entry. Fluidic primitive is the same Oragene cap-burst stabilizer dispense.
 
+## Promega Maxwell RSC 48 Instrument (2016)
+
+- **id**: `promega-maxwell-rsc-48-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Promega Corp.
+- **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
+
 ## Abbott i-STAT Alinity Handheld Blood Analysis Cartridge (2018)
 
 - **id**: `abbott-istat-alinity-cartridge`
@@ -144,3 +184,83 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott i-STAT Alinity FDA 510(k) K172011 cleared 2018-01-10; product launch press release 2018-02
 - **ip status**: patented
 - **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
+
+## Veracyte Decipher GRID Sample Prep Cartridge (2018)
+
+- **id**: `veracyte-decipher-prep-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Veracyte Inc.
+- **disclosure**: Veracyte Decipher Bladder + Prostate GRID product literature; FDA-cleared Decipher Prostate Genomic Classifier 510(k) K191926
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic cartridge that performs deparaffinization, lysis, magnetic-bead RNA capture, and elution of FFPE biopsy samples in an automated system. Anticipates: integrated FFPE-input molecular diagnostic cartridge with on-cartridge organic-solvent paraffin removal followed by aqueous magnetic-bead capture, eliminating manual deparaffinization steps. Useful as prior art against claims to single-cartridge FFPE-to-microarray sample prep architectures.
+
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.

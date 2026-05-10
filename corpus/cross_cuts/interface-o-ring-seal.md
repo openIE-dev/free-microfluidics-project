@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
 
+## Cytiva ReadyMate Sterile Connector (2009)
+
+- **id**: `cytiva-readymate-sterile-connector`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare Life Sciences (now Cytiva) ReadyMate product launch 2009; US patent US8,205,915B1 (Aseptic coupler, GE Healthcare); product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a two-part sterile connector in which each half carries a peelable sterile membrane; the halves are coupled mechanically in non-sterile environment, then the membranes are pulled simultaneously to expose two sterile fluid faces that mate in a sealed annular boundary, opening a sterile fluid path between the two systems. Anticipates: dry-mate sterile connector architecture (distinguishable from sterile-weld-tube approaches that require thermal welding equipment) for bioprocess closed-system connections. Element-by-element: two connector halves + peelable membrane each + mechanical mate + simultaneous membrane peel + sealed sterile bore.
+
 ## Beckman Biomek i5 / i7 automated workstation (2016)
 
 - **id**: `beckman-biomek-iseries`
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bierhaus EB et al., 'The OSIRIS-REx Spacecraft and the Touch-and-Go Sample Acquisition Mechanism (TAGSAM),' Space Science Reviews 214:107 (2018), doi:10.1007/s11214-018-0521-6; Lauretta DS et al., 'Asteroid (101955) Bennu in the laboratory: Properties of the sample collected by OSIRIS-REx,' Meteoritics & Planetary Science 59:2453 (2024)
 - **ip status**: patented
 - **prior art notes**: The TAGSAM head is a gas-fluidized sample acquisition cartridge — relevant to the microfluidics corpus as a non-canonical fluidic system: pressurized N2 jets fluidize asteroid regolith into the collection chamber, then the chamber is sealed with an O-ring against contamination. Element-by-element prior art for: (a) gas-fluidized loose-particulate sampling cartridges with sealed return architecture (anticipates terrestrial industrial fluid-bed dry-sample collectors and bio-aerosol capture cartridges); (b) the integration of multiple sample-capture methods on one head (gas jets + Velcro contact pads) anticipates patents claiming hybrid dry-sampling cartridges; (c) the curation chain from in-flight sealed canister -> Earth-return capsule -> JSC nitrogen glove-box curation establishes a published cleanroom protocol for friable carbonaceous samples that anticipates Mars Sample Return curation patents. Patent citation is for the Lockheed-developed sample capture architecture.
+
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

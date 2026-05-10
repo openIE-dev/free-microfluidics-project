@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-capillary-stop`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -74,3 +74,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oh, K. W.; Ahn, C. H. A review of microvalves. J. Micromech. Microeng. 2006, 16, R13–R39. DOI: 10.1088/0960-1317/16/5/R01
 - **ip status**: public-domain
 - **prior art notes**: Comprehensive review of microvalves enumerating active (pneumatic, thermal, electrostatic, electromagnetic, piezoelectric, electrochemical, electrowetting) and passive (check, capillary-burst, hydrophobic) categories. Methodologically essential as the unified reference for microvalve prior art across the entire field; useful for invalidity contention against any patent claiming a 'novel microvalve' that turns out to fall within one of the eight active or three passive categories enumerated here.
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.

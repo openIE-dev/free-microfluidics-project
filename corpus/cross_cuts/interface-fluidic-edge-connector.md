@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-fluidic-edge-connector`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2017
 
@@ -54,3 +54,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vasquez J.E., Vargas-Hernandez S., Atencia J., Bohnstedt B., Galloway K.C. et al. (Machine Agency, U Washington), 'Jubilee: An extensible machine for multi-tool fabrication and automation', HardwareX 11:e00266 (April 2022); doi:10.1016/j.ohx.2022.e00266; https://jubilee3d.com; https://github.com/machineagency/jubilee
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a kinematically-coupled toolchanging gantry intended specifically for laboratory automation as well as additive manufacturing. Tools dock to a parking station and are picked up by the head via a three-pin kinematic mount that achieves repeatable sub-10-um pose; each tool is electrically connected via spring-pin contacts when docked. The publication and accompanying repository disclose: pipette tool, syringe-pump tool, micro-pipettor tool, camera tool, and demonstrate liquid-handling protocols implemented as G-code. Anticipates: laboratory toolchanging architectures where pipette/syringe/sensor tools are mechanically and electrically interchangeable on a single gantry under unified motion-control firmware; multi-modal lab-on-gantry workflows (e.g., aspirate, image, dispense, measure pH) executed as G-code; integration of OpenFlexure-style microscope payloads as toolchanger heads.
+
+## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
+
+- **id**: `nanostring-cosmx-wta-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: NanoString Technologies (Bruker Spatial Biology since 2024-05)
+- **disclosure**: NanoString/Bruker product launch CosMx WTA, JPM Conference 2024-01; SP-1108 datasheet rev A; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of CosMx in-situ multiplex from ~1000-plex panels to ~18000-plex whole transcriptome through extended cycling of barcoded oligo reporters delivered by an on-instrument microfluidic system. Anticipates: on-instrument fluidic delivery sequences that perform N>16 hybridization-image-strip cycles on a single mounted slide, with microfluidic reagent storage/manifold and per-slide flowcell sealing; combinatorial barcoding scheme for ~18k targets within manageable optical-readout cycles. Specifically anticipates claims to single-instrument WTA spatial transcriptomics by sequential hybridization (vs SBS-based Xenium or sequencing-by-ligation Visium HD).

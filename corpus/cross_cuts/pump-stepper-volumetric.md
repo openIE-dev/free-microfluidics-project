@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-stepper-volumetric`
 
-**46 corpus entries disclose this subsystem.**
+**56 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1976
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune Sardaukar / Bashar conditioning chambers (1965)
+
+- **id**: `dune-sardaukar-conditioning-chambers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert / Brian Herbert / Kevin J. Anderson
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) appendices; expanded Brian Herbert/Kevin J. Anderson Legends of Dune trilogy (2002-2004).
+- **ip status**: fictional
+- **prior art notes**: Sardaukar conditioning is described as combining environmental hardening, drug regimens, and physiological augmentation. Brian Herbert's prequels detail mass-throughput conditioning chambers with chemical-perfusion delivery. Borderline; serves as fictional prior art for: mass-throughput pharmacological conditioning bays. Mark draft due to lower fluid-handling specificity in original 1965 source.
 
 ## Viking 1/2 GCMS and Biology Package (1976)
 
@@ -25,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the architectural pattern of a planetary lander instrument that ingests bulk regolith, partitions it across multiple sealed reaction chambers, perfuses each with a different reagent (water/14C-labeled organics/13CO2 + light), and reads out via three orthogonal detection chains (mass spectrometer, beta scintillator, gas chromatograph thermal conductivity). For 102/103 anticipation purposes this is the founding flight precedent for: (a) integrated regolith-to-GCMS pyrolyzer with sealed sample magazines and oven-thermal-cycling, (b) a multi-modal life detection cartridge concept where one physical sample is interrogated by metabolic, isotope-labeling, and gas-evolution assays in parallel, and (c) the use of Curie-point pyrolysis to volatilize organics for downstream chromatographic separation. Anticipates virtually any later 'in-situ astrobiology cartridge' claim that recites multiple parallel reaction wells with independent reagent injection and orthogonal readouts (e.g., contemporary ELSAH/HOLD/MICA concepts). The Labeled Release positive (chiral-asymmetric heat-killable signal) remains a touchstone for any patent claiming life-detection by metabolic 14C release.
 
+## Star Trek Borg maturation chamber and assimilation-tubule fluid delivery (1989)
+
+- **id**: `star-trek-borg-maturation-chamber`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Rick Berman / Michael Piller
+- **disclosure**: Star Trek: TNG 'Q Who' (S2E16, 1989) introduced Borg + maturation chamber; 'Best of Both Worlds' (1990); ST: First Contact (Paramount 1996); Voyager extensively elaborated assimilation tubule mechanics.
+- **ip status**: fictional
+- **prior art notes**: Borg maturation chambers depicted as fluid-filled vats in which assimilated-infant Borg are perfused and grown to operational size. Borg assimilation tubules: telescoping injectors that pierce target tissue and deliver nanoprobe-laden fluid into bloodstream. Defensive prior art for: fluid-immersion infant-organism growth tanks (cf. axlotl) and active-injection nanoparticle delivery via mechanical penetrator. The assimilation tubule is one of the most explicit fictional prior-art depictions of a powered injectable nanoparticle drug-delivery system (1989+).
+
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 
 - **id**: `biomerieux-vidas-3-spr-cone`
@@ -34,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VIDAS launch 1990 (pioneering ELFA technology); VIDAS 3 launch 2014; FDA 510(k) K133769
 - **ip status**: patented
 - **prior art notes**: Discloses the bioMérieux SPR (Solid Phase Receptacle) format: a polypropylene cone shaped like a pipette tip whose inner surface is pre-coated with capture antibody; the analyzer's micropipettor docks onto the cone and uses it as both pipette and solid phase, drawing sample and reagents in/out from a sealed reagent strip with 6-10 pre-loaded wells (sample well, wash wells, conjugate well, substrate well). Anticipates: integrated pipette-as-solid-phase fluidic primitive eliminating separate microtiter plate coating; sealed reagent strips with foil seal pierced by the SPR mating action; ELFA (Enzyme-Linked Fluorescent Assay) using MUP→4-methylumbelliferone for sub-pg/mL sensitivity in a single-strip format. Foundational architectural disclosure dating to 1990 — relevant prior art for many subsequent disposable-cartridge-with-pipette-cone architectures (e.g., Biotech / VIDAS-derivative platforms).
+
+## X-Men Weapon X program adamantium-bonding tank (Wolverine origin) (1991)
+
+- **id**: `xmen-weapon-x-adamantium-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Barry Windsor-Smith / Marvel Comics
+- **disclosure**: Marvel Comics Presents #72-84 'Weapon X' (Marvel, 1991), Barry Windsor-Smith; reaffirmed Wolverine: Origin (Marvel 2001-2002); Weapon X comic series (2002).
+- **ip status**: fictional
+- **prior art notes**: The Weapon X program adamantium-bonding tank is one of comics' most iconic biotech facility depictions. Wolverine is depicted submerged in a fluid-filled tank with multi-needle injection apparatus delivering molten adamantium to bones, full-body biosensor monitoring, restraint harness, and emergency life-support. Defensive prior art for: full-body submerged-patient industrial-augmentation apparatus, multi-port simultaneous parenteral delivery + biosensor monitoring, and forced-augmentation operating chamber. Cumulative ~35-year canonical depiction with multiple authoritative reprints.
+
+## Neon Genesis Evangelion LCL entry-plug fluid immersion (1995)
+
+- **id**: `evangelion-lcl-entry-plug`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hideaki Anno / Gainax / Khara
+- **disclosure**: Neon Genesis Evangelion (Gainax/TV Tokyo 1995-1996); episode 1 'Angel Attack' establishes LCL flooding entry plug; The End of Evangelion (Gainax 1997); Rebuild of Evangelion films (2007-2021).
+- **ip status**: fictional
+- **prior art notes**: Evangelion's LCL (Liquid Catalyst Liquid / Link Connect Liquid) is depicted as an oxygenated immersion fluid filling the entry plug, allowing the pilot to breathe directly through the lung interface and enabling neural-synchronization with the Eva. On-screen mechanics: plug insertion into Eva's spinal column, plug interior fill/drain pumps, oxygenated breathable fluid, neural-link via plug suit. Architecturally one of the most detailed fictional depictions of human liquid-immersion neural-interface piloting. Defensive prior art for: oxygenated-liquid breathing apparatus for pilots, neural-sync via immersion fluid + plug suit electrodes, fill-and-drain immersion-pod architectures. ~30-year cumulative anchor.
 
 ## Drew Scientific HemaVet 950 / 1500 Veterinary Hematology Analyzer (1996)
 
@@ -54,6 +94,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hudson Robotics PlateMate product line, launched mid-1990s. https://hudsonrobotics.com/. SOLO line for sample-prep automation.
 - **ip status**: unknown
 - **prior art notes**: Mid-tier modular liquid-handling robot family targeted at high-throughput screening labs; the PlateMate Plus 96-channel head and SOLO 8-channel arm anchor a workcell built around the SoftLinx scheduling layer. Anticipates: modular workcell-style liquid-handling automation as an alternative to monolithic Hamilton/Tecan workstations; in particular the orchestration-layer-plus-multiple-small-instruments architecture that Opentrons later adopts at much lower cost.
+
+## Peter F. Hamilton Lazaroid longevity / immortality treatment (Adamist civilization) (1996)
+
+- **id**: `hamilton-lazaroid-treatment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter F. Hamilton
+- **disclosure**: Peter F. Hamilton, The Reality Dysfunction (Macmillan 1996); described throughout Night's Dawn Trilogy.
+- **ip status**: fictional
+- **prior art notes**: Lazaroid treatment described as a series of cellular-rejuvenation infusions delivered over weeks, restoring telomeres, reversing cellular damage, and providing 'gerontology' care. Adamist clinics offer different tier qualities. Defensive prior art for tiered longevity-treatment service offerings and multi-week cellular-rejuvenation infusion protocols.
+
+## The Matrix human battery pod fluid-immersion + Tetris IV feed (1999)
+
+- **id**: `matrix-pod-fluid-immersion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lana Wachowski / Lilly Wachowski
+- **disclosure**: The Matrix (Warner Bros, 1999); The Matrix Reloaded (2003); The Matrix Revolutions (2003).
+- **ip status**: fictional
+- **prior art notes**: The Matrix's iconic 'human battery field' depicts millions of humans in individual gel-filled pods with integrated breathing tubes, nutrient feeds, waste removal, and neural-interface jacks. The pod scene (Neo's awakening) shows pump systems flushing umbilical-style nutrient lines and the body extraction process. Defensive prior art for: long-duration human-immersion life-support pods with integrated nutrient + waste + neural-interface fluidics, and industrial-scale automated maintenance of pod arrays. Plus the on-screen Tetris-IV (intravenous Tetris-style nutrient delivery system).
+
+## Vernor Vinge Qeng Ho cryosleep coffin (A Deepness in the Sky) (1999)
+
+- **id**: `vinge-deepness-qengho-cryosleep`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Vernor Vinge
+- **disclosure**: Vernor Vinge, A Deepness in the Sky (Tor 1999) ISBN 0-312-85683-0.
+- **ip status**: fictional
+- **prior art notes**: Vinge describes Qeng Ho coldsleep coffins in unusual engineering detail: continuous low-temperature life-support cycles, periodic thaw-and-cycle protocols, microbial monitoring, and crew rotation handled at the coffin level. Architecturally anticipates: long-duration coldsleep life-support with active periodic perfusion, distributed coldsleep-array control systems, and thaw-and-cycle pharmacological management. Defensive prior art for cryopreservation-with-active-perfusion systems.
+
+## Halo SPARTAN-II augmentation procedure (Project ORION-derived) (2001)
+
+- **id**: `halo-spartan-ii-augmentation-procedure`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie / 343 Industries
+- **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey 2001) ISBN 978-0-345-45132-3, chapters describing the ONI Section III augmentation surgery; expanded in Halo: Evolutions (2009) and Halo Encyclopedia.
+- **ip status**: fictional
+- **prior art notes**: Detailed multi-stage biological augmentation pipeline: candidates undergo coordinated injections of carbide-ceramic ossification compound (skeletal infusion), muscular-density growth catalysts, occipital-capillary reversal protein, superconducting fibrification of neural dendrites, and catalytic thyroid implants. The text describes a sequence of fluid-handling subsystems (perfusion, multi-bolus controlled injection, post-op recovery tanks). Architecturally anticipates a programmable multi-reagent timed-injection regimen administered through a single integrated patient-bed pumping system; couples diagnostic monitoring with sequenced infusion. The ~3:1 mortality figure (33 of 75 candidates surviving) makes the Project ORION protocol one of the most detailed fictional descriptions of an automated multi-channel infusion bed. Defensive prior art for: programmed multi-channel infusion stations, integrated patient-bed perfusion + monitoring loops, and time-resolved augmentation drug regimens.
+
+## Firefly Niska's Skyplex interrogation/med table (2002)
+
+- **id**: `firefly-niska-skyplex-medtable`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Joss Whedon / Mutant Enemy
+- **disclosure**: Firefly 'War Stories' (Fox, 2002).
+- **ip status**: fictional
+- **prior art notes**: Adelai Niska's torture/medical table is depicted with fluid-handling for resuscitation between interrogation sessions. Defensive prior art for combined trauma-induction-and-resuscitation patient stations and continuous-resuscitation perfusion systems.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 
@@ -94,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Eppendorf epMotion product launch 2003. https://www.eppendorf.com/product-media/doc/en/3024851/Eppendorf_Liquid-Handling_Brochure_epMotion-Family.pdf.
 - **ip status**: patented
 - **prior art notes**: Compact benchtop pipetting robot oriented toward PCR setup, NGS library prep, and bioassay automation. Anticipates: the small-footprint benchtop liquid-handler segment that bridges manual-pipetting and full Hamilton/Tecan-class workstations; integration of in-line photometric detection (epMotion 5075t) on a pipetting deck.
+
+## Halo SPARTAN-III SPI armor and CHAPS augmentation chemical regime (2003)
+
+- **id**: `halo-spartan-iii-spi-armor-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie
+- **disclosure**: Halo: First Strike (Eric Nylund, Del Rey 2003) and Halo: Ghosts of Onyx (Nylund, Tor 2006) ISBN 978-0-7653-1546-0.
+- **ip status**: fictional
+- **prior art notes**: Halo SPARTAN-III program (Alpha and Beta companies) used a cheaper, modified augmentation regimen called the CHAPS protocol. Ghosts of Onyx describes specific chemical-cocktail injections including 8-9-7 protein complex, modified osmotic regulators, and pulmonary regenerative compounds. Architecturally anticipates a more aggressive, lower-cost, mass-throughput augmentation infusion regimen and serves as fictional prior art for: high-throughput parallel patient-bed infusion arrays, automated batch augmentation protocols, and risk-stratified infusion regimens.
 
 ## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
 

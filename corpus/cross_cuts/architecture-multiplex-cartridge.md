@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `architecture-multiplex-cartridge`
 
-**72 corpus entries disclose this subsystem.**
+**122 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1976
+Earliest disclosure: 1964
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Cordwainer Smith Norstrilia Stroon longevity treatment (1964)
+
+- **id**: `cordwainer-smith-stroon-treatment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Cordwainer Smith (Paul Linebarger)
+- **disclosure**: Cordwainer Smith (Paul Linebarger), 'The Boy Who Bought Old Earth' (Galaxy magazine, 1964); Norstrilia (Ballantine 1975) ISBN 0-345-24366-4.
+- **ip status**: fictional
+- **prior art notes**: Stroon (santaclara) is depicted as a longevity drug extracted from giant mutated sheep on Norstrilia. Smith describes the extraction-and-purification pipeline, distribution network, and clinical-administration protocols. Defensive prior art (1964) for: animal-source longevity-drug extraction industry and lifespan-extension clinical infrastructure.
+
+## Stanisław Lem The Cyberiad — Trurl's matter-compiler machines (1965)
+
+- **id**: `lem-cyberiad-matter-compiler`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Stanisław Lem
+- **disclosure**: Stanisław Lem, Cyberiada (Wydawnictwo Literackie 1965); English: The Cyberiad (Seabury 1974) ISBN 0-8164-9231-6.
+- **ip status**: fictional
+- **prior art notes**: Lem's Cyberiad depicts Trurl's universal-constructor machines that synthesize arbitrary matter from raw inputs through chained chemical-and-mechanical operations. Defensive prior art (1965) for: programmable matter-synthesis machines, chained chemical-formulation pipelines, and universal-fab architectures. Strong cumulative-fiction anchor.
+
+## DC Cadmus Project cloning and genetic-engineering facility (1971)
+
+- **id**: `dc-cadmus-project-cloning`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Jack Kirby / DC Comics
+- **disclosure**: Superman's Pal, Jimmy Olsen #133-148 (DC, 1970-1972), Jack Kirby; reactivated Death of Superman / Reign of the Supermen (1992-1993) introducing Superboy clone.
+- **ip status**: fictional
+- **prior art notes**: Project Cadmus depicted as a US-government clone-research facility with rows of cloning vats producing genetically engineered organisms (Superman clone Superboy / Conner Kent in 1993; the Newsboy Legion clones earlier; numerous other characters). Defensive prior art (1970+) for: government-funded industrial-scale cloning facility, rows-of-vats whole-organism gestation, and combined genetic-engineering + cloning + tissue-engineering pipeline. Strong cumulative depiction.
 
 ## Viking 1/2 GCMS and Biology Package (1976)
 
@@ -25,6 +55,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the architectural pattern of a planetary lander instrument that ingests bulk regolith, partitions it across multiple sealed reaction chambers, perfuses each with a different reagent (water/14C-labeled organics/13CO2 + light), and reads out via three orthogonal detection chains (mass spectrometer, beta scintillator, gas chromatograph thermal conductivity). For 102/103 anticipation purposes this is the founding flight precedent for: (a) integrated regolith-to-GCMS pyrolyzer with sealed sample magazines and oven-thermal-cycling, (b) a multi-modal life detection cartridge concept where one physical sample is interrogated by metabolic, isotope-labeling, and gas-evolution assays in parallel, and (c) the use of Curie-point pyrolysis to volatilize organics for downstream chromatographic separation. Anticipates virtually any later 'in-situ astrobiology cartridge' claim that recites multiple parallel reaction wells with independent reagent injection and orthogonal readouts (e.g., contemporary ELSAH/HOLD/MICA concepts). The Labeled Release positive (chiral-asymmetric heat-killable signal) remains a touchstone for any patent claiming life-detection by metabolic 14C release.
 
+## Traveller Far Trader medical bay (Classic Traveller and Mongoose editions) (1977)
+
+- **id**: `traveller-far-trader-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marc Miller / GDW / Mongoose Publishing
+- **disclosure**: Classic Traveller (Game Designers' Workshop 1977); Book 2: Starships (1977); Mongoose Traveller High Guard (Mongoose 2008) ISBN 978-1-906103-95-1.
+- **ip status**: fictional
+- **prior art notes**: The Traveller small-ship medical bay (~1977) is one of the longest-running tabletop sourcebook depictions of a starship medical facility: low-berth (cold-sleep coffin) banks, autodoc chambers, and integrated drug-delivery. Mongoose Traveller High Guard (2008) provides explicit ship-design rules and module specifications for medical bays. Defensive prior art for modular spacecraft medical bay architecture with cold-sleep + autodoc integration. The 1977 publication is one of the earliest tabletop autodoc anchors.
+
+## David Brin Streaker dolphin-crew medical bay (Startide Rising) (1983)
+
+- **id**: `brin-startide-rising-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Brin
+- **disclosure**: David Brin, Startide Rising (Bantam 1983) ISBN 0-553-23495-0; The Uplift War (1987).
+- **ip status**: fictional
+- **prior art notes**: Streaker's medical bay accommodates uplifted dolphin and human crews — separate hydration tanks, fin-anatomy surgical fixtures, and species-specific drug formulations. Defensive prior art for multi-species medical-bay architecture with species-specific bed/tank fixtures.
+
 ## Iain M. Banks Culture autodoc / medical bay (1987)
 
 - **id**: `banks-culture-autodoc`
@@ -35,6 +85,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Long-running narrative depiction across 9+ Culture novels (1987-2012) of fully integrated bedside clinical platforms that perform: continuous whole-body biochemical assay; AI-driven differential diagnosis; on-demand synthesis of arbitrary therapeutics from elemental feedstock; targeted intracellular delivery; and neural-feedback-loop intervention. Banks's autodocs are described in repeated technical detail (e.g., Use of Weapons chapter dealing with Zakalwe's repair; Surface Detail's Lededje resurrection sequences) as integrated chemistry-on-demand systems with sub-cellular precision. Doctrinally citable as 102/103 prior art for the architectural class 'autonomous bedside platform combining real-time multi-analyte assay with on-demand synthesis of patient-specific therapeutics under closed-loop AI control'. The Vornado v. Hunter Fan precedent (a category disclosure need not be enabling to anticipate) makes this directly citable against any patent attempting to claim that architectural pattern as a generic invention.
 
+## C. J. Cherryh Cyteen azi production facility (Reseune azi vats) (1988)
+
+- **id**: `cherryh-cyteen-azi-production`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: C. J. Cherryh
+- **disclosure**: C. J. Cherryh, Cyteen (Warner 1988) ISBN 0-446-51428-4.
+- **ip status**: fictional
+- **prior art notes**: Cyteen depicts Reseune as an industrial-scale azi (vat-grown human) production facility. Cherryh provides extensive engineering detail: cell-line maintenance laboratories, gestation tanks (artificial wombs), nutrient-fluid management, embryonic monitoring, and the tape-teaching protocol applied during gestation. Architecturally anticipates: industrialized artificial-womb facilities, mass-throughput human-grow tanks, and integrated in-vat education/conditioning systems. Strong fictional prior art (1988) for whole-population-scale gestation-and-conditioning facilities.
+
+## Cyberpunk 2020 Ripperdoc clinic published mechanics (extends wave 1) (1990)
+
+- **id**: `cyberpunk-2020-ripperdoc-extended`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Mike Pondsmith / R. Talsorian Games
+- **disclosure**: Cyberpunk 2020 (R. Talsorian Games 1990) ISBN 0-937279-13-9; Chromebook 1-4 sourcebooks (1991-1996); Cyberpunk RED (R. Talsorian 2020).
+- **ip status**: fictional
+- **prior art notes**: The Cyberpunk 2020 Chromebook series is one of SF tabletop's most detailed published cyberware catalogs — each implant (cyberlimbs, cybereyes, neural processors, biomonitors, drug-implants) is documented with installation, fluid-handling, and maintenance specifics. Cumulative published canon predates most modern surgical-robot patents. Defensive prior art for ripperdoc clinical-station architecture: combined surgical-bay + diagnostic + drug-formulation infrastructure for cybernetic-implant installation.
+
+## Star Trek DS9 Dr. Mora Pol biological research laboratory (Bajoran Institute) (1993)
+
+- **id**: `star-trek-ds9-mora-pol-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Rick Berman / Michael Piller
+- **disclosure**: Star Trek: Deep Space Nine 'The Alternate' (S2E12, 1994); Mora Pol introduced as Odo's mentor at the Bajoran Center for Science.
+- **ip status**: fictional
+- **prior art notes**: Dr. Mora Pol's lab depicted as a Bajoran-built biological research facility focused on shape-shifter (Founder) cell biology, including specimen containment, cellular sampling, and electrical/biochemical assays. Defensive prior art for non-Federation alien-organism research-lab architecture and specimen-confinement chambers for unknown biology.
+
+## Babylon 5 Medlab automated diagnostic and treatment beds (Dr. Franklin's lab) (1994)
+
+- **id**: `babylon5-medlab-autodoc`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 (PTEN/TNT, 1993-1998); Medlab scenes appear continuously seasons 1-5; pilot 'The Gathering' (1993) and 'Soul Hunter' (1994) establish the bed architecture.
+- **ip status**: fictional
+- **prior art notes**: Multi-bed medical bay with integrated diagnostic scanners over each bed, IV/perfusion lines, automated drug-delivery via overhead manipulators, and on-bed surgical interventions. Repeated detailed depictions across 110 episodes 1993-1998. Defensive prior art for: multi-bed integrated diagnostic-and-treatment ward architectures with overhead instrumentation rails and per-bed fluid-handling.
+
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 
 - **id**: `quidel-triage-meterpro-fluorescence-cartridge`
@@ -44,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosite Triage launch 1995 (drug-of-abuse panel); Triage BNP first cardiac assay 2000-11 (FDA 510(k) K003425); Quidel acquisition of Alere/Biosite Triage 2017; ongoing assays through 2020s
 - **ip status**: patented
 - **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
+
+## Babylon 5 Narn biological weapons / Dilgar War medical-weapon labs (1995)
+
+- **id**: `babylon5-narn-bioweapon-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski
+- **disclosure**: Babylon 5 'Deathwalker' (1994) and Narn-Centauri War arc episodes.
+- **ip status**: fictional
+- **prior art notes**: References to Narn and Dilgar bioweapons-research facilities including Deathwalker Jha'dur's longevity serum derived from sentient bio-extraction. Defensive prior art for biosynthesis labs combining specimen extraction, fractionation, and reagent compounding. Mark draft due to limited engineering specificity.
 
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
@@ -65,6 +165,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an impedance-only multi-species veterinary hematology analyzer optimized for low-volume rodent samples (20 µL): single Coulter-principle aperture with species-specific lysing reagents; differential by impedance-histogram peak deconvolution applying species-specific RBC/WBC/PLT volume distribution priors. Anticipates: low-cost impedance-only veterinary hematology suitable for academic/preclinical pharmacology where cost and rodent-sample volume dominate over diff-channel diversity. Distinct from IDEXX ProCyte Dx (impedance + flow cytometry, higher cost, in-clinic) and from Heska Element HT5 (image cytometry). Important architectural anchor for the segment of veterinary/preclinical hematology that doesn't need fluorescence cytometry.
 
+## Hyperion Pax Reactivation Center medbay (Cruciform-mediated resurrection facility) (1996)
+
+- **id**: `hyperion-reactivation-center-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Endymion (Bantam 1996) ISBN 0-553-10020-7; The Rise of Endymion (1997).
+- **ip status**: fictional
+- **prior art notes**: Pax Reactivation Centers depicted as standardized facilities (every Pax world has them) where deceased Cruciform-bearers are placed in nutrient/perfusion vats for ~3-day regeneration. Detailed depictions of multi-bed perfusion arrays, monitoring instrumentation, and standardized post-resurrection medical care. Architecturally anticipates: industrialized whole-body cell-culture / regrowth facilities, multi-bed perfusion arrays, and combined religious/medical institutional integration of biological technology.
+
+## Hyperion Pax Mercantilus advanced medical / longevity service (1996)
+
+- **id**: `hyperion-pax-mercantilus-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Endymion (Bantam 1996); The Rise of Endymion (1997).
+- **ip status**: fictional
+- **prior art notes**: Mercantilus tier of Pax society offered enhanced medical services — Poulsen treatments (life-extension), advanced Cruciform protocols, premium perfusion suites. Defensive prior art for tiered/premium longevity-treatment services and customized perfusion regimens.
+
+## Peter F. Hamilton Lazaroid longevity / immortality treatment (Adamist civilization) (1996)
+
+- **id**: `hamilton-lazaroid-treatment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter F. Hamilton
+- **disclosure**: Peter F. Hamilton, The Reality Dysfunction (Macmillan 1996); described throughout Night's Dawn Trilogy.
+- **ip status**: fictional
+- **prior art notes**: Lazaroid treatment described as a series of cellular-rejuvenation infusions delivered over weeks, restoring telomeres, reversing cellular damage, and providing 'gerontology' care. Adamist clinics offer different tier qualities. Defensive prior art for tiered longevity-treatment service offerings and multi-week cellular-rejuvenation infusion protocols.
+
+## GURPS Bio-Tech sourcebook (Steve Jackson Games 1996) (1996)
+
+- **id**: `gurps-bio-tech-sourcebook`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Pulver / Steve Jackson Games
+- **disclosure**: GURPS Bio-Tech (Steve Jackson Games 1996) ISBN 1-55634-336-7; second edition (2006) ISBN 1-55634-689-7.
+- **ip status**: fictional
+- **prior art notes**: GURPS Bio-Tech (1996) is a comprehensive published catalog of biotechnology equipment including: gene-tailoring tanks, organ-grow vats, autodocs, healing slates, biofeedback couches, organ banks, and parasitic-implant medical tech. Defensive prior art anchor (1996) for industrialized biotech ecosystem covering tissue engineering, drug-formulation, organ-banking, and field-medicine equipment.
+
 ## MicroCHIPS / Microchips Biotech Implantable Drug Reservoir Array (1999-01-28)
 
 - **id**: `microchips-biotech-implantable-reservoir`
@@ -74,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Santini JT, Cima MJ, Langer R Nature 397:335-338 1999 doi:10.1038/16898; first-in-human Farra R et al. Sci Transl Med 4(122):122ra21 2012 doi:10.1126/scitranslmed.3003276
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
+
+## Halo CASTLE Base biological augmentation laboratories (2001)
+
+- **id**: `halo-castle-base-biolabs`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie / 343 Industries
+- **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey 2001); Halo: First Strike (2003).
+- **ip status**: fictional
+- **prior art notes**: Underground ONI augmentation/research facility on Reach. Lore details include: dedicated augmentation suites, ICU recovery vats, cell-culture and tissue-engineering labs, and reagent-synthesis facilities. Defensive prior art for an integrated military-grade augmentation hospital combining surgical bays, recovery perfusion stations, and on-site reagent synthesis. Anticipates 'augmentation-as-a-service' facility architecture combining multi-step fluid handling, diagnostics, and recovery.
 
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
@@ -135,6 +285,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
 
+## Halo SPARTAN-III SPI armor and CHAPS augmentation chemical regime (2003)
+
+- **id**: `halo-spartan-iii-spi-armor-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie
+- **disclosure**: Halo: First Strike (Eric Nylund, Del Rey 2003) and Halo: Ghosts of Onyx (Nylund, Tor 2006) ISBN 978-0-7653-1546-0.
+- **ip status**: fictional
+- **prior art notes**: Halo SPARTAN-III program (Alpha and Beta companies) used a cheaper, modified augmentation regimen called the CHAPS protocol. Ghosts of Onyx describes specific chemical-cocktail injections including 8-9-7 protein complex, modified osmotic regulators, and pulmonary regenerative compounds. Architecturally anticipates a more aggressive, lower-cost, mass-throughput augmentation infusion regimen and serves as fictional prior art for: high-throughput parallel patient-bed infusion arrays, automated batch augmentation protocols, and risk-stratified infusion regimens.
+
+## Battlestar Galactica Galactica sickbay (Doc Cottle's bay) (2003)
+
+- **id**: `bsg-galactica-sickbay-cottle`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ronald D. Moore / Universal Television
+- **disclosure**: Battlestar Galactica miniseries (Sci Fi 2003) and series (2004-2009).
+- **ip status**: fictional
+- **prior art notes**: Galactica sickbay depicted across many episodes as a multi-bed military medical bay with manual+automated diagnostics, the Cylon detection assay (an explicit cellular-level diagnostic), pregnancy tests with Cylon-specific markers, and surgical interventions. Defensive prior art for: military-grade triage bay architecture and species/origin-discriminating cellular assays at the bedside.
+
+## Peter F. Hamilton Highmotive medical pods (2004)
+
+- **id**: `hamilton-highmotive-medical-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter F. Hamilton
+- **disclosure**: Peter F. Hamilton, Pandora's Star (Macmillan 2004); Judas Unchained (2005).
+- **ip status**: fictional
+- **prior art notes**: Highmotive medical pods are described as autonomous closed-system trauma-care units with full diagnostic, surgical, and pharmacy synthesis on board. Used in field hospitals during the Starflyer War. Defensive prior art for autonomous trauma-care pods with integrated multi-modal medical-fluid handling.
+
 ## Leica Bond-III automated immunohistochemistry stainer (2007)
 
 - **id**: `leica-bond-iii-staining`
@@ -164,6 +344,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stago STA R Evolution launch 2007; STA R Max launch 2014; FDA 510(k) K082437; mechanical viscosity detection patent US4319194 (Stago 1982)
 - **ip status**: patented
 - **prior art notes**: Discloses Stago's signature mechanical clot detection: the assay cuvette contains a small steel ball oscillated by an external rotating magnetic field; as plasma coagulation progresses, viscosity rises, dampening ball oscillation amplitude/phase, sensed by a Hall-effect or coil pickup. Unlike optical (Werfen ACL TOP) or chromogenic (Sysmex CS) detection, the viscosity-based primitive is immune to chyle/hemolysis/icterus optical interference — enabling testing on samples that would fail other analyzers. Anticipates: magneto-mechanical viscosity-based clot detection in disposable cuvettes; the architectural choice of pre-loading the ball into the cuvette during manufacture (vs adding it at runtime). Defines the commercial niche for centers with high pediatric / hemolyzed sample loads.
+
+## BioShock Plasmid bottling plant / Adam-Eve production facility (2007)
+
+- **id**: `bioshock-plasmid-bottling-plant`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Irrational Games / 2K
+- **disclosure**: BioShock (2K Games/Irrational 2007); 'Fontaine Futuristics' level in BioShock 2 (2010).
+- **ip status**: fictional
+- **prior art notes**: Plasmid bottling plant depicted as an industrial pharmaceutical-synthesis facility processing Adam (slug-secreted stem cells) into Plasmid and Eve injectables. Visible mechanics: cell-extraction tanks, mixing vats, fill-and-seal lines, distribution. Defensive prior art for: integrated bioproduction facility from raw-cell extraction through injectable-fill-and-finish, vending-machine-distributed injectable drugs.
+
+## Bio-Rad Gene Pulser MXcell Electroporation System (2007)
+
+- **id**: `biorad-gene-pulser-mxcell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Bio-Rad Laboratories
+- **disclosure**: Bio-Rad Gene Pulser MXcell product launch 2007; Bio-Rad Bulletin 5447 (MXcell brochure); US patent US7,799,555B2 (Apparatus and method for electroporating cells in a multi-well plate, Bio-Rad)
+- **ip status**: patented
+- **prior art notes**: Discloses an electroporation plate in which each well of a 96-well array contains an integrated electrode pair, addressed by a multiplexed pulse generator that can fire well-by-well or row-by-row with independent waveforms. Anticipates: multi-well-plate-format electroporation (distinct from cuvette and pipette-tip formats), where the entire 96-well plate acts as the disposable, and the instrument programs distinct conditions per well — enabling high-throughput protocol screening. Element-by-element: 96-well disposable + per-well electrode pair + multiplexed pulse forming network + plate-handling registration.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -235,6 +435,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
+## Halo UNSC Constantinople-class hospital ship (2009)
+
+- **id**: `halo-unsc-hospital-ship-constantinople`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: 343 Industries / Karen Traviss
+- **disclosure**: Halo Encyclopedia (DK Publishing 2009) ISBN 978-0-7566-5549-7; Halo: Glasslands (Karen Traviss, Tor 2011).
+- **ip status**: fictional
+- **prior art notes**: Mobile orbital hospital ship class with multi-thousand-bed surgical/medical capacity, autonomous trauma triage, on-board pharmaceutical synthesis, and biological waste handling. Defensive prior art for: integrated mobile mass-casualty surgical platforms; on-board pharma synthesis loops; modular bed-cluster fluidic infrastructure.
+
 ## Ventana DISCOVERY ULTRA automated IHC stainer (2010)
 
 - **id**: `ventana-discovery-ihc`
@@ -274,6 +484,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX ProCyte Dx launch 2010-09; ProCyte One launch 2020-06
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer based on a Sysmex-licensed dual-modality flow cell (impedance + flow cytometry with side scatter and side fluorescence), ported to a compact bench-top form factor with species-specific reagent and algorithm sets. Anticipates: in-clinic veterinary applications of hybrid impedance + optical hematology platforms; the multi-species calibration architecture (RBC volume, MCV, WBC subtype distributions vary substantially across species — the analyzer must select species-specific reference distributions). Important prior art for the veterinary in-clinic hematology market as it differentiates from human-clinical-only platforms (Sysmex XN, Beckman DxH, Mindray BC). Companion to ProCyte One (2020) which uses a different IDEXX-internal optical fluorescent imaging architecture rather than Sysmex licensure.
+
+## Mass Effect Cerberus Lazarus Project (Shepard reconstruction facility) (2010)
+
+- **id**: `mass-effect-cerberus-lazarus-project`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BioWare / Electronic Arts
+- **disclosure**: Mass Effect 2 (BioWare/EA 2010); 'Lazarus Project' opening sequence; Mass Effect: Foundation comic series (Dark Horse 2013-2014).
+- **ip status**: fictional
+- **prior art notes**: Lazarus Project depicted as a multi-year, multi-billion-credit facility reconstructing a corpse into a functional being using cybernetic implants, cellular regrowth, and neural-state restoration. The opening cinematic shows operating tables with multiple overhead surgical arms, fluid-perfusion lines, and integrated diagnostic monitors. Defensive prior art for: large-scale corpse-reconstruction facility integrating cybernetic implant installation + tissue engineering + neural restoration. Extends wave 1 ME entries with the explicit reconstruction-pipeline architecture.
+
+## ChemoMetec NucleoCounter NC-3000 (Image Cytometer) (2010)
+
+- **id**: `chemometec-nucleocounter-nc-3000`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: ChemoMetec A/S
+- **disclosure**: ChemoMetec A/S NC-3000 product launch 2010; product literature 2012-2023; ChemoMetec patent estate US8,309,025B1 (Cassette for cell counting based on fluorescent staining)
+- **ip status**: patented
+- **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
 
 ## Beckman Coulter AU5800 Clinical Chemistry Analyzer Cuvette Wheel (2011)
 
@@ -345,6 +575,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
 
+## Psycho-Pass Sibyl System brain-immersion fluidic substrate (2012)
+
+- **id**: `psycho-pass-sibyl-brain-immersion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gen Urobuchi / Production I.G
+- **disclosure**: Psycho-Pass (Production I.G/Fuji TV 2012); 'Reveal of the Sibyl' arc episodes 17-18 (2013).
+- **ip status**: fictional
+- **prior art notes**: Psycho-Pass reveals that the Sibyl System is a parallel-array of disembodied human brains immersed in nutrient fluid, networked together as a distributed compute substrate. The reveal-arc shows the brain-array's perfusion infrastructure: per-brain fluid-circulation, oxygen and nutrient delivery, waste removal, and neural-electrical interface. Defensive prior art for: parallel-brain wetware compute substrate, per-brain perfusion + electrical-interface modules, and disembodied-brain network architecture.
+
 ## Dako Omnis IHC / ISH stainer (2013)
 
 - **id**: `dako-omnis-stainer`
@@ -415,6 +655,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Image-guided single-cell dispensing into a silicon nanowell chip: a MultiSample NanoDispenser deposits ~50 nL droplets across a 5,184-well chip, on-chip imaging identifies single-cell-containing wells, and only those wells receive downstream reagents. Anticipates: image-guided 'select-then-dispense' single-cell architectures, distinct from Poisson-loaded microwell or droplet platforms; integration of computer-vision feedback into the cell-loading step. The 'pick-only-the-good-wells' architecture is a meaningful prior-art point against later image-feedback single-cell systems (e.g., Cytena, NanoCellect).
 
+## James S.A. Corey Expanse MCRN forge ship medical facility (extends wave 1) (2014)
+
+- **id**: `expanse-mcrn-forge-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S.A. Corey (Daniel Abraham + Ty Franck)
+- **disclosure**: James S.A. Corey, Cibola Burn (Orbit 2014) ISBN 978-0-316-21762-1; Nemesis Games (2015); Babylon's Ashes (2016); The Expanse TV (Syfy/Amazon 2015-2022).
+- **ip status**: fictional
+- **prior art notes**: MCRN warships and Free Navy ships described with combat medbays optimized for high-G casualty triage, including specialized G-couches that double as patient-perfusion stations and integrated stim-injectors. Defensive prior art for high-G combat medical bays with combined patient-restraint + perfusion systems.
+
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
 - **id**: `werfen-gem-premier-5000-cartridge`
@@ -424,6 +674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
+
+## Twist Bioscience Cell Engineering (Twist Cellomics) (2016)
+
+- **id**: `twist-bioscience-cellomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience S-1 SEC filing 2018; Twist silicon DNA synthesis patent estate US10,384,189B2 (Methods for nucleic acid assembly and high throughput sequencing, priority 2014)
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon substrate with parallel addressable reaction wells in which phosphoramidite DNA synthesis runs at scale; reagents are routed by integrated microfluidic distribution and printhead-style deposition; output oligos are pooled or selectively retrieved. The Cellomics extension packages synthesized variant libraries with downstream cell-line generation services. Anticipates: silicon-substrate massively-parallel DNA synthesis (distinct from Agilent inkjet-on-glass and from solid-phase column synthesis); subsequent integration of synthesis with cell-line variant manufacturing as a single offering. Element-by-element: silicon reaction-well array + reagent printhead + deprotection/washing fluidics + library retrieval + downstream cell engineering.
 
 ## Epicore Biosystems Microfluidic Sweat Sensor Patch (2016-11-23)
 
@@ -525,6 +785,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
 
+## Coriolis: The Third Horizon ship medbay modules (2017)
+
+- **id**: `coriolis-third-horizon-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Free League Publishing
+- **disclosure**: Coriolis: The Third Horizon (Free League Publishing 2017) ISBN 978-91-87222-10-7.
+- **ip status**: fictional
+- **prior art notes**: Coriolis ship-design rules include modular medical bays with surgery suites, healing-tank, and cybernetics-installation modules. Defensive prior art for modular spacecraft medical-bay design framework.
+
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 
 - **id**: `heska-element-ht5-veterinary-imaging`
@@ -534,6 +804,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Heska Element HT5 launch 2018-09; product datasheet; companion Heska 510(k) K200147
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer using image cytometry (vs flow cytometry) for the WBC differential: stained WBCs flow through a microfluidic imaging channel under high-magnification CCD imaging, and convolutional-neural-network (CNN)-based image classification produces 5-part diff plus reticulocyte count (since 2019 software updates). Distinguishes from IDEXX ProCyte Dx (Sysmex-licensed flow cytometry), Sysmex XN, Beckman DxH, and Mindray BC-6800 (all flow cytometry-based) by retaining actual cell images for veterinarian review — important in veterinary clinical pathology where edge cases (mast cell tumor mast cells in peripheral blood, exotic species hematology) benefit from image evidence. Anticipates: image-cytometry hematology as an alternative to flow cytometry; CNN-based image classification embedded in a clinical analyzer; the architectural choice of single-cuvette image + impedance hybrid (vs separate multi-channel architecture).
+
+## Star Citizen medical equipment (medical beds, MedPens, hospital ships) (2018)
+
+- **id**: `star-citizen-medical-equipment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Cloud Imperium Games / Chris Roberts
+- **disclosure**: Star Citizen alpha (Cloud Imperium Games 2018-present); Galactapedia and ship-spec sourcebooks; Endeavor-class hospital ship Q&A (2014).
+- **ip status**: fictional
+- **prior art notes**: Star Citizen has published extensive in-game and sourcebook material describing medical equipment tiers (T1 surgical bed, T2 hospital bed, T3 ambulatory bed), MedPen single-use auto-injectors, and hospital-class ships (Apollo, Endeavor). Each tier has documented capabilities for diagnostics, fluid-handling, and surgical interventions. Defensive prior art (publication 2018+) for tiered ship-medical-bed architecture and consumer-grade auto-injector pen systems.
+
+## Synthego CRISPR ePool / Eclipse Platform (2018)
+
+- **id**: `synthego-crispr-epool`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Synthego Corp.
+- **disclosure**: Synthego ePool product introduction 2018; Synthego Eclipse Platform whitepaper 2019; US patent application US20200056164A1 (Synthego)
+- **ip status**: patented
+- **prior art notes**: Discloses a high-throughput sgRNA synthesis architecture in which proprietary chemistry runs on multi-well plates with automated liquid handling; output is QC'd and shipped as either pooled (ePool) or arrayed (single-well) guide libraries. Anticipates: factory-format CRISPR guide manufacturing where the design-to-deliver loop is fully software-defined; combined design-software + plate-format synthesis + QC + shipment of guide libraries against user-specified targets. Note: instrument internals are largely trade-secret; entry strength rests on product literature and pending patent application.
+
+## Nexcelom Cellaca PLX (and MX) Image Cytometer (2018)
+
+- **id**: `nexcelom-cellaca-plx`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Nexcelom Bioscience LLC (now Revvity)
+- **disclosure**: Nexcelom Bioscience Cellaca MX product launch 2018; Cellaca PLX (high-throughput plate version) launched 2021; US patent US10,222,373B2 (Nexcelom, cell counting cassette); Nexcelom acquired by PerkinElmer (now Revvity) 2021
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-well disposable counting plate format for image cytometry: each well has an integrated optical-quality bottom window; the instrument acquires brightfield + AO/PI fluorescence images per well in parallel; total count, viable count, and viability are computed per well. The Cellaca PLX increases parallelism to 96-well plate format. Anticipates: plate-format parallel image cytometry (vs serial single-cassette NC-200/NC-3000); high-throughput cell-counting suitable for bioprocess sampling at scale. Element-by-element: multi-well disposable plate + per-well stain + multi-channel imaging + per-well cell-count algorithm.
 
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
@@ -575,6 +875,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
 
+## Inscripta Onyx Digital Genome Engineering Platform (2019)
+
+- **id**: `inscripta-onyx-genome-engineering`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Inscripta Inc.
+- **disclosure**: Inscripta Onyx product launch 2019; Inscripta MAD7 nuclease publication: Garst et al., 'Genome-wide engineering of E. coli using CREATE,' Nat Biotechnol 35:48 (2017); Inscripta SEC filings; US patent US10,808,254B2 (Inscripta nucleic acid engineering systems)
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
+
+## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
+
+- **id**: `microsoft-dna-storage-research-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Microsoft Research + University of Washington Molecular Information Systems Lab
+- **disclosure**: Takahashi et al., Sci Rep 9:4998 (2019) doi:10.1038/s41598-019-41228-8 (first end-to-end automated DNA storage demonstration, Microsoft Research); Newman et al., bioRxiv 2019
+- **ip status**: patented
+- **prior art notes**: Discloses an end-to-end automated DNA-storage platform integrating commercial column synthesis, microfluidic pooling and storage, and Oxford Nanopore read-out, with software encoding/decoding loops closing the cycle. Anticipates: end-to-end DNA storage system architectures that integrate commodity write and read components rather than custom synthesis chemistry; demonstration of practical write-store-read cycles measurable in hours. Useful as 102 prior art for any system claim that does not specifically tie value to a custom write or read chemistry.
+
 ## Resolve Biosciences Molecular Cartography (2020)
 
 - **id**: `resolve-bioscience-molecular-cartography`
@@ -595,6 +915,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: unknown
 - **prior art notes**: Microwell-array single-cell platform analogous to BD Rhapsody and HIVE: cells and barcoded beads gravity-loaded into picoliter microwells in a thermoplastic chip, lysed in-well, and beads collected magnetically. Anticipates: the architectural convergence on picoliter-microwell-plus-barcoded-bead single-cell prep across multiple vendors and geographies, which is a major prior-art counter to broad claims attempting to monopolize that architecture.
 
+## Bruker CellScape (Canopy Biosciences) (2020)
+
+- **id**: `bruker-cellscape-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Bruker Cellular Analysis (formerly Canopy Biosciences)
+- **disclosure**: Canopy Biosciences product launch 2020; Bruker acquisition of Canopy Bio 2020-08-31; Hennig et al., Cytometry A 75A:362 (2009), doi:10.1002/cyto.a.20693 (ChipCytometry foundational paper)
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic flow chip enclosing a tissue section, with integrated fluidic ports for cyclic antibody delivery and bleaching between cycles. Anticipates: ChipCytometry architecture combining a tissue-stage flow chamber with non-destructive iterative photobleaching to deplete fluorescence between cycles (vs chemical stripping in Lunaphore COMET, DNA-removal in CODEX, or laser ablation in MIBI). Anticipates claims to single-chip multiplex immunofluorescence in which the tissue is preserved as a citable physical sample.
+
+## DNA Script SYNTAX Enzymatic DNA Synthesizer (2020)
+
+- **id**: `dna-script-syntax-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Script SAS
+- **disclosure**: DNA Script SYNTAX product launch 2020-06-30; Palluk et al., Nat Biotechnol 36:645 (2018) doi:10.1038/nbt.4173; US11236377B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop microfluidic platform for enzymatic DNA synthesis using engineered TdT-nucleotide conjugates as reversible terminators, with aqueous reagent cycling delivered through a 96-well cartridge. Anticipates: chip-scale enzymatic DNA synthesis architectures that displace phosphoramidite chemistry; integration of tethered-terminator nucleotides with on-cartridge wash and deprotection cycles; benchtop-scale fluidic manifolds for parallel oligo synthesis without organic-waste handling. Anticipates claims to enzymatic synthesis platforms that pair TdT-conjugate nucleotides with aqueous flow cycling.
+
+## Logos Biosystems LUNA-FX7 Automated Cell Counter (2020)
+
+- **id**: `logos-luna-fx7`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Logos Biosystems Inc.
+- **disclosure**: Logos Biosystems LUNA-FX7 product launch 2020; user manual rev 2.0; predecessor LUNA-II product literature 2014-2019
+- **ip status**: patented
+- **prior art notes**: Discloses a compact image-cytometer with a multi-chamber disposable slide (8 wells per slide) and three-channel fluorescence imaging for bioprocess/research cell counting. Architecturally similar to NucleoCounter NC-3000 and Cellaca MX; differentiated by slide form factor and 3-channel fluorescence (vs 8-channel NC-3000 or 24-well Cellaca). Anticipates: compact bench-top image-cytometer with multi-chamber disposable slide and multi-channel fluorescence for combined viability + reporter-gene measurement.
+
 ## Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track (2021)
 
 - **id**: `beckman-coulter-dxi-9000-immunoassay`
@@ -605,6 +955,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use reaction vessel immunoassay analyzer optimized for cardiac STAT throughput: each RV is loaded onto a continuous track, receives sample + PMP-conjugated capture antibody + alkaline-phosphatase-labeled detection antibody via independently controlled pipettors, undergoes magnet-station capture and wash within the same RV (no transfer), and is moved to the dioxetane-substrate dispense and PMT integration station. Anticipates: high-throughput single-use RV immunoassay tracks with in-vessel PMP wash; alkaline-phosphatase + Lumi-Phos 530 dioxetane chemiluminescence substrate (alternative to acridinium ester and ECL); the centralized fluidic path where sample-and-reagent transit is robotic but each RV is the immutable assay vessel. Foundational fluidic difference from Roche e-series (ECL on electrode) and Abbott Architect (CMIA flash on washed wells) — Beckman uses prolonged glow chemiluminescence integrated for 4-5 seconds.
 
+## Lunaphore COMET (2021)
+
+- **id**: `lunaphore-comet-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Lunaphore Technologies SA (acquired by Bio-Techne 2023)
+- **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
 ## Vizgen MERSCOPE platform (2021-05-19)
 
 - **id**: `vizgen-merscope`
@@ -614,6 +974,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vizgen MERSCOPE product launch press release 2021-05-19. https://vizgen.com/. Chen, K. H. et al. Spatially resolved, highly multiplexed RNA profiling in single cells. Science 2015, 348, aaa6090. DOI: 10.1126/science.aaa6090.
 - **ip status**: patented
 - **prior art notes**: Commercial MERFISH (Multiplexed Error-Robust FISH) platform from the Zhuang lab spinout. A perfusion flow cell over the tissue cycles fluorescent readout probes; combinatorial barcodes encoded across N rounds yield 2^N - error-corrected transcript identities. Anticipates: error-robust combinatorial in-situ hybridization-cycle architectures distinct from CosMx (which uses encoded probe pools differently); the architectural pattern of an open-top perfusion chamber clamped over a slide for many-cycle in-situ fluorescence.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
 
 ## Gatorade Gx Sweat Patch (2021-08-25)
 
@@ -685,6 +1055,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the MOMA-derivative architecture adapted for Titan operation. Element-by-element prior art: (a) the cryogenic-surface-to-MS sample handling chain (DrACO drill -> sealed cryotransfer -> warmed pyrolysis oven -> ion trap MS) anticipates patents on cryogenic-sample mass-spec sample-introduction cartridges; (b) the pulse-frequency tuning of the 266 nm UV-LDI source for nitrile/tholin chemistry anticipates LDI-MS patents claiming optimized parameters for nitrogen-rich complex organics; (c) the integration of MS with a flying lander (drone) platform, including vibration-tolerance qualification of the linear ion trap, anticipates patents on platform-integrated mass spectrometers for non-rover planetary missions. Co-cite with exomars-moma-pyr-gcms-ldms for the heritage instrument.
 
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
 ## Akoya Biosciences PhenoCycler-Fusion (2022-04-26)
 
 - **id**: `akoya-phenocycler-fusion`
@@ -694,6 +1074,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Akoya Biosciences PhenoCycler-Fusion product launch press release 2022-04-26. https://www.akoyabio.com. Combination of CODEX iterative-fluorescence cycling (Goldman 2018) with the Fusion high-speed scanner.
 - **ip status**: patented
 - **prior art notes**: Integrated automation of CODEX (Goldman 2018) iterative DNA-tag-cycled antibody staining: a perfusion fluidic chamber clamps over a tissue slide, automated reagent cycling adds and cleaves DNA-conjugated antibodies, and the high-speed Fusion scanner images the slide between cycles. Anticipates: integrated tissue-slide perfusion-and-image-cycle architectures; CODEX productization with automated fluidics, distinguishing from earlier manual or microscope-mounted CODEX implementations.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
 
 ## PacBio Revio SMRT Cell (2022-10-26)
 
@@ -725,6 +1115,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Successor instrument to Hyperion: tissue stained with metal-isotope-labeled antibodies, then laser-ablated pixel-by-pixel into a stream that feeds a CyTOF mass cytometer. Anticipates: improved-throughput mass-spec spatial proteomics, including the upgraded fluidic transfer line and higher repetition-rate ablation. Combined with Hyperion and CyTOF this is the dominant mass-spec spatial-proteomics architecture; the corpus entry distinguishes the XTi-specific throughput improvements over the original Hyperion.
 
+## Singleron Matrix sCircle Barcoding (2023)
+
+- **id**: `singleron-matrix-scircle-barcoding`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies product update 2023; technical brief; CN patent family CN112538505A and US application
+- **ip status**: patented
+- **prior art notes**: Discloses circular-barcode bead chemistry deployed on the Singleron Matrix microwell platform, increasing barcode diversity available per cell. Anticipates circular DNA-barcoded bead pools used in microwell-based single-cell platforms.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
+## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
+
+- **id**: `ansa-biotechnologies-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ansa Biotechnologies Inc.
+- **disclosure**: Ansa Biotechnologies announcement 2023-06-29 of synthesizing world-record 1005 nt enzymatic-only oligo; press release; US11332757B2
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic synthesis platform that pushes oligo length past the historical ~200 nt phosphoramidite barrier through engineered TdT activity and refined fluidic cycling, demonstrating 1005 nt single-oligo synthesis. Anticipates: long enzymatic-oligo synthesis processes integrated with chip-scale fluidic cycling; chemistries with cleavable nucleotides that approach gene-length single-pass synthesis. Useful prior art against claims to enzymatic synthesis platforms that achieve >500 nt single-pass length.
+
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
 ## Akoya CODEX Athena (PhenoImager Athena) (2024)
 
 - **id**: `akoya-codex-athena`
@@ -734,3 +1164,73 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Akoya Biosciences PhenoImager Athena product announcement, 2024. https://www.akoyabio.com.
 - **ip status**: unknown
 - **prior art notes**: Translational-research / clinical-grade configuration of the CODEX iterative-fluidic-cycling spatial-protein platform, with workflow tailored for FFPE clinical specimens at higher throughput than PhenoCycler-Fusion. Anticipates: clinical-grade configurations of cycled-fluorescence spatial proteomics that focus on regulatory / diagnostic-development workflows rather than discovery research.
+
+## Resolve Bioscience Molecular Cartography Pro (2024)
+
+- **id**: `resolve-bioscience-molecular-cartography-pro`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Resolve Biosciences GmbH
+- **disclosure**: Resolve Bioscience product update 2024; technical brief MC-Pro-001; original MC platform paper Groiss et al., bioRxiv 2021.10.20.464988
+- **ip status**: patented
+- **prior art notes**: Discloses platform extension of single-molecule FISH spatial transcriptomics with increased panel size and slide footprint, on the same fluidic delivery architecture. Anticipates claims to sub-100 nm lateral resolution spatial transcriptomics through iterative smFISH delivered by on-instrument microfluidics, distinct from amplification-based approaches (Xenium) or sequencing-by-hybridization (CosMx).
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.
+
+## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
+
+- **id**: `nanostring-cosmx-wta-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: NanoString Technologies (Bruker Spatial Biology since 2024-05)
+- **disclosure**: NanoString/Bruker product launch CosMx WTA, JPM Conference 2024-01; SP-1108 datasheet rev A; AGBT 2024 abstract
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of CosMx in-situ multiplex from ~1000-plex panels to ~18000-plex whole transcriptome through extended cycling of barcoded oligo reporters delivered by an on-instrument microfluidic system. Anticipates: on-instrument fluidic delivery sequences that perform N>16 hybridization-image-strip cycles on a single mounted slide, with microfluidic reagent storage/manifold and per-slide flowcell sealing; combinatorial barcoding scheme for ~18k targets within manageable optical-readout cycles. Specifically anticipates claims to single-instrument WTA spatial transcriptomics by sequential hybridization (vs SBS-based Xenium or sequencing-by-ligation Visium HD).
+
+## Vizgen MERSCOPE Ultra (2024-04)
+
+- **id**: `vizgen-merscope-ultra`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen press release 2024-04-15 'MERSCOPE Ultra'; AGBT 2024 abstract; product datasheet SD-0009 rev B
+- **ip status**: patented
+- **prior art notes**: Extends MERSCOPE platform with larger flowcell footprint and improved encoding chemistry that reduces total fluidic cycles. Anticipates: scaling of MERFISH-based spatial transcriptomics to >0.5 cm^2 tissue per slide using on-instrument microfluidic delivery, and reduced-round encoding schemes compatible with the same imaging hardware. Anticipates claims to high-throughput in-situ-hybridization platforms that combine optical multiplexing with progressively longer panel sizes through chemistry rather than instrument changes.
+
+## Vizgen MERFISH 2 Encoding Chemistry (2024-04)
+
+- **id**: `vizgen-merfish-2-chemistry`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen MERSCOPE Ultra technical note 2024; updated assay protocol AP-0042 rev 1
+- **ip status**: patented
+- **prior art notes**: Discloses an updated MERFISH encoding scheme that allocates more bits per imaging cycle (multi-color combinatorial decoding) and uses higher-affinity LNA-modified readout probes for shorter hybridization. Anticipates: chemistry-only improvements to in-situ hybridization throughput on existing microfluidic delivery hardware; increased information-per-cycle scaling that defers the need for new fluidic platforms. Useful as 102 art against claims that tie panel-scaling improvements to specific microfluidic instrument architectures.
+
+## 10x Genomics Xenium Prime 5K (2024-10)
+
+- **id**: `10x-xenium-prime-5k`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.
+
+## Element Biosciences AVITI Cloudbreak (Long-Read) (2024-10)
+
+- **id**: `element-biosciences-aviti-cloudbreak`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Element Biosciences Inc.
+- **disclosure**: Element Biosciences press release 2024-10-22; AGBT 2024 'Cloudbreak' presentation; product datasheet EL-DOC-00185
+- **ip status**: patented
+- **prior art notes**: Discloses chemistry to extend the effective read length of polony sequencing by maintaining physical clustering of related fragments on the same surface region (linked-read approach), then assembling locally during base-calling. Anticipates: long-read sequencing achieved through surface-chemistry-based linkage rather than dedicated long-read instrumentation; reuse of short-read flowcell hardware for >200 bp contiguous reads via spatial linkage. Anticipates claims to long-read methods that depend on surface arrangement and sliding-window assembly within a single SBS flowcell.

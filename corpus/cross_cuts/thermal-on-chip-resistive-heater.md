@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-resistive-heater`
 
-**32 corpus entries disclose this subsystem.**
+**49 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Banks, I. M. Consider Phlebas. Macmillan, London, 1987. ISBN 0-333-44138-9. Autodocs further developed across the Culture sequence: The Player of Games (1988, ISBN 0-333-47110-5), Use of Weapons (1990, ISBN 0-316-90309-X), Excession (1996, ISBN 1-85723-394-8), Look to Windward (2000, ISBN 1-84149-027-8), Surface Detail (2010, ISBN 978-0-316-12340-2).
 - **ip status**: fictional
 - **prior art notes**: Long-running narrative depiction across 9+ Culture novels (1987-2012) of fully integrated bedside clinical platforms that perform: continuous whole-body biochemical assay; AI-driven differential diagnosis; on-demand synthesis of arbitrary therapeutics from elemental feedstock; targeted intracellular delivery; and neural-feedback-loop intervention. Banks's autodocs are described in repeated technical detail (e.g., Use of Weapons chapter dealing with Zakalwe's repair; Surface Detail's Lededje resurrection sequences) as integrated chemistry-on-demand systems with sub-cellular precision. Doctrinally citable as 102/103 prior art for the architectural class 'autonomous bedside platform combining real-time multi-analyte assay with on-demand synthesis of patient-specific therapeutics under closed-loop AI control'. The Vornado v. Hunter Fan precedent (a category disclosure need not be enabling to anticipate) makes this directly citable against any patent attempting to claim that architectural pattern as a generic invention.
+
+## Hyperion Cantos cybrid / megasphere neural perfusion hookups (1989)
+
+- **id**: `hyperion-cantos-brain-hookups`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Hyperion (1989) and The Fall of Hyperion (Doubleday 1990) ISBN 0-385-26747-9.
+- **ip status**: fictional
+- **prior art notes**: Cybrid bodies (cybernetic-organic hybrids that house TechnoCore intelligences) require continuous biological maintenance hookups — cooling, oxygenation, nutrient perfusion of the organic brain component, and waste removal. Defensive prior art for organic-brain-in-cybernetic-host life-support systems and brain-perfusion microfluidic interfaces.
 
 ## Lexmark Thermal Inkjet Heater Chip (1996)
 
@@ -255,6 +265,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a coagulation analyzer with pre-analytical HIL flagging integrated into the same cuvette as the assay measurement: before reagent dispense, the analyzer reads plasma absorbance at 340/405/575/660/800 nm to detect hemoglobin (free Hb >0.2 g/dL), bilirubin, and lipid scattering, allowing the analyzer to skip or reflex assays whose chemistry is invalidated by interference (e.g., D-dimer immunoturbidimetric is invalidated by lipemia). The five-wavelength optical detection consolidates clot turbidity (PT/aPTT), chromogenic substrate hydrolysis (chromogenic factor activity), and immunoturbidimetric (D-dimer, antithrombin antigen) in a single cuvette type. Anticipates: pre-analytical HIL detection in the assay cuvette as a fluidic-engineering primitive enabling reflex routing; multi-wavelength optical detection consolidating diverse coag chemistries in one cuvette; the Sysmex/Siemens partnership architecture (Sysmex hardware + Siemens HemosIL-equivalent reagent menu).
 
+## Touchlight Genetics doggybone DNA (dbDNA) Synthesis (2014)
+
+- **id**: `touchlight-doggybone-dna-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Touchlight Genetics Ltd.
+- **disclosure**: Walters et al., Nucleic Acids Res 42:e10 (2014) doi:10.1093/nar/gkt1101 (foundational dbDNA paper); EP2820164B1 priority 2012
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
+
 ## CELLINK BIO X Pneumatic Bioprinthead (2016)
 
 - **id**: `cellink-bio-x-pneumatic-printhead`
@@ -315,6 +335,96 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated gas-fluidic cartridge architecture for planetary in-situ resource utilization: (a) scroll-compressor + HEPA particulate filter + 3D-printed superalloy manifold + solid-oxide electrolyzer stack + getter scrubber; (b) the gas-handling subsystem operates as a flow-controlled, feedback-loop system with mass-flow sensors at inlet and oxygen-purity sensors at the anode-side outlet. For 102/103 anticipation: the assembly anticipates patents on integrated planetary atmospheric processing cartridges that combine compression, filtration, electrolysis, and getter purification on a single thermally-managed substrate. The 3D-printed manifold subsystem (additively-manufactured Inconel internal flow paths) is itself prior art against any patent claiming additively-manufactured high-temperature gas-flow manifolds for spaceflight chemical reactors. The stack-level current-voltage feedback control across diurnal pressure variations anticipates closed-loop control patents for variable-input ISRU systems.
 
+## Eppendorf epMotion 5075 NGS Solution (2017)
+
+- **id**: `eppendorf-epmotion-5075-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Eppendorf SE
+- **disclosure**: Eppendorf epMotion 5075 NGS Solution launch 2017; user manual #5075909001
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop NGS-library-prep automation system suitable for academic and small-clinical-lab use, sized between handheld and full lab automation, with integrated SPRI magnetic-bead cleanup. Anticipates: benchtop-scale NGS library-prep automation as a product class.
+
+## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
+
+- **id**: `molecular-assemblies-fams-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Molecular Assemblies Inc.
+- **disclosure**: Molecular Assemblies press release 2018; US10683537B2 priority 2017; Hyman & Efcavitch foundational publications
+- **ip status**: patented
+- **prior art notes**: Discloses an aqueous enzymatic DNA synthesis system designed around modular fluidic cassettes and a cleavable-terminator nucleotide chemistry distinct from DNA Script and Ansa approaches. Anticipates: variant enzymatic-synthesis chemistries deployed via modular fluidic cartridges with vendor-independent reagent delivery; positioning for DNA-data-storage industrial throughput. Useful as 102 art against claims that conflate cassette modularity with chemistry-specific architecture.
+
+## Tecan DreamPrep NGS Sample Prep (2018)
+
+- **id**: `tecan-dreamprep-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tecan Group
+- **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
+
+- **id**: `thermofisher-kingfisher-apex-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher Scientific KingFisher Apex datasheet (2019); product manual MAN0019116; FDA-cleared as KingFisher Apex Dx 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a magnetic-particle-processor architecture in which a vertical magnetic-rod array picks up paramagnetic beads from a deepwell source plate and transfers them through wash and elution wells via plate-to-plate vertical movement, eliminating fluidic channels entirely. Anticipates: rod-transfer magnetic-bead processing for NA extraction at 96-well format; tipcomb consumables with disposable plastic sleeves; high-throughput clinical-lab extraction without microfluidic channels. Useful prior art against magnetic-rod-transfer extraction claims and against any combined extraction+heating workflow at 96-well scale.
+
+## DNA Script SYNTAX Enzymatic DNA Synthesizer (2020)
+
+- **id**: `dna-script-syntax-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Script SAS
+- **disclosure**: DNA Script SYNTAX product launch 2020-06-30; Palluk et al., Nat Biotechnol 36:645 (2018) doi:10.1038/nbt.4173; US11236377B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop microfluidic platform for enzymatic DNA synthesis using engineered TdT-nucleotide conjugates as reversible terminators, with aqueous reagent cycling delivered through a 96-well cartridge. Anticipates: chip-scale enzymatic DNA synthesis architectures that displace phosphoramidite chemistry; integration of tethered-terminator nucleotides with on-cartridge wash and deprotection cycles; benchtop-scale fluidic manifolds for parallel oligo synthesis without organic-waste handling. Anticipates claims to enzymatic synthesis platforms that pair TdT-conjugate nucleotides with aqueous flow cycling.
+
+## Ribbon Biolabs Long DNA Synthesis Platform (2020)
+
+- **id**: `ribbon-biolabs-rna-ligation-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ribbon Biolabs GmbH
+- **disclosure**: Ribbon Biolabs Series A press release 2021-09; WO2020100640A1 priority 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a long-DNA synthesis platform that constructs gene-length sequences by enzymatic ligation of pre-synthesized trimer DNA blocks under controlled fluidic conditions. Anticipates: alternative architectures to per-base synthesis that combine block-libraries with on-instrument fluidic ligation; benchtop synthesis platforms that target >10 kb DNA without PCR. Prior art for claims to ligation-based gene synthesis automated through chip-scale fluidics.
+
+## Camena Bioscience gSynth Enzymatic DNA Synthesis (2021)
+
+- **id**: `camena-bioscience-gsynth`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Camena Bioscience Ltd.
+- **disclosure**: Camena Bioscience product launch 2021; WO2019/166791 priority 2018
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic gene-synthesis platform combining short pre-made oligonucleotide blocks with controlled in-vitro assembly under chip-scale fluidic delivery. Anticipates claims to hybrid block-and-extend synthesis architectures with on-platform thermocycling.
+
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
 ## Pioreactor (2021-09)
 
 - **id**: `pioreactor-open-bioreactor`
@@ -325,6 +435,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an open-source benchtop bioreactor platform built around a Raspberry Pi HAT (the Pioreactor 'Pioreactor HAT'), which integrates: (a) an LED+photodiode optical density measurement subsystem with synchronous detection (LED chopping plus lock-in style demodulation) on a low-cost MCU; (b) a magnetic stirrer driven by a brushless DC motor with closed-loop RPM control via a Hall sensor; (c) a heating element on a PCB underneath a 20 mL borosilicate glass vial with thermistor feedback; (d) a peristaltic-pump dosing module driven over I2C for continuous-culture (turbidostat/chemostat/morbidostat) operation; (e) a clustered control architecture using MQTT pub/sub over Wi-Fi enabling fleet operation of dozens of units from a single 'leader' Pi. All hardware schematics (KiCad), firmware, mechanical CAD, and Python control software are released under MIT (software) and CERN-OHL-S/CC-BY (hardware). Anticipates: low-cost networked bioreactor fleets with synchronous-detection turbidity sensing on a Raspberry Pi class device; pluggable Python automation classes for closed-loop bioprocess control (turbidostat/chemostat/morbidostat); MQTT-clustered laboratory device fleets where each unit is autonomous but coordinated. Specifically prior art against any patent claiming 'a networked low-cost bioreactor with on-board OD sensing controlled via a single-board computer running open-source bioprocess automation software with cluster coordination via lightweight pub/sub messaging.'
 
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
 ## Dragonfly Mass Spectrometer (DraMS) for Titan (2022)
 
 - **id**: `dragonfly-drams-titan-mass-spec`
@@ -334,3 +454,53 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Trainer MG et al., 'Dragonfly: Investigating the Surface Composition of Titan,' Planetary Science Journal 3:218 (2022), doi:10.3847/PSJ/ac8e9d; Grubisic A et al., 'DraMS: Architecture and capabilities of the Dragonfly Mass Spectrometer,' International Astronautical Congress IAC-22 (2022)
 - **ip status**: public-domain
 - **prior art notes**: Discloses the MOMA-derivative architecture adapted for Titan operation. Element-by-element prior art: (a) the cryogenic-surface-to-MS sample handling chain (DrACO drill -> sealed cryotransfer -> warmed pyrolysis oven -> ion trap MS) anticipates patents on cryogenic-sample mass-spec sample-introduction cartridges; (b) the pulse-frequency tuning of the 266 nm UV-LDI source for nitrile/tholin chemistry anticipates LDI-MS patents claiming optimized parameters for nitrogen-rich complex organics; (c) the integration of MS with a flying lander (drone) platform, including vibration-tolerance qualification of the linear ion trap, anticipates patents on platform-integrated mass spectrometers for non-rover planetary missions. Co-cite with exomars-moma-pyr-gcms-ldms for the heritage instrument.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
+## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
+
+- **id**: `ansa-biotechnologies-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ansa Biotechnologies Inc.
+- **disclosure**: Ansa Biotechnologies announcement 2023-06-29 of synthesizing world-record 1005 nt enzymatic-only oligo; press release; US11332757B2
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic synthesis platform that pushes oligo length past the historical ~200 nt phosphoramidite barrier through engineered TdT activity and refined fluidic cycling, demonstrating 1005 nt single-oligo synthesis. Anticipates: long enzymatic-oligo synthesis processes integrated with chip-scale fluidic cycling; chemistries with cleavable nucleotides that approach gene-length single-pass synthesis. Useful prior art against claims to enzymatic synthesis platforms that achieve >500 nt single-pass length.
+
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
+## 10x Genomics Xenium Prime 5K (2024-10)
+
+- **id**: `10x-xenium-prime-5k`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
+- **ip status**: patented
+- **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-magnetic`
 
-**12 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1996
 
@@ -45,6 +45,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses Stago's signature mechanical clot detection: the assay cuvette contains a small steel ball oscillated by an external rotating magnetic field; as plasma coagulation progresses, viscosity rises, dampening ball oscillation amplitude/phase, sensed by a Hall-effect or coil pickup. Unlike optical (Werfen ACL TOP) or chromogenic (Sysmex CS) detection, the viscosity-based primitive is immune to chyle/hemolysis/icterus optical interference — enabling testing on samples that would fail other analyzers. Anticipates: magneto-mechanical viscosity-based clot detection in disposable cuvettes; the architectural choice of pre-loading the ball into the cuvette during manufacture (vs adding it at runtime). Defines the commercial niche for centers with high pediatric / hemolyzed sample loads.
 
+## bioMerieux NucliSENS easyMAG / EMAG (2007)
+
+- **id**: `biomerieux-easymag-emag`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: bioMerieux SA
+- **disclosure**: bioMerieux NucliSENS easyMAG launch 2007; EMAG launch 2017; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses an automated Boom-chemistry NA extraction platform using single-vessel batch processing with movable magnet bars rather than plate-to-plate transfer, with the EMAG variant providing per-strip independent magnet actuation and clinical-lab sample tracking. Anticipates: single-vessel-batch automated extraction architectures using moving magnet bars with strip-level independent control; integration of Boom-chemistry silica-bead chemistry into clinical-lab IVD-compliant instruments.
+
+## QIAGEN QIAsymphony SP/AS (2008)
+
+- **id**: `qiagen-qiasymphony-sp-as`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAsymphony product launch 2008; user manual HB-0212; FDA-cleared QIAsymphony RGQ MDx 510(k) K133314
+- **ip status**: patented
+- **prior art notes**: Discloses a modular two-stage clinical-laboratory automation architecture where one module performs NA extraction continuously while a downstream module sets up downstream PCR/assay reactions with the same pipetting infrastructure. Anticipates: random-access continuous-loading clinical-lab extraction architectures; modular-track plus shared-robotics extraction-plus-assay-setup automation; FDA-cleared NA-extraction modules feeding integrated downstream PCR systems.
+
 ## Roche MagNA Pure 96 Magnetic-Bead Nucleic Acid Extraction Cartridge (2009)
 
 - **id**: `roche-magna-pure-96-extraction-cartridge`
@@ -64,6 +84,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DiaSorin LIAISON XL launch 2010-04; FDA 510(k) K100796 (25-OH Vitamin D), K113036 (BNP)
 - **ip status**: patented
 - **prior art notes**: Discloses an isoluminol-based flash chemiluminescence immunoassay analyzer using PMP capture: cuvette receives sample + PMP-coated capture antibody + isoluminol-conjugated detection antibody, magnetic capture and wash, then injection of trigger reagent (peroxide-base) generates isoluminol oxidation flash detected by PMT. The cuvette is single-use; the analyzer pipettor and magnet stations are washed between samples. Anticipates: isoluminol (vs acridinium ester, vs ECL ruthenium) as the chemiluminescence label class for high-throughput immunoassay; the global Vitamin D testing market built on this fluidic primitive (since 25-OH-D Total assay's 2010 standardization). Distinct from Roche Elecsys (ECL) and Beckman DxI (alkaline phosphatase + dioxetane glow).
+
+## Roche MagNA Pure 96 System (2010)
+
+- **id**: `roche-magnapure-96-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 96 launch 2010; user guide V4; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: 96-sample scale-up of MagNA Pure 24 with same pipette-based architecture. Anticipates 96-format pipette-tip magnetic-bead extraction with full IVD validation.
+
+## ThermoFisher AutoMate Express Forensic DNA Extraction (2010)
+
+- **id**: `thermofisher-automate-express-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Applied Biosystems / ThermoFisher Scientific
+- **disclosure**: Applied Biosystems AutoMate Express user guide (2010) PN 4441934; PrepFiler Express chemistry datasheet
+- **ip status**: patented
+- **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
 
 ## Quanterix Simoa HD-X / HD-1 Single-Molecule Array Bead Cartridge (2011)
 
@@ -85,6 +125,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the Panther/Fusion fluidic architecture: random-access processing of single-use Aptima Target Capture tubes containing magnetic capture oligonucleotide-functionalized beads — the bead/capture-oligo hybridizes the target nucleic acid before any amplification, washing away interferents (e.g., for urine and vaginal swab matrices); released targets are transferred to amplification tubes for either TMA (Panther main module: chemiluminescent detection via hybridization protection assay HPA) or RT-PCR (Panther Fusion module: real-time fluorescent multiplex). Anticipates: true random-access molecular analyzers integrating target capture + amplification + detection in a continuous single-tube workflow; HPA dual-kinetic-assay chemiluminescence as a non-amplification-coupled detection alternative to fluorescence; architectural separation of TMA and PCR onto distinct modules sharing the same sample handler.
 
+## QIAGEN QIAcube HT Sample Prep (2013)
+
+- **id**: `qiagen-qiacube-ht-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
+
+## ThermoFisher KingFisher Duo Prime Magnetic Particle Processor (2014)
+
+- **id**: `thermofisher-kingfisher-duo-prime`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher KingFisher Duo Prime datasheet (2014); product manual MAN0009957
+- **ip status**: patented
+- **prior art notes**: Lower-throughput sibling of KingFisher Apex sharing the same rod-transfer architecture. Anticipates: scaled-down magnetic-bead processors targeting <16 samples per run with direct elution into PCR-ready format; same architectural class as Apex.
+
+## Roche MagNA Pure 24 System (2015)
+
+- **id**: `roche-magnapure-24-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 24 product release 2015; technical user guide V2; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses a 24-position pipette-based magnetic-bead NA extraction processor with sealed reagent reservoirs and disposable pipette tips, distinct from rod-transfer-based KingFisher architecture. Anticipates: pipette-tip magnetic-bead extraction at the 24-sample scale with integrated waste handling and IVD-compliant sample tracking.
+
 ## ISS WetLab-2 Real-Time RT-PCR on Station (2016)
 
 - **id**: `iss-wetlab-2-rt-pcr-on-station`
@@ -94,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Parra M et al., 'Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station,' PLOS ONE 12(9):e0183480 (2017), doi:10.1371/journal.pone.0183480; NASA WetLab-2 facility description, ISS Research Office (2016)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an end-to-end RNA-extraction + RT-qPCR cartridge architecture qualified for microgravity. Element-by-element prior art: (a) the closed-cartridge magnetic-bead RNA extraction protocol with no open-air liquid transfer steps anticipates patents claiming aerosol-free spaceflight or BSL-3 nucleic acid extraction cartridges; (b) the validation of paramagnetic-bead binding/wash kinetics in zero-G is published prior art against any patent claiming novel microgravity-compatible bead handling; (c) the integration of off-the-shelf SmartCycler-class Peltier modules with a custom reaction tube format anticipates retrofit spaceflight diagnostic cartridge concepts. Combined with iss-biomolecule-sequencer-minion below, WetLab-2 establishes the full sample-prep + amplification + sequencing chain in spaceflight prior art.
+
+## Promega Maxwell RSC 48 Instrument (2016)
+
+- **id**: `promega-maxwell-rsc-48-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Promega Corp.
+- **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
 
 ## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
 
@@ -125,6 +205,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an acridinium-ester chemiluminescence immunoassay fluidic module on the Atellica platform: paramagnetic latex particles (PMP) coated with capture antibody mix with sample and acridinium-labeled detection antibody in a single-use polystyrene cuvette; magnetic capture wash sequence; trigger-reagent injection (H2O2 acid + NaOH base) generates acridinium oxidation flash detected by PMT in 1-2 second integration window. Anticipates: combined CH/IM analyzer trains sharing Magline puck transport but using distinct cuvette/detection chemistries per module; PMP-vs-streptavidin-bead capture phase as a fluidic-engineering choice; flash chemiluminescence (vs ECL) as a competing detection primitive. Centroid of the Siemens immunoassay legacy from Centaur, Centaur XP, ADVIA Centaur to Atellica.
 
+## Hamilton Microlab Vantage NA Extraction Workstation (2017)
+
+- **id**: `hamilton-microlab-vantage-na-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Robotics
+- **disclosure**: Hamilton Microlab Vantage launch 2017; product datasheet 391413/00; method library include for NA extraction (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
+
+## Eppendorf epMotion 5075 NGS Solution (2017)
+
+- **id**: `eppendorf-epmotion-5075-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Eppendorf SE
+- **disclosure**: Eppendorf epMotion 5075 NGS Solution launch 2017; user manual #5075909001
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop NGS-library-prep automation system suitable for academic and small-clinical-lab use, sized between handheld and full lab automation, with integrated SPRI magnetic-bead cleanup. Anticipates: benchtop-scale NGS library-prep automation as a product class.
+
+## Tecan DreamPrep NGS Sample Prep (2018)
+
+- **id**: `tecan-dreamprep-ngs`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tecan Group
+- **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
+
+- **id**: `thermofisher-kingfisher-apex-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher Scientific KingFisher Apex datasheet (2019); product manual MAN0019116; FDA-cleared as KingFisher Apex Dx 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a magnetic-particle-processor architecture in which a vertical magnetic-rod array picks up paramagnetic beads from a deepwell source plate and transfers them through wash and elution wells via plate-to-plate vertical movement, eliminating fluidic channels entirely. Anticipates: rod-transfer magnetic-bead processing for NA extraction at 96-well format; tipcomb consumables with disposable plastic sleeves; high-throughput clinical-lab extraction without microfluidic channels. Useful prior art against magnetic-rod-transfer extraction claims and against any combined extraction+heating workflow at 96-well scale.
+
 ## Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track (2021)
 
 - **id**: `beckman-coulter-dxi-9000-immunoassay`
@@ -134,3 +254,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter DxI 9000 launch 2021-09; FDA 510(k) K223188 (cleared 2023)
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use reaction vessel immunoassay analyzer optimized for cardiac STAT throughput: each RV is loaded onto a continuous track, receives sample + PMP-conjugated capture antibody + alkaline-phosphatase-labeled detection antibody via independently controlled pipettors, undergoes magnet-station capture and wash within the same RV (no transfer), and is moved to the dioxetane-substrate dispense and PMT integration station. Anticipates: high-throughput single-use RV immunoassay tracks with in-vessel PMP wash; alkaline-phosphatase + Lumi-Phos 530 dioxetane chemiluminescence substrate (alternative to acridinium ester and ECL); the centralized fluidic path where sample-and-reagent transit is robotic but each RV is the immutable assay vessel. Foundational fluidic difference from Roche e-series (ECL on electrode) and Abbott Architect (CMIA flash on washed wells) — Beckman uses prolonged glow chemiluminescence integrated for 4-5 seconds.
+
+## Talis One COVID-19 Test Cartridge (2021-02)
+
+- **id**: `talis-one-covid-19-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Talis Biomedical Corp.
+- **disclosure**: Talis Biomedical FDA EUA application 2021-02 (rejected); product literature; US11103864B2
+- **ip status**: patented
+- **prior art notes**: Discloses a fully-integrated POC molecular test cartridge combining magnetic-bead extraction with RT-LAMP amplification within a credit-card-sized disposable, paired with a benchtop reader. Anticipates: integrated extraction-plus-amplification POC cartridges in flat planar form factor; magnetic-bead-based on-cartridge sample prep paired with RT-LAMP. Useful prior art against POC cartridge claims that combine sample-prep and amplification within a flat single-use disposable.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**19 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953
 
@@ -155,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Cassette-format automated DNA size selection: a disposable agarose-filled cassette has electrodes integrated and software-controlled collection wells that elute target size ranges by gating the field at the right time. Anticipates: cassette electrophoresis as a fluidic primitive for NGS / long-read library prep; integration of size-selection into a closed disposable rather than manual gel cut-and-elute. The Pippin cassette is the dominant size-selection step in PacBio HiFi and ONT long-read library prep.
 
+## LACE-NMR (Lab on a Chip Experiment Nuclear Magnetic Resonance) Mars Concept (2014)
+
+- **id**: `lace-nmr-mars-in-situ-nmr-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA JPL / Caltech / UC Davis (PI: Mark S. Anderson)
+- **disclosure**: Anderson, M. S. et al. 'Microfluidic Chip with Integrated NMR Microcoil for In-Situ Mars Astrobiology.' International Workshop on Instrumentation for Planetary Missions (2014); Nordstrom, A. et al. 'Microcoil NMR for Planetary Lab-on-a-Chip.' IEEE Aerospace Conference 2017
+- **ip status**: unknown
+- **prior art notes**: Discloses a planetary microfluidic instrument concept integrating an in-line NMR microdetector (microsolenoid coil) into a CE-LIF-class chip carrier. Anticipates: (a) lab-on-chip NMR as a flight-grade non-destructive structural complement to MS in planetary instruments; (b) Halbach permanent-magnet design for planetary NMR payloads at <5 kg; (c) capillary-bound microcoil NMR cells operating in series with CE separations and bypass valves for sample diversion; (d) NMR confirmation of chirality assignments made by CE-LIF in astrobiology life-detection workflows. Cite against later patents claiming flight-NMR microcoils integrated with planetary CE chips.
+
 ## The ODIN DIY Genetic Engineering Kits (2015)
 
 - **id**: `the-odin-diy-genetic-eng-kits`
@@ -204,3 +214,43 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mora MF et al., 'Toward total automation of microfluidics for extraterrestrial in situ analysis,' Anal. Chem. 83:8636 (2011); Mora MF et al. (Mathies/Quinn group), 'Capillary electrophoresis amino acid sensitivity from a chip-based instrument,' Electrophoresis 38:2982 (2017), doi:10.1002/elps.201700110
 - **ip status**: patented
 - **prior art notes**: The Mathies/Quinn line of work is the most extensively-published academic flight-prototype for microfluidic life detection on Mars and icy moons. Element-by-element prior art: (a) the integration of programmable PDMS-on-glass membrane valves with on-chip CE separation for extraterrestrial sample analysis anticipates any patent claiming integrated sample-prep + electrophoretic-separation + LIF cartridges for planetary instruments; (b) the published parts-per-trillion sensitivity for fluorescamine-labeled amino acids in a portable / battery-powered instrument anticipates patents claiming similar sensitivity in handheld biosensors; (c) chiral separation as a biosignature-discrimination strategy on a microchip CE format anticipates any patent claiming D/L enantiomer microfluidic separation for biosignature detection. The Mora 2011/2017 papers also disclose the architectural pattern of a fully-automated 'Mars Organic Analyzer' (MOA) cartridge.
+
+## MICA (Mars In-situ Compound Analyzer) Microfluidic Payload Concept (2017)
+
+- **id**: `mica-mars-in-situ-compound-analyzer-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA JPL / UC Berkeley Mathies group / Georgia Tech (PI: Peter Willis, Aaron Noell)
+- **disclosure**: Mora, M. F. et al. 'Recent Developments to the Mars Organic Analyzer.' Astrobiology 13(5), 472-484 (2013), doi:10.1089/ast.2012.0894; Stockton, A. M.; Mora, M. F.; Cable, M. L.; Willis, P. A. 'In Situ Microfluidic Analytical Chemistry for Astrobiology.' in book chapter (Wiley 2017)
+- **ip status**: unknown
+- **prior art notes**: Discloses an instrument-concept evolution of the Mars Organic Analyzer (MOA) lineage that integrates a subcritical-water extraction (SCWE) cell, in-line filtration, on-chip derivatization with Pacific Blue NHS, capillary electrophoresis separation, and laser-induced fluorescence detection in a single glass-glass chip set. Anticipates: (a) end-to-end Mars regolith-to-data fluidic chips capable of operating across day-night Mars thermal cycles; (b) the use of subcritical water (~200 C, ~7 MPa) generated on-chip as a green solvent for organics extraction; (c) modular architecture in which the chip is exchanged between mission phases without flushing the host instrument. Cite against later patents claiming on-chip SCWE front-ends or integrated regolith-to-CE-LIF flight chips.
+
+## ELSAH (Enceladus Life Signatures and Habitability) Mission Concept (2018)
+
+- **id**: `elsah-enceladus-life-signatures-habitability-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA Goddard / JPL / SwRI (PI: Jennifer Eigenbrode, Morgan Cable)
+- **disclosure**: Eigenbrode, J. et al. 'ELSAH: Enceladus Life Signatures and Habitability.' Planetary Mission Concept Study for the 2023-2032 Decadal Survey (2018-2020); Reh, K. et al. 'Enceladus Life Signatures and Habitability (ELSAH) Mission Concept.' IEEE Aerospace Conference 2016, doi:10.1109/AERO.2016.7500813
+- **ip status**: unknown
+- **prior art notes**: Discloses a mission-concept fluidic life-detection payload for Enceladus that anticipates: (a) integrated microfluidic CE-LIF chips qualified for outer-planet thermal/radiation environments and packaged as sealed disposable cartridges to protect amino-acid blank levels below 30 pg; (b) microfluidic plume-collection front-ends combining low-density aerogel decelerator with melt-water transfer into a CE-LIF chip; (c) chirality-based biosignature differentiation as a primary mission objective driving fluidic architecture (high-resolution CE separation of D/L enantiomer pairs); (d) the architectural pattern of single-use disposable life-detection chips on small flagship/New Frontiers class missions. Cite against later patents claiming flight CE-LIF microfluidic chips for plume-water analysis.
+
+## HOLD (Habitability and Organic Life Detection) Microfluidic Payload Concept (2019)
+
+- **id**: `hold-habitability-organic-life-detection-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA Jet Propulsion Laboratory (JPL) (PI: Jessica Creamer / Maria Mora)
+- **disclosure**: Creamer, J. S. et al. 'Microfluidic Organic Analyzer for Biosignature Detection.' Lunar and Planetary Science Conference 50, abstract 2132 (2019); Mora, M. et al. 'A Microcapillary Electrophoresis Mass Spectrometry Platform for Habitability and Organic Detection in Ocean Worlds.' Astrobiology 22(11), 1330-1346 (2022), doi:10.1089/ast.2021.0124
+- **ip status**: unknown
+- **prior art notes**: Discloses a microfluidic CE-MS platform for in-situ ocean-worlds organic analysis. The chip integrates: (a) electrokinetic injection from a sealed buffer reservoir; (b) on-chip pre-column derivatization mixing module; (c) CE separation channel; (d) electrospray emitter terminating in an off-chip MS interface; (e) modular packaging compatible with SmallSat thermal/power envelope. Anticipates: integration of derivatization, CE separation, and electrospray emission on a single glass chip qualified for cryogenic/vacuum operation; modular CE-MS as a flight-ready alternative to large MS-only instruments; the use of Pacific-Blue and fluorescamine derivatization in microfluidic buffers as primary flight chemistry. Cite against later patents claiming integrated CE-ESI-MS chips for planetary biosignature detection.
+
+## VITE (Venus In-Situ Test Evaluator) Microfluidic Concept (2020)
+
+- **id**: `vite-venus-in-situ-test-evaluator-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: UC Berkeley Mathies group / JPL / Honeybee Robotics (PI: Richard Mathies)
+- **disclosure**: Mathies, R. A. et al. 'A Field-Deployable Capillary Electrophoresis Instrument for Detection of Organic and Inorganic Biosignatures on Venus.' Decadal Survey 2023-2032 white paper, doi:10.3847/25c2cfeb.6da16eaf (2020); Cable, M. L. et al. 'Sample Handling and Inlet Concepts for High-Temperature Operation on Venus.' IEEE Aerospace Conference 2021
+- **ip status**: unknown
+- **prior art notes**: Discloses a Venus-environment microfluidic instrument concept based on Low-Temperature Co-fired Ceramic (LTCC) substrate integrating CE separation channels, LIF detection windows, and metal trace electrodes thermally qualified for Venus surface operation (480 C, 90 bar). Anticipates: (a) LTCC as a flight-microfluidic substrate for Venus-class extreme environments rather than glass or thermoplastic; (b) pressurized-reagent reservoir architecture matched to ambient ~9 MPa Venusian pressure; (c) acid-resistant cloud-aerosol sampling fluidic front-end for aerial platforms (e.g., balloon, kite); (d) short-duration thermal-budget design pattern for Venus lander analytics. Cite against any later patent claiming LTCC microfluidic chips for Venus instruments.

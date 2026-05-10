@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**89 corpus entries disclose this subsystem.**
+**141 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1990
+Earliest disclosure: 1989
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Sepragen QuantaSep / ProSep Radial-Flow Chromatography Column (1989)
+
+- **id**: `sepragen-quantasep-radial-chromatography`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Sepragen Corporation
+- **disclosure**: Sepragen Corp. radial-flow chromatography column patent US4,627,918 (Saxena, Sepragen, granted 1986, priority 1985); Sepragen QuantaSep / ProSep product literature; Wankat 'Radial flow chromatography,' Anal Chem 60(10):1014A (1988)
+- **ip status**: patented
+- **prior art notes**: Discloses a radial-flow chromatography column architecture: the chromatography bed is packed in an annular volume; the mobile phase enters through a central perforated tube, flows radially outward through the bed, and is collected at the outer perforated wall. Bed length is short (radial dimension) while cross-sectional area is large (cylindrical surface), giving low pressure drop at high volumetric throughput and short residence time. Anticipates: radial-flow chromatography column geometry as alternative to axial columns for preparative bioprocess; the inside-out flow distribution that exploits cylindrical geometry to decouple bed length from throughput. Element-by-element: outer housing + inner perforated tube + annular packed bed + outer perforated collection wall + inlet/outlet manifolds.
 
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Burstein Technology / Tecan LabCD platform. https://www.tecan.com (LabCD acquired and integrated)
 - **ip status**: patented
 - **prior art notes**: Pioneering centrifugal microfluidic platform from the late 1990s — predates most academic centrifugal-LoD work. Burstein's CD-format chemistry analyzer used spinning-disc-driven flow, capillary-burst valves, and integrated optical detection in a benchtop reader. Anticipates: many subsequent commercial centrifugal-LoD systems by demonstrating commercial feasibility 5–10 years before the academic literature peaked.
+
+## Lonza Nucleofector (classic 2b/2S cuvette platform) (2001)
+
+- **id**: `lonza-nucleofector-classic`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Amaxa GmbH (acquired 2008 by Lonza)
+- **disclosure**: Amaxa GmbH product introduction 2001; US patent US7,332,332B2 (Nucleofection method, priority 2002); EP1390518B1; Lonza acquired Amaxa 2008
+- **ip status**: patented
+- **prior art notes**: Discloses a low-volume polypropylene cuvette with parallel electrodes, used in conjunction with proprietary buffer compositions and program-defined pulse waveforms (the 'nucleofection' protocol set) that drive cargo delivery into the nucleus of non-dividing cells. The patent estate covers the buffer + waveform combinations as well as the cuvette geometry. Anticipates: kit-format electroporation where the cuvette+buffer+waveform are jointly specified per cell type; programmable pulse generator with cell-specific protocols; insert-molded electrode-bearing disposable cuvette as the closed-disposable element. Predecessor architecture for the 4D-Nucleofector and 4D-LV continuous-flow variants.
 
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
@@ -245,6 +265,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: LOCAD-PTS is the spaceflight derivative of the Charles River Endosafe PTS handheld endotoxin tester. Microfluidic prior art disclosed: (a) the 4-channel parallel capillary-driven cartridge with lyophilized LAL/glucan-detection reagents and integrated optical absorbance window is itself prior art for any cartridge claiming similar handheld bioburden / pyrogen testing in resource-constrained environments (spaceflight, military forward operating, deep-sea); (b) the qualification of the cartridge for microgravity operation (no syringe / no positive pressure source — purely capillary wicking) is prior art for capillary-driven point-of-care cartridges that are deliberately pump-free for environments where pumping is failure-prone; (c) the published ISS protocol for swab-elute-load-read in <15 min anticipates cartridge-based environmental microbial monitoring patents for industrial and built-environment applications. The Charles River Endosafe US patents are the IP citations; the spaceflight qualification is open-published.
 
+## bioMerieux NucliSENS easyMAG / EMAG (2007)
+
+- **id**: `biomerieux-easymag-emag`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: bioMerieux SA
+- **disclosure**: bioMerieux NucliSENS easyMAG launch 2007; EMAG launch 2017; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses an automated Boom-chemistry NA extraction platform using single-vessel batch processing with movable magnet bars rather than plate-to-plate transfer, with the EMAG variant providing per-strip independent magnet actuation and clinical-lab sample tracking. Anticipates: single-vessel-batch automated extraction architectures using moving magnet bars with strip-level independent control; integration of Boom-chemistry silica-bead chemistry into clinical-lab IVD-compliant instruments.
+
+## MaxCyte STX Scalable Transfection System (2007)
+
+- **id**: `maxcyte-stx-flow-electroporation`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte Inc. STX product launch 2007; US patent US7,029,916B2 (Flow electroporation chamber, granted 2006, priority 2002); MaxCyte Inc. SEC S-1 (2021)
+- **ip status**: patented
+- **prior art notes**: Discloses a flow-through electroporation chamber: cells in suspension are pumped between parallel planar electrodes spaced for uniform field; pulse generator delivers shaped electric pulses to volumes of cells transiting the chamber; cargo (DNA/RNA/protein) is co-suspended; output collected sterile downstream. Anticipates: continuous-flow electroporation as alternative to cuvette-batch (Lonza Nucleofector predecessor architecture); use of disposable single-use chamber decoupled from reusable instrument body; protocol-library transfer between research-scale (STX) and GMP-scale (GTx) processing assemblies. Element-by-element: peristaltic infeed + parallel-plate disposable chamber + pulse forming network + sterile collection bag.
+
+## Bio-Rad Gene Pulser MXcell Electroporation System (2007)
+
+- **id**: `biorad-gene-pulser-mxcell`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Bio-Rad Laboratories
+- **disclosure**: Bio-Rad Gene Pulser MXcell product launch 2007; Bio-Rad Bulletin 5447 (MXcell brochure); US patent US7,799,555B2 (Apparatus and method for electroporating cells in a multi-well plate, Bio-Rad)
+- **ip status**: patented
+- **prior art notes**: Discloses an electroporation plate in which each well of a 96-well array contains an integrated electrode pair, addressed by a multiplexed pulse generator that can fire well-by-well or row-by-row with independent waveforms. Anticipates: multi-well-plate-format electroporation (distinct from cuvette and pipette-tip formats), where the entire 96-well plate acts as the disposable, and the instrument programs distinct conditions per well — enabling high-throughput protocol screening. Element-by-element: 96-well disposable + per-well electrode pair + multiplexed pulse forming network + plate-handling registration.
+
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
 - **id**: `biofire-filmarray-multiplex-pcr-cartridge`
@@ -314,6 +364,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Burton SA et al. Pharm Res 28(1):31-40 2011 doi:10.1007/s11095-010-0177-8; 3M Drug Delivery Systems patent family
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
+
+## QIAGEN QIAsymphony SP/AS (2008)
+
+- **id**: `qiagen-qiasymphony-sp-as`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAsymphony product launch 2008; user manual HB-0212; FDA-cleared QIAsymphony RGQ MDx 510(k) K133314
+- **ip status**: patented
+- **prior art notes**: Discloses a modular two-stage clinical-laboratory automation architecture where one module performs NA extraction continuously while a downstream module sets up downstream PCR/assay reactions with the same pipetting infrastructure. Anticipates: random-access continuous-loading clinical-lab extraction architectures; modular-track plus shared-robotics extraction-plus-assay-setup automation; FDA-cleared NA-extraction modules feeding integrated downstream PCR systems.
+
+## GE Healthcare FASTlab FDG Synthesizer (2008)
+
+- **id**: `ge-fastlab-fdg`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: GE Healthcare (now GE HealthCare)
+- **disclosure**: GE Healthcare FASTlab brochure HK04-08; product launch 2008; Lemaire et al., Theranostics 2014, 4, 1010-1027.
+- **ip status**: patented
+- **prior art notes**: Single-use cassette-format radiosynthesizer for F-18 fluorodeoxyglucose (FDG), the dominant PET tracer. Discloses: thermoplastic injection-molded cassette with welded PFA tubing forming all radiolabeled-fluid paths; syringe-driven actuators on the cassette interface for solvent / reagent delivery; pre-packed reagent vials integrated with the cassette; integrated solid-phase QMA and HLB cartridges for purification. Anticipates: single-use cassette radiopharmacy synthesis as the dominant architecture for clinical PET tracer manufacturing; the pattern of a sterile disposable handling all radioactivity-containing fluids with a re-usable instrument providing only mechanical actuation; extension of the cassette concept to other F-18, Ga-68, Cu-64 tracers.
 
 ## Fluxion BioFlux organ-on-chip platform (2009)
 
@@ -445,6 +515,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an isoluminol-based flash chemiluminescence immunoassay analyzer using PMP capture: cuvette receives sample + PMP-coated capture antibody + isoluminol-conjugated detection antibody, magnetic capture and wash, then injection of trigger reagent (peroxide-base) generates isoluminol oxidation flash detected by PMT. The cuvette is single-use; the analyzer pipettor and magnet stations are washed between samples. Anticipates: isoluminol (vs acridinium ester, vs ECL ruthenium) as the chemiluminescence label class for high-throughput immunoassay; the global Vitamin D testing market built on this fluidic primitive (since 25-OH-D Total assay's 2010 standardization). Distinct from Roche Elecsys (ECL) and Beckman DxI (alkaline phosphatase + dioxetane glow).
 
+## Roche MagNA Pure 96 System (2010)
+
+- **id**: `roche-magnapure-96-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 96 launch 2010; user guide V4; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: 96-sample scale-up of MagNA Pure 24 with same pipette-based architecture. Anticipates 96-format pipette-tip magnetic-bead extraction with full IVD validation.
+
+## ThermoFisher AutoMate Express Forensic DNA Extraction (2010)
+
+- **id**: `thermofisher-automate-express-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Applied Biosystems / ThermoFisher Scientific
+- **disclosure**: Applied Biosystems AutoMate Express user guide (2010) PN 4441934; PrepFiler Express chemistry datasheet
+- **ip status**: patented
+- **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
+
+## Pall iCellis Fixed-Bed Bioreactor (Nano / 500) (2010)
+
+- **id**: `pall-icellis-fixed-bed`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Artelis SA (acquired 2010 by Pall Corporation; Pall acquired by Danaher 2015)
+- **disclosure**: Artelis (acquired 2010 by Pall) iCellis product launch 2010; US patent US8,278,101B2 (Disposable bioreactor with packed bed for cell culture, Artelis/Pall, priority 2008); EP2186881B1
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use fixed-bed bioreactor where a non-woven PET fiber matrix provides high specific surface area (>30,000 m²/m³) for adherent cell culture; an internal magnetic impeller drives medium recirculation through the matrix providing both nutrient delivery and oxygenation; perfusion or batch operation is supported. Anticipates: PET-fiber random-packing fixed-bed bioreactor architecture for adherent cell culture (distinguishable from Univercells scale-X structured packing); single-use thermoformed vessel format for viral vector production; the Nano-to-500 scale chain that allows DOE in Nano to inform commercial 500 manufacture.
+
+## ChemoMetec NucleoCounter NC-3000 (Image Cytometer) (2010)
+
+- **id**: `chemometec-nucleocounter-nc-3000`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: ChemoMetec A/S
+- **disclosure**: ChemoMetec A/S NC-3000 product launch 2010; product literature 2012-2023; ChemoMetec patent estate US8,309,025B1 (Cassette for cell counting based on fluorescent staining)
+- **ip status**: patented
+- **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
+
 ## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
 
 - **id**: `vaxxas-hd-map-microneedle`
@@ -505,6 +615,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable size-and-deformability CTC capture microfluidic cassette with a precision step feature that traps cells stiffer/larger than the gap height while smaller blood cells flow through. Recovers viable captured cells for downstream assay. Anticipates: deformability-step CTC capture cassettes; FDA-cleared CTC capture-and-harvest topology distinct from CellSearch (already in corpus as kapur-2013-cellsearch-ctc-system).
 
+## Eppendorf BioBLU Single-Use Bioreactor (0.3c / 3c / 10c / 50c) (2012)
+
+- **id**: `eppendorf-bioblu-single-use`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Eppendorf AG (formerly New Brunswick Scientific)
+- **disclosure**: Eppendorf (formerly New Brunswick Scientific) BioBLU product launch 2012; BioBLU rigid single-use vessel patent US9,243,217B2; Eppendorf product literature 2014-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a rigid plastic single-use bioreactor vessel with insert-molded impeller shaft, sparger ring, sensor ports (optical patches for pH/DO compatible), and harvest dip tube; the rigid form preserves the stirred-tank impeller-driven mixing characteristics of glass/stainless vessels (vs flexible-bag SUB which requires wave/rocker mixing). Anticipates: rigid-plastic single-use bioreactor architecture as alternative to flexible-bag SUB for stirred-tank workflows; the scaling chain (0.3c through 50c) preserving impeller geometry and aspect ratio. Distinguishable from Sartorius BIOSTAT STR (flexible bag) and Cytiva Xcellerex XDR (flexible bag) by being a rigid molded vessel.
+
+## ThermoFisher RapidHIT 200 Human DNA Identification System (2012-09)
+
+- **id**: `thermofisher-rapidhit-200`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: IntegenX (acquired by ThermoFisher Scientific 2014)
+- **disclosure**: IntegenX RapidHIT 200 product launch ICHA 2012; Hopwood et al., Forensic Sci. Int. Genet. 2013, 7, 1-2. DOI:10.1016/j.fsigen.2012.08.007; ThermoFisher acquired IntegenX 2014; user manual MAN0014654.
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed disposable cartridge integrating: (i) buccal swab/blood-spot lysis chamber; (ii) magnetic-bead DNA extraction; (iii) multiplex STR PCR amplification of CODIS loci using GlobalFiler Express chemistry; (iv) on-board capillary electrophoresis with multi-color fluorescence detection; (v) automated allele-call generation. Anticipates: integrated forensic-grade STR cartridges performing the full sample-to-profile workflow in <2 hr without operator intervention; pneumatic actuation of laminate-sealed reaction wells in a forensic context; incorporation of internal positive/negative controls per cartridge to satisfy ASCLD-LAB chain-of-custody. The combination of CODIS-compliant 13-loci output with field-deployable form factor anticipates booking-station rapid DNA workflows.
+
 ## Sartorius ambr 250 high-throughput single-use bioreactor (2013)
 
 - **id**: `sartorius-ambr-250`
@@ -534,6 +664,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diagenode Megaruptor product launch 2013; Megaruptor 3 launch 2019. https://www.diagenode.com/en/p/megaruptor-3.
 - **ip status**: patented
 - **prior art notes**: Hydrodynamic DNA shearing in a disposable thermoplastic cartridge: a syringe pumps DNA solution through a precisely-defined micro-orifice, the resulting shear forces fragment DNA to a flow-rate-tunable target length. Anticipates: cartridge-based hydrodynamic shearing for long-read library prep, a categorically different fragmentation primitive vs. acoustic (Covaris) or enzymatic (transposase) shearing. Critical consumable for high-quality ONT and PacBio HiFi prep.
+
+## QIAGEN QIAcube HT Sample Prep (2013)
+
+- **id**: `qiagen-qiacube-ht-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
+
+## Bio-Rad TC20 Automated Cell Counter (2013)
+
+- **id**: `biorad-tc20-cell-counter`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Bio-Rad Laboratories
+- **disclosure**: Bio-Rad TC20 product launch 2013; Bio-Rad Bulletin 6003; Bio-Rad TC20 user manual; predecessor TC10 launched 2009
+- **ip status**: patented
+- **prior art notes**: Discloses a brightfield-only automated cell-counter using a disposable hemocytometer-format slide and trypan-blue staining for viability discrimination. Architecturally simpler than Countess 3 (no fluorescence) and Cellaca (no plate format); represents the bench-minimum form factor of the broader category. Anticipates: brightfield-only autofocus cell-counting with disposable slide as the consumable boundary. Element-by-element: disposable slide + brightfield imaging + autofocus + segmentation + count.
 
 ## Abbott ID NOW isothermal amplification cartridge (2014)
 
@@ -595,6 +745,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Cassette-format automated DNA size selection: a disposable agarose-filled cassette has electrodes integrated and software-controlled collection wells that elute target size ranges by gating the field at the right time. Anticipates: cassette electrophoresis as a fluidic primitive for NGS / long-read library prep; integration of size-selection into a closed disposable rather than manual gel cut-and-elute. The Pippin cassette is the dominant size-selection step in PacBio HiFi and ONT long-read library prep.
 
+## ThermoFisher KingFisher Duo Prime Magnetic Particle Processor (2014)
+
+- **id**: `thermofisher-kingfisher-duo-prime`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher KingFisher Duo Prime datasheet (2014); product manual MAN0009957
+- **ip status**: patented
+- **prior art notes**: Lower-throughput sibling of KingFisher Apex sharing the same rod-transfer architecture. Anticipates: scaled-down magnetic-bead processors targeting <16 samples per run with direct elution into PCR-ready format; same architectural class as Apex.
+
+## Diagenode Megaruptor Mechanical DNA Shearing (2014)
+
+- **id**: `diagenode-megaruptor-bead-shear`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Diagenode SA
+- **disclosure**: Diagenode Megaruptor product launch 2014; product manual; Megaruptor 3 launch 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic shear-based DNA fragmentation platform using flow through narrow constrictions to produce reproducible long-DNA fragment distributions for long-read library prep. Anticipates: hydrodynamic-shear DNA fragmentation as a microfluidic-channel design class with channel-geometry-determined fragment-length distributions.
+
+## MaxCyte GTx Flow Electroporation System (2014)
+
+- **id**: `maxcyte-gtx-gmp-electroporator`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte GTx CE-mark and 510(k) clearance documentation 2014; MaxCyte Inc. SEC S-1 (2021); US patent US7,029,916B2 (parent flow-electroporation chamber)
+- **ip status**: patented
+- **prior art notes**: GMP-grade variant of the STX flow-electroporation chamber, packaged with traceable single-use assembly and 21 CFR Part 11 control electronics. Anticipates: closed-system clinical electroporation of patient-derived cells where the entire fluid path is single-use, sterile-welded to upstream apheresis bag and downstream wash/formulation, controlled by a regulated audit-trail electronics stack. Element-by-element: weldable inlet + disposable parallel-plate chamber + sterile collection bag + GMP audit-trail SCADA. Distinguishable from MaxCyte STX (research-grade) by the GMP cartridge and software, not the underlying electrochemistry.
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -615,6 +795,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
 
+## Roche MagNA Pure 24 System (2015)
+
+- **id**: `roche-magnapure-24-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Roche Molecular Systems
+- **disclosure**: Roche MagNA Pure 24 product release 2015; technical user guide V2; CE-IVD marked
+- **ip status**: patented
+- **prior art notes**: Discloses a 24-position pipette-based magnetic-bead NA extraction processor with sealed reagent reservoirs and disposable pipette tips, distinct from rod-transfer-based KingFisher architecture. Anticipates: pipette-tip magnetic-bead extraction at the 24-sample scale with integrated waste handling and IVD-compliant sample tracking.
+
 ## 10x Genomics Chromium controller and Next GEM chip (2016)
 
 - **id**: `10x-genomics-chromium-controller`
@@ -624,6 +814,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 10x Genomics Chromium platform; product literature and Zheng et al. 2017 Nat. Commun. 8, 14049. DOI: 10.1038/ncomms14049
 - **ip status**: patented
 - **prior art notes**: Commercial single-cell encapsulation platform: Chromium controller drives flow-focusing geometry on a disposable Next GEM chip, co-encapsulating cells with barcoded gel beads in droplets for downstream sequencing. Anticipates: high-throughput parallel droplet generation in a disposable thermoplastic cartridge driven by an instrument-side pneumatic pressure source, the gel-bead-in-droplet architecture for barcoded single-cell genomics, and the integration of microfluidic droplet generation with a turnkey commercial instrument workflow. Encumbered by an aggressive patent thicket; corpus entry exists to enable invalidity analysis.
+
+## Promega Maxwell RSC 48 Instrument (2016)
+
+- **id**: `promega-maxwell-rsc-48-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Promega Corp.
+- **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
 
 ## Cepheid Xpress (rapid GeneXpert) cartridge (2017)
 
@@ -695,6 +895,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Microwell-array cartridge that loads single cells and barcoded capture beads pairwise into ~200k Poisson-loaded picoliter wells by gravity. Lysis is performed in-well, mRNA hybridizes to bead-bound poly-T capture probes, then beads are pooled for off-cartridge cDNA synthesis. Anticipates: pairwise cell+bead microwell loading at picoliter scale as an alternative to droplet co-encapsulation; the architecture explicitly trades throughput for elimination of moving fluidic parts. The Cellular Research / Fodor 2015 disclosure is the academic anchor for any microwell-based single-cell barcoding claim. Direct competitor architecture to 10x Chromium and HIVE.
 
+## Namocell Hana Single Cell Dispenser (2017)
+
+- **id**: `namocell-hana-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (acquired by Bio-Rad 2021)
+- **disclosure**: Namocell Inc. product launch 2017 (Stanford spinout, Bio-Rad acquisition 2021); US10625259B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable cartridge implementing pressure-driven flow-focusing droplet ejection coupled to a real-time fluorescence detector that gates each droplet's destination plate well based on cell count and fluorescence intensity. Anticipates: integrated single-use cell sorter that delivers verified single cells into target wells without sheath-fluid contamination paths; disposable plastic equivalent of a sterile FACS sort with deposition recorded per well. Specifically anticipates claims to single-cell printers that combine flow-focusing droplet generation with downstream fluorescence-based well assignment.
+
+## Karius Test cfDNA Microbial Prep (2017)
+
+- **id**: `karius-test-cfmdna-prep`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Karius Inc.
+- **disclosure**: Karius Test launch 2017; Blauwkamp et al., Nat Microbiol 4:663 (2019) doi:10.1038/s41564-018-0349-6; US10465241B2
+- **ip status**: patented
+- **prior art notes**: Discloses a CLIA-validated cfDNA microbial-detection workflow that pairs an automated plasma-cfDNA isolation cartridge with dual-strand short-fragment library construction and metagenomic sequencing. Anticipates: cfDNA prep cartridges optimized for short (<200 bp) microbial-cfDNA fragments rather than long human cfDNA; integration of host-DNA depletion as an in-line library step. Useful prior art against claims to microbial cfDNA prep cartridges that perform host-depletion within the extraction cartridge.
+
+## Hamilton Microlab Vantage NA Extraction Workstation (2017)
+
+- **id**: `hamilton-microlab-vantage-na-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Robotics
+- **disclosure**: Hamilton Microlab Vantage launch 2017; product datasheet 391413/00; method library include for NA extraction (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -745,6 +975,66 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer using image cytometry (vs flow cytometry) for the WBC differential: stained WBCs flow through a microfluidic imaging channel under high-magnification CCD imaging, and convolutional-neural-network (CNN)-based image classification produces 5-part diff plus reticulocyte count (since 2019 software updates). Distinguishes from IDEXX ProCyte Dx (Sysmex-licensed flow cytometry), Sysmex XN, Beckman DxH, and Mindray BC-6800 (all flow cytometry-based) by retaining actual cell images for veterinarian review — important in veterinary clinical pathology where edge cases (mast cell tumor mast cells in peripheral blood, exotic species hematology) benefit from image evidence. Anticipates: image-cytometry hematology as an alternative to flow cytometry; CNN-based image classification embedded in a clinical analyzer; the architectural choice of single-cuvette image + impedance hybrid (vs separate multi-channel architecture).
 
+## Veracyte Decipher GRID Sample Prep Cartridge (2018)
+
+- **id**: `veracyte-decipher-prep-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Veracyte Inc.
+- **disclosure**: Veracyte Decipher Bladder + Prostate GRID product literature; FDA-cleared Decipher Prostate Genomic Classifier 510(k) K191926
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic cartridge that performs deparaffinization, lysis, magnetic-bead RNA capture, and elution of FFPE biopsy samples in an automated system. Anticipates: integrated FFPE-input molecular diagnostic cartridge with on-cartridge organic-solvent paraffin removal followed by aqueous magnetic-bead capture, eliminating manual deparaffinization steps. Useful as prior art against claims to single-cartridge FFPE-to-microarray sample prep architectures.
+
+## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
+
+- **id**: `molecular-assemblies-fams-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Molecular Assemblies Inc.
+- **disclosure**: Molecular Assemblies press release 2018; US10683537B2 priority 2017; Hyman & Efcavitch foundational publications
+- **ip status**: patented
+- **prior art notes**: Discloses an aqueous enzymatic DNA synthesis system designed around modular fluidic cassettes and a cleavable-terminator nucleotide chemistry distinct from DNA Script and Ansa approaches. Anticipates: variant enzymatic-synthesis chemistries deployed via modular fluidic cartridges with vendor-independent reagent delivery; positioning for DNA-data-storage industrial throughput. Useful as 102 art against claims that conflate cassette modularity with chemistry-specific architecture.
+
+## MaxCyte ATx Flow Electroporation System (2018)
+
+- **id**: `maxcyte-atx-assay-electroporator`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte ATx product launch 2018; MaxCyte Inc. annual report 2019; parent US7,029,916B2
+- **ip status**: patented
+- **prior art notes**: Bench-scale flow-electroporation variant intended for assay-throughput cell engineering rather than research-scale (STX) or GMP (GTx). Anticipates the existence of a downward-scaled disposable processing assembly that preserves the parallel-plate field-uniformity geometry while reducing cell load to assay-relevant volumes. Same element decomposition as STX/GTx (peristaltic infeed + disposable chamber + pulse generator + sterile collection), differing only in chamber dimensions and cell-volume range.
+
+## Lonza 4D-Nucleofector LV (Large Volume) (2018)
+
+- **id**: `lonza-4d-nucleofector-lv`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Lonza Cologne GmbH (formerly Amaxa)
+- **disclosure**: Lonza 4D-Nucleofector LV Unit product launch 2018; Lonza Bioscience product datasheet rev 2019; US patent US10,584,331B2 (Methods for high efficiency transfection, assigned Lonza Cologne, 2020)
+- **ip status**: patented
+- **prior art notes**: Scale-up of the cuvette-format Nucleofector to clinical volumes via large disposable processing chamber that preserves the field uniformity, buffer composition, and pulse waveform of the research-scale 4D-Nucleofector. Anticipates: GMP-grade large-volume electroporation where the protocol library validated at research scale transfers to clinical scale via a geometrically-similar disposable cassette (the same architectural pattern as the MaxCyte STX→GTx scale chain). Element-by-element: closed disposable cassette + planar electrodes + buffer-defined cell suspension + waveform library + sterile collection. Distinguishable from MaxCyte by being semi-batch rather than continuous flow.
+
+## Synthego CRISPR ePool / Eclipse Platform (2018)
+
+- **id**: `synthego-crispr-epool`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Synthego Corp.
+- **disclosure**: Synthego ePool product introduction 2018; Synthego Eclipse Platform whitepaper 2019; US patent application US20200056164A1 (Synthego)
+- **ip status**: patented
+- **prior art notes**: Discloses a high-throughput sgRNA synthesis architecture in which proprietary chemistry runs on multi-well plates with automated liquid handling; output is QC'd and shipped as either pooled (ePool) or arrayed (single-well) guide libraries. Anticipates: factory-format CRISPR guide manufacturing where the design-to-deliver loop is fully software-defined; combined design-software + plate-format synthesis + QC + shipment of guide libraries against user-specified targets. Note: instrument internals are largely trade-secret; entry strength rests on product literature and pending patent application.
+
+## Nexcelom Cellaca PLX (and MX) Image Cytometer (2018)
+
+- **id**: `nexcelom-cellaca-plx`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Nexcelom Bioscience LLC (now Revvity)
+- **disclosure**: Nexcelom Bioscience Cellaca MX product launch 2018; Cellaca PLX (high-throughput plate version) launched 2021; US patent US10,222,373B2 (Nexcelom, cell counting cassette); Nexcelom acquired by PerkinElmer (now Revvity) 2021
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-well disposable counting plate format for image cytometry: each well has an integrated optical-quality bottom window; the instrument acquires brightfield + AO/PI fluorescence images per well in parallel; total count, viable count, and viability are computed per well. The Cellaca PLX increases parallelism to 96-well plate format. Anticipates: plate-format parallel image cytometry (vs serial single-cassette NC-200/NC-3000); high-throughput cell-counting suitable for bioprocess sampling at scale. Element-by-element: multi-well disposable plate + per-well stain + multi-channel imaging + per-well cell-count algorithm.
+
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
 - **id**: `parse-biosciences-evercode`
@@ -784,6 +1074,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Brooks Life Sciences acquisition of GENEWIZ 2018; rebranded Azenta Life Sciences 2022. https://www.azenta.com/.
 - **ip status**: trade-secret
 - **prior art notes**: Azenta (formerly Brooks Life Sciences) supplies thermoplastic sample-storage and prep consumables (cryotubes, racks, scanning labware) that interoperate with their automated sample-management instruments. Many of these consumables incorporate microfluidic features (e.g. integrated filters in lysis cartridges, sealed transfer ports). Anticipates: the integration of microfluidic-feature-bearing consumables into a sample-management ecosystem rather than a single instrument.
+
+## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
+
+- **id**: `thermofisher-kingfisher-apex-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: ThermoFisher Scientific
+- **disclosure**: ThermoFisher Scientific KingFisher Apex datasheet (2019); product manual MAN0019116; FDA-cleared as KingFisher Apex Dx 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a magnetic-particle-processor architecture in which a vertical magnetic-rod array picks up paramagnetic beads from a deepwell source plate and transfers them through wash and elution wells via plate-to-plate vertical movement, eliminating fluidic channels entirely. Anticipates: rod-transfer magnetic-bead processing for NA extraction at 96-well format; tipcomb consumables with disposable plastic sleeves; high-throughput clinical-lab extraction without microfluidic channels. Useful prior art against magnetic-rod-transfer extraction claims and against any combined extraction+heating workflow at 96-well scale.
+
+## Inscripta Onyx Digital Genome Engineering Platform (2019)
+
+- **id**: `inscripta-onyx-genome-engineering`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Inscripta Inc.
+- **disclosure**: Inscripta Onyx product launch 2019; Inscripta MAD7 nuclease publication: Garst et al., 'Genome-wide engineering of E. coli using CREATE,' Nat Biotechnol 35:48 (2017); Inscripta SEC filings; US patent US10,808,254B2 (Inscripta nucleic acid engineering systems)
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
+
+## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
+
+- **id**: `microsoft-dna-storage-research-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Microsoft Research + University of Washington Molecular Information Systems Lab
+- **disclosure**: Takahashi et al., Sci Rep 9:4998 (2019) doi:10.1038/s41598-019-41228-8 (first end-to-end automated DNA storage demonstration, Microsoft Research); Newman et al., bioRxiv 2019
+- **ip status**: patented
+- **prior art notes**: Discloses an end-to-end automated DNA-storage platform integrating commercial column synthesis, microfluidic pooling and storage, and Oxford Nanopore read-out, with software encoding/decoding loops closing the cycle. Anticipates: end-to-end DNA storage system architectures that integrate commodity write and read components rather than custom synthesis chemistry; demonstration of practical write-store-read cycles measurable in hours. Useful as 102 prior art for any system claim that does not specifically tie value to a custom write or read chemistry.
+
+## Catalog Technologies Shannon DNA Storage Platform (2019-06)
+
+- **id**: `catalog-technologies-shannon-dna-storage`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Catalog Technologies Inc.
+- **disclosure**: Catalog Technologies announcement 2019-06; Park et al., Nat Commun 13:5008 (2022) doi:10.1038/s41467-022-32750-x; US11293032B2
+- **ip status**: patented
+- **prior art notes**: Discloses a DNA-data-storage architecture that writes information by combinatorial deposition of pre-synthesized oligonucleotide components via large-format inkjet printheads onto a moving substrate, eliminating per-base coupling time. Anticipates: industrial DNA storage write systems that exploit inkjet-printer infrastructure for combinatorial encoding; substrate-agnostic write platforms that pair commercial printhead hardware with custom oligo-pool reagents. Anticipates claims to DNA storage systems that achieve >Gb/day write rates by parallel inkjet deposition.
 
 ## Lucira Health Check It home COVID-19 isothermal molecular test (2020)
 
@@ -825,6 +1155,66 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: unknown
 - **prior art notes**: Microwell-array single-cell platform analogous to BD Rhapsody and HIVE: cells and barcoded beads gravity-loaded into picoliter microwells in a thermoplastic chip, lysed in-well, and beads collected magnetically. Anticipates: the architectural convergence on picoliter-microwell-plus-barcoded-bead single-cell prep across multiple vendors and geographies, which is a major prior-art counter to broad claims attempting to monopolize that architecture.
 
+## Namocell Pala Single Cell Dispenser (2020)
+
+- **id**: `namocell-pala-single-cell-dispenser`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Namocell Inc. (Bio-Rad)
+- **disclosure**: Namocell Pala datasheet 2020; Bio-Rad press 2021; US patent family above
+- **ip status**: patented
+- **prior art notes**: Extends Hana design to 5-color fluorescence and explicit doublet discrimination by per-droplet image analysis. Anticipates claims to disposable-cartridge multi-color cell sorters with image-based event verification and per-deposit traceability metadata for regulated single-cell-cloning workflows (cell-line provenance documentation under USP/ICH guidelines).
+
+## Bruker CellScape (Canopy Biosciences) (2020)
+
+- **id**: `bruker-cellscape-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Bruker Cellular Analysis (formerly Canopy Biosciences)
+- **disclosure**: Canopy Biosciences product launch 2020; Bruker acquisition of Canopy Bio 2020-08-31; Hennig et al., Cytometry A 75A:362 (2009), doi:10.1002/cyto.a.20693 (ChipCytometry foundational paper)
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed plastic flow chip enclosing a tissue section, with integrated fluidic ports for cyclic antibody delivery and bleaching between cycles. Anticipates: ChipCytometry architecture combining a tissue-stage flow chamber with non-destructive iterative photobleaching to deplete fluorescence between cycles (vs chemical stripping in Lunaphore COMET, DNA-removal in CODEX, or laser ablation in MIBI). Anticipates claims to single-chip multiplex immunofluorescence in which the tissue is preserved as a citable physical sample.
+
+## BillionToOne UNITY cfDNA Prep Cartridge (2020)
+
+- **id**: `billiontoone-unity-cfdna-prep`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BillionToOne Inc.
+- **disclosure**: BillionToOne UNITY product launch 2020; Tsao et al., Genet Med 24:545 (2022) doi:10.1016/j.gim.2021.10.014; US10968494B2
+- **ip status**: patented
+- **prior art notes**: Discloses cfDNA prep that integrates synthetic Quantitative Counting Templates (QCTs) at the extraction stage to provide internal calibration of allelic dosage during downstream sequencing. Anticipates: cfDNA cartridge architectures that introduce molecular controls during nucleic-acid capture rather than during library prep, enabling single-gene NIPT through quantitative allelic balance. Useful prior art against claims to cfDNA prep cartridges that bake in calibration-bead spike-in chemistry.
+
+## DNA Script SYNTAX Enzymatic DNA Synthesizer (2020)
+
+- **id**: `dna-script-syntax-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Script SAS
+- **disclosure**: DNA Script SYNTAX product launch 2020-06-30; Palluk et al., Nat Biotechnol 36:645 (2018) doi:10.1038/nbt.4173; US11236377B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop microfluidic platform for enzymatic DNA synthesis using engineered TdT-nucleotide conjugates as reversible terminators, with aqueous reagent cycling delivered through a 96-well cartridge. Anticipates: chip-scale enzymatic DNA synthesis architectures that displace phosphoramidite chemistry; integration of tethered-terminator nucleotides with on-cartridge wash and deprotection cycles; benchtop-scale fluidic manifolds for parallel oligo synthesis without organic-waste handling. Anticipates claims to enzymatic synthesis platforms that pair TdT-conjugate nucleotides with aqueous flow cycling.
+
+## Logos Biosystems LUNA-FX7 Automated Cell Counter (2020)
+
+- **id**: `logos-luna-fx7`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Logos Biosystems Inc.
+- **disclosure**: Logos Biosystems LUNA-FX7 product launch 2020; user manual rev 2.0; predecessor LUNA-II product literature 2014-2019
+- **ip status**: patented
+- **prior art notes**: Discloses a compact image-cytometer with a multi-chamber disposable slide (8 wells per slide) and three-channel fluorescence imaging for bioprocess/research cell counting. Architecturally similar to NucleoCounter NC-3000 and Cellaca MX; differentiated by slide form factor and 3-channel fluorescence (vs 8-channel NC-3000 or 24-well Cellaca). Anticipates: compact bench-top image-cytometer with multi-chamber disposable slide and multi-channel fluorescence for combined viability + reporter-gene measurement.
+
+## Thermo Fisher Countess 3 / Countess 3 FL Automated Cell Counter (2020)
+
+- **id**: `thermofisher-countess-3`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Thermo Fisher Scientific (Invitrogen)
+- **disclosure**: Thermo Fisher Scientific Countess 3 product launch 2020; Countess II original launch 2014; user guide MAN0019150 rev 1.0; predecessor patent estate US8,481,332B2 (Invitrogen, Countess hemocytometer slide)
+- **ip status**: patented
+- **prior art notes**: Discloses an automated hemocytometer architecture in which a disposable two-chamber slide is loaded by capillary action with sample + trypan blue stain (or unstained for fluorescence); the instrument autofocuses, acquires brightfield + optional fluorescence images, segments cells, and computes total/dead/viable counts. The Countess 3 generation adds two-channel fluorescence and improved imaging optics. Anticipates: automated brightfield+fluorescence cell-counting on a disposable hemocytometer slide with embedded counting chambers. Element-by-element: disposable slide + brightfield/fluorescence imaging + autofocus + cell-segmentation algorithm + count display.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -855,6 +1245,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hand-held microwell-array sample-collection device: a disposable plastic cartridge containing tens of thousands of picoliter microwells with pre-loaded barcoded capture beads. Cell suspension is loaded directly at the collection site; cells settle into wells by gravity / centrifugation; storage buffer immediately preserves transcriptome. The architectural innovation is decoupling sample-collection from instrument scheduling: clinics or field sites collect samples into HIVEs and ship to a sequencing core. Anticipates: ambient-temperature shippable single-cell collection cartridges, integration of microwell single-cell barcoding into specimen-collection (rather than core-facility) workflows.
 
+## Lunaphore COMET (2021)
+
+- **id**: `lunaphore-comet-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Lunaphore Technologies SA (acquired by Bio-Techne 2023)
+- **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## Visby Medical Sexual Health Test Cartridge (2021-08)
+
+- **id**: `visby-medical-sexual-health-test-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical Inc.
+- **disclosure**: Visby Medical FDA 510(k) K201013 cleared 2021-08-04; US10434511B2 priority 2014; expansion to OTC test FDA 2024
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
+
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## DNA Script SYNTAX Enzymatic DNA Synthesis Storage Extension (2021-10-12)
+
+- **id**: `dna-script-storage-extension`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Script SAS
+- **disclosure**: DNA Script SYNTAX product launch 2021-10; Lee et al., Nat. Commun. 2019, 10, 2383 DOI:10.1038/s41467-019-10258-1 (TdT-based EDS academic predecessor); IARPA MIST program 2018-2024.
+- **ip status**: patented
+- **prior art notes**: Enzymatic DNA synthesis using terminal deoxynucleotidyl transferase (TdT) with reversible-terminator dNTPs, packaged in a benchtop cartridge for 96-parallel oligo synthesis. Storage extension applies the SYNTAX platform to DNA data storage write workloads. Discloses: cartridge-format enzymatic DNA synthesis with TdT + reversible-terminator chemistry; thermoplastic injection-molded reaction-well cartridge; controlled-flow reagent delivery through cartridge fluidics; extended-cycle capability for storage-relevant oligo lengths. Anticipates: cartridge-format enzymatic DNA synthesis as an alternative to phosphoramidite chemistry; the architectural pattern of thermoplastic disposable + benchtop instrument as the dominant form factor for next-generation DNA write; extension of EDS to DNA data storage workloads under IARPA MIST.
+
 ## Cellares Cell Shuttle CAR-T manufacturing platform (2022)
 
 - **id**: `cellares-cell-shuttle`
@@ -874,6 +1304,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mammoth Biosciences DETECTR BOOST. https://mammoth.bio
 - **ip status**: patented
 - **prior art notes**: Commercial DETECTR-platform CRISPR cartridge: integrated sample-prep, RPA amplification, Cas12a-based detection in single-use cartridge format. Anticipates: high-throughput automated CRISPR diagnostic cartridges as a commercial product category. Companion to academic disclosures (Chen 2018 DETECTR foundational, Myhrvold 2018 SHINE) by establishing instrument-format CRISPR-cartridge architecture.
+
+## Aspara CRISPR-based Detection Cartridge (2022)
+
+- **id**: `aspara-crispr-detection-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aspara Pte Ltd.
+- **disclosure**: Aspara Pte Ltd. product literature 2022; SG patent application
+- **ip status**: patented
+- **prior art notes**: Discloses a regional Asian-market CRISPR diagnostic cartridge integrating RT-RPA + Cas12a + lateral-flow strip in a single disposable. Anticipates similar regional-market CRISPR diagnostic cartridge architectures.
+
+## Thermo Fisher Neon NxT Electroporator (2022)
+
+- **id**: `thermofisher-neon-nxt-electroporator`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Thermo Fisher Scientific (Invitrogen)
+- **disclosure**: Thermo Fisher Scientific Neon NxT product launch press release 2022-09; Neon NxT user guide MAN0019022 rev 2.0; predecessor Neon Transfection System (Invitrogen, ~2009) US patent US8,008,065B2 (Pipette-tip-based electroporation)
+- **ip status**: patented
+- **prior art notes**: Discloses an electroporation device in which the cell suspension is held within a disposable pipette tip whose lower bore contains the field-defining electrodes; aspiration draws cells between the electrodes; the pulse generator fires across the tip electrodes; cells are then dispensed into culture vessels. Anticipates: pipette-tip-format electroporation (distinct from cuvette format), parallelization by multi-channel head, instrument-disposable separation. The NxT update adds 3-channel parallelism and a redesigned electrode tip; underlying electrode-in-pipette architecture is the Invitrogen Neon parent.
+
+## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
+
+- **id**: `telesis-bioxp-9600-benchtop-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Telesis Bio Inc. (formerly Codex DNA / SGI-DNA)
+- **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
 
 ## Sherlock Biosciences INSPECTR cartridge (2023)
 
@@ -895,6 +1365,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Extension module to the CliniMACS Prodigy closed-cartridge platform that adds higher-throughput and adaptable process steps for allogeneic cell therapies (gene-edited NK, iPSC-derived, off-the-shelf CAR-T). Architecturally significant as the first commercial closed cartridge to integrate selection, activation, transduction/electroporation, expansion, formulation, and fill-finish for allogeneic products in a single disposable. Anticipates: closed-cartridge architectures supporting multi-modal gene delivery (lentiviral, electroporation, chemical) and continuous selection across multiple cell types within one disposable; modular extensions to GMP cartridge platforms.
 
+## Singleron Matrix sCircle Barcoding (2023)
+
+- **id**: `singleron-matrix-scircle-barcoding`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies product update 2023; technical brief; CN patent family CN112538505A and US application
+- **ip status**: patented
+- **prior art notes**: Discloses circular-barcode bead chemistry deployed on the Singleron Matrix microwell platform, increasing barcode diversity available per cell. Anticipates circular DNA-barcoded bead pools used in microwell-based single-cell platforms.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
+## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
+
+- **id**: `ansa-biotechnologies-enzymatic-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ansa Biotechnologies Inc.
+- **disclosure**: Ansa Biotechnologies announcement 2023-06-29 of synthesizing world-record 1005 nt enzymatic-only oligo; press release; US11332757B2
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic synthesis platform that pushes oligo length past the historical ~200 nt phosphoramidite barrier through engineered TdT activity and refined fluidic cycling, demonstrating 1005 nt single-oligo synthesis. Anticipates: long enzymatic-oligo synthesis processes integrated with chip-scale fluidic cycling; chemistries with cleavable nucleotides that approach gene-length single-pass synthesis. Useful prior art against claims to enzymatic synthesis platforms that achieve >500 nt single-pass length.
+
 ## SHUGA POC molecular diagnostic cartridge (2024 demonstration) (2024)
 
 - **id**: `kaminski-shuga-cartridge-2024`
@@ -904,3 +1404,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various 2024 publications on next-generation CRISPR-cartridge POC diagnostics. Representative: Kaminski/Sabeti lab Broad Institute SHERLOCK-cartridge work.
 - **ip status**: patented
 - **prior art notes**: Composite reference for the 2024-onward wave of CRISPR-cartridge POC diagnostic disclosures: integrated sample-prep + RPA/LAMP amplification + Cas12/Cas13 detection in single-use cartridges with smartphone or instrument readout. Architectural extension of the Lucira/Visby/Cue isothermal-NAAT cartridge family with CRISPR-based detection chemistry replacing fluorescent or colorimetric direct-readout. Multiple academic and commercial efforts active in this space.
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
+
+## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
+
+- **id**: `mission-bio-tapestri-prim-2024`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio Inc.
+- **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.

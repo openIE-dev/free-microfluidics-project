@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-pressure-manifold`
 
-**37 corpus entries disclose this subsystem.**
+**48 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1972-08-08
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune Spacing Guild Navigator melange-saturated tank (1965)
+
+- **id**: `dune-spacing-guild-navigator-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; visualized in David Lynch's Dune (1984) and Denis Villeneuve's Dune: Part Two (2024).
+- **ip status**: fictional
+- **prior art notes**: Spacing Guild Navigators are described and depicted as immersed in a sealed glass/transparent aluminum tank filled with melange-saturated atmospheric gas. The 1984 film provides a detailed visual of life-support plumbing, gas circulation, and waste-management interfaces around the tank. Architecturally anticipates: long-duration human-immersion life-support chambers, closed-loop atmospheric processing for biological occupants, and combined drug-delivery + life-support tank systems. Defensive prior art for sealed-immersion bioreactor / life-support hybrids.
 
 ## Zoltan/Clevite Squeeze-Tube Drop-on-Demand Piezo Inkjet (1972-08-08)
 
@@ -65,6 +75,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a piezoelectric impulse drop-on-demand printhead engineered for industrial product marking, with a patented compliant chamber that decouples the piezo actuator displacement from a parallel ink-supply manifold to suppress crosstalk and fluid-borne shock. Anticipates: (a) the use of a compliance element in series with the actuator chamber as a passive crosstalk-suppression primitive, (b) high-density per-channel addressable nozzles in a stainless-steel industrial body for rugged factory deployment, (c) low-resolution alphanumeric and barcode marking heads as an alternative to CIJ in coding applications. Used widely in corrugated case-coding and primary-package marking machines.
 
+## Babylon 5 Vorlon encounter suit biological life-support (1993)
+
+- **id**: `babylon5-vorlon-encounter-suit`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski
+- **disclosure**: Babylon 5 pilot 'The Gathering' (PTEN, 1993).
+- **ip status**: fictional
+- **prior art notes**: Vorlon encounter suit serves as a wearable life-support system maintaining the unseen biological occupant in alien atmospheric/biochemical conditions. Borderline; defensive prior art for closed-system wearable life-support suits with unknown internal biology.
+
+## Neon Genesis Evangelion LCL entry-plug fluid immersion (1995)
+
+- **id**: `evangelion-lcl-entry-plug`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hideaki Anno / Gainax / Khara
+- **disclosure**: Neon Genesis Evangelion (Gainax/TV Tokyo 1995-1996); episode 1 'Angel Attack' establishes LCL flooding entry plug; The End of Evangelion (Gainax 1997); Rebuild of Evangelion films (2007-2021).
+- **ip status**: fictional
+- **prior art notes**: Evangelion's LCL (Liquid Catalyst Liquid / Link Connect Liquid) is depicted as an oxygenated immersion fluid filling the entry plug, allowing the pilot to breathe directly through the lung interface and enabling neural-synchronization with the Eva. On-screen mechanics: plug insertion into Eva's spinal column, plug interior fill/drain pumps, oxygenated breathable fluid, neural-link via plug suit. Architecturally one of the most detailed fictional depictions of human liquid-immersion neural-interface piloting. Defensive prior art for: oxygenated-liquid breathing apparatus for pilots, neural-sync via immersion fluid + plug suit electrodes, fill-and-drain immersion-pod architectures. ~30-year cumulative anchor.
+
+## Trigun / Gungrave biological resurrection apparatus (Vash + Beyond the Grave) (1995)
+
+- **id**: `trigun-vash-gungrave-fluid-resurrection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Yasuhiro Nightow
+- **disclosure**: Trigun (Yasuhiro Nightow, Tokuma Shoten 1995-1997); Trigun Maximum (1997-2007); Gungrave (Red Entertainment/Yasuhiro Nightow 2002).
+- **ip status**: fictional
+- **prior art notes**: Both Trigun (Plant cultivation tanks producing Plant beings like Vash and Knives) and Gungrave (Beyond the Grave's reanimation in a fluid tank using Necrolyzation) depict explicit fluid-immersion biological resurrection / cultivation. Plant tanks are shown as massive translucent cylinders with full life-support plumbing. Defensive prior art for: post-human biological-being cultivation tanks, necrolyzation revival apparatus, and life-support plumbing for engineered organisms.
+
 ## FUJIFILM Dimatix Galaxy / Polaris / StarFire Industrial Piezo Heads (Spectra lineage) (1996)
 
 - **id**: `fujifilm-dimatix-galaxy-polaris-spectra-line`
@@ -74,6 +114,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Spectra/Dimatix product datasheets; SG-1024 introduced at drupa 2012 (PIWorld 'Fujifilm Dimatix to Introduce the SG-1024 Industrial Single-Pass Inkjet Printhead at drupa'); Polaris PQ-512 datasheet
 - **ip status**: patented
 - **prior art notes**: Discloses the workhorse industrial piezo printhead families that bridge the Spectra-laminate era and the Dimatix MEMS era: Galaxy/Polaris with stainless-steel laminate ink-path bodies and bonded PZT stacks (one-piezo-per-channel bend-mode actuation), and StarFire SG-1024 with through-die ink recirculation, dual-row nozzle layout, and silicon-nozzle-plate construction. Anticipates: (a) productization patterns for industrial DOD heads spanning 256–1024 nozzles, (b) recirculating-ink-path SG-1024 as the canonical 'high-pigment-load + reliability' single-pass primitive, (c) variable-drop multi-tone industrial firing across material-deposition applications (printed electronics, displays, ceramics).
+
+## Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device) (1997)
+
+- **id**: `stargate-goauld-sarcophagus`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brad Wright / Jonathan Glassner / MGM
+- **disclosure**: Stargate SG-1 'Children of the Gods' (Showtime/MGM 1997); detailed in 'Need' (S2E5, 1998); 'Forever in a Day' (S3E10, 1999).
+- **ip status**: fictional
+- **prior art notes**: The Goa'uld sarcophagus is depicted as an enclosed coffin-shaped chamber that, when activated, fills with regenerative biological agents and revives a deceased occupant within minutes. On-screen mechanics show: lid actuation, internal fluid-fill (visible mist/light effects), neural-state restoration, and post-revival exit. Repeated detailed depictions across 10 seasons of SG-1 (1997-2007). Defensive prior art for: closed-vat whole-body regeneration system, automatic post-mortem revival protocol, and fluid-immersion regenerative therapy. Major franchise anchor with explicit fluid-handling visual depictions.
+
+## The Matrix human battery pod fluid-immersion + Tetris IV feed (1999)
+
+- **id**: `matrix-pod-fluid-immersion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lana Wachowski / Lilly Wachowski
+- **disclosure**: The Matrix (Warner Bros, 1999); The Matrix Reloaded (2003); The Matrix Revolutions (2003).
+- **ip status**: fictional
+- **prior art notes**: The Matrix's iconic 'human battery field' depicts millions of humans in individual gel-filled pods with integrated breathing tubes, nutrient feeds, waste removal, and neural-interface jacks. The pod scene (Neo's awakening) shows pump systems flushing umbilical-style nutrient lines and the body extraction process. Defensive prior art for: long-duration human-immersion life-support pods with integrated nutrient + waste + neural-interface fluidics, and industrial-scale automated maintenance of pod arrays. Plus the on-screen Tetris-IV (intravenous Tetris-style nutrient delivery system).
 
 ## Inca Digital Onset / Onset X Flatbed Industrial UV Inkjet Press (2000)
 
@@ -134,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Inpeco FlexLab product launch 2003 (formerly Bracco Diagnostics laboratory automation); patent family WO2003079030 et seq.
 - **ip status**: patented
 - **prior art notes**: Discloses pre-analytical sample-handling automation as a microfluidic system at the macro (mL) scale: each patient sample tube is transported individually on a puck through a sequence of modular processing stations; the aliquoter module performs sub-mL precision pipettor metering of plasma/serum into daughter tubes destined for different analyzers, and is microfluidic (sub-mL precision dispensing under primary-tube-derived sample volume budget) at the limit. Anticipates: lab automation as a 'macro-microfluidic' sample-routing problem requiring per-tube identification + per-tube routing + per-tube metered dispensing; the Inpeco architecture (open-vendor track) competes with closed-vendor tracks (Roche cobas connection module, Abbott Accelerator a3600, Siemens Aptio Automation). Foundational for the >$2B/yr lab automation market and for understanding the fluidic-engineering boundary between pre-analytical (macro, tube-level) and analytical (micro, cuvette-level) operations.
+
+## Battlestar Galactica Cylon resurrection tank (re-imagined series) (2004)
+
+- **id**: `bsg-cylon-resurrection-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ronald D. Moore / Universal Television
+- **disclosure**: Battlestar Galactica miniseries (Sci Fi Channel 2003); resurrection tank introduced in 'Resistance' (2005); detailed in 'Downloaded' (2006) and 'Hero' (2006).
+- **ip status**: fictional
+- **prior art notes**: Iconic explicit fluid-cloning depiction. The resurrection tank is depicted as a translucent vat filled with viscous nutrient/regenerative fluid, in which a Cylon's downloaded consciousness manifests in a freshly-grown body. The 'Downloaded' episode (S2E18, 2006) provides extensive on-screen depictions: vat geometry, fluid-perfusion lines, environmental control, and medical attendants extracting the newly-downloaded Cylon. The 'Hero' (S3E8) episode details the Resurrection Ship infrastructure as an industrialized network of tanks. Architecturally anticipates: closed-vat whole-body biological grow-tank with integrated upload/download interface, mass-resurrection facility with networked tanks, and biological-template + electronic-mind merge facility. Strong fictional prior art for whole-body cloning vats, tied to detailed visual depictions across 4 seasons (2003-2009).
 
 ## ExOne X1-Series Industrial Metal Binder-Jet System (2005)
 
@@ -224,6 +294,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FUJIFILM Dimatix Samba product datasheet, drupa 2012 introduction; deployed in Heidelberg Primefire 106 (2016); SAMBA G3L and G5L variants documented at fujifilm.com/us/en/business/inkjet-solutions/industrial-printheads
 - **ip status**: patented
 - **prior art notes**: Discloses a tile-able silicon MEMS printhead with thin-film PZT actuators, integrated through-die ink recirculation behind the nozzle plate (RediJet), and a multi-pulse VersaDrop waveform that produces variable-volume drops from a single nozzle without changing chamber geometry. Anticipates: (a) per-die recirculation as a continuous countermeasure against nozzle clogging in industrial single-pass printing, (b) tile-and-stitch single-pass architectures at B1 sheet width using stitched silicon dies, (c) thin-film-PZT-on-silicon as the actuator class for 1200-npi industrial inkjet. Used as the print engine of Heidelberg Primefire 106 and many graphic-arts and PCB-deposition single-pass machines.
+
+## QIAGEN QIAcube HT Sample Prep (2013)
+
+- **id**: `qiagen-qiacube-ht-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: QIAGEN N.V.
+- **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
 
 ## Elveflow OB1 pressure controller (2014)
 
@@ -335,6 +415,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The TAGSAM head is a gas-fluidized sample acquisition cartridge — relevant to the microfluidics corpus as a non-canonical fluidic system: pressurized N2 jets fluidize asteroid regolith into the collection chamber, then the chamber is sealed with an O-ring against contamination. Element-by-element prior art for: (a) gas-fluidized loose-particulate sampling cartridges with sealed return architecture (anticipates terrestrial industrial fluid-bed dry-sample collectors and bio-aerosol capture cartridges); (b) the integration of multiple sample-capture methods on one head (gas jets + Velcro contact pads) anticipates patents claiming hybrid dry-sampling cartridges; (c) the curation chain from in-flight sealed canister -> Earth-return capsule -> JSC nitrogen glove-box curation establishes a published cleanroom protocol for friable carbonaceous samples that anticipates Mars Sample Return curation patents. Patent citation is for the Lockheed-developed sample capture architecture.
 
+## Hamilton Microlab Vantage NA Extraction Workstation (2017)
+
+- **id**: `hamilton-microlab-vantage-na-extraction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Hamilton Robotics
+- **disclosure**: Hamilton Microlab Vantage launch 2017; product datasheet 391413/00; method library include for NA extraction (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
+
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 
 - **id**: `mars2020-pixl-fluidic-flush`
@@ -374,6 +464,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oxford Nanopore Technologies R10.4.1 / Kit 14 release announcement at London Calling 2022, 2022-05-19. https://nanoporetech.com/.
 - **ip status**: patented
 - **prior art notes**: Successor flow cell generation to R9.4.1, with the R10.4.1 pore (a dual-reader CsgG-derived protein pore) integrated into the same MinION/GridION/PromethION housing. The fluidic and electronic architecture - lipid bilayer over a MEMS sensor array, ASIC-based real-time current readout - is unchanged; the innovation is the pore itself plus ATP-driven motor changes. Anticipates: per-pore accuracy improvements via dual-reader pores; the architectural pattern of in-place pore upgrades within the same flow cell housing across multiple kit generations.
+
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
+## Ultima Genomics UG100 W-series Wafer Flow Cell (2024)
+
+- **id**: `ultima-genomics-100ug-100w-wafer-flowcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ultima Genomics Inc.
+- **disclosure**: Ultima Genomics product update 2024; AGBT 2024 abstract; US11434531B2 / US11486003B2 (Ultima open-substrate sequencing patents)
+- **ip status**: patented
+- **prior art notes**: Discloses a sequencing-by-synthesis architecture in which a 200 mm patterned silicon wafer is spun on a chuck while reagents are dispensed centrally and distributed by centrifugal force to all bead-binding sites simultaneously. Anticipates: open-substrate massively parallel sequencing dispensing reagents by radial centrifugal coating instead of channelized flow; pairing of wafer-scale TDI line-scan imaging with patterned bead anchors; wafer-format scale-up of sequencing throughput by enlarging the substrate rather than increasing channel density. Distinguishes from all enclosed-flowcell sequencers (Illumina, Element, MGI) and is itself unanticipated by them. The W-series specifically scales to a 200 mm wafer (vs prior UG100 chip).
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

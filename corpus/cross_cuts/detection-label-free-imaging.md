@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-label-free-imaging`
 
-**23 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter Vi-CELL XR launch 2003; product datasheet; pharmaceutical bioprocess QC adoption (USP <90>)
 - **ip status**: patented
 - **prior art notes**: Discloses an automated Trypan Blue dye-exclusion cell viability instrument with a flow-cell-capillary image-based discrimination architecture: peristaltic pump aspirates sample from cup, mixes 1:1 with Trypan Blue, transports plug into a 100-µm-deep glass flow capillary positioned in the focal plane of a 10x microscope objective with CCD imaging, and applies image-based discrimination (membrane-intact cells exclude dye and appear bright; membrane-compromised cells absorb dye and appear dark blue). The instrument autoflushes between samples. Anticipates: image-based Trypan Blue cell viability automation for bioreactor monitoring; CHO/Sf9/HEK QC use as a pharmacopeial method; the architectural choice of flow-cell + brightfield imaging vs flow cytometry + propidium iodide for the same endpoint.
+
+## optek-Danulat AF26 Absorption / Turbidity Sensor (2005)
+
+- **id**: `optek-af26-turbidity`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: optek-Danulat GmbH
+- **disclosure**: optek-Danulat GmbH AF26 product literature; sensor introduced ~2005; product datasheet rev 2018
+- **ip status**: patented
+- **prior art notes**: Discloses an inline turbidity / absorption sensor with sapphire windows in a stainless flow cell, NIR LED + photodiode pair across the optical path, signal proportional to cell-density-times-pathlength. Used as in-line PAT for fermentation cell-density measurement and downstream chromatography elution monitoring. Anticipates: inline sapphire-windowed turbidity probe architecture for high-temperature/high-pH-tolerant PAT; combined absorption + scattering measurement in a single flow cell. Element-by-element: stainless flow body + sapphire windows + LED source + photodiode detector + transmitter electronics.
 
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
@@ -84,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Instrumentation Laboratory ACL TOP 700 launch 2010; ACL TOP 750 launch 2014; FDA 510(k) K141728
 - **ip status**: patented
 - **prior art notes**: Discloses an optical-detection coagulation analyzer with a four-wavelength LED illumination + photodiode receiver per cuvette: 405 nm for clot turbidity (PT/aPTT) and chromogenic substrate absorbance (e.g., antithrombin); 575 nm correction wavelength for hemoglobin/icterus interference; 671 nm for immunoturbidimetric (D-dimer); 810 nm for HIL flagging and longer-wavelength immunoturbidimetric. The fluid handler integrates automated cap piercing, primary-tube sampling, automated dilutions, and on-board reagent reconstitution. Anticipates: multi-wavelength optical coag detection consolidating clot/chromogenic/immunoturbidimetric assays in a single-cuvette format; HIL flagging by absorbance ratiometry. Direct competitor architecture to Stago (mechanical) and Sysmex CS series.
+
+## Bio-Rad TC20 Automated Cell Counter (2013)
+
+- **id**: `biorad-tc20-cell-counter`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Bio-Rad Laboratories
+- **disclosure**: Bio-Rad TC20 product launch 2013; Bio-Rad Bulletin 6003; Bio-Rad TC20 user manual; predecessor TC10 launched 2009
+- **ip status**: patented
+- **prior art notes**: Discloses a brightfield-only automated cell-counter using a disposable hemocytometer-format slide and trypan-blue staining for viability discrimination. Architecturally simpler than Countess 3 (no fluorescence) and Cellaca (no plate format); represents the bench-minimum form factor of the broader category. Anticipates: brightfield-only autofocus cell-counting with disposable slide as the consumable boundary. Element-by-element: disposable slide + brightfield imaging + autofocus + segmentation + count.
 
 ## Haemonetics TEG 6s Thromboelastography Microfluidic Cartridge (2014)
 
@@ -165,6 +185,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses VCSn technology: simultaneous Volume (low-frequency Coulter impedance for DC volume), Conductivity (high-frequency RF impedance probing internal cell density), and 5-angle Light Scatter (axial light loss + multiple side-scatter angles for granularity, lobularity, complexity) in a single hydrodynamically-focused fluidic stage. The fluid path co-locates the impedance aperture and the optical interrogation zone so each cell event is measured by all modalities within microseconds. Anticipates: combined impedance + multi-angle scatter cytometry on a single flow cell for hematology classifier inputs; 'NEW' designation marks redesigned aperture geometry vs the LH series predecessor. Element-by-element: dilution chamber, sheath formation, aperture-with-electrodes, laser interrogation downstream, post-aperture flush.
 
+## Cellenion cellenONE X1 (formerly F1.4) (2017)
+
+- **id**: `cellenion-cellenone-x1-single-cell-printer`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Cellenion (a SCIENION company)
+- **disclosure**: SCIENION/Cellenion product literature 2017; Schoof et al., Nat Commun 12:3341 (2021), doi:10.1038/s41467-021-23667-y (SCoPE-MS using cellenONE); EP3431618 family
+- **ip status**: patented
+- **prior art notes**: Discloses a piezo-driven on-demand single-cell dispenser combining sub-nanoliter droplet ejection with closed-loop optical inspection of the nozzle reservoir, gating dispense on detection of exactly one cell within the droplet field of view. Anticipates: image-gated single-cell isolation into wellplates without sorting (no fluidic FACS pressurization, no microfluidic chip required); deposition of single cells with sub-nanoliter accompanying volume to enable downstream low-input proteomics or genomics; reservoir-based piezo nozzle that recirculates uncommitted cells. Anticipates claims to single-cell printers using machine-vision verification before each ejection event.
+
 ## Refeyn TwoMP / OneMP mass photometer with microfluidic flow cell (2018)
 
 - **id**: `refeyn-twomp-mass-photometry`
@@ -195,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Although SHERLOC has minimal classical fluidics, it is a load-bearing prior art entry for the broader 'in-situ life detection' patent landscape because it discloses (a) a deep-UV resonance-Raman + native-fluorescence dual-mode standoff cartridge architecture as an alternative to wet-chemistry GCMS for organic detection, (b) a co-mounted optical micrometer (WATSON) providing context imaging for spectroscopic point picks, and (c) the use of polymer/fabric witness samples on the calibration target as a vehicle for additional in-flight prior-art disclosure (the spacesuit Vectran/polycarbonate samples become public-domain prior art for astronaut suit polymers by virtue of being launched). For invalidation purposes, SHERLOC anticipates any claim to a deep-UV (sub-260 nm) raster-Raman cartridge for biosignature detection or any claim to a combined Raman/LIF standoff astrobiology head with mineralogical context co-imaging.
 
+## Berkeley Lights Lightning Optofluidic System (2019)
+
+- **id**: `berkeley-lights-lightning`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights Inc. (now PhenomeX)
+- **disclosure**: Berkeley Lights Lightning product launch 2019; Berkeley Lights S-1 SEC filing 2020-06; OptoElectroPositioning patent estate US9,023,628B2
+- **ip status**: patented
+- **prior art notes**: Variant of the Berkeley Lights OptoSelect / Beacon architecture in which the optoelectronic positioning array is paired with on-chip imaging and a transfection workflow within the NanoPen chambers — distinct from the original Beacon (cell-line development focus) by including transfection-after-isolation as a single integrated workflow. Anticipates: optoelectronic-positioning chip extended with on-chip transfection events triggered after single-cell isolation; combined imaging + delivery in the same chamber array. Element-by-element: photoconductor array + NanoPen chamber + objective + on-chip pulse/cargo flush + clonal recovery export.
+
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 
 - **id**: `mars2020-pixl-fluidic-flush`
@@ -204,6 +244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Allwood AC et al., 'PIXL: Planetary Instrument for X-ray Lithochemistry,' Space Science Reviews 216:134 (2020), doi:10.1007/s11214-020-00767-7
 - **ip status**: public-domain
 - **prior art notes**: PIXL's microfluidic relevance lies in its low-pressure helium gas purge subsystem and in being the most spatially-resolved astrobiology-grade elemental mapping instrument on another planet. Element-by-element prior art disclosure: (a) gas-purge enclosure of an X-ray beam path on a robotic arm as a workaround for thin-atmosphere absorption losses anticipates patents claiming pressurized-gas-purge atmospheric-isolation envelopes for spectroscopic instruments on planetary rovers, (b) the hexapod 6-DOF micro-positioning system with 50 µm placement repeatability for a microspectroscopy instrument anticipates equivalent industrial precision-fluidic-positioning patents, and (c) PIXL's tight co-registration with SHERLOC's deep-UV map provides prior art for any 'integrated multi-modal arm-mounted astrobiology head' architecture. Co-cite with mars2020-sherloc-spectrometer for the broader Mars 2020 arm-mounted instrument pattern.
+
+## Thermo Fisher Countess 3 / Countess 3 FL Automated Cell Counter (2020)
+
+- **id**: `thermofisher-countess-3`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Thermo Fisher Scientific (Invitrogen)
+- **disclosure**: Thermo Fisher Scientific Countess 3 product launch 2020; Countess II original launch 2014; user guide MAN0019150 rev 1.0; predecessor patent estate US8,481,332B2 (Invitrogen, Countess hemocytometer slide)
+- **ip status**: patented
+- **prior art notes**: Discloses an automated hemocytometer architecture in which a disposable two-chamber slide is loaded by capillary action with sample + trypan blue stain (or unstained for fluorescence); the instrument autofocuses, acquires brightfield + optional fluorescence images, segments cells, and computes total/dead/viable counts. The Countess 3 generation adds two-channel fluorescence and improved imaging optics. Anticipates: automated brightfield+fluorescence cell-counting on a disposable hemocytometer slide with embedded counting chambers. Element-by-element: disposable slide + brightfield/fluorescence imaging + autofocus + cell-segmentation algorithm + count display.
 
 ## Rockley Photonics Bioptx Multi-Analyte Wearable (2021-08-31)
 

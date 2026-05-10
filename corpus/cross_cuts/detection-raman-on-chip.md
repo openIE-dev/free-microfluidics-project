@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-raman-on-chip`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018
+Earliest disclosure: 2010
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Sartorius BioPAT Process Analytical Technology Suite (2010)
+
+- **id**: `sartorius-biopat-pat-framework`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sartorius AG
+- **disclosure**: Sartorius BioPAT product line introduced ~2010 with BioPAT MFCS SCADA; BioPAT ViaMass capacitance launched 2018; Sartorius product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a vertically-integrated PAT framework where multiple in-line probes (capacitance, Raman, DO, pH) feed a unified SCADA layer (BioPAT MFCS) that supports model-based and closed-loop process control. Anticipates: the architectural pattern of treating PAT as a software-integrated suite rather than a collection of independent probes; closed-loop bioprocess control where a probe-derived state (cell density, glucose concentration) directly modulates a feed pump. Element-by-element: probe array + transmitter rack + MFCS SCADA + closed-loop controller + bioreactor actuator (feed pump, gas valve).
 
 ## Mars 2020 Perseverance SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals) (2018)
 

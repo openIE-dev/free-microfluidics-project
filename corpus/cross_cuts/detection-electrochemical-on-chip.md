@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**43 corpus entries disclose this subsystem.**
+**50 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a continuous inkjet method in which a pressurized fluid is forced through a small orifice while a piezoelectric transducer modulates the jet to produce a uniform stream of droplets, and an electrostatic field controllably disperses charged droplets to vary the number that pass an aperture and reach the substrate, thereby producing greyscale by stochastic drop attenuation rather than binary deflection. Anticipates: (a) Hertz-style 'binary disperse' CIJ greyscale printing later commercialized by Iris Graphics and Stork; (b) the use of a vibrating glass capillary as the drop-generation primitive; (c) charge-based per-drop selection downstream of break-off. Foundational to all multi-tone continuous inkjet imaging.
 
+## Dune Bene Gesserit poison-snooper / chemical microsensor (1965)
+
+- **id**: `dune-bene-gesserit-poison-snooper`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; appendix and dinner-scene descriptions of the poison snooper apparatus.
+- **ip status**: fictional
+- **prior art notes**: Herbert's Dune describes the 'poison snooper' — a small device hung over food/drink that performs continuous chemical sensing for poisons. The novel's appendix and dialogue describe an apparatus that draws air/vapor samples and performs assay. Defensive prior art for: portable chemical-sensor air-sampling devices, real-time food/drink contamination detection, and continuous-monitoring point-of-use sensors. The 1965 publication anchors the concept of an always-on portable analytical chemistry instrument decades before commercial portable mass-specs.
+
 ## Sysmex hematology analyzer flow cell (1968)
 
 - **id**: `sysmex-cbc-cartridge`
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex Corporation hematology analyzer family (XN-1000, XN-2000, etc.). https://www.sysmex.com
 - **ip status**: patented
 - **prior art notes**: Microfluidic flow-cell architecture for clinical hematology counting (CBC differential): Coulter-impedance counting + flow cytometry + reagent mixing on integrated cartridge. Sysmex is the dominant global hematology analyzer vendor with a long history of flow-cell innovation predating the µTAS era. The flow-cell architectures used in modern Sysmex XN-series instruments are direct descendants of 1970s-era Coulter Counter and Technicon SMA designs but at substantially smaller scale.
+
+## Ursula K. Le Guin Left Hand of Darkness Gethenian kemmer biology (1969)
+
+- **id**: `le-guin-left-hand-gethenian-biology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ursula K. Le Guin
+- **disclosure**: Ursula K. Le Guin, The Left Hand of Darkness (Ace 1969) ISBN 0-441-47812-3.
+- **ip status**: fictional
+- **prior art notes**: Le Guin describes Gethenian biology and kemmer-cycle hormonal triggering in detail. Anthropological-investigation passages depict on-planet physiological-research clinics performing endocrine sampling and hormonal-state assays. Defensive prior art for cross-cultural endocrine-cycle clinical research and hormonal-state assay clinics. Mark draft due to thinner explicit fluidics.
 
 ## LifeScan / OneTouch glucose test strip (1981)
 
@@ -55,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of integrated-blood-gas-and-chemistry POC cartridge: a single-use cartridge with sample-handling chamber, calibrant pouch, electrochemical sensor array, and reagent reservoirs in injection-molded thermoplastic. The i-STAT cartridge is among the longest-running and highest-volume POC cartridges in clinical use (1990s onward). Anticipates: integrated-biochemistry-cartridge architecture combining electrolyte, blood gas, and metabolite measurements in a single bedside device.
 
+## Mettler-Toledo InPro 6800 / 6850 Dissolved Oxygen Sensor (1995)
+
+- **id**: `mettler-toledo-inpro-6800-do`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mettler-Toledo Process Analytics
+- **disclosure**: Mettler-Toledo InPro 6800 polarographic DO sensor product introduction mid-1990s; InPro 6850 optical successor introduced ~2010; Mettler-Toledo Process Analytics product literature; US patent US7,022,505B1 (Mettler-Toledo, optical oxygen sensor)
+- **ip status**: patented
+- **prior art notes**: Discloses two architectures: the InPro 6800 implements a Clark-cell polarographic DO measurement (Pt cathode, Ag/AgCl anode, electrolyte-filled chamber, PTFE gas-permeable membrane); the InPro 6850 implements a luminescence-lifetime optical DO measurement (luminophore in polymer matrix, LED excitation, photodiode detection of fluorescence-decay phase shift). Anticipates: paired polarographic and optical DO architectures with shared probe-body form factor and digital ISM interface, allowing process-development to validate either sensor type in interchangeable ports. Element-by-element: probe body + sensing element (membrane + electrolyte / optical spot) + signal-processing electronics + digital interface.
+
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
 - **id**: `roche-elecsys-ecl-reagent-cassette`
@@ -75,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
 
+## Halo MJOLNIR Smart-Link armor-to-medbay biotelemetry (2001)
+
+- **id**: `halo-smart-link-armor-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries / Eric Nylund
+- **disclosure**: Halo: The Fall of Reach (Nylund 2001); Halo Encyclopedia (DK 2009); Halo 4 (343 Industries, 2012) on-screen Smart-Link HUD.
+- **ip status**: fictional
+- **prior art notes**: MJOLNIR armor continually telemeters wearer biometrics (heart rate, blood gas, hydration, neural activity, wound status) to UNSC medical infrastructure. Architecturally anticipates wearable continuous biosensor + secure radio uplink + clinical decision support feedback loop. Defensive prior art for: combat-armor-integrated continuous biosensor arrays, real-time triage uplink to remote medical AI, and biosensor-driven autonomous drug-delivery decisions.
+
 ## Werfen GEM Premier 5000 blood gas cartridge (2002)
 
 - **id**: `instrumentation-laboratory-gem-premier`
@@ -84,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen Instrumentation Laboratory GEM Premier system. https://www.werfen.com
 - **ip status**: patented
 - **prior art notes**: Cartridge-based blood gas analyzer with extended on-cartridge calibration and quality control. The GEM Premier cartridge contains all reagents, calibrants, and waste reservoirs sufficient for several hundred patient samples before replacement. Architectural cousin of i-STAT and Siemens epoc but at higher per-cartridge throughput. Reference for the multi-sample-cartridge POC blood gas segment.
+
+## Endress+Hauser Memosens Digital Sensor Platform (2004)
+
+- **id**: `endress-hauser-memosens-digital-probe`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Endress+Hauser AG
+- **disclosure**: Endress+Hauser Memosens digital sensor architecture introduced 2004; Memosens 2.0 enhanced security 2017; US patent US7,368,920B2 (Endress+Hauser, inductive digital sensor connector)
+- **ip status**: patented
+- **prior art notes**: Discloses a digital sensor architecture with inductive (transformer-coupled) connector that eliminates wetted electrical contacts: the probe head contains a transformer half-coil and the cable contains the matching half-coil; communication and power transfer occur inductively across the boundary. Calibration data is resident in the probe, allowing the probe to be moved between transmitters or recalibrated off-line then re-installed. Anticipates: inductive-coupled digital sensor connector as alternative to galvanic connector (eliminates contact corrosion and ground-loop issues in process plants); resident-calibration probe architecture for hot-swap workflows. Closely related to Hamilton Arc; differentiated by the inductive coupler vs Hamilton's galvanic digital connector.
 
 ## Siemens epoc Blood Analysis System cartridge (2006)
 
@@ -134,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hecht MH et al., 'Detection of Perchlorate and the Soluble Chemistry of Martian Soil at the Phoenix Lander Site,' Science 325(5936):64-67 (2009), doi:10.1126/science.1172466; Kounaves SP et al., 'The MECA Wet Chemistry Laboratory on the 2007 Phoenix Mars Scout Lander,' JGR Planets 114:E00A19 (2009), doi:10.1029/2008JE003084
 - **ip status**: public-domain
 - **prior art notes**: Discloses a planetary in-situ wet chemistry cartridge architecture: a sealed disposable reaction beaker with integrated multi-ion electrochemical sensor array on the cell wall, dry-stored reagent pellets released by a mechanical dispenser, and a magnetic stir bar for homogenization. Element-by-element prior art for: (a) any cartridge claim that integrates an ISE array on a single beaker wall with a multi-ion readout (Li, Na, K, NH4, Mg, Ca, Cl, NO3, Br, perchlorate-sensitive); (b) the standard-addition titration protocol implemented through sequential dry-pellet dissolution (the BaCl2 -> SO4 turbidity step, the HNO3 acidification step) anticipates patents on dry-reagent diagnostic cartridges that perform sequential reagent additions for water-quality analysis; (c) the integration of cyclic voltammetry on the same beaker as ion-selective potentiometry anticipates multi-modal electrochemical cartridge designs. The Phoenix WCL is one of two flight precedents (with Viking Biology Instrument) for in-situ aqueous chemistry on a planetary surface.
+
+## BlueSens BlueInOne Cell Off-Gas Analyzer (2008)
+
+- **id**: `bluesens-blueinone-offgas`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: BlueSens gas sensor GmbH
+- **disclosure**: BlueSens gas sensor GmbH BlueInOne product launch 2008; BlueInOne Cell datasheet rev 2018; US patent US8,691,143B2 (BlueSens, off-gas analysis)
+- **ip status**: patented
+- **prior art notes**: Discloses a compact off-gas analyzer combining electrochemical O2 measurement and NDIR (non-dispersive infrared) CO2 measurement in a single rack-mount unit, with sample-conditioning (gas drier, particulate filter) integrated; sample gas is drawn from bioreactor exhaust at low flow; OUR/CER calculated from inlet vs outlet partial-pressure difference. Anticipates: combined O2/CO2 off-gas analyzer in a compact form factor suitable for distributed deployment at each bioreactor (vs centralized mass spec); sample-conditioning train integration. Element-by-element: gas inlet + drier + filter + electrochemical O2 cell + NDIR CO2 cell + outlet to atmosphere + RS485/Profibus output.
 
 ## Abbott FreeStyle Navigator Continuous Glucose Monitor (2008-03-12)
 
@@ -194,6 +254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yetisen, A. K.; Akram, M. S.; Lowe, C. R. Lab Chip 2013, 13, 2210; cumulative Whitesides-group µPAD II/III publications 2008-2014.
 - **ip status**: patented
 - **prior art notes**: Systematic Whitesides-group disclosures extending µPAD architecture from the 2007 foundational disclosure: 3D µPADs (multi-layer paper assembly), electrochemical µPADs (printed electrodes on paper), µPADs with fluorescence detection. Cumulative Whitesides-group µPAD patent filings cover much of the broader paper-microfluidic patent landscape.
+
+## Sartorius BioPAT Process Analytical Technology Suite (2010)
+
+- **id**: `sartorius-biopat-pat-framework`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Sartorius AG
+- **disclosure**: Sartorius BioPAT product line introduced ~2010 with BioPAT MFCS SCADA; BioPAT ViaMass capacitance launched 2018; Sartorius product literature 2010-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a vertically-integrated PAT framework where multiple in-line probes (capacitance, Raman, DO, pH) feed a unified SCADA layer (BioPAT MFCS) that supports model-based and closed-loop process control. Anticipates: the architectural pattern of treating PAT as a software-integrated suite rather than a collection of independent probes; closed-loop bioprocess control where a probe-derived state (cell density, glucose concentration) directly modulates a feed pump. Element-by-element: probe array + transmitter rack + MFCS SCADA + closed-loop controller + bioreactor actuator (feed pump, gas valve).
 
 ## Ion Torrent semiconductor sequencing chip (2011)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**48 corpus entries disclose this subsystem.**
+**56 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1980
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
+
+- **id**: `dune-stillsuit-1965-original`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; pages 110-112 'Manual of Muad'dib' detailing stillsuit construction.
+- **ip status**: fictional
+- **prior art notes**: Original 1965 published description of a wearable, closed-loop body-fluid reclamation suit. Herbert's text gives unusually engineering-grade specifics: 'a high-efficiency filter and heat-exchange system. The skin-contact layer's perspiration passes through it, having cooled the body, and is reclaimed... your motions in the suit, especially of breathing and some osmotic action, provide the pumping force. Reclaimed water circulates to catchpockets from which you draw it through this tube...'. Architecturally anticipates: wearable closed-loop microfluidic body-water reclamation, breath/perspiration capture and recycling, body-motion-driven peristaltic pumping, and integrated drinking-tube delivery. The 1965 first publication date is one of the strongest fictional anchors for wearable microfluidic body-fluid reclamation as a concept (~60-year defensive prior art window).
 
 ## 3M (now Neogen) Petrifilm food microbiology plates (1980)
 
@@ -84,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott BinaxNOW product family (originally Binax Inc., acquired by Inverness/Alere then Abbott). FDA EUA December 2020 for COVID-19 antigen.
 - **ip status**: patented
 - **prior art notes**: Lateral-flow rapid antigen cartridge with cassette housing, swab application port, buffer well, and double-line readout. Architecturally a follow-on to OraSure-class lateral-flow cassettes; commercially the dominant US over-the-counter COVID-19 home test 2020–2023. Anticipates: integrated cassette-housing + buffer-well + swab-port form factor that defined the COVID-era rapid-antigen test category.
+
+## Stargate Atlantis Wraith feeding hand and stunner extraction biology (2004)
+
+- **id**: `stargate-atlantis-wraith-feeding-hand`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brad Wright / Robert C. Cooper
+- **disclosure**: Stargate Atlantis 'Rising' (Sci Fi 2004); 'Hide and Seek' (S1E3, 2004); life-extraction mechanics throughout series 2004-2009.
+- **ip status**: fictional
+- **prior art notes**: Wraith feeding hand depicted as a biological organ that, on contact with human skin, extracts cellular life-force through a specialized vasculature. Borderline; defensive prior art for: skin-contact biological extraction interfaces, vampiric-extraction biological pumps, transdermal cellular-fluid extraction.
 
 ## Nova StatStrip Glucose/Ketone Hospital Test Strip (2006)
 
@@ -445,6 +465,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
 
+## Abbott BinaxNOW COVID-19 Antigen Self Test (OTC) (2021-03)
+
+- **id**: `abbott-binaxnow-self-test-otc-2021`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Diagnostics
+- **disclosure**: Abbott BinaxNOW Antigen Self Test FDA EUA 2021-03-31; product user manual
+- **ip status**: patented
+- **prior art notes**: Discloses a folded-card lateral-flow antigen test designed for OTC consumer use with integrated swab and instrument-free visual readout. Anticipates: folded-card consumer form factor for paper-based lateral-flow molecular diagnostics with attached sampling apparatus and OTC-grade instructions.
+
 ## Clearblue Connected Digital Pregnancy Test (Bluetooth) (2021-06)
 
 - **id**: `clearblue-connected-digital-pregnancy`
@@ -475,6 +505,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use sweat patch with a passive microfluidic network distributing sweat to colorimetric reagent pads, with a reusable optical reader puck snapping onto the patch and streaming hydration estimates to phone. The reader sees absorbance changes as sweat fills successive chambers. Anticipates: hybrid disposable-patch-plus-reusable-reader microfluidic architectures; capillary-routed colorimetric hydration tracking.
 
+## Detect Inc. COVID-19 RT-LAMP Cartridge (2021-10)
+
+- **id**: `detect-inc-covid-19-rt-lamp-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect Inc.
+- **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
+- **ip status**: patented
+- **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## Aspara CRISPR-based Detection Cartridge (2022)
+
+- **id**: `aspara-crispr-detection-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aspara Pte Ltd.
+- **disclosure**: Aspara Pte Ltd. product literature 2022; SG patent application
+- **ip status**: patented
+- **prior art notes**: Discloses a regional Asian-market CRISPR diagnostic cartridge integrating RT-RPA + Cas12a + lateral-flow strip in a single disposable. Anticipates similar regional-market CRISPR diagnostic cartridge architectures.
+
+## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
+
+- **id**: `mammoth-detectr-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mammoth Biosciences Inc.
+- **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
+- **ip status**: patented
+- **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Lucira Check-It Flu+COVID Home Test (2023-02)
+
+- **id**: `lucira-check-it-flu-covid-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lucira Health (acquired by Pfizer 2023)
+- **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
+- **ip status**: patented
+- **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
 ## Medtronic Simplera Disposable CGM (2023-09-21)
 
 - **id**: `medtronic-simplera-cgm`
@@ -484,6 +554,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Medtronic press release 2023-09-21 (CE Mark); FDA clearance K232973 August 2024
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable CGM in which the sensor electronics, applicator, and on-skin patch are unified into a single throwaway unit (versus reusable transmitter clipping onto disposable sensor base). Anticipates: integrated-electronics disposable CGM architecture; one-handed two-step insertion mechanisms; the consumer simplification driving the all-in-one form factor adopted by Dexcom G7 and Abbott Libre 3.
+
+## Sherlock Biosciences SHERLOCK Cartridge (2024)
+
+- **id**: `sherlock-biosciences-sherlock-cartridge-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sherlock Biosciences Inc.
+- **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
 
 ## Dexcom Stelo Glucose Biosensor System (2024-03-05)
 

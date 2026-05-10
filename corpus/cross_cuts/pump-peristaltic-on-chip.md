@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-peristaltic-on-chip`
 
-**18 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
 
+## MaxCyte STX Scalable Transfection System (2007)
+
+- **id**: `maxcyte-stx-flow-electroporation`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte Inc. STX product launch 2007; US patent US7,029,916B2 (Flow electroporation chamber, granted 2006, priority 2002); MaxCyte Inc. SEC S-1 (2021)
+- **ip status**: patented
+- **prior art notes**: Discloses a flow-through electroporation chamber: cells in suspension are pumped between parallel planar electrodes spaced for uniform field; pulse generator delivers shaped electric pulses to volumes of cells transiting the chamber; cargo (DNA/RNA/protein) is co-suspended; output collected sterile downstream. Anticipates: continuous-flow electroporation as alternative to cuvette-batch (Lonza Nucleofector predecessor architecture); use of disposable single-use chamber decoupled from reusable instrument body; protocol-library transfer between research-scale (STX) and GMP-scale (GTx) processing assemblies. Element-by-element: peristaltic infeed + parallel-plate disposable chamber + pulse forming network + sterile collection bag.
+
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
 - **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
@@ -85,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Microplate dispenser/washer with peristaltic-pump-based reagent dispensing into 96/384/1536-well plates. Reference for the broader 'plate-format dispenser' product category that competes with Echo acoustic dispensing on cost and fluid compatibility (more inclusive of viscous fluids that Echo handles poorly).
 
+## Biosafe SmartMax Closed Cell Therapy Cryopreservation / Fill (2010)
+
+- **id**: `biosafe-smartmax-small-volume-fill`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Biosafe SA (acquired 2014 by GE Healthcare, now Cytiva)
+- **disclosure**: Biosafe SA SmartMax product literature ~2010; Biosafe acquired by GE Healthcare 2014, now Cytiva; product literature 2014-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a closed-system fill apparatus that transfers a cell-therapy product from a Sepax-class processing bag into a small-volume cryobag with controlled cryoprotectant addition; integrated with downstream controlled-rate freezing. Anticipates: closed-train cryopreservation fill workflow for autologous cell therapy where cryoprotectant is mixed at controlled rate during fill (managing osmotic shock to cells). Element-by-element: input cell-product bag + cryoprotectant reservoir + peristaltic mixing junction + small-volume cryobag + sterile weld interfaces.
+
 ## Pearce Lab MOST Open Scientific Hardware Suite (2012)
 
 - **id**: `pearce-most-open-hardware-suite`
@@ -104,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Christner BC et al., 'A microbial ecosystem beneath the West Antarctic ice sheet,' Nature 512:310-313 (2014), doi:10.1038/nature13667; Priscu JC et al., 'Scientific access into Mercer Subglacial Lake: scientific objectives, drilling operations and initial observations,' Annals of Glaciology 62:340-352 (2021)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses the cleanest-published terrestrial protocol for retrieving microbiologically-pristine subsurface aqueous samples — the most directly cited prior art for any future Europa/Enceladus subsurface life detection mission. Element-by-element: (a) hot-water drill with multi-stage HEPA + 0.2 µm filtration + UV-C sterilization of drill water anticipates patents claiming planetary subsurface drilling fluid sterilization architectures; (b) Sterivex closed-cartridge format with sealed inlet/outlet for downstream nucleic acid extraction without breaking sterility anticipates planetary sample-handling cartridges that must preserve sterility from sample-take through analysis; (c) the published clean-tent protocols and contamination-control budgets are open prior art that any 'planetary protection' patent would have to overcome. WISSARD/SALSA are the gold standard for terrestrial-analog subsurface-ocean sampling.
+
+## MaxCyte GTx Flow Electroporation System (2014)
+
+- **id**: `maxcyte-gtx-gmp-electroporator`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte GTx CE-mark and 510(k) clearance documentation 2014; MaxCyte Inc. SEC S-1 (2021); US patent US7,029,916B2 (parent flow-electroporation chamber)
+- **ip status**: patented
+- **prior art notes**: GMP-grade variant of the STX flow-electroporation chamber, packaged with traceable single-use assembly and 21 CFR Part 11 control electronics. Anticipates: closed-system clinical electroporation of patient-derived cells where the entire fluid path is single-use, sterile-welded to upstream apheresis bag and downstream wash/formulation, controlled by a regulated audit-trail electronics stack. Element-by-element: weldable inlet + disposable parallel-plate chamber + sterile collection bag + GMP audit-trail SCADA. Distinguishable from MaxCyte STX (research-grade) by the GMP cartridge and software, not the underlying electrochemistry.
 
 ## Beta Bionics iLet Bionic Pancreas (2014-06-15)
 
@@ -125,6 +155,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
 
+## Vanrx SA25 Aseptic Filling Workcell (now Cytiva Microcell Vial Filler) (2015)
+
+- **id**: `vanrx-sa25-aseptic-workcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Vanrx Pharmasystems Inc. (acquired 2021 by Cytiva)
+- **disclosure**: Vanrx Pharmasystems SA25 product launch 2015; US patent US10,723,492B2 (Apparatus and method for aseptic processing, Vanrx, priority 2014); Vanrx acquired by Cytiva 2021-09
+- **ip status**: patented
+- **prior art notes**: Discloses a robotic aseptic-filling workcell in which pre-sterilized nested RTU vials are handled by a robot inside a VHP-decontaminated isolator; a peristaltic-pump-driven fill train dispenses through a sterile needle (or needle-less) into vials with closed-loop volume control; vials are sealed and crimped within the isolator. Anticipates: robotic gloveless aseptic vial-filling architecture (distinct from rotary filling lines which require human intervention or open transfers); pre-sterilized nested vial format integrated with robotic handling; sub-mL precision fill suitable for small-batch CGT products. Element-by-element: nested vial input + VHP isolator + robot gripper + peristaltic fill train + sterile needle/no-needle dispense + crimp seal + output magazine.
+
+## Be The Match BioTherapies / NMDP Process Development (2015)
+
+- **id**: `be-the-match-biocenter-biotrust`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Be The Match BioTherapies (NMDP / National Marrow Donor Program)
+- **disclosure**: Be The Match BioTherapies (formerly NMDP BioCenter) launch ~2015; Be The Match BioTherapies service literature; National Marrow Donor Program publications
+- **ip status**: trade-secret
+- **prior art notes**: Process disclosure: Be The Match BioTherapies provides apheresis-derived starting material plus closed-system cell processing services (Sepax cell wash, CliniMACS selection, MaxCyte electroporation, G-Rex expansion, fill-finish) supporting autologous and allogeneic cell therapy programs. Microfluidic content is the cumulative content of the constituent unit operations (each separately covered in corpus); Be The Match's platform-level disclosure is the apheresis-to-formulated-product chain-of-custody architecture and the donor-pool supply integration. Trade-secret on operational specifics; entry rests on service literature.
+
 ## Pumpy peristaltic pump (open-hardware) (2017)
 
 - **id**: `ufluidix-pumpy`
@@ -134,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pumpy peristaltic pump open-source design. https://github.com/pumpy
 - **ip status**: open-permissive
 - **prior art notes**: Open-hardware peristaltic pump design with 3D-printable mechanical parts and Arduino control firmware. Sub-$100 BOM. Anticipates: prosumer peristaltic-pump category, with Arduino + stepper motor + 3D-printed roller assembly as standard architecture.
+
+## Syntegon Versynta Microbatch / Combotec Filler (2017)
+
+- **id**: `syntegon-versynta-microbatch-filler`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Syntegon Technology GmbH (formerly Bosch Packaging Technology)
+- **disclosure**: Bosch Packaging Technology Versynta microbatch product launch 2017 (Bosch Pharma division spun out as Syntegon 2020); Syntegon product literature 2020-2023; EP3437985A1
+- **ip status**: patented
+- **prior art notes**: Discloses a robotic aseptic-fill workcell targeted at micro-batch / personalized-medicine throughput: robot handles nested RTU vials inside an H2O2-decontaminated isolator; peristaltic-pump dosing manifold dispenses through sterile needles; multi-format adaptability (vials, syringes, cartridges) via tool-changer end-effector. Anticipates: small-batch robotic aseptic filling architecture optimized for sub-1000 vial runs (distinguishable from high-throughput rotary fillers); multi-format dosing in a single workcell. Closely architecturally related to Vanrx SA25 (Cytiva); distinguishable by the multi-format end-effector tooling.
 
 ## Chi.Bio open-hardware bioreactor (2018)
 
@@ -154,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wong, B. G.; Mancuso, C. P.; Kiriakov, S.; Bashor, C. J.; Khalil, A. S. Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER. Nat. Biotechnol. 2018, 36, 614–623. DOI: 10.1038/nbt.4151
 - **ip status**: open-permissive
 - **prior art notes**: Open-hardware 16-vessel parallel bioreactor system with per-vessel temperature, OD, stirring, and feed control. Designed for laboratory directed-evolution and high-throughput growth experiments. Anticipates: massively-parallel addressable bioreactor architecture, open-source bioreactor scaling, and the experimental-evolution use case at academic-budget price points.
+
+## MaxCyte ATx Flow Electroporation System (2018)
+
+- **id**: `maxcyte-atx-assay-electroporator`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: MaxCyte Inc.
+- **disclosure**: MaxCyte ATx product launch 2018; MaxCyte Inc. annual report 2019; parent US7,029,916B2
+- **ip status**: patented
+- **prior art notes**: Bench-scale flow-electroporation variant intended for assay-throughput cell engineering rather than research-scale (STX) or GMP (GTx). Anticipates the existence of a downward-scaled disposable processing assembly that preserves the parallel-plate field-uniformity geometry while reducing cell load to assay-relevant volumes. Same element decomposition as STX/GTx (peristaltic infeed + disposable chamber + pulse generator + sterile collection), differing only in chamber dimensions and cell-volume range.
 
 ## Open replicator-style microfluidic pump (3D-printed peristaltic) (2019)
 

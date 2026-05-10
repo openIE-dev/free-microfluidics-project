@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-disc`
 
-**3 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2009
 
@@ -35,6 +35,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Image-feedback piezo dispenser that ejects single droplets from a glass cartridge while imaging the nozzle exit; only droplets imaged to contain exactly one cell are dispensed into the target well. Anticipates: image-verified-then-deposit single-cell dispensing as an alternative to FACS-sort or microwell deposition; the 'piezo dispenser + camera + glass cartridge' architectural pattern. Foundational to many cell-line development workflows requiring documented monoclonality.
 
+## Twist Bioscience Silicon Chip DNA Synthesis Platform (2016)
+
+- **id**: `twist-bioscience-silicon-oligo-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience SEC S-1 filing 2018; Mardis et al., Nature 537:533 (2016) reference to Twist; US9895673B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-wafer-based DNA synthesis platform combining DRIE-etched pico-to-femtoliter reaction wells with selective surface chemistry, addressable phosphoramidite delivery via piezo inkjet, and parallel coupling of >1 million unique sequences per wafer. Anticipates: silicon-MEMS DNA-synthesis substrates as a class; integration of inkjet-style addressed reagent delivery with photolithographically-patterned femtoliter reaction sites; use of process-controlled cycle times across an array large enough to synthesize ~10^6 unique oligos in a single wafer cycle. Anticipates claims to high-density DNA-synthesis platforms that combine MEMS substrates with pressure or piezo reagent delivery, distinct from prior Agilent inkjet-on-glass methods (which lacked the pico-well structuring).
+
+## Cellenion cellenONE X1 (formerly F1.4) (2017)
+
+- **id**: `cellenion-cellenone-x1-single-cell-printer`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Cellenion (a SCIENION company)
+- **disclosure**: SCIENION/Cellenion product literature 2017; Schoof et al., Nat Commun 12:3341 (2021), doi:10.1038/s41467-021-23667-y (SCoPE-MS using cellenONE); EP3431618 family
+- **ip status**: patented
+- **prior art notes**: Discloses a piezo-driven on-demand single-cell dispenser combining sub-nanoliter droplet ejection with closed-loop optical inspection of the nozzle reservoir, gating dispense on detection of exactly one cell within the droplet field of view. Anticipates: image-gated single-cell isolation into wellplates without sorting (no fluidic FACS pressurization, no microfluidic chip required); deposition of single cells with sub-nanoliter accompanying volume to enable downstream low-input proteomics or genomics; reservoir-based piezo nozzle that recirculates uncommitted cells. Anticipates claims to single-cell printers using machine-vision verification before each ejection event.
+
 ## Inventia Life Science RASTRUM 3D cell-model printer (2019)
 
 - **id**: `inventia-rastrum`
@@ -44,3 +64,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Inventia Life Science Pty Ltd. RASTRUM launch 2019. Utama, R.H. et al. A 3D bioprinter specifically designed for the high-throughput production of matrix-embedded multicellular spheroids. iScience 2020, 23:101475. doi:10.1016/j.isci.2020.101475. Patent family: WO2017070743A1 / US10953580B2 (Inventia; priority 2015).
 - **ip status**: patented
 - **prior art notes**: Discloses a drop-on-demand piezo bioprinter that prints into standard 96- and 384-well microplates using two-component synthetic bioinks that crosslink on contact. Anticipates: (a) plate-format drop-on-demand bioprinting for HTS-compatible 3D cell models; (b) two-component on-contact-crosslinking bioinks delivered from co-located piezo dispense heads; (c) RASTRUM-style platforms as the link between bioprinting and HTS pharma drug screening.
+
+## Catalog Technologies Shannon DNA Storage Platform (2019-06)
+
+- **id**: `catalog-technologies-shannon-dna-storage`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Catalog Technologies Inc.
+- **disclosure**: Catalog Technologies announcement 2019-06; Park et al., Nat Commun 13:5008 (2022) doi:10.1038/s41467-022-32750-x; US11293032B2
+- **ip status**: patented
+- **prior art notes**: Discloses a DNA-data-storage architecture that writes information by combinatorial deposition of pre-synthesized oligonucleotide components via large-format inkjet printheads onto a moving substrate, eliminating per-base coupling time. Anticipates: industrial DNA storage write systems that exploit inkjet-printer infrastructure for combinatorial encoding; substrate-agnostic write platforms that pair commercial printhead hardware with custom oligo-pool reagents. Anticipates claims to DNA storage systems that achieve >Gb/day write rates by parallel inkjet deposition.

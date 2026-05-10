@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**8 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2000
+Earliest disclosure: 1965
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
+
+- **id**: `dune-stillsuit-1965-original`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; pages 110-112 'Manual of Muad'dib' detailing stillsuit construction.
+- **ip status**: fictional
+- **prior art notes**: Original 1965 published description of a wearable, closed-loop body-fluid reclamation suit. Herbert's text gives unusually engineering-grade specifics: 'a high-efficiency filter and heat-exchange system. The skin-contact layer's perspiration passes through it, having cooled the body, and is reclaimed... your motions in the suit, especially of breathing and some osmotic action, provide the pumping force. Reclaimed water circulates to catchpockets from which you draw it through this tube...'. Architecturally anticipates: wearable closed-loop microfluidic body-water reclamation, breath/perspiration capture and recycling, body-motion-driven peristaltic pumping, and integrated drinking-tube delivery. The 1965 first publication date is one of the strongest fictional anchors for wearable microfluidic body-fluid reclamation as a concept (~60-year defensive prior art window).
 
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 
@@ -25,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of pneumatically actuated elastomeric membrane valves built monolithically into a multilayer PDMS chip. By cyclically actuating three valves in series, a peristaltic pump is realized. This is the architectural ancestor of essentially every subsequent on-chip pneumatic valve and pump. Anticipates: pneumatic membrane valve (control channel + thin membrane + flow channel), peristaltic pumping by sequential valve actuation, large-scale integrated chip-scale fluidic circuits. Subsequent papers (Nordin 2017, Sanchez Noriega 2021) re-implement the same architecture in 3D-printed photopolymer.
 
+## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
+
+- **id**: `halo-mjolnir-biofoam-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries / Microsoft / Eric Nylund
+- **disclosure**: Halo: Combat Evolved (Bungie/Microsoft, 2001); detailed in Halo: The Fall of Reach (Eric Nylund, Del Rey ISBN 978-0-345-45132-3, 2001) and Halo: First Strike (Eric Nylund, 2003).
+- **ip status**: fictional
+- **prior art notes**: Discloses an armor-integrated wound-sealant fluidic dispenser. Per the Fall of Reach novelization and on-armor lore, the MJOLNIR Mark IV/V/VI armor carries a biofoam canister system that, on detection of a penetrating wound, automatically injects a polymerizing fluid into the wound cavity to halt bleeding, immobilize damaged tissue, and deliver analgesics. Architecturally anticipates: (a) wearable closed-system fluid reservoir + on-demand actuator + injection cannula, (b) automated trigger via biosensor (heart-rate / pressure-loss / breach), (c) two-component reactive polymer mixed in-situ for cavity-fill, (d) drug-delivery payload bundled with mechanical hemostatic. The combat-armor automated injector concept is repeatedly described across Halo novels and games 2001-present and is depicted as a hands-free wearable microfluidic-equivalent sealant dispenser. Defensive prior art for hands-free combat-medic auto-injectors, wearable hemostatic foam dispensers, and biosensor-triggered drug delivery integrated into clothing/armor.
+
 ## Repligen XCell ATF alternating tangential flow cell-retention device (2002)
 
 - **id**: `repligen-xcell-atf`
@@ -34,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Refine Technology (acquired by Repligen 2014) ATF system commercialized 2002. Original patent: US6544424B1 (Shevitz, J.; Refine Technology; priority 1999).
 - **ip status**: patented
 - **prior art notes**: Discloses an alternating tangential flow (ATF) cell-retention device: a hollow-fiber filter is operated with periodic reversal of axial flow (driven by a diaphragm pump on one end of the filter) so that filter-cake buildup is repeatedly disrupted and the filter sustains long-term operation at high cell densities. Anticipates: (a) ATF cell retention as the standard perfusion-bioreactor cell-retention modality; (b) hollow-fiber-with-periodic-flow-reversal architectures broadly; (c) integration of ATF cell retention with single-use bioreactors (Sartorius BIOSTAT, Cytiva Xcellerex) for high-density perfusion CGT processes.
+
+## Battlestar Galactica Cylon Centurion organic-fluid circulation system (2003)
+
+- **id**: `bsg-cylon-centurion-fluid-circulation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ronald D. Moore
+- **disclosure**: Battlestar Galactica miniseries (Sci Fi 2003); Caprica (2010) shows Centurion construction.
+- **ip status**: fictional
+- **prior art notes**: Cylon Centurions are part-organic and depicted with internal fluid-circulation systems (visible during damage scenes). Caprica's Greystone Industries factory shows Centurion fluid-fill stations during manufacture. Defensive prior art for hybrid mechanical-biological robots with integrated fluid-circulation maintenance and assembly-line fluid-fill stations.
 
 ## Repligen KrosFlo tangential flow filtration system (2005)
 
@@ -64,6 +94,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Burton SA et al. Pharm Res 28(1):31-40 2011 doi:10.1007/s11095-010-0177-8; 3M Drug Delivery Systems patent family
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
+
+## Eclipse Phase synthmorph internal fluid-skeleton and lubricant systems (2009)
+
+- **id**: `eclipse-phase-synthmorph-fluid-skeleton`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Posthuman Studios
+- **disclosure**: Eclipse Phase core rulebook (Posthuman Studios 2009); Transhuman sourcebook.
+- **ip status**: fictional
+- **prior art notes**: Synthmorph mechanical bodies described with internal hydraulic actuator fluid, cooling loops, and self-repair fluidic systems requiring periodic 'fueling' at maintenance hubs. Defensive prior art for humanoid-robot internal fluid-handling subsystems and dedicated robot-maintenance fluid-fill stations.
+
+## Iron Man Bleeding Edge armor (subdermal nanofluidic suit storage) (2010)
+
+- **id**: `iron-man-bleeding-edge-armor`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Matt Fraction / Salvador Larroca / Marvel
+- **disclosure**: Invincible Iron Man #25 (Marvel December 2010), Matt Fraction & Salvador Larroca; Endo-Sym armor variant in Superior Iron Man (2014).
+- **ip status**: fictional
+- **prior art notes**: Bleeding Edge armor depicted as a nanofluidic suit stored in subdermal hollow-bone reservoirs that emerges on demand to form full powered armor. Architecturally anticipates: subdermal nano-fluid reservoirs in bone, on-demand exteriorization of programmable nanofluidic material, and bone-integrated-armor storage architecture. Defensive prior art for implanted nanofluid reservoir storage and on-demand assembly.
 
 ## Formulatrix Mantis and Tempest nanoliter dispensers (2013)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-mass-production-volumetric-print`
 
-**9 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Peripheral (2014) depicts in detail consumer-scale fabrication printers capable of producing both inert objects and biological substrates ('peripherals' — remote-operated biological bodies). Architectural category disclosure of 'consumer-scale fabrication appliance with biological-substrate printing capability'. Distinct from Stephenson's Diamond Age compiler in explicitly including biological-substrate output. §102 category disclosure of biological-fabrication appliance.
 
+## Twist Bioscience Silicon Chip DNA Synthesis Platform (2016)
+
+- **id**: `twist-bioscience-silicon-oligo-synthesis`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corp.
+- **disclosure**: Twist Bioscience SEC S-1 filing 2018; Mardis et al., Nature 537:533 (2016) reference to Twist; US9895673B2 priority 2014
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-wafer-based DNA synthesis platform combining DRIE-etched pico-to-femtoliter reaction wells with selective surface chemistry, addressable phosphoramidite delivery via piezo inkjet, and parallel coupling of >1 million unique sequences per wafer. Anticipates: silicon-MEMS DNA-synthesis substrates as a class; integration of inkjet-style addressed reagent delivery with photolithographically-patterned femtoliter reaction sites; use of process-controlled cycle times across an array large enough to synthesize ~10^6 unique oligos in a single wafer cycle. Anticipates claims to high-density DNA-synthesis platforms that combine MEMS substrates with pressure or piezo reagent delivery, distinct from prior Agilent inkjet-on-glass methods (which lacked the pico-well structuring).
+
 ## Annalee Newitz Autonomous open-pharma piracy infrastructure (2017)
 
 - **id**: `newitz-autonomous-pharma-pirate`
@@ -85,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Autonomous (2017) depicts in detail Jack's mobile pharmaceutical-synthesis platform — a sub-mariner-deployed compact pharma-synthesis lab capable of reverse-engineering patented pharmaceuticals from samples and producing field-deployable formulations. Architectural category disclosure of 'mobile compact pharmaceutical-synthesis platform with reverse-engineering and field-formulation capability'. Doctrinally significant — Newitz's depiction explicitly engages with pharmaceutical-IP enforcement, making the depiction itself a prior-art-rich category disclosure.
 
+## Catalog Technologies Shannon DNA Storage Platform (2019-06)
+
+- **id**: `catalog-technologies-shannon-dna-storage`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Catalog Technologies Inc.
+- **disclosure**: Catalog Technologies announcement 2019-06; Park et al., Nat Commun 13:5008 (2022) doi:10.1038/s41467-022-32750-x; US11293032B2
+- **ip status**: patented
+- **prior art notes**: Discloses a DNA-data-storage architecture that writes information by combinatorial deposition of pre-synthesized oligonucleotide components via large-format inkjet printheads onto a moving substrate, eliminating per-base coupling time. Anticipates: industrial DNA storage write systems that exploit inkjet-printer infrastructure for combinatorial encoding; substrate-agnostic write platforms that pair commercial printhead hardware with custom oligo-pool reagents. Anticipates claims to DNA storage systems that achieve >Gb/day write rates by parallel inkjet deposition.
+
 ## Readily3D Tomolite volumetric bioprinter (2020)
 
 - **id**: `readily3d-tomolite`
@@ -94,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bernal, P.N. et al. Volumetric bioprinting of complex living-tissue constructs within seconds. Adv. Mater. 2019, 31:1904209. doi:10.1002/adma.201904209. Readily3D SA founded 2020 (EPFL spinout). https://readily3d.com. Underlying tomographic-projection patent family: WO2018039210A1 (EPFL/UC Berkeley; priority 2016).
 - **ip status**: patented
 - **prior art notes**: Discloses a commercial volumetric (tomographic-projection) bioprinter implementing the Kelly/Loterie technology. Anticipates: commercial volumetric bioprinting for living tissue at centimeter scale; tomographic-projection cure of cell-laden bioinks within seconds with cell viability preserved; integration of computer-vision feedback during volumetric cure for shape-fidelity correction. Companion to lineage entry kelly-2019-cal-volumetric-printing and wang-2026-dish-volumetric-3d-printing.
+
+## Ultima Genomics UG100 W-series Wafer Flow Cell (2024)
+
+- **id**: `ultima-genomics-100ug-100w-wafer-flowcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ultima Genomics Inc.
+- **disclosure**: Ultima Genomics product update 2024; AGBT 2024 abstract; US11434531B2 / US11486003B2 (Ultima open-substrate sequencing patents)
+- **ip status**: patented
+- **prior art notes**: Discloses a sequencing-by-synthesis architecture in which a 200 mm patterned silicon wafer is spun on a chuck while reagents are dispensed centrally and distributed by centrifugal force to all bead-binding sites simultaneously. Anticipates: open-substrate massively parallel sequencing dispensing reagents by radial centrifugal coating instead of channelized flow; pairing of wafer-scale TDI line-scan imaging with patterned bead anchors; wafer-format scale-up of sequencing throughput by enlarging the substrate rather than increasing channel density. Distinguishes from all enclosed-flowcell sequencers (Illumina, Element, MGI) and is itself unanticipated by them. The W-series specifically scales to a 200 mm wafer (vs prior UG100 chip).
 
 ## DISH: digital incoherent synthesis of holographic light fields (2026-02-11)
 

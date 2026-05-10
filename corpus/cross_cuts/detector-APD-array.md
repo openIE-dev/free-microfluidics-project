@@ -1,26 +1,26 @@
 ---
-title: detector-APD-array
+title: detector-apd-array
 parent: Cross-cuts
 layout: default
 ---
 
-# Cross-cut: `detector-APD-array`
+# Cross-cut: `detector-apd-array`
 
 **1 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017-05
+Earliest disclosure: 2010
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
 
-## Cytek Aurora Spectral Flow Cytometer (2017-05)
+## Akatsuki LAC (Lightning and Airglow Camera) and IR1 (2010)
 
-- **id**: `cytek-aurora-spectral-flow-cytometer`
+- **id**: `akatsuki-lac-lightning-airglow-camera`
 - **corpus**: private
-- **device class**: single-cell-platform
-- **creator**: Cytek Biosciences Inc.
-- **disclosure**: Cytek Biosciences Inc. Aurora launch press release May 2017; Schmutz S. et al. Cytometry A 89:1056 (2016) (full-spectrum precursor); US patent 10,816,453
-- **ip status**: patented
-- **prior art notes**: Aurora discloses a flow cytometer that captures the full emission spectrum of each particle across an array of 64 APD detectors per laser, then computationally unmixes overlapping fluorophores rather than relying on traditional bandpass filter sets. Anticipates: (i) spectral-unmixing flow cytometers using detector-array architectures; (ii) 5-laser, 60+ detector hardware configurations addressed to 40+ color panels; (iii) the integration of a precision quartz flow cell with full-spectrum detection. Distinguished from BD/Beckman conventional cytometers by emission-spectrum capture rather than discrete filter-bandpass channelization.
+- **device class**: other
+- **creator**: JAXA / ISAS / Tohoku University (PI: Yukihiro Takahashi for LAC; Naomoto Iwagami for IR1)
+- **disclosure**: Takahashi, Y. et al. 'The Lightning and Airglow Camera onboard Venus Climate Orbiter (PLANET-C).' Earth, Planets and Space 60, 33-39 (2008), doi:10.1186/BF03352761; Iwagami, N. et al. 'IR1 1-micron camera onboard Venus Climate Orbiter.' EPS 63, 487-492 (2011)
+- **ip status**: unknown
+- **prior art notes**: Discloses the LAC and IR1 cameras aboard Akatsuki, both housed in dry-nitrogen-purged sealed optical benches that maintain internal contamination control across the multi-year cruise to Venus. The N2-purge fluidic envelope serves as a long-duration contamination-control architecture relevant to any future Venus or hot-environment optical instrument. Anticipates: (a) dry-N2-purged sealed optical-bench architecture for planetary cameras subject to long-duration outgassing risk; (b) integration of high-frame-rate APD lightning detector with conventional CCD imager in a single bench; (c) the photometric calibration manifold (sealed reference LED + diffuser plate) re-used for multi-orbit cross-calibration. Cite against later patent claims for purged sealed optical benches in planetary cameras.

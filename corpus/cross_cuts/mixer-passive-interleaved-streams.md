@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-interleaved-streams`
 
-**11 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ehrfeld, W.; Golbig, K.; Hessel, V.; Löwe, H.; Richter, T. 'Characterization of mixing in micromixers by a test reaction: single mixing units and mixer arrays' Ind. Eng. Chem. Res. 1999, 38, 1075–1082; IMM Mainz technical report 1997; DE19536856A1 1995 priority
 - **ip status**: patented
 - **prior art notes**: IMM Mainz is the canonical academic-industrial bridge for European microreactors. Discloses (a) interdigital multilamination as a numerable industrial mixing primitive — alternating thin feed streams produce diffusion-limited mixing at orders-of-magnitude reduced length scale; (b) the 'slit-and-interdigital' mixer (SIMM) family covering laboratory through 3 m³/h production; (c) the canonical Caterpillar split-recombine pattern later commercialized by Ehrfeld BTS; (d) the entire architectural language of 'numbering up' (parallel modules) versus 'scaling up' (larger channels). Should be cited against later patent claims to interdigital lamination mixers, multilamination plate-stack mixers, and slit-focused multistream contactors.
+
+## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
+
+- **id**: `aldevron-plasmid-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Aldevron LLC (acquired 2021 by Danaher)
+- **disclosure**: Aldevron company founding 1998; Aldevron patent US10,975,374B2 (Methods for plasmid DNA manufacturing); Aldevron acquired by Danaher 2021 for $9.6B (SEC 8-K)
+- **ip status**: patented
+- **prior art notes**: Process disclosure (extending wave 1 generic plasmid coverage): Aldevron's GMP plasmid train comprises fed-batch E. coli fermentation → in-line continuous static-mixer alkaline lysis (microfluidic laminar mixing of cell paste with NaOH/SDS lysis buffer) → flocculation neutralization → centrifugal/depth clarification → TFF concentration → AEX (Q-Sepharose / Capto-class) → HIC polishing → final TFF + 0.2 µm sterile filtration. Anticipates: standardized GMP plasmid manufacturing chain optimized for CGT and mRNA-vaccine-template supply, where the in-line static-mixer lysis step is the microfluidic-relevant unit operation (controls shear-induced plasmid degradation by setting mixing residence time and Reynolds regime). Element-by-element: fermenter outlet + static-mixer lysis + neutralizer junction + centrifuge → bag → AEX column → HIC column → TFF → sterile fill.
 
 ## Ehrfeld Mikrotechnik BTS CYTOS College and Caterpillar microreactors (2002)
 
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mott Corporation porous-metal flow reactor product brochure 2003; US patent 6,716,275; Mott Corporation 'Sintered Porous Metal Media for Flow Chemistry' application note rev 2018; Sun, X.; Atobe, M. et al. 'Porous-metal flow reactor for hydrogenation' Org. Process Res. Dev. 2014, 18, 1369–1376
 - **ip status**: patented
 - **prior art notes**: Discloses sintered-porous-metal cartridge inserts as drop-in microreactor primitives for: (a) gas-liquid contacting with sub-50-µm bubble generation (hydrogenation, oxidation, ozonolysis) at production scale; (b) inline filtration combined with catalyst support inside the same porous body; (c) hot-swappable cartridge format compatible with industrial flow-chemistry skids. The porous-frit-as-microreactor pattern competes with channel-defined microreactors and represents an alternative numbering-up scheme. Anticipates patent claims directed to porous metal contactors as inline microbubble generators in continuous flow chemistry.
+
+## VGXI Plasmid DNA Manufacturing (2003)
+
+- **id**: `vgxi-plasmid-manufacturing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: VGXI Inc. (subsidiary of GeneOne Life Science / Korea)
+- **disclosure**: VGXI Inc. founding 2003 (subsidiary of GeneOne Life Science); VGXI plasmid manufacturing service literature; Inovio Pharmaceuticals 10-K filings citing VGXI as plasmid supplier
+- **ip status**: trade-secret
+- **prior art notes**: Process disclosure for GMP plasmid DNA manufacturing supporting DNA-vaccine programs: fed-batch E. coli fermentation → alkaline lysis (in-line static mixer or controlled-shear tank) → centrifugation → AEX chromatography → HIC polishing → TFF concentration → sterile filtration. Microfluidic content concentrated in in-line lysis mixer geometry and TFF cassette channel architecture. Anticipates: scaled GMP plasmid supply for vaccine-template applications. Trade-secret heavy; entry strength rests on Inovio public filings and VGXI service literature.
 
 ## Little Things Factory glass microreactor (LTF-MS, LTF-V) (2005)
 
@@ -85,6 +105,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Production-scale numbering-up of the AFR G1 architecture: same heart-shaped channel motif, scaled to ~1 mm hydraulic diameter and ~25× footprint. Discloses (a) industrial-throughput borosilicate microreactor at multi-hundred-gram-per-minute regime; (b) modular stacking with shared heat-transfer manifolds; (c) compatibility with slurries (catalytic hydrogenation, crystallization-onset reactions) within microchannels — historically considered impossible. Anticipates patent claims directed to 'stacked plate microreactor for continuous pharmaceutical manufacturing at multi-tonne scale'. Pairs with G1 entry for full numbering-up disclosure.
 
+## Charles River Laboratories Cobra Plasmid Manufacturing Platform (2010)
+
+- **id**: `charles-river-cobra-plasmid`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cobra Biologics (acquired 2021 by Charles River Laboratories)
+- **disclosure**: Charles River Laboratories acquired Cobra Biologics 2021-02; Cobra Biologics plasmid manufacturing public disclosures 2010-2020 including Cobra ORT operator-repressor titration patent US7,943,377B2 (Cobra Biologics, ORT antibiotic-free plasmid selection)
+- **ip status**: patented
+- **prior art notes**: Process disclosure for GMP plasmid DNA manufacturing: high-density E. coli fermentation under ORT antibiotic-free selection → alkaline lysis (often in a continuous static-mixer lysis skid, microfluidic in laminar regime) → flocculation → tangential-flow filtration → anion-exchange chromatography → hydrophobic-interaction polishing → 0.2 µm sterile filtration → fill. The microfluidic content is the in-line static-mixer lysis architecture and the TFF skid. Anticipates: continuous in-line alkaline-lysis plasmid manufacturing using laminar-mixing static elements rather than batch lysis tanks; antibiotic-free plasmid selection (ORT) as a strain-engineering precondition for CGT-grade plasmid.
+
+## Touchlight Genetics Doggybone DNA (dbDNA) Platform (2010)
+
+- **id**: `touchlight-doggybone-dna`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Touchlight Genetics Ltd.
+- **disclosure**: Touchlight Genetics company founding 2007; Walters et al. 'Doggybone DNA: an advanced platform for AAV production,' Cell Gene Ther Insights 2(2):209 (2016); Touchlight patent US8,685,920B2 (Process for amplifying DNA using thermostable enzymes, priority 2010); WO2010/086626A1
+- **ip status**: patented
+- **prior art notes**: Discloses an enzymatic DNA-amplification process replacing bacterial fermentation: a parental plasmid template is amplified by Phi29 rolling-circle amplification, then processed by TelN protelomerase to cleave at TelN target sites and ligate hairpin termini, yielding a linear covalently-closed (doggybone) DNA molecule. Manufacturing fluid path: in vitro reaction vessel → digestion/cleanup → TFF concentration → AEX chromatography polishing → sterile fill. Anticipates: cell-free enzymatic DNA manufacturing as alternative to fermentation-based plasmid; protelomerase-mediated linear-covalently-closed DNA topology as a delivery cargo (no bacterial sequences, smaller, suitable for AAV/LNP packaging). Element-by-element: amplification reactor + digestion/protelomerase reactor + TFF + AEX + sterile fill.
+
+## Biosafe SmartMax Closed Cell Therapy Cryopreservation / Fill (2010)
+
+- **id**: `biosafe-smartmax-small-volume-fill`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Biosafe SA (acquired 2014 by GE Healthcare, now Cytiva)
+- **disclosure**: Biosafe SA SmartMax product literature ~2010; Biosafe acquired by GE Healthcare 2014, now Cytiva; product literature 2014-2023
+- **ip status**: patented
+- **prior art notes**: Discloses a closed-system fill apparatus that transfers a cell-therapy product from a Sepax-class processing bag into a small-volume cryobag with controlled cryoprotectant addition; integrated with downstream controlled-rate freezing. Anticipates: closed-train cryopreservation fill workflow for autologous cell therapy where cryoprotectant is mixed at controlled rate during fill (managing osmotic shock to cells). Element-by-element: input cell-product bag + cryoprotectant reservoir + peristaltic mixing junction + small-volume cryobag + sterile weld interfaces.
+
 ## Chemtrix Plantrix MR-series silicon-carbide microreactor (2012)
 
 - **id**: `chemtrix-plantrix-mr-series`
@@ -114,6 +164,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Corning Inc. ULC-G2 product brochure 2018; Corning press release Achema 2018 launch; Lavric, E. D.; Roberge, D. M. 'Lab-scale Corning ULC reactor for fast prototyping' Chem. Eng. Process. 2019 supplement; product page https://www.corning.com/worldwide/en/innovation/corning-emerging-innovations/advanced-flow-reactors/laboratory-reactors.html
 - **ip status**: patented
 - **prior art notes**: Discloses Corning's ultra-low-cost entry-level variant of the AFR family, marketed at the academic/teaching/screening price point (<$10k). Maintains the same heart-shape channel motif as G1/G3/G4 — confirming that the fundamental mixing geometry is the IP, and form-factor cost-engineering is the productization decision. Anticipates patent claims to compact academic-priced single-module microreactors derived from production-scale microreactor families.
+
+## Tessera Therapeutics Gene Writing Manufacturing (2020)
+
+- **id**: `tessera-therapeutics-gene-writing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Tessera Therapeutics Inc.
+- **disclosure**: Tessera Therapeutics company launch July 2020; Tessera patent estate US11,427,818B2 (Recombinase compositions and methods of use, priority 2020); Tessera R&D presentations 2022-2023
+- **ip status**: patented
+- **prior art notes**: Process disclosure for in vivo gene-writing manufacturing: mRNA encoding Tessera's mobile-element machinery is co-formulated with a target template oligo into LNPs via microfluidic impingement-jet or staggered-herringbone mixing; downstream tangential-flow filtration concentrates and buffer-exchanges; sterile fill into vial. Anticipates: combined-cargo LNP encapsulation in which a single LNP carries both the gene-writing enzyme mRNA and the donor template, manufactured in a continuous microfluidic train. Element-by-element: aqueous-phase mRNA + ethanol-phase lipid → microfluidic mixer → TFF → 0.2 µm sterile filtration → vial fill.
+
+## Lunaphore COMET (2021)
+
+- **id**: `lunaphore-comet-spatial-proteomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Lunaphore Technologies SA (acquired by Bio-Techne 2023)
+- **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
 
 ## Multi-resolution DLP-SLA for 2 µm microfluidic channels (2026-02-27)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-centrifugal-rotational`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -74,3 +74,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Almogy, G. et al. Cost-efficient whole genome sequencing using a novel mostly natural sequencing-by-synthesis approach. bioRxiv 2022.05.29.493900. DOI: 10.1101/2022.05.29.493900. Ultima Genomics commercial unveiling 2022-05-31.
 - **ip status**: patented
 - **prior art notes**: Radically different sequencing flow cell architecture: instead of a sealed glass channel, sequencing happens on the open surface of a 200 mm silicon wafer, with reagents distributed by spinning the wafer (centrifugal flow) and washed away likewise. Anticipates: open-substrate / centrifugal-flow sequencing flow cells; wafer-scale (rather than die-scale) sequencing substrates; the explicit elimination of channel walls in massively parallel sequencing. Fundamental architectural prior art for any open-substrate sequencing flow cell claim.
+
+## Ultima Genomics UG100 W-series Wafer Flow Cell (2024)
+
+- **id**: `ultima-genomics-100ug-100w-wafer-flowcell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ultima Genomics Inc.
+- **disclosure**: Ultima Genomics product update 2024; AGBT 2024 abstract; US11434531B2 / US11486003B2 (Ultima open-substrate sequencing patents)
+- **ip status**: patented
+- **prior art notes**: Discloses a sequencing-by-synthesis architecture in which a 200 mm patterned silicon wafer is spun on a chuck while reagents are dispensed centrally and distributed by centrifugal force to all bead-binding sites simultaneously. Anticipates: open-substrate massively parallel sequencing dispensing reagents by radial centrifugal coating instead of channelized flow; pairing of wafer-scale TDI line-scan imaging with patterned bead anchors; wafer-format scale-up of sequencing throughput by enlarging the substrate rather than increasing channel density. Distinguishes from all enclosed-flowcell sequencers (Illumina, Element, MGI) and is itself unanticipated by them. The W-series specifically scales to a 200 mm wafer (vs prior UG100 chip).

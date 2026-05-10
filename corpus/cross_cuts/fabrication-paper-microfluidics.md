@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**30 corpus entries disclose this subsystem.**
+**31 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1980
 
@@ -304,6 +304,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: JOGL launched 2018 by Marc Santolini, Thomas Landrain, Leo Blondel; https://app.jogl.io; OpenCovid19 initiative launched March 2020 publishing dozens of open microfluidic and diagnostic projects; documented in Santolini et al., 'JOGL: A platform for open and distributed scientific research', PLOS Biology 19:e3001020 (2021)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a distributed open-research collaboration platform whose OpenCovid19 initiative published dozens of open microfluidic diagnostic designs (RT-LAMP cartridges, paper-based COVID tests, low-cost PCR cartridges) in 2020 with timestamped publication. Relevance: the JOGL OpenCovid19 archive is itself a citable prior-art trove for low-cost open RT-LAMP and paper-microfluidic COVID tests, and the JOGL platform model anticipates 'distributed federated open-science platforms with timestamped output suitable as defensive publication.'
+
+## Abbott BinaxNOW COVID-19 Antigen Self Test (OTC) (2021-03)
+
+- **id**: `abbott-binaxnow-self-test-otc-2021`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Diagnostics
+- **disclosure**: Abbott BinaxNOW Antigen Self Test FDA EUA 2021-03-31; product user manual
+- **ip status**: patented
+- **prior art notes**: Discloses a folded-card lateral-flow antigen test designed for OTC consumer use with integrated swab and instrument-free visual readout. Anticipates: folded-card consumer form factor for paper-based lateral-flow molecular diagnostics with attached sampling apparatus and OTC-grade instructions.
 
 ## Clearblue Connected Digital Pregnancy Test (Bluetooth) (2021-06)
 

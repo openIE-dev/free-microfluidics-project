@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-thermal-bonding`
 
-**19 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992
 
@@ -155,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses Corning's ultra-low-cost entry-level variant of the AFR family, marketed at the academic/teaching/screening price point (<$10k). Maintains the same heart-shape channel motif as G1/G3/G4 — confirming that the fundamental mixing geometry is the IP, and form-factor cost-engineering is the productization decision. Anticipates patent claims to compact academic-priced single-module microreactors derived from production-scale microreactor families.
 
+## HOLD (Habitability and Organic Life Detection) Microfluidic Payload Concept (2019)
+
+- **id**: `hold-habitability-organic-life-detection-concept`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NASA Jet Propulsion Laboratory (JPL) (PI: Jessica Creamer / Maria Mora)
+- **disclosure**: Creamer, J. S. et al. 'Microfluidic Organic Analyzer for Biosignature Detection.' Lunar and Planetary Science Conference 50, abstract 2132 (2019); Mora, M. et al. 'A Microcapillary Electrophoresis Mass Spectrometry Platform for Habitability and Organic Detection in Ocean Worlds.' Astrobiology 22(11), 1330-1346 (2022), doi:10.1089/ast.2021.0124
+- **ip status**: unknown
+- **prior art notes**: Discloses a microfluidic CE-MS platform for in-situ ocean-worlds organic analysis. The chip integrates: (a) electrokinetic injection from a sealed buffer reservoir; (b) on-chip pre-column derivatization mixing module; (c) CE separation channel; (d) electrospray emitter terminating in an off-chip MS interface; (e) modular packaging compatible with SmallSat thermal/power envelope. Anticipates: integration of derivatization, CE separation, and electrospray emission on a single glass chip qualified for cryogenic/vacuum operation; modular CE-MS as a flight-ready alternative to large MS-only instruments; the use of Pacific-Blue and fluorescamine derivatization in microfluidic buffers as primary flight chemistry. Cite against later patents claiming integrated CE-ESI-MS chips for planetary biosignature detection.
+
 ## Nanofluidic scattering microscopy (NSM) (2022)
 
 - **id**: `spackova-2022-nanofluidic-scattering-microscopy`
@@ -195,6 +205,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Short-read sequencer using sequencing-by-binding chemistry (Omniome): polymerase forms a stable but non-extending complex with the correct nucleotide, identity is read optically, then the polymerase is allowed to extend. The flow cell is a patterned glass surface analogous to Illumina's, but with chemistry not encumbered by Illumina's reversible-terminator IP. Anticipates: SBB short-read flow cells as a third architectural family alongside Illumina-class reversible terminators (Element AVITI, Singular G4 also in this space) and DNB arrays (BGI/MGI).
 
+## 10x Genomics Visium HD with CytAssist (2023-10)
+
+- **id**: `10x-visium-hd-cytassist`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
+- **ip status**: patented
+- **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
 ## 10x Genomics Visium HD spatial transcriptomics slide (2023-10-05)
 
 - **id**: `10x-genomics-visium-hd`
@@ -204,3 +224,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 10x Genomics Visium HD product launch announcement, 2023-10-05. https://www.10xgenomics.com/products/visium-hd. Oliveira, M. F. et al. Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling. bioRxiv 2024-06-04. DOI: 10.1101/2024.06.04.597233.
 - **ip status**: patented
 - **prior art notes**: Successor to Visium with photolithographically-defined ~2 µm spatial barcode bins (vs. 55 µm spots in original Visium), enabling near-single-cell resolution while retaining the 'tissue-on-barcoded-grid' architecture. Capture is via a glass slide whose surface is patterned with millions of barcoded oligo-dT regions; tissue placed on top releases mRNA into the barcoded grid, then library prep proceeds off-slide. Anticipates: sub-cellular spatial-barcode arrays at 2 µm pitch, as a converging upper bound for Visium-class spatial transcriptomics; the integration with 10x's CytAssist instrument as an FFPE-compatible workflow.
+
+## Element Biosciences AVITI Cloudbreak (Long-Read) (2024-10)
+
+- **id**: `element-biosciences-aviti-cloudbreak`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Element Biosciences Inc.
+- **disclosure**: Element Biosciences press release 2024-10-22; AGBT 2024 'Cloudbreak' presentation; product datasheet EL-DOC-00185
+- **ip status**: patented
+- **prior art notes**: Discloses chemistry to extend the effective read length of polony sequencing by maintaining physical clustering of related fragments on the same surface region (linked-read approach), then assembling locally during base-calling. Anticipates: long-read sequencing achieved through surface-chemistry-based linkage rather than dedicated long-read instrumentation; reuse of short-read flowcell hardware for >200 bp contiguous reads via spatial linkage. Anticipates claims to long-read methods that depend on surface arrangement and sliding-window assembly within a single SBS flowcell.
