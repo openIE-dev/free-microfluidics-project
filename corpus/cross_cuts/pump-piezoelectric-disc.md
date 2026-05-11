@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-disc`
 
-**9 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1982-05
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
 - **ip status**: public-domain
 - **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
+
+## Hoiman 1986 - Silicon micropump (Helsinki) (1986)
+
+- **id**: `hoiman-1986-helsinki-silicon-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Hoiman et al. (Helsinki MEMS group)
+- **disclosure**: Hoiman et al. (1986). 'A silicon-based micropump.' Sensors and Actuators (proceedings of Helsinki MEMS work, 1986).
+- **ip status**: public-domain
+- **prior art notes**: Pre-1990 silicon-micromachined membrane micropump from the Helsinki MEMS effort. Discloses bulk-silicon micropump topology - membrane-driven displacement chamber with bonded check-valves. Combined with Esashi 1989 (already in corpus) and the slightly later Smits 1990 piezoelectric pump literature, Hoiman 1986 establishes the silicon-MEMS micropump as established prior art well before 1990.
 
 ## Esashi 1989 — Silicon Piezoelectric Micropump (1989-06)
 
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gravesen, P., Branebjerg, J., Jensen, O. S. (1993). 'Microfluidics — a review.' Journal of Micromechanics and Microengineering 3(4): 168-182. doi:10.1088/0960-1317/3/4/002
 - **ip status**: public-domain
 - **prior art notes**: Gravesen 1993 is one of the first explicit uses of 'microfluidics' as a field designator. Catalogs the state of the art in 1993: silicon piezoelectric pumps (van Lintel 1988, Esashi 1988-90), silicon membrane valves, silicon flow sensors, and silicon micromixers. Anticipates: (a) any post-1993 patent claim that recites a generic 'microfluidic system comprising pump, valve, mixer, sensor' integration (the integration architecture was reviewed and disclosed by 1993); (b) specific component claims to silicon piezoelectric pumps or membrane valves that fail to disclose a non-obvious geometric or functional feature beyond Gravesen's catalog. Critical anchor for invalidating broad silicon-microfluidic-system claims filed in the mid-1990s.
+
+## Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows (1998)
+
+- **id**: `ho-tai-1998-mems-fluid-flows`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Chih-Ming Ho; Yu-Chong Tai
+- **disclosure**: Ho, C.-M., Tai, Y.-C. (1998). 'Micro-electro-mechanical-systems (MEMS) and fluid flows.' Annu. Rev. Fluid Mech. 30: 579-612. doi:10.1146/annurev.fluid.30.1.579
+- **ip status**: public-domain
+- **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
 
 ## Lee Company / TTP Ventus Disc Pump (2009)
 

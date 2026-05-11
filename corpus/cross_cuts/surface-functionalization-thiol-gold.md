@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-functionalization-thiol-gold`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1996-12-12
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wei F, Patel P, Liao W, et al., Clinical Cancer Research 15(13):4446-4452 (2009); doi:10.1158/1078-0432.CCR-09-0050
 - **ip status**: patented
 - **prior art notes**: Discloses an electrochemical microfluidic chip for direct multiplex detection of salivary RNA biomarkers in unamplified oral fluid for oral squamous cell carcinoma diagnosis. Anticipates: amplification-free salivary mRNA diagnostic cartridges using electrode-functionalized capture probes; PDMS chips integrating RNA-detection-from-saliva for oral cancer; the four-biomarker IL-8/IL-1B/S100P/OAZ1 panel itself for any downstream POC cartridge.
+
+## Israelachvili 2011 - Intermolecular and Surface Forces (3rd ed.) (2011)
+
+- **id**: `israelachvili-2011-intermolecular-surface-forces-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jacob N. Israelachvili
+- **disclosure**: Israelachvili, J. N. (2011). 'Intermolecular and Surface Forces' (3rd ed.). Academic Press. ISBN 978-0-12-391927-4. (1st ed. 1985, 2nd ed. 1992.)
+- **ip status**: public-domain
+- **prior art notes**: Israelachvili textbook is the standard reference for intermolecular and surface forces, covering van der Waals interactions, electric-double-layer forces (extending DLVO from Verwey-Overbeek 1948), hydration and hydrophobic forces, and steric and bridging forces. Anticipates microfluidic claims involving surface-force-controlled nanochannel transport, particle-surface adhesion in microfluidic separations, and bio-functionalized surface-affinity capture in lab-on-chip cartridges. Any patent claiming novelty around tunable surface-interaction forces in microfluidics must clear Israelachvili.
 
 ## Eccrine Systems Continuous Sweat Sensor Platform (2014)
 

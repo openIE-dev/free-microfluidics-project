@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-two-phase-cooling`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2001
+Earliest disclosure: 1994
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks (1994)
+
+- **id**: `bowers-mudawar-1994-microchannel-cooling`
+- **corpus**: academic
+- **device class**: cooling-substrate
+- **creator**: Mark B. Bowers; Issam Mudawar
+- **disclosure**: Bowers, M. B., Mudawar, I. (1994). 'High flux boiling in low flow rate, low pressure drop mini-channel and micro-channel heat sinks.' Int. J. Heat Mass Transfer 37(2): 321-332. doi:10.1016/0017-9310(94)90103-1
+- **ip status**: public-domain
+- **prior art notes**: Extends Tuckerman-Pease 1981 (already in corpus) into the two-phase microchannel cooling regime. Discloses critical heat flux scaling, two-phase pressure drop, and boiling instabilities in mini/microchannel heat sinks - establishes the two-phase microchannel cooling literature as pre-1995 prior art. Anticipates any patent that recites 'two-phase microchannel cold plate', 'boiling-augmented microchannel cooling', or 'critical heat flux limited microchannel heat sink'. Load-bearing for modern chip-cooling patents (Microsoft, IBM, Intel direct-liquid cooling claims).
 
 ## Halo MJOLNIR neural-laced helmet (Cortana neural interface fluidics) (2001)
 

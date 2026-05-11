@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `separation-affinity-capture`
 
-**60 corpus entries disclose this subsystem.**
+**64 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1965
+Earliest disclosure: 1941
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Derjaguin & Landau 1941 - Theory of the stability of strongly charged lyophobic sols (1941)
+
+- **id**: `derjaguin-landau-1941-colloid-stability`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Boris V. Derjaguin; Lev D. Landau
+- **disclosure**: Derjaguin, B., Landau, L. (1941). 'Theory of the stability of strongly charged lyophobic sols and of the adhesion of strongly charged particles in solutions of electrolytes.' Acta Physicochim. USSR 14: 633-662.
+- **ip status**: public-domain
+- **prior art notes**: Derjaguin-Landau 1941 is the Soviet-side independent derivation of what later became DLVO theory. Together with Verwey-Overbeek 1948, establishes the canonical theory of colloid stability - load-bearing for any microfluidic disclosure involving particle aggregation, cell-cell adhesion, or electrolyte-controlled microfluidic operation. Provides a 1941 anchor that predates Verwey-Overbeek by seven years.
+
+## Verwey & Overbeek 1948 - Theory of the Stability of Lyophobic Colloids (1948)
+
+- **id**: `verwey-overbeek-1948-dlvo-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Evert Verwey; Theodoor Overbeek
+- **disclosure**: Verwey, E. J. W., Overbeek, J. T. G. (1948). 'Theory of the Stability of Lyophobic Colloids.' Elsevier, Amsterdam.
+- **ip status**: public-domain
+- **prior art notes**: Verwey-Overbeek 1948 (together with Derjaguin-Landau 1941) established DLVO theory: colloid stability emerges from a balance of attractive van der Waals and repulsive electric-double-layer interactions. Anticipates microfluidic claims involving bead aggregation in on-chip immunoassays, cell-cell adhesion in droplet encapsulation, particle deposition on channel walls, and electrolyte-controlled colloid handling. Any patent claiming a 'novel colloid-stability-controlled microfluidic operation' must clear DLVO theory.
 
 ## Fulwyler electrostatic cell sorter (foundation of FACS) (1965)
 
@@ -114,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: VGXI Inc. founding 2003 (subsidiary of GeneOne Life Science); VGXI plasmid manufacturing service literature; Inovio Pharmaceuticals 10-K filings citing VGXI as plasmid supplier
 - **ip status**: trade-secret
 - **prior art notes**: Process disclosure for GMP plasmid DNA manufacturing supporting DNA-vaccine programs: fed-batch E. coli fermentation → alkaline lysis (in-line static mixer or controlled-shear tank) → centrifugation → AEX chromatography → HIC polishing → TFF concentration → sterile filtration. Microfluidic content concentrated in in-line lysis mixer geometry and TFF cassette channel architecture. Anticipates: scaled GMP plasmid supply for vaccine-template applications. Trade-secret heavy; entry strength rests on Inovio public filings and VGXI service literature.
+
+## Geankoplis - Transport Processes and Separation Process Principles (4th ed.) (2003)
+
+- **id**: `geankoplis-transport-processes-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Christie J. Geankoplis
+- **disclosure**: Geankoplis, C. J. (2003). 'Transport Processes and Separation Process Principles' (4th ed.). Prentice Hall. ISBN 978-0-13-101367-4.
+- **ip status**: public-domain
+- **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
 
 ## Blood-on-a-chip review (Toner & Irimia 2005) (2005)
 
@@ -284,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quanterix Simoa HD-1 launch 2014-02 (commercial); HD-X launch 2017-09; founding paper Rissin et al. Nat. Biotechnol. 2010 (already in corpus as rissin-2010-quanterix-simoa); FDA 510(k) K181616 (Simoa Nf-Light)
 - **ip status**: patented
 - **prior art notes**: Discloses the commercial Simoa fluidic platform: capture beads functionalized with antibody capture single-molecule analyte; bead suspension is loaded onto an injection-molded cyclic-olefin-polymer femtoliter microwell array disc (each array contains ~216,000 50 fL wells, sized to seat exactly one bead per well); fluorocarbon oil seals each well, isolating it as a digital reaction chamber; β-galactosidase-mediated cleavage of RGP in 'on' wells produces resorufin fluorescence detectable by CCD imaging — enabling binary single-molecule counting (digital ELISA). Anticipates: commercial-scale single-molecule immunoassay cartridges with sealed femtoliter wells; 24-array disposable disc format; the architectural pattern of bead-as-capture + microwell-as-digital-counter + oil-seal-as-isolation that defines digital immunoassay. Companion (Sherman et al. patent family) covers the 24-array disc geometry and bead-loading pipettor sequence not detailed in the academic Rissin 2010 paper.
+
+## Israelachvili 2011 - Intermolecular and Surface Forces (3rd ed.) (2011)
+
+- **id**: `israelachvili-2011-intermolecular-surface-forces-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jacob N. Israelachvili
+- **disclosure**: Israelachvili, J. N. (2011). 'Intermolecular and Surface Forces' (3rd ed.). Academic Press. ISBN 978-0-12-391927-4. (1st ed. 1985, 2nd ed. 1992.)
+- **ip status**: public-domain
+- **prior art notes**: Israelachvili textbook is the standard reference for intermolecular and surface forces, covering van der Waals interactions, electric-double-layer forces (extending DLVO from Verwey-Overbeek 1948), hydration and hydrophobic forces, and steric and bridging forces. Anticipates microfluidic claims involving surface-force-controlled nanochannel transport, particle-surface adhesion in microfluidic separations, and bio-functionalized surface-affinity capture in lab-on-chip cartridges. Any patent claiming novelty around tunable surface-interaction forces in microfluidics must clear Israelachvili.
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**23 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1955-03
+Earliest disclosure: 1947
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles (1947)
+
+- **id**: `brinkman-1947-porous-medium-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hendrik C. Brinkman
+- **disclosure**: Brinkman, H. C. (1947). 'A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles.' Appl. Sci. Res. A1: 27-34. doi:10.1007/BF02120313
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Brinkman equation: a modified Darcy law that includes a viscous diffusion term, valid for porous media of moderate-to-high permeability and at the interface between a porous region and a free-fluid channel. Anticipates patent claims involving microfluidic chambers with porous inserts (membranes, hydrogels, paper sections) bonded to open channels - the boundary condition at the interface is governed by Brinkman 1947. Load-bearing for organ-on-chip designs that pair hydrogel matrices with perfusion channels, and for membrane-on-chip immunoassays with adjacent open channels.
 
 ## Womersley 1955 — Womersley Number alpha for Pulsatile Flow (1955-03)
 

@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `separation-membrane-filtration-on-chip`
 
-**44 corpus entries disclose this subsystem.**
+**55 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1905-05-11
+Earliest disclosure: 1856
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Darcy 1856 - Les Fontaines Publiques de la Ville de Dijon (Darcy's law) (1856)
+
+- **id**: `darcy-1856-porous-media-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henry Darcy
+- **disclosure**: Darcy, H. (1856). 'Les Fontaines Publiques de la Ville de Dijon.' Victor Dalmont, Paris. Appendix D: filtration experiments.
+- **ip status**: public-domain
+- **prior art notes**: Discloses Darcy's law: flux through a porous medium is proportional to the pressure gradient divided by viscosity, with a material-dependent permeability constant. Load-bearing for all paper microfluidic modeling (Whitesides uPADs, lateral flow assays, blood-separation paper devices), sintered-frit and porous-membrane flow control on chip, packed-bed micro-reactors and on-chip chromatography columns. Anticipates patent claims reciting 'pressure-driven flow through porous medium' or 'flow rate proportional to applied pressure through permeable substrate' - Darcy 1856 published the equation 170 years before any microfluidic patent. Particularly invalidates over-broad paper microfluidic claims that fail to disclose specific non-obvious geometries.
+
+## Forchheimer 1901 - Wasserbewegung durch Boden (high-velocity porous flow) (1901)
+
+- **id**: `forchheimer-1901-high-velocity-porous-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philipp Forchheimer
+- **disclosure**: Forchheimer, P. (1901). 'Wasserbewegung durch Boden.' Zeitschrift des Vereines Deutscher Ingenieure 45: 1782-1788.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Forchheimer equation: a quadratic-in-velocity correction to Darcy's law valid at higher Reynolds numbers in porous media. Anticipates patent claims involving packed-bed microreactors operating at non-negligible Re, on-chip packed columns for chromatography or solid-phase extraction at high throughput, particle-bed filters for whole-blood handling - any disclosure claiming a flow-rate-vs-pressure relationship beyond pure Darcy is anticipated by Forchheimer 1901.
 
 ## Einstein 1905 — Brownian Motion and Stokes-Einstein Diffusion (1905-05-11)
 
@@ -24,6 +44,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Einstein, A. (1905). 'Ueber die von der molekularkinetischen Theorie der Waerme geforderte Bewegung von in ruhenden Fluessigkeiten suspendierten Teilchen.' Annalen der Physik 322(8): 549-560. doi:10.1002/andp.19053220806
 - **ip status**: public-domain
 - **prior art notes**: The Stokes-Einstein equation governs every diffusion-limited microfluidic process: H-filter separations (Brody and Yager 1997), diffusion mixers, Taylor-Aris dispersion (combined with Aris 1956), nanoparticle sizing by FCS or NTA, and the diffusion-controlled inlet/outlet of every reagent-zone in paper microfluidics. Anticipates patent claims that recite 'separation by diffusion coefficient difference' or 'particle sizing by Brownian motion tracking' insofar as they rest on the Stokes-Einstein relation. Together with Sutherland 1905 (independent derivation) this anchors over 120 years of diffusion-based microfluidic prior art.
+
+## Kozeny 1927 - Uber kapillare Leitung des Wassers im Boden (1927)
+
+- **id**: `kozeny-1927-permeability-porous-media`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Josef Kozeny
+- **disclosure**: Kozeny, J. (1927). 'Uber kapillare Leitung des Wassers im Boden.' Sitzungsberichte der Akademie der Wissenschaften in Wien 136: 271-306.
+- **ip status**: public-domain
+- **prior art notes**: Kozeny modeled a porous medium as a bundle of parallel capillaries of equivalent surface area and derived k = phi^3/(c*S^2). Anticipates any microfluidic disclosure that derives permeability from fiber-mat or particle-bed geometry - paper microfluidic flow-time predictions, cell-trap arrays modeled as porous regions, packed-bead microreactor predictions. Load-bearing for any patent claim reciting 'permeability calculated from substrate porosity and specific surface area' or 'flow-rate predicted from geometric porous-medium model'.
+
+## Carman 1937 - Permeability of saturated sands, soils and clays (Carman-Kozeny equation) (1937)
+
+- **id**: `carman-1937-permeability-granular-beds`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philip C. Carman
+- **disclosure**: Carman, P. C. (1937). 'Fluid flow through granular beds.' Trans. IChemE 15: 150-166. Companion: Carman, P. C. (1939). J. Agric. Sci. 29: 263.
+- **ip status**: public-domain
+- **prior art notes**: Combines Kozeny's geometric capillary-bundle model with Carman's empirical permeability data into the Carman-Kozeny equation, the standard relation for permeability of granular and fibrous porous media. Anticipates microfluidic disclosures claiming packed-bead immunoassay columns with predicted flow rates, on-chip solid-phase extraction columns sized to a target pressure drop, cell-trap arrays modeled as porous media. Any patent claim that derives an on-chip permeability or pressure-drop from bead-diameter and packing fraction is anticipated by Carman-Kozeny.
+
+## Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles (1947)
+
+- **id**: `brinkman-1947-porous-medium-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hendrik C. Brinkman
+- **disclosure**: Brinkman, H. C. (1947). 'A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles.' Appl. Sci. Res. A1: 27-34. doi:10.1007/BF02120313
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Brinkman equation: a modified Darcy law that includes a viscous diffusion term, valid for porous media of moderate-to-high permeability and at the interface between a porous region and a free-fluid channel. Anticipates patent claims involving microfluidic chambers with porous inserts (membranes, hydrogels, paper sections) bonded to open channels - the boundary condition at the interface is governed by Brinkman 1947. Load-bearing for organ-on-chip designs that pair hydrogel matrices with perfusion channels, and for membrane-on-chip immunoassays with adjacent open channels.
 
 ## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
 
@@ -45,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses polyacrylonitrile and PVDF hollow-fiber tangential-flow-filtration modules across UF (MWCO 6-150 kDa) and MF (0.1-0.65 µm) pore sizes, with module geometries from 0.05 m² lab modules to 60 m² process modules; the Microza family is one of the longest-running commercial hollow-fiber pharmaceutical TFF product lines, predating most Western competitors. Anticipates: hollow-fiber TFF for biotech downstream including viral-vector concentration, perfusion cell retention, and water-for-injection prefiltration; specifically the pattern of polyacrylonitrile fibers being chosen for low protein binding in plasma fractionation and biologics applications.
 
+## Macosko 1994 - Rheology: Principles, Measurements, and Applications (1994)
+
+- **id**: `macosko-1994-rheology-principles-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Christopher W. Macosko
+- **disclosure**: Macosko, C. W. (1994). 'Rheology: Principles, Measurements, and Applications.' Wiley-VCH. ISBN 978-0-471-18575-8.
+- **ip status**: public-domain
+- **prior art notes**: Macosko 1994 is the standard textbook on rheological measurement, including microfluidic rheometry methods (slit-rheometers, contraction-flow microrheometers, microcapillary methods). Anticipates patent claims on on-chip viscometry, contraction-flow microrheometers, and microscale extensional-viscosity measurement. Required clearance for any microfluidic rheometry novelty.
+
 ## Sartorius Sartocon ultrafiltration cassette family (1995)
 
 - **id**: `sartorius-sartocon-cassette`
@@ -64,6 +124,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Final Fantasy VII (Square 1997-01-31, JP); Final Fantasy VII Remake (Square Enix 2020-04-10) shows extraction in detail; Final Fantasy VII Rebirth (Square Enix 2024-02-29).
 - **ip status**: fictional
 - **prior art notes**: Mako reactors extract Lifestream (planetary biofluid) from underground reservoirs through industrial-scale drilling, fluid pumping, and refinement. The reactor cross-sections in FF7 Remake show settling tanks, distillation columns, and a final Materia condenser stage. Reads as prior art for: industrial planetary-fluid harvesting + multi-stage refinement architecture; large-scale settling + distillation + crystallization train; useful for 'industrial bioreservoir extraction with on-site refinement' patent claim coverage.
+
+## Brody & Yager 1997 - H-filter (single-step microfluidic diffusion filtration) (1997)
+
+- **id**: `brody-yager-1997-h-filter`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: James P. Brody; Paul Yager
+- **disclosure**: Brody, J. P., Yager, P. (1997). 'Diffusion-based extraction in a microfabricated device.' Sensors and Actuators A 58(1): 13-18. doi:10.1016/S0924-4247(97)80218-X
+- **ip status**: public-domain
+- **prior art notes**: Discloses the H-filter: a microfluidic device exploiting the difference in diffusion coefficients between small analytes and large interferents to extract analyte from complex samples in a single chip-scale step. Anticipates Yager's later T-sensor, all on-chip 'diffusion-only' extraction or filtration patents, and sample-prep cartridge claims using differential diffusion to clean blood/plasma/lysate for downstream detection. Particularly load-bearing for point-of-care cartridges (BioFire, Cepheid, Abbott ID NOW analogs) claiming 'membrane-free sample cleanup' - the H-filter publishes that art in 1997.
+
+## Cussler 1997 - Diffusion: Mass Transfer in Fluid Systems (2nd ed.) (1997)
+
+- **id**: `cussler-1997-diffusion-mass-transfer-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward L. Cussler
+- **disclosure**: Cussler, E. L. (1997). 'Diffusion: Mass Transfer in Fluid Systems' (2nd ed.). Cambridge University Press. ISBN 978-0-521-56477-9.
+- **ip status**: public-domain
+- **prior art notes**: Cussler 1997 (2nd ed.) is the canonical mass-transfer textbook. Anticipates microfluidic claims involving diffusion-limited mixing in microchannels (Brody-Yager H-filter and successors), mass-transfer-coefficient-keyed design of on-chip extractors, and membrane separation on chip. Any patent asserting a 'novel' mass-transfer correlation in microfluidics must clear Cussler.
 
 ## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
 
@@ -115,6 +195,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Process disclosure for GMP plasmid DNA manufacturing supporting DNA-vaccine programs: fed-batch E. coli fermentation → alkaline lysis (in-line static mixer or controlled-shear tank) → centrifugation → AEX chromatography → HIC polishing → TFF concentration → sterile filtration. Microfluidic content concentrated in in-line lysis mixer geometry and TFF cassette channel architecture. Anticipates: scaled GMP plasmid supply for vaccine-template applications. Trade-secret heavy; entry strength rests on Inovio public filings and VGXI service literature.
 
+## Geankoplis - Transport Processes and Separation Process Principles (4th ed.) (2003)
+
+- **id**: `geankoplis-transport-processes-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Christie J. Geankoplis
+- **disclosure**: Geankoplis, C. J. (2003). 'Transport Processes and Separation Process Principles' (4th ed.). Prentice Hall. ISBN 978-0-13-101367-4.
+- **ip status**: public-domain
+- **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
+
 ## Repligen KrosFlo tangential flow filtration system (2005)
 
 - **id**: `repligen-krosflo-tff`
@@ -124,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Spectrum Laboratories (acquired by Repligen 2017) KrosFlo line. https://www.repligen.com/products/krosflo. Patent family: US8231788B2 (Spectrum Laboratories; priority 2007).
 - **ip status**: patented
 - **prior art notes**: Discloses tangential-flow-filtration platform built around hollow-fiber filter cartridges, with automated TFF process control for buffer exchange, concentration, and clarification across the bioprocess scale spectrum. Anticipates: hollow-fiber TFF as a CGT downstream processing modality, including for viral-vector concentration and exosome/EV isolation; automated TFF instruments with permeate-flux and TMP feedback control loops.
+
+## Bird, Stewart & Lightfoot 2007 - Transport Phenomena (revised 2nd ed.) (2007)
+
+- **id**: `bird-stewart-lightfoot-2007-transport-phenomena-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: R. Byron Bird; Warren E. Stewart; Edwin N. Lightfoot
+- **disclosure**: Bird, R. B., Stewart, W. E., Lightfoot, E. N. (2007). 'Transport Phenomena' (revised 2nd ed.). John Wiley & Sons. ISBN 978-0-470-11539-8.
+- **ip status**: public-domain
+- **prior art notes**: The 2007 revised second edition extends BSL with explicit treatment of polymer rheology, multicomponent diffusion (Maxwell-Stefan), and microscale/biological transport. Anticipates patent claims that recite transport novelty in viscoelastic-fluid microfluidic devices, multicomponent on-chip separations, or biological-fluid transport in microchannels. Any 'transport-theory novelty' claim must clear both the 1960 1st edition and the 2007 revised 2nd edition.
 
 ## BlueSens BlueInOne Cell Off-Gas Analyzer (2008)
 
@@ -154,6 +254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: EMD Millipore Pellicon 3 launch 2009; https://www.emdmillipore.com/US/en/products/biopharmaceutical-manufacturing/upstream-and-downstream-processing/tangential-flow-filtration/pellicon-3-cassettes; US7959802B2.
 - **ip status**: patented
 - **prior art notes**: Discloses an ultrafiltration cassette built from Ultracel regenerated-cellulose composite membrane with a C-screen turbulence-promoting feed channel and a suspended-screen retentate flow path that provides higher mass-transfer at lower TMP than conventional cassettes. Anticipates: TFF cassette architectures using engineered turbulence-promoting screens to decouple flux from polarization in mAb and mRNA bulk drug-substance concentration; specifically the suspended-screen retentate channel as a means of reducing fouling at high product concentrations.
+
+## Cussler 2009 - Diffusion: Mass Transfer in Fluid Systems (3rd ed.) (2009)
+
+- **id**: `cussler-2009-diffusion-mass-transfer-3e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward L. Cussler
+- **disclosure**: Cussler, E. L. (2009). 'Diffusion: Mass Transfer in Fluid Systems' (3rd ed.). Cambridge University Press. ISBN 978-0-521-87121-1.
+- **ip status**: public-domain
+- **prior art notes**: The 2009 third edition expands Cussler mass-transfer treatment to explicitly cover microfluidic geometries, biological transport, and Maxwell-Stefan multicomponent diffusion. Anticipates patent claims involving microfluidic mass-transfer novelty in any of these expanded areas.
 
 ## Syrris Asia and Asia 320 modular flow chemistry platform (2010)
 

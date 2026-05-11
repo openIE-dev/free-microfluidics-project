@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-capillary-stop`
 
-**13 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Bond number explains why microfluidics works at all: at L ~ 100 microns, Bo ~ 10^-3 for water, so gravity is irrelevant and surface tension dominates. This is THE physical foundation for the microfluidic regime; anchors every patent claim that recites 'gravity-independent operation', 'orientation-independent chip', or 'surface-tension-driven liquid handling'. Eoetvoes 1886 (the equivalent group) predates the entire modern microfluidic field by more than a century.
 
+## de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827) (1985)
+
+- **id**: `de-gennes-1985-wetting-statics-dynamics-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes
+- **disclosure**: de Gennes, P.-G. (1985). 'Wetting: statics and dynamics.' Rev. Mod. Phys. 57(3): 827-863. doi:10.1103/RevModPhys.57.827
+- **ip status**: public-domain
+- **prior art notes**: de Gennes 1985 is the foundational modern review of wetting theory, predating Bonn 2009 by two decades. Documents contact-line motion at finite Ca, precursor films, contact-angle hysteresis, and partial-wetting equilibrium. Anticipates microfluidic claims on dynamic contact-line behavior, droplet-edge motion on patterned surfaces, and capillary-driven flow with viscous dissipation at the contact line. Particularly load-bearing for electrowetting patents that rely on contact-line motion theory.
+
 ## Abbott Piccolo Xpress / Abaxis disc-format clinical chemistry analyzer (1995)
 
 - **id**: `abbott-piccolo-xpress`
@@ -95,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Centrifugal microfluidic immunoassay platform on injection-molded CD-format substrate. Disposable CDs contain hundreds of parallel affinity-column-format immunoassays driven by spin-rate-controlled centrifugal pumping and capillary-burst valves. Anticipates: lab-on-disc immunoassay architecture, parallel column-format affinity assays under centrifugal flow, and CD-format consumable economics.
 
+## de Gennes, Brochard-Wyart & Quere 2004 - Capillarity and Wetting Phenomena (2004)
+
+- **id**: `de-gennes-brochard-wyart-quere-2004-capillarity-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes; Francoise Brochard-Wyart; David Quere
+- **disclosure**: de Gennes, P.-G., Brochard-Wyart, F., Quere, D. (2004). 'Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves.' Springer-Verlag, New York. ISBN 978-0-387-00592-1.
+- **ip status**: public-domain
+- **prior art notes**: The definitive modern textbook on capillarity and wetting, by three Nobel-class authors. Anticipates microfluidic claims involving contact-line dynamics in microchannels, wetting of patterned surfaces, droplet spreading and pinning, superhydrophobic-surface microfluidics, capillary-pumping designs, and electrowetting at the Young/Lippmann level. Any patent claim reciting 'contact-angle controlled flow', 'wetting hysteresis exploited for directional flow', or 'superhydrophobic surface for droplet handling' must clear dGBWQ 2004.
+
 ## Lab-on-a-CD: centrifugal microfluidics platform (2006)
 
 - **id**: `madou-2006-centrifugal-microfluidics`
@@ -124,6 +144,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
 - **ip status**: patented
 - **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
+
+## Quere 2008 - Wetting and roughness (Annu. Rev. Mater. Res. 38, 71) (2008)
+
+- **id**: `quere-2008-wetting-roughness-review`
+- **corpus**: academic
+- **device class**: other
+- **creator**: David Quere
+- **disclosure**: Quere, D. (2008). 'Wetting and roughness.' Annu. Rev. Mater. Res. 38: 71-99. doi:10.1146/annurev.matsci.38.060407.132434
+- **ip status**: public-domain
+- **prior art notes**: Quere 2008 is the canonical review of wetting on rough/structured surfaces, covering the Wenzel (homogeneous wetting) and Cassie-Baxter (composite air-pocket wetting) states and the pinning transitions between them. Anticipates microfluidic claims involving superhydrophobic-textured channels for slip enhancement, liquid-infused surfaces (SLIPS analog) for fouling resistance, directional droplet motion on textured surfaces, and Cassie-Baxter-keyed paper microfluidic claims. Any patent reciting textured/structured surfaces for microfluidic flow control is anticipated as to wetting state by Quere 2008.
+
+## Bonn et al. 2009 - Wetting and spreading (Rev. Mod. Phys. 81, 739) (2009)
+
+- **id**: `bonn-2009-wetting-spreading-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Daniel Bonn; Jens Eggers; Joseph Indekeu; Jacques Meunier; Etienne Rolley
+- **disclosure**: Bonn, D., Eggers, J., Indekeu, J., Meunier, J., Rolley, E. (2009). 'Wetting and spreading.' Rev. Mod. Phys. 81(2): 739-805. doi:10.1103/RevModPhys.81.739
+- **ip status**: public-domain
+- **prior art notes**: Bonn et al. 2009 is the canonical Reviews of Modern Physics article on wetting and spreading. Anticipates dynamic-wetting microfluidic claims, contact-line-pinning-based valves, contact-angle-hysteresis-driven flow rectifiers. Any patent asserting novelty around 'novel wetting dynamics' in microfluidics is anticipated by this review.
 
 ## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
 

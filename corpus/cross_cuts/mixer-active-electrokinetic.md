@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-active-electrokinetic`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1947
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Weissenberg, K. (1947). 'A continuum theory of rheological phenomena.' Nature 159(4035): 310-311. doi:10.1038/159310a0
 - **ip status**: public-domain
 - **prior art notes**: Weissenberg number governs whether a viscoelastic fluid in a microchannel exhibits elastic instabilities (Pakdel-McKinley criterion: Wi sqrt(L/R) > critical). Anchors: (a) elastic-instability micromixers (passive mixing in viscoelastic solutions at low Re); (b) viscoelastic single-cell focusing (Yang 2011 and descendants); (c) polymer-solution droplet generation regime maps; (d) cell-deformability assays in polymer solutions. Any patent claim that recites 'mixing or focusing in viscoelastic fluid' is anticipated by Weissenberg-number scaling.
+
+## Pakdel & McKinley 1996 - Elastic instability and curved streamlines (1996)
+
+- **id**: `pakdel-mckinley-1996-viscoelastic-instability`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Peyman Pakdel; Gareth H. McKinley
+- **disclosure**: Pakdel, P., McKinley, G. H. (1996). 'Elastic instability and curved streamlines.' Phys. Rev. Lett. 77(12): 2459-2462. doi:10.1103/PhysRevLett.77.2459
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Pakdel-McKinley criterion: viscoelastic flow becomes unstable when streamline curvature times Weissenberg number exceeds a material-dependent threshold. Universal scaling law underlying every viscoelastic-instability microfluidic disclosure: chaotic mixing of viscoelastic fluids in low-Re serpentine channels, elastic-turbulence-enhanced mixing, viscoelastic particle focusing, viscoelastic flow rectifiers. Anticipates patent claims keyed on viscoelastic mixing enhancement, elastic-instability-driven chaotic advection, or low-Re mixing via fluid rheology. Particularly invalidates over-broad 'viscoelastic mixing in serpentine microchannel' claims.
 
 ## The Expanse protomolecule fluid biology (Eros and Venus events) (2011)
 

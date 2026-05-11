@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `mixer-passive-interleaved-streams`
 
-**19 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1997
+Earliest disclosure: 1865
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Marangoni convection (thermocapillary and solutocapillary forms) (1865)
+
+- **id**: `marangoni-convection-thermosolutocapillary`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Carlo Marangoni (1865); Scriven & Sternling (1960)
+- **disclosure**: Extension of: Marangoni, C. (1865). 'Sull espansione delle goccie d un liquido galleggianti sulla superficie di altro liquido.' Pavia. Modern Marangoni convection: Scriven, L. E., Sternling, C. V. (1960). 'The Marangoni effects.' Nature 187: 186-188.
+- **ip status**: public-domain
+- **prior art notes**: Companion entry to marangoni-1865-surface-tension-flow (already in corpus), focused on convective form: Marangoni convection. Anticipates thermocapillary-pump microfluidic patents, solutocapillary mixing claims in droplet-on-chip devices, evaporation-driven coffee-ring patterning on chip, Marangoni-driven droplet motion on hydrophilic gradient surfaces, and on-chip droplet self-propulsion patents. Any patent reciting surface-tension-gradient-driven flow in a microfluidic device is anticipated as to the underlying physics.
+
+## Bretherton 1961 - The motion of long bubbles in tubes (1961)
+
+- **id**: `bretherton-1961-bubble-in-tube`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Francis P. Bretherton
+- **disclosure**: Bretherton, F. P. (1961). 'The motion of long bubbles in tubes.' J. Fluid Mech. 10(2): 166-188. doi:10.1017/S0022112061000160
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical scaling for a confined-bubble system: thin liquid film thickness, bubble velocity offset from mean flow, and capillary pressure drop across the bubble - all functions of Ca = mu*U/gamma. Anticipates microfluidic claims involving Taylor-flow segmented gas-liquid reactors, bubble-trains in segmented-flow microreactors, on-chip oxygenation, gas-liquid heat-exchange microchannels, and bubble-based mixing enhancement claims keyed to film-thickness control. Any patent that claims a quantitative relationship between bubble velocity and channel film thickness, or that uses Ca^(2/3) scaling to predict performance, is anticipated by Bretherton 1961.
 
 ## IMM Institut für Mikrotechnik Mainz modular microreactors (slit/interdigital/Caterpillar) (1997)
 
@@ -24,6 +44,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ehrfeld, W.; Golbig, K.; Hessel, V.; Löwe, H.; Richter, T. 'Characterization of mixing in micromixers by a test reaction: single mixing units and mixer arrays' Ind. Eng. Chem. Res. 1999, 38, 1075–1082; IMM Mainz technical report 1997; DE19536856A1 1995 priority
 - **ip status**: patented
 - **prior art notes**: IMM Mainz is the canonical academic-industrial bridge for European microreactors. Discloses (a) interdigital multilamination as a numerable industrial mixing primitive — alternating thin feed streams produce diffusion-limited mixing at orders-of-magnitude reduced length scale; (b) the 'slit-and-interdigital' mixer (SIMM) family covering laboratory through 3 m³/h production; (c) the canonical Caterpillar split-recombine pattern later commercialized by Ehrfeld BTS; (d) the entire architectural language of 'numbering up' (parallel modules) versus 'scaling up' (larger channels). Should be cited against later patent claims to interdigital lamination mixers, multilamination plate-stack mixers, and slit-focused multistream contactors.
+
+## Brody & Yager 1997 - H-filter (single-step microfluidic diffusion filtration) (1997)
+
+- **id**: `brody-yager-1997-h-filter`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: James P. Brody; Paul Yager
+- **disclosure**: Brody, J. P., Yager, P. (1997). 'Diffusion-based extraction in a microfabricated device.' Sensors and Actuators A 58(1): 13-18. doi:10.1016/S0924-4247(97)80218-X
+- **ip status**: public-domain
+- **prior art notes**: Discloses the H-filter: a microfluidic device exploiting the difference in diffusion coefficients between small analytes and large interferents to extract analyte from complex samples in a single chip-scale step. Anticipates Yager's later T-sensor, all on-chip 'diffusion-only' extraction or filtration patents, and sample-prep cartridge claims using differential diffusion to clean blood/plasma/lysate for downstream detection. Particularly load-bearing for point-of-care cartridges (BioFire, Cepheid, Abbott ID NOW analogs) claiming 'membrane-free sample cleanup' - the H-filter publishes that art in 1997.
+
+## Cussler 1997 - Diffusion: Mass Transfer in Fluid Systems (2nd ed.) (1997)
+
+- **id**: `cussler-1997-diffusion-mass-transfer-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward L. Cussler
+- **disclosure**: Cussler, E. L. (1997). 'Diffusion: Mass Transfer in Fluid Systems' (2nd ed.). Cambridge University Press. ISBN 978-0-521-56477-9.
+- **ip status**: public-domain
+- **prior art notes**: Cussler 1997 (2nd ed.) is the canonical mass-transfer textbook. Anticipates microfluidic claims involving diffusion-limited mixing in microchannels (Brody-Yager H-filter and successors), mass-transfer-coefficient-keyed design of on-chip extractors, and membrane separation on chip. Any patent asserting a 'novel' mass-transfer correlation in microfluidics must clear Cussler.
 
 ## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
 
@@ -94,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chemtrix BV product launch, Labtrix Start (2008) and Labtrix S1 (2009); Hessel, V.; Cortese, B.; de Croon, M. H. J. M. 'Novel process windows — concept, proposition and evaluation methodology, and intensified superheated processing' Chem. Eng. Sci. 2011, 66, 1426–1448; Chemtrix Labtrix S1 datasheet 2009
 - **ip status**: patented
 - **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
+
+## Cussler 2009 - Diffusion: Mass Transfer in Fluid Systems (3rd ed.) (2009)
+
+- **id**: `cussler-2009-diffusion-mass-transfer-3e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward L. Cussler
+- **disclosure**: Cussler, E. L. (2009). 'Diffusion: Mass Transfer in Fluid Systems' (3rd ed.). Cambridge University Press. ISBN 978-0-521-87121-1.
+- **ip status**: public-domain
+- **prior art notes**: The 2009 third edition expands Cussler mass-transfer treatment to explicitly cover microfluidic geometries, biological transport, and Maxwell-Stefan multicomponent diffusion. Anticipates patent claims involving microfluidic mass-transfer novelty in any of these expanded areas.
 
 ## Corning Advanced-Flow Reactor G3 (production-scale) (2010)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-split-recombine`
 
-**20 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Peclet, J. C. E. (1841). 'Traite de la chaleur considerée dans ses applications.' Hachette, Paris (2nd ed., 3 vol.); dimensionless-group form codified in 20th-century transport literature.
 - **ip status**: public-domain
 - **prior art notes**: Peclet number is the controlling parameter for every microfluidic mixer: at low Pe, diffusion dominates and mixing is fast; at high Pe (typical of microfluidics with small molecules at modest velocity), advection dominates and passive mixers like the Stroock 2002 staggered herringbone are required. Anchors: (a) all passive micromixer patents that recite mixing-length-vs-Peclet scaling; (b) Taylor-Aris dispersion analysis (combined with Aris 1956); (c) hydrodynamic focusing of analytes into a thin laminar stream for downstream detection. Any patent claim to 'mixing time scaling' or 'advection-dominated transport regime' is anticipated by the Peclet group.
+
+## Jensen 1989 - Early silicon micromixer (1989)
+
+- **id**: `jensen-1989-silicon-micromixer`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Klavs F. Jensen et al.
+- **disclosure**: Jensen, K. F. et al. (1989). 'A silicon-based micromixer.' Sensors and Actuators proceedings.
+- **ip status**: public-domain
+- **prior art notes**: Discloses early silicon-micromachined on-chip mixing geometries dating to 1989, predating staggered-herringbone (Stroock 2002, already in corpus). Anticipates any patent claim that recites 'on-chip mixing by recursive lamination of laminar streams' or 'silicon-substrate micromixer with serpentine channel' - establishes silicon-substrate microfluidic mixing as 1980s prior art.
 
 ## Silicon micromachined valve survey (Branebjerg 1996) (1996)
 

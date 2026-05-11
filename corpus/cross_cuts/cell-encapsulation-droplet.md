@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**31 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1989
+Earliest disclosure: 1941
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Derjaguin & Landau 1941 - Theory of the stability of strongly charged lyophobic sols (1941)
+
+- **id**: `derjaguin-landau-1941-colloid-stability`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Boris V. Derjaguin; Lev D. Landau
+- **disclosure**: Derjaguin, B., Landau, L. (1941). 'Theory of the stability of strongly charged lyophobic sols and of the adhesion of strongly charged particles in solutions of electrolytes.' Acta Physicochim. USSR 14: 633-662.
+- **ip status**: public-domain
+- **prior art notes**: Derjaguin-Landau 1941 is the Soviet-side independent derivation of what later became DLVO theory. Together with Verwey-Overbeek 1948, establishes the canonical theory of colloid stability - load-bearing for any microfluidic disclosure involving particle aggregation, cell-cell adhesion, or electrolyte-controlled microfluidic operation. Provides a 1941 anchor that predates Verwey-Overbeek by seven years.
+
+## Verwey & Overbeek 1948 - Theory of the Stability of Lyophobic Colloids (1948)
+
+- **id**: `verwey-overbeek-1948-dlvo-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Evert Verwey; Theodoor Overbeek
+- **disclosure**: Verwey, E. J. W., Overbeek, J. T. G. (1948). 'Theory of the Stability of Lyophobic Colloids.' Elsevier, Amsterdam.
+- **ip status**: public-domain
+- **prior art notes**: Verwey-Overbeek 1948 (together with Derjaguin-Landau 1941) established DLVO theory: colloid stability emerges from a balance of attractive van der Waals and repulsive electric-double-layer interactions. Anticipates microfluidic claims involving bead aggregation in on-chip immunoassays, cell-cell adhesion in droplet encapsulation, particle deposition on channel walls, and electrolyte-controlled colloid handling. Any patent claiming a 'novel colloid-stability-controlled microfluidic operation' must clear DLVO theory.
 
 ## Hyperion Cruciform parasitic implant (resurrection bioparasite) (1989)
 

@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**36 corpus entries disclose this subsystem.**
+**42 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1918
+Earliest disclosure: 1856
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Darcy 1856 - Les Fontaines Publiques de la Ville de Dijon (Darcy's law) (1856)
+
+- **id**: `darcy-1856-porous-media-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henry Darcy
+- **disclosure**: Darcy, H. (1856). 'Les Fontaines Publiques de la Ville de Dijon.' Victor Dalmont, Paris. Appendix D: filtration experiments.
+- **ip status**: public-domain
+- **prior art notes**: Discloses Darcy's law: flux through a porous medium is proportional to the pressure gradient divided by viscosity, with a material-dependent permeability constant. Load-bearing for all paper microfluidic modeling (Whitesides uPADs, lateral flow assays, blood-separation paper devices), sintered-frit and porous-membrane flow control on chip, packed-bed micro-reactors and on-chip chromatography columns. Anticipates patent claims reciting 'pressure-driven flow through porous medium' or 'flow rate proportional to applied pressure through permeable substrate' - Darcy 1856 published the equation 170 years before any microfluidic patent. Particularly invalidates over-broad paper microfluidic claims that fail to disclose specific non-obvious geometries.
+
+## Quincke 1859 - Capillary-rise observations on solid-liquid interfaces (1859)
+
+- **id**: `quincke-1859-capillary-rise-observations`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Georg Hermann Quincke
+- **disclosure**: Quincke, G. (1859). 'Ueber die Capillaritats-Erscheinungen.' Ann. Phys. Chem. 105: 1-48.
+- **ip status**: public-domain
+- **prior art notes**: Discloses a systematic experimental program measuring capillary rise heights and meniscus shapes against a range of solid surfaces and liquids, predating Lucas 1918 and Washburn 1921 by six decades. Anticipates paper microfluidic disclosures that recite 'wicking driven by surface tension into porous substrate', 'differential capillary rise rates by surface chemistry', or 'characterization of substrate via observed rise height' - Quincke's 1859 paper documents the experimental basis underlying all such claims. Provides a 19th-century load-bearing anchor for paper microfluidics that complements the Lucas-Washburn dynamic equation already in the corpus.
 
 ## Lucas 1918 — Capillary Rise Dynamics (1918)
 
@@ -34,6 +54,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Washburn, E. W. (1921). 'The dynamics of capillary flow.' Physical Review 17(3): 273-283. doi:10.1103/PhysRev.17.273
 - **ip status**: public-domain
 - **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
+
+## Kozeny 1927 - Uber kapillare Leitung des Wassers im Boden (1927)
+
+- **id**: `kozeny-1927-permeability-porous-media`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Josef Kozeny
+- **disclosure**: Kozeny, J. (1927). 'Uber kapillare Leitung des Wassers im Boden.' Sitzungsberichte der Akademie der Wissenschaften in Wien 136: 271-306.
+- **ip status**: public-domain
+- **prior art notes**: Kozeny modeled a porous medium as a bundle of parallel capillaries of equivalent surface area and derived k = phi^3/(c*S^2). Anticipates any microfluidic disclosure that derives permeability from fiber-mat or particle-bed geometry - paper microfluidic flow-time predictions, cell-trap arrays modeled as porous regions, packed-bead microreactor predictions. Load-bearing for any patent claim reciting 'permeability calculated from substrate porosity and specific surface area' or 'flow-rate predicted from geometric porous-medium model'.
+
+## Carman 1937 - Permeability of saturated sands, soils and clays (Carman-Kozeny equation) (1937)
+
+- **id**: `carman-1937-permeability-granular-beds`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philip C. Carman
+- **disclosure**: Carman, P. C. (1937). 'Fluid flow through granular beds.' Trans. IChemE 15: 150-166. Companion: Carman, P. C. (1939). J. Agric. Sci. 29: 263.
+- **ip status**: public-domain
+- **prior art notes**: Combines Kozeny's geometric capillary-bundle model with Carman's empirical permeability data into the Carman-Kozeny equation, the standard relation for permeability of granular and fibrous porous media. Anticipates microfluidic disclosures claiming packed-bead immunoassay columns with predicted flow rates, on-chip solid-phase extraction columns sized to a target pressure drop, cell-trap arrays modeled as porous media. Any patent claim that derives an on-chip permeability or pressure-drop from bead-diameter and packing fraction is anticipated by Carman-Kozeny.
+
+## Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles (1947)
+
+- **id**: `brinkman-1947-porous-medium-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hendrik C. Brinkman
+- **disclosure**: Brinkman, H. C. (1947). 'A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles.' Appl. Sci. Res. A1: 27-34. doi:10.1007/BF02120313
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Brinkman equation: a modified Darcy law that includes a viscous diffusion term, valid for porous media of moderate-to-high permeability and at the interface between a porous region and a free-fluid channel. Anticipates patent claims involving microfluidic chambers with porous inserts (membranes, hydrogels, paper sections) bonded to open channels - the boundary condition at the interface is governed by Brinkman 1947. Load-bearing for organ-on-chip designs that pair hydrogel matrices with perfusion channels, and for membrane-on-chip immunoassays with adjacent open channels.
 
 ## 3M (now Neogen) Petrifilm food microbiology plates (1980)
 
@@ -254,6 +304,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kuldell N, Bernstein R, Ingram K, BioBuilder: Synthetic Biology in the Lab (O'Reilly 2015, ISBN 978-1491904299); biobuilder.org
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an open educational kit and curriculum framework including microfluidic-adjacent activities (E. coli pigment assays, sensor strain plate readouts) for high-school synthetic biology. Anticipates: educational consumable kits combining engineered-strain reagents with simple microfluidic readout chambers; the architectural pattern of teacher-deployable lab-on-chip teaching cartridges with companion curriculum.
+
+## Whitesides 2013 - Cool, or simple and cheap? Why not both? (origins of microfluidics) (2013)
+
+- **id**: `whitesides-2013-origins-microfluidics-lab-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides
+- **disclosure**: Whitesides, G. M. (2013). 'Cool, or simple and cheap? Why not both?' Lab Chip 13(1): 11-13. doi:10.1039/c2lc90109a. Related: Lab Chip 14, 4133 (2014).
+- **ip status**: public-domain
+- **prior art notes**: Whitesides 2013 is a self-retrospective on microfluidics by the field most-cited founder. Although nominally an editorial, it documents field historical motivations and current trajectory at a level relevant for prior-art context in microfluidic patent disputes. Useful as a primary-source statement of field intent and engineering tradeoffs, particularly for 'point-of-care diagnostic' patents that recite low-cost-vs-research-quality justifications.
 
 ## Quidel Sofia 2 fluorescent immunoassay analyzer (2014)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**30 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -55,6 +55,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Foundational disclosure of Taylor-Aris dispersion: in pressure-driven (Poiseuille) flow through a tube, the parabolic velocity profile combined with cross-stream diffusion produces an effective axial dispersion coefficient that grows with Pe². This phenomenon is the dominant peak-broadening mechanism in chip CE and continuous-flow analysis, and the reason electroosmotic flow (with its plug-like profile) gives sharper peaks than pressure-driven flow. Anticipates: every CE chip's optimization of peak resolution by minimizing Taylor-Aris dispersion through plug-flow (electroosmotic, electrokinetic) regimes.
 
+## Manning 1969 - Counterion condensation theory (1969)
+
+- **id**: `manning-1969-counterion-condensation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gerald S. Manning
+- **disclosure**: Manning, G. S. (1969). 'Limiting laws and counterion condensation in polyelectrolyte solutions I. Colligative properties.' J. Chem. Phys. 51(3): 924-933. doi:10.1063/1.1672157
+- **ip status**: public-domain
+- **prior art notes**: Manning 1969 establishes counterion-condensation theory for charged polyelectrolytes: condensed counterions reduce effective charge of DNA and other polyelectrolytes, controlling conformation, persistence length, and electrophoretic mobility. Anticipates nanofluidic patents involving DNA stretching/conformation in nanochannels, ionic-condition-modulated DNA mobility, and electrolyte-controlled polyelectrolyte transport. Load-bearing for any nanofluidic DNA-handling patent.
+
+## Manning 1972 - Polyelectrolyte condensation theory (extended) (1972)
+
+- **id**: `manning-1972-polyelectrolyte-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gerald S. Manning
+- **disclosure**: Manning, G. S. (1972). 'Polyelectrolyte solutions. II. The osmotic pressure.' Annu. Rev. Phys. Chem. 23: 117-140.
+- **ip status**: public-domain
+- **prior art notes**: Manning 1972 extends the 1969 counterion-condensation theory into systematic predictions for osmotic pressure, electrophoretic mobility, and viscosity of polyelectrolyte solutions. Anticipates nanofluidic DNA-handling claims that recite mobility plateaus, ionic-strength-tuned separation, or condensation-controlled DNA conformation in nanochannels. Companion to Manning 1969.
+
 ## Probstein 1989 — Physicochemical Hydrodynamics (Textbook, 1st ed.) (1989)
 
 - **id**: `probstein-1989-physicochemical-hydrodynamics-textbook`
@@ -84,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manz, Graber, Widmer, Sensors and Actuators B 1990, 1, 244-248 (doi:10.1016/0925-4005(90)80209-I); existing entry manz-1990-mu-tas-concept
 - **ip status**: public-domain
 - **prior art notes**: Defensive anchor entry. The Manz, Graber, Widmer 1990 paper (Sensors and Actuators B 1, 244-248) articulated the µTAS / miniaturized total analysis system concept: integration of sample handling, separation, and detection on a single miniaturized substrate. Any patent attempting to claim 'integrated analysis on a single chip' as a generic concept is anticipated by this paper as a 35 USC 102 publication. Useful as a defensive citation for any vendor pressed by overly-broad lab-on-chip claims. Companion existing entries manz-1990-mu-tas-concept (the paper) and manz-1992-ciba-geigy-mu-tas-patent-original (the related Ciba-Geigy patent). The Manz 1990 paper, being a publication, is in the public domain; this entry timestamps that fact as a defensive disclosure asset.
+
+## Lyklema 1991 - Fundamentals of Interface and Colloid Science (1991)
+
+- **id**: `lyklema-1991-interface-colloid-science-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Johannes (Hans) Lyklema
+- **disclosure**: Lyklema, J. (1991-2005). 'Fundamentals of Interface and Colloid Science.' Academic Press / Elsevier, multivolume. ISBN 978-0-12-460524-8 (Vol I).
+- **ip status**: public-domain
+- **prior art notes**: Lyklema multivolume FICS series is the comprehensive reference for interface and colloid science, including the electric double layer, zeta potential, and electrokinetic phenomena (electroosmosis, electrophoresis, streaming potential, sedimentation potential). Anticipates electrokinetic microfluidic claims involving zeta-potential-keyed flow control, surface-charge-modulated separations, and EOF pumping designs. Required clearance for any 'electrokinetic-novelty' microfluidic patent.
 
 ## Capillary electrophoresis on a microchip (1992)
 

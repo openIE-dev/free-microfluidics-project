@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-active-acoustic`
 
-**5 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1890
 
@@ -54,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AM Technology Coflore ATR launch 2010; Browne, D. L.; Deadman, B. J.; Ashe, R.; Baxendale, I. R.; Ley, S. V. 'Continuous flow processing of slurries: evaluation of an agitated cell reactor' Org. Process Res. Dev. 2011, 15, 693–697; Coflore ATR product brochure rev 2015
 - **ip status**: patented
 - **prior art notes**: Borderline microfluidic but included for prior-art coverage — the oscillatory-baffled-reactor (OBR) architecture provides radial-mixing decoupled from net axial flow, achieving plug-flow with relatively large (~cm) cells. Discloses (a) the agitated-cell-reactor as solid-tolerant alternative to PFR microreactors clogged by suspended solids; (b) the practical mechanical-oscillation architecture (whole-reactor reciprocation rather than baffle motion); (c) industrial deployment for crystallization, biocatalysis, and polymerization in continuous flow. Anticipates patent claims to mechanically oscillated baffled flow reactors for continuous slurry-handling chemistry.
+
+## Bruus 2012 - Acoustofluidics tutorial series (Lab Chip) (2011)
+
+- **id**: `bruus-2012-acoustofluidics-tutorial-series`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henrik Bruus
+- **disclosure**: Bruus, H. (2011-2012). 'Acoustofluidics tutorial series.' Lab on a Chip 11(20) ff. Including: Bruus, 'Acoustofluidics 7: The acoustic radiation force on small particles,' Lab Chip 12, 1014 (2012). doi:10.1039/c2lc21068a
+- **ip status**: public-domain
+- **prior art notes**: Bruus 2011-2012 tutorial series in Lab on a Chip is the authoritative modern pedagogical reference for acoustofluidics, deriving the Gorkov potential, acoustic streaming (Rayleigh, Eckart, and Schlichting types), and design equations for both BAW and SAW chip-scale devices. Anticipates any patent claim asserting novelty around acoustofluidic-device design parameters (resonant chamber dimensions, drive frequency, mode selection) that reduce to the tutorial-series formulas.
+
+## Friend & Yeo 2011 - Microscale acoustofluidics (2011)
+
+- **id**: `friend-yeo-2011-microscale-acoustofluidics-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: James Friend; Leslie Y. Yeo
+- **disclosure**: Friend, J., Yeo, L. Y. (2011). 'Microscale acoustofluidics: Microfluidics driven via acoustics and ultrasonics.' Rev. Mod. Phys. 83(2): 647-704. doi:10.1103/RevModPhys.83.647
+- **ip status**: public-domain
+- **prior art notes**: Friend-Yeo 2011 is the definitive RMP-level review of microscale acoustofluidics, covering surface-acoustic-wave microfluidics, bulk-acoustic-wave standing-wave devices, acoustic streaming microfluidics, atomization and ejection via acoustics, and acoustic-tweezers and acoustofluidic separation. Anticipates any patent claim around SAW-driven, BAW-driven, or acoustic-streaming microfluidic devices. Required clearance for the entire acoustofluidic patent ecosystem.
 
 ## Snapdragon Chemistry continuous-manufacturing platform (acquired by Cambrex 2021) (2014)
 

@@ -64,6 +64,14 @@
       "descendants": []
     },
     {
+      "id": "darcy-1856-porous-media-flow",
+      "name": "Darcy 1856 - Les Fontaines Publiques de la Ville de Dijon (Darcy's law)",
+      "year": "1856",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "helmholtz-1858-vortex-motion",
       "name": "Helmholtz 1858 — On integrals of the hydrodynamic equations corresponding to vortex motion",
       "year": "1858",
@@ -72,6 +80,14 @@
       "descendants": [
         "smoluchowski-1903-electroosmosis-equation"
       ]
+    },
+    {
+      "id": "quincke-1859-capillary-rise-observations",
+      "name": "Quincke 1859 - Capillary-rise observations on solid-liquid interfaces",
+      "year": "1859",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "wilhelmy-1863-plate-surface-tension",
@@ -95,6 +111,18 @@
       "year": "1865",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": [
+        "marangoni-convection-thermosolutocapillary"
+      ]
+    },
+    {
+      "id": "marangoni-convection-thermosolutocapillary",
+      "name": "Marangoni convection (thermocapillary and solutocapillary forms)",
+      "year": "1865",
+      "corpus": "academic",
+      "ancestors": [
+        "marangoni-1865-surface-tension-flow"
+      ],
       "descendants": []
     },
     {
@@ -127,7 +155,10 @@
       "year": "1873",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "plateau-rayleigh-instability-combined",
+        "tomotika-1935-droplet-breakup-theory"
+      ]
     },
     {
       "id": "helmholtz-1879-electrokinetic-double-layer",
@@ -138,12 +169,26 @@
       "descendants": []
     },
     {
+      "id": "plateau-rayleigh-instability-combined",
+      "name": "Plateau-Rayleigh instability (combined droplet-formation theory)",
+      "year": "1879",
+      "corpus": "academic",
+      "ancestors": [
+        "plateau-1873-soap-films-capillarity",
+        "rayleigh-1879-jet-instability"
+      ],
+      "descendants": []
+    },
+    {
       "id": "rayleigh-1879-jet-instability",
       "name": "Rayleigh 1879 — On the instability of jets (Plateau-Rayleigh instability)",
       "year": "1879",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "plateau-rayleigh-instability-combined",
+        "tomotika-1935-droplet-breakup-theory"
+      ]
     },
     {
       "id": "reynolds-1883-pipe-flow-transition",
@@ -193,6 +238,14 @@
       "id": "hele-shaw-1898-flow-of-water",
       "name": "Hele-Shaw 1898 — The Flow of Water (Hele-Shaw Cell)",
       "year": "1898",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "forchheimer-1901-high-velocity-porous-flow",
+      "name": "Forchheimer 1901 - Wasserbewegung durch Boden (high-velocity porous flow)",
+      "year": "1901",
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
@@ -328,6 +381,16 @@
       "descendants": []
     },
     {
+      "id": "kozeny-1927-permeability-porous-media",
+      "name": "Kozeny 1927 - Uber kapillare Leitung des Wassers im Boden",
+      "year": "1927",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "carman-1937-permeability-granular-beds"
+      ]
+    },
+    {
       "id": "capillary-number-dimensionless-group",
       "name": "Capillary Number Ca = mu U / gamma",
       "year": "1928",
@@ -360,6 +423,28 @@
       "descendants": []
     },
     {
+      "id": "king-1934-acoustic-radiation-pressure",
+      "name": "King 1934 - On the acoustic radiation pressure on spheres",
+      "year": "1934",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "gorkov-1962-acoustic-radiation-force-theory",
+        "yosioka-kawasima-1955-acoustic-radiation-force"
+      ]
+    },
+    {
+      "id": "tomotika-1935-droplet-breakup-theory",
+      "name": "Tomotika 1935 - On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid",
+      "year": "1935",
+      "corpus": "academic",
+      "ancestors": [
+        "plateau-1873-soap-films-capillarity",
+        "rayleigh-1879-jet-instability"
+      ],
+      "descendants": []
+    },
+    {
       "id": "damkohler-numbers-dimensionless-group",
       "name": "Damkoehler Numbers Da_I, Da_II",
       "year": "1936",
@@ -368,9 +453,43 @@
       "descendants": []
     },
     {
+      "id": "carman-1937-permeability-granular-beds",
+      "name": "Carman 1937 - Permeability of saturated sands, soils and clays (Carman-Kozeny equation)",
+      "year": "1937",
+      "corpus": "academic",
+      "ancestors": [
+        "kozeny-1927-permeability-porous-media"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "derjaguin-landau-1941-colloid-stability",
+      "name": "Derjaguin & Landau 1941 - Theory of the stability of strongly charged lyophobic sols",
+      "year": "1941",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "brinkman-1947-porous-medium-equation",
+      "name": "Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles",
+      "year": "1947",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "weissenberg-number-dimensionless-group",
       "name": "Weissenberg Number Wi = gamma_dot * tau",
       "year": "1947",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "verwey-overbeek-1948-dlvo-theory",
+      "name": "Verwey & Overbeek 1948 - Theory of the Stability of Lyophobic Colloids",
+      "year": "1948",
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
@@ -420,6 +539,18 @@
       "descendants": []
     },
     {
+      "id": "yosioka-kawasima-1955-acoustic-radiation-force",
+      "name": "Yosioka & Kawasima 1955 - Acoustic radiation pressure on a compressible sphere",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [
+        "king-1934-acoustic-radiation-pressure"
+      ],
+      "descendants": [
+        "gorkov-1962-acoustic-radiation-force-theory"
+      ]
+    },
+    {
       "id": "womersley-1955-number-pulsatile-flow",
       "name": "Womersley 1955 — Womersley Number alpha for Pulsatile Flow",
       "year": "1955",
@@ -444,10 +575,28 @@
       "descendants": []
     },
     {
+      "id": "bird-stewart-lightfoot-1960-transport-phenomena",
+      "name": "Bird, Stewart & Lightfoot 1960 - Transport Phenomena (textbook, 1st ed.)",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "bird-stewart-lightfoot-2007-transport-phenomena-2e"
+      ]
+    },
+    {
       "id": "research-disclosure-kenneth-mason-publications",
       "name": "Research Disclosure (Kenneth Mason Publications) Defensive Publication Journal",
       "year": "1960",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bretherton-1961-bubble-in-tube",
+      "name": "Bretherton 1961 - The motion of long bubbles in tubes",
+      "year": "1961",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -468,12 +617,36 @@
       "descendants": []
     },
     {
+      "id": "gorkov-1962-acoustic-radiation-force-theory",
+      "name": "Gorkov 1962 - Forces acting on a small particle in an acoustical field in an ideal fluid",
+      "year": "1962",
+      "corpus": "academic",
+      "ancestors": [
+        "king-1934-acoustic-radiation-pressure",
+        "yosioka-kawasima-1955-acoustic-radiation-force"
+      ],
+      "descendants": [
+        "bruus-2012-acoustofluidics-tutorial-series"
+      ]
+    },
+    {
       "id": "la-calhene-dpte-double-port",
       "name": "La Calhène DPTE double-port aseptic transfer system",
       "year": "1962",
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "segre-silberberg-1962-inertial-focusing",
+      "name": "Segre & Silberberg 1962 - Behaviour of macroscopic rigid spheres in Poiseuille flow",
+      "year": "1962",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "karnis-mason-1963-particle-migration-tubes",
+        "saffman-1965-shear-lift-force"
+      ]
     },
     {
       "id": "vroman-effect-1962",
@@ -484,10 +657,28 @@
       "descendants": []
     },
     {
+      "id": "karnis-mason-1963-particle-migration-tubes",
+      "name": "Karnis & Mason 1963 - Particle migration in Poiseuille flow",
+      "year": "1963",
+      "corpus": "academic",
+      "ancestors": [
+        "segre-silberberg-1962-inertial-focusing"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cordwainer-smith-stroon-treatment",
       "name": "Cordwainer Smith Norstrilia Stroon longevity treatment",
       "year": "1964",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "taylor-1964-electrified-cone-electrospray",
+      "name": "Taylor 1964 - Disintegration of water drops in an electric field (Taylor cone)",
+      "year": "1964",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -563,6 +754,16 @@
       "year": "1965",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "saffman-1965-shear-lift-force",
+      "name": "Saffman 1965 - The lift on a small sphere in a slow shear flow",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [
+        "segre-silberberg-1962-inertial-focusing"
+      ],
       "descendants": []
     },
     {
@@ -710,6 +911,16 @@
       "descendants": []
     },
     {
+      "id": "manning-1969-counterion-condensation",
+      "name": "Manning 1969 - Counterion condensation theory",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "manning-1972-polyelectrolyte-extension"
+      ]
+    },
+    {
       "id": "videojet-binary-array-cij-coding",
       "name": "Videojet Binary Array Continuous Inkjet Coding Printhead",
       "year": "1969",
@@ -755,6 +966,26 @@
       "year": "1972",
       "corpus": "open",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "levenspiel-1972-chemical-reaction-engineering",
+      "name": "Levenspiel 1972 - Chemical Reaction Engineering (2nd ed.)",
+      "year": "1972",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "fogler-2006-elements-reaction-engineering-4e"
+      ]
+    },
+    {
+      "id": "manning-1972-polyelectrolyte-extension",
+      "name": "Manning 1972 - Polyelectrolyte condensation theory (extended)",
+      "year": "1972",
+      "corpus": "academic",
+      "ancestors": [
+        "manning-1969-counterion-condensation"
+      ],
       "descendants": []
     },
     {
@@ -859,6 +1090,14 @@
       "id": "viking-1976-gcms-biology-experiment",
       "name": "Viking 1/2 GCMS and Biology Package",
       "year": "1976",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "boger-1977-elastic-fluid-definition",
+      "name": "Boger 1977 - A highly elastic constant-viscosity fluid",
+      "year": "1977",
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
@@ -1262,6 +1501,14 @@
       "descendants": []
     },
     {
+      "id": "de-gennes-1985-wetting-statics-dynamics-rmp",
+      "name": "de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827)",
+      "year": "1985",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "iris-graphics-3047-drum-cij",
       "name": "Iris Graphics 3047 Drum Continuous Inkjet Proofer",
       "year": "1985",
@@ -1330,6 +1577,14 @@
       "name": "HemoCue Hb 201+ Capillary Hemoglobin Analyzer",
       "year": "1986",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hoiman-1986-helsinki-silicon-micropump",
+      "name": "Hoiman 1986 - Silicon micropump (Helsinki)",
+      "year": "1986",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -1454,6 +1709,14 @@
       "descendants": []
     },
     {
+      "id": "larson-1988-constitutive-equations-textbook",
+      "name": "Larson 1988 - Constitutive Equations for Polymer Melts and Solutions",
+      "year": "1988",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "van-lintel-1988-silicon-piezo-pump",
       "name": "Silicon piezoelectric micropump (Van Lintel 1988)",
       "year": "1988",
@@ -1522,6 +1785,14 @@
       "name": "IDEXX Colilert water quality test (E. coli / coliform)",
       "year": "1989",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "jensen-1989-silicon-micromixer",
+      "name": "Jensen 1989 - Early silicon micromixer",
+      "year": "1989",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -1747,6 +2018,14 @@
     {
       "id": "lukosz-1991-grating-coupler-biosensor",
       "name": "Lukosz Grating-Coupler Optical Biosensor (PIC ancestor)",
+      "year": "1991",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lyklema-1991-interface-colloid-science-textbook",
+      "name": "Lyklema 1991 - Fundamentals of Interface and Colloid Science",
       "year": "1991",
       "corpus": "academic",
       "ancestors": [],
@@ -2046,6 +2325,14 @@
       "descendants": []
     },
     {
+      "id": "bowers-mudawar-1994-microchannel-cooling",
+      "name": "Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks",
+      "year": "1994",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bujold-jacksonian-bharaputra-clone-vat",
       "name": "Jacksonian House Bharaputra Clone Brain-Transplant Facility",
       "year": "1994",
@@ -2077,6 +2364,14 @@
       "ancestors": [
         "harrison-1992-cap-electrophoresis-on-chip"
       ],
+      "descendants": []
+    },
+    {
+      "id": "macosko-1994-rheology-principles-textbook",
+      "name": "Macosko 1994 - Rheology: Principles, Measurements, and Applications",
+      "year": "1994",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2482,6 +2777,14 @@
       "descendants": []
     },
     {
+      "id": "pakdel-mckinley-1996-viscoelastic-instability",
+      "name": "Pakdel & McKinley 1996 - Elastic instability and curved streamlines",
+      "year": "1996",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ramsey-1996-electrospray-on-chip",
       "name": "Electrospray ionization from a microchip CE column",
       "year": "1996",
@@ -2564,12 +2867,30 @@
       "descendants": []
     },
     {
+      "id": "brody-yager-1997-h-filter",
+      "name": "Brody & Yager 1997 - H-filter (single-step microfluidic diffusion filtration)",
+      "year": "1997",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "charm-pasteurization-phosphatase-test",
       "name": "Charm Sciences PasLite/AP Pasteurization Phosphatase Test",
       "year": "1997",
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "cussler-1997-diffusion-mass-transfer-2e",
+      "name": "Cussler 1997 - Diffusion: Mass Transfer in Fluid Systems (2nd ed.)",
+      "year": "1997",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cussler-2009-diffusion-mass-transfer-3e"
+      ]
     },
     {
       "id": "diaspora-polis-physiology",
@@ -2769,6 +3090,14 @@
       "name": "Half-Life HEV suit morphine / analgesic injection",
       "year": "1998",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ho-tai-1998-mems-fluid-flows",
+      "name": "Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows",
+      "year": "1998",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -3139,6 +3468,14 @@
       "name": "Stargate SG-1 Asgard biological consciousness-transfer device",
       "year": "2000",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tanner-2000-engineering-rheology-2e",
+      "name": "Tanner 2000 - Engineering Rheology (2nd ed.)",
+      "year": "2000",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -4014,6 +4351,14 @@
       ]
     },
     {
+      "id": "geankoplis-transport-processes-textbook",
+      "name": "Geankoplis - Transport Processes and Separation Process Principles (4th ed.)",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "halo-spartan-iii-spi-armor-injection",
       "name": "Halo SPARTAN-III SPI armor and CHAPS augmentation chemical regime",
       "year": "2003",
@@ -4254,6 +4599,14 @@
       "name": "Cixin Liu Ball Lightning experimental fluidics apparatus",
       "year": "2004",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "de-gennes-brochard-wyart-quere-2004-capillarity-textbook",
+      "name": "de Gennes, Brochard-Wyart & Quere 2004 - Capillarity and Wetting Phenomena",
+      "year": "2004",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -4783,6 +5136,16 @@
       "descendants": []
     },
     {
+      "id": "fogler-2006-elements-reaction-engineering-4e",
+      "name": "Fogler 2006 - Elements of Chemical Reaction Engineering (4th ed.)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [
+        "levenspiel-1972-chemical-reaction-engineering"
+      ],
+      "descendants": []
+    },
+    {
       "id": "ghost-in-the-shell-sac-solid-state-society",
       "name": "Ghost in the Shell SAC: Solid State Society medical fluidics",
       "year": "2006",
@@ -5012,6 +5375,16 @@
       "year": "2007",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bird-stewart-lightfoot-2007-transport-phenomena-2e",
+      "name": "Bird, Stewart & Lightfoot 2007 - Transport Phenomena (revised 2nd ed.)",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [
+        "bird-stewart-lightfoot-1960-transport-phenomena"
+      ],
       "descendants": []
     },
     {
@@ -5293,6 +5666,14 @@
     {
       "id": "voldman-cells-microfluidics-textbook",
       "name": "Voldman et al. — Cells in microfluidics (microfluidic single-cell textbook tradition)",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "welty-wicks-wilson-momentum-heat-mass-textbook",
+      "name": "Welty, Wicks, Wilson & Rorrer - Fundamentals of Momentum, Heat, and Mass Transfer",
       "year": "2007",
       "corpus": "academic",
       "ancestors": [],
@@ -5733,6 +6114,14 @@
       "descendants": []
     },
     {
+      "id": "quere-2008-wetting-roughness-review",
+      "name": "Quere 2008 - Wetting and roughness (Annu. Rev. Mater. Res. 38, 71)",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "raindance-bio-rad-acquisition",
       "name": "RainDance Technologies droplet platform (acquired by Bio-Rad)",
       "year": "2008",
@@ -5853,7 +6242,9 @@
       "year": "2008",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "bruus-2012-acoustofluidics-tutorial-series"
+      ]
     },
     {
       "id": "abbott-freestyle-navigator-cgm",
@@ -5884,6 +6275,14 @@
       "name": "Agilent 4200 / 4150 / 5200 TapeStation automated electrophoresis",
       "year": "2009",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bonn-2009-wetting-spreading-rmp",
+      "name": "Bonn et al. 2009 - Wetting and spreading (Rev. Mod. Phys. 81, 739)",
+      "year": "2009",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -5936,6 +6335,16 @@
         "ont-r10-4-1-flow-cell",
         "oxford-nanopore-minion"
       ]
+    },
+    {
+      "id": "cussler-2009-diffusion-mass-transfer-3e",
+      "name": "Cussler 2009 - Diffusion: Mass Transfer in Fluid Systems (3rd ed.)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [
+        "cussler-1997-diffusion-mass-transfer-2e"
+      ],
+      "descendants": []
     },
     {
       "id": "cytiva-akta-ready",
@@ -6447,6 +6856,14 @@
       "name": "Berkeley Lights Beacon Optoelectronic Positioning Patent Family",
       "year": "2010",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "berthier-silberzan-2010-microfluidics-biotech-2e",
+      "name": "Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.)",
+      "year": "2010",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -7272,6 +7689,17 @@
       "descendants": []
     },
     {
+      "id": "bruus-2012-acoustofluidics-tutorial-series",
+      "name": "Bruus 2012 - Acoustofluidics tutorial series (Lab Chip)",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "bruus-2008-theoretical-microfluidics-textbook",
+        "gorkov-1962-acoustic-radiation-force-theory"
+      ],
+      "descendants": []
+    },
+    {
       "id": "carlborg-2011-oste-microfluidics",
       "name": "OSTE (off-stoichiometry thiol-ene) microfluidic substrates",
       "year": "2011",
@@ -7304,6 +7732,14 @@
       "descendants": []
     },
     {
+      "id": "friend-yeo-2011-microscale-acoustofluidics-rmp",
+      "name": "Friend & Yeo 2011 - Microscale acoustofluidics",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gsk-strathclyde-cmac-continuous-api",
       "name": "GSK / CMAC Strathclyde continuous-flow API manufacturing platform",
       "year": "2011",
@@ -7316,6 +7752,14 @@
       "name": "IntelliCyt iQue Screener Plus / Forecyt Software",
       "year": "2011",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "israelachvili-2011-intermolecular-surface-forces-textbook",
+      "name": "Israelachvili 2011 - Intermolecular and Surface Forces (3rd ed.)",
+      "year": "2011",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -8173,6 +8617,14 @@
       "name": "Thermo Fisher Sorvall LYNX 6000 superspeed centrifuge",
       "year": "2013",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "whitesides-2013-origins-microfluidics-lab-chip",
+      "name": "Whitesides 2013 - Cool, or simple and cheap? Why not both? (origins of microfluidics)",
+      "year": "2013",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },

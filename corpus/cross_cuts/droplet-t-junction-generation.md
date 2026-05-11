@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-t-junction-generation`
 
-**8 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
 
+## Plateau-Rayleigh instability (combined droplet-formation theory) (1879)
+
+- **id**: `plateau-rayleigh-instability-combined`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Joseph Plateau (1873); Lord Rayleigh (1879)
+- **disclosure**: Combined: Plateau, J. (1873). 'Statique experimentale et theorique des liquides soumis aux seules forces moleculaires.' Gauthier-Villars, Paris. AND Rayleigh, Lord (1879). 'On the instability of jets.' Proc. London Math. Soc. 10: 4-13.
+- **ip status**: public-domain
+- **prior art notes**: Combined entry for the Plateau-Rayleigh instability, the foundational classical theory underlying every microfluidic droplet generator (T-junction, flow-focusing, co-flow, step-emulsification). Plateau 1873 (experimental anchor on existence of the instability) plus Rayleigh 1879 (analytical derivation of the most-unstable wavelength) together publish 'a liquid jet breaks into droplets at a wavelength determined by surface tension and inertia' in the public literature 150 years before any droplet-microfluidic patent. Anticipates any patent claim reciting droplet-size selection from a continuous jet - Plateau-Rayleigh predicts the wavelength and growth rate. Combined entry exists so the dual-anchor citation is searchable as a single prior-art reference.
+
 ## Capillary Number Ca = mu U / gamma (1928)
 
 - **id**: `capillary-number-dimensionless-group`
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bond, W. N. (1928). 'The use of dimensionless equations.' Proc. Phys. Soc. London 41(1): 1-16; named by Taylor in subsequent capillary-flow literature. Implicit in Tate 1864, Plateau 1873, Rayleigh 1879 work on droplet break-up.
 - **ip status**: public-domain
 - **prior art notes**: Capillary number is the controlling parameter for every droplet generator. The dripping-to-jetting transition, the squeezing-to-shearing transition in T-junctions, and the droplet-size scaling laws in flow-focusing devices are all functions of Ca. Anchors: (a) all droplet-generator patents that recite a flow-rate-to-droplet-size scaling (Anna 2003, Thorsen 2002, Garstecki 2006); (b) co-flow droplet sizing claims; (c) step-emulsification regime maps. Any patent claim that recites operating conditions in terms of viscosity, velocity, and surface tension is anticipated by the capillary-number scaling.
+
+## Tomotika 1935 - On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid (1935)
+
+- **id**: `tomotika-1935-droplet-breakup-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Susumu Tomotika
+- **disclosure**: Tomotika, S. (1935). 'On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid.' Proc. R. Soc. A 150(870): 322-337. doi:10.1098/rspa.1935.0104
+- **ip status**: public-domain
+- **prior art notes**: Tomotika 1935 extends the Plateau-Rayleigh instability (1873/1879, both in corpus) to viscous cylindrical threads surrounded by a second viscous fluid - the canonical flow-focusing/co-flow droplet-generator geometry at microscale. Anticipates any patent claim reciting droplet-size selection by viscosity ratio, viscous-jet breakup in microfluidic flow-focusing channels, or wavelength-keyed droplet diameter prediction - all reduce to Tomotika scaling.
 
 ## Dynamic pattern formation in a vesicle-generating microfluidic device (2001)
 

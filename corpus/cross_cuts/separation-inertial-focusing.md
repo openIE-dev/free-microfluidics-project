@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-inertial-focusing`
 
-**14 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1883
 
@@ -45,6 +45,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Weissenberg number governs whether a viscoelastic fluid in a microchannel exhibits elastic instabilities (Pakdel-McKinley criterion: Wi sqrt(L/R) > critical). Anchors: (a) elastic-instability micromixers (passive mixing in viscoelastic solutions at low Re); (b) viscoelastic single-cell focusing (Yang 2011 and descendants); (c) polymer-solution droplet generation regime maps; (d) cell-deformability assays in polymer solutions. Any patent claim that recites 'mixing or focusing in viscoelastic fluid' is anticipated by Weissenberg-number scaling.
 
+## Segre & Silberberg 1962 - Behaviour of macroscopic rigid spheres in Poiseuille flow (1962)
+
+- **id**: `segre-silberberg-1962-inertial-focusing`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gershon Segre; Alexander Silberberg
+- **disclosure**: Segre, G., Silberberg, A. (1962). 'Behaviour of macroscopic rigid spheres in Poiseuille flow. Part 2.' J. Fluid Mech. 14(1): 136-157. doi:10.1017/S0022112062001111. Companion: Segre-Silberberg, Nature 189, 209 (1961).
+- **ip status**: public-domain
+- **prior art notes**: Segre-Silberberg 1961-1962 is the foundational experimental paper documenting the tubular-pinch effect: rigid spheres in laminar pipe flow at finite Re migrate to an equilibrium radial position. Anticipates the entire inertial-focusing microfluidic ecosystem: Di Carlo group spiral inertial focusing, sheath-free flow cytometry, particle-sorting-by-inertial-equilibrium-position, and every patent reciting 'particles focused to an equilibrium streamline by inertia' (Di Carlo, Vortex Bio, Forte Bio, Velocyto). 60 years of microfluidic inertial focusing reduces to Segre-Silberberg.
+
+## Karnis & Mason 1963 - Particle migration in Poiseuille flow (1963)
+
+- **id**: `karnis-mason-1963-particle-migration-tubes`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew Karnis; Stanley G. Mason
+- **disclosure**: Karnis, A., Mason, S. G. (1963). 'Particle motions in sheared suspensions: XXIII. Wall migration of fluid drops.' J. Colloid Sci. 18: 257-281.
+- **ip status**: public-domain
+- **prior art notes**: Karnis-Mason 1963 systematically documents particle and drop migration in Poiseuille and shear flow, including wall-migration of deformable drops. Anticipates droplet-focusing microfluidic claims keyed on drop deformability, cell-sorting by deformability in inertial channels (Di Carlo deformability cytometry), and any 'cross-stream migration' patent for cells or droplets in laminar tube flow. Companion to Segre-Silberberg 1962.
+
 ## Deborah Number De = tau / T (Reiner 1964) (1964-01)
 
 - **id**: `deborah-number-reiner-1964`
@@ -54,6 +74,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Reiner, M. (1964). 'The Deborah Number.' Physics Today 17(1): 62. doi:10.1063/1.3051374
 - **ip status**: public-domain
 - **prior art notes**: Deborah number anchors viscoelastic microfluidics: any chip that handles polymer solutions, biopolymer solutions, mucus, blood, or DNA solutions with significant relaxation time operates at finite De and exhibits non-Newtonian flow features (elastic instabilities, secondary flows, viscoelastic focusing). Anticipates: (a) elasto-inertial focusing patents; (b) DNA-stretching-on-chip patents; (c) viscoelastic-focusing single-cell platforms; (d) DEAN-flow vortex generators in viscoelastic fluids.
+
+## Saffman 1965 - The lift on a small sphere in a slow shear flow (1965)
+
+- **id**: `saffman-1965-shear-lift-force`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philip G. Saffman
+- **disclosure**: Saffman, P. G. (1965). 'The lift on a small sphere in a slow shear flow.' J. Fluid Mech. 22(2): 385-400. doi:10.1017/S0022112065000824
+- **ip status**: public-domain
+- **prior art notes**: Saffman 1965 derives the lift force on a small sphere in slow shear flow - the theoretical anchor for inertial-focusing microfluidics, complementary to the experimental Segre-Silberberg 1962. Anticipates patent claims reciting Saffman-lift-driven cross-stream migration or shear-gradient particle focusing in microchannels. Required clearance for any 'lateral lift force microfluidic separator' patent.
+
+## Boger 1977 - A highly elastic constant-viscosity fluid (1977)
+
+- **id**: `boger-1977-elastic-fluid-definition`
+- **corpus**: academic
+- **device class**: other
+- **creator**: David V. Boger
+- **disclosure**: Boger, D. V. (1977). 'A highly elastic constant-viscosity fluid.' J. Non-Newtonian Fluid Mech. 3(1): 87-91. doi:10.1016/0377-0257(77)80014-1
+- **ip status**: public-domain
+- **prior art notes**: Defines the Boger fluid: a dilute polymer solution (typically polyisobutylene in low-MW solvent) with significant first normal-stress difference but nearly constant shear viscosity. Boger fluids are the standard test medium for every viscoelastic microfluidic disclosure - elastic turbulence (Groisman-Steinberg 2000), Pakdel-McKinley instabilities (1996), viscoelastic particle focusing, viscoelastic flow rectification. Anticipates patent claims keyed on 'constant-viscosity elastic test fluid in microchannel', 'first-normal-stress-driven flow instability in serpentine channel', or 'separating shear from elastic effects via Boger-type fluid'.
+
+## Larson 1988 - Constitutive Equations for Polymer Melts and Solutions (1988)
+
+- **id**: `larson-1988-constitutive-equations-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ronald G. Larson
+- **disclosure**: Larson, R. G. (1988). 'Constitutive Equations for Polymer Melts and Solutions.' Butterworth-Heinemann. ISBN 978-0-409-90119-1.
+- **ip status**: public-domain
+- **prior art notes**: Larson 1988 is the standard textbook on viscoelastic constitutive equations. Anticipates patent claims involving viscoelastic flow predictions in microchannels using a specific constitutive model (Oldroyd-B, FENE-P, etc.), Wi-keyed flow phenomena, shear-thinning or extension-thickening flow in serpentine microchannels. Any patent asserting novelty around a specific viscoelastic constitutive law in microfluidics must clear Larson 1988.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 

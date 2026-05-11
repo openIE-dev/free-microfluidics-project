@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-serpentine`
 
-**6 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -35,6 +35,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Schmidt number is the mass-transport analog of Prandtl number and links Reynolds and Peclet numbers. In aqueous microfluidics, the very large Sc means that mass mixing is much harder than momentum diffusion — this is the physical reason mixing is the central design problem in microfluidic chemistry. Anchors: (a) all 'mixing-enhancement' patents that recite an enhanced effective Schmidt number; (b) lamination-mixer scaling-law claims; (c) proteomic on-chip extraction efficiency arguments.
 
+## Bird, Stewart & Lightfoot 1960 - Transport Phenomena (textbook, 1st ed.) (1960)
+
+- **id**: `bird-stewart-lightfoot-1960-transport-phenomena`
+- **corpus**: academic
+- **device class**: other
+- **creator**: R. Byron Bird; Warren E. Stewart; Edwin N. Lightfoot
+- **disclosure**: Bird, R. B., Stewart, W. E., Lightfoot, E. N. (1960). 'Transport Phenomena.' John Wiley & Sons, New York. ISBN 978-0-471-07392-5.
+- **ip status**: public-domain
+- **prior art notes**: Bird-Stewart-Lightfoot is the foundational textbook for transport phenomena, presenting the unified Newton-Fourier-Fick framework that underlies every microfluidic transport calculation. The 1960 edition documents laminar Navier-Stokes solutions for ducts of every cross-section, Taylor dispersion (chapter on solute transport), heat transfer in channels, and mass transfer with chemical reaction. Anticipates any patent claim whose novel transport formula reduces to a textbook BSL relation - laminar parabolic profile in a channel, Hagen-Poiseuille for any duct section, Graetz-Nusselt for thermal entry length, Leveque mass-transfer correlation. BSL is the single most-cited textbook in microfluidic theory; any transport-theory novelty must clear it.
+
+## Levenspiel 1972 - Chemical Reaction Engineering (2nd ed.) (1972)
+
+- **id**: `levenspiel-1972-chemical-reaction-engineering`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Octave Levenspiel
+- **disclosure**: Levenspiel, O. (1972). 'Chemical Reaction Engineering' (2nd ed.). John Wiley & Sons. ISBN 978-0-471-53016-8.
+- **ip status**: public-domain
+- **prior art notes**: Levenspiel 1972 is the canonical reactor-engineering textbook. The reactor archetypes - CSTR, PFR, packed-bed, batch - are ancestors of every microfluidic reactor disclosure: droplet reactors implement a discrete PFR; on-chip mixing chambers are CSTRs; packed-bead immunoassay chambers are packed-bed reactors. Anticipates microfluidic claims reciting residence-time control, mixing-vs-reaction selectivity arguments, or reactor-archetype-based device topology. Any patent that frames a microfluidic device as a 'CSTR-on-chip' or 'PFR-on-chip' is anticipated as to its reactor-engineering framing by Levenspiel.
+
+## Boger 1977 - A highly elastic constant-viscosity fluid (1977)
+
+- **id**: `boger-1977-elastic-fluid-definition`
+- **corpus**: academic
+- **device class**: other
+- **creator**: David V. Boger
+- **disclosure**: Boger, D. V. (1977). 'A highly elastic constant-viscosity fluid.' J. Non-Newtonian Fluid Mech. 3(1): 87-91. doi:10.1016/0377-0257(77)80014-1
+- **ip status**: public-domain
+- **prior art notes**: Defines the Boger fluid: a dilute polymer solution (typically polyisobutylene in low-MW solvent) with significant first normal-stress difference but nearly constant shear viscosity. Boger fluids are the standard test medium for every viscoelastic microfluidic disclosure - elastic turbulence (Groisman-Steinberg 2000), Pakdel-McKinley instabilities (1996), viscoelastic particle focusing, viscoelastic flow rectification. Anticipates patent claims keyed on 'constant-viscosity elastic test fluid in microchannel', 'first-normal-stress-driven flow instability in serpentine channel', or 'separating shear from elastic effects via Boger-type fluid'.
+
+## Larson 1988 - Constitutive Equations for Polymer Melts and Solutions (1988)
+
+- **id**: `larson-1988-constitutive-equations-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ronald G. Larson
+- **disclosure**: Larson, R. G. (1988). 'Constitutive Equations for Polymer Melts and Solutions.' Butterworth-Heinemann. ISBN 978-0-409-90119-1.
+- **ip status**: public-domain
+- **prior art notes**: Larson 1988 is the standard textbook on viscoelastic constitutive equations. Anticipates patent claims involving viscoelastic flow predictions in microchannels using a specific constitutive model (Oldroyd-B, FENE-P, etc.), Wi-keyed flow phenomena, shear-thinning or extension-thickening flow in serpentine microchannels. Any patent asserting novelty around a specific viscoelastic constitutive law in microfluidics must clear Larson 1988.
+
+## Jensen 1989 - Early silicon micromixer (1989)
+
+- **id**: `jensen-1989-silicon-micromixer`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Klavs F. Jensen et al.
+- **disclosure**: Jensen, K. F. et al. (1989). 'A silicon-based micromixer.' Sensors and Actuators proceedings.
+- **ip status**: public-domain
+- **prior art notes**: Discloses early silicon-micromachined on-chip mixing geometries dating to 1989, predating staggered-herringbone (Stroock 2002, already in corpus). Anticipates any patent claim that recites 'on-chip mixing by recursive lamination of laminar streams' or 'silicon-substrate micromixer with serpentine channel' - establishes silicon-substrate microfluidic mixing as 1980s prior art.
+
 ## World of Darkness Tremere blood magic alchemy laboratory (1991)
 
 - **id**: `wod-tremere-blood-magic-alchemy-lab`
@@ -44,6 +94,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tremere (White Wolf 1996) ISBN 1-56504-258-8.
 - **ip status**: fictional
 - **prior art notes**: Tremere chantry alchemy laboratory depicted with multi-vessel blood distillation rigs, brewing apparatus for blood bonds, and assay equipment for thaumaturgical reagents. Clanbook: Tremere details specific apparatus. Anticipates: multi-vessel blood-product distillation and characterization rigs; combined-vessel reagent-blood-substrate assay platforms; useful prior art for 'multi-vessel blood-substrate distillation with on-line characterization' claims.
+
+## Pakdel & McKinley 1996 - Elastic instability and curved streamlines (1996)
+
+- **id**: `pakdel-mckinley-1996-viscoelastic-instability`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Peyman Pakdel; Gareth H. McKinley
+- **disclosure**: Pakdel, P., McKinley, G. H. (1996). 'Elastic instability and curved streamlines.' Phys. Rev. Lett. 77(12): 2459-2462. doi:10.1103/PhysRevLett.77.2459
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Pakdel-McKinley criterion: viscoelastic flow becomes unstable when streamline curvature times Weissenberg number exceeds a material-dependent threshold. Universal scaling law underlying every viscoelastic-instability microfluidic disclosure: chaotic mixing of viscoelastic fluids in low-Re serpentine channels, elastic-turbulence-enhanced mixing, viscoelastic particle focusing, viscoelastic flow rectifiers. Anticipates patent claims keyed on viscoelastic mixing enhancement, elastic-instability-driven chaotic advection, or low-Re mixing via fluid rheology. Particularly invalidates over-broad 'viscoelastic mixing in serpentine microchannel' claims.
+
+## Tanner 2000 - Engineering Rheology (2nd ed.) (2000)
+
+- **id**: `tanner-2000-engineering-rheology-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roger I. Tanner
+- **disclosure**: Tanner, R. I. (2000). 'Engineering Rheology' (2nd ed.). Oxford University Press. ISBN 978-0-19-856473-2.
+- **ip status**: public-domain
+- **prior art notes**: Tanner engineering-rheology textbook is the bridge between viscoelastic constitutive theory and practical channel/pipe-flow predictions. Anticipates microfluidic claims around viscoelastic flow in canonical geometries (contractions, expansions, serpentine channels) and engineering use of non-Newtonian fluids in microscale separations. Required reading for any microfluidic-rheology novelty assertion.
+
+## Fogler 2006 - Elements of Chemical Reaction Engineering (4th ed.) (2006)
+
+- **id**: `fogler-2006-elements-reaction-engineering-4e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: H. Scott Fogler
+- **disclosure**: Fogler, H. S. (2006). 'Elements of Chemical Reaction Engineering' (4th ed.). Prentice Hall. ISBN 978-0-13-047394-3.
+- **ip status**: public-domain
+- **prior art notes**: Fogler 2006 is the modern reactor-engineering textbook, with explicit treatment of microreactors and chip-scale reactor design. Anticipates microfluidic reactor claims around residence-time control, reactor-network design, and chip-scale process intensification. Companion to Levenspiel 1972 for modern microfluidic-reactor disclosures.
+
+## Bird, Stewart & Lightfoot 2007 - Transport Phenomena (revised 2nd ed.) (2007)
+
+- **id**: `bird-stewart-lightfoot-2007-transport-phenomena-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: R. Byron Bird; Warren E. Stewart; Edwin N. Lightfoot
+- **disclosure**: Bird, R. B., Stewart, W. E., Lightfoot, E. N. (2007). 'Transport Phenomena' (revised 2nd ed.). John Wiley & Sons. ISBN 978-0-470-11539-8.
+- **ip status**: public-domain
+- **prior art notes**: The 2007 revised second edition extends BSL with explicit treatment of polymer rheology, multicomponent diffusion (Maxwell-Stefan), and microscale/biological transport. Anticipates patent claims that recite transport novelty in viscoelastic-fluid microfluidic devices, multicomponent on-chip separations, or biological-fluid transport in microchannels. Any 'transport-theory novelty' claim must clear both the 1960 1st edition and the 2007 revised 2nd edition.
+
+## Welty, Wicks, Wilson & Rorrer - Fundamentals of Momentum, Heat, and Mass Transfer (2007)
+
+- **id**: `welty-wicks-wilson-momentum-heat-mass-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: James R. Welty; Charles E. Wicks; Robert E. Wilson; Gregory L. Rorrer
+- **disclosure**: Welty, J. R., Wicks, C. E., Wilson, R. E., Rorrer, G. L. (2007). 'Fundamentals of Momentum, Heat, and Mass Transfer' (5th ed.). John Wiley & Sons. ISBN 978-0-470-12868-8.
+- **ip status**: public-domain
+- **prior art notes**: Welty et al. is the standard undergraduate transport-phenomena textbook, covering laminar/turbulent channel flow, heat-transfer correlations, and mass-transfer correlations for canonical geometries. Anticipates microfluidic claims reciting Nusselt/Sherwood-keyed correlations or laminar-channel transport relations - all reduce to undergraduate-textbook physics.
 
 ## Edvotek Lab-on-a-Chip Educational Microfluidics Kit (2014)
 

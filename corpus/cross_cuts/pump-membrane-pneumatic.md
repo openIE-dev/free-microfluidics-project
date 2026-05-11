@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**15 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Original 1965 published description of a wearable, closed-loop body-fluid reclamation suit. Herbert's text gives unusually engineering-grade specifics: 'a high-efficiency filter and heat-exchange system. The skin-contact layer's perspiration passes through it, having cooled the body, and is reclaimed... your motions in the suit, especially of breathing and some osmotic action, provide the pumping force. Reclaimed water circulates to catchpockets from which you draw it through this tube...'. Architecturally anticipates: wearable closed-loop microfluidic body-water reclamation, breath/perspiration capture and recycling, body-motion-driven peristaltic pumping, and integrated drinking-tube delivery. The 1965 first publication date is one of the strongest fictional anchors for wearable microfluidic body-fluid reclamation as a concept (~60-year defensive prior art window).
 
+## Hoiman 1986 - Silicon micropump (Helsinki) (1986)
+
+- **id**: `hoiman-1986-helsinki-silicon-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Hoiman et al. (Helsinki MEMS group)
+- **disclosure**: Hoiman et al. (1986). 'A silicon-based micropump.' Sensors and Actuators (proceedings of Helsinki MEMS work, 1986).
+- **ip status**: public-domain
+- **prior art notes**: Pre-1990 silicon-micromachined membrane micropump from the Helsinki MEMS effort. Discloses bulk-silicon micropump topology - membrane-driven displacement chamber with bonded check-valves. Combined with Esashi 1989 (already in corpus) and the slightly later Smits 1990 piezoelectric pump literature, Hoiman 1986 establishes the silicon-MEMS micropump as established prior art well before 1990.
+
 ## Gravesen 1993 — Microfluidics Review (1993)
 
 - **id**: `gravesen-1993-microfluidics-review`
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gravesen, P., Branebjerg, J., Jensen, O. S. (1993). 'Microfluidics — a review.' Journal of Micromechanics and Microengineering 3(4): 168-182. doi:10.1088/0960-1317/3/4/002
 - **ip status**: public-domain
 - **prior art notes**: Gravesen 1993 is one of the first explicit uses of 'microfluidics' as a field designator. Catalogs the state of the art in 1993: silicon piezoelectric pumps (van Lintel 1988, Esashi 1988-90), silicon membrane valves, silicon flow sensors, and silicon micromixers. Anticipates: (a) any post-1993 patent claim that recites a generic 'microfluidic system comprising pump, valve, mixer, sensor' integration (the integration architecture was reviewed and disclosed by 1993); (b) specific component claims to silicon piezoelectric pumps or membrane valves that fail to disclose a non-obvious geometric or functional feature beyond Gravesen's catalog. Critical anchor for invalidating broad silicon-microfluidic-system claims filed in the mid-1990s.
+
+## Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows (1998)
+
+- **id**: `ho-tai-1998-mems-fluid-flows`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Chih-Ming Ho; Yu-Chong Tai
+- **disclosure**: Ho, C.-M., Tai, Y.-C. (1998). 'Micro-electro-mechanical-systems (MEMS) and fluid flows.' Annu. Rev. Fluid Mech. 30: 579-612. doi:10.1146/annurev.fluid.30.1.579
+- **ip status**: public-domain
+- **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
 
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 

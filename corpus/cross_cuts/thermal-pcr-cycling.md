@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**34 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -174,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Thermo Fisher Scientific TaqPath family and QuantStudio instruments. https://www.thermofisher.com
 - **ip status**: patented
 - **prior art notes**: High-throughput lab-format qPCR cartridges spanning 96-well, 384-well, and 7K Array Card formats, with TaqMan probe chemistry. Architecturally a successor to traditional PCR plates with lab-automation integration. Significant for the FDA-authorized COVID-19 TaqPath test which became the dominant US laboratory-format SARS-CoV-2 PCR.
+
+## Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.) (2010)
+
+- **id**: `berthier-silberzan-2010-microfluidics-biotech-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jean Berthier; Pascal Silberzan
+- **disclosure**: Berthier, J., Silberzan, P. (2010). 'Microfluidics for Biotechnology' (2nd ed.). Artech House, Boston. ISBN 978-1-59693-443-6.
+- **ip status**: public-domain
+- **prior art notes**: Berthier-Silberzan 2010 is one of the few textbooks focused specifically on microfluidics for biotechnology. Anticipates PCR-on-chip claims, biosensor-integrated lab-on-chip claims, on-chip DNA-handling claims, and capillary/electrokinetic/droplet biotech microfluidic applications. Any 'biotech-microfluidic device' patent must clear this textbook.
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 

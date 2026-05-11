@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `detection-nanofluidic-scattering-spectroscopy`
 
-**3 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018
+Earliest disclosure: 1969
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Manning 1969 - Counterion condensation theory (1969)
+
+- **id**: `manning-1969-counterion-condensation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gerald S. Manning
+- **disclosure**: Manning, G. S. (1969). 'Limiting laws and counterion condensation in polyelectrolyte solutions I. Colligative properties.' J. Chem. Phys. 51(3): 924-933. doi:10.1063/1.1672157
+- **ip status**: public-domain
+- **prior art notes**: Manning 1969 establishes counterion-condensation theory for charged polyelectrolytes: condensed counterions reduce effective charge of DNA and other polyelectrolytes, controlling conformation, persistence length, and electrophoretic mobility. Anticipates nanofluidic patents involving DNA stretching/conformation in nanochannels, ionic-condition-modulated DNA mobility, and electrolyte-controlled polyelectrolyte transport. Load-bearing for any nanofluidic DNA-handling patent.
+
+## Manning 1972 - Polyelectrolyte condensation theory (extended) (1972)
+
+- **id**: `manning-1972-polyelectrolyte-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gerald S. Manning
+- **disclosure**: Manning, G. S. (1972). 'Polyelectrolyte solutions. II. The osmotic pressure.' Annu. Rev. Phys. Chem. 23: 117-140.
+- **ip status**: public-domain
+- **prior art notes**: Manning 1972 extends the 1969 counterion-condensation theory into systematic predictions for osmotic pressure, electrophoretic mobility, and viscosity of polyelectrolyte solutions. Anticipates nanofluidic DNA-handling claims that recite mobility plateaus, ionic-strength-tuned separation, or condensation-controlled DNA conformation in nanochannels. Companion to Manning 1969.
 
 ## Refeyn TwoMP / OneMP mass photometer with microfluidic flow cell (2018)
 

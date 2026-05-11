@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-hydrodynamic`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1890
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Langevin, P. (1908). 'Sur la theorie du mouvement brownien.' Comptes Rendus de l'Academie des Sciences (Paris) 146: 530-533.
 - **ip status**: public-domain
 - **prior art notes**: Langevin's stochastic differential equation underpins all numerical simulation of Brownian dynamics in microfluidic systems (single-particle tracking, electrokinetic transport at low ionic concentration, optical-tweezers calibration on chip). Anticipates patent claims to 'simulation-driven control of microfluidic particle trajectories' that rest on Langevin dynamics, particularly in the context of feedback-controlled trapping.
+
+## Karnis & Mason 1963 - Particle migration in Poiseuille flow (1963)
+
+- **id**: `karnis-mason-1963-particle-migration-tubes`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew Karnis; Stanley G. Mason
+- **disclosure**: Karnis, A., Mason, S. G. (1963). 'Particle motions in sheared suspensions: XXIII. Wall migration of fluid drops.' J. Colloid Sci. 18: 257-281.
+- **ip status**: public-domain
+- **prior art notes**: Karnis-Mason 1963 systematically documents particle and drop migration in Poiseuille and shear flow, including wall-migration of deformable drops. Anticipates droplet-focusing microfluidic claims keyed on drop deformability, cell-sorting by deformability in inertial channels (Di Carlo deformability cytometry), and any 'cross-stream migration' patent for cells or droplets in laminar tube flow. Companion to Segre-Silberberg 1962.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 

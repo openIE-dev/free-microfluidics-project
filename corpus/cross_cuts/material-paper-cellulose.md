@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `material-paper-cellulose`
 
-**10 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1921-03
+Earliest disclosure: 1856
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Darcy 1856 - Les Fontaines Publiques de la Ville de Dijon (Darcy's law) (1856)
+
+- **id**: `darcy-1856-porous-media-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henry Darcy
+- **disclosure**: Darcy, H. (1856). 'Les Fontaines Publiques de la Ville de Dijon.' Victor Dalmont, Paris. Appendix D: filtration experiments.
+- **ip status**: public-domain
+- **prior art notes**: Discloses Darcy's law: flux through a porous medium is proportional to the pressure gradient divided by viscosity, with a material-dependent permeability constant. Load-bearing for all paper microfluidic modeling (Whitesides uPADs, lateral flow assays, blood-separation paper devices), sintered-frit and porous-membrane flow control on chip, packed-bed micro-reactors and on-chip chromatography columns. Anticipates patent claims reciting 'pressure-driven flow through porous medium' or 'flow rate proportional to applied pressure through permeable substrate' - Darcy 1856 published the equation 170 years before any microfluidic patent. Particularly invalidates over-broad paper microfluidic claims that fail to disclose specific non-obvious geometries.
 
 ## Washburn 1921 — The Dynamics of Capillary Flow (1921-03)
 
@@ -24,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Washburn, E. W. (1921). 'The dynamics of capillary flow.' Physical Review 17(3): 273-283. doi:10.1103/PhysRev.17.273
 - **ip status**: public-domain
 - **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
+
+## Kozeny 1927 - Uber kapillare Leitung des Wassers im Boden (1927)
+
+- **id**: `kozeny-1927-permeability-porous-media`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Josef Kozeny
+- **disclosure**: Kozeny, J. (1927). 'Uber kapillare Leitung des Wassers im Boden.' Sitzungsberichte der Akademie der Wissenschaften in Wien 136: 271-306.
+- **ip status**: public-domain
+- **prior art notes**: Kozeny modeled a porous medium as a bundle of parallel capillaries of equivalent surface area and derived k = phi^3/(c*S^2). Anticipates any microfluidic disclosure that derives permeability from fiber-mat or particle-bed geometry - paper microfluidic flow-time predictions, cell-trap arrays modeled as porous regions, packed-bead microreactor predictions. Load-bearing for any patent claim reciting 'permeability calculated from substrate porosity and specific surface area' or 'flow-rate predicted from geometric porous-medium model'.
 
 ## OraSure rapid HIV test cassette (lateral flow) (1995)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-microchannel-cooling-electronics`
 
-**29 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1981
+Earliest disclosure: 1960
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bird, Stewart & Lightfoot 1960 - Transport Phenomena (textbook, 1st ed.) (1960)
+
+- **id**: `bird-stewart-lightfoot-1960-transport-phenomena`
+- **corpus**: academic
+- **device class**: other
+- **creator**: R. Byron Bird; Warren E. Stewart; Edwin N. Lightfoot
+- **disclosure**: Bird, R. B., Stewart, W. E., Lightfoot, E. N. (1960). 'Transport Phenomena.' John Wiley & Sons, New York. ISBN 978-0-471-07392-5.
+- **ip status**: public-domain
+- **prior art notes**: Bird-Stewart-Lightfoot is the foundational textbook for transport phenomena, presenting the unified Newton-Fourier-Fick framework that underlies every microfluidic transport calculation. The 1960 edition documents laminar Navier-Stokes solutions for ducts of every cross-section, Taylor dispersion (chapter on solute transport), heat transfer in channels, and mass transfer with chemical reaction. Anticipates any patent claim whose novel transport formula reduces to a textbook BSL relation - laminar parabolic profile in a channel, Hagen-Poiseuille for any duct section, Graetz-Nusselt for thermal entry length, Leveque mass-transfer correlation. BSL is the single most-cited textbook in microfluidic theory; any transport-theory novelty must clear it.
 
 ## High-performance heat sinking for VLSI (microchannel cooling) (1981)
 
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dan Simmons, Hyperion (Doubleday 1989) ISBN 978-0-385-24949-4; The Fall of Hyperion (1990) ISBN 978-0-385-26747-4 — Brawne Lamia, John Keats persona, Severn arcs.
 - **ip status**: fictional
 - **prior art notes**: Brawne Lamia and the Keats/Severn personas depicted as AI personalities resident in biological substrates with fluidic neural interfaces. Architectural prior art for: AI-persona biological-substrate hosts maintained by continuous fluidic neural-interface perfusion; useful for 'AI-on-biology hybrid host with continuous reagent maintenance' speculative claims.
+
+## Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks (1994)
+
+- **id**: `bowers-mudawar-1994-microchannel-cooling`
+- **corpus**: academic
+- **device class**: cooling-substrate
+- **creator**: Mark B. Bowers; Issam Mudawar
+- **disclosure**: Bowers, M. B., Mudawar, I. (1994). 'High flux boiling in low flow rate, low pressure drop mini-channel and micro-channel heat sinks.' Int. J. Heat Mass Transfer 37(2): 321-332. doi:10.1016/0017-9310(94)90103-1
+- **ip status**: public-domain
+- **prior art notes**: Extends Tuckerman-Pease 1981 (already in corpus) into the two-phase microchannel cooling regime. Discloses critical heat flux scaling, two-phase pressure drop, and boiling instabilities in mini/microchannel heat sinks - establishes the two-phase microchannel cooling literature as pre-1995 prior art. Anticipates any patent that recites 'two-phase microchannel cold plate', 'boiling-augmented microchannel cooling', or 'critical heat flux limited microchannel heat sink'. Load-bearing for modern chip-cooling patents (Microsoft, IBM, Intel direct-liquid cooling claims).
 
 ## Joe Haldeman Forever Peace neural jacks (jacking) (1997)
 
@@ -134,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Peter F. Hamilton, The Dreaming Void (Macmillan UK 2007) ISBN 978-0-230-00135-6; The Temporal Void (2008); The Evolutionary Void (2010).
 - **ip status**: fictional
 - **prior art notes**: ANA is depicted as a distributed substrate hosting uploaded human consciousness on Earth, including biological wetware components requiring continuous fluidic life-support and cooling. Defensive prior art for distributed wetware computational substrates with integrated coolant and nutrient circulation. Mark draft due to thinner specifics than Memorycell entry.
+
+## Welty, Wicks, Wilson & Rorrer - Fundamentals of Momentum, Heat, and Mass Transfer (2007)
+
+- **id**: `welty-wicks-wilson-momentum-heat-mass-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: James R. Welty; Charles E. Wicks; Robert E. Wilson; Gregory L. Rorrer
+- **disclosure**: Welty, J. R., Wicks, C. E., Wilson, R. E., Rorrer, G. L. (2007). 'Fundamentals of Momentum, Heat, and Mass Transfer' (5th ed.). John Wiley & Sons. ISBN 978-0-470-12868-8.
+- **ip status**: public-domain
+- **prior art notes**: Welty et al. is the standard undergraduate transport-phenomena textbook, covering laminar/turbulent channel flow, heat-transfer correlations, and mass-transfer correlations for canonical geometries. Anticipates microfluidic claims reciting Nusselt/Sherwood-keyed correlations or laminar-channel transport relations - all reduce to undergraduate-textbook physics.
 
 ## Lonza FlowPlate microreactor (with Ehrfeld BTS) (2008)
 

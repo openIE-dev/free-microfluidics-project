@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-acoustic-streaming`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Labcyte (now Beckman Coulter) Echo 525, 550, 650 product family. https://www.beckman.com/liquid-handlers/echo-650
 - **ip status**: patented
 - **prior art notes**: Higher-throughput sibling of the original Echo acoustic droplet ejection platform. Echo 650 supports 1536-well plates and DMSO/aqueous/glycerol fluid classes with 25 nL droplet volumes. Architectural extension of the Echo product line — same focused-acoustic-ejection mechanism but with throughput and fluid-class extensions.
+
+## Friend & Yeo 2011 - Microscale acoustofluidics (2011)
+
+- **id**: `friend-yeo-2011-microscale-acoustofluidics-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: James Friend; Leslie Y. Yeo
+- **disclosure**: Friend, J., Yeo, L. Y. (2011). 'Microscale acoustofluidics: Microfluidics driven via acoustics and ultrasonics.' Rev. Mod. Phys. 83(2): 647-704. doi:10.1103/RevModPhys.83.647
+- **ip status**: public-domain
+- **prior art notes**: Friend-Yeo 2011 is the definitive RMP-level review of microscale acoustofluidics, covering surface-acoustic-wave microfluidics, bulk-acoustic-wave standing-wave devices, acoustic streaming microfluidics, atomization and ejection via acoustics, and acoustic-tweezers and acoustofluidic separation. Anticipates any patent claim around SAW-driven, BAW-driven, or acoustic-streaming microfluidic devices. Required clearance for the entire acoustofluidic patent ecosystem.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

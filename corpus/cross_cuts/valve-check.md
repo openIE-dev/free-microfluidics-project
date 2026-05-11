@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-check`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1989-06
+Earliest disclosure: 1986
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hoiman 1986 - Silicon micropump (Helsinki) (1986)
+
+- **id**: `hoiman-1986-helsinki-silicon-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Hoiman et al. (Helsinki MEMS group)
+- **disclosure**: Hoiman et al. (1986). 'A silicon-based micropump.' Sensors and Actuators (proceedings of Helsinki MEMS work, 1986).
+- **ip status**: public-domain
+- **prior art notes**: Pre-1990 silicon-micromachined membrane micropump from the Helsinki MEMS effort. Discloses bulk-silicon micropump topology - membrane-driven displacement chamber with bonded check-valves. Combined with Esashi 1989 (already in corpus) and the slightly later Smits 1990 piezoelectric pump literature, Hoiman 1986 establishes the silicon-MEMS micropump as established prior art well before 1990.
 
 ## Esashi 1989 — Silicon Piezoelectric Micropump (1989-06)
 
@@ -24,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Esashi, M., Shoji, S., Nakano, A. (1989). 'Normally closed microvalve and micropump fabricated on a silicon wafer.' Sensors and Actuators 20(1-2): 163-169. doi:10.1016/0250-6874(89)87114-4
 - **ip status**: public-domain
 - **prior art notes**: Esashi 1989 anchors the silicon piezo-membrane micropump and normally-closed silicon membrane microvalve, both integrated on one wafer. Anticipates: (a) integrated valve+pump silicon-microfluidic claims that fail to disclose a non-obvious feature beyond the Esashi geometry; (b) normally-closed silicon membrane valve patents (a major sub-class in MEMS-microfluidic IP); (c) piezo-actuated silicon micropump patents with passive check valves. Together with van Lintel 1988 (already in corpus) this anchors the late-1980s silicon-piezo-pump generation that preceded all commercial silicon micropump products.
+
+## Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows (1998)
+
+- **id**: `ho-tai-1998-mems-fluid-flows`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Chih-Ming Ho; Yu-Chong Tai
+- **disclosure**: Ho, C.-M., Tai, Y.-C. (1998). 'Micro-electro-mechanical-systems (MEMS) and fluid flows.' Annu. Rev. Fluid Mech. 30: 579-612. doi:10.1146/annurev.fluid.30.1.579
+- **ip status**: public-domain
+- **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
 
 ## Hamilton Microlab STAR liquid handler (2003)
 

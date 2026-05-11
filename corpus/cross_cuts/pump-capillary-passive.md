@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**72 corpus entries disclose this subsystem.**
+**78 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -44,6 +44,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Young, T. Phil. Trans. R. Soc. 95, 65-87 (1805); Laplace, P. S. Mecanique Celeste, Supplement to Book X (1806). Combined as DeltaP = gamma(1/R1 + 1/R2) with boundary condition cos(theta) at three-phase line.
 - **ip status**: public-domain
 - **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
+
+## Darcy 1856 - Les Fontaines Publiques de la Ville de Dijon (Darcy's law) (1856)
+
+- **id**: `darcy-1856-porous-media-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henry Darcy
+- **disclosure**: Darcy, H. (1856). 'Les Fontaines Publiques de la Ville de Dijon.' Victor Dalmont, Paris. Appendix D: filtration experiments.
+- **ip status**: public-domain
+- **prior art notes**: Discloses Darcy's law: flux through a porous medium is proportional to the pressure gradient divided by viscosity, with a material-dependent permeability constant. Load-bearing for all paper microfluidic modeling (Whitesides uPADs, lateral flow assays, blood-separation paper devices), sintered-frit and porous-membrane flow control on chip, packed-bed micro-reactors and on-chip chromatography columns. Anticipates patent claims reciting 'pressure-driven flow through porous medium' or 'flow rate proportional to applied pressure through permeable substrate' - Darcy 1856 published the equation 170 years before any microfluidic patent. Particularly invalidates over-broad paper microfluidic claims that fail to disclose specific non-obvious geometries.
+
+## Quincke 1859 - Capillary-rise observations on solid-liquid interfaces (1859)
+
+- **id**: `quincke-1859-capillary-rise-observations`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Georg Hermann Quincke
+- **disclosure**: Quincke, G. (1859). 'Ueber die Capillaritats-Erscheinungen.' Ann. Phys. Chem. 105: 1-48.
+- **ip status**: public-domain
+- **prior art notes**: Discloses a systematic experimental program measuring capillary rise heights and meniscus shapes against a range of solid surfaces and liquids, predating Lucas 1918 and Washburn 1921 by six decades. Anticipates paper microfluidic disclosures that recite 'wicking driven by surface tension into porous substrate', 'differential capillary rise rates by surface chemistry', or 'characterization of substrate via observed rise height' - Quincke's 1859 paper documents the experimental basis underlying all such claims. Provides a 19th-century load-bearing anchor for paper microfluidics that complements the Lucas-Washburn dynamic equation already in the corpus.
+
+## Marangoni convection (thermocapillary and solutocapillary forms) (1865)
+
+- **id**: `marangoni-convection-thermosolutocapillary`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Carlo Marangoni (1865); Scriven & Sternling (1960)
+- **disclosure**: Extension of: Marangoni, C. (1865). 'Sull espansione delle goccie d un liquido galleggianti sulla superficie di altro liquido.' Pavia. Modern Marangoni convection: Scriven, L. E., Sternling, C. V. (1960). 'The Marangoni effects.' Nature 187: 186-188.
+- **ip status**: public-domain
+- **prior art notes**: Companion entry to marangoni-1865-surface-tension-flow (already in corpus), focused on convective form: Marangoni convection. Anticipates thermocapillary-pump microfluidic patents, solutocapillary mixing claims in droplet-on-chip devices, evaporation-driven coffee-ring patterning on chip, Marangoni-driven droplet motion on hydrophilic gradient surfaces, and on-chip droplet self-propulsion patents. Any patent reciting surface-tension-gradient-driven flow in a microfluidic device is anticipated as to the underlying physics.
 
 ## Bond / Eoetvoes Number Bo = rho g L^2 / gamma (1886)
 
@@ -105,6 +135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disposable glucose test strip with capillary-fill sample chamber, glucose oxidase enzyme layer, and electrochemical detection electrodes. The highest-cumulative-volume microfluidic-equivalent product in history (>10B units shipped since 1980s). Architectural ancestor of every modern blood-glucose test strip and many other electrochemical-detection POC strips.
 
+## de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827) (1985)
+
+- **id**: `de-gennes-1985-wetting-statics-dynamics-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes
+- **disclosure**: de Gennes, P.-G. (1985). 'Wetting: statics and dynamics.' Rev. Mod. Phys. 57(3): 827-863. doi:10.1103/RevModPhys.57.827
+- **ip status**: public-domain
+- **prior art notes**: de Gennes 1985 is the foundational modern review of wetting theory, predating Bonn 2009 by two decades. Documents contact-line motion at finite Ca, precursor films, contact-angle hysteresis, and partial-wetting equilibrium. Anticipates microfluidic claims on dynamic contact-line behavior, droplet-edge motion on patterned surfaces, and capillary-driven flow with viscous dissipation at the contact line. Particularly load-bearing for electrowetting patents that rely on contact-line motion theory.
+
 ## i-STAT cartridge family (CHEM8+, CG8+, etc.) (1992)
 
 - **id**: `i-stat-cartridge-cg8plus`
@@ -164,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stargate Atlantis 'Rising' (Sci Fi 2004); 'Hide and Seek' (S1E3, 2004); life-extraction mechanics throughout series 2004-2009.
 - **ip status**: fictional
 - **prior art notes**: Wraith feeding hand depicted as a biological organ that, on contact with human skin, extracts cellular life-force through a specialized vasculature. Borderline; defensive prior art for: skin-contact biological extraction interfaces, vampiric-extraction biological pumps, transdermal cellular-fluid extraction.
+
+## de Gennes, Brochard-Wyart & Quere 2004 - Capillarity and Wetting Phenomena (2004)
+
+- **id**: `de-gennes-brochard-wyart-quere-2004-capillarity-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes; Francoise Brochard-Wyart; David Quere
+- **disclosure**: de Gennes, P.-G., Brochard-Wyart, F., Quere, D. (2004). 'Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves.' Springer-Verlag, New York. ISBN 978-0-387-00592-1.
+- **ip status**: public-domain
+- **prior art notes**: The definitive modern textbook on capillarity and wetting, by three Nobel-class authors. Anticipates microfluidic claims involving contact-line dynamics in microchannels, wetting of patterned surfaces, droplet spreading and pinning, superhydrophobic-surface microfluidics, capillary-pumping designs, and electrowetting at the Young/Lippmann level. Any patent claim reciting 'contact-angle controlled flow', 'wetting hysteresis exploited for directional flow', or 'superhydrophobic surface for droplet handling' must clear dGBWQ 2004.
 
 ## Nova StatStrip Glucose/Ketone Hospital Test Strip (2006)
 
@@ -264,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche Cobas u 411 product launch 2009; CE-IVD; predecessor: Boehringer Mannheim Reflotron (1986). FDA 510(k) K093266
 - **ip status**: patented
 - **prior art notes**: Discloses an automated reflectance urinalysis fluidic system: hopper-fed test strip dispenser, robotic positioning of strip under sample probe, sub-100 µL urine aliquot deposition onto each reagent pad, capillary wicking spread, and time-resolved reflectance read at multiple wavelengths through a moving optical head. Anticipates: dry-pad reagent strip + automated dose/read fluidic primitive for urinalysis (the dominant POC urinalysis architecture); reflectance correction for sample color (urobilinogen/bilirubin); the fluidic challenge of metering 25-50 µL droplets onto each of 11 absorbent pads without bleed-over.
+
+## Bonn et al. 2009 - Wetting and spreading (Rev. Mod. Phys. 81, 739) (2009)
+
+- **id**: `bonn-2009-wetting-spreading-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Daniel Bonn; Jens Eggers; Joseph Indekeu; Jacques Meunier; Etienne Rolley
+- **disclosure**: Bonn, D., Eggers, J., Indekeu, J., Meunier, J., Rolley, E. (2009). 'Wetting and spreading.' Rev. Mod. Phys. 81(2): 739-805. doi:10.1103/RevModPhys.81.739
+- **ip status**: public-domain
+- **prior art notes**: Bonn et al. 2009 is the canonical Reviews of Modern Physics article on wetting and spreading. Anticipates dynamic-wetting microfluidic claims, contact-line-pinning-based valves, contact-angle-hysteresis-driven flow rectifiers. Any patent asserting novelty around 'novel wetting dynamics' in microfluidics is anticipated by this review.
 
 ## BD Veritor System cartridge (2010)
 

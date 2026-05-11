@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-electrowetting`
 
-**4 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1998
+Earliest disclosure: 1985
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827) (1985)
+
+- **id**: `de-gennes-1985-wetting-statics-dynamics-rmp`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes
+- **disclosure**: de Gennes, P.-G. (1985). 'Wetting: statics and dynamics.' Rev. Mod. Phys. 57(3): 827-863. doi:10.1103/RevModPhys.57.827
+- **ip status**: public-domain
+- **prior art notes**: de Gennes 1985 is the foundational modern review of wetting theory, predating Bonn 2009 by two decades. Documents contact-line motion at finite Ca, precursor films, contact-angle hysteresis, and partial-wetting equilibrium. Anticipates microfluidic claims on dynamic contact-line behavior, droplet-edge motion on patterned surfaces, and capillary-driven flow with viscous dissipation at the contact line. Particularly load-bearing for electrowetting patents that rely on contact-line motion theory.
 
 ## Glass microchannel electrophoresis with ISFET detection (van den Berg group) (1998)
 
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pollack, M. G.; Fair, R. B.; Shenderov, A. D. Electrowetting-based actuation of liquid droplets for microfluidic applications. Appl. Phys. Lett. 2000, 77, 1725–1726. DOI: 10.1063/1.1308534
 - **ip status**: patented
 - **prior art notes**: The foundational disclosure of electrowetting-on-dielectric (EWOD) for digital microfluidics. Demonstrated discrete water-droplet transport across an addressable electrode array under voltage control. Anticipates: addressable-electrode array DMF architecture, DC + AC EWOD actuation modes, droplet-merge / droplet-split / droplet-dispense as primitives, and the Advanced Liquid Logic / Illumina commercial DMF lineage. Together with Cho 2003 it defines the EWOD field.
+
+## de Gennes, Brochard-Wyart & Quere 2004 - Capillarity and Wetting Phenomena (2004)
+
+- **id**: `de-gennes-brochard-wyart-quere-2004-capillarity-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Gilles de Gennes; Francoise Brochard-Wyart; David Quere
+- **disclosure**: de Gennes, P.-G., Brochard-Wyart, F., Quere, D. (2004). 'Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves.' Springer-Verlag, New York. ISBN 978-0-387-00592-1.
+- **ip status**: public-domain
+- **prior art notes**: The definitive modern textbook on capillarity and wetting, by three Nobel-class authors. Anticipates microfluidic claims involving contact-line dynamics in microchannels, wetting of patterned surfaces, droplet spreading and pinning, superhydrophobic-surface microfluidics, capillary-pumping designs, and electrowetting at the Young/Lippmann level. Any patent claim reciting 'contact-angle controlled flow', 'wetting hysteresis exploited for directional flow', or 'superhydrophobic surface for droplet handling' must clear dGBWQ 2004.
 
 ## Volta Labs Desktop digital microfluidics library prep (2023)
 

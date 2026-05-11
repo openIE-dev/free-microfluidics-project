@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-step-emulsification`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Young, T. Phil. Trans. R. Soc. 95, 65-87 (1805); Laplace, P. S. Mecanique Celeste, Supplement to Book X (1806). Combined as DeltaP = gamma(1/R1 + 1/R2) with boundary condition cos(theta) at three-phase line.
 - **ip status**: public-domain
 - **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
+
+## Plateau-Rayleigh instability (combined droplet-formation theory) (1879)
+
+- **id**: `plateau-rayleigh-instability-combined`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Joseph Plateau (1873); Lord Rayleigh (1879)
+- **disclosure**: Combined: Plateau, J. (1873). 'Statique experimentale et theorique des liquides soumis aux seules forces moleculaires.' Gauthier-Villars, Paris. AND Rayleigh, Lord (1879). 'On the instability of jets.' Proc. London Math. Soc. 10: 4-13.
+- **ip status**: public-domain
+- **prior art notes**: Combined entry for the Plateau-Rayleigh instability, the foundational classical theory underlying every microfluidic droplet generator (T-junction, flow-focusing, co-flow, step-emulsification). Plateau 1873 (experimental anchor on existence of the instability) plus Rayleigh 1879 (analytical derivation of the most-unstable wavelength) together publish 'a liquid jet breaks into droplets at a wavelength determined by surface tension and inertia' in the public literature 150 years before any droplet-microfluidic patent. Anticipates any patent claim reciting droplet-size selection from a continuous jet - Plateau-Rayleigh predicts the wavelength and growth rate. Combined entry exists so the dual-anchor citation is searchable as a single prior-art reference.
 
 ## Capillary Number Ca = mu U / gamma (1928)
 

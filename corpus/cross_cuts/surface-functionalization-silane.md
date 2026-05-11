@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-functionalization-silane`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1924
 
@@ -64,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iqbal M et al., IEEE J Sel Top Quantum Electron 16:654-661 (2010); doi:10.1109/JSTQE.2009.2032510; Genalyte Maverick product literature; FDA 510(k) K183052
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon-photonic microring biosensor array integrated with a PDMS microfluidic flow cell for multiplex label-free serology. Anticipates: silicon-photonic POC diagnostic cartridges; multiplex microring-resonator serology architectures; integration of silicon-photonic biosensors with disposable polymer fluidic flow cells.
+
+## Israelachvili 2011 - Intermolecular and Surface Forces (3rd ed.) (2011)
+
+- **id**: `israelachvili-2011-intermolecular-surface-forces-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jacob N. Israelachvili
+- **disclosure**: Israelachvili, J. N. (2011). 'Intermolecular and Surface Forces' (3rd ed.). Academic Press. ISBN 978-0-12-391927-4. (1st ed. 1985, 2nd ed. 1992.)
+- **ip status**: public-domain
+- **prior art notes**: Israelachvili textbook is the standard reference for intermolecular and surface forces, covering van der Waals interactions, electric-double-layer forces (extending DLVO from Verwey-Overbeek 1948), hydration and hydrophobic forces, and steric and bridging forces. Anticipates microfluidic claims involving surface-force-controlled nanochannel transport, particle-surface adhesion in microfluidic separations, and bio-functionalized surface-affinity capture in lab-on-chip cartridges. Any patent claiming novelty around tunable surface-interaction forces in microfluidics must clear Israelachvili.
 
 ## WISSARD / SALSA Subglacial Antarctic Microbial Samplers (2014)
 

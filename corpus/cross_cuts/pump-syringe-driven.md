@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-syringe-driven`
 
-**26 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1994
+Earliest disclosure: 1960
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bird, Stewart & Lightfoot 1960 - Transport Phenomena (textbook, 1st ed.) (1960)
+
+- **id**: `bird-stewart-lightfoot-1960-transport-phenomena`
+- **corpus**: academic
+- **device class**: other
+- **creator**: R. Byron Bird; Warren E. Stewart; Edwin N. Lightfoot
+- **disclosure**: Bird, R. B., Stewart, W. E., Lightfoot, E. N. (1960). 'Transport Phenomena.' John Wiley & Sons, New York. ISBN 978-0-471-07392-5.
+- **ip status**: public-domain
+- **prior art notes**: Bird-Stewart-Lightfoot is the foundational textbook for transport phenomena, presenting the unified Newton-Fourier-Fick framework that underlies every microfluidic transport calculation. The 1960 edition documents laminar Navier-Stokes solutions for ducts of every cross-section, Taylor dispersion (chapter on solute transport), heat transfer in channels, and mass transfer with chemical reaction. Anticipates any patent claim whose novel transport formula reduces to a textbook BSL relation - laminar parabolic profile in a channel, Hagen-Poiseuille for any duct section, Graetz-Nusselt for thermal entry length, Leveque mass-transfer correlation. BSL is the single most-cited textbook in microfluidic theory; any transport-theory novelty must clear it.
 
 ## Babylon 5 Medlab automated diagnostic and treatment beds (Dr. Franklin's lab) (1994)
 

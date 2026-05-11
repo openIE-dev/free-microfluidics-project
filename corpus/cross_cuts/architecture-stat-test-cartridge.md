@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-stat-test-cartridge`
 
-**223 corpus entries disclose this subsystem.**
+**225 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1870
 
@@ -955,6 +955,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
 
+## Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.) (2010)
+
+- **id**: `berthier-silberzan-2010-microfluidics-biotech-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jean Berthier; Pascal Silberzan
+- **disclosure**: Berthier, J., Silberzan, P. (2010). 'Microfluidics for Biotechnology' (2nd ed.). Artech House, Boston. ISBN 978-1-59693-443-6.
+- **ip status**: public-domain
+- **prior art notes**: Berthier-Silberzan 2010 is one of the few textbooks focused specifically on microfluidics for biotechnology. Anticipates PCR-on-chip claims, biosensor-integrated lab-on-chip claims, on-chip DNA-handling claims, and capillary/electrokinetic/droplet biotech microfluidic applications. Any 'biotech-microfluidic device' patent must clear this textbook.
+
 ## Charles Stross Rule 34 pharma printer / domestic compounder (2011)
 
 - **id**: `stross-rule-34-pharma-printer`
@@ -1164,6 +1174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX Catalyst One product launch 2013; IDEXX operator's guide; US patent 8,287,810 (multilayer dry-slide reagent), US patent 8,343,427 (CLIP rotor cartridge)
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary chemistry analyzer based on an integrated multilayer dry-film reagent slide combined with a barcoded liquid-reagent CLIP rotor cartridge. The cartridge architecture integrates: (a) on-board centrifugation for plasma separation from whole blood within a sealed disposable, (b) capillary metering of fixed plasma aliquots onto stacked dry-reagent slides containing a spreading layer, reagent layer and indicator layer, (c) reflectance photometry quantitation through a transparent base, and (d) cartridge-borne barcode encoding lot-specific calibration. Anticipates: instrument-recognized POC chemistry cartridges that perform on-board centrifugal plasma separation immediately upstream of dry-reagent multilayer slides; CLIP-style rotor formats packaging both liquid and dry reagents in a single sealed disposable; and the architectural pattern of barcoded-rotor lot-tracking driving instrument-side calibration in veterinary chemistry workflows.
+
+## Whitesides 2013 - Cool, or simple and cheap? Why not both? (origins of microfluidics) (2013)
+
+- **id**: `whitesides-2013-origins-microfluidics-lab-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides
+- **disclosure**: Whitesides, G. M. (2013). 'Cool, or simple and cheap? Why not both?' Lab Chip 13(1): 11-13. doi:10.1039/c2lc90109a. Related: Lab Chip 14, 4133 (2014).
+- **ip status**: public-domain
+- **prior art notes**: Whitesides 2013 is a self-retrospective on microfluidics by the field most-cited founder. Although nominally an editorial, it documents field historical motivations and current trajectory at a level relevant for prior-art context in microfluidic patent disputes. Useful as a primary-source statement of field intent and engineering tradeoffs, particularly for 'point-of-care diagnostic' patents that recite low-cost-vs-research-quality justifications.
 
 ## Abbott ID NOW isothermal amplification cartridge (2014)
 

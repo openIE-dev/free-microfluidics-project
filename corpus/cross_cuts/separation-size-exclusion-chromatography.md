@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `separation-size-exclusion-chromatography`
 
-**3 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1989
+Earliest disclosure: 1901
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Forchheimer 1901 - Wasserbewegung durch Boden (high-velocity porous flow) (1901)
+
+- **id**: `forchheimer-1901-high-velocity-porous-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philipp Forchheimer
+- **disclosure**: Forchheimer, P. (1901). 'Wasserbewegung durch Boden.' Zeitschrift des Vereines Deutscher Ingenieure 45: 1782-1788.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Forchheimer equation: a quadratic-in-velocity correction to Darcy's law valid at higher Reynolds numbers in porous media. Anticipates patent claims involving packed-bed microreactors operating at non-negligible Re, on-chip packed columns for chromatography or solid-phase extraction at high throughput, particle-bed filters for whole-blood handling - any disclosure claiming a flow-rate-vs-pressure relationship beyond pure Darcy is anticipated by Forchheimer 1901.
+
+## Carman 1937 - Permeability of saturated sands, soils and clays (Carman-Kozeny equation) (1937)
+
+- **id**: `carman-1937-permeability-granular-beds`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Philip C. Carman
+- **disclosure**: Carman, P. C. (1937). 'Fluid flow through granular beds.' Trans. IChemE 15: 150-166. Companion: Carman, P. C. (1939). J. Agric. Sci. 29: 263.
+- **ip status**: public-domain
+- **prior art notes**: Combines Kozeny's geometric capillary-bundle model with Carman's empirical permeability data into the Carman-Kozeny equation, the standard relation for permeability of granular and fibrous porous media. Anticipates microfluidic disclosures claiming packed-bead immunoassay columns with predicted flow rates, on-chip solid-phase extraction columns sized to a target pressure drop, cell-trap arrays modeled as porous media. Any patent claim that derives an on-chip permeability or pressure-drop from bead-diameter and packing fraction is anticipated by Carman-Kozeny.
 
 ## Sepragen QuantaSep / ProSep Radial-Flow Chromatography Column (1989)
 
@@ -34,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tremere (White Wolf 1996) ISBN 1-56504-258-8.
 - **ip status**: fictional
 - **prior art notes**: Tremere chantry alchemy laboratory depicted with multi-vessel blood distillation rigs, brewing apparatus for blood bonds, and assay equipment for thaumaturgical reagents. Clanbook: Tremere details specific apparatus. Anticipates: multi-vessel blood-product distillation and characterization rigs; combined-vessel reagent-blood-substrate assay platforms; useful prior art for 'multi-vessel blood-substrate distillation with on-line characterization' claims.
+
+## Geankoplis - Transport Processes and Separation Process Principles (4th ed.) (2003)
+
+- **id**: `geankoplis-transport-processes-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Christie J. Geankoplis
+- **disclosure**: Geankoplis, C. J. (2003). 'Transport Processes and Separation Process Principles' (4th ed.). Prentice Hall. ISBN 978-0-13-101367-4.
+- **ip status**: public-domain
+- **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
 
 ## Charles River Laboratories Cobra Plasmid Manufacturing Platform (2010)
 

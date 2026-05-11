@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**40 corpus entries disclose this subsystem.**
+**45 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
 
+## Plateau-Rayleigh instability (combined droplet-formation theory) (1879)
+
+- **id**: `plateau-rayleigh-instability-combined`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Joseph Plateau (1873); Lord Rayleigh (1879)
+- **disclosure**: Combined: Plateau, J. (1873). 'Statique experimentale et theorique des liquides soumis aux seules forces moleculaires.' Gauthier-Villars, Paris. AND Rayleigh, Lord (1879). 'On the instability of jets.' Proc. London Math. Soc. 10: 4-13.
+- **ip status**: public-domain
+- **prior art notes**: Combined entry for the Plateau-Rayleigh instability, the foundational classical theory underlying every microfluidic droplet generator (T-junction, flow-focusing, co-flow, step-emulsification). Plateau 1873 (experimental anchor on existence of the instability) plus Rayleigh 1879 (analytical derivation of the most-unstable wavelength) together publish 'a liquid jet breaks into droplets at a wavelength determined by surface tension and inertia' in the public literature 150 years before any droplet-microfluidic patent. Anticipates any patent claim reciting droplet-size selection from a continuous jet - Plateau-Rayleigh predicts the wavelength and growth rate. Combined entry exists so the dual-anchor citation is searchable as a single prior-art reference.
+
 ## Capillary Number Ca = mu U / gamma (1928)
 
 - **id**: `capillary-number-dimensionless-group`
@@ -44,6 +54,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bond, W. N. (1928). 'The use of dimensionless equations.' Proc. Phys. Soc. London 41(1): 1-16; named by Taylor in subsequent capillary-flow literature. Implicit in Tate 1864, Plateau 1873, Rayleigh 1879 work on droplet break-up.
 - **ip status**: public-domain
 - **prior art notes**: Capillary number is the controlling parameter for every droplet generator. The dripping-to-jetting transition, the squeezing-to-shearing transition in T-junctions, and the droplet-size scaling laws in flow-focusing devices are all functions of Ca. Anchors: (a) all droplet-generator patents that recite a flow-rate-to-droplet-size scaling (Anna 2003, Thorsen 2002, Garstecki 2006); (b) co-flow droplet sizing claims; (c) step-emulsification regime maps. Any patent claim that recites operating conditions in terms of viscosity, velocity, and surface tension is anticipated by the capillary-number scaling.
+
+## Tomotika 1935 - On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid (1935)
+
+- **id**: `tomotika-1935-droplet-breakup-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Susumu Tomotika
+- **disclosure**: Tomotika, S. (1935). 'On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid.' Proc. R. Soc. A 150(870): 322-337. doi:10.1098/rspa.1935.0104
+- **ip status**: public-domain
+- **prior art notes**: Tomotika 1935 extends the Plateau-Rayleigh instability (1873/1879, both in corpus) to viscous cylindrical threads surrounded by a second viscous fluid - the canonical flow-focusing/co-flow droplet-generator geometry at microscale. Anticipates any patent claim reciting droplet-size selection by viscosity ratio, viscous-jet breakup in microfluidic flow-focusing channels, or wavelength-keyed droplet diameter prediction - all reduce to Tomotika scaling.
+
+## Bretherton 1961 - The motion of long bubbles in tubes (1961)
+
+- **id**: `bretherton-1961-bubble-in-tube`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Francis P. Bretherton
+- **disclosure**: Bretherton, F. P. (1961). 'The motion of long bubbles in tubes.' J. Fluid Mech. 10(2): 166-188. doi:10.1017/S0022112061000160
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical scaling for a confined-bubble system: thin liquid film thickness, bubble velocity offset from mean flow, and capillary pressure drop across the bubble - all functions of Ca = mu*U/gamma. Anticipates microfluidic claims involving Taylor-flow segmented gas-liquid reactors, bubble-trains in segmented-flow microreactors, on-chip oxygenation, gas-liquid heat-exchange microchannels, and bubble-based mixing enhancement claims keyed to film-thickness control. Any patent that claims a quantitative relationship between bubble velocity and channel film thickness, or that uses Ca^(2/3) scaling to predict performance, is anticipated by Bretherton 1961.
+
+## Taylor 1964 - Disintegration of water drops in an electric field (Taylor cone) (1964)
+
+- **id**: `taylor-1964-electrified-cone-electrospray`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Sir Geoffrey Ingram Taylor
+- **disclosure**: Taylor, G. I. (1964). 'Disintegration of water drops in an electric field.' Proc. R. Soc. A 280(1382): 383-397. doi:10.1098/rspa.1964.0151
+- **ip status**: public-domain
+- **prior art notes**: Taylor 1964 derives the conical interface (Taylor cone) of a charged-fluid meniscus at the verge of jet emission. Foundational paper for electrospray ionization mass spectrometry (the Fenn 1989 prize-winning method), electrohydrodynamic droplet generation on chip, electrospinning of polymer fibers via microfluidic emitters, and Taylor-cone microfluidic emitter arrays for mass-spectrometry interfacing. Anticipates any patent claim reciting 'conical electrified meniscus emitting a jet at a threshold voltage' or 'electrospray emitter integrated with microfluidic chip'.
+
+## Levenspiel 1972 - Chemical Reaction Engineering (2nd ed.) (1972)
+
+- **id**: `levenspiel-1972-chemical-reaction-engineering`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Octave Levenspiel
+- **disclosure**: Levenspiel, O. (1972). 'Chemical Reaction Engineering' (2nd ed.). John Wiley & Sons. ISBN 978-0-471-53016-8.
+- **ip status**: public-domain
+- **prior art notes**: Levenspiel 1972 is the canonical reactor-engineering textbook. The reactor archetypes - CSTR, PFR, packed-bed, batch - are ancestors of every microfluidic reactor disclosure: droplet reactors implement a discrete PFR; on-chip mixing chambers are CSTRs; packed-bead immunoassay chambers are packed-bed reactors. Anticipates microfluidic claims reciting residence-time control, mixing-vs-reaction selectivity arguments, or reactor-archetype-based device topology. Any patent that frames a microfluidic device as a 'CSTR-on-chip' or 'PFR-on-chip' is anticipated as to its reactor-engineering framing by Levenspiel.
 
 ## RainDance Technologies DropMaker Patent Family (2002-06-28)
 

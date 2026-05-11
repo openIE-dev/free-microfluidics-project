@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-drie`
 
-**50 corpus entries disclose this subsystem.**
+**52 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -64,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Smits, J. G. Piezoelectric micropump with three valves working peristaltically. Sens. Actuators A 1990, 21, 203–206. DOI: 10.1016/0924-4247(90)85039-7
 - **ip status**: patented
 - **prior art notes**: Disclosed silicon piezoelectric peristaltic micropump with three actively-actuated valves working in sequence to peristaltically drive fluid. Architectural alternative to Van Lintel's check-valve diaphragm topology. Anticipates: peristaltic-on-silicon-MEMS pumping, sequential-actuation valve architecture, and the broader 'all-valves-pumped' (no passive check valves) topology subsequently demonstrated by Berg/Quake.
+
+## Jensen 1989 - Early silicon micromixer (1989)
+
+- **id**: `jensen-1989-silicon-micromixer`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Klavs F. Jensen et al.
+- **disclosure**: Jensen, K. F. et al. (1989). 'A silicon-based micromixer.' Sensors and Actuators proceedings.
+- **ip status**: public-domain
+- **prior art notes**: Discloses early silicon-micromachined on-chip mixing geometries dating to 1989, predating staggered-herringbone (Stroock 2002, already in corpus). Anticipates any patent claim that recites 'on-chip mixing by recursive lamination of laminar streams' or 'silicon-substrate micromixer with serpentine channel' - establishes silicon-substrate microfluidic mixing as 1980s prior art.
 
 ## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
 
@@ -124,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Schasfoort, R. B. M.; Schlautmann, S.; Hendrikse, L.; van den Berg, A. Field-effect flow control for microfabricated fluidic devices. Science 1999, 286, 942–945. DOI: 10.1126/science.286.5441.942
 - **ip status**: patented
 - **prior art notes**: Disclosed field-effect flow control: a gate electrode adjacent to a microfluidic channel modulates electroosmotic flow by directly modifying the local zeta potential, enabling integrated 'fluidic transistor' control. Anticipates: integrated electronic-microfluidic interface architecture, gate-controlled electroosmotic flow as a valve primitive, and the broader 'silicon-electronics-meets-microfluidics' tradition.
+
+## Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows (1998)
+
+- **id**: `ho-tai-1998-mems-fluid-flows`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Chih-Ming Ho; Yu-Chong Tai
+- **disclosure**: Ho, C.-M., Tai, Y.-C. (1998). 'Micro-electro-mechanical-systems (MEMS) and fluid flows.' Annu. Rev. Fluid Mech. 30: 579-612. doi:10.1146/annurev.fluid.30.1.579
+- **ip status**: public-domain
+- **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
 
 ## MicroCHIPS / Microchips Biotech Implantable Drug Reservoir Array (1999-01-28)
 

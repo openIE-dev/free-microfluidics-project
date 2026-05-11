@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**126 corpus entries disclose this subsystem.**
+**127 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -414,6 +414,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Centola M et al., PLOS ONE 8:e60635 (2013); doi:10.1371/journal.pone.0060635; Crescendo Bioscience product literature (acquired by Myriad Genetics 2014); CMS LCD L34416
 - **ip status**: patented
 - **prior art notes**: Discloses a 12-plex serum-biomarker chemiluminescence cartridge (built on Meso Scale Discovery flow cells) with disease-activity-score algorithmic output for rheumatoid arthritis. Anticipates: clinical-grade multiplex chemiluminescence cartridges with reportable composite scores; serum-biomarker microfluidic flow-cell architectures coupled to ML/regression scoring algorithms.
+
+## Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.) (2010)
+
+- **id**: `berthier-silberzan-2010-microfluidics-biotech-2e`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jean Berthier; Pascal Silberzan
+- **disclosure**: Berthier, J., Silberzan, P. (2010). 'Microfluidics for Biotechnology' (2nd ed.). Artech House, Boston. ISBN 978-1-59693-443-6.
+- **ip status**: public-domain
+- **prior art notes**: Berthier-Silberzan 2010 is one of the few textbooks focused specifically on microfluidics for biotechnology. Anticipates PCR-on-chip claims, biosensor-integrated lab-on-chip claims, on-chip DNA-handling claims, and capillary/electrokinetic/droplet biotech microfluidic applications. Any 'biotech-microfluidic device' patent must clear this textbook.
 
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-electroosmotic`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -124,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manz, A. et al. EP0497077A1 / WO9217767A1: Process for separating substances by capillary electrophoresis on chip. Priority date 1991, filed 1992 by Ciba-Geigy AG.
 - **ip status**: patented
 - **prior art notes**: The seminal Ciba-Geigy patent estate filed by Manz and Widmer covering chip-format capillary electrophoresis with electroosmotic pumping. The 1990 priority date predates the Manz 1990 academic paper publication, making this patent family the dominant foundational IP for chip CE. Ciba-Geigy (later Novartis) held this patent estate through expiry in 2010-2012, generating significant licensing revenue from chip-CE-based instruments. Doctrinally critical: any patent asserting novelty for chip-format electrokinetic separation must address this prior art chain.
+
+## Lyklema 1991 - Fundamentals of Interface and Colloid Science (1991)
+
+- **id**: `lyklema-1991-interface-colloid-science-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Johannes (Hans) Lyklema
+- **disclosure**: Lyklema, J. (1991-2005). 'Fundamentals of Interface and Colloid Science.' Academic Press / Elsevier, multivolume. ISBN 978-0-12-460524-8 (Vol I).
+- **ip status**: public-domain
+- **prior art notes**: Lyklema multivolume FICS series is the comprehensive reference for interface and colloid science, including the electric double layer, zeta potential, and electrokinetic phenomena (electroosmosis, electrophoresis, streaming potential, sedimentation potential). Anticipates electrokinetic microfluidic claims involving zeta-potential-keyed flow control, surface-charge-modulated separations, and EOF pumping designs. Required clearance for any 'electrokinetic-novelty' microfluidic patent.
 
 ## Electroosmotic injection / pumping on chip CE (1993)
 
