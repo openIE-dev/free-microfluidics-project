@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-centrifugal-rotational`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -64,6 +64,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Madou, M.; Zoval, J.; Jia, G.; Kido, H.; Kim, J.; Kim, N. Lab on a CD. Annu. Rev. Biomed. Eng. 2006, 8, 601–628. DOI: 10.1146/annurev.bioeng.8.061505.095758
 - **ip status**: patented
 - **prior art notes**: Comprehensive review and synthesis of centrifugal microfluidics: pumping by spin-rate-controlled centrifugal force, valving by capillary-burst pressure thresholds, mixing by Coriolis-aided shaking, and assay sequencing by sequential burst-frequency design. Anticipates: lab-on-disc architecture, capillary-burst valves with threshold rotational frequencies, pumping-as-rotation as a substitute for external pressure, and the commercial pathway commercialized by Gyros (immunoassays), Samsung (Genio), Roche (cobas Liat traces architectural lineage). Among the few papers covering an entire substantive class of microfluidic device.
+
+## Foldscope Microfluidic Accessory (Foldscope + Paperfuge ecosystem) (2014-06-16)
+
+- **id**: `foldscope-paperfuge-microfluidic-add-on`
+- **corpus**: open
+- **device class**: lab-on-chip
+- **creator**: Manu Prakash group, Stanford (Prakash Lab) and Foldscope Instruments
+- **disclosure**: Cybulski JS, Clements J, Prakash M, PLOS ONE 9:e98781 (2014); doi:10.1371/journal.pone.0098781; Bhamla MS et al., Nat Biomed Eng 1:0009 (2017) (Paperfuge); foldscope.com
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an ultra-low-cost paper-and-foil microscopy + centrifugation ecosystem with a microfluidic sample chamber that snaps into the paper microscope for on-site blood smear and parasite detection. Anticipates: open-source field-deployable microscopy + microfluidic chamber kits; passive string-driven centrifuges as sample-prep stage for downstream chip; the broader frugal-science microfluidic kit pattern.
+
+## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
+
+- **id**: `lab-on-disc-caries-detection-2018`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Multiple academic groups (KAIST, Madou-derived centrifugal microfluidics community)
+- **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
+- **ip status**: unknown
+- **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
 
 ## Ultima Genomics UG 100 wafer-format flow cell (2022-05-31)
 

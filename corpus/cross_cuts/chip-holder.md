@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `chip-holder`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2007
+Earliest disclosure: 2002
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Fluidigm Integrated Fluidic Circuit Controller Patent Family (2002)
+
+- **id**: `fluidigm-patent-family-ifc-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7307802; US7195670; US7691333; US7906072; US8163492 (Fluidigm Corporation, now Standard BioTools)
+- **ip status**: patented
+- **prior art notes**: Fluidigm patent family covering the IFC controller (the workhorse benchtop instrument for all Fluidigm chip products). Anchors claims around: (a) pneumatic manifold delivering individually-addressable pressurized control lines to a multilayer PDMS chip seated on a holder; (b) integrated thermal cycling stage; (c) optical readout integration with chip alignment; (d) sequential-loading protocols leveraging MLSI multiplexer trees. Built on the Caltech-licensed Quake MLSI valve patent family (quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates pneumatically-actuated chip-controller benchtop instruments for elastomeric microfluidic chips. Expiry: 2022-2030 across family.
 
 ## Uniqsis FlowSyn modular flow chemistry reactor (2007)
 

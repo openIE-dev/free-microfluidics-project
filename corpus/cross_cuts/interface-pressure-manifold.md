@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-pressure-manifold`
 
-**48 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -125,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Goa'uld sarcophagus is depicted as an enclosed coffin-shaped chamber that, when activated, fills with regenerative biological agents and revives a deceased occupant within minutes. On-screen mechanics show: lid actuation, internal fluid-fill (visible mist/light effects), neural-state restoration, and post-revival exit. Repeated detailed depictions across 10 seasons of SG-1 (1997-2007). Defensive prior art for: closed-vat whole-body regeneration system, automatic post-mortem revival protocol, and fluid-immersion regenerative therapy. Major franchise anchor with explicit fluid-handling visual depictions.
 
+## Illumina Patent Estate Post-Solexa Acquisition (Bridge Amplification + SBS) (1997)
+
+- **id**: `illumina-patent-estate-post-solexa`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Illumina Inc. (acquired Solexa 2007-01-26)
+- **disclosure**: US7771970 (priority via Solexa 1997); US8158346; US8071739; US7115400; US6306597 (Illumina via Solexa acquisition 2007 for $600M)
+- **ip status**: patented
+- **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
+
 ## The Matrix human battery pod fluid-immersion + Tetris IV feed (1999)
 
 - **id**: `matrix-pod-fluid-immersion`
@@ -174,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VITEK 2 launch 1999; VITEK 2 Compact 2002; FDA 510(k) K022366; VITEK 2 XL launch 2009
 - **ip status**: patented
 - **prior art notes**: Discloses an automated microbial ID/AST card-based fluidic system: a credit-card-sized polystyrene cassette containing 64 isolated microwells, each pre-loaded with a different lyophilized substrate (sugars, amino acids, antibiotic dilutions); the card mates with a transfer tube dipped into the bacterial inoculum suspension, and the analyzer's vacuum chamber draws inoculum into all wells simultaneously; the card is then sealed and continuously incubated at 35.5 °C with kinetic optical readout (turbidity at 660 nm + colorimetric pH/redox indicators). Anticipates: vacuum-loaded multi-well microbiology cards as a fluidic primitive for parallel substrate testing; the 'transfer tube + manifold + sealed card' architecture distinguishing VITEK from microtiter plate ID systems. Foundational disclosure for automated clinical microbiology workflows.
+
+## Fluidigm Integrated Fluidic Circuit Controller Patent Family (2002)
+
+- **id**: `fluidigm-patent-family-ifc-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7307802; US7195670; US7691333; US7906072; US8163492 (Fluidigm Corporation, now Standard BioTools)
+- **ip status**: patented
+- **prior art notes**: Fluidigm patent family covering the IFC controller (the workhorse benchtop instrument for all Fluidigm chip products). Anchors claims around: (a) pneumatic manifold delivering individually-addressable pressurized control lines to a multilayer PDMS chip seated on a holder; (b) integrated thermal cycling stage; (c) optical readout integration with chip alignment; (d) sequential-loading protocols leveraging MLSI multiplexer trees. Built on the Caltech-licensed Quake MLSI valve patent family (quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates pneumatically-actuated chip-controller benchtop instruments for elastomeric microfluidic chips. Expiry: 2022-2030 across family.
 
 ## Mimaki Tx/JV Textile and Wide-Format Inkjet Printer (OEM Piezo Array) (2003)
 
@@ -235,6 +255,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a modular clinical analyzer fluidics architecture: a single primary-tube sample-handling rail introduces blood/serum/plasma to multiple specialized assay modules (photometric c501 with permanent cuvette wheel; electrochemiluminescence e601 with disposable ECL cups containing electrode-paramagnetic-bead capture). The c501 module uses a thermostatted rotary cuvette wheel with washable permanent cuvettes; the e601 uses single-use polypropylene assay cups with integrated read-while-flow ECL detection at a Pt working electrode. Anticipates: hybrid permanent-cuvette + disposable-cup analyzer trains; ruthenium-tag ECL detection in disposable cups with paramagnetic bead capture and on-electrode wash; modular interconnect of clinical chemistry and immunoassay sharing primary-tube sample handler.
 
+## Fluxion Biosciences BioFlux 1000z Cell Adhesion System (2007)
+
+- **id**: `fluxion-bioflux-1000z`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluxion Biosciences Inc.
+- **disclosure**: Conant CG et al., J Lab Autom 16:148-152 (2011); doi:10.1016/j.jala.2010.10.001; Fluxion Biosciences product literature; fluxionbio.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microwell-plate-format microfluidic cell-adhesion assay system with parallel pneumatic pressure control across 24-48 channels. Anticipates: multiwell-plate-format shear-stress adhesion screening platforms; pneumatic-manifold-coupled microfluidic well plates; the architectural pattern of well-plate-compatible perfusion for high-throughput mechanobiology. Distinct from existing fluxion-bioflux-platform entry by specifying the 1000z generation and adhesion-assay specialization.
+
 ## Durst Rho with Quadro Array Printheads (2008)
 
 - **id**: `durst-quadro-array-rho-printer`
@@ -254,6 +284,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche Cobas u 411 product launch 2009; CE-IVD; predecessor: Boehringer Mannheim Reflotron (1986). FDA 510(k) K093266
 - **ip status**: patented
 - **prior art notes**: Discloses an automated reflectance urinalysis fluidic system: hopper-fed test strip dispenser, robotic positioning of strip under sample probe, sub-100 µL urine aliquot deposition onto each reagent pad, capillary wicking spread, and time-resolved reflectance read at multiple wavelengths through a moving optical head. Anticipates: dry-pad reagent strip + automated dose/read fluidic primitive for urinalysis (the dominant POC urinalysis architecture); reflectance correction for sample color (urobilinogen/bilirubin); the fluidic challenge of metering 25-50 µL droplets onto each of 11 absorbent pads without bleed-over.
+
+## Picarro Cavity Ring-Down Spectrometer Microfluidic Gas Inlet System (2009)
+
+- **id**: `picarro-crds-gas-inlet`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Picarro Inc.
+- **disclosure**: Crosson ER, Appl Phys B 92:403-408 (2008); doi:10.1007/s00340-008-3135-y; Picarro Inc. product datasheets G1xxx/G2xxx series; picarro.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic gas inlet manifold (capillary, pressure regulator, optical cavity) coupled to cavity ring-down spectroscopy for trace gas analysis. The capillary-into-cavity architecture is a microfluidic sample-prep stage. Anticipates: gas-microfluidic inlet systems for cavity-enhanced spectroscopy; pressure-regulated capillary inlets for high-finesse optical detection; field-deployable trace-gas microfluidic analyzers.
 
 ## Seiko Instruments (SII Printek) RC1536 Industrial Piezo Printhead (2010)
 
@@ -334,6 +374,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ricoh MH5420/MH5440 product datasheet (ricoh.com/products/industrial-inkjet-printheads/ricoh-mh5420-mh5440); RPSA MH5420/MH5440 page
 - **ip status**: patented
 - **prior art notes**: Discloses an industrial DOD piezo printhead using a stainless-steel ink-path body in which the piezoelectric actuator is mechanically coupled to but chemically isolated from the ink, allowing aggressive UV-curable, solvent, and aqueous chemistries through a single architecture. Anticipates: (a) actuator-isolated industrial heads as a contamination/swelling mitigation against piezo-ink contact failures, (b) modular 4-color-per-die packaging, (c) integrated heater used for in-head ink viscosity stabilization at single-pass production speeds. Predicate to GEN5-class machines used by Heidelberg Labelfire, Domino N-series, and many wide-format converters.
+
+## 10x Genomics Xenium In-Situ Patent Family (2014)
+
+- **id**: `tenx-genomics-xenium-in-situ-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (acquired ReadCoor 2020-10-12 for $350M and Cartana 2020-11-23)
+- **disclosure**: US10227639 (ReadCoor / Wyss Institute origin); US11459611; US11788123 (10x Genomics post-acquisition); US10227639 priority 2014
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Xenium / In Situ patent family. Combines the ReadCoor (Wyss Institute, George Church origin) FISSEQ technology and the Cartana (Mats Nilsson origin) padlock-probe in-situ chemistry. Anchors claims around: (a) padlock probes targeting specific transcripts; (b) rolling-circle amplification of bound padlocks creating amplicons in tissue; (c) sequential hybridization rounds with fluorescent decoder probes; (d) decoding amplicon barcodes to identify transcripts at subcellular resolution; (e) Xenium Analyzer fluidic / imaging instrument. Existing companion entries: 10x-xenium-prime-5k, vizgen-merscope (competitor), resolve-bioscience-molecular-cartography (competitor). 10x has asserted parts of this family against Vizgen and Resolve.
+
+## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
+
+- **id**: `tenx-genomics-chromium-gem-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (with Broad Institute licensed background)
+- **disclosure**: US10221442 priority 2012-04-10 (Broad-licensed); 10x-internal: US9694361; US9701957; US10357771; US10752950; US11248267 (10x Genomics)
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Chromium / GEM (Gel-bead-in-Emulsion) patent family. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded gel bead and lysis reagents in an aqueous droplet within fluorinated oil; (b) gel-bead chemistry releasing barcoded primers in-droplet; (c) cell-barcode + UMI + capture-sequence architecture; (d) recovery of barcoded cDNA for bulk library construction; (e) Chromium chip and Chromium X instrument hardware. Several family members (notably US10221442) trace to Broad Institute Macosko / Drop-seq priority that 10x licensed. Anticipates and is anticipated by Quake/Stanford bead-droplet single-cell family (quake-patent-family-bead-droplet-single-cell). Companion existing entries: 10x-genomics-chromium-controller, macosko-2015-drop-seq.
 
 ## Heidelberg Primefire 106 B1 Sheetfed Inkjet Press (2016)
 
@@ -425,6 +485,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
 
+## Cellix VenaPlus Microfluidic Multi-Channel Bioplate (2017)
+
+- **id**: `cellix-venaplus`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellix Ltd.
+- **disclosure**: Cellix Ltd. product datasheet 'VenaPlus 8'; cellixltd.com; ECVAM-validated white papers
+- **ip status**: patented
+- **prior art notes**: Discloses an 8-channel microfluidic biochip in 96-well-plate footprint with bonded thermoplastic substrate and pressure-driven perfusion. Anticipates: 96-well-plate-footprint multi-channel perfusion biochips; thermoplastic bonded biochips for high-throughput cell-rolling assays. Distinct from existing cellix-vena8-magnetofluidics-chip entry by addressing VenaPlus rather than Vena8.
+
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 
 - **id**: `mars2020-pixl-fluidic-flush`
@@ -454,6 +524,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Akoya Biosciences PhenoCycler-Fusion product launch press release 2022-04-26. https://www.akoyabio.com. Combination of CODEX iterative-fluorescence cycling (Goldman 2018) with the Fusion high-speed scanner.
 - **ip status**: patented
 - **prior art notes**: Integrated automation of CODEX (Goldman 2018) iterative DNA-tag-cycled antibody staining: a perfusion fluidic chamber clamps over a tissue slide, automated reagent cycling adds and cleaves DNA-conjugated antibodies, and the high-speed Fusion scanner images the slide between cycles. Anticipates: integrated tissue-slide perfusion-and-image-cycle architectures; CODEX productization with automated fluidics, distinguishing from earlier manual or microscope-mounted CODEX implementations.
+
+## 10x Genomics vs Vizgen Patent Litigation (in situ) (2022-05-09)
+
+- **id**: `tenx-vs-vizgen-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: 10x Genomics + Harvard (plaintiffs) vs Vizgen (defendant)
+- **disclosure**: 10x Genomics Inc. and President and Fellows of Harvard College v. Vizgen Inc., D.Del. 1:22-cv-00595 (filed 2022-05-09)
+- **ip status**: patented
+- **prior art notes**: Litigation entry. 10x Genomics + Harvard sued Vizgen in D.Del. 1:22-cv-00595 (filed 2022-05-09) asserting in-situ sequencing and MERFISH-related patents against Vizgen's MERSCOPE platform. Vizgen counterclaimed for IPR challenges and antitrust. Existing companion entries: vizgen-merscope, 10x-xenium-prime-5k, tenx-genomics-xenium-in-situ-patent-family. Defensive value: documents the patent-positions 10x asserts in spatial transcriptomics and the IPR challenges Vizgen brought.
+
+## 10x Genomics vs Resolve Biosciences Patent Litigation (2022-05-09)
+
+- **id**: `tenx-vs-resolve-bioscience-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: 10x Genomics + Harvard (plaintiffs) vs Resolve Biosciences (defendant)
+- **disclosure**: 10x Genomics Inc. v. Resolve Biosciences GmbH, D.Del. 1:22-cv-00594 (filed 2022-05-09)
+- **ip status**: patented
+- **prior art notes**: Litigation entry, parallel to 10x v. Vizgen. 10x Genomics + Harvard sued Resolve Biosciences in D.Del. 1:22-cv-00594 (filed 2022-05-09) asserting overlapping in-situ patents against Resolve's Molecular Cartography platform (existing entry: resolve-bioscience-molecular-cartography). Companion: tenx-vs-vizgen-litigation. Together the two suits indicate 10x's strategy of broad enforcement of its acquired Cartana/ReadCoor IP against all in-situ spatial competitors.
 
 ## Oxford Nanopore R10.4.1 flow cell (2022-05-19)
 

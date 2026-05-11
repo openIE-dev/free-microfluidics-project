@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-label-free-imaging`
 
-**28 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2002
+Earliest disclosure: 2001-08-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
+
+- **id**: `given-imaging-pillcam-sb`
+- **corpus**: private
+- **device class**: other
+- **creator**: Given Imaging Ltd. (acquired by Medtronic 2014)
+- **disclosure**: Iddan G, Meron G, Glukhovsky A, Swain P, Nature 405:417 (2000); FDA 510(k) K010312 (2001-08-01); doi:10.1038/35013140
+- **ip status**: patented
+- **prior art notes**: Discloses a swallowable optical-imaging capsule with a passive optical-dome window that interfaces with luminal fluid as both an immersion medium and as the analyte itself (mucus, blood). Anticipates: ingestible imaging capsules; the ingestible-architecture pattern of dome-window + sensor + radio + battery in a 26 mm form factor; established the FDA pathway via K010312 that all subsequent ingestible microfluidic capsules followed.
 
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
@@ -55,6 +65,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an inline turbidity / absorption sensor with sapphire windows in a stainless flow cell, NIR LED + photodiode pair across the optical path, signal proportional to cell-density-times-pathlength. Used as in-line PAT for fermentation cell-density measurement and downstream chromatography elution monitoring. Anticipates: inline sapphire-windowed turbidity probe architecture for high-temperature/high-pH-tolerant PAT; combined absorption + scattering measurement in a single flow cell. Element-by-element: stainless flow body + sapphire windows + LED source + photodiode detector + transmitter electronics.
 
+## Olympus EndoCapsule EC-10 Capsule Endoscope (2005)
+
+- **id**: `olympus-endocapsule-10`
+- **corpus**: private
+- **device class**: other
+- **creator**: Olympus Corporation
+- **disclosure**: Cave DR et al., Gastrointest Endosc 68:487-494 (2008) (comparison study); FDA 510(k) K053494 (2005); Olympus Medical product literature
+- **ip status**: patented
+- **prior art notes**: Discloses an alternative architecture for swallowable imaging capsules using CCD rather than CMOS, with substantively similar dome-window fluidic interface. Anticipates: capsule endoscope variants substituting sensor technologies while keeping fluidic packaging; multi-vendor capsule-endoscope ecosystem prior art relevant to any future ingestible microfluidic device.
+
+## IntroMedic MiroCam Human-Body-Communication Capsule Endoscope (2007)
+
+- **id**: `intromedic-mirocam-capsule`
+- **corpus**: private
+- **device class**: other
+- **creator**: IntroMedic Co., Ltd.
+- **disclosure**: Bang S, Park JY, Jeong S, Kim YH, Shim HC, Kim TS, Lee DH, Song SY, Gastrointest Endosc 69:253-259 (2009); doi:10.1016/j.gie.2008.04.033; KFDA approval 2007
+- **ip status**: patented
+- **prior art notes**: Discloses a capsule endoscope using galvanic Human Body Communication for telemetry, eliminating the RF antenna and reducing power. Anticipates: HBC-based ingestible telemetry; capsule designs using body-conductive modulation; alternative to PillCam RF architecture for any future microfluidic ingestible.
+
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
 - **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
@@ -85,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
+## Picarro Cavity Ring-Down Spectrometer Microfluidic Gas Inlet System (2009)
+
+- **id**: `picarro-crds-gas-inlet`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Picarro Inc.
+- **disclosure**: Crosson ER, Appl Phys B 92:403-408 (2008); doi:10.1007/s00340-008-3135-y; Picarro Inc. product datasheets G1xxx/G2xxx series; picarro.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic gas inlet manifold (capillary, pressure regulator, optical cavity) coupled to cavity ring-down spectroscopy for trace gas analysis. The capillary-into-cavity architecture is a microfluidic sample-prep stage. Anticipates: gas-microfluidic inlet systems for cavity-enhanced spectroscopy; pressure-regulated capillary inlets for high-finesse optical detection; field-deployable trace-gas microfluidic analyzers.
+
 ## Werfen ACL TOP 750 Coagulation Analyzer Optical Cuvette Train (2010)
 
 - **id**: `werfen-acl-top-750-coag-optical`
@@ -94,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Instrumentation Laboratory ACL TOP 700 launch 2010; ACL TOP 750 launch 2014; FDA 510(k) K141728
 - **ip status**: patented
 - **prior art notes**: Discloses an optical-detection coagulation analyzer with a four-wavelength LED illumination + photodiode receiver per cuvette: 405 nm for clot turbidity (PT/aPTT) and chromogenic substrate absorbance (e.g., antithrombin); 575 nm correction wavelength for hemoglobin/icterus interference; 671 nm for immunoturbidimetric (D-dimer); 810 nm for HIL flagging and longer-wavelength immunoturbidimetric. The fluid handler integrates automated cap piercing, primary-tube sampling, automated dilutions, and on-board reagent reconstitution. Anticipates: multi-wavelength optical coag detection consolidating clot/chromogenic/immunoturbidimetric assays in a single-cuvette format; HIL flagging by absorbance ratiometry. Direct competitor architecture to Stago (mechanical) and Sysmex CS series.
+
+## Genalyte Maverick Silicon-Photonic Microring Resonator Diagnostic (2010)
+
+- **id**: `genalyte-maverick-silicon-photonic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Genalyte Inc.
+- **disclosure**: Iqbal M et al., IEEE J Sel Top Quantum Electron 16:654-661 (2010); doi:10.1109/JSTQE.2009.2032510; Genalyte Maverick product literature; FDA 510(k) K183052
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-photonic microring biosensor array integrated with a PDMS microfluidic flow cell for multiplex label-free serology. Anticipates: silicon-photonic POC diagnostic cartridges; multiplex microring-resonator serology architectures; integration of silicon-photonic biosensors with disposable polymer fluidic flow cells.
 
 ## Bio-Rad TC20 Automated Cell Counter (2013)
 

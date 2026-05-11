@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-microwell-array`
 
-**16 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Trek: Deep Space Nine 'The Alternate' (S2E12, 1994); Mora Pol introduced as Odo's mentor at the Bajoran Center for Science.
 - **ip status**: fictional
 - **prior art notes**: Dr. Mora Pol's lab depicted as a Bajoran-built biological research facility focused on shape-shifter (Founder) cell biology, including specimen containment, cellular sampling, and electrical/biochemical assays. Defensive prior art for non-Federation alien-organism research-lab architecture and specimen-confinement chambers for unknown biology.
+
+## McDevitt Nano-Bio-Chip for Salivary Periodontal and Cardiac Biomarker Detection (2005)
+
+- **id**: `christodoulides-2005-nano-bio-chip-perio`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: John T. McDevitt group (Univ. Texas Austin / Rice / NYU)
+- **disclosure**: Christodoulides N, Mohanty S, Miller CS, et al., Lab on a Chip 5:261-269 (2005); doi:10.1039/B414194F
+- **ip status**: patented
+- **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
 
 ## ChemoMetec NucleoCounter NC-200 / NC-3000 Single-Use Cassette (2008)
 

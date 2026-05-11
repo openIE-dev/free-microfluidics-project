@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-pdms-plasma-bonding`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Duffy, D. C.; McDonald, J. C.; Schueller, O. J. A.; Whitesides, G. M. Rapid prototyping of microfluidic systems in poly(dimethylsiloxane). Anal. Chem. 1998, 70, 4974–4984. DOI: 10.1021/ac980656z
 - **ip status**: public-domain
 - **prior art notes**: The paper that turned PDMS soft lithography into the default microfluidics fabrication method for the next 25+ years. Anticipates: SU-8 master mold + PDMS replica casting, oxygen-plasma bonding of PDMS to glass or PDMS, hydrophilic surface treatment by plasma oxidation, and rapid-prototyping iteration of channel designs. Any patent claiming novelty over 'PDMS replica molding from a photoresist master with plasma bonding to substrate' must address this disclosure.
+
+## PDMS-Glass Plasma Bonding Methodology Patent Family (1999)
+
+- **id**: `whitesides-patent-pdms-glass-plasma-bonding`
+- **corpus**: academic
+- **device class**: other
+- **creator**: President and Fellows of Harvard College (Whitesides group)
+- **disclosure**: Method disclosed in Duffy et al. Anal. Chem. 1998 (doi:10.1021/ac980656z) and Whitesides-group continuations; no enforceable composition-of-matter patent broadly asserted; covered in US6645432 (related apparatus) and Harvard practice notes
+- **ip status**: public-domain
+- **prior art notes**: Defensive entry recording the PDMS-glass oxygen-plasma bonding methodology as effectively public-domain. Anchors negative-claim status that: (a) exposing PDMS surface to O2 or air plasma to generate silanol groups; (b) bringing such activated surface into contact with similarly treated borosilicate glass; (c) forming Si-O-Si covalent bonds creating an irreversible, leak-tight seal — none of these are validly patentable in 2026 because the technique was disclosed in Duffy 1998 and was widely practiced before the priority date of any later assertion. Defensive value: any patent attempting to claim O2-plasma PDMS-glass bonding can be invalidated by Duffy 1998 plus this disclosure timestamp. Cited apparatus patent US6645432 covers a specific plasma-chamber implementation, not the general method.
 
 ## OpenWetWare Community Wiki (2005)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-foil-pierce-actuation`
 
-**17 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -84,6 +84,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aseptic Technologies SA Crystal Closed Vial product launch 2008; US patent US7,766,919B2 (Closed sterile vial with septum, Aseptic Technologies); EP1853488B1
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-sterilized closed vial in which the thermoplastic-elastomer septum is permanently bonded to a cyclic-olefin-copolymer body; filling is performed by needle pierce through the septum, and the pierce hole is sealed by laser welding (or similar localized melt-and-reflow) immediately after needle withdrawal. The fluid path during fill is through a single sterile needle into a closed vessel — the vial interior never sees ambient atmosphere. Anticipates: closed-vial fill-finish architecture in which the conventional aseptic-fill open window is eliminated by combining pierce-fill with post-fill laser-resealing. Element-by-element: COC body + bonded TPE septum + sterile fill needle + laser-weld station + final crimp/cap. Distinguishable from Vanrx SA25 (open-vial fill in isolator) by maintaining vial closure throughout fill.
+
+## DNA Genotek Oragene•DNA OG-500 Saliva Collection Kit (2008)
+
+- **id**: `dna-genotek-oragene-og500`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (subsequently OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. product datasheet PD-PR-006 (Oragene•DNA OG-500); 23andMe and Ancestry adoption notices 2008-2010; dnagenotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
+
+## DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge (2010)
+
+- **id**: `dna-genotek-oracollect-dna-pediatric`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. ORAcollect•DNA OCR-100 product datasheet; dnagenotek.com pediatric collection device page
+- **ip status**: patented
+- **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
 
 ## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
 
@@ -174,6 +194,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Goesmann F et al., 'The Mars Organic Molecule Analyzer (MOMA) Instrument: Characterization of Organic Material in Martian Sediments,' Astrobiology 17(6-7):655-685 (2017), doi:10.1089/ast.2016.1551
 - **ip status**: public-domain
 - **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
+
+## Vibrant Gastro Vibrating Capsule for Chronic Constipation (2018)
+
+- **id**: `vibrant-gastro-capsule`
+- **corpus**: private
+- **device class**: other
+- **creator**: Vibrant Ltd.
+- **disclosure**: Rao SSC, Lembo A et al., Am J Gastroenterol 113:S252 (2018); FDA De Novo DEN210037 granted 2022-08-08; vibrantgastro.com
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible capsule whose mechanism of action is mechanical agitation rather than pharmaceutical release. Anticipates: vibrating ingestible capsules for GI motility disorders; thermal/optical-triggered activation of ingestibles in lieu of pH or transit-time triggering; non-API ingestible therapeutics broadly. Relevant prior art for any future combination microfluidic-plus-mechanical ingestible architecture.
+
+## Microneedle Ocular Patch for Posterior-Segment Drug Delivery (2020)
+
+- **id**: `thakur-2020-microneedle-ocular-patch`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Multiple academic groups (Donnelly lab Queen's Belfast; Prausnitz lab Georgia Tech)
+- **disclosure**: Thakur Singh RR et al., Acta Biomaterialia 108:294-306 (2020); doi:10.1016/j.actbio.2020.03.039
+- **ip status**: patented
+- **prior art notes**: Discloses ocular microneedle patches as an alternative to intravitreal injection for delivering anti-VEGF, corticosteroid, and small-molecule therapeutics to the posterior eye. Hollow variants integrate microfluidic channels for active perfusion. Anticipates: ocular microneedle patches with integrated microfluidic perfusion; trans-scleral sustained-release microneedle architectures; eye-drop-replacement consumer microneedle formats including the speculative Verily/EyeDrop ML systems.
 
 ## Dragonfly Mass Spectrometer (DraMS) for Titan (2022)
 

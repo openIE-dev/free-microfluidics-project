@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**24 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2000
+Earliest disclosure: 1997
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Illumina Patent Estate Post-Solexa Acquisition (Bridge Amplification + SBS) (1997)
+
+- **id**: `illumina-patent-estate-post-solexa`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Illumina Inc. (acquired Solexa 2007-01-26)
+- **disclosure**: US7771970 (priority via Solexa 1997); US8158346; US8071739; US7115400; US6306597 (Illumina via Solexa acquisition 2007 for $600M)
+- **ip status**: patented
+- **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
 
 ## Loop-mediated isothermal amplification (LAMP) (2000)
 
@@ -164,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various Institut Pasteur publications 2020-2024 on CRISPR-cartridge POC diagnostic development.
 - **ip status**: patented
 - **prior art notes**: Composite reference for European CRISPR-cartridge academic work centered at Institut Pasteur, complementing US (Sherlock, Mammoth, Broad) and academic-to-commercial pipelines. The Pasteur lineage is particularly strong in tropical disease applications (Plasmodium, dengue, chikungunya) where CRISPR cartridge architectures have specific advantages.
+
+## Kraken Sense KRAKEN1 Automated Pathogen Detection System (2021)
+
+- **id**: `kraken-sense-pathogen-detection`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Kraken Sense Inc.
+- **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
+- **ip status**: patented
+- **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.
 
 ## Talis One COVID-19 Test Cartridge (2021-02)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-affinity-capture`
 
-**56 corpus entries disclose this subsystem.**
+**60 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -135,6 +135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Polyimide-substrate microfluidic HPLC-MS chip integrating sample enrichment column, analytical separation column, and ESI nozzle on a single disposable chip. Direct architectural descendant of Ramsey 1996 / Figeys 1997 academic disclosures. Among the earliest commercial chip-LC-MS platforms; subsequently displaced for many applications by capillary nano-LC but retains use in dedicated chip-LC workflows.
 
+## McDevitt Nano-Bio-Chip for Salivary Periodontal and Cardiac Biomarker Detection (2005)
+
+- **id**: `christodoulides-2005-nano-bio-chip-perio`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: John T. McDevitt group (Univ. Texas Austin / Rice / NYU)
+- **disclosure**: Christodoulides N, Mohanty S, Miller CS, et al., Lab on a Chip 5:261-269 (2005); doi:10.1039/B414194F
+- **ip status**: patented
+- **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
+
 ## Bead-based cell capture in microfluidic channels (2007)
 
 - **id**: `yu-2010-cell-pull-down-bead`
@@ -205,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a commodity catalog of pre-packed reagent cartridges that can be plumbed into any flow chemistry rig (Vapourtec, Syrris, Uniqsis, custom). Anticipates patent claims directed to: (a) pre-packed scavenger-resin cartridges with standard HPLC fittings for inline metal/byproduct scavenging in flow chemistry; (b) immobilized-enzyme cartridges as drop-in flow-chemistry biocatalyst modules; (c) polymer-supported reagent cartridges enabling stoichiometric reagent use without aqueous workup. Important commons entry because Sigma-Aldrich/Merck is the canonical chemicals supplier and their product line establishes a wide prior-art baseline against future patents on 'cartridge-format reagents for flow chemistry'.
 
+## Daktari Diagnostics CD4 Counter (defunct) (2009)
+
+- **id**: `daktari-cd4-counter`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Daktari Diagnostics Inc. (defunct ~2018)
+- **disclosure**: Cheng X et al., Lab on a Chip 7:170-178 (2007); Watkins NN et al., Sci Transl Med 5:214ra170 (2013); Daktari Diagnostics product literature; FDA 510(k) K130725
+- **ip status**: patented
+- **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
+
 ## DiaSorin LIAISON XL Immunoassay Magnetic Bead Cuvette (2010)
 
 - **id**: `diasorin-liaison-xl-magnetic-bead-cuvette`
@@ -274,6 +294,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hologic Panther launch 2012-04; Panther Fusion launch 2017-09; FDA 510(k) K112113 (Panther); K173494 (Fusion module)
 - **ip status**: patented
 - **prior art notes**: Discloses the Panther/Fusion fluidic architecture: random-access processing of single-use Aptima Target Capture tubes containing magnetic capture oligonucleotide-functionalized beads — the bead/capture-oligo hybridizes the target nucleic acid before any amplification, washing away interferents (e.g., for urine and vaginal swab matrices); released targets are transferred to amplification tubes for either TMA (Panther main module: chemiluminescent detection via hybridization protection assay HPA) or RT-PCR (Panther Fusion module: real-time fluorescent multiplex). Anticipates: true random-access molecular analyzers integrating target capture + amplification + detection in a continuous single-tube workflow; HPA dual-kinetic-assay chemiluminescence as a non-amplification-coupled detection alternative to fluorescence; architectural separation of TMA and PCR onto distinct modules sharing the same sample handler.
+
+## Heather Dewey-Hagborg — Stranger Visions (DNA-from-trace forensic art) (2012)
+
+- **id**: `dewey-hagborg-stranger-visions`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Heather Dewey-Hagborg
+- **disclosure**: Dewey-Hagborg H, 'Stranger Visions', exhibited 2013 Clocktower Gallery NYC; deweyhagborg.com/projects/stranger-visions
+- **ip status**: fictional
+- **prior art notes**: Discloses an artistic forensic workflow extracting DNA from discarded trace material (cigarette butts, hair) and using SNP-prediction tools to generate 3D-printed facial reconstructions of strangers. Anticipates: trace-DNA-to-phenotype consumer cartridges; speculative forensic microfluidic kits for crowd surveillance; popular-culture prior art for DNA-driven facial-reconstruction services.
 
 ## QIAGEN QIAcube HT Sample Prep (2013)
 
@@ -544,6 +574,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Curio Bioscience commercial launch of Slide-seqV2 as Curio Seeker, 2022. https://curiobioscience.com/. Stickels, R. R. et al. Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2. Nat. Biotechnol. 2021, 39, 313-319. DOI: 10.1038/s41587-020-0739-1.
 - **ip status**: patented
 - **prior art notes**: Commercialization of Slide-seqV2: a glass puck densely coated with a monolayer of spatially-barcoded ~10 µm beads. Tissue is laid on the puck, RNA captured by adjacent beads, then library-prepped off-puck. Anticipates: bead-monolayer spatial transcriptomic substrates as an alternative to printed barcode grids (Visium); commercialization of an open-published spatial method by the originating lab's spinout, distinct from the 10x/Visium commercialization of Stahl 2016 spatial transcriptomics.
+
+## Nuclera eProtein Discovery Platform (2022-09-01)
+
+- **id**: `nuclera-eprotein-platform`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Nuclera Ltd. (Cambridge, UK; Aaron Wheeler EWOD lineage)
+- **disclosure**: Nuclera Ltd. product launch announcement 2022-09; nuclera.com; Wheeler AR et al., founding patents WO2014047523A1
+- **ip status**: patented
+- **prior art notes**: Discloses a commercial EWOD cartridge benchtop instrument that combines cell-free protein synthesis with on-chip bead-based affinity purification. Builds on Wheeler-lab EWOD prior art. Anticipates: EWOD cartridges integrating cell-free protein synthesis; benchtop bead-purification on digital microfluidic platforms; the architectural pattern of disposable PCB-electrode cartridges for protein-engineering workflows.
 
 ## Microfluidic rare-cell isolation (2023-onward methods) (2023)
 

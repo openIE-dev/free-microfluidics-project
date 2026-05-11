@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-capillary-stop`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -74,6 +74,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oh, K. W.; Ahn, C. H. A review of microvalves. J. Micromech. Microeng. 2006, 16, R13–R39. DOI: 10.1088/0960-1317/16/5/R01
 - **ip status**: public-domain
 - **prior art notes**: Comprehensive review of microvalves enumerating active (pneumatic, thermal, electrostatic, electromagnetic, piezoelectric, electrochemical, electrowetting) and passive (check, capillary-burst, hydrophobic) categories. Methodologically essential as the unified reference for microvalve prior art across the entire field; useful for invalidity contention against any patent claiming a 'novel microvalve' that turns out to fall within one of the eight active or three passive categories enumerated here.
+
+## Whitesides Paper Microfluidics Patent Family (2007-10-12)
+
+- **id**: `whitesides-patent-family-paper-microfluidics`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: President and Fellows of Harvard College (Martinez, Phillips, Carrilho, Whitesides et al.)
+- **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
+
+## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
+
+- **id**: `lab-on-disc-caries-detection-2018`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Multiple academic groups (KAIST, Madou-derived centrifugal microfluidics community)
+- **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
+- **ip status**: unknown
+- **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
 
 ## Sherlock Biosciences SHERLOCK Cartridge (2024)
 

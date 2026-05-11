@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**24 corpus entries disclose this subsystem.**
+**34 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 2002-06-28
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## RainDance Technologies DropMaker Patent Family (2002-06-28)
+
+- **id**: `raindance-dropmaker-patent-family`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: RainDance Technologies (acquired by Bio-Rad 2017-03-02)
+- **disclosure**: US7708949 priority 2002-06-28; US8772046; US8500053; US8841071 (originally RainDance Technologies, now Bio-Rad)
+- **ip status**: patented
+- **prior art notes**: RainDance Technologies patent family covering picoliter-droplet generation in fluorinated-oil emulsions. Anchors claims around: (a) flow-focusing or T-junction generation of monodisperse aqueous droplets in fluorinated oil; (b) use of perfluorinated polyether surfactants to stabilize droplets against coalescence; (c) compatibility with PCR thermal cycling; (d) sample-encapsulation rates >1 kHz. Foundation patents acquired by Bio-Rad in March 2017 for approximately $72M (Bio-Rad 8-K 2017-02-01). Anticipates ddPCR / digital droplet-PCR cartridges and droplet-library generators. Existing companion entry raindance-bio-rad-acquisition documents the deal; this entry maps the licensable patent estate.
 
 ## Flow-focusing droplet generation in microfluidic devices (2003)
 
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: iGEM founded as MIT IAP course 2003; first formal distribution kit 2004; iGEM Foundation incorporated 2012; https://igem.org; Registry of Standard Biological Parts http://parts.igem.org; key paper Smolke C., 'Building outside of the box: iGEM and the BioBricks Foundation', Nat Biotechnol 27:1099 (2009)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an annual mass-distribution of standardized DNA parts under permissive license, plus a public registry of their characterizations. Relevance to microfluidics commons: hundreds of iGEM projects 2007-2024 have published microfluidic device designs (paper microfluidics, droplet generators, lab-on-chip cartridges) on the iGEM wiki under CC-BY licenses; these wiki pages are themselves a substantial body of prior art for low-cost microfluidic education kits, point-of-care biosensors, and student-built droplet generators. Specifically anticipates the 'student-built point-of-care diagnostic with cell-free expression on paper or in droplets' design pattern many times over since 2010.
+
+## Quake Lab Droplet Flow-Focusing Patent Family (2003-09-15)
+
+- **id**: `quake-patent-family-droplet-flow-focusing`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: President and Fellows of Harvard College (Anna, Bontoux, Stone, Quake)
+- **disclosure**: US7268167 priority 2003-09-15; US7375085; both assigned originally to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard-anchored patent family covering hydrodynamic flow-focusing droplet generation. Anchors claims around: (a) a microfluidic device with an inner phase channel meeting two outer continuous-phase channels at an orifice; (b) generation of monodisperse droplets via Rayleigh-Plateau breakup at the orifice; (c) independent control of droplet diameter via continuous-phase flow rate while inner-phase flow rate sets generation frequency; (d) chip geometry compatible with PDMS soft lithography. Anticipates flow-focusing droplet-generator chips in microfluidic context. Underlying Anna 2003 paper (anna-2003-flow-focusing-droplet) is the published companion. The patent family was a precursor for the licensing chains that fed RainDance, QuantaLife, and 10x Genomics droplet platforms. Expiry: ~2023-2024 for earliest members, but continuations may extend coverage on specific geometries.
 
 ## Microfluidic alginate microbead generation (2007)
 
@@ -75,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Established droplet microfluidics for single-cell HTS by combining flow-focusing droplet generation, on-droplet barcoding, fluorescence-activated droplet sorting (FADS), and downstream analysis. Anticipates: barcoded droplet libraries for combinatorial screening, droplet sorting at kHz rates with electrocoalescence, and the directed-evolution / single-cell-screen workflows commercialized by RainDance and absorbed into Bio-Rad's portfolio.
 
+## Quake/Stanford Bead-in-Droplet Single-Cell Encapsulation Patent Family (2010)
+
+- **id**: `quake-patent-family-bead-droplet-single-cell`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Board of Trustees of the Leland Stanford Junior University (Quake et al.) and co-inventors
+- **disclosure**: US8748094; US9695468; US9856530 and continuations (Stanford / co-assigned with collaborators)
+- **ip status**: patented
+- **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
+
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
 - **id**: `bio-rad-qx-ddpcr-system`
@@ -85,6 +115,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated commercial workflow for droplet digital PCR: cartridge-based generation of ~20,000 monodisperse droplets per sample, off-chip thermal cycling, and droplet-by-droplet fluorescence readout. Anticipates: the digital-PCR workflow as a discrete commercial category, integration of injection-molded droplet-generation cartridges with an instrument-side flow controller, and a sample-to-answer ddPCR system architecture.
 
+## Bio-Rad Acquisition of QuantaLife 2011 (QX200 ddPCR Origin) (2011-09-06)
+
+- **id**: `biorad-quantalife-acquisition-2011`
+- **corpus**: private
+- **device class**: other
+- **creator**: QuantaLife Inc. (acquired by Bio-Rad)
+- **disclosure**: Bio-Rad press release 2011-09-06; deal value $162M cash plus $35M earnout; QuantaLife technology became QX100/QX200 product line
+- **ip status**: patented
+- **prior art notes**: Consolidation event. Documents Bio-Rad's 2011-09-06 acquisition of QuantaLife (initial $162M plus $35M earnout). The QuantaLife technology, originally developed by Bill Colston and team (formerly Lawrence Livermore), became the Bio-Rad QX100 and QX200 droplet-digital PCR product line (existing entry: bio-rad-qx-ddpcr-system). Six years later, Bio-Rad's 2017 acquisition of RainDance (raindance-bio-rad-acquisition, $72M) consolidated the second major ddPCR patent estate. The combined QuantaLife + RainDance IP gave Bio-Rad a dominant ddPCR market position, which became the basis for Bio-Rad's litigation against 10x Genomics. Defensive value: maps the patent-assignment chain.
+
+## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
+
+- **id**: `broad-institute-drop-seq-patent-family`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard / Steve McCarroll laboratory
+- **disclosure**: US10221442 priority 2014; US20170029873; WO2014210353 (Broad Institute / Harvard / Steve McCarroll lab)
+- **ip status**: patented
+- **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
+
 ## Aspect Biosystems RX1 Lab-on-a-Printer microfluidic bioprinter (2014)
 
 - **id**: `aspect-biosystems-rx1`
@@ -94,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aspect Biosystems Lab-on-a-Printer. https://www.aspectbiosystems.com
 - **ip status**: patented
 - **prior art notes**: Microfluidic print-head bioprinter combining flow-focusing fiber generation with multi-material extrusion. Architecturally distinct from Cellink/Allevi extrusion bioprinters by integrating microfluidic mixing and crosslinking into the print head itself. Anticipates: in-print-head microfluidic mixing for tissue-construct printing.
+
+## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
+
+- **id**: `tenx-genomics-chromium-gem-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (with Broad Institute licensed background)
+- **disclosure**: US10221442 priority 2012-04-10 (Broad-licensed); 10x-internal: US9694361; US9701957; US10357771; US10752950; US11248267 (10x Genomics)
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Chromium / GEM (Gel-bead-in-Emulsion) patent family. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded gel bead and lysis reagents in an aqueous droplet within fluorinated oil; (b) gel-bead chemistry releasing barcoded primers in-droplet; (c) cell-barcode + UMI + capture-sequence architecture; (d) recovery of barcoded cDNA for bulk library construction; (e) Chromium chip and Chromium X instrument hardware. Several family members (notably US10221442) trace to Broad Institute Macosko / Drop-seq priority that 10x licensed. Anticipates and is anticipated by Quake/Stanford bead-droplet single-cell family (quake-patent-family-bead-droplet-single-cell). Companion existing entries: 10x-genomics-chromium-controller, macosko-2015-drop-seq.
 
 ## Drop-seq single-cell RNA sequencing (2015)
 
@@ -124,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Klein, A. M.; Mazutis, L.; et al. (inDrops paper, see klein-2015-indrops). Zilionis, R. et al. Single-cell barcoding and sequencing using droplet microfluidics. Nat. Protoc. 2017, 12, 44–73.
 - **ip status**: public-domain
 - **prior art notes**: Disclosed barcoded-hydrogel-bead manufacturing for single-cell RNA-seq: split-and-pool synthesis on alginate beads in microfluidic encapsulation produces a library of beads each bearing a unique barcode, used in inDrops and similar platforms. Anticipates: split-pool-bead-barcoding architecture, which became central to the inDrops and 10x Chromium commercial platforms.
+
+## 10x Genomics vs Bio-Rad Patent Litigation (RainDance basis) (2015-02-12)
+
+- **id**: `tenx-vs-bio-rad-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Bio-Rad Laboratories (plaintiff) vs 10x Genomics (defendant)
+- **disclosure**: Bio-Rad Labs v. 10x Genomics, D.Del. 1:15-cv-00152 (filed 2015-02-12); jury verdict 2018-11-13 awarded $24M to Bio-Rad; later judgments, appeals, and 2020 settlement; subsequent N.D.Cal. cases
+- **ip status**: patented
+- **prior art notes**: Litigation entry. Bio-Rad sued 10x Genomics in D.Del. 1:15-cv-00152 (filed 2015-02-12) asserting RainDance-derived droplet patents (US7708949, US8273573, US8889083 and others) against the Chromium platform. Jury verdict 2018-11-13 awarded $24M with 15% royalty going forward. Multiple parallel cases followed in N.D.Cal. and at the ITC. Settled via cross-license arrangement around 2020. Defensive value: documents the most-litigated case in microfluidics history and establishes the legal interpretation of several RainDance/QuantaLife claim terms. Useful for any party defending against droplet-microfluidic claims.
 
 ## 10x Genomics Chromium controller and Next GEM chip (2016)
 
@@ -185,6 +255,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.
 
+## uFluidix Open Educational Chip Kit (2017)
+
+- **id**: `ufluidix-educational-chip-kit`
+- **corpus**: open
+- **device class**: consumable-bulk
+- **creator**: uFluidix Inc.
+- **disclosure**: uFluidix Inc. educational product page; ufluidix.com/education
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an open undergrad microfluidic kit including PDMS chip designs (droplet, gradient, herringbone) released under permissive license. Anticipates: open-source educational microfluidic chip libraries; reference designs for undergraduate teaching of canonical microfluidic primitives.
+
+## Bio-Rad ddPCR Patent Consolidation Position (post-RainDance 2017) (2017-03-02)
+
+- **id**: `biorad-ddpcr-consolidation-position-2017`
+- **corpus**: private
+- **device class**: other
+- **creator**: Bio-Rad Laboratories Inc.
+- **disclosure**: Bio-Rad 8-K 2017-02-01 (RainDance acquisition close); Bio-Rad 10-K 2017 IP discussion; combined patent estate analysis
+- **ip status**: patented
+- **prior art notes**: Consolidation-position entry capturing the post-2017 Bio-Rad ddPCR patent landscape. By March 2017, Bio-Rad held: (a) QuantaLife-originated droplet-PCR patents (acquired 2011); (b) RainDance picoliter-droplet patents (acquired 2017); (c) Bio-Rad-internal continuations and improvements. This combined estate gave Bio-Rad a dominant negotiating position with all parties using droplet partitioning for nucleic-acid quantification, including 10x Genomics (single-cell), Stilla (Naica), Sysmex (RainDrop). Bio-Rad subsequently sued 10x Genomics under multiple counts of patent infringement (10x-genomics-vs-bio-rad-litigation entry below). Defensive value: a one-stop disclosure of the patent positions Bio-Rad used to anchor those suits.
+
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
 - **id**: `mission-bio-tapestri`
@@ -204,6 +294,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Namocell Pala datasheet 2020; Bio-Rad press 2021; US patent family above
 - **ip status**: patented
 - **prior art notes**: Extends Hana design to 5-color fluorescence and explicit doublet discrimination by per-droplet image analysis. Anticipates claims to disposable-cartridge multi-color cell sorters with image-based event verification and per-deposit traceability metadata for regulated single-cell-cloning workflows (cell-line provenance documentation under USP/ICH guidelines).
+
+## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
+
+- **id**: `quake-broad-carmen-multiplex-prep-patent`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard (Sabeti, Myhrvold, Ackerman)
+- **disclosure**: US Provisional 62/892,447; published as WO2021022045A1 (Broad Institute / Harvard)
+- **ip status**: patented
+- **prior art notes**: Broad Institute patent family covering CARMEN (Combinatorial Arrayed Reactions for Multiplexed Evaluation of Nucleic acids). Anchors claims around: (a) microfluidic platform for high-throughput multiplexed nucleic-acid detection using fluorescent-color-coded droplets; (b) merging of sample droplets with CRISPR-Cas13 detection-reagent droplets; (c) automated identification of droplet pairs by color barcode; (d) parallel detection of >100 pathogens per chip. Ackerman et al. Nature 2020 (myhrvold-zhang-2018-shine-crispr-on-paper covers SHINE; CARMEN is distinct) provides the academic disclosure. Defensive interest: Broad Institute is the assertive licensor in CRISPR diagnostics; this patent family overlaps Mammoth/Sherlock claim space and any droplet-pairing combinatorial diagnostic.
 
 ## Machine-learning-driven droplet generator design (Lashkaripour 2021/2024) (2021)
 

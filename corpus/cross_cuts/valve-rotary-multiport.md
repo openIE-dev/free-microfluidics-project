@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-rotary-multiport`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -184,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
+
+- **id**: `withings-u-scan`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Withings (Nokia Health)
+- **disclosure**: Withings press release CES 2023, 2023-01-04; Withings U-Scan product page; withings.com/u-scan
+- **ip status**: patented
+- **prior art notes**: Discloses a consumer toilet-bowl-mounted device with a rotating microfluidic reagent-pad wheel: each use draws ~30 µL urine by capillary action onto the next test pad, which is then optically read and the wheel rotates to advance to a fresh pad. The 100-test-per-cartridge architecture and rotating reagent wheel anticipate: consumer in-toilet microfluidic diagnostics with multi-shot consumables; rotating-wheel passive-microfluidic reagent indexing; the architectural pattern of capillary-fed colorimetric urinalysis with downstream camera readout. CES 2023 launch makes this the first consumer microfluidic in-toilet device.
 
 ## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
 

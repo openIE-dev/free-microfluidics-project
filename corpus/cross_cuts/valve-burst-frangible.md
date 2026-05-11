@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-burst-frangible`
 
-**25 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-01-28
 
@@ -95,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a fully implantable osmotic micropump in titanium alloy housing where water osmotically infuses through a controlled-permeability membrane into an osmotic-engine compartment, the engine swells and pushes a piston advancing concentrated peptide formulation through a delivery orifice at sub-microliter-per-day rates for 6-12 months. Anticipates: long-term implantable osmotic mini-pumps for peptide drug delivery; the entire DUROS architecture pattern of titanium tube + semipermeable membrane + osmotic engine + piston + orifice; constant-rate sub-microliter dispensing without electronics or batteries.
 
+## DNA Genotek Oragene•DNA OG-500 Saliva Collection Kit (2008)
+
+- **id**: `dna-genotek-oragene-og500`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (subsequently OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. product datasheet PD-PR-006 (Oragene•DNA OG-500); 23andMe and Ancestry adoption notices 2008-2010; dnagenotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
+
 ## Cytiva ReadyMate Sterile Connector (2009)
 
 - **id**: `cytiva-readymate-sterile-connector`
@@ -125,6 +135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
 
+## DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge (2010)
+
+- **id**: `dna-genotek-oracollect-dna-pediatric`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. ORAcollect•DNA OCR-100 product datasheet; dnagenotek.com pediatric collection device page
+- **ip status**: patented
+- **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
+
 ## AncestryDNA Saliva Collection Tube (2012-05)
 
 - **id**: `ancestry-saliva-collection-kit`
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Haemonetics TEG 6s 510(k) K151967 cleared 2017-02 (US); CE-IVD 2014; technology origin: Cora Healthcare acquired by Haemonetics 2010
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic cartridge-based viscoelastic hemostasis analyzer using mechanical resonance frequency detection rather than the historic torque-pin method (TEG 5000, ROTEM): the cartridge is excited by piezoelectric driver at ~0.06 Hz; an LED illuminates the blood-air meniscus inside each microwell; clot formation increases mechanical coupling between the resonating cartridge wall and the meniscus, modulating the meniscus position which is detected by photodiode displacement sensor — yielding a TEG-equivalent amplitude trace (R, K, alpha, MA) without any moving torque pin in the blood. Anticipates: cartridge-resident viscoelastic hemostasis testing eliminating the cup-and-pin mechanism; the architectural choice of resonance-shift detection enabling vibration tolerance suitable for transport / cardiac OR. Distinct from ROTEM sigma (Werfen) which uses electromechanical detection in a similar cartridge format.
+
+## Norgen Biotek Saliva RNA Collection and Preservation Devices (2014)
+
+- **id**: `norgen-biotek-saliva-rna-collection`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Norgen Biotek Corp.
+- **disclosure**: Norgen Biotek Corp. product datasheet Cat. 53800 (Saliva RNA Collection and Preservation); norgenbiotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses an Oragene-architecture saliva collection cartridge whose preservation chemistry is specifically formulated to stabilize RNA (not DNA), enabling ambient-shipped saliva-transcriptome and oral-microbiome RNA-seq workflows. Anticipates: RNA-preserving variants of mail-back saliva cartridges; ambient-temperature transcriptome preservation in self-contained collection cups; microbiome-rRNA preservation in oral-cavity samples.
 
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
@@ -194,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Veracyte Decipher Bladder + Prostate GRID product literature; FDA-cleared Decipher Prostate Genomic Classifier 510(k) K191926
 - **ip status**: patented
 - **prior art notes**: Discloses a sealed plastic cartridge that performs deparaffinization, lysis, magnetic-bead RNA capture, and elution of FFPE biopsy samples in an automated system. Anticipates: integrated FFPE-input molecular diagnostic cartridge with on-cartridge organic-solvent paraffin removal followed by aqueous magnetic-bead capture, eliminating manual deparaffinization steps. Useful as prior art against claims to single-cartridge FFPE-to-microarray sample prep architectures.
+
+## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
+
+- **id**: `lab-on-disc-caries-detection-2018`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Multiple academic groups (KAIST, Madou-derived centrifugal microfluidics community)
+- **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
+- **ip status**: unknown
+- **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
 
 ## Talis One COVID-19 Test Cartridge (2021-02)
 

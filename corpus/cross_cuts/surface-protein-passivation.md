@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `surface-protein-passivation`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2015-08-24
+Earliest disclosure: 2009
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Salimetrics SalivaBio Oral Swab (SOS) (2009)
+
+- **id**: `salimetrics-salivabio-oral-swab`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Salimetrics LLC
+- **disclosure**: Salimetrics LLC product datasheet, SalivaBio Oral Swab (SOS) Item 5001.06 (2009); company website salimetrics.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses an inert absorbent collection wand whose synthetic polymer composition is specifically certified non-interfering with downstream cortisol, sex-steroid, and alpha-amylase immunoassays — a non-trivial materials-engineering disclosure because cotton (the historic Salivette material) measurably absorbs steroids. Anticipates: collection consumables claiming validated zero-bias for salivary steroid panels; pediatric variants of oral fluid wands sized for sub-6-year-old donors; centrifuge-recovery workflow producing a defined minimum saliva volume from passive-drool sampling. The swab is the upstream element of nearly every academic salivary biomarker microfluidic assay published 2010 onward, and is functionally a pre-concentrator/sample-prep consumable for downstream lab-on-chip cortisol cartridges.
 
 ## Dexcom G5 Mobile Continuous Glucose Monitor (2015-08-24)
 

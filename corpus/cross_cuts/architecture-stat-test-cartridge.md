@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-stat-test-cartridge`
 
-**189 corpus entries disclose this subsystem.**
+**205 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1870
 
@@ -224,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pondsmith, M. Cyberpunk 2020. R. Talsorian Games, 1990. ISBN 0-937279-13-1. Cyberpunk RED, R. Talsorian Games, 2020.
 - **ip status**: fictional
 - **prior art notes**: Cyberpunk 2020 (1990) and Cyberpunk RED (2020) provide RPG-canonical descriptions of Trauma Team Inc. as a subscription-based aerial-deployed field-trauma response service. The architecture combines: subscriber biometric monitoring (continuous remote vitals); aerial AV-deployed response; and in-AV mobile trauma-care platform with full surgical capability. Architectural category disclosure of 'subscription-based remotely-monitored aerial-deployable field-trauma response platform'. The depiction in the RPG canon predates the related Cyberpunk 2077 video game (2020) by 30 years.
+
+## Manz 1990 µTAS Concept Public Domain Defensive Anchor (1990-01-01)
+
+- **id**: `manz-1990-utas-public-domain-defense`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Andreas Manz, H.M. Widmer (Ciba-Geigy / ETH Zurich)
+- **disclosure**: Manz, Graber, Widmer, Sensors and Actuators B 1990, 1, 244-248 (doi:10.1016/0925-4005(90)80209-I); existing entry manz-1990-mu-tas-concept
+- **ip status**: public-domain
+- **prior art notes**: Defensive anchor entry. The Manz, Graber, Widmer 1990 paper (Sensors and Actuators B 1, 244-248) articulated the µTAS / miniaturized total analysis system concept: integration of sample handling, separation, and detection on a single miniaturized substrate. Any patent attempting to claim 'integrated analysis on a single chip' as a generic concept is anticipated by this paper as a 35 USC 102 publication. Useful as a defensive citation for any vendor pressed by overly-broad lab-on-chip claims. Companion existing entries manz-1990-mu-tas-concept (the paper) and manz-1992-ciba-geigy-mu-tas-patent-original (the related Ciba-Geigy patent). The Manz 1990 paper, being a publication, is in the public domain; this entry timestamps that fact as a defensive disclosure asset.
 
 ## OLS Bio CASY Cell Counter and Analyzer (formerly Innovatis CASY-TT) (1991)
 
@@ -565,6 +575,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Trauma Center (2005 onwards) depicts touchscreen-mediated surgical control with real-time multi-modal patient monitoring as the core gameplay loop, constituting an architectural category disclosure of 'touchscreen-mediated surgical-control interface with real-time integrated multi-modal patient monitoring'. Relevant prior art for touchscreen-controlled surgical-interface patents.
 
+## Theranos Cartridge Patent Family (2005)
+
+- **id**: `theranos-cartridge-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Theranos Inc. (defunct 2018; patents reassigned)
+- **disclosure**: US7888125 priority 2005-03-24; US7494770; US8088593; US8158430; US8283155 (Theranos Inc., post-bankruptcy assignments to Fortress Investment Group / Labrador Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Theranos cartridge patent family. Anchors claims around: (a) handheld disposable diagnostic cartridge accepting finger-stick blood; (b) integrated reagent-storage, sample-prep, and detection chambers; (c) on-cartridge assay scheduling and barcode identification; (d) wireless data return to a central reader. Notable for two reasons: (1) the patents were granted but the corresponding products never demonstrated the claimed performance (FDA correspondence and later trial testimony established this); (2) post-bankruptcy the patents were reassigned to Fortress Investment Group / Labrador Diagnostics, which asserted them against working diagnostic companies (notably BioFire) during the COVID pandemic, drawing significant criticism. Defensive value is high: Theranos patent disclosures contain extensive claim language but minimal enabling disclosure, making them weak as offensive prior art but useful as anti-claim-scope ammunition for any cartridge integrator to cite as evidence that broad cartridge claims are not novel. Companion existing entry: theranos-promised-cartridge documents the marketing claim; this entry catalogs the asserted IP.
+
 ## Siemens epoc Blood Analysis System cartridge (2006)
 
 - **id**: `epoc-blood-gas-analyzer`
@@ -654,6 +674,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MaxCyte Inc. STX product launch 2007; US patent US7,029,916B2 (Flow electroporation chamber, granted 2006, priority 2002); MaxCyte Inc. SEC S-1 (2021)
 - **ip status**: patented
 - **prior art notes**: Discloses a flow-through electroporation chamber: cells in suspension are pumped between parallel planar electrodes spaced for uniform field; pulse generator delivers shaped electric pulses to volumes of cells transiting the chamber; cargo (DNA/RNA/protein) is co-suspended; output collected sterile downstream. Anticipates: continuous-flow electroporation as alternative to cuvette-batch (Lonza Nucleofector predecessor architecture); use of disposable single-use chamber decoupled from reusable instrument body; protocol-library transfer between research-scale (STX) and GMP-scale (GTx) processing assemblies. Element-by-element: peristaltic infeed + parallel-plate disposable chamber + pulse forming network + sterile collection bag.
+
+## Oasis Diagnostics VerOFy / Versi-Sal Saliva Collector (2007)
+
+- **id**: `oasis-diagnostics-versi-sal`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Oasis Diagnostics Corporation
+- **disclosure**: Oasis Diagnostics Corporation product literature; FDA 510(k) submissions for VerOFy oral fluid collection devices; oasisdx.com
+- **ip status**: patented
+- **prior art notes**: Discloses an oral fluid collection cartridge that combines a sponge-style absorbent collector with a calibrated reservoir and an integrated lateral-flow detection strip in the same disposable. The volume-adequate indicator (a colored window that triggers when the absorbent has reached threshold saturation) anticipates downstream POC saliva cartridges that need to confirm sufficient sample without active sensing. Anticipates: integrated saliva-collection-plus-detection cartridges for drugs of abuse, infectious disease serology, and hormone screening; the 'sample adequacy window' UI pattern; injection-molded saliva collection housings with assay strip in same enclosure.
+
+## Whitesides Paper Microfluidics Patent Family (2007-10-12)
+
+- **id**: `whitesides-patent-family-paper-microfluidics`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: President and Fellows of Harvard College (Martinez, Phillips, Carrilho, Whitesides et al.)
+- **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -755,6 +795,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the IDEXX SNAP device family applied to canine pancreatic lipase, integrating: (a) a thermoplastic housing with sample well containing immobilized capture antibody on a nitrocellulose membrane, (b) a sealed blister of wash buffer released by a snap-action mechanical activator, (c) staged delivery of conjugate, sample and wash producing visual color spots in a result window. Anticipates: spring-activated POC immunoassay cartridges that mechanically release wash buffer at user-defined timing; veterinary panel implementations of the SNAP architecture; and the broad pattern of timed reagent staging through user-actuated mechanical pumps in disposable lateral-flow ELISA.
 
+## DNA Genotek Oragene•DNA OG-500 Saliva Collection Kit (2008)
+
+- **id**: `dna-genotek-oragene-og500`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (subsequently OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. product datasheet PD-PR-006 (Oragene•DNA OG-500); 23andMe and Ancestry adoption notices 2008-2010; dnagenotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
+
 ## Roche cobas Liat point-of-care cartridge (2009)
 
 - **id**: `roche-cobas-liat-cartridge`
@@ -794,6 +844,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boyle, R. et al. Eclipse Phase (1st edition). Posthuman Studios LLC, 2009. ISBN 978-0-9842185-0-2. Released under CC BY-NC-SA.
 - **ip status**: fictional
 - **prior art notes**: Eclipse Phase (2009 onwards, published by Posthuman Studios under CC BY-NC-SA) provides extensive RPG-canonical detail on healing vats and nano-swarm-based autodocs as architectural categories. Sourcebook descriptions specify functional subsystems including diagnostic assay; nano-scale surgical intervention; biofabrication of replacement tissue; and full-morph (whole-body) reconstruction. The published RPG sourcebooks constitute explicit, citable prior-art-grade descriptions of the device class. Architectural category disclosure of 'nano-swarm autodoc and healing-vat platform with integrated diagnostic, surgical, and biofabrication capability'. Strong §102 prior art because the sourcebooks are explicitly published and have formal ISBNs.
+
+## Dunne & Raby — Speculative microfluidic objects (Designs for an Overpopulated Planet, etc.) (2009)
+
+- **id**: `dunne-raby-speculative-everything-microfluidic-objects`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Anthony Dunne and Fiona Raby (RCA / Dunne & Raby)
+- **disclosure**: Dunne A, Raby F, 'Designs for an Overpopulated Planet: Foragers' (2009); Dunne & Raby, Speculative Everything (MIT Press 2013, ISBN 978-0262019842)
+- **ip status**: fictional
+- **prior art notes**: Discloses speculative-design objects that depict body-worn or portable microfluidic 'food extraction' devices for a future of resource scarcity. The architectural concept of wearable microfluidic chemical processors for human-edible biomass anticipates: speculative wearable microfluidic processors; conceptual precedent for any commercial body-worn nutrient-processing device. Speculative-design entries are valid prior art when published in dated, citable form.
+
+## Daisy Ginsberg — Synthetic Aesthetics microfluidic bioart projects (2009)
+
+- **id**: `ginsberg-2014-synthetic-aesthetics-bioart`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Alexandra Daisy Ginsberg (collaborating with Cambridge iGEM and SynBio researchers)
+- **disclosure**: Ginsberg AD, Calvert J, Schyfter P, Elfick A, Endy D, Synthetic Aesthetics (MIT Press 2014, ISBN 978-0262026840); E. chromi (Cambridge iGEM 2009 collaboration)
+- **ip status**: fictional
+- **prior art notes**: Discloses bioart and design fictions integrating synthetic-biology microfluidics, including the 'Scatalog' speculative diagnostic stool-color chart driven by E. chromi pigment-producing bacteria. Anticipates: speculative consumer microfluidic diagnostics keyed to engineered bacterial color outputs; design-language conventions for direct-to-consumer microbial-readout cartridges.
+
+## Daktari Diagnostics CD4 Counter (defunct) (2009)
+
+- **id**: `daktari-cd4-counter`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Daktari Diagnostics Inc. (defunct ~2018)
+- **disclosure**: Cheng X et al., Lab on a Chip 7:170-178 (2007); Watkins NN et al., Sci Transl Med 5:214ra170 (2013); Daktari Diagnostics product literature; FDA 510(k) K130725
+- **ip status**: patented
+- **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
 
 ## Heska veterinary POC cartridge platform (2010)
 
@@ -844,6 +924,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosafe SA SmartMax product literature ~2010; Biosafe acquired by GE Healthcare 2014, now Cytiva; product literature 2014-2023
 - **ip status**: patented
 - **prior art notes**: Discloses a closed-system fill apparatus that transfers a cell-therapy product from a Sepax-class processing bag into a small-volume cryobag with controlled cryoprotectant addition; integrated with downstream controlled-rate freezing. Anticipates: closed-train cryopreservation fill workflow for autologous cell therapy where cryoprotectant is mixed at controlled rate during fill (managing osmotic shock to cells). Element-by-element: input cell-product bag + cryoprotectant reservoir + peristaltic mixing junction + small-volume cryobag + sterile weld interfaces.
+
+## DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge (2010)
+
+- **id**: `dna-genotek-oracollect-dna-pediatric`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. ORAcollect•DNA OCR-100 product datasheet; dnagenotek.com pediatric collection device page
+- **ip status**: patented
+- **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
 
 ## Charles Stross Rule 34 pharma printer / domestic compounder (2011)
 
@@ -934,6 +1024,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX SNAP 4Dx Plus product launch 2012; IDEXX operator's manual; US patent 5,726,010 (SNAP device); US patent 7,803,365 (Ehrlichia ewingii antigens)
 - **ip status**: patented
 - **prior art notes**: Discloses the SNAP architecture extended to a six-spot multiplex sandwich/peptide ELISA against vector-borne canine pathogens. Anticipates: multiplex spot-array architectures within a single SNAP-style cartridge; the use of recombinant peptide antigens (B. burgdorferi C6, A. phagocytophilum p44/MSP2, Ehrlichia p30/p30-1) immobilized as discrete capture spots in a thermoplastic-housed lateral-flow device; and combined antigen+antibody detection in a single mechanically-activated cartridge run.
+
+## BioBuilder Educational Foundation Microfluidic Lab Kits (2012)
+
+- **id**: `biobuilder-educational-foundation-kits`
+- **corpus**: open
+- **device class**: consumable-bulk
+- **creator**: BioBuilder Educational Foundation (Natalie Kuldell, MIT)
+- **disclosure**: Kuldell N, Bernstein R, Ingram K, BioBuilder: Synthetic Biology in the Lab (O'Reilly 2015, ISBN 978-1491904299); biobuilder.org
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an open educational kit and curriculum framework including microfluidic-adjacent activities (E. coli pigment assays, sensor strain plate readouts) for high-school synthetic biology. Anticipates: educational consumable kits combining engineered-strain reagents with simple microfluidic readout chambers; the architectural pattern of teacher-deployable lab-on-chip teaching cartridges with companion curriculum.
 
 ## ThermoFisher RapidHIT 200 Human DNA Identification System (2012-09)
 
@@ -1125,6 +1225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses two cartridge variants: A-Chip (arrestee/known reference) and I-Chip (forensic crime scene swab/blood/cigarette butt evidence). Each chip integrates: (i) on-chip lysis with chaotrope, (ii) silica-bead solid-phase DNA purification, (iii) multiplex PCR (PowerPlex 16HS or FlexPlex 27 chemistry on-chip), (iv) high-resolution glass-channel capillary electrophoresis with 6-dye fluorescence detection, (v) automated FAIRS expert system allele call. Distinguishes from RapidHIT in glass-bonded CE channels (vs all-thermoplastic CE) for higher resolution. Anticipates: rugged forensic STR cartridges with glass-bonded CE for resolution-critical low-template work; mass-disaster DVI (Disaster Victim Identification) deployment of cartridge-based DNA; combined arrestee and crime-scene workflows on a single platform with chemistry differentiation.
 
+## Norgen Biotek Saliva RNA Collection and Preservation Devices (2014)
+
+- **id**: `norgen-biotek-saliva-rna-collection`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Norgen Biotek Corp.
+- **disclosure**: Norgen Biotek Corp. product datasheet Cat. 53800 (Saliva RNA Collection and Preservation); norgenbiotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses an Oragene-architecture saliva collection cartridge whose preservation chemistry is specifically formulated to stabilize RNA (not DNA), enabling ambient-shipped saliva-transcriptome and oral-microbiome RNA-seq workflows. Anticipates: RNA-preserving variants of mail-back saliva cartridges; ambient-temperature transcriptome preservation in self-contained collection cups; microbiome-rRNA preservation in oral-cavity samples.
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -1224,6 +1334,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: IDEXX SediVue Dx product launch 2015; IDEXX operator's guide; US patent 9,470,673 (capillary-fed sediment imaging cuvette); US patent 10,533,990 (deep-learning sediment classification)
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic urinalysis cartridge consisting of an injection-molded thermoplastic cuvette with a defined sedimentation chamber and optical viewing window. Sample is drawn by capillary action, allowed to sediment briefly, then imaged through brightfield/darkfield optics; a convolutional neural network classifies sediment particles. Anticipates: the architectural pattern of disposable optical-window microfluidic cuvettes coupled with on-instrument deep-learning classification of imaged particles; capillary-fed sedimentation chambers with defined geometry for in-clinic urine sediment analysis; and end-to-end POC-cartridge-plus-neural-net urinalysis workflows.
+
+## Amino Labs DNA Playground (and Engineer-It Kit) (2015)
+
+- **id**: `amino-labs-dna-playground`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Amino Labs Inc. (Julie Legault)
+- **disclosure**: Amino Labs Inc. press launch 2015; amino.bio; Indiegogo campaign 2015; Hessel J et al., 'DIY-bio for kids', J Microbiol Biol Educ 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
 
 ## Passengers (2016) Avalon autodoc medical pod (2016)
 
@@ -1485,6 +1605,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses Siemens' multi-analyte POC blood-gas/co-oximetry cartridge architecture: a single integrated thermoplastic body holding all sensors, calibrant, gas mix and waste, mounted to a peristaltic-pump-driven instrument that runs auto-QC every few hours. Anticipates: single-cartridge consolidation of blood-gas + electrolyte + co-oximetry sensing in critical-care POC instruments; high-test-count (>=750) consumable lifetimes as an architectural target; and integrated waste-and-calibrant containment that eliminates external bottle plumbing.
 
+## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
+
+- **id**: `atmo-biosciences-gas-sensing-capsule`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Atmo Biosciences (RMIT spin-out)
+- **disclosure**: Kalantar-zadeh K et al., Nature Electronics 1:79-87 (2018); doi:10.1038/s41928-017-0004-x; Atmo Biosciences corporate disclosures
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible capsule whose sample-prep stage is a gas-permeable membrane window that selectively admits gut gases into a heated MOX sensor chamber for real-time speciation. Anticipates: ingestible gas-sensing capsules with semi-permeable membrane sample-prep; in-vivo gut fermentation biomarker capsules; capsule architectures decoupling biological inlet (membrane) from analytical chamber (heated sensors). Specifically anticipates downstream consumer microbiome capsules and IBD diagnostic ingestibles.
+
 ## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
 
 - **id**: `dexcom-g6-cgm`
@@ -1494,6 +1624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA 510(k) clearance DEN170088 (Dexcom G6, March 27 2018); Dexcom press release March 27 2018; US patent 9,724,025 (in vivo glucose sensor)
 - **ip status**: patented
 - **prior art notes**: Discloses a wearable CGM in which a thin polymer-membrane-coated platinum filament is inserted subcutaneously by a single-use applicator and continuously samples interstitial fluid via passive diffusion across an outer biocompatible polymer (the diffusion-limiting membrane). The membrane stack creates a microliter-scale sample envelope at the electrode surface where glucose oxidase generates hydrogen peroxide that is amperometrically quantified. Anticipates: factory-calibrated subcutaneous glucose sensors with diffusion-limited polymer envelopes; single-button push insertion of a microneedle-style sensor with auto-retraction; transmitter-on-patch architectures using BLE telemetry. Element-by-element it teaches every subsystem now considered standard for CGMs except the redox mediator chemistry choice.
+
+## Theranos Bankruptcy and Patent Reassignment to Fortress (2018) (2018-09-04)
+
+- **id**: `theranos-bankruptcy-and-patent-reassignment-2018`
+- **corpus**: private
+- **device class**: other
+- **creator**: Theranos Inc. (in bankruptcy) -> Fortress Investment Group / Labrador Diagnostics LLC
+- **disclosure**: Theranos shutdown announcement 2018-09-04; USPTO assignment records 2018-2020 reassigning Theranos patents to Labrador Diagnostics LLC (a Fortress Investment Group SPV)
+- **ip status**: patented
+- **prior art notes**: Consolidation/reassignment event entry. Defensive purpose: documents the chain-of-title for the Theranos patent portfolio after Theranos's 2018 shutdown. Approximately 270 issued US patents and 100+ pending applications were transferred to Labrador Diagnostics LLC, an SPV of Fortress Investment Group. Labrador subsequently sued BioFire Diagnostics in March 2020 (during the early weeks of the COVID-19 pandemic) for patent infringement on its multiplex respiratory PCR cartridge, drawing widespread criticism. The suit was eventually withdrawn / dedicated to public access for COVID. Useful as defensive prior-art mapping for any cartridge developer concerned about Fortress/Labrador-asserted claims.
 
 ## Ori Biotech IRO cell therapy manufacturing platform (2019)
 
@@ -1705,6 +1845,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Returnal's House sequences and medical-bay environments depict equipment performing diagnostic scans and biological-state captures used in the recursion loop. Defensive prior art for biological-state-capture and re-instantiation diagnostic chambers. Mark draft due to ambiguous fluid mechanics in canon.
 
+## Kraken Sense KRAKEN1 Automated Pathogen Detection System (2021)
+
+- **id**: `kraken-sense-pathogen-detection`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Kraken Sense Inc.
+- **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
+- **ip status**: patented
+- **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.
+
 ## Talis One COVID-19 Test Cartridge (2021-02)
 
 - **id**: `talis-one-covid-19-cartridge`
@@ -1834,6 +1984,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Newitz, A. The Terraformers. Tor Books, New York, 2023. ISBN 978-1-250-22802-9.
 - **ip status**: fictional
 - **prior art notes**: The Terraformers (2023) depicts in detail planetary-scale ecological-engineering platforms operated by the Environmental Rescue Team, including long-duration ecosystem monitoring, engineered-species deployment, and integrated bio-platform infrastructure. Architectural category disclosure of 'planetary-scale long-duration ecological-engineering bioplatform with integrated monitoring and deployment infrastructure'.
+
+## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
+
+- **id**: `withings-u-scan`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Withings (Nokia Health)
+- **disclosure**: Withings press release CES 2023, 2023-01-04; Withings U-Scan product page; withings.com/u-scan
+- **ip status**: patented
+- **prior art notes**: Discloses a consumer toilet-bowl-mounted device with a rotating microfluidic reagent-pad wheel: each use draws ~30 µL urine by capillary action onto the next test pad, which is then optically read and the wheel rotates to advance to a fresh pad. The 100-test-per-cartridge architecture and rotating reagent wheel anticipate: consumer in-toilet microfluidic diagnostics with multi-shot consumables; rotating-wheel passive-microfluidic reagent indexing; the architectural pattern of capillary-fed colorimetric urinalysis with downstream camera readout. CES 2023 launch makes this the first consumer microfluidic in-toilet device.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

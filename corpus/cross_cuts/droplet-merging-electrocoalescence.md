@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-merging-electrocoalescence`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abate, A. R.; Hung, T.; Mary, P.; Agresti, J. J.; Weitz, D. A. High-throughput injection with microfluidics using picoinjectors. Proc. Natl. Acad. Sci. USA 2010, 107, 19163–19166. DOI: 10.1073/pnas.1006888107
 - **ip status**: patented
 - **prior art notes**: Microfluidic picoinjector: introduces a precise volume of reagent into pre-formed droplets at >10 kHz rates by combining electrocoalescence with a side-channel injection orifice. Anticipates: post-formation droplet reagent injection as a primitive, and the multi-step droplet workflow architectures used in commercial directed-evolution and single-cell screening platforms.
+
+## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
+
+- **id**: `quake-broad-carmen-multiplex-prep-patent`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard (Sabeti, Myhrvold, Ackerman)
+- **disclosure**: US Provisional 62/892,447; published as WO2021022045A1 (Broad Institute / Harvard)
+- **ip status**: patented
+- **prior art notes**: Broad Institute patent family covering CARMEN (Combinatorial Arrayed Reactions for Multiplexed Evaluation of Nucleic acids). Anchors claims around: (a) microfluidic platform for high-throughput multiplexed nucleic-acid detection using fluorescent-color-coded droplets; (b) merging of sample droplets with CRISPR-Cas13 detection-reagent droplets; (c) automated identification of droplet pairs by color barcode; (d) parallel detection of >100 pathogens per chip. Ackerman et al. Nature 2020 (myhrvold-zhang-2018-shine-crispr-on-paper covers SHINE; CARMEN is distinct) provides the academic disclosure. Defensive interest: Broad Institute is the assertive licensor in CRISPR diagnostics; this patent family overlaps Mammoth/Sherlock claim space and any droplet-pairing combinatorial diagnostic.
 
 ## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
 

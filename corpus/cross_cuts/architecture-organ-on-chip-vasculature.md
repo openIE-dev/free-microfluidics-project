@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**19 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1969
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Serenity (Universal 2005); Serenity: Those Left Behind comic (Dark Horse 2005).
 - **ip status**: fictional
 - **prior art notes**: Academy operating tables depicted in Serenity flashbacks performing neurosurgical interventions on River Tam, including neural-tissue extraction (amygdala stripping). Defensive prior art for high-precision neurosurgical operating tables with automated perfusion, sample extraction, and integrated neural recording.
+
+## Stelarc — Ear on Arm (in-vivo cell-cultured ear with microfluidic perfusion concept) (2006)
+
+- **id**: `stelarc-ear-on-arm`
+- **corpus**: fictional
+- **device class**: organ-on-chip
+- **creator**: Stelarc (Stelios Arcadiou)
+- **disclosure**: Stelarc, 'Ear on Arm', performance documentation 2006; Smith MR (ed.), Stelarc: The Monograph (MIT Press 2005); stelarc.org/?catID=20242
+- **ip status**: fictional
+- **prior art notes**: Discloses an artistic-surgical project that surgically implanted a cell-scaffold ear on the artist's forearm with stated future intent to embed a perfusion microfluidic and microphone for telepresent listening. The proposed perfusion-vascularized scaffold-on-skin anticipates: in-vivo perfused soft-tissue scaffolds with embedded microfluidic vasculature; wearable organ-on-chip concepts; artistic precedent for microfluidic prosthetic augmentation.
 
 ## Eclipse Phase healing vat — detailed mechanics (extends wave 1) (2009)
 
@@ -154,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jang, K.-J.; Mehr, A. P.; Hamilton, G. A.; McPartlin, L. A.; Chung, S.; Suh, K.-Y.; Ingber, D. E. Human kidney proximal tubule-on-a-chip for drug transport and nephrotoxicity assessment. Integr. Biol. 2013, 5, 1119–1129. DOI: 10.1039/c3ib40049b
 - **ip status**: patented
 - **prior art notes**: Disclosed kidney proximal tubule-on-chip: dual-channel PDMS with porous membrane and unidirectional shear flow mimicking tubular fluid mechanics, used for nephrotoxicity drug screening. Anticipates: tubule-shear-stress organ-chip architecture, and the FDA-relevant nephrotoxicity drug-screening application that became part of the NIH MPS / FDA Modernization Act 2.0 framework.
+
+## Ai Hasegawa — speculative microfluidic bioart (I Wanna Deliver a Dolphin, (Im)possible Baby) (2013)
+
+- **id**: `hasegawa-2013-im-possible-baby`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ai Hasegawa
+- **disclosure**: Hasegawa A, 'I Wanna Deliver a Dolphin', Royal College of Art MA project (2013); '(Im)possible Baby, Case 01: Asako & Moriga' (2015); aihasegawa.info
+- **ip status**: fictional
+- **prior art notes**: Discloses speculative-design works depicting fictional reproductive microfluidic devices: an artificial human placenta capable of gestating non-human species, and a fictional same-sex-couple genome-merging cartridge whose inputs are saliva collection kits. Anticipates: speculative reproductive microfluidic cartridges; consumer-facing depictions of organ-on-chip placental devices; speculative design language for in-vitro gametogenesis cartridges.
 
 ## Emulate Inc. Organ-Chip platform (2014)
 

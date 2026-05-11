@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-on-chip-incubator`
 
-**54 corpus entries disclose this subsystem.**
+**55 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1932
 
@@ -184,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GURPS Bio-Tech (Steve Jackson Games 1996) ISBN 1-55634-336-7; second edition (2006) ISBN 1-55634-689-7.
 - **ip status**: fictional
 - **prior art notes**: GURPS Bio-Tech (1996) is a comprehensive published catalog of biotechnology equipment including: gene-tailoring tanks, organ-grow vats, autodocs, healing slates, biofeedback couches, organ banks, and parasitic-implant medical tech. Defensive prior art anchor (1996) for industrialized biotech ecosystem covering tissue engineering, drug-formulation, organ-banking, and field-medicine equipment.
+
+## SymbioticA — Tissue Culture & Art Project (Catts & Zurr) (1996)
+
+- **id**: `symbiotica-tissue-culture-art-project`
+- **corpus**: fictional
+- **device class**: organ-on-chip
+- **creator**: Oron Catts and Ionat Zurr (SymbioticA, Univ. Western Australia)
+- **disclosure**: Catts O, Zurr I, 'Tissue Culture & Art Project', founded SymbioticA at Univ. Western Australia 1996; symbiotica.uwa.edu.au; tcaproject.net
+- **ip status**: fictional
+- **prior art notes**: Discloses gallery-installed tissue-culture bioreactors as art objects (1996 onward), including custom perfusion chambers operated for the duration of an exhibit and ritually 'killed' on closing day. Anticipates: gallery-deployed perfusion bioreactors with public viewing; ethically-framed organ-on-chip-style cultures as cultural objects; aesthetic-grade incubator + perfusion + optical-window architectures applicable to any 'visible' organ-on-chip product.
 
 ## Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device) (1997)
 

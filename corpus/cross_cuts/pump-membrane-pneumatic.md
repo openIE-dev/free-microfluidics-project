@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unger, M. A.; Chou, H.-P.; Thorsen, T.; Scherer, A.; Quake, S. R. Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 2000, 288, 113–116. DOI: 10.1126/science.288.5463.113
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of pneumatically actuated elastomeric membrane valves built monolithically into a multilayer PDMS chip. By cyclically actuating three valves in series, a peristaltic pump is realized. This is the architectural ancestor of essentially every subsequent on-chip pneumatic valve and pump. Anticipates: pneumatic membrane valve (control channel + thin membrane + flow channel), peristaltic pumping by sequential valve actuation, large-scale integrated chip-scale fluidic circuits. Subsequent papers (Nordin 2017, Sanchez Noriega 2021) re-implement the same architecture in 3D-printed photopolymer.
+
+## Quake Lab MLSI Monolithic Membrane Valve Patent Family (2000-04-07)
+
+- **id**: `quake-patent-family-mlsi-monolithic-membrane-valve`
+- **corpus**: academic
+- **device class**: other
+- **creator**: California Institute of Technology (Stephen Quake et al.)
+- **disclosure**: US6408878 priority 2000-04-07; US6929030; US7144616; US7704698; US7837946 (Caltech)
+- **ip status**: patented
+- **prior art notes**: Caltech/Quake monolithic-membrane valve patent family. Anchors claims around: (a) two-layer PDMS device in which a flow channel is occluded by deflection of a thin elastomeric membrane via pressurization of an orthogonal control channel; (b) push-down geometry where the control channel sits above the flow channel; (c) push-up geometry where the control channel sits below; (d) integration of large arrays of such valves on a single monolithic device (microfluidic large-scale integration); (e) peristaltic pump architectures using three valves in series; (f) multiplexer trees that address N flow lines with log2(N) control lines. These claims are the licensing root that Fluidigm built its IFC controller, BioMark dynamic array, Access Array, C1 single-cell, and Helios CyTOF business on. Anticipates virtually any PDMS multilayer monolithic valve device unless distinguished by materials (non-PDMS), actuation (non-pneumatic), or geometry (non-membrane closure). Defensive importance: the underlying Unger 2000 paper (already in corpus as unger-2000-quake-monolithic-membrane-valve) is the academic disclosure; this entry is the patent-family disclosure that maps the asserted claim landscape. Earliest US priority is 2000-04-07. Estimated US expiry 2020-2025 depending on family member.
 
 ## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
 

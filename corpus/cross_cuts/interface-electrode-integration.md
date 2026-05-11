@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-electrode-integration`
 
-**34 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -215,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an electroporation plate in which each well of a 96-well array contains an integrated electrode pair, addressed by a multiplexed pulse generator that can fire well-by-well or row-by-row with independent waveforms. Anticipates: multi-well-plate-format electroporation (distinct from cuvette and pipette-tip formats), where the entire 96-well plate acts as the disposable, and the instrument programs distinct conditions per well — enabling high-throughput protocol screening. Element-by-element: 96-well disposable + per-well electrode pair + multiplexed pulse forming network + plate-handling registration.
 
+## IntroMedic MiroCam Human-Body-Communication Capsule Endoscope (2007)
+
+- **id**: `intromedic-mirocam-capsule`
+- **corpus**: private
+- **device class**: other
+- **creator**: IntroMedic Co., Ltd.
+- **disclosure**: Bang S, Park JY, Jeong S, Kim YH, Shim HC, Kim TS, Lee DH, Song SY, Gastrointest Endosc 69:253-259 (2009); doi:10.1016/j.gie.2008.04.033; KFDA approval 2007
+- **ip status**: patented
+- **prior art notes**: Discloses a capsule endoscope using galvanic Human Body Communication for telemetry, eliminating the RF antenna and reducing power. Anticipates: HBC-based ingestible telemetry; capsule designs using body-conductive modulation; alternative to PillCam RF architecture for any future microfluidic ingestible.
+
 ## Aber Instruments Incyte (Hamilton Incyte) Capacitance Probe (2008)
 
 - **id**: `aber-incyte-capacitance-probe`
@@ -224,6 +234,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aber Instruments Futura biomass monitor (predecessor) ~2000; Incyte single-use capacitance probe launched as joint Aber/Hamilton product ~2008; US patent US7,930,110B2 (Aber Instruments; biomass monitor based on dielectric spectroscopy); product literature 2010-2023
 - **ip status**: patented
 - **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
+
+## Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) (2009)
+
+- **id**: `wong-2009-saliva-oscc-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: David T.W. Wong group, UCLA School of Dentistry
+- **disclosure**: Wei F, Patel P, Liao W, et al., Clinical Cancer Research 15(13):4446-4452 (2009); doi:10.1158/1078-0432.CCR-09-0050
+- **ip status**: patented
+- **prior art notes**: Discloses an electrochemical microfluidic chip for direct multiplex detection of salivary RNA biomarkers in unamplified oral fluid for oral squamous cell carcinoma diagnosis. Anticipates: amplification-free salivary mRNA diagnostic cartridges using electrode-functionalized capture probes; PDMS chips integrating RNA-detection-from-saliva for oral cancer; the four-biomarker IL-8/IL-1B/S100P/OAZ1 panel itself for any downstream POC cartridge.
+
+## Sensimed Triggerfish Contact-Lens Continuous IOP Sensor (2009)
+
+- **id**: `sensimed-triggerfish-iop`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sensimed AG
+- **disclosure**: Mansouri K, Shaarawy T, Br J Ophthalmol 95:627-629 (2011); CE mark 2009; FDA De Novo DEN140017 granted 2016-03-04; sensimed.ch
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous intraocular-pressure-proxy contact-lens sensor: corneoscleral mechanical strain is read via embedded Pt-Ti gauges and broadcast over a passive LC telemetry link. Anticipates: contact-lens biomechanical sensors for glaucoma; passive-LC-telemetry contact-lens architectures requiring no on-lens battery; the 24-hour continuous IOP-monitoring use case for any successor optical or fluidic ocular device.
 
 ## Mass Effect Cerberus Lazarus Project (Shepard reconstruction facility) (2010)
 
@@ -245,6 +275,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an intelligent-sensor architecture where the calibration data, signal conditioning electronics, and digital communication interface are all resident in the probe head, allowing the probe to be moved between transmitters without recalibration. The VisiFerm DO variant uses an optical-spot fluorescence-quenching architecture in which a luminophore is excited and the lifetime of fluorescence quenching is proportional to dissolved oxygen — supports both stainless and single-use (patch) form factors. Anticipates: digital intelligent-sensor architecture for bioprocess PAT (distinguishable from analog probes whose calibration lives in the transmitter); luminescence-lifetime DO measurement compatible with single-use bioreactor patch sensors.
 
+## Coulomb-Controlled Iontophoresis Ocular Patch (EyeGate II) (2010)
+
+- **id**: `eljarrat-2010-iontophoresis-ocular-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EyeGate Pharmaceuticals (later Kiora Pharmaceuticals); Domb Lab Hebrew University
+- **disclosure**: Eljarrat-Binstock E, Pe'er J, Domb AJ, Pharm Res 27:530-543 (2010); doi:10.1007/s11095-009-0042-9; EyeGate Pharmaceuticals product literature
+- **ip status**: patented
+- **prior art notes**: Discloses an electrokinetically-driven ocular drug delivery applicator: a cup-shaped fluidic reservoir pressed against the eye, with a charged drug formulation and controlled-current Ag/AgCl electrode driving ions across ocular barriers. Anticipates: iontophoretic ocular delivery patches; coulomb-controlled drug-dose applicators for ocular anterior segment; the architectural pattern of disposable drug-cartridge + reusable controller for trans-scleral delivery.
+
+## Proteus Digital Health Discover Ingestible Sensor (Helius) (2010)
+
+- **id**: `proteus-discover-ingestible-sensor`
+- **corpus**: private
+- **device class**: other
+- **creator**: Proteus Digital Health Inc. (defunct 2020)
+- **disclosure**: Au-Yeung KY, et al., J Med Eng Technol 35:228-238 (2011); FDA 510(k) K113070 (2012-07-30) and PMA P150004; Proteus Digital Health 510(k) summary
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible passive electrochemical sensor: a stomach-acid-activated Cu/Mg galvanic couple whose discharge waveform identifies the specific tablet via modulation of electrode geometry. Sample handling is implicit microfluidics — gastric fluid acts as the electrolyte that drives signal generation. Anticipates: ingestible adherence-monitoring sensors; galvanic-cell-activated ingestible chips; tablet-coupled sensor + skin-patch receiver architectures; specifically anticipates downstream Abilify MyCite (Otsuka collaboration) integrated drug-plus-sensor product.
+
 ## Psycho-Pass Sibyl System brain-immersion fluidic substrate (2012)
 
 - **id**: `psycho-pass-sibyl-brain-immersion`
@@ -264,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MaxCyte GTx CE-mark and 510(k) clearance documentation 2014; MaxCyte Inc. SEC S-1 (2021); US patent US7,029,916B2 (parent flow-electroporation chamber)
 - **ip status**: patented
 - **prior art notes**: GMP-grade variant of the STX flow-electroporation chamber, packaged with traceable single-use assembly and 21 CFR Part 11 control electronics. Anticipates: closed-system clinical electroporation of patient-derived cells where the entire fluid path is single-use, sterile-welded to upstream apheresis bag and downstream wash/formulation, controlled by a regulated audit-trail electronics stack. Element-by-element: weldable inlet + disposable parallel-plate chamber + sterile collection bag + GMP audit-trail SCADA. Distinguishable from MaxCyte STX (research-grade) by the GMP cartridge and software, not the underlying electrochemistry.
+
+## Verily / Alcon Smart Contact Lens for Tear-Glucose Monitoring (defunct) (2014-01-16)
+
+- **id**: `verily-alcon-glucose-contact-lens`
+- **corpus**: private
+- **device class**: other
+- **creator**: Verily Life Sciences (Google[x]) and Alcon (Novartis)
+- **disclosure**: Otis B, Parviz B, 'Introducing our smart contact lens project', Google Official Blog, 2014-01-16; subsequent Verily/Alcon licensing announcement 2014-07-15
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
 ## ISS Biomolecule Sequencer (Oxford Nanopore MinION on ISS) (2016)
 
@@ -305,6 +365,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Scale-up of the cuvette-format Nucleofector to clinical volumes via large disposable processing chamber that preserves the field uniformity, buffer composition, and pulse waveform of the research-scale 4D-Nucleofector. Anticipates: GMP-grade large-volume electroporation where the protocol library validated at research scale transfers to clinical scale via a geometrically-similar disposable cassette (the same architectural pattern as the MaxCyte STX→GTx scale chain). Element-by-element: closed disposable cassette + planar electrodes + buffer-defined cell suspension + waveform library + sterile collection. Distinguishable from MaxCyte by being semi-batch rather than continuous flow.
 
+## Pragmatic Semiconductor FlexIC Thin-Film Readout for Microfluidic Strips (2018)
+
+- **id**: `pragmatic-flexic-microfluidic-readout`
+- **corpus**: private
+- **device class**: other
+- **creator**: Pragmatic Semiconductor Ltd.
+- **disclosure**: Pragmatic Semiconductor Ltd. (formerly PragmatIC Printing) product whitepaper 2018; pragmaticsemi.com; UK Innovate funding announcements
+- **ip status**: patented
+- **prior art notes**: Discloses an ultra-low-cost flexible silicon thin-film IC technology designed for embedding into disposable microfluidic test strips and smart packaging, with on-strip NFC readout. Anticipates: instrumented lateral-flow strips with integrated NFC chips; flexible thin-film IC + microfluidic test-strip integrations; sub-cent silicon readout for any disposable POC strip.
+
+## Park 2018 Stretchable Glucose-Sensing Smart Contact Lens (2018-01-24)
+
+- **id**: `park-2018-soft-electronic-tear-glucose-lens`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jang-Ung Park group (UNIST, S. Korea)
+- **disclosure**: Park J, Kim J, Kim S-Y, et al., Science Advances 4:eaap9841 (2018); doi:10.1126/sciadv.aap9841
+- **ip status**: patented
+- **prior art notes**: Discloses a fully wireless, battery-free smart contact lens combining stretchable graphene tear-glucose electrodes with an embedded LED for direct optical user feedback. Anticipates: graphene-electrode contact-lens biosensors for tear analytes; on-lens visual feedback (vs. external readout) for ocular wearables; stretchable transparent electrode patterning on soft contact-lens hydrogels.
+
 ## Berkeley Lights Lightning Optofluidic System (2019)
 
 - **id**: `berkeley-lights-lightning`
@@ -325,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
 
+## Vernier Microfluidics Sensor Bundle for Education (2019)
+
+- **id**: `vernier-microfluidics-kit`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Vernier Science Education
+- **disclosure**: Vernier Software & Technology catalog 'Microfluidics' lab manual; vernier.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a microfluidic teaching chip bundled with logging optical/pH sensors for data-acquisition curricula. Anticipates: microfluidic-plus-data-logger education bundles; sensor-instrumented microfluidic teaching cartridges.
+
 ## Iridia DNA Data Storage Chip (2020)
 
 - **id**: `iridia-dna-storage-chip`
@@ -344,6 +434,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Thermo Fisher Scientific Neon NxT product launch press release 2022-09; Neon NxT user guide MAN0019022 rev 2.0; predecessor Neon Transfection System (Invitrogen, ~2009) US patent US8,008,065B2 (Pipette-tip-based electroporation)
 - **ip status**: patented
 - **prior art notes**: Discloses an electroporation device in which the cell suspension is held within a disposable pipette tip whose lower bore contains the field-defining electrodes; aspiration draws cells between the electrodes; the pulse generator fires across the tip electrodes; cells are then dispensed into culture vessels. Anticipates: pipette-tip-format electroporation (distinct from cuvette format), parallelization by multi-channel head, instrument-disposable separation. The NxT update adds 3-channel parallelism and a redesigned electrode tip; underlying electrode-in-pipette architecture is the Invitrogen Neon parent.
+
+## Nuclera eProtein Discovery Platform (2022-09-01)
+
+- **id**: `nuclera-eprotein-platform`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Nuclera Ltd. (Cambridge, UK; Aaron Wheeler EWOD lineage)
+- **disclosure**: Nuclera Ltd. product launch announcement 2022-09; nuclera.com; Wheeler AR et al., founding patents WO2014047523A1
+- **ip status**: patented
+- **prior art notes**: Discloses a commercial EWOD cartridge benchtop instrument that combines cell-free protein synthesis with on-chip bead-based affinity purification. Builds on Wheeler-lab EWOD prior art. Anticipates: EWOD cartridges integrating cell-free protein synthesis; benchtop bead-purification on digital microfluidic platforms; the architectural pattern of disposable PCB-electrode cartridges for protein-engineering workflows.
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**56 corpus entries disclose this subsystem.**
+**66 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -135,6 +135,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: LOCAD-PTS is the spaceflight derivative of the Charles River Endosafe PTS handheld endotoxin tester. Microfluidic prior art disclosed: (a) the 4-channel parallel capillary-driven cartridge with lyophilized LAL/glucan-detection reagents and integrated optical absorbance window is itself prior art for any cartridge claiming similar handheld bioburden / pyrogen testing in resource-constrained environments (spaceflight, military forward operating, deep-sea); (b) the qualification of the cartridge for microgravity operation (no syringe / no positive pressure source — purely capillary wicking) is prior art for capillary-driven point-of-care cartridges that are deliberately pump-free for environments where pumping is failure-prone; (c) the published ISS protocol for swab-elute-load-read in <15 min anticipates cartridge-based environmental microbial monitoring patents for industrial and built-environment applications. The Charles River Endosafe US patents are the IP citations; the spaceflight qualification is open-published.
 
+## Oasis Diagnostics VerOFy / Versi-Sal Saliva Collector (2007)
+
+- **id**: `oasis-diagnostics-versi-sal`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Oasis Diagnostics Corporation
+- **disclosure**: Oasis Diagnostics Corporation product literature; FDA 510(k) submissions for VerOFy oral fluid collection devices; oasisdx.com
+- **ip status**: patented
+- **prior art notes**: Discloses an oral fluid collection cartridge that combines a sponge-style absorbent collector with a calibrated reservoir and an integrated lateral-flow detection strip in the same disposable. The volume-adequate indicator (a colored window that triggers when the absorbent has reached threshold saturation) anticipates downstream POC saliva cartridges that need to confirm sufficient sample without active sensing. Anticipates: integrated saliva-collection-plus-detection cartridges for drugs of abuse, infectious disease serology, and hormone screening; the 'sample adequacy window' UI pattern; injection-molded saliva collection housings with assay strip in same enclosure.
+
+## Whitesides Paper Microfluidics Patent Family (2007-10-12)
+
+- **id**: `whitesides-patent-family-paper-microfluidics`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: President and Fellows of Harvard College (Martinez, Phillips, Carrilho, Whitesides et al.)
+- **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
+
 ## Abbott FreeStyle Navigator Continuous Glucose Monitor (2008-03-12)
 
 - **id**: `abbott-freestyle-navigator-cgm`
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA PMA P050020 March 12 2008; Abbott press release 2008
 - **ip status**: patented
 - **prior art notes**: Discloses Heller's wired-enzyme (osmium polymer) electrode architecture in a wearable subcutaneous filament for continuous glucose monitoring. Anticipates: redox-polymer-mediator electrode chemistry as alternative to peroxide-detection glucose-oxidase systems; the entire architectural pattern of insertable filament + on-skin transmitter that defined the Libre and Navigator lines.
+
+## Theranos Capillary Blood Microsampling Patent (2008-09-16)
+
+- **id**: `theranos-microsample-bloodcollection-patent`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Theranos Inc. (Elizabeth Holmes et al.)
+- **disclosure**: US8475739 priority 2008-09-16, granted 2013-07-02 (Theranos Inc.)
+- **ip status**: patented
+- **prior art notes**: Theranos micro-blood-draw cartridge patent. Anchors claims around: (a) micro-volume collection tube with capillary-action filling; (b) integrated transport-chamber for downstream centrifugation. Existing capillary blood microsampling devices (Mitra DBS, Tasso OnDemand) use different mechanisms and largely post-date this priority. Defensive use: any vendor of a finger-stick microsampler can use this disclosure to map Theranos claim scope and avoid it.
 
 ## Wax-printed paper microfluidics for low-cost diagnostics (2009)
 
@@ -225,6 +255,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Systematic Whitesides-group disclosures extending µPAD architecture from the 2007 foundational disclosure: 3D µPADs (multi-layer paper assembly), electrochemical µPADs (printed electrodes on paper), µPADs with fluorescence detection. Cumulative Whitesides-group µPAD patent filings cover much of the broader paper-microfluidic patent landscape.
 
+## DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge (2010)
+
+- **id**: `dna-genotek-oracollect-dna-pediatric`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. ORAcollect•DNA OCR-100 product datasheet; dnagenotek.com pediatric collection device page
+- **ip status**: patented
+- **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
+
+## Proteus Digital Health Discover Ingestible Sensor (Helius) (2010)
+
+- **id**: `proteus-discover-ingestible-sensor`
+- **corpus**: private
+- **device class**: other
+- **creator**: Proteus Digital Health Inc. (defunct 2020)
+- **disclosure**: Au-Yeung KY, et al., J Med Eng Technol 35:228-238 (2011); FDA 510(k) K113070 (2012-07-30) and PMA P150004; Proteus Digital Health 510(k) summary
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible passive electrochemical sensor: a stomach-acid-activated Cu/Mg galvanic couple whose discharge waveform identifies the specific tablet via modulation of electrode geometry. Sample handling is implicit microfluidics — gastric fluid acts as the electrolyte that drives signal generation. Anticipates: ingestible adherence-monitoring sensors; galvanic-cell-activated ingestible chips; tablet-coupled sensor + skin-patch receiver architectures; specifically anticipates downstream Abilify MyCite (Otsuka collaboration) integrated drug-plus-sensor product.
+
 ## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
 
 - **id**: `vaxxas-hd-map-microneedle`
@@ -294,6 +344,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jana Care Inc. product launches 2014-2017; company technical brochures; FDA 510(k) K191498 (Aina HbA1c test) 2019
 - **ip status**: patented
 - **prior art notes**: Discloses a smartphone-tethered POC diagnostic platform whose disposable element is a lateral-flow or microfluidic test strip and whose reader is a reusable optical pod. Capillary blood applied to the strip, optics quantify color development from immunoassay or enzymatic chemistry. Anticipates: smartphone-tethered consumer POC test architectures; reader-pod-plus-disposable-strip business model in low-resource settings.
+
+## Verily / Alcon Smart Contact Lens for Tear-Glucose Monitoring (defunct) (2014-01-16)
+
+- **id**: `verily-alcon-glucose-contact-lens`
+- **corpus**: private
+- **device class**: other
+- **creator**: Verily Life Sciences (Google[x]) and Alcon (Novartis)
+- **disclosure**: Otis B, Parviz B, 'Introducing our smart contact lens project', Google Official Blog, 2014-01-16; subsequent Verily/Alcon licensing announcement 2014-07-15
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
 ## Exact Sciences Cologuard Sample Stabilization Container (2014-08-11)
 
@@ -435,6 +495,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Subcutaneous amperometric glucose sensor with multi-electrode redundancy (at least two working electrodes whose ISIG is fused to reject motion artifact). Discloses the architecture of pairing a CGM with an automated insulin pump for closed-loop control. Anticipates: redundant-electrode CGM filament architectures; CGM-pump integration topology in the SmartGuard / Auto Mode hybrid closed loop family.
 
+## Park 2018 Stretchable Glucose-Sensing Smart Contact Lens (2018-01-24)
+
+- **id**: `park-2018-soft-electronic-tear-glucose-lens`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jang-Ung Park group (UNIST, S. Korea)
+- **disclosure**: Park J, Kim J, Kim S-Y, et al., Science Advances 4:eaap9841 (2018); doi:10.1126/sciadv.aap9841
+- **ip status**: patented
+- **prior art notes**: Discloses a fully wireless, battery-free smart contact lens combining stretchable graphene tear-glucose electrodes with an embedded LED for direct optical user feedback. Anticipates: graphene-electrode contact-lens biosensors for tear analytes; on-lens visual feedback (vs. external readout) for ocular wearables; stretchable transparent electrode patterning on soft contact-lens hydrogels.
+
 ## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
 
 - **id**: `dexcom-g6-cgm`
@@ -464,6 +534,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biolinq Inc. corporate disclosures; clinical trial NCT04790344 2021; Krishnan SR et al. for Biolinq founder publications
 - **ip status**: patented
 - **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
+
+## Microneedle Ocular Patch for Posterior-Segment Drug Delivery (2020)
+
+- **id**: `thakur-2020-microneedle-ocular-patch`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Multiple academic groups (Donnelly lab Queen's Belfast; Prausnitz lab Georgia Tech)
+- **disclosure**: Thakur Singh RR et al., Acta Biomaterialia 108:294-306 (2020); doi:10.1016/j.actbio.2020.03.039
+- **ip status**: patented
+- **prior art notes**: Discloses ocular microneedle patches as an alternative to intravitreal injection for delivering anti-VEGF, corticosteroid, and small-molecule therapeutics to the posterior eye. Hollow variants integrate microfluidic channels for active perfusion. Anticipates: ocular microneedle patches with integrated microfluidic perfusion; trans-scleral sustained-release microneedle architectures; eye-drop-replacement consumer microneedle formats including the speculative Verily/EyeDrop ML systems.
+
+## Olive Diagnostics KG Toilet-Mounted Urine Optical Analyzer (2021)
+
+- **id**: `olive-diagnostics-kg`
+- **corpus**: private
+- **device class**: other
+- **creator**: Olive Diagnostics Ltd.
+- **disclosure**: Olive Diagnostics Ltd. product launch 2021; olivedx.com; CE mark 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a passive in-toilet optical urine analyzer that monitors a free-flowing urine stream rather than collecting a discrete sample. Anticipates: passive in-toilet urinalysis architectures; consumable-free continuous urinalysis using optical interrogation of free flow; the architectural pattern of clip-on bathroom-fixture biosensors for continuous biomarker monitoring.
 
 ## Abbott BinaxNOW COVID-19 Antigen Self Test (OTC) (2021-03)
 
@@ -534,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
 - **ip status**: patented
 - **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
+
+- **id**: `withings-u-scan`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Withings (Nokia Health)
+- **disclosure**: Withings press release CES 2023, 2023-01-04; Withings U-Scan product page; withings.com/u-scan
+- **ip status**: patented
+- **prior art notes**: Discloses a consumer toilet-bowl-mounted device with a rotating microfluidic reagent-pad wheel: each use draws ~30 µL urine by capillary action onto the next test pad, which is then optically read and the wheel rotates to advance to a fresh pad. The 100-test-per-cartridge architecture and rotating reagent wheel anticipate: consumer in-toilet microfluidic diagnostics with multi-shot consumables; rotating-wheel passive-microfluidic reagent indexing; the architectural pattern of capillary-fed colorimetric urinalysis with downstream camera readout. CES 2023 launch makes this the first consumer microfluidic in-toilet device.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-mass-spec-electrospray-coupled`
 
-**8 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -45,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Founding flight precedent for in-situ icy-moon plume composition analysis. Element-by-element prior art for: (a) hypervelocity impact + plasma plume + ToF-MS for compositional analysis of micron-scale ice grains in flyby geometry; (b) the dual-mode operation (charge-pulse for particle counting + mass spectrum for composition) on a single sensing area; (c) the post-mission discovery that Enceladus plume material contains complex organics and salts is itself open prior art that any future Enceladus mission cartridge claiming biosignature detection will need to overcome. CDA is the citation grandparent for all icy-moon life-detection cartridges.
 
+## DVS Sciences / Fluidigm CyTOF Mass Cytometry Patent Family (2007)
+
+- **id**: `fluidigm-cytof-mass-cytometry-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: DVS Sciences (acquired by Fluidigm 2014, now Standard BioTools)
+- **disclosure**: US8525107; US8101368; US8278116; US8679858 originally assigned to DVS Sciences (Bandura, Tanner et al.), acquired by Fluidigm 2014-02-13 for $207.5M
+- **ip status**: patented
+- **prior art notes**: DVS-originated, Fluidigm-acquired patent family covering mass cytometry (CyTOF). Anchors claims around: (a) labeling antibodies with chelated lanthanide isotopes for mass-spectrometric readout; (b) introducing single cells in suspension via a nebulizer-microfluidic interface to ICP-TOF-MS; (c) per-cell isotope counting yielding multi-parametric protein-expression vectors; (d) data analytics for high-dimensional mass-cytometry data. Companion entries already in corpus: fluidigm-helios-mass-cytometry, standard-biotools-mass-cytometry-cytof. This entry maps the licensable patent estate that anchored the $207.5M DVS acquisition. Expiry: 2027-2031.
+
 ## MSL Sample Analysis at Mars (SAM) Wet Chemistry Cell with MTBSTFA Derivatization (2012)
 
 - **id**: `msl-sam-wet-chemistry-cell`
@@ -54,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mahaffy PR et al., 'The Sample Analysis at Mars Investigation and Instrument Suite,' Space Science Reviews 170:401-478 (2012), doi:10.1007/s11214-012-9879-z; Glavin DP et al., 'Evidence for perchlorates and the origin of chlorinated hydrocarbons detected by SAM at the Rocknest aeolian deposit in Gale Crater,' JGR Planets 118:1955-1973 (2013)
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
+
+## Fluidigm Acquisition of DVS Sciences (CyTOF) 2014 (2014-01-29)
+
+- **id**: `fluidigm-acquisition-of-dvs-sciences-2014`
+- **corpus**: private
+- **device class**: other
+- **creator**: Fluidigm Corporation
+- **disclosure**: Fluidigm 8-K filed 2014-01-29; closing announced 2014-02-13; total consideration approximately $207.5M cash plus stock
+- **ip status**: patented
+- **prior art notes**: Consolidation event entry. Defensive purpose: documents the date and structure of Fluidigm's acquisition of DVS Sciences (US$207.5M), which transferred ownership of the CyTOF mass-cytometry patent family (see fluidigm-cytof-mass-cytometry-patent-family) to Fluidigm. After the 2022 rebranding to Standard BioTools (csg-fluidigm), all DVS-originated patents are asserted under the Standard BioTools umbrella. Useful as a citation in any IP-due-diligence or invalidity-contention research that needs to trace assignments. The 8-K filing is the SEC-anchored primary record.
 
 ## ExoMars Rosalind Franklin MOMA (Mars Organic Molecule Analyser) (2017)
 

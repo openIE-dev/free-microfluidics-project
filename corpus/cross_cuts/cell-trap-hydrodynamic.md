@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-hydrodynamic`
 
-**14 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -44,6 +44,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Di Carlo, D.; Aghdam, N.; Lee, L. P. Single-cell enzyme concentrations, kinetics, and inhibition analysis using high-density hydrodynamic cell isolation arrays. Anal. Chem. 2006, 78, 4925–4930. DOI: 10.1021/ac060541s
 - **ip status**: patented
 - **prior art notes**: Disclosed high-density hydrodynamic cell trap array: PDMS chip with serial-arranged U-shaped cup traps, each capturing exactly one cell from flowing suspension by streamline-following. Anticipates: U-cup hydrodynamic single-cell trap as a primitive, addressable single-cell observation arrays, and the architectural pattern subsequently elaborated by Tay-group and others for time-resolved single-cell measurement.
+
+## DVS Sciences / Fluidigm CyTOF Mass Cytometry Patent Family (2007)
+
+- **id**: `fluidigm-cytof-mass-cytometry-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: DVS Sciences (acquired by Fluidigm 2014, now Standard BioTools)
+- **disclosure**: US8525107; US8101368; US8278116; US8679858 originally assigned to DVS Sciences (Bandura, Tanner et al.), acquired by Fluidigm 2014-02-13 for $207.5M
+- **ip status**: patented
+- **prior art notes**: DVS-originated, Fluidigm-acquired patent family covering mass cytometry (CyTOF). Anchors claims around: (a) labeling antibodies with chelated lanthanide isotopes for mass-spectrometric readout; (b) introducing single cells in suspension via a nebulizer-microfluidic interface to ICP-TOF-MS; (c) per-cell isotope counting yielding multi-parametric protein-expression vectors; (d) data analytics for high-dimensional mass-cytometry data. Companion entries already in corpus: fluidigm-helios-mass-cytometry, standard-biotools-mass-cytometry-cytof. This entry maps the licensable patent estate that anchored the $207.5M DVS acquisition. Expiry: 2027-2031.
+
+## Fluxion Biosciences BioFlux 1000z Cell Adhesion System (2007)
+
+- **id**: `fluxion-bioflux-1000z`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluxion Biosciences Inc.
+- **disclosure**: Conant CG et al., J Lab Autom 16:148-152 (2011); doi:10.1016/j.jala.2010.10.001; Fluxion Biosciences product literature; fluxionbio.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microwell-plate-format microfluidic cell-adhesion assay system with parallel pneumatic pressure control across 24-48 channels. Anticipates: multiwell-plate-format shear-stress adhesion screening platforms; pneumatic-manifold-coupled microfluidic well plates; the architectural pattern of well-plate-compatible perfusion for high-throughput mechanobiology. Distinct from existing fluxion-bioflux-platform entry by specifying the 1000z generation and adhesion-assay specialization.
 
 ## Microfluidic cell-pairing trap arrays for cell fusion (2009)
 
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter DxH 900 launch 2017-08; FDA 510(k) K162970
 - **ip status**: patented
 - **prior art notes**: Discloses VCSn technology: simultaneous Volume (low-frequency Coulter impedance for DC volume), Conductivity (high-frequency RF impedance probing internal cell density), and 5-angle Light Scatter (axial light loss + multiple side-scatter angles for granularity, lobularity, complexity) in a single hydrodynamically-focused fluidic stage. The fluid path co-locates the impedance aperture and the optical interrogation zone so each cell event is measured by all modalities within microseconds. Anticipates: combined impedance + multi-angle scatter cytometry on a single flow cell for hematology classifier inputs; 'NEW' designation marks redesigned aperture geometry vs the LH series predecessor. Element-by-element: dilution chamber, sheath formation, aperture-with-electrodes, laser interrogation downstream, post-aperture flush.
+
+## Cellix VenaPlus Microfluidic Multi-Channel Bioplate (2017)
+
+- **id**: `cellix-venaplus`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellix Ltd.
+- **disclosure**: Cellix Ltd. product datasheet 'VenaPlus 8'; cellixltd.com; ECVAM-validated white papers
+- **ip status**: patented
+- **prior art notes**: Discloses an 8-channel microfluidic biochip in 96-well-plate footprint with bonded thermoplastic substrate and pressure-driven perfusion. Anticipates: 96-well-plate-footprint multi-channel perfusion biochips; thermoplastic bonded biochips for high-throughput cell-rolling assays. Distinct from existing cellix-vena8-magnetofluidics-chip entry by addressing VenaPlus rather than Vena8.
 
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 

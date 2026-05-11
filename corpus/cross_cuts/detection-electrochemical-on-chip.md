@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**50 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -245,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
+## Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) (2009)
+
+- **id**: `wong-2009-saliva-oscc-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: David T.W. Wong group, UCLA School of Dentistry
+- **disclosure**: Wei F, Patel P, Liao W, et al., Clinical Cancer Research 15(13):4446-4452 (2009); doi:10.1158/1078-0432.CCR-09-0050
+- **ip status**: patented
+- **prior art notes**: Discloses an electrochemical microfluidic chip for direct multiplex detection of salivary RNA biomarkers in unamplified oral fluid for oral squamous cell carcinoma diagnosis. Anticipates: amplification-free salivary mRNA diagnostic cartridges using electrode-functionalized capture probes; PDMS chips integrating RNA-detection-from-saliva for oral cancer; the four-biomarker IL-8/IL-1B/S100P/OAZ1 panel itself for any downstream POC cartridge.
+
 ## µPADs II / III: Systematic Whitesides disclosures (2010)
 
 - **id**: `whitesides-2010-mu-pads-systematic`
@@ -264,6 +274,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sartorius BioPAT product line introduced ~2010 with BioPAT MFCS SCADA; BioPAT ViaMass capacitance launched 2018; Sartorius product literature 2010-2023
 - **ip status**: patented
 - **prior art notes**: Discloses a vertically-integrated PAT framework where multiple in-line probes (capacitance, Raman, DO, pH) feed a unified SCADA layer (BioPAT MFCS) that supports model-based and closed-loop process control. Anticipates: the architectural pattern of treating PAT as a software-integrated suite rather than a collection of independent probes; closed-loop bioprocess control where a probe-derived state (cell density, glucose concentration) directly modulates a feed pump. Element-by-element: probe array + transmitter rack + MFCS SCADA + closed-loop controller + bioreactor actuator (feed pump, gas valve).
+
+## Proteus Digital Health Discover Ingestible Sensor (Helius) (2010)
+
+- **id**: `proteus-discover-ingestible-sensor`
+- **corpus**: private
+- **device class**: other
+- **creator**: Proteus Digital Health Inc. (defunct 2020)
+- **disclosure**: Au-Yeung KY, et al., J Med Eng Technol 35:228-238 (2011); FDA 510(k) K113070 (2012-07-30) and PMA P150004; Proteus Digital Health 510(k) summary
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible passive electrochemical sensor: a stomach-acid-activated Cu/Mg galvanic couple whose discharge waveform identifies the specific tablet via modulation of electrode geometry. Sample handling is implicit microfluidics — gastric fluid acts as the electrolyte that drives signal generation. Anticipates: ingestible adherence-monitoring sensors; galvanic-cell-activated ingestible chips; tablet-coupled sensor + skin-patch receiver architectures; specifically anticipates downstream Abilify MyCite (Otsuka collaboration) integrated drug-plus-sensor product.
 
 ## Ion Torrent semiconductor sequencing chip (2011)
 
@@ -354,6 +374,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Heikenfeld J et al. (founder publications) Lab Chip 14:79-88 2014 doi:10.1039/c3lc50924g; company technology disclosures 2014-2018
 - **ip status**: patented
 - **prior art notes**: Discloses integrated wearable platform combining iontophoretic sweat-stimulation electrode pad with a microfluidic wick collecting sweat from the stimulated gland orifice and transporting it to multiplexed electrochemical/aptamer sensors. Anticipates: integrated sweat-induction-plus-collection-plus-sensing wearable architectures; aptamer-based wearable cortisol biosensors; routing of microliter sweat volumes from gland to sensor through thin paper-elastomer hybrid wicks.
+
+## Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor (2014)
+
+- **id**: `yu-2014-aptamer-saliva-cortisol-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Nathan S. Swami group (Univ. Virginia) with Air Force Research Laboratory aptamer collaborators
+- **disclosure**: Sanghavi BJ, Moore JA, Chávez JL, Hagen JA, Kelley-Loughnane N, Chou C-F, Swami NS, Biosens. Bioelectron. 78:244-252 (2014); doi:10.1016/j.bios.2015.11.052
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an aptamer-functionalized impedimetric microfluidic chip for cortisol detection in saliva, with AC electrokinetic sample focusing to overcome the low salivary cortisol concentration. Anticipates: aptamer-based salivary cortisol point-of-care chips; AC-electrokinetic preconcentration coupled to aptamer-functionalized electrodes for any low-abundance salivary biomarker; the architectural pattern of pre-concentrate-then-detect for saliva analytes.
+
+## Verily / Alcon Smart Contact Lens for Tear-Glucose Monitoring (defunct) (2014-01-16)
+
+- **id**: `verily-alcon-glucose-contact-lens`
+- **corpus**: private
+- **device class**: other
+- **creator**: Verily Life Sciences (Google[x]) and Alcon (Novartis)
+- **disclosure**: Otis B, Parviz B, 'Introducing our smart contact lens project', Google Official Blog, 2014-01-16; subsequent Verily/Alcon licensing announcement 2014-07-15
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
@@ -454,6 +494,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott i-STAT Alinity FDA 510(k) K172011 cleared 2018-01-10; product launch press release 2018-02
 - **ip status**: patented
 - **prior art notes**: Discloses a handheld POC cartridge that integrates: a sealed calibrant pouch ruptured by mechanical bladder actuation, a microfluidic channel transporting fluid past a linear array of thin-film electrochemical biosensors (each with patterned ion-selective membrane or amperometric enzyme layer), an air-segment introduction step that pushes the calibrant past the sensors before driving sample over them (single-point single-fluid calibration), and an electrical interface mating the cartridge sensor pads to the analyzer reader contacts. Anticipates: handheld electrochemistry POC cartridges with pre-loaded liquid calibrant and bladder-driven sample introduction; the i-STAT family extension where the same disposable serves multiple generations of analyzer hardware. Improvements over the i-STAT cg8+ entry (in corpus): updated cartridge optical/RFID identification and connectivity-ready sensor handshake protocol.
+
+## Pragmatic Semiconductor FlexIC Thin-Film Readout for Microfluidic Strips (2018)
+
+- **id**: `pragmatic-flexic-microfluidic-readout`
+- **corpus**: private
+- **device class**: other
+- **creator**: Pragmatic Semiconductor Ltd.
+- **disclosure**: Pragmatic Semiconductor Ltd. (formerly PragmatIC Printing) product whitepaper 2018; pragmaticsemi.com; UK Innovate funding announcements
+- **ip status**: patented
+- **prior art notes**: Discloses an ultra-low-cost flexible silicon thin-film IC technology designed for embedding into disposable microfluidic test strips and smart packaging, with on-strip NFC readout. Anticipates: instrumented lateral-flow strips with integrated NFC chips; flexible thin-film IC + microfluidic test-strip integrations; sub-cent silicon readout for any disposable POC strip.
+
+## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
+
+- **id**: `atmo-biosciences-gas-sensing-capsule`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Atmo Biosciences (RMIT spin-out)
+- **disclosure**: Kalantar-zadeh K et al., Nature Electronics 1:79-87 (2018); doi:10.1038/s41928-017-0004-x; Atmo Biosciences corporate disclosures
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible capsule whose sample-prep stage is a gas-permeable membrane window that selectively admits gut gases into a heated MOX sensor chamber for real-time speciation. Anticipates: ingestible gas-sensing capsules with semi-permeable membrane sample-prep; in-vivo gut fermentation biomarker capsules; capsule architectures decoupling biological inlet (membrane) from analytical chamber (heated sensors). Specifically anticipates downstream consumer microbiome capsules and IBD diagnostic ingestibles.
+
+## Park 2018 Stretchable Glucose-Sensing Smart Contact Lens (2018-01-24)
+
+- **id**: `park-2018-soft-electronic-tear-glucose-lens`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jang-Ung Park group (UNIST, S. Korea)
+- **disclosure**: Park J, Kim J, Kim S-Y, et al., Science Advances 4:eaap9841 (2018); doi:10.1126/sciadv.aap9841
+- **ip status**: patented
+- **prior art notes**: Discloses a fully wireless, battery-free smart contact lens combining stretchable graphene tear-glucose electrodes with an embedded LED for direct optical user feedback. Anticipates: graphene-electrode contact-lens biosensors for tear analytes; on-lens visual feedback (vs. external readout) for ocular wearables; stretchable transparent electrode patterning on soft contact-lens hydrogels.
 
 ## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-luer-lock-port`
 
-**52 corpus entries disclose this subsystem.**
+**53 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -174,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aseptic Technologies SA Crystal Closed Vial product launch 2008; US patent US7,766,919B2 (Closed sterile vial with septum, Aseptic Technologies); EP1853488B1
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-sterilized closed vial in which the thermoplastic-elastomer septum is permanently bonded to a cyclic-olefin-copolymer body; filling is performed by needle pierce through the septum, and the pierce hole is sealed by laser welding (or similar localized melt-and-reflow) immediately after needle withdrawal. The fluid path during fill is through a single sterile needle into a closed vessel — the vial interior never sees ambient atmosphere. Anticipates: closed-vial fill-finish architecture in which the conventional aseptic-fill open window is eliminated by combining pierce-fill with post-fill laser-resealing. Element-by-element: COC body + bonded TPE septum + sterile fill needle + laser-weld station + final crimp/cap. Distinguishable from Vanrx SA25 (open-vial fill in isolator) by maintaining vial closure throughout fill.
+
+## ibidi µ-Slide VI 0.4 Flow Chambers (2008)
+
+- **id**: `ibidi-flow-chambers-mu-slide-vi`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ibidi GmbH
+- **disclosure**: ibidi GmbH product datasheet 'µ-Slide VI 0.4' Cat. 80606 (2008); ibidi.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a six-channel injection-molded flow chamber on a microscope-slide-format COC substrate, designed for parallel shear-stress experiments under defined perfusion. Anticipates: parallel-channel flow chambers for cell-mechanobiology assays; COC-substrate microscopy-grade fluidic slides; the multiplex-laminar-shear architectural pattern.
 
 ## Cytiva ÄKTA ready single-use chromatography skid (2009)
 

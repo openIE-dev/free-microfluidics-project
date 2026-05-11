@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**141 corpus entries disclose this subsystem.**
+**147 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -185,6 +185,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Tubeless wearable insulin pump 'pod' integrating reservoir, micropump, infusion cannula, and wireless communication in a single skin-mounted disposable. Architecturally distinct from Tandem t:slim by eliminating external tubing. Highest-volume wearable microfluidic device in the world by unit count (sub-100M units shipped). Anticipates: integrated wearable disposable microfluidic pump architecture, body-mounted closed-loop pharmaceutical delivery.
 
+## Theranos Cartridge Patent Family (2005)
+
+- **id**: `theranos-cartridge-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Theranos Inc. (defunct 2018; patents reassigned)
+- **disclosure**: US7888125 priority 2005-03-24; US7494770; US8088593; US8158430; US8283155 (Theranos Inc., post-bankruptcy assignments to Fortress Investment Group / Labrador Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Theranos cartridge patent family. Anchors claims around: (a) handheld disposable diagnostic cartridge accepting finger-stick blood; (b) integrated reagent-storage, sample-prep, and detection chambers; (c) on-cartridge assay scheduling and barcode identification; (d) wireless data return to a central reader. Notable for two reasons: (1) the patents were granted but the corresponding products never demonstrated the claimed performance (FDA correspondence and later trial testimony established this); (2) post-bankruptcy the patents were reassigned to Fortress Investment Group / Labrador Diagnostics, which asserted them against working diagnostic companies (notably BioFire) during the COVID pandemic, drawing significant criticism. Defensive value is high: Theranos patent disclosures contain extensive claim language but minimal enabling disclosure, making them weak as offensive prior art but useful as anti-claim-scope ammunition for any cartridge integrator to cite as evidence that broad cartridge claims are not novel. Companion existing entry: theranos-promised-cartridge documents the marketing claim; this entry catalogs the asserted IP.
+
 ## Lab-on-a-CD: centrifugal microfluidics platform (2006)
 
 - **id**: `madou-2006-centrifugal-microfluidics`
@@ -295,6 +305,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an electroporation plate in which each well of a 96-well array contains an integrated electrode pair, addressed by a multiplexed pulse generator that can fire well-by-well or row-by-row with independent waveforms. Anticipates: multi-well-plate-format electroporation (distinct from cuvette and pipette-tip formats), where the entire 96-well plate acts as the disposable, and the instrument programs distinct conditions per well — enabling high-throughput protocol screening. Element-by-element: 96-well disposable + per-well electrode pair + multiplexed pulse forming network + plate-handling registration.
 
+## Fluxion Biosciences BioFlux 1000z Cell Adhesion System (2007)
+
+- **id**: `fluxion-bioflux-1000z`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluxion Biosciences Inc.
+- **disclosure**: Conant CG et al., J Lab Autom 16:148-152 (2011); doi:10.1016/j.jala.2010.10.001; Fluxion Biosciences product literature; fluxionbio.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microwell-plate-format microfluidic cell-adhesion assay system with parallel pneumatic pressure control across 24-48 channels. Anticipates: multiwell-plate-format shear-stress adhesion screening platforms; pneumatic-manifold-coupled microfluidic well plates; the architectural pattern of well-plate-compatible perfusion for high-throughput mechanobiology. Distinct from existing fluxion-bioflux-platform entry by specifying the 1000z generation and adhesion-assay specialization.
+
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
 - **id**: `biofire-filmarray-multiplex-pcr-cartridge`
@@ -384,6 +404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GE Healthcare FASTlab brochure HK04-08; product launch 2008; Lemaire et al., Theranostics 2014, 4, 1010-1027.
 - **ip status**: patented
 - **prior art notes**: Single-use cassette-format radiosynthesizer for F-18 fluorodeoxyglucose (FDG), the dominant PET tracer. Discloses: thermoplastic injection-molded cassette with welded PFA tubing forming all radiolabeled-fluid paths; syringe-driven actuators on the cassette interface for solvent / reagent delivery; pre-packed reagent vials integrated with the cassette; integrated solid-phase QMA and HLB cartridges for purification. Anticipates: single-use cassette radiopharmacy synthesis as the dominant architecture for clinical PET tracer manufacturing; the pattern of a sterile disposable handling all radioactivity-containing fluids with a re-usable instrument providing only mechanical actuation; extension of the cassette concept to other F-18, Ga-68, Cu-64 tracers.
+
+## ibidi µ-Slide VI 0.4 Flow Chambers (2008)
+
+- **id**: `ibidi-flow-chambers-mu-slide-vi`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ibidi GmbH
+- **disclosure**: ibidi GmbH product datasheet 'µ-Slide VI 0.4' Cat. 80606 (2008); ibidi.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a six-channel injection-molded flow chamber on a microscope-slide-format COC substrate, designed for parallel shear-stress experiments under defined perfusion. Anticipates: parallel-channel flow chambers for cell-mechanobiology assays; COC-substrate microscopy-grade fluidic slides; the multiplex-laminar-shear architectural pattern.
 
 ## Fluxion BioFlux organ-on-chip platform (2009)
 
@@ -775,6 +805,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: GMP-grade variant of the STX flow-electroporation chamber, packaged with traceable single-use assembly and 21 CFR Part 11 control electronics. Anticipates: closed-system clinical electroporation of patient-derived cells where the entire fluid path is single-use, sterile-welded to upstream apheresis bag and downstream wash/formulation, controlled by a regulated audit-trail electronics stack. Element-by-element: weldable inlet + disposable parallel-plate chamber + sterile collection bag + GMP audit-trail SCADA. Distinguishable from MaxCyte STX (research-grade) by the GMP cartridge and software, not the underlying electrochemistry.
 
+## Edvotek Lab-on-a-Chip Educational Microfluidics Kit (2014)
+
+- **id**: `edvotek-lab-on-chip-edu-kit`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Edvotek Inc.
+- **disclosure**: Edvotek Inc. catalog and product datasheet 'Microfluidics in Action' Cat. 940 (2014); edvotek.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a low-cost classroom microfluidic chip kit that bundles the chip, syringes, and curriculum. Anticipates: classroom-grade microfluidic teaching consumables; injection-molded teaching chips with reusable holder; pedagogical packaging conventions for microfluidic primary-school and undergraduate education.
+
+## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
+
+- **id**: `tenx-genomics-chromium-gem-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (with Broad Institute licensed background)
+- **disclosure**: US10221442 priority 2012-04-10 (Broad-licensed); 10x-internal: US9694361; US9701957; US10357771; US10752950; US11248267 (10x Genomics)
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Chromium / GEM (Gel-bead-in-Emulsion) patent family. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded gel bead and lysis reagents in an aqueous droplet within fluorinated oil; (b) gel-bead chemistry releasing barcoded primers in-droplet; (c) cell-barcode + UMI + capture-sequence architecture; (d) recovery of barcoded cDNA for bulk library construction; (e) Chromium chip and Chromium X instrument hardware. Several family members (notably US10221442) trace to Broad Institute Macosko / Drop-seq priority that 10x licensed. Anticipates and is anticipated by Quake/Stanford bead-droplet single-cell family (quake-patent-family-bead-droplet-single-cell). Companion existing entries: 10x-genomics-chromium-controller, macosko-2015-drop-seq.
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -924,6 +974,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hamilton Microlab Vantage launch 2017; product datasheet 391413/00; method library include for NA extraction (2018)
 - **ip status**: patented
 - **prior art notes**: Discloses a configurable modular liquid-handling workstation that supports NA extraction through user-defined protocol assembly using shared pipetting infrastructure. Anticipates: modular pipetting-deck architectures positioned as universal extraction platforms; CO-RE pipette tip technology that reduces aerosol generation during sample handling.
+
+## Cellix VenaPlus Microfluidic Multi-Channel Bioplate (2017)
+
+- **id**: `cellix-venaplus`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellix Ltd.
+- **disclosure**: Cellix Ltd. product datasheet 'VenaPlus 8'; cellixltd.com; ECVAM-validated white papers
+- **ip status**: patented
+- **prior art notes**: Discloses an 8-channel microfluidic biochip in 96-well-plate footprint with bonded thermoplastic substrate and pressure-driven perfusion. Anticipates: 96-well-plate-footprint multi-channel perfusion biochips; thermoplastic bonded biochips for high-throughput cell-rolling assays. Distinct from existing cellix-vena8-magnetofluidics-chip entry by addressing VenaPlus rather than Vena8.
 
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 

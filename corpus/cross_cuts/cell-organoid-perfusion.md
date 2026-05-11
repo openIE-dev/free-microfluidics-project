@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-organoid-perfusion`
 
-**76 corpus entries disclose this subsystem.**
+**80 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1932
 
@@ -205,6 +205,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: GURPS Bio-Tech (1996) is a comprehensive published catalog of biotechnology equipment including: gene-tailoring tanks, organ-grow vats, autodocs, healing slates, biofeedback couches, organ banks, and parasitic-implant medical tech. Defensive prior art anchor (1996) for industrialized biotech ecosystem covering tissue engineering, drug-formulation, organ-banking, and field-medicine equipment.
 
+## SymbioticA — Tissue Culture & Art Project (Catts & Zurr) (1996)
+
+- **id**: `symbiotica-tissue-culture-art-project`
+- **corpus**: fictional
+- **device class**: organ-on-chip
+- **creator**: Oron Catts and Ionat Zurr (SymbioticA, Univ. Western Australia)
+- **disclosure**: Catts O, Zurr I, 'Tissue Culture & Art Project', founded SymbioticA at Univ. Western Australia 1996; symbiotica.uwa.edu.au; tcaproject.net
+- **ip status**: fictional
+- **prior art notes**: Discloses gallery-installed tissue-culture bioreactors as art objects (1996 onward), including custom perfusion chambers operated for the duration of an exhibit and ritually 'killed' on closing day. Anticipates: gallery-deployed perfusion bioreactors with public viewing; ethically-framed organ-on-chip-style cultures as cultural objects; aesthetic-grade incubator + perfusion + optical-window architectures applicable to any 'visible' organ-on-chip product.
+
 ## Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device) (1997)
 
 - **id**: `stargate-goauld-sarcophagus`
@@ -244,6 +254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vernor Vinge, A Deepness in the Sky (Tor 1999) ISBN 0-312-85683-0.
 - **ip status**: fictional
 - **prior art notes**: Vinge describes Qeng Ho coldsleep coffins in unusual engineering detail: continuous low-temperature life-support cycles, periodic thaw-and-cycle protocols, microbial monitoring, and crew rotation handled at the coffin level. Architecturally anticipates: long-duration coldsleep life-support with active periodic perfusion, distributed coldsleep-array control systems, and thaw-and-cycle pharmacological management. Defensive prior art for cryopreservation-with-active-perfusion systems.
+
+## Eduardo Kac — Genesis (transgenic bioart installation) (1999)
+
+- **id**: `kac-1999-genesis-bioart`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Eduardo Kac
+- **disclosure**: Kac E, 'Genesis', Ars Electronica 1999 catalog; ekac.org/geninfo.html
+- **ip status**: fictional
+- **prior art notes**: Discloses a public-art installation in which microbial culture vessels are interactively perfused with UV-induced mutagenesis triggered by remote audience input. The architectural concept of a remote-internet-controlled microbial culture chamber with on-demand environmental modulation anticipates: cloud-controlled organ-on-chip and microbial-culture installations; tele-operated mutagenesis chambers for art and education; the broader artistic-conceptual precedent for any 'bioart microfluidic' work.
 
 ## Stargate SG-1 Asgard biological consciousness-transfer device (2000)
 
@@ -334,6 +354,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Battlestar Galactica 'Torn' (S3E6, 2006); Razor (2007 telefilm); 'No Exit' (S4E15, 2009).
 - **ip status**: fictional
 - **prior art notes**: Cylon Hybrid is a biological/cybernetic entity permanently immersed in a milky neural-fluid bath, wired into basestar systems. Detailed depictions of fluid-immersion life-support combined with neural-electrical interface (basestar control). Defensive prior art for: long-duration human-immersion neural-interface tanks, brain-in-a-vat cybernetic control systems, and mixed-biological-electronic vehicle-control architectures.
+
+## Stelarc — Ear on Arm (in-vivo cell-cultured ear with microfluidic perfusion concept) (2006)
+
+- **id**: `stelarc-ear-on-arm`
+- **corpus**: fictional
+- **device class**: organ-on-chip
+- **creator**: Stelarc (Stelios Arcadiou)
+- **disclosure**: Stelarc, 'Ear on Arm', performance documentation 2006; Smith MR (ed.), Stelarc: The Monograph (MIT Press 2005); stelarc.org/?catID=20242
+- **ip status**: fictional
+- **prior art notes**: Discloses an artistic-surgical project that surgically implanted a cell-scaffold ear on the artist's forearm with stated future intent to embed a perfusion microfluidic and microphone for telepresent listening. The proposed perfusion-vascularized scaffold-on-skin anticipates: in-vivo perfused soft-tissue scaffolds with embedded microfluidic vasculature; wearable organ-on-chip concepts; artistic precedent for microfluidic prosthetic augmentation.
 
 ## Acoustically detectable cellular-level lung injury model (2007)
 
@@ -554,6 +584,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: TAP Biosystems / Sartorius ambr 250 launch 2013. Tai, M. et al. ambr 250 use in CHO cell process development. Biotechnol. Prog. 2015, 31:1388-1395. doi:10.1002/btpr.2142. Patent family extends from US8501462B2.
 - **ip status**: patented
 - **prior art notes**: Mid-scale parallel-array stirred-tank microbioreactor system bridging the ambr 15 and pilot-scale bioreactors. Anticipates: scale-down models of 2000 L commercial bioreactors implemented as parallel 100-250 mL single-use vessels with matched mixing and aeration characteristics, used as the FDA-recognized scale-down qualification approach for bioprocess development. The ambr 250 HT perfusion variant additionally anticipates integration of single-use cell-retention devices (ATF/TFF) into a parallel-array small-scale platform.
+
+## Ai Hasegawa — speculative microfluidic bioart (I Wanna Deliver a Dolphin, (Im)possible Baby) (2013)
+
+- **id**: `hasegawa-2013-im-possible-baby`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ai Hasegawa
+- **disclosure**: Hasegawa A, 'I Wanna Deliver a Dolphin', Royal College of Art MA project (2013); '(Im)possible Baby, Case 01: Asako & Moriga' (2015); aihasegawa.info
+- **ip status**: fictional
+- **prior art notes**: Discloses speculative-design works depicting fictional reproductive microfluidic devices: an artificial human placenta capable of gestating non-human species, and a fictional same-sex-couple genome-merging cartridge whose inputs are saliva collection kits. Anticipates: speculative reproductive microfluidic cartridges; consumer-facing depictions of organ-on-chip placental devices; speculative design language for in-vitro gametogenesis cartridges.
 
 ## Emulate Inc. Organ-Chip platform (2014)
 

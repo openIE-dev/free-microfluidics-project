@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manz, A. et al. EP0497077A1 / WO9217767A1: Process for separating substances by capillary electrophoresis on chip. Priority date 1991, filed 1992 by Ciba-Geigy AG.
 - **ip status**: patented
 - **prior art notes**: The seminal Ciba-Geigy patent estate filed by Manz and Widmer covering chip-format capillary electrophoresis with electroosmotic pumping. The 1990 priority date predates the Manz 1990 academic paper publication, making this patent family the dominant foundational IP for chip CE. Ciba-Geigy (later Novartis) held this patent estate through expiry in 2010-2012, generating significant licensing revenue from chip-CE-based instruments. Doctrinally critical: any patent asserting novelty for chip-format electrokinetic separation must address this prior art chain.
+
+## Manz 1990 µTAS Concept Public Domain Defensive Anchor (1990-01-01)
+
+- **id**: `manz-1990-utas-public-domain-defense`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Andreas Manz, H.M. Widmer (Ciba-Geigy / ETH Zurich)
+- **disclosure**: Manz, Graber, Widmer, Sensors and Actuators B 1990, 1, 244-248 (doi:10.1016/0925-4005(90)80209-I); existing entry manz-1990-mu-tas-concept
+- **ip status**: public-domain
+- **prior art notes**: Defensive anchor entry. The Manz, Graber, Widmer 1990 paper (Sensors and Actuators B 1, 244-248) articulated the µTAS / miniaturized total analysis system concept: integration of sample handling, separation, and detection on a single miniaturized substrate. Any patent attempting to claim 'integrated analysis on a single chip' as a generic concept is anticipated by this paper as a 35 USC 102 publication. Useful as a defensive citation for any vendor pressed by overly-broad lab-on-chip claims. Companion existing entries manz-1990-mu-tas-concept (the paper) and manz-1992-ciba-geigy-mu-tas-patent-original (the related Ciba-Geigy patent). The Manz 1990 paper, being a publication, is in the public domain; this entry timestamps that fact as a defensive disclosure asset.
 
 ## Capillary electrophoresis on a microchip (1992)
 

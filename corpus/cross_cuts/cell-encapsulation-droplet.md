@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**24 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -65,6 +65,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a bioprinter with two extrusion-style printheads, each comprising a glass capillary fitted with a motorized metallic piston that aspirates a cell-laden hydrogel (e.g., PEGDA, alginate) and subsequently dispenses it under coordinated motion of an X-Z stage; an integrated UV/light source crosslinks the deposited fiber. Anticipates: (a) dual-head extrusion bioprinting with one head for support material and one for cell-laden ink, (b) piston-in-capillary as the cell-friendly displacement primitive, (c) inline crosslink step coupled to the motion path. Predicate to subsequent commercial bioprinters from CELLINK, RegenHU, Aspect, T&R Biofab, and others, all of which iterate on this multi-head extrusion architecture.
 
+## Quake/Stanford Bead-in-Droplet Single-Cell Encapsulation Patent Family (2010)
+
+- **id**: `quake-patent-family-bead-droplet-single-cell`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Board of Trustees of the Leland Stanford Junior University (Quake et al.) and co-inventors
+- **disclosure**: US8748094; US9695468; US9856530 and continuations (Stanford / co-assigned with collaborators)
+- **ip status**: patented
+- **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
+
+## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
+
+- **id**: `broad-institute-drop-seq-patent-family`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard / Steve McCarroll laboratory
+- **disclosure**: US10221442 priority 2014; US20170029873; WO2014210353 (Broad Institute / Harvard / Steve McCarroll lab)
+- **ip status**: patented
+- **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
+
+## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
+
+- **id**: `tenx-genomics-chromium-gem-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (with Broad Institute licensed background)
+- **disclosure**: US10221442 priority 2012-04-10 (Broad-licensed); 10x-internal: US9694361; US9701957; US10357771; US10752950; US11248267 (10x Genomics)
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Chromium / GEM (Gel-bead-in-Emulsion) patent family. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded gel bead and lysis reagents in an aqueous droplet within fluorinated oil; (b) gel-bead chemistry releasing barcoded primers in-droplet; (c) cell-barcode + UMI + capture-sequence architecture; (d) recovery of barcoded cDNA for bulk library construction; (e) Chromium chip and Chromium X instrument hardware. Several family members (notably US10221442) trace to Broad Institute Macosko / Drop-seq priority that 10x licensed. Anticipates and is anticipated by Quake/Stanford bead-droplet single-cell family (quake-patent-family-bead-droplet-single-cell). Companion existing entries: 10x-genomics-chromium-controller, macosko-2015-drop-seq.
+
 ## OpenPlant — Cambridge / John Innes Synthetic-Biology Initiative (2014-09)
 
 - **id**: `openplant-cambridge-norwich-synthetic`
@@ -114,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: T&R Biofab Co., Ltd. (Korea) IB3D / 3DX product line; tnrbiofab.com; commercial release ~2015
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-head bioprinter integrating thermoplastic-extrusion heads (PCL/PLGA scaffold material at melt temperature) with cell-laden hydrogel bioprinting heads (dECM, alginate, GelMA), enabling simultaneous deposition of structural scaffold and cellular components. Anticipates: (a) hybrid melt-extrusion plus low-temperature bioink architecture in a single machine, (b) dECM-bioink workflow productized into a commercial machine (lineage to Cho 2014 dECM Nature Communications paper), (c) Korean-origin bioprinter prior art for industrial scaffold-plus-cell platforms. Note: corpus already references POSTECH microfluidics broadly via postech-microfluidics-suh; this entry pins T&R Biofab specifically.
+
+## 10x Genomics vs Bio-Rad Patent Litigation (RainDance basis) (2015-02-12)
+
+- **id**: `tenx-vs-bio-rad-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Bio-Rad Laboratories (plaintiff) vs 10x Genomics (defendant)
+- **disclosure**: Bio-Rad Labs v. 10x Genomics, D.Del. 1:15-cv-00152 (filed 2015-02-12); jury verdict 2018-11-13 awarded $24M to Bio-Rad; later judgments, appeals, and 2020 settlement; subsequent N.D.Cal. cases
+- **ip status**: patented
+- **prior art notes**: Litigation entry. Bio-Rad sued 10x Genomics in D.Del. 1:15-cv-00152 (filed 2015-02-12) asserting RainDance-derived droplet patents (US7708949, US8273573, US8889083 and others) against the Chromium platform. Jury verdict 2018-11-13 awarded $24M with 15% royalty going forward. Multiple parallel cases followed in N.D.Cal. and at the ITC. Settled via cross-license arrangement around 2020. Defensive value: documents the most-litigated case in microfluidics history and establishes the legal interpretation of several RainDance/QuantaLife claim terms. Useful for any party defending against droplet-microfluidic claims.
 
 ## 10x Genomics Chromium controller and Next GEM chip (2016)
 

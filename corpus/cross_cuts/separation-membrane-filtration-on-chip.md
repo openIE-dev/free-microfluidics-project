@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-membrane-filtration-on-chip`
 
-**30 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -265,6 +265,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Direct commercial descendant of the Adamo 2016 MIT science paper. Discloses (a) refrigerator-sized footprint as design constraint for distributed pharmaceutical manufacturing — a more aggressive miniaturization target than Continuus ICM; (b) full reconfigurability across multiple drug products in the same hardware via swappable reaction-module cassettes; (c) DARPA-validated military-deployable form factor; (d) explicit goals around forward-deployed and disaster-response pharmaceutical manufacturing. Anticipates patent claims to compact (sub-cubic-meter) reconfigurable continuous-flow pharmaceutical manufacturing systems.
 
+## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
+
+- **id**: `atmo-biosciences-gas-sensing-capsule`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Atmo Biosciences (RMIT spin-out)
+- **disclosure**: Kalantar-zadeh K et al., Nature Electronics 1:79-87 (2018); doi:10.1038/s41928-017-0004-x; Atmo Biosciences corporate disclosures
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible capsule whose sample-prep stage is a gas-permeable membrane window that selectively admits gut gases into a heated MOX sensor chamber for real-time speciation. Anticipates: ingestible gas-sensing capsules with semi-permeable membrane sample-prep; in-vivo gut fermentation biomarker capsules; capsule architectures decoupling biological inlet (membrane) from analytical chamber (heated sensors). Specifically anticipates downstream consumer microbiome capsules and IBD diagnostic ingestibles.
+
 ## S2 Genomics Singulator tissue dissociation system (2019)
 
 - **id**: `s2-genomics-singulator`
@@ -314,3 +324,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Verve Therapeutics SEC S-1 (2021-06); Musunuru et al. 'In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates,' Nature 593:429 (2021), doi:10.1038/s41586-021-03534-y; Verve clinical trial NCT05398029 (heart-1)
 - **ip status**: patented
 - **prior art notes**: Process disclosure: mRNA encoding adenine base editor is co-formulated with a chemically-modified sgRNA into hepatocyte-targeted LNPs via microfluidic mixing (T-junction or impingement-jet); downstream TFF concentration and buffer exchange; sterile-filtered fill. Distinguishable from Tessera by cargo identity (base editor + sgRNA, not a recombinase + template) but the manufacturing fluid path is the standard mRNA-LNP architecture. Anticipates: clinical-stage in vivo base-editing LNP manufacturing with a hepatocyte-targeted lipid in a continuous microfluidic train. Element-by-element: aqueous mRNA/sgRNA + ethanolic lipid mix → microfluidic mixer → dialysis/TFF → sterile fill → vial.
+
+## Kraken Sense KRAKEN1 Automated Pathogen Detection System (2021)
+
+- **id**: `kraken-sense-pathogen-detection`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Kraken Sense Inc.
+- **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
+- **ip status**: patented
+- **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.

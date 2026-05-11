@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-t-junction-generation`
 
-**3 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2001
 
@@ -24,6 +24,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Thorsen, T.; Roberts, R. W.; Arnold, F. H.; Quake, S. R. Dynamic pattern formation in a vesicle-generating microfluidic device. Phys. Rev. Lett. 2001, 86, 4163–4166. DOI: 10.1103/PhysRevLett.86.4163
 - **ip status**: public-domain
 - **prior art notes**: One of the earliest demonstrations of monodisperse aqueous droplet generation in oil within a microfluidic geometry. Anticipates: T-junction droplet formation, controlled droplet size as a function of flow rate ratio, monodisperse emulsion as a microfluidic primitive. The lineage from here runs through Anna 2003 (flow focusing) into the entire droplet-microfluidics field including ddPCR, single-cell RNA-seq, and barcoded bead workflows.
+
+## RainDance Technologies DropMaker Patent Family (2002-06-28)
+
+- **id**: `raindance-dropmaker-patent-family`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: RainDance Technologies (acquired by Bio-Rad 2017-03-02)
+- **disclosure**: US7708949 priority 2002-06-28; US8772046; US8500053; US8841071 (originally RainDance Technologies, now Bio-Rad)
+- **ip status**: patented
+- **prior art notes**: RainDance Technologies patent family covering picoliter-droplet generation in fluorinated-oil emulsions. Anchors claims around: (a) flow-focusing or T-junction generation of monodisperse aqueous droplets in fluorinated oil; (b) use of perfluorinated polyether surfactants to stabilize droplets against coalescence; (c) compatibility with PCR thermal cycling; (d) sample-encapsulation rates >1 kHz. Foundation patents acquired by Bio-Rad in March 2017 for approximately $72M (Bio-Rad 8-K 2017-02-01). Anticipates ddPCR / digital droplet-PCR cartridges and droplet-library generators. Existing companion entry raindance-bio-rad-acquisition documents the deal; this entry maps the licensable patent estate.
+
+## Stone, Stroock & Ajdari 2004 — Engineering flows in small devices (extended bibliographic anchor) (2004-01)
+
+- **id**: `stone-stroock-ajdari-2004-engineering-flows-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Howard A. Stone, Abraham D. Stroock, Armand Ajdari
+- **disclosure**: doi:10.1146/annurev.fluid.36.050802.122124; Annu. Rev. Fluid Mech. 36, 381-411 (2004)
+- **ip status**: public-domain
+- **prior art notes**: Companion citation to the existing stone-2004-engineering-flows-microfluidics entry — kept as a distinct slug to capture the full author trio (Stone, Stroock, Ajdari) and the explicit Annual Reviews of Fluid Mechanics framing as an engineering-design review covering chaotic mixing (herringbone), electrokinetic injection schemes, droplet generation, and induced-charge electrokinetics. Anticipates: any patent that recites one of the listed engineering primitives (herringbone mixer, pinched injection, T-junction droplet generator, ICEO pump) as its operative architecture.
 
 ## Dolomite Microfluidics droplet generation system (2009)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-electroosmotic`
 
-**9 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
 
+## Nguyen & Wereley 2006 — Fundamentals and Applications of Microfluidics (2nd ed) (textbook) (2006-08-31)
+
+- **id**: `nguyen-wereley-2006-fundamentals-microfluidics-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Nam-Trung Nguyen, Steven T. Wereley
+- **disclosure**: ISBN 978-1580539722; Artech House, 2nd edition, 2006 (1st ed 2002)
+- **ip status**: public-domain
+- **prior art notes**: Engineering textbook with extensive device-level coverage: micropumps (electrokinetic, piezo, peristaltic, thermopneumatic, MHD), microvalves (active and passive, check, pinch, ball), micromixers (passive lamination, chaotic advection, active acoustic and electrokinetic), and detection. Each device class is described in enough engineering detail to enable an undergraduate to build it. Anticipates: device-level patent claims on microfluidic pumps, valves, and mixers in any of the listed taxonomies — they are obvious in view of this textbook's catalog. Particularly load-bearing: catalog of 'pump architectures usable on chip' defeats narrow novelty for any post-2002 micropump claim.
+
 ## Intarcia ITCA 650 Implantable Osmotic Mini-Pump (Exenatide) (2008)
 
 - **id**: `intarcia-itca-650-osmotic-pump`
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Intarcia Therapeutics 10-K filings; clinical trial NCT01455896 (FREEDOM-1) 2012; FDA CRL 2017 / 2020
 - **ip status**: patented
 - **prior art notes**: Discloses a fully implantable osmotic micropump in titanium alloy housing where water osmotically infuses through a controlled-permeability membrane into an osmotic-engine compartment, the engine swells and pushes a piston advancing concentrated peptide formulation through a delivery orifice at sub-microliter-per-day rates for 6-12 months. Anticipates: long-term implantable osmotic mini-pumps for peptide drug delivery; the entire DUROS architecture pattern of titanium tube + semipermeable membrane + osmotic engine + piston + orifice; constant-rate sub-microliter dispensing without electronics or batteries.
+
+## Coulomb-Controlled Iontophoresis Ocular Patch (EyeGate II) (2010)
+
+- **id**: `eljarrat-2010-iontophoresis-ocular-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EyeGate Pharmaceuticals (later Kiora Pharmaceuticals); Domb Lab Hebrew University
+- **disclosure**: Eljarrat-Binstock E, Pe'er J, Domb AJ, Pharm Res 27:530-543 (2010); doi:10.1007/s11095-009-0042-9; EyeGate Pharmaceuticals product literature
+- **ip status**: patented
+- **prior art notes**: Discloses an electrokinetically-driven ocular drug delivery applicator: a cup-shaped fluidic reservoir pressed against the eye, with a charged drug formulation and controlled-current Ag/AgCl electrode driving ions across ocular barriers. Anticipates: iontophoretic ocular delivery patches; coulomb-controlled drug-dose applicators for ocular anterior segment; the architectural pattern of disposable drug-cartridge + reusable controller for trans-scleral delivery.
 
 ## Eccrine Systems Continuous Sweat Sensor Platform (2014)
 

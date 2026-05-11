@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-impedance-cytometry`
 
-**20 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coulter, W.H. US patent application filed 1949-10-20, US2656508A issued 1953-10-20, 'Means for counting particles suspended in a fluid'; Coulter, W.H. 'High speed automatic blood cell counter and cell size analyzer,' Proc. National Electronics Conference vol. 12 pp. 1034-1042 (1956)
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
+
+## Coulter Principle (1953 Patent) Public Domain Status Analysis (1953-10-20)
+
+- **id**: `coulter-1953-patent-public-domain-analysis`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Wallace H. Coulter (Coulter Electronics, later Beckman Coulter)
+- **disclosure**: US2656508 (Wallace H. Coulter, granted 1953-10-20, expired 1971-10-20); existing entry coulter-1953-impedance-cell-counting-patent
+- **ip status**: public-domain
+- **prior art notes**: Defensive entry. Wallace Coulter's original 1953 patent US2656508 covers the basic Coulter principle: passing a particle suspension through a small aperture between two electrolyte chambers and measuring the transient impedance change as each particle passes. The patent was granted 1953-10-20 and expired 1971-10-20 under then-applicable 17-year US patent terms. As of 2026, this technology has been in the US public domain for 55 years. Any party attempting to assert claims to (a) impedance-based particle counting; (b) aperture-based single-cell impedance measurement; (c) electrolyte-flanked sensing-volume detection — without distinguishing limitations — must overcome 55 years of public-domain prior art rooted in this patent. Companion existing entry coulter-1953-impedance-cell-counting-patent. Defensive value: this entry timestamps the public-domain status as a citable defense against any modern impedance-cytometry assertion.
 
 ## Star Trek TOS Enterprise sickbay biobed (1966)
 
@@ -105,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
 
+## Daktari Diagnostics CD4 Counter (defunct) (2009)
+
+- **id**: `daktari-cd4-counter`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Daktari Diagnostics Inc. (defunct ~2018)
+- **disclosure**: Cheng X et al., Lab on a Chip 7:170-178 (2007); Watkins NN et al., Sci Transl Med 5:214ra170 (2013); Daktari Diagnostics product literature; FDA 510(k) K130725
+- **ip status**: patented
+- **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
+
 ## IDEXX ProCyte Dx Veterinary Hematology Analyzer Optical/Impedance Flow Cell (2010)
 
 - **id**: `idexx-procyte-dx-veterinary-hematology`
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex XN-Series launch 2011-09; XN-9000 modular configuration 2013; FDA 510(k) K112763 (XN); extends sysmex-cbc-cartridge entry already in corpus
 - **ip status**: patented
 - **prior art notes**: Discloses the Sysmex XN-9000 modular hematology track architecture extending the existing sysmex-cbc-cartridge entry (in corpus) with: (1) primary-tube cap-piercing sample aspiration sharing one probe across multiple downstream analyzer modules; (2) the WDF channel using a polymethine fluorescent dye that selectively stains WBC nucleic acid + cytoplasmic granularity, enabling true 5-part diff via two-color cytogram (side scatter × side fluorescence) — replacing the earlier-generation impedance-only differential; (3) the WPC channel using a different polymethine dye selective for blast cells, enabling automated reflexing for hematological malignancy screening; (4) the modular XN-9000 configuration linking up to 6 analyzer modules on a sample-routing track. Anticipates: high-throughput modular hematology with primary-tube cap-piercing + multi-channel optical/impedance + fluorescent intracellular staining for cell classification.
+
+## Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor (2014)
+
+- **id**: `yu-2014-aptamer-saliva-cortisol-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Nathan S. Swami group (Univ. Virginia) with Air Force Research Laboratory aptamer collaborators
+- **disclosure**: Sanghavi BJ, Moore JA, Chávez JL, Hagen JA, Kelley-Loughnane N, Chou C-F, Swami NS, Biosens. Bioelectron. 78:244-252 (2014); doi:10.1016/j.bios.2015.11.052
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an aptamer-functionalized impedimetric microfluidic chip for cortisol detection in saliva, with AC electrokinetic sample focusing to overcome the low salivary cortisol concentration. Anticipates: aptamer-based salivary cortisol point-of-care chips; AC-electrokinetic preconcentration coupled to aptamer-functionalized electrodes for any low-abundance salivary biomarker; the architectural pattern of pre-concentrate-then-detect for saliva analytes.
 
 ## ISS Biomolecule Sequencer (Oxford Nanopore MinION on ISS) (2016)
 

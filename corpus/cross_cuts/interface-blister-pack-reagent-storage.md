@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**71 corpus entries disclose this subsystem.**
+**80 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -115,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
 
+## Theranos Cartridge Patent Family (2005)
+
+- **id**: `theranos-cartridge-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Theranos Inc. (defunct 2018; patents reassigned)
+- **disclosure**: US7888125 priority 2005-03-24; US7494770; US8088593; US8158430; US8283155 (Theranos Inc., post-bankruptcy assignments to Fortress Investment Group / Labrador Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Theranos cartridge patent family. Anchors claims around: (a) handheld disposable diagnostic cartridge accepting finger-stick blood; (b) integrated reagent-storage, sample-prep, and detection chambers; (c) on-cartridge assay scheduling and barcode identification; (d) wireless data return to a central reader. Notable for two reasons: (1) the patents were granted but the corresponding products never demonstrated the claimed performance (FDA correspondence and later trial testimony established this); (2) post-bankruptcy the patents were reassigned to Fortress Investment Group / Labrador Diagnostics, which asserted them against working diagnostic companies (notably BioFire) during the COVID pandemic, drawing significant criticism. Defensive value is high: Theranos patent disclosures contain extensive claim language but minimal enabling disclosure, making them weak as offensive prior art but useful as anti-claim-scope ammunition for any cartridge integrator to cite as evidence that broad cartridge claims are not novel. Companion existing entry: theranos-promised-cartridge documents the marketing claim; this entry catalogs the asserted IP.
+
 ## ISS Lab-on-Chip Application Development Portable Test System (LOCAD-PTS) (2007)
 
 - **id**: `iss-locad-pts-handheld-bioassay`
@@ -144,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BioShock (2K Games/Irrational 2007); 'Fontaine Futuristics' level in BioShock 2 (2010).
 - **ip status**: fictional
 - **prior art notes**: Plasmid bottling plant depicted as an industrial pharmaceutical-synthesis facility processing Adam (slug-secreted stem cells) into Plasmid and Eve injectables. Visible mechanics: cell-extraction tanks, mixing vats, fill-and-seal lines, distribution. Defensive prior art for: integrated bioproduction facility from raw-cell extraction through injectable-fill-and-finish, vending-machine-distributed injectable drugs.
+
+## Oasis Diagnostics VerOFy / Versi-Sal Saliva Collector (2007)
+
+- **id**: `oasis-diagnostics-versi-sal`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Oasis Diagnostics Corporation
+- **disclosure**: Oasis Diagnostics Corporation product literature; FDA 510(k) submissions for VerOFy oral fluid collection devices; oasisdx.com
+- **ip status**: patented
+- **prior art notes**: Discloses an oral fluid collection cartridge that combines a sponge-style absorbent collector with a calibrated reservoir and an integrated lateral-flow detection strip in the same disposable. The volume-adequate indicator (a colored window that triggers when the absorbent has reached threshold saturation) anticipates downstream POC saliva cartridges that need to confirm sufficient sample without active sensing. Anticipates: integrated saliva-collection-plus-detection cartridges for drugs of abuse, infectious disease serology, and hormone screening; the 'sample adequacy window' UI pattern; injection-molded saliva collection housings with assay strip in same enclosure.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -225,6 +245,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
 
+## DNA Genotek Oragene•DNA OG-500 Saliva Collection Kit (2008)
+
+- **id**: `dna-genotek-oragene-og500`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: DNA Genotek Inc. (subsequently OraSure Technologies)
+- **disclosure**: DNA Genotek Inc. product datasheet PD-PR-006 (Oragene•DNA OG-500); 23andMe and Ancestry adoption notices 2008-2010; dnagenotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
+
+## Theranos Capillary Blood Microsampling Patent (2008-09-16)
+
+- **id**: `theranos-microsample-bloodcollection-patent`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Theranos Inc. (Elizabeth Holmes et al.)
+- **disclosure**: US8475739 priority 2008-09-16, granted 2013-07-02 (Theranos Inc.)
+- **ip status**: patented
+- **prior art notes**: Theranos micro-blood-draw cartridge patent. Anchors claims around: (a) micro-volume collection tube with capillary-action filling; (b) integrated transport-chamber for downstream centrifugation. Existing capillary blood microsampling devices (Mitra DBS, Tasso OnDemand) use different mechanisms and largely post-date this priority. Defensive use: any vendor of a finger-stick microsampler can use this disclosure to map Theranos claim scope and avoid it.
+
 ## Roche MagNA Pure 96 Magnetic-Bead Nucleic Acid Extraction Cartridge (2009)
 
 - **id**: `roche-magna-pure-96-extraction-cartridge`
@@ -244,6 +284,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Radiometer ABL90 FLEX launch 2009-09; FDA 510(k) K093103; ABL90 FLEX PLUS update 2014
 - **ip status**: patented
 - **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
+
+## Salimetrics SalivaBio Oral Swab (SOS) (2009)
+
+- **id**: `salimetrics-salivabio-oral-swab`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Salimetrics LLC
+- **disclosure**: Salimetrics LLC product datasheet, SalivaBio Oral Swab (SOS) Item 5001.06 (2009); company website salimetrics.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses an inert absorbent collection wand whose synthetic polymer composition is specifically certified non-interfering with downstream cortisol, sex-steroid, and alpha-amylase immunoassays — a non-trivial materials-engineering disclosure because cotton (the historic Salivette material) measurably absorbs steroids. Anticipates: collection consumables claiming validated zero-bias for salivary steroid panels; pediatric variants of oral fluid wands sized for sub-6-year-old donors; centrifuge-recovery workflow producing a defined minimum saliva volume from passive-drool sampling. The swab is the upstream element of nearly every academic salivary biomarker microfluidic assay published 2010 onward, and is functionally a pre-concentrator/sample-prep consumable for downstream lab-on-chip cortisol cartridges.
+
+## Daktari Diagnostics CD4 Counter (defunct) (2009)
+
+- **id**: `daktari-cd4-counter`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Daktari Diagnostics Inc. (defunct ~2018)
+- **disclosure**: Cheng X et al., Lab on a Chip 7:170-178 (2007); Watkins NN et al., Sci Transl Med 5:214ra170 (2013); Daktari Diagnostics product literature; FDA 510(k) K130725
+- **ip status**: patented
+- **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
 
 ## Pall Allegro STR / single-use fluidic train (2010)
 
@@ -365,6 +425,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic cartridge-based viscoelastic hemostasis analyzer using mechanical resonance frequency detection rather than the historic torque-pin method (TEG 5000, ROTEM): the cartridge is excited by piezoelectric driver at ~0.06 Hz; an LED illuminates the blood-air meniscus inside each microwell; clot formation increases mechanical coupling between the resonating cartridge wall and the meniscus, modulating the meniscus position which is detected by photodiode displacement sensor — yielding a TEG-equivalent amplitude trace (R, K, alpha, MA) without any moving torque pin in the blood. Anticipates: cartridge-resident viscoelastic hemostasis testing eliminating the cup-and-pin mechanism; the architectural choice of resonance-shift detection enabling vibration tolerance suitable for transport / cardiac OR. Distinct from ROTEM sigma (Werfen) which uses electromechanical detection in a similar cartridge format.
 
+## Norgen Biotek Saliva RNA Collection and Preservation Devices (2014)
+
+- **id**: `norgen-biotek-saliva-rna-collection`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Norgen Biotek Corp.
+- **disclosure**: Norgen Biotek Corp. product datasheet Cat. 53800 (Saliva RNA Collection and Preservation); norgenbiotek.com
+- **ip status**: patented
+- **prior art notes**: Discloses an Oragene-architecture saliva collection cartridge whose preservation chemistry is specifically formulated to stabilize RNA (not DNA), enabling ambient-shipped saliva-transcriptome and oral-microbiome RNA-seq workflows. Anticipates: RNA-preserving variants of mail-back saliva cartridges; ambient-temperature transcriptome preservation in self-contained collection cups; microbiome-rRNA preservation in oral-cavity samples.
+
 ## Beta Bionics iLet Bionic Pancreas (2014-06-15)
 
 - **id**: `beta-bionics-ilet-bionic-pancreas`
@@ -394,6 +464,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
+
+## Amino Labs DNA Playground (and Engineer-It Kit) (2015)
+
+- **id**: `amino-labs-dna-playground`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Amino Labs Inc. (Julie Legault)
+- **disclosure**: Amino Labs Inc. press launch 2015; amino.bio; Indiegogo campaign 2015; Hessel J et al., 'DIY-bio for kids', J Microbiol Biol Educ 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
 
 ## CELLINK BIO X Pneumatic Bioprinthead (2016)
 
@@ -654,6 +734,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
 - **ip status**: patented
 - **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
+
+- **id**: `withings-u-scan`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Withings (Nokia Health)
+- **disclosure**: Withings press release CES 2023, 2023-01-04; Withings U-Scan product page; withings.com/u-scan
+- **ip status**: patented
+- **prior art notes**: Discloses a consumer toilet-bowl-mounted device with a rotating microfluidic reagent-pad wheel: each use draws ~30 µL urine by capillary action onto the next test pad, which is then optically read and the wheel rotates to advance to a fresh pad. The 100-test-per-cartridge architecture and rotating reagent wheel anticipate: consumer in-toilet microfluidic diagnostics with multi-shot consumables; rotating-wheel passive-microfluidic reagent indexing; the architectural pattern of capillary-fed colorimetric urinalysis with downstream camera readout. CES 2023 launch makes this the first consumer microfluidic in-toilet device.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

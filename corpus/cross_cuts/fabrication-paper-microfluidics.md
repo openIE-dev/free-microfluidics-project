@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**31 corpus entries disclose this subsystem.**
+**34 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1980
 
@@ -125,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The paper that established paper-based microfluidic analytical devices (µPADs) as a category. Anticipates: hydrophobic patterning of cellulose paper to define fluid channels, capillary-driven flow without external pumps, multiplex colorimetric assays on a single paper substrate. The entire low-resource diagnostic paper-fluidics field descends from this disclosure.
 
+## Whitesides Paper Microfluidics Patent Family (2007-10-12)
+
+- **id**: `whitesides-patent-family-paper-microfluidics`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: President and Fellows of Harvard College (Martinez, Phillips, Carrilho, Whitesides et al.)
+- **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
+
 ## Wax-printed paper microfluidics for low-cost diagnostics (2009)
 
 - **id**: `franssila-2010-paper-fluidic-pcl`
@@ -215,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: BD Veritor cartridge family covers respiratory infection rapid antigen tests with companion benchtop reader. The cartridge format is a standard lateral-flow strip in a BD-proprietary cassette housing. The dominant POC influenza/RSV/COVID antigen test platform in U.S. clinical labs and emergency departments.
 
+## BioBuilder Educational Foundation Microfluidic Lab Kits (2012)
+
+- **id**: `biobuilder-educational-foundation-kits`
+- **corpus**: open
+- **device class**: consumable-bulk
+- **creator**: BioBuilder Educational Foundation (Natalie Kuldell, MIT)
+- **disclosure**: Kuldell N, Bernstein R, Ingram K, BioBuilder: Synthetic Biology in the Lab (O'Reilly 2015, ISBN 978-1491904299); biobuilder.org
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an open educational kit and curriculum framework including microfluidic-adjacent activities (E. coli pigment assays, sensor strain plate readouts) for high-school synthetic biology. Anticipates: educational consumable kits combining engineered-strain reagents with simple microfluidic readout chambers; the architectural pattern of teacher-deployable lab-on-chip teaching cartridges with companion curriculum.
+
 ## Quidel Sofia 2 fluorescent immunoassay analyzer (2014)
 
 - **id**: `quidel-sofia-2`
@@ -254,6 +274,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jana Care Inc. product launches 2014-2017; company technical brochures; FDA 510(k) K191498 (Aina HbA1c test) 2019
 - **ip status**: patented
 - **prior art notes**: Discloses a smartphone-tethered POC diagnostic platform whose disposable element is a lateral-flow or microfluidic test strip and whose reader is a reusable optical pod. Capillary blood applied to the strip, optics quantify color development from immunoassay or enzymatic chemistry. Anticipates: smartphone-tethered consumer POC test architectures; reader-pod-plus-disposable-strip business model in low-resource settings.
+
+## Foldscope Microfluidic Accessory (Foldscope + Paperfuge ecosystem) (2014-06-16)
+
+- **id**: `foldscope-paperfuge-microfluidic-add-on`
+- **corpus**: open
+- **device class**: lab-on-chip
+- **creator**: Manu Prakash group, Stanford (Prakash Lab) and Foldscope Instruments
+- **disclosure**: Cybulski JS, Clements J, Prakash M, PLOS ONE 9:e98781 (2014); doi:10.1371/journal.pone.0098781; Bhamla MS et al., Nat Biomed Eng 1:0009 (2017) (Paperfuge); foldscope.com
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an ultra-low-cost paper-and-foil microscopy + centrifugation ecosystem with a microfluidic sample chamber that snaps into the paper microscope for on-site blood smear and parasite detection. Anticipates: open-source field-deployable microscopy + microfluidic chamber kits; passive string-driven centrifuges as sample-prep stage for downstream chip; the broader frugal-science microfluidic kit pattern.
 
 ## LetsGetChecked Home Test Collection Kit (2015)
 

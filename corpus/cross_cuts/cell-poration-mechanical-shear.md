@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**4 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2013
+Earliest disclosure: 1986
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Joe Davis — Microvenus and Bacterial Radio (microfluidic bioart) (1986)
+
+- **id**: `joe-davis-microvenus-bioart`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Joe Davis (MIT)
+- **disclosure**: Davis J, 'Microvenus', Art Journal 55:70-74 (1996); doi:10.2307/777811
+- **ip status**: fictional
+- **prior art notes**: Discloses early bioart work encoding human-derived images into bacterial DNA (Microvenus, 1986) and engineering bacteria as radio signal generators. Architectural relevance: the 1986 work uses microinjection-style transformation as art medium and predates much of the synthetic-biology era's prior art on engineered bacterial systems intended for non-research output. Anticipates: bacterial bioart precedents for any consumer 'living art' microfluidic product; foundational artistic prior art for engineered-microbe-as-medium installations.
+
+## Eduardo Kac — GFP Bunny (Alba) (2000)
+
+- **id**: `kac-2000-gfp-bunny-alba`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Eduardo Kac
+- **disclosure**: Kac E, 'GFP Bunny', Leonardo 36:97-102 (2003); doi:10.1162/002409403321554125; ekac.org/gfpbunny.html
+- **ip status**: fictional
+- **prior art notes**: Discloses a public-art act of microinjection of GFP construct into a rabbit zygote (executed at INRA Jouy-en-Josas). The microfluidic relevance is the use of a glass-pulled microinjection capillary as the artistic medium. Anticipates: artistic and pedagogical use of microinjection capillaries; bioart works whose primary instrument is a microfluidic single-cell injector; the broader precedent for microfluidic devices being framed as cultural rather than purely scientific objects.
 
 ## Diagenode Megaruptor hydrodynamic DNA shearer (2013)
 

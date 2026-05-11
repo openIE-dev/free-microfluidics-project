@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**103 corpus entries disclose this subsystem.**
+**125 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VIDAS launch 1990 (pioneering ELFA technology); VIDAS 3 launch 2014; FDA 510(k) K133769
 - **ip status**: patented
 - **prior art notes**: Discloses the bioMérieux SPR (Solid Phase Receptacle) format: a polypropylene cone shaped like a pipette tip whose inner surface is pre-coated with capture antibody; the analyzer's micropipettor docks onto the cone and uses it as both pipette and solid phase, drawing sample and reagents in/out from a sealed reagent strip with 6-10 pre-loaded wells (sample well, wash wells, conjugate well, substrate well). Anticipates: integrated pipette-as-solid-phase fluidic primitive eliminating separate microtiter plate coating; sealed reagent strips with foil seal pierced by the SPR mating action; ELFA (Enzyme-Linked Fluorescent Assay) using MUP→4-methylumbelliferone for sub-pg/mL sensitivity in a single-strip format. Foundational architectural disclosure dating to 1990 — relevant prior art for many subsequent disposable-cartridge-with-pipette-cone architectures (e.g., Biotech / VIDAS-derivative platforms).
+
+## Affymetrix (now Thermo Fisher) GeneChip Patent Estate (1991)
+
+- **id**: `affymetrix-genechip-patent-estate`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Affymetrix Inc. (acquired by Thermo Fisher Scientific 2016)
+- **disclosure**: US5445934 (Fodor et al., priority 1989); US5510270; US5800992; US6022963 (Affymetrix; acquired by Thermo Fisher 2016-03-31 for $1.3B)
+- **ip status**: patented
+- **prior art notes**: Affymetrix GeneChip patent estate. Anchors claims around: (a) photolithographic in situ synthesis of oligonucleotide arrays on a glass substrate using photolabile protecting groups (Fodor 1991 Science paper, US5445934 priority 1989); (b) high-density spatially-addressable microarrays for hybridization-based nucleic-acid analysis; (c) GeneChip-format mask-based or maskless light-directed synthesis. Affymetrix acquired by Thermo Fisher 2016-03-31 for approximately $1.3B. Foundational core patents largely expired by 2009-2014 (17/20-year terms from 1989-1994 priorities). Defensive value: anchors public-domain status of basic photolithographic-array fabrication. Anticipates almost all DNA microarray fabrication approaches that use light-directed synthesis. Companion: this estate is also relevant prior art for spatial-transcriptomics capture arrays (10x Visium).
 
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 
@@ -65,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed rapid-cycle real-time PCR with continuous fluorescence monitoring during thermal cycling, in glass capillary tubes for fast heat transfer. Architectural ancestor of every real-time PCR cartridge: the framing that PCR + real-time fluorescence reading enables quantitative analysis from a single closed reaction. The Wittwer-Idaho-Technology lineage produced the LightCycler (acquired by Roche 1997) and via the BioFire spinout (2003) the FilmArray cartridge. One of the most consequential academic-to-commercial transitions in molecular diagnostics.
 
+## Illumina Patent Estate Post-Solexa Acquisition (Bridge Amplification + SBS) (1997)
+
+- **id**: `illumina-patent-estate-post-solexa`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Illumina Inc. (acquired Solexa 2007-01-26)
+- **disclosure**: US7771970 (priority via Solexa 1997); US8158346; US8071739; US7115400; US6306597 (Illumina via Solexa acquisition 2007 for $600M)
+- **ip status**: patented
+- **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
+
 ## Microfluidic flow cytometer architectures (academic) (2002)
 
 - **id**: `berkeley-cellium-flow-cytometer-2009`
@@ -74,6 +94,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fu, A. Y.; Spence, C.; Scherer, A.; Arnold, F. H.; Quake, S. R. A microfabricated fluorescence-activated cell sorter. Nat. Biotechnol. 1999, 17, 1109–1111. DOI: 10.1038/15095
 - **ip status**: patented
 - **prior art notes**: The first microfabricated FACS — fluorescence-activated cell sorter on chip. Demonstrated cell sorting at modest throughput (~10 cells/s) with optical interrogation and pneumatic actuation in PDMS. Anticipates: chip-FACS architecture, microfluidic flow cytometry, and the entire chip-based flow cytometry subfield subsequently expanded by Sony SP6800, BD Cytopeia, On-chip Sort, and others.
+
+## Fluidigm Integrated Fluidic Circuit Controller Patent Family (2002)
+
+- **id**: `fluidigm-patent-family-ifc-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7307802; US7195670; US7691333; US7906072; US8163492 (Fluidigm Corporation, now Standard BioTools)
+- **ip status**: patented
+- **prior art notes**: Fluidigm patent family covering the IFC controller (the workhorse benchtop instrument for all Fluidigm chip products). Anchors claims around: (a) pneumatic manifold delivering individually-addressable pressurized control lines to a multilayer PDMS chip seated on a holder; (b) integrated thermal cycling stage; (c) optical readout integration with chip alignment; (d) sequential-loading protocols leveraging MLSI multiplexer trees. Built on the Caltech-licensed Quake MLSI valve patent family (quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates pneumatically-actuated chip-controller benchtop instruments for elastomeric microfluidic chips. Expiry: 2022-2030 across family.
+
+## Pacific Biosciences SMRT Cell Patent Family (2002)
+
+- **id**: `pacbio-smrt-cell-patent-family`
+- **corpus**: private
+- **device class**: nanofluidic-chip
+- **creator**: Pacific Biosciences of California Inc.
+- **disclosure**: US7170050; US7476503; US7906284; US10208329; US7820983 (Pacific Biosciences)
+- **ip status**: patented
+- **prior art notes**: Pacific Biosciences SMRT Cell patent family. Anchors claims around: (a) array of sub-wavelength (~70 nm) zero-mode waveguides on a fused-silica substrate clad with aluminum; (b) single-molecule polymerase tethered at the bottom of each ZMW; (c) phospholinked nucleotides emitting wavelength-distinct fluorescence on incorporation; (d) total-internal-reflection-style illumination with confocal-zone selectivity per ZMW; (e) Revio (existing entry pacbio-revio-smrt-cell) and Sequel II form factors. Companion existing entry: eid-2009-pacbio-smrt. Anticipates ZMW-based single-molecule sequencing chips and any nanofluidic chip with a sub-wavelength aperture array for single-molecule confinement.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 
@@ -105,6 +145,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Galactica sickbay depicted across many episodes as a multi-bed military medical bay with manual+automated diagnostics, the Cylon detection assay (an explicit cellular-level diagnostic), pregnancy tests with Cylon-specific markers, and surgical interventions. Defensive prior art for: military-grade triage bay architecture and species/origin-discriminating cellular assays at the bedside.
 
+## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
+
+- **id**: `quake-patent-family-digital-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: California Institute of Technology / Stanford (Stephen Quake et al.)
+- **disclosure**: US7459315 priority 2003-04-03; US8124032; US8252539 (Caltech / Stanford-derived inventors)
+- **ip status**: patented
+- **prior art notes**: Quake-group digital-PCR patent family covering on-chip partitioning of a nucleic-acid sample into a large array of independent reactors followed by amplification and Poisson-statistical absolute quantification. Anchors claims around: (a) MLSI valve isolation of an array of nL/pL reaction chambers; (b) loading dilute template such that chambers contain 0 or 1 target by Poisson distribution; (c) thermal cycling and end-point fluorescence readout per chamber; (d) absolute quantification by counting positive partitions. Different family from droplet-based ddPCR (RainDance/QuantaLife/Bio-Rad lineage) but co-anticipates the absolute-quantification claim space. Vogelstein-Kinzler 1999 (vogelstein-kinzler-1999-digital-pcr) is the conceptual prior art. This patent family fed Fluidigm BioMark digital-array chemistry. Expiry: family members 2023-2026.
+
 ## Cepheid GeneXpert cartridge (2004)
 
 - **id**: `cepheid-genexpert-cartridge`
@@ -125,6 +175,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed antiresonant reflecting optical waveguide (ARROW) with a hollow core that can be filled with sample fluid: a liquid-core waveguide enabling guided light through the analyte itself. Anticipates: liquid-core integrated waveguides, on-chip absorbance/fluorescence in-line analysis without external optical components, and ultra-sensitive single-molecule detection by guided-mode interaction. Foundational architecture for chip-integrated optical detection.
 
+## Fluidigm BioMark Dynamic Array Chemistry Patent Family (2004)
+
+- **id**: `fluidigm-patent-family-biomark-dynamic-array`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7820427; US8420017; US8475743; US9663819 (Fluidigm Corporation)
+- **ip status**: patented
+- **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
+
 ## 454 Life Sciences PicoTiterPlate sequencing (2005)
 
 - **id**: `margulies-2005-454-picotiterplate`
@@ -134,6 +194,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Margulies, M. et al. Genome sequencing in microfabricated high-density picolitre reactors. Nature 2005, 437, 376–380. DOI: 10.1038/nature03959
 - **ip status**: patented
 - **prior art notes**: Disclosed PicoTiterPlate: a fiber-optic faceplate etched into ~1.6M picoliter wells, each loaded with a single template-loaded bead for emulsion-PCR-amplified pyrosequencing. The first commercial massively parallel sequencing platform (2005); discontinued 2016. Architectural ancestor of every microwell-array-based NGS platform that followed (Ion Torrent, BGI, Singular Genomics).
+
+## Theranos Cartridge Patent Family (2005)
+
+- **id**: `theranos-cartridge-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Theranos Inc. (defunct 2018; patents reassigned)
+- **disclosure**: US7888125 priority 2005-03-24; US7494770; US8088593; US8158430; US8283155 (Theranos Inc., post-bankruptcy assignments to Fortress Investment Group / Labrador Diagnostics)
+- **ip status**: patented
+- **prior art notes**: Theranos cartridge patent family. Anchors claims around: (a) handheld disposable diagnostic cartridge accepting finger-stick blood; (b) integrated reagent-storage, sample-prep, and detection chambers; (c) on-cartridge assay scheduling and barcode identification; (d) wireless data return to a central reader. Notable for two reasons: (1) the patents were granted but the corresponding products never demonstrated the claimed performance (FDA correspondence and later trial testimony established this); (2) post-bankruptcy the patents were reassigned to Fortress Investment Group / Labrador Diagnostics, which asserted them against working diagnostic companies (notably BioFire) during the COVID pandemic, drawing significant criticism. Defensive value is high: Theranos patent disclosures contain extensive claim language but minimal enabling disclosure, making them weak as offensive prior art but useful as anti-claim-scope ammunition for any cartridge integrator to cite as evidence that broad cartridge claims are not novel. Companion existing entry: theranos-promised-cartridge documents the marketing claim; this entry catalogs the asserted IP.
+
+## McDevitt Nano-Bio-Chip for Salivary Periodontal and Cardiac Biomarker Detection (2005)
+
+- **id**: `christodoulides-2005-nano-bio-chip-perio`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: John T. McDevitt group (Univ. Texas Austin / Rice / NYU)
+- **disclosure**: Christodoulides N, Mohanty S, Miller CS, et al., Lab on a Chip 5:261-269 (2005); doi:10.1039/B414194F
+- **ip status**: patented
+- **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
 
 ## Developing optofluidic technology through the fusion of microfluidics and optics (2006)
 
@@ -315,6 +395,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
 
+## Crescendo Bioscience Vectra DA Multi-Biomarker Disease Activity Test (2010)
+
+- **id**: `crescendo-vectra-da-test`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Crescendo Bioscience Inc. (Myriad Genetics from 2014)
+- **disclosure**: Centola M et al., PLOS ONE 8:e60635 (2013); doi:10.1371/journal.pone.0060635; Crescendo Bioscience product literature (acquired by Myriad Genetics 2014); CMS LCD L34416
+- **ip status**: patented
+- **prior art notes**: Discloses a 12-plex serum-biomarker chemiluminescence cartridge (built on Meso Scale Discovery flow cells) with disease-activity-score algorithmic output for rheumatoid arthritis. Anticipates: clinical-grade multiplex chemiluminescence cartridges with reportable composite scores; serum-biomarker microfluidic flow-cell architectures coupled to ML/regression scoring algorithms.
+
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
 - **id**: `bio-rad-qx-ddpcr-system`
@@ -454,6 +544,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jana Care Inc. product launches 2014-2017; company technical brochures; FDA 510(k) K191498 (Aina HbA1c test) 2019
 - **ip status**: patented
 - **prior art notes**: Discloses a smartphone-tethered POC diagnostic platform whose disposable element is a lateral-flow or microfluidic test strip and whose reader is a reusable optical pod. Capillary blood applied to the strip, optics quantify color development from immunoassay or enzymatic chemistry. Anticipates: smartphone-tethered consumer POC test architectures; reader-pod-plus-disposable-strip business model in low-resource settings.
+
+## 10x Genomics Xenium In-Situ Patent Family (2014)
+
+- **id**: `tenx-genomics-xenium-in-situ-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (acquired ReadCoor 2020-10-12 for $350M and Cartana 2020-11-23)
+- **disclosure**: US10227639 (ReadCoor / Wyss Institute origin); US11459611; US11788123 (10x Genomics post-acquisition); US10227639 priority 2014
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Xenium / In Situ patent family. Combines the ReadCoor (Wyss Institute, George Church origin) FISSEQ technology and the Cartana (Mats Nilsson origin) padlock-probe in-situ chemistry. Anchors claims around: (a) padlock probes targeting specific transcripts; (b) rolling-circle amplification of bound padlocks creating amplicons in tissue; (c) sequential hybridization rounds with fluorescent decoder probes; (d) decoding amplicon barcodes to identify transcripts at subcellular resolution; (e) Xenium Analyzer fluidic / imaging instrument. Existing companion entries: 10x-xenium-prime-5k, vizgen-merscope (competitor), resolve-bioscience-molecular-cartography (competitor). 10x has asserted parts of this family against Vizgen and Resolve.
 
 ## Berkeley Lights Beacon optofluidic platform (2016)
 
@@ -615,6 +715,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable cartridge implementing pressure-driven flow-focusing droplet ejection coupled to a real-time fluorescence detector that gates each droplet's destination plate well based on cell count and fluorescence intensity. Anticipates: integrated single-use cell sorter that delivers verified single cells into target wells without sheath-fluid contamination paths; disposable plastic equivalent of a sterile FACS sort with deposition recorded per well. Specifically anticipates claims to single-cell printers that combine flow-focusing droplet generation with downstream fluorescence-based well assignment.
 
+## Pacific Biosciences vs Oxford Nanopore Patent Litigation 2017-2024 (2017-02-23)
+
+- **id**: `pacbio-vs-oxford-nanopore-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Pacific Biosciences (plaintiff) vs Oxford Nanopore Technologies (defendant)
+- **disclosure**: Pacific Biosciences v. Oxford Nanopore, D.Del. 1:17-cv-00275 (filed 2017-02-23); ITC investigation 337-TA-1062; UK High Court [2017]; Federal Circuit appeals 2019-2024
+- **ip status**: patented
+- **prior art notes**: Litigation entry. PacBio sued Oxford Nanopore in 2017 in D.Del., the ITC, and the UK High Court asserting that ONT's MinION nanopore-sequencing technology infringed PacBio's single-molecule sequencing patents. Cases proceeded for seven years. Most rulings favored ONT: PacBio's broad single-molecule sequencing claims were narrowed or invalidated; ONT prevailed in UK; ITC investigation 337-TA-1062 closed favorably for ONT. Settled around 2024. Defensive value: invalidates broad-scope claims to 'single-molecule sequencing in general' and confirms that PacBio's enforceable scope is essentially limited to ZMW-specific implementations. Useful for any nanopore or single-molecule sequencing developer.
+
 ## Chi.Bio open-hardware bioreactor (2018)
 
 - **id**: `chibio-bioreactor`
@@ -684,6 +794,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Berkeley Lights Lightning product launch 2019; Berkeley Lights S-1 SEC filing 2020-06; OptoElectroPositioning patent estate US9,023,628B2
 - **ip status**: patented
 - **prior art notes**: Variant of the Berkeley Lights OptoSelect / Beacon architecture in which the optoelectronic positioning array is paired with on-chip imaging and a transfection workflow within the NanoPen chambers — distinct from the original Beacon (cell-line development focus) by including transfection-after-isolation as a single integrated workflow. Anticipates: optoelectronic-positioning chip extended with on-chip transfection events triggered after single-cell isolation; combined imaging + delivery in the same chamber array. Element-by-element: photoconductor array + NanoPen chamber + objective + on-chip pulse/cargo flush + clonal recovery export.
+
+## Vernier Microfluidics Sensor Bundle for Education (2019)
+
+- **id**: `vernier-microfluidics-kit`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Vernier Science Education
+- **disclosure**: Vernier Software & Technology catalog 'Microfluidics' lab manual; vernier.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a microfluidic teaching chip bundled with logging optical/pH sensors for data-acquisition curricula. Anticipates: microfluidic-plus-data-logger education bundles; sensor-instrumented microfluidic teaching cartridges.
+
+## Illumina vs BGI/MGI Patent Litigation 2019-2022 (2019-06-27)
+
+- **id**: `illumina-vs-bgi-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Illumina Inc. (plaintiff) vs BGI Genomics / Complete Genomics / MGI Tech (defendants)
+- **disclosure**: Illumina v. BGI, D.Del. 1:19-cv-01201 (filed 2019-06-27); ITC 337-TA-1167; UK High Court actions; settled 2022
+- **ip status**: patented
+- **prior art notes**: Litigation entry. Illumina sued BGI / Complete Genomics / MGI Tech in 2019 in multiple jurisdictions (D.Del., ITC, UK High Court) alleging that BGI's DNBSEQ flow cells (existing entries: bgi-mgi-dnbseq-flowcell, bgi-mgi-cartridge-extensions) infringed Illumina's flow-cell and SBS chemistry patents. Settled 2022 with a cross-license that allowed MGI sequencers to enter the US market with royalties paid to Illumina. Defensive value: established the enforceable scope of Illumina's flow-cell claims and confirmed that DNB-rolling-circle clonal amplification on patterned arrays is distinct enough from bridge-amplification to be patentable separately.
 
 ## Squid open-hardware microscopy platform (2020)
 
@@ -755,6 +885,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
 
+## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
+
+- **id**: `quake-broad-carmen-multiplex-prep-patent`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard (Sabeti, Myhrvold, Ackerman)
+- **disclosure**: US Provisional 62/892,447; published as WO2021022045A1 (Broad Institute / Harvard)
+- **ip status**: patented
+- **prior art notes**: Broad Institute patent family covering CARMEN (Combinatorial Arrayed Reactions for Multiplexed Evaluation of Nucleic acids). Anchors claims around: (a) microfluidic platform for high-throughput multiplexed nucleic-acid detection using fluorescent-color-coded droplets; (b) merging of sample droplets with CRISPR-Cas13 detection-reagent droplets; (c) automated identification of droplet pairs by color barcode; (d) parallel detection of >100 pathogens per chip. Ackerman et al. Nature 2020 (myhrvold-zhang-2018-shine-crispr-on-paper covers SHINE; CARMEN is distinct) provides the academic disclosure. Defensive interest: Broad Institute is the assertive licensor in CRISPR diagnostics; this patent family overlaps Mammoth/Sherlock claim space and any droplet-pairing combinatorial diagnostic.
+
+## 10x Genomics Acquisition of ReadCoor (in situ sequencing) 2020 (2020-10-12)
+
+- **id**: `tenx-readcoor-acquisition-2020`
+- **corpus**: private
+- **device class**: other
+- **creator**: 10x Genomics Inc.
+- **disclosure**: 10x Genomics 8-K filed 2020-10-12; total consideration approximately $350M cash plus stock
+- **ip status**: patented
+- **prior art notes**: Consolidation event entry. 10x Genomics 8-K 2020-10-12 documents the acquisition of ReadCoor Inc. (Wyss Institute / George Church spinout) for approximately $350M. ReadCoor's FISSEQ in-situ sequencing IP, combined with the November 2020 Cartana acquisition, formed the technical and patent basis for the Xenium platform launched 2022. Useful as IP-due-diligence reference and as anchor for tenx-genomics-xenium-in-situ-patent-family. Note that 10x then asserted these acquired patents against Vizgen and Resolve Biosciences (see related litigation entries).
+
 ## Aspendia cardiac POC cartridge (sub-femtomolar troponin) (2021)
 
 - **id**: `aspendia-cardiac-cartridge`
@@ -774,6 +924,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter DxI 9000 launch 2021-09; FDA 510(k) K223188 (cleared 2023)
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use reaction vessel immunoassay analyzer optimized for cardiac STAT throughput: each RV is loaded onto a continuous track, receives sample + PMP-conjugated capture antibody + alkaline-phosphatase-labeled detection antibody via independently controlled pipettors, undergoes magnet-station capture and wash within the same RV (no transfer), and is moved to the dioxetane-substrate dispense and PMT integration station. Anticipates: high-throughput single-use RV immunoassay tracks with in-vessel PMP wash; alkaline-phosphatase + Lumi-Phos 530 dioxetane chemiluminescence substrate (alternative to acridinium ester and ECL); the centralized fluidic path where sample-and-reagent transit is robotic but each RV is the immutable assay vessel. Foundational fluidic difference from Roche e-series (ECL on electrode) and Abbott Architect (CMIA flash on washed wells) — Beckman uses prolonged glow chemiluminescence integrated for 4-5 seconds.
+
+## Kraken Sense KRAKEN1 Automated Pathogen Detection System (2021)
+
+- **id**: `kraken-sense-pathogen-detection`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Kraken Sense Inc.
+- **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
+- **ip status**: patented
+- **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.
+
+## Olive Diagnostics KG Toilet-Mounted Urine Optical Analyzer (2021)
+
+- **id**: `olive-diagnostics-kg`
+- **corpus**: private
+- **device class**: other
+- **creator**: Olive Diagnostics Ltd.
+- **disclosure**: Olive Diagnostics Ltd. product launch 2021; olivedx.com; CE mark 2022
+- **ip status**: patented
+- **prior art notes**: Discloses a passive in-toilet optical urine analyzer that monitors a free-flowing urine stream rather than collecting a discrete sample. Anticipates: passive in-toilet urinalysis architectures; consumable-free continuous urinalysis using optical interrogation of free flow; the architectural pattern of clip-on bathroom-fixture biosensors for continuous biomarker monitoring.
 
 ## Talis One COVID-19 Test Cartridge (2021-02)
 
@@ -845,6 +1015,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
 
+## Illumina vs Singular Genomics Patent Litigation (Singular won 2024) (2021-12-13)
+
+- **id**: `illumina-vs-singular-genomics-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Illumina Inc. (plaintiff) vs Singular Genomics Systems Inc. (defendant)
+- **disclosure**: Illumina v. Singular Genomics, D.Del. 1:21-cv-01798 (filed 2021-12-13); jury verdict and PTAB IPR rulings favoring Singular, 2024
+- **ip status**: patented
+- **prior art notes**: Litigation entry. Illumina sued Singular Genomics in D.Del. 1:21-cv-01798 (2021-12-13) alleging G4 flow-cell and SBS chemistry infringement (existing entry: singular-genomics-g4). Singular largely won at trial and at PTAB, with several asserted Illumina claims invalidated. Defensive value high: this is one of the first major-vendor losses for Illumina on flow-cell IP and significantly narrows the enforceable scope of the post-Solexa estate. Useful for any sequencing-flow-cell developer.
+
 ## Element Biosciences AVITI sequencer flow cell (2022)
 
 - **id**: `element-biosciences-aviti`
@@ -875,6 +1055,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: CMOS chip for single-molecule protein sequencing using time-domain fluorescence lifetime detection on a chip with millions of waveguide-coupled wells. Architectural cousin to PacBio ZMWs but with CMOS readout and a different chemistry (N-terminal aminopeptidase cycling). Anticipates: integrated-CMOS-photonic protein sequencing chip, time-domain detection on integrated photodetectors.
 
+## Illumina vs Element Biosciences Patent Litigation (settled 2024) (2022-04-04)
+
+- **id**: `illumina-vs-element-biosciences-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: Illumina Inc. (plaintiff) vs Element Biosciences Inc. (defendant)
+- **disclosure**: Illumina v. Element Biosciences, D.Del. 1:22-cv-00410 (filed 2022-04-04); settled 2024
+- **ip status**: patented
+- **prior art notes**: Litigation entry. Illumina sued Element Biosciences in D.Del. 1:22-cv-00410 (2022-04-04) asserting flow-cell and SBS chemistry patents against the Element AVITI sequencer (existing entries: element-biosciences-aviti, element-biosciences-aviti-cloudbreak). Settled 2024 (terms partly confidential) with Element continuing to operate. Defensive value: documents which Illumina patents were asserted against a non-bridge-amplification competitor (Element uses Avidity sequencing chemistry, distinct from SBS).
+
 ## Akoya Biosciences PhenoCycler-Fusion (2022-04-26)
 
 - **id**: `akoya-phenocycler-fusion`
@@ -894,6 +1084,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wadsworth W., Knapper J., Stirling J., Collins J.T., Bowman R. (Bath / Glasgow), 'Open-source 3D-printed delta-stage microscope for fluorescence and biofluidic experiments', published as part of OpenFlexure project releases at https://openflexure.org/projects/deltastage/; companion paper Knapper et al., Wellcome Open Research 7:65 (2022); https://gitlab.com/openflexure/openflexure-microscope
 - **ip status**: open-copyleft
 - **prior art notes**: Discloses a 3D-printable delta-kinematic flexure stage as a successor to the original OpenFlexure microscope's monolithic body. Three printed flexure arms meet at a movable platform; each arm is actuated by a stepper motor through a 3D-printed gear reduction, and the geometry resolves into XYZ stage motion. Designed explicitly to host on-stage microfluidic devices for live-cell imaging, with provision for perfusion tubing through the stage. Anticipates any post-2022 claim to 'a 3D-printed delta-flexure microscope stage suitable for hosting microfluidic devices' or 'a fully 3D-printable XYZ flexure stage with sub-micron repeatability for biological imaging.'
+
+## 10x Genomics vs Vizgen Patent Litigation (in situ) (2022-05-09)
+
+- **id**: `tenx-vs-vizgen-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: 10x Genomics + Harvard (plaintiffs) vs Vizgen (defendant)
+- **disclosure**: 10x Genomics Inc. and President and Fellows of Harvard College v. Vizgen Inc., D.Del. 1:22-cv-00595 (filed 2022-05-09)
+- **ip status**: patented
+- **prior art notes**: Litigation entry. 10x Genomics + Harvard sued Vizgen in D.Del. 1:22-cv-00595 (filed 2022-05-09) asserting in-situ sequencing and MERFISH-related patents against Vizgen's MERSCOPE platform. Vizgen counterclaimed for IPR challenges and antitrust. Existing companion entries: vizgen-merscope, 10x-xenium-prime-5k, tenx-genomics-xenium-in-situ-patent-family. Defensive value: documents the patent-positions 10x asserts in spatial transcriptomics and the IPR challenges Vizgen brought.
+
+## 10x Genomics vs Resolve Biosciences Patent Litigation (2022-05-09)
+
+- **id**: `tenx-vs-resolve-bioscience-litigation`
+- **corpus**: private
+- **device class**: other
+- **creator**: 10x Genomics + Harvard (plaintiffs) vs Resolve Biosciences (defendant)
+- **disclosure**: 10x Genomics Inc. v. Resolve Biosciences GmbH, D.Del. 1:22-cv-00594 (filed 2022-05-09)
+- **ip status**: patented
+- **prior art notes**: Litigation entry, parallel to 10x v. Vizgen. 10x Genomics + Harvard sued Resolve Biosciences in D.Del. 1:22-cv-00594 (filed 2022-05-09) asserting overlapping in-situ patents against Resolve's Molecular Cartography platform (existing entry: resolve-bioscience-molecular-cartography). Companion: tenx-vs-vizgen-litigation. Together the two suits indicate 10x's strategy of broad enforcement of its acquired Cartana/ReadCoor IP against all in-situ spatial competitors.
 
 ## Ultima Genomics UG 100 wafer-format flow cell (2022-05-31)
 
@@ -934,6 +1144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Multiple academic releases under the SPIM Genie / openSPIM umbrella (Pitrone et al. 2013 for openSPIM precedent; openSPIN-EM extension via the Lin lab and others 2023); https://openspim.org and forks
 - **ip status**: open-permissive
 - **prior art notes**: Discloses extensions to the openSPIM open-source light-sheet platform (already covered in corpus as openspim-microscope) including spinning-disc and patterned-illumination variants, designed for perfused-sample imaging. The relevant disclosure for microfluidics is the documented sample-chamber holders that integrate an open microfluidic perfusion device into the light-sheet imaging path; this provides anticipating prior art for 'integrated light-sheet imaging of microfluidically perfused organoids/embryos using open hardware.'
+
+## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
+
+- **id**: `withings-u-scan`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Withings (Nokia Health)
+- **disclosure**: Withings press release CES 2023, 2023-01-04; Withings U-Scan product page; withings.com/u-scan
+- **ip status**: patented
+- **prior art notes**: Discloses a consumer toilet-bowl-mounted device with a rotating microfluidic reagent-pad wheel: each use draws ~30 µL urine by capillary action onto the next test pad, which is then optically read and the wheel rotates to advance to a fresh pad. The 100-test-per-cartridge architecture and rotating reagent wheel anticipate: consumer in-toilet microfluidic diagnostics with multi-shot consumables; rotating-wheel passive-microfluidic reagent indexing; the architectural pattern of capillary-fed colorimetric urinalysis with downstream camera readout. CES 2023 launch makes this the first consumer microfluidic in-toilet device.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dmf-addressable-electrode-array`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -64,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Illumina NeoPrep launch press release 2014-09-30; product withdrawn 2017. Pamula, V. K. et al. Advanced Liquid Logic digital microfluidic platform for sample prep. https://www.illumina.com (archived).
 - **ip status**: patented
 - **prior art notes**: First commercial DMF-based NGS library prep instrument: Illumina productized the Advanced Liquid Logic EWOD platform to perform end-to-end TruSeq-style library prep on 16 samples in parallel using ~700 nL droplets. Discontinued 2017 due to library-quality issues, but the disclosed architecture remains useful prior art for any later DMF-based NGS library prep claim. Anticipates: large-cohort DMF library prep on a PCB-substrate EWOD array; the 'cartridge-top + reusable electrode-bottom' architecture for DMF.
+
+## Nuclera eProtein Discovery Platform (2022-09-01)
+
+- **id**: `nuclera-eprotein-platform`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Nuclera Ltd. (Cambridge, UK; Aaron Wheeler EWOD lineage)
+- **disclosure**: Nuclera Ltd. product launch announcement 2022-09; nuclera.com; Wheeler AR et al., founding patents WO2014047523A1
+- **ip status**: patented
+- **prior art notes**: Discloses a commercial EWOD cartridge benchtop instrument that combines cell-free protein synthesis with on-chip bead-based affinity purification. Builds on Wheeler-lab EWOD prior art. Anticipates: EWOD cartridges integrating cell-free protein synthesis; benchtop bead-purification on digital microfluidic platforms; the architectural pattern of disposable PCB-electrode cartridges for protein-engineering workflows.
 
 ## Volta Labs Desktop digital microfluidics library prep (2023)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-su8-photoresist`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1998
+Earliest disclosure: 1991
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Affymetrix (now Thermo Fisher) GeneChip Patent Estate (1991)
+
+- **id**: `affymetrix-genechip-patent-estate`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Affymetrix Inc. (acquired by Thermo Fisher Scientific 2016)
+- **disclosure**: US5445934 (Fodor et al., priority 1989); US5510270; US5800992; US6022963 (Affymetrix; acquired by Thermo Fisher 2016-03-31 for $1.3B)
+- **ip status**: patented
+- **prior art notes**: Affymetrix GeneChip patent estate. Anchors claims around: (a) photolithographic in situ synthesis of oligonucleotide arrays on a glass substrate using photolabile protecting groups (Fodor 1991 Science paper, US5445934 priority 1989); (b) high-density spatially-addressable microarrays for hybridization-based nucleic-acid analysis; (c) GeneChip-format mask-based or maskless light-directed synthesis. Affymetrix acquired by Thermo Fisher 2016-03-31 for approximately $1.3B. Foundational core patents largely expired by 2009-2014 (17/20-year terms from 1989-1994 priorities). Defensive value: anchors public-domain status of basic photolithographic-array fabrication. Anticipates almost all DNA microarray fabrication approaches that use light-directed synthesis. Companion: this estate is also relevant prior art for spatial-transcriptomics capture arrays (10x Visium).
 
 ## Rapid prototyping of microfluidic systems in PDMS (1998)
 

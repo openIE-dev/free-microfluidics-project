@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**9 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 2001-08-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
+
+- **id**: `given-imaging-pillcam-sb`
+- **corpus**: private
+- **device class**: other
+- **creator**: Given Imaging Ltd. (acquired by Medtronic 2014)
+- **disclosure**: Iddan G, Meron G, Glukhovsky A, Swain P, Nature 405:417 (2000); FDA 510(k) K010312 (2001-08-01); doi:10.1038/35013140
+- **ip status**: patented
+- **prior art notes**: Discloses a swallowable optical-imaging capsule with a passive optical-dome window that interfaces with luminal fluid as both an immersion medium and as the analyte itself (mucus, blood). Anticipates: ingestible imaging capsules; the ingestible-architecture pattern of dome-window + sensor + radio + battery in a 26 mm form factor; established the FDA pathway via K010312 that all subsequent ingestible microfluidic capsules followed.
 
 ## Hamilton Microlab STAR liquid handler (2003)
 
@@ -64,6 +74,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GE Healthcare Life Sciences (now Cytiva) ReadyMate product launch 2009; US patent US8,205,915B1 (Aseptic coupler, GE Healthcare); product literature 2010-2023
 - **ip status**: patented
 - **prior art notes**: Discloses a two-part sterile connector in which each half carries a peelable sterile membrane; the halves are coupled mechanically in non-sterile environment, then the membranes are pulled simultaneously to expose two sterile fluid faces that mate in a sealed annular boundary, opening a sterile fluid path between the two systems. Anticipates: dry-mate sterile connector architecture (distinguishable from sterile-weld-tube approaches that require thermal welding equipment) for bioprocess closed-system connections. Element-by-element: two connector halves + peelable membrane each + mechanical mate + simultaneous membrane peel + sealed sterile bore.
+
+## Sensimed Triggerfish Contact-Lens Continuous IOP Sensor (2009)
+
+- **id**: `sensimed-triggerfish-iop`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sensimed AG
+- **disclosure**: Mansouri K, Shaarawy T, Br J Ophthalmol 95:627-629 (2011); CE mark 2009; FDA De Novo DEN140017 granted 2016-03-04; sensimed.ch
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous intraocular-pressure-proxy contact-lens sensor: corneoscleral mechanical strain is read via embedded Pt-Ti gauges and broadcast over a passive LC telemetry link. Anticipates: contact-lens biomechanical sensors for glaucoma; passive-LC-telemetry contact-lens architectures requiring no on-lens battery; the 24-hour continuous IOP-monitoring use case for any successor optical or fluidic ocular device.
+
+## Coulomb-Controlled Iontophoresis Ocular Patch (EyeGate II) (2010)
+
+- **id**: `eljarrat-2010-iontophoresis-ocular-patch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EyeGate Pharmaceuticals (later Kiora Pharmaceuticals); Domb Lab Hebrew University
+- **disclosure**: Eljarrat-Binstock E, Pe'er J, Domb AJ, Pharm Res 27:530-543 (2010); doi:10.1007/s11095-009-0042-9; EyeGate Pharmaceuticals product literature
+- **ip status**: patented
+- **prior art notes**: Discloses an electrokinetically-driven ocular drug delivery applicator: a cup-shaped fluidic reservoir pressed against the eye, with a charged drug formulation and controlled-current Ag/AgCl electrode driving ions across ocular barriers. Anticipates: iontophoretic ocular delivery patches; coulomb-controlled drug-dose applicators for ocular anterior segment; the architectural pattern of disposable drug-cartridge + reusable controller for trans-scleral delivery.
+
+## Verily / Alcon Smart Contact Lens for Tear-Glucose Monitoring (defunct) (2014-01-16)
+
+- **id**: `verily-alcon-glucose-contact-lens`
+- **corpus**: private
+- **device class**: other
+- **creator**: Verily Life Sciences (Google[x]) and Alcon (Novartis)
+- **disclosure**: Otis B, Parviz B, 'Introducing our smart contact lens project', Google Official Blog, 2014-01-16; subsequent Verily/Alcon licensing announcement 2014-07-15
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
 ## Beckman Biomek i5 / i7 automated workstation (2016)
 

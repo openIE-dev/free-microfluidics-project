@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-interleaved-streams`
 
-**18 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997
 
@@ -134,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosafe SA SmartMax product literature ~2010; Biosafe acquired by GE Healthcare 2014, now Cytiva; product literature 2014-2023
 - **ip status**: patented
 - **prior art notes**: Discloses a closed-system fill apparatus that transfers a cell-therapy product from a Sepax-class processing bag into a small-volume cryobag with controlled cryoprotectant addition; integrated with downstream controlled-rate freezing. Anticipates: closed-train cryopreservation fill workflow for autologous cell therapy where cryoprotectant is mixed at controlled rate during fill (managing osmotic shock to cells). Element-by-element: input cell-product bag + cryoprotectant reservoir + peristaltic mixing junction + small-volume cryobag + sterile weld interfaces.
+
+## UNITAID Medicines Patent Pool — mRNA / LNP Microfluidic Delivery (2010-07-01)
+
+- **id**: `unitaid-medicines-patent-pool-mrna-lnp`
+- **corpus**: open
+- **device class**: other
+- **creator**: Medicines Patent Pool Foundation (UNITAID-funded)
+- **disclosure**: Medicines Patent Pool Foundation founded 2010 with UNITAID funding; mRNA/LNP technology-transfer hub launched 2021-06-21 (WHO Geneva)
+- **ip status**: open-permissive
+- **prior art notes**: Reference entry for the patent-pool framework in pharma applied to microfluidic-relevant mRNA-LNP delivery. The Medicines Patent Pool, founded 2010 with UNITAID funding, established a voluntary patent-pool model for HIV, HCV, and TB drugs. In June 2021 it launched a WHO-affiliated mRNA technology-transfer hub at Afrigen Biologics (Cape Town, ZA), aimed at licensing the patents underlying mRNA-LNP vaccine manufacturing — much of which depends on microfluidic LNP formulation (existing entries: knauer-impingement-jets-mrna, moderna-mrna-continuous-process, microfluidic-mrna-vaccine-formulation). Defensive value: documents the patent-pool model as an alternative to bilateral licensing for microfluidic-formulated drug products.
 
 ## Chemtrix Plantrix MR-series silicon-carbide microreactor (2012)
 

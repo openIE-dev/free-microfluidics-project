@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `material-cyclic-olefin-polymer`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2011
+Earliest disclosure: 2008
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## ibidi µ-Slide VI 0.4 Flow Chambers (2008)
+
+- **id**: `ibidi-flow-chambers-mu-slide-vi`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ibidi GmbH
+- **disclosure**: ibidi GmbH product datasheet 'µ-Slide VI 0.4' Cat. 80606 (2008); ibidi.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a six-channel injection-molded flow chamber on a microscope-slide-format COC substrate, designed for parallel shear-stress experiments under defined perfusion. Anticipates: parallel-channel flow chambers for cell-mechanobiology assays; COC-substrate microscopy-grade fluidic slides; the multiplex-laminar-shear architectural pattern.
 
 ## Quanterix Simoa HD-X / HD-1 Single-Molecule Array Bead Cartridge (2011)
 

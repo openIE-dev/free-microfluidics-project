@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-resistive-heater`
 
-**49 corpus entries disclose this subsystem.**
+**52 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -165,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
 
+## Picarro Cavity Ring-Down Spectrometer Microfluidic Gas Inlet System (2009)
+
+- **id**: `picarro-crds-gas-inlet`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Picarro Inc.
+- **disclosure**: Crosson ER, Appl Phys B 92:403-408 (2008); doi:10.1007/s00340-008-3135-y; Picarro Inc. product datasheets G1xxx/G2xxx series; picarro.com
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic gas inlet manifold (capillary, pressure regulator, optical cavity) coupled to cavity ring-down spectroscopy for trace gas analysis. The capillary-into-cavity architecture is a microfluidic sample-prep stage. Anticipates: gas-microfluidic inlet systems for cavity-enhanced spectroscopy; pressure-regulated capillary inlets for high-finesse optical detection; field-deployable trace-gas microfluidic analyzers.
+
 ## Werfen ACL TOP 750 Coagulation Analyzer Optical Cuvette Train (2010)
 
 - **id**: `werfen-acl-top-750-coag-optical`
@@ -275,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
 
+## Amino Labs DNA Playground (and Engineer-It Kit) (2015)
+
+- **id**: `amino-labs-dna-playground`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Amino Labs Inc. (Julie Legault)
+- **disclosure**: Amino Labs Inc. press launch 2015; amino.bio; Indiegogo campaign 2015; Hessel J et al., 'DIY-bio for kids', J Microbiol Biol Educ 2018
+- **ip status**: patented
+- **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
+
 ## CELLINK BIO X Pneumatic Bioprinthead (2016)
 
 - **id**: `cellink-bio-x-pneumatic-printhead`
@@ -364,6 +384,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
+
+- **id**: `atmo-biosciences-gas-sensing-capsule`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Atmo Biosciences (RMIT spin-out)
+- **disclosure**: Kalantar-zadeh K et al., Nature Electronics 1:79-87 (2018); doi:10.1038/s41928-017-0004-x; Atmo Biosciences corporate disclosures
+- **ip status**: patented
+- **prior art notes**: Discloses an ingestible capsule whose sample-prep stage is a gas-permeable membrane window that selectively admits gut gases into a heated MOX sensor chamber for real-time speciation. Anticipates: ingestible gas-sensing capsules with semi-permeable membrane sample-prep; in-vivo gut fermentation biomarker capsules; capsule architectures decoupling biological inlet (membrane) from analytical chamber (heated sensors). Specifically anticipates downstream consumer microbiome capsules and IBD diagnostic ingestibles.
 
 ## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
 

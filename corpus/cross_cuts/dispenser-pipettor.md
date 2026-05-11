@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dispenser-pipettor`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MicroFab Technologies Inc. (Plano, TX) JetLab and MJ-series datasheets; microfab.com; founder David B. Wallace
 - **ip status**: patented
 - **prior art notes**: Note: an existing microfab-piezo-droplet-dispenser corpus entry exists; this entry pins specific MJ-AT/MJ-AB product lines and the JetLab platform. Discloses a glass-tube DOD dispenser with a radial piezo annulus around a drawn borosilicate glass capillary terminating in a precision orifice (typically 30–80 µm), driven by tunable bipolar waveforms to produce satellite-free single droplets in the 10 pL to 200 pL range. Anticipates: (a) the standard 'research-grade DOD dispenser' format used by virtually all academic inkjet-printing labs, (b) bipolar waveform shaping for satellite suppression, (c) coupled XY-stage (JetLab) platform as a flexible R&D inkjet workbench. Predicate to many subsequent commercial dispensers including SciTech Korea SPJ-100 and TTP Mosquito-derived heads.
+
+## DVS Sciences / Fluidigm CyTOF Mass Cytometry Patent Family (2007)
+
+- **id**: `fluidigm-cytof-mass-cytometry-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: DVS Sciences (acquired by Fluidigm 2014, now Standard BioTools)
+- **disclosure**: US8525107; US8101368; US8278116; US8679858 originally assigned to DVS Sciences (Bandura, Tanner et al.), acquired by Fluidigm 2014-02-13 for $207.5M
+- **ip status**: patented
+- **prior art notes**: DVS-originated, Fluidigm-acquired patent family covering mass cytometry (CyTOF). Anchors claims around: (a) labeling antibodies with chelated lanthanide isotopes for mass-spectrometric readout; (b) introducing single cells in suspension via a nebulizer-microfluidic interface to ICP-TOF-MS; (c) per-cell isotope counting yielding multi-parametric protein-expression vectors; (d) data analytics for high-dimensional mass-cytometry data. Companion entries already in corpus: fluidigm-helios-mass-cytometry, standard-biotools-mass-cytometry-cytof. This entry maps the licensable patent estate that anchored the $207.5M DVS acquisition. Expiry: 2027-2031.
 
 ## Vanrx SA25 Aseptic Filling Workcell (now Cytiva Microcell Vial Filler) (2015)
 

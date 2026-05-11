@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**68 corpus entries disclose this subsystem.**
+**79 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kumar, A.; Whitesides, G. M. Features of gold having micrometer to centimeter dimensions can be formed through a combination of stamping with an elastomeric stamp and an alkanethiol 'ink' followed by chemical etching. Appl. Phys. Lett. 1993, 63, 2002–2004. DOI: 10.1063/1.110628
 - **ip status**: patented
 - **prior art notes**: The foundational disclosure of microcontact printing: a PDMS stamp inked with alkanethiol creates a self-assembled monolayer pattern on gold, which serves as etch mask for sub-micron metal features. Anticipates: PDMS-stamp pattern transfer as a category, µCP for biological-pattern definition (proteins, cells), and the entire elastomeric-stamp lineage that enabled Duffy 1998's PDMS microchannel work five years later.
+
+## Whitesides Soft Lithography Patent Family (1996-12-12)
+
+- **id**: `whitesides-patent-family-soft-lithography`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: President and Fellows of Harvard College (George Whitesides et al.)
+- **disclosure**: US6033928 priority 1996-12-12; US6322951; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides foundational soft-lithography patent family. Anchors claims around: (a) replica molding of an elastomeric stamp from a master patterned by photolithography; (b) microcontact printing of a self-assembled monolayer using the stamp; (c) use of PDMS as the elastomer; (d) fabrication of microfluidic structures by sealing a molded PDMS slab against a flat substrate. Companion academic disclosures already in corpus: duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, kumar-whitesides-1993-microcontact-printing. Expiry: 2016-2018 for earliest members; the bulk of the technique is now public domain. Defensive: any entity asserting against PDMS replica molding faces 25+ years of public-domain prior art.
 
 ## Rapid prototyping of microfluidic systems in PDMS (1998)
 
@@ -45,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The canonical soft-lithography review enumerating microcontact printing (µCP), replica molding (REM), microtransfer molding (µTM), micromolding in capillaries (MIMIC), and solvent-assisted micromolding (SAMIM). Cited as the standard reference for the entire family of elastomer-based pattern-transfer techniques. Anticipates: µCP for SAM patterning, REM for PDMS device fabrication, and the framing of soft lithography as a unified set of pattern-transfer techniques distinct from photolithography. Companion to Duffy 1998 which is the specific PDMS-microfluidics implementation.
 
+## PDMS-Glass Plasma Bonding Methodology Patent Family (1999)
+
+- **id**: `whitesides-patent-pdms-glass-plasma-bonding`
+- **corpus**: academic
+- **device class**: other
+- **creator**: President and Fellows of Harvard College (Whitesides group)
+- **disclosure**: Method disclosed in Duffy et al. Anal. Chem. 1998 (doi:10.1021/ac980656z) and Whitesides-group continuations; no enforceable composition-of-matter patent broadly asserted; covered in US6645432 (related apparatus) and Harvard practice notes
+- **ip status**: public-domain
+- **prior art notes**: Defensive entry recording the PDMS-glass oxygen-plasma bonding methodology as effectively public-domain. Anchors negative-claim status that: (a) exposing PDMS surface to O2 or air plasma to generate silanol groups; (b) bringing such activated surface into contact with similarly treated borosilicate glass; (c) forming Si-O-Si covalent bonds creating an irreversible, leak-tight seal — none of these are validly patentable in 2026 because the technique was disclosed in Duffy 1998 and was widely practiced before the priority date of any later assertion. Defensive value: any patent attempting to claim O2-plasma PDMS-glass bonding can be invalidated by Duffy 1998 plus this disclosure timestamp. Cited apparatus patent US6645432 covers a specific plasma-chamber implementation, not the general method.
+
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 
 - **id**: `unger-2000-quake-monolithic-membrane-valve`
@@ -64,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beebe, D. J.; Moore, J. S.; Bauer, J. M.; Yu, Q.; Liu, R. H.; Devadoss, C.; Jo, B.-H. Functional hydrogel structures for autonomous flow control inside microfluidic channels. Nature 2000, 404, 588–590. DOI: 10.1038/35007047
 - **ip status**: patented
 - **prior art notes**: Disclosed pH-responsive hydrogel structures photopatterned in situ inside microchannels to act as autonomous valves and chemostat-like sensors. Anticipates: in-channel photopolymerized hydrogel valves, stimulus-responsive autonomous flow regulation, and the entire 'smart hydrogel' microfluidics subfield. Among the most-cited microfluidics papers and a foundational primitive distinct from Quake-style pneumatic valves.
+
+## Quake Lab MLSI Monolithic Membrane Valve Patent Family (2000-04-07)
+
+- **id**: `quake-patent-family-mlsi-monolithic-membrane-valve`
+- **corpus**: academic
+- **device class**: other
+- **creator**: California Institute of Technology (Stephen Quake et al.)
+- **disclosure**: US6408878 priority 2000-04-07; US6929030; US7144616; US7704698; US7837946 (Caltech)
+- **ip status**: patented
+- **prior art notes**: Caltech/Quake monolithic-membrane valve patent family. Anchors claims around: (a) two-layer PDMS device in which a flow channel is occluded by deflection of a thin elastomeric membrane via pressurization of an orthogonal control channel; (b) push-down geometry where the control channel sits above the flow channel; (c) push-up geometry where the control channel sits below; (d) integration of large arrays of such valves on a single monolithic device (microfluidic large-scale integration); (e) peristaltic pump architectures using three valves in series; (f) multiplexer trees that address N flow lines with log2(N) control lines. These claims are the licensing root that Fluidigm built its IFC controller, BioMark dynamic array, Access Array, C1 single-cell, and Helios CyTOF business on. Anticipates virtually any PDMS multilayer monolithic valve device unless distinguished by materials (non-PDMS), actuation (non-pneumatic), or geometry (non-membrane closure). Defensive importance: the underlying Unger 2000 paper (already in corpus as unger-2000-quake-monolithic-membrane-valve) is the academic disclosure; this entry is the patent-family disclosure that maps the asserted claim landscape. Earliest US priority is 2000-04-07. Estimated US expiry 2020-2025 depending on family member.
 
 ## Dynamic pattern formation in a vesicle-generating microfluidic device (2001)
 
@@ -174,6 +204,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beebe, D. J.; Mensing, G. A.; Walker, G. M. Physics and applications of microfluidics in biology. Annu. Rev. Biomed. Eng. 2002, 4, 261–286. DOI: 10.1146/annurev.bioeng.4.112601.125916
 - **ip status**: patented
 - **prior art notes**: Beebe-group establishment of in-channel PEGDA hydrogel photopatterning as a route to autonomous valve and trap structures. Subsequent papers (post Beebe 2000 Nature) demonstrated systematic PEGDA structure formation, sub-100 µm feature definition, and biocompatible cell encapsulation in situ. Anticipates: PEGDA as the canonical photopatternable hydrogel for chips, distinct from the alginate-bead and gelatin approaches.
+
+## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
+
+- **id**: `quake-patent-family-digital-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: California Institute of Technology / Stanford (Stephen Quake et al.)
+- **disclosure**: US7459315 priority 2003-04-03; US8124032; US8252539 (Caltech / Stanford-derived inventors)
+- **ip status**: patented
+- **prior art notes**: Quake-group digital-PCR patent family covering on-chip partitioning of a nucleic-acid sample into a large array of independent reactors followed by amplification and Poisson-statistical absolute quantification. Anchors claims around: (a) MLSI valve isolation of an array of nL/pL reaction chambers; (b) loading dilute template such that chambers contain 0 or 1 target by Poisson distribution; (c) thermal cycling and end-point fluorescence readout per chamber; (d) absolute quantification by counting positive partitions. Different family from droplet-based ddPCR (RainDance/QuantaLife/Bio-Rad lineage) but co-anticipates the absolute-quantification claim space. Vogelstein-Kinzler 1999 (vogelstein-kinzler-1999-digital-pcr) is the conceptual prior art. This patent family fed Fluidigm BioMark digital-array chemistry. Expiry: family members 2023-2026.
+
+## Quake Lab Droplet Flow-Focusing Patent Family (2003-09-15)
+
+- **id**: `quake-patent-family-droplet-flow-focusing`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: President and Fellows of Harvard College (Anna, Bontoux, Stone, Quake)
+- **disclosure**: US7268167 priority 2003-09-15; US7375085; both assigned originally to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard-anchored patent family covering hydrodynamic flow-focusing droplet generation. Anchors claims around: (a) a microfluidic device with an inner phase channel meeting two outer continuous-phase channels at an orifice; (b) generation of monodisperse droplets via Rayleigh-Plateau breakup at the orifice; (c) independent control of droplet diameter via continuous-phase flow rate while inner-phase flow rate sets generation frequency; (d) chip geometry compatible with PDMS soft lithography. Anticipates flow-focusing droplet-generator chips in microfluidic context. Underlying Anna 2003 paper (anna-2003-flow-focusing-droplet) is the published companion. The patent family was a precursor for the licensing chains that fed RainDance, QuantaLife, and 10x Genomics droplet platforms. Expiry: ~2023-2024 for earliest members, but continuations may extend coverage on specific geometries.
+
+## Fluidigm BioMark Dynamic Array Chemistry Patent Family (2004)
+
+- **id**: `fluidigm-patent-family-biomark-dynamic-array`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7820427; US8420017; US8475743; US9663819 (Fluidigm Corporation)
+- **ip status**: patented
+- **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
 
 ## OpenWetWare Community Wiki (2005)
 
@@ -315,6 +375,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed elastomeric features whose pressure-deformation response selectively passes flow at specific frequencies — frequency-specific microfluidic logic gates without active elements. Provides a pure-passive alternative to Quake valves for many on-chip control tasks. Anticipates: frequency-domain microfluidic logic, passive frequency filters as flow control, and architectural designs that eliminate external pneumatic control.
 
+## Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) (2009)
+
+- **id**: `wong-2009-saliva-oscc-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: David T.W. Wong group, UCLA School of Dentistry
+- **disclosure**: Wei F, Patel P, Liao W, et al., Clinical Cancer Research 15(13):4446-4452 (2009); doi:10.1158/1078-0432.CCR-09-0050
+- **ip status**: patented
+- **prior art notes**: Discloses an electrochemical microfluidic chip for direct multiplex detection of salivary RNA biomarkers in unamplified oral fluid for oral squamous cell carcinoma diagnosis. Anticipates: amplification-free salivary mRNA diagnostic cartridges using electrode-functionalized capture probes; PDMS chips integrating RNA-detection-from-saliva for oral cancer; the four-biomarker IL-8/IL-1B/S100P/OAZ1 panel itself for any downstream POC cartridge.
+
 ## Lung-on-a-chip (2010)
 
 - **id**: `huh-2010-lung-on-chip`
@@ -374,6 +444,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Huh, D.; Hamilton, G. A.; Ingber, D. E. From 3D cell culture to organs-on-chips. Trends Cell Biol. 2011, 21, 745–754. DOI: 10.1016/j.tcb.2011.09.005
 - **ip status**: patented
 - **prior art notes**: Wyss-Institute consolidating publication establishing the 'organ-on-chip' research program — direct architectural and IP ancestor of the Emulate Inc. commercial platform. Ingber group's organ-chip lineage covers lung-on-chip (Huh 2010), gut-on-chip, kidney-on-chip, blood-brain-barrier-on-chip and others, all sharing the dual-channel PDMS architecture with vacuum-driven mechanical strain.
+
+## Quake/Stanford Bead-in-Droplet Single-Cell Encapsulation Patent Family (2010)
+
+- **id**: `quake-patent-family-bead-droplet-single-cell`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Board of Trustees of the Leland Stanford Junior University (Quake et al.) and co-inventors
+- **disclosure**: US8748094; US9695468; US9856530 and continuations (Stanford / co-assigned with collaborators)
+- **ip status**: patented
+- **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
+
+## Genalyte Maverick Silicon-Photonic Microring Resonator Diagnostic (2010)
+
+- **id**: `genalyte-maverick-silicon-photonic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Genalyte Inc.
+- **disclosure**: Iqbal M et al., IEEE J Sel Top Quantum Electron 16:654-661 (2010); doi:10.1109/JSTQE.2009.2032510; Genalyte Maverick product literature; FDA 510(k) K183052
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-photonic microring biosensor array integrated with a PDMS microfluidic flow cell for multiplex label-free serology. Anticipates: silicon-photonic POC diagnostic cartridges; multiplex microring-resonator serology architectures; integration of silicon-photonic biosensors with disposable polymer fluidic flow cells.
 
 ## Microfluidic bioreactor for individual yeast cells (2011)
 
@@ -494,6 +584,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bhushan, A.; Senutovitch, N.; Bale, S. S.; McCarty, W. J.; Hegde, M.; Jindal, R.; Golberg, I.; Berk Usta, O.; Yarmush, M. L.; Vernetti, L.; Gough, A.; Bakan, A.; Shun, T. Y.; Biasio, R.; Taylor, D. L. Towards a three-dimensional microfluidic liver platform for predicting drug efficacy and toxicity in humans. Stem Cell Res. Ther. 2013, 4, S16. DOI: 10.1186/scrt377
 - **ip status**: patented
 - **prior art notes**: Disclosed 3D liver-on-chip: hepatocyte sandwich-culture in microfluidic perfusion device for hepatotoxicity drug screening. Architecturally an organ-chip variant emphasizing 3D tissue rather than dual-channel architecture. Anticipates: 3D-cultured-hepatocyte microfluidic platform, and the drug-induced-liver-injury (DILI) screening application that drove much of the early commercial organ-chip market.
+
+## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
+
+- **id**: `broad-institute-drop-seq-patent-family`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard / Steve McCarroll laboratory
+- **disclosure**: US10221442 priority 2014; US20170029873; WO2014210353 (Broad Institute / Harvard / Steve McCarroll lab)
+- **ip status**: patented
+- **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
 
 ## Emulate Inc. Organ-Chip platform (2014)
 
@@ -634,6 +734,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 1CellBio inDrop product launch 2017; Klein et al., Cell 161:1187 (2015) doi:10.1016/j.cell.2015.04.044 (academic origin)
 - **ip status**: patented
 - **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.
+
+## uFluidix Open Educational Chip Kit (2017)
+
+- **id**: `ufluidix-educational-chip-kit`
+- **corpus**: open
+- **device class**: consumable-bulk
+- **creator**: uFluidix Inc.
+- **disclosure**: uFluidix Inc. educational product page; ufluidix.com/education
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an open undergrad microfluidic kit including PDMS chip designs (droplet, gradient, herringbone) released under permissive license. Anticipates: open-source educational microfluidic chip libraries; reference designs for undergraduate teaching of canonical microfluidic primitives.
 
 ## DBiT-seq spatial multi-omics on chip (2020)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-laser-cutting`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002
 
@@ -74,6 +74,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wijnen B., Hunt E.J., Anzalone G.C., Pearce J.M., 'Open-source syringe pump library', PLoS ONE 9(9):e107216, 22 Sept 2014; doi:10.1371/journal.pone.0107216; design files at https://www.appropedia.org/Open-source_syringe_pump
 - **ip status**: open-copyleft
 - **prior art notes**: Discloses a fully open-source 3D-printable syringe pump library: a NEMA 17 stepper motor drives an Acme threaded rod that translates a printed pusher block on linear rods, displacing a standard medical syringe. Control is via Arduino + a RepRap-style stepper driver, with G-code or serial command input. The publication releases STL/OpenSCAD parametric source, BOM with Digi-Key part numbers, calibration script, and benchmarks volumetric accuracy (<1% over 0.5-30 mL range) and minimum dispensable volume. CC-BY-SA / GPL release. Anticipates: any patent claim covering '3D-printed syringe pump assemblies driven by a stepper-motor-and-leadscrew with open firmware controlling dispense rate by step count' as of Sept 2014. Foundational prior art for the entire 'open syringe pump' lineage including Poseidon (which explicitly cites it), countless thesis instruments, and the Klipper-driven syringe pump line. Element-by-element discloses: parametric printed frame, leadscrew-translated syringe pusher, syringe-barrel clamping, microstepping volume calibration, and parallelization by chaining drivers on a single MCU.
+
+## Carolina Biological Supply Microfluidic Teaching Kit (Lab-on-a-Chip Investigation) (2016)
+
+- **id**: `carolina-biological-microfluidic-teaching-kit`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Carolina Biological Supply Company
+- **disclosure**: Carolina Biological Supply Company catalog 'Lab-on-a-Chip Investigation' kit; carolina.com
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a packaged classroom microfluidics kit for high-school and intro-college biology, including chips, dyes, and instructor materials. Anticipates: educational chip-and-curriculum bundles for high-school biology; gravity-driven flow as pedagogical alternative to syringe pumps in teaching.
+
+## Microneedle Ocular Patch for Posterior-Segment Drug Delivery (2020)
+
+- **id**: `thakur-2020-microneedle-ocular-patch`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Multiple academic groups (Donnelly lab Queen's Belfast; Prausnitz lab Georgia Tech)
+- **disclosure**: Thakur Singh RR et al., Acta Biomaterialia 108:294-306 (2020); doi:10.1016/j.actbio.2020.03.039
+- **ip status**: patented
+- **prior art notes**: Discloses ocular microneedle patches as an alternative to intravitreal injection for delivering anti-VEGF, corticosteroid, and small-molecule therapeutics to the posterior eye. Hollow variants integrate microfluidic channels for active perfusion. Anticipates: ocular microneedle patches with integrated microfluidic perfusion; trans-scleral sustained-release microneedle architectures; eye-drop-replacement consumer microneedle formats including the speculative Verily/EyeDrop ML systems.
 
 ## Nix Hydration Biosensor (2021-09-22)
 

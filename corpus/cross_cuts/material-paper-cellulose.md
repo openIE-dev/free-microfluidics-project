@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `material-paper-cellulose`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Martinez, A. W.; Phillips, S. T.; Butte, M. J.; Whitesides, G. M. Patterned paper as a platform for inexpensive, low-volume, portable bioassays. Angew. Chem. Int. Ed. 2007, 46, 1318–1320. DOI: 10.1002/anie.200603817
 - **ip status**: patented
 - **prior art notes**: The paper that established paper-based microfluidic analytical devices (µPADs) as a category. Anticipates: hydrophobic patterning of cellulose paper to define fluid channels, capillary-driven flow without external pumps, multiplex colorimetric assays on a single paper substrate. The entire low-resource diagnostic paper-fluidics field descends from this disclosure.
+
+## Whitesides Paper Microfluidics Patent Family (2007-10-12)
+
+- **id**: `whitesides-patent-family-paper-microfluidics`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: President and Fellows of Harvard College (Martinez, Phillips, Carrilho, Whitesides et al.)
+- **disclosure**: US7882415 priority 2007-10-12; US8470611; assigned to President and Fellows of Harvard College
+- **ip status**: patented
+- **prior art notes**: Harvard/Whitesides paper-microfluidics (microPAD) patent family. Anchors claims around: (a) cellulose paper substrate patterned with hydrophobic barriers (initially photoresist, then wax) defining hydrophilic channels for capillary fluid flow; (b) multi-zone paper devices with sample, reaction, and detection regions; (c) colorimetric assay readout via patterned reagent zones; (d) folded 3D paper microfluidic stacks. Companion academic disclosure: martinez-2007-paper-microfluidics, whitesides-2010-mu-pads-systematic. Anticipates paper-microfluidic POC cartridges for nutrition, infectious-disease, urinalysis, and metabolic-panel applications. Expiry: ~2027-2029 for original family.
 
 ## Thermo Fisher Phadia 2500 Allergy/Autoimmune ImmunoCAP Cartridge (2008)
 

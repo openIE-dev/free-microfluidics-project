@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-multiplex-cartridge`
 
-**122 corpus entries disclose this subsystem.**
+**131 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964
 
@@ -245,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Asher's Polity autodocs are the most extensively-described autonomous bedside platforms in published SF — he repeatedly devotes pages of technical exposition to their internal subsystems, including microfluidic distribution networks, integrated synthesis chambers, multi-arm surgical end-effectors, and AI-supervised differential diagnosis. Architecturally discloses every subsystem of an integrated bedside autonomous trauma-care platform: real-time multi-analyte assay; on-demand drug synthesis; mechanical surgical intervention; tissue printing; and neural-interface diagnostic capability. The Polity series collectively constitutes a multi-decade fictional design exercise of this device category. Particularly strong 102 prior art for portable / field-deployable autodoc patents because Asher specifically depicts both hospital-grade and field-grade variants.
 
+## Pacific Biosciences SMRT Cell Patent Family (2002)
+
+- **id**: `pacbio-smrt-cell-patent-family`
+- **corpus**: private
+- **device class**: nanofluidic-chip
+- **creator**: Pacific Biosciences of California Inc.
+- **disclosure**: US7170050; US7476503; US7906284; US10208329; US7820983 (Pacific Biosciences)
+- **ip status**: patented
+- **prior art notes**: Pacific Biosciences SMRT Cell patent family. Anchors claims around: (a) array of sub-wavelength (~70 nm) zero-mode waveguides on a fused-silica substrate clad with aluminum; (b) single-molecule polymerase tethered at the bottom of each ZMW; (c) phospholinked nucleotides emitting wavelength-distinct fluorescence on incorporation; (d) total-internal-reflection-style illumination with confocal-zone selectivity per ZMW; (e) Revio (existing entry pacbio-revio-smrt-cell) and Sequel II form factors. Companion existing entry: eid-2009-pacbio-smrt. Anticipates ZMW-based single-molecule sequencing chips and any nanofluidic chip with a sub-wavelength aperture array for single-molecule confinement.
+
 ## Theranos Edison / miniLab cartridge (claimed) (2003)
 
 - **id**: `theranos-promised-cartridge`
@@ -305,6 +315,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Galactica sickbay depicted across many episodes as a multi-bed military medical bay with manual+automated diagnostics, the Cylon detection assay (an explicit cellular-level diagnostic), pregnancy tests with Cylon-specific markers, and surgical interventions. Defensive prior art for: military-grade triage bay architecture and species/origin-discriminating cellular assays at the bedside.
 
+## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
+
+- **id**: `quake-patent-family-digital-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: California Institute of Technology / Stanford (Stephen Quake et al.)
+- **disclosure**: US7459315 priority 2003-04-03; US8124032; US8252539 (Caltech / Stanford-derived inventors)
+- **ip status**: patented
+- **prior art notes**: Quake-group digital-PCR patent family covering on-chip partitioning of a nucleic-acid sample into a large array of independent reactors followed by amplification and Poisson-statistical absolute quantification. Anchors claims around: (a) MLSI valve isolation of an array of nL/pL reaction chambers; (b) loading dilute template such that chambers contain 0 or 1 target by Poisson distribution; (c) thermal cycling and end-point fluorescence readout per chamber; (d) absolute quantification by counting positive partitions. Different family from droplet-based ddPCR (RainDance/QuantaLife/Bio-Rad lineage) but co-anticipates the absolute-quantification claim space. Vogelstein-Kinzler 1999 (vogelstein-kinzler-1999-digital-pcr) is the conceptual prior art. This patent family fed Fluidigm BioMark digital-array chemistry. Expiry: family members 2023-2026.
+
 ## Peter F. Hamilton Highmotive medical pods (2004)
 
 - **id**: `hamilton-highmotive-medical-pod`
@@ -314,6 +334,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Peter F. Hamilton, Pandora's Star (Macmillan 2004); Judas Unchained (2005).
 - **ip status**: fictional
 - **prior art notes**: Highmotive medical pods are described as autonomous closed-system trauma-care units with full diagnostic, surgical, and pharmacy synthesis on board. Used in field hospitals during the Starflyer War. Defensive prior art for autonomous trauma-care pods with integrated multi-modal medical-fluid handling.
+
+## Fluidigm BioMark Dynamic Array Chemistry Patent Family (2004)
+
+- **id**: `fluidigm-patent-family-biomark-dynamic-array`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Fluidigm Corporation (now Standard BioTools)
+- **disclosure**: US7820427; US8420017; US8475743; US9663819 (Fluidigm Corporation)
+- **ip status**: patented
+- **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
+
+## McDevitt Nano-Bio-Chip for Salivary Periodontal and Cardiac Biomarker Detection (2005)
+
+- **id**: `christodoulides-2005-nano-bio-chip-perio`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: John T. McDevitt group (Univ. Texas Austin / Rice / NYU)
+- **disclosure**: Christodoulides N, Mohanty S, Miller CS, et al., Lab on a Chip 5:261-269 (2005); doi:10.1039/B414194F
+- **ip status**: patented
+- **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
 
 ## Leica Bond-III automated immunohistochemistry stainer (2007)
 
@@ -505,6 +545,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
 
+## 10x Genomics Visium Spatial Transcriptomics Patent Family (2010)
+
+- **id**: `tenx-genomics-visium-spatial-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (acquired Spatial Transcriptomics AB 2018-12-12)
+- **disclosure**: US10472669 priority 2010 (Spatial Transcriptomics AB / Karolinska); US10913975; US11078526; US11597965 (10x Genomics post-acquisition)
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Visium spatial transcriptomics patent family. Anchors claims around: (a) glass slide bearing spatially-arrayed capture probes with location-encoding barcodes; (b) tissue placement on slide and in-situ permeabilization for mRNA capture; (c) cDNA synthesis with retention of spatial barcode; (d) Visium HD (2-micron pitch) extension. Originated with Stahl/Lundeberg Karolinska 2016 paper and Spatial Transcriptomics AB; 10x Genomics acquired Spatial Transcriptomics AB on 2018-12-12 and Cartana (in situ chemistry) in 2020 for the Xenium roadmap. Companion existing entry: 10x-genomics-visium-hd, 10x-visium-hd-cytassist. Anticipates spatially-barcoded capture-array chips.
+
+## Crescendo Bioscience Vectra DA Multi-Biomarker Disease Activity Test (2010)
+
+- **id**: `crescendo-vectra-da-test`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Crescendo Bioscience Inc. (Myriad Genetics from 2014)
+- **disclosure**: Centola M et al., PLOS ONE 8:e60635 (2013); doi:10.1371/journal.pone.0060635; Crescendo Bioscience product literature (acquired by Myriad Genetics 2014); CMS LCD L34416
+- **ip status**: patented
+- **prior art notes**: Discloses a 12-plex serum-biomarker chemiluminescence cartridge (built on Meso Scale Discovery flow cells) with disease-activity-score algorithmic output for rheumatoid arthritis. Anticipates: clinical-grade multiplex chemiluminescence cartridges with reportable composite scores; serum-biomarker microfluidic flow-cell architectures coupled to ML/regression scoring algorithms.
+
 ## Beckman Coulter AU5800 Clinical Chemistry Analyzer Cuvette Wheel (2011)
 
 - **id**: `beckman-coulter-au5800-cuvette-wheel`
@@ -664,6 +724,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: James S.A. Corey, Cibola Burn (Orbit 2014) ISBN 978-0-316-21762-1; Nemesis Games (2015); Babylon's Ashes (2016); The Expanse TV (Syfy/Amazon 2015-2022).
 - **ip status**: fictional
 - **prior art notes**: MCRN warships and Free Navy ships described with combat medbays optimized for high-G casualty triage, including specialized G-couches that double as patient-perfusion stations and integrated stim-injectors. Defensive prior art for high-G combat medical bays with combined patient-restraint + perfusion systems.
+
+## 10x Genomics Xenium In-Situ Patent Family (2014)
+
+- **id**: `tenx-genomics-xenium-in-situ-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics Inc. (acquired ReadCoor 2020-10-12 for $350M and Cartana 2020-11-23)
+- **disclosure**: US10227639 (ReadCoor / Wyss Institute origin); US11459611; US11788123 (10x Genomics post-acquisition); US10227639 priority 2014
+- **ip status**: patented
+- **prior art notes**: 10x Genomics Xenium / In Situ patent family. Combines the ReadCoor (Wyss Institute, George Church origin) FISSEQ technology and the Cartana (Mats Nilsson origin) padlock-probe in-situ chemistry. Anchors claims around: (a) padlock probes targeting specific transcripts; (b) rolling-circle amplification of bound padlocks creating amplicons in tissue; (c) sequential hybridization rounds with fluorescent decoder probes; (d) decoding amplicon barcodes to identify transcripts at subcellular resolution; (e) Xenium Analyzer fluidic / imaging instrument. Existing companion entries: 10x-xenium-prime-5k, vizgen-merscope (competitor), resolve-bioscience-molecular-cartography (competitor). 10x has asserted parts of this family against Vizgen and Resolve.
 
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
@@ -835,6 +905,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-well disposable counting plate format for image cytometry: each well has an integrated optical-quality bottom window; the instrument acquires brightfield + AO/PI fluorescence images per well in parallel; total count, viable count, and viability are computed per well. The Cellaca PLX increases parallelism to 96-well plate format. Anticipates: plate-format parallel image cytometry (vs serial single-cassette NC-200/NC-3000); high-throughput cell-counting suitable for bioprocess sampling at scale. Element-by-element: multi-well disposable plate + per-well stain + multi-channel imaging + per-well cell-count algorithm.
 
+## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
+
+- **id**: `lab-on-disc-caries-detection-2018`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Multiple academic groups (KAIST, Madou-derived centrifugal microfluidics community)
+- **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
+- **ip status**: unknown
+- **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
+
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
 - **id**: `parse-biosciences-evercode`
@@ -944,6 +1024,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Logos Biosystems LUNA-FX7 product launch 2020; user manual rev 2.0; predecessor LUNA-II product literature 2014-2019
 - **ip status**: patented
 - **prior art notes**: Discloses a compact image-cytometer with a multi-chamber disposable slide (8 wells per slide) and three-channel fluorescence imaging for bioprocess/research cell counting. Architecturally similar to NucleoCounter NC-3000 and Cellaca MX; differentiated by slide form factor and 3-channel fluorescence (vs 8-channel NC-3000 or 24-well Cellaca). Anticipates: compact bench-top image-cytometer with multi-chamber disposable slide and multi-channel fluorescence for combined viability + reporter-gene measurement.
+
+## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
+
+- **id**: `quake-broad-carmen-multiplex-prep-patent`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Broad Institute / Harvard (Sabeti, Myhrvold, Ackerman)
+- **disclosure**: US Provisional 62/892,447; published as WO2021022045A1 (Broad Institute / Harvard)
+- **ip status**: patented
+- **prior art notes**: Broad Institute patent family covering CARMEN (Combinatorial Arrayed Reactions for Multiplexed Evaluation of Nucleic acids). Anchors claims around: (a) microfluidic platform for high-throughput multiplexed nucleic-acid detection using fluorescent-color-coded droplets; (b) merging of sample droplets with CRISPR-Cas13 detection-reagent droplets; (c) automated identification of droplet pairs by color barcode; (d) parallel detection of >100 pathogens per chip. Ackerman et al. Nature 2020 (myhrvold-zhang-2018-shine-crispr-on-paper covers SHINE; CARMEN is distinct) provides the academic disclosure. Defensive interest: Broad Institute is the assertive licensor in CRISPR diagnostics; this patent family overlaps Mammoth/Sherlock claim space and any droplet-pairing combinatorial diagnostic.
 
 ## Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track (2021)
 

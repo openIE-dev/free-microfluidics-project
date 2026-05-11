@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-dielectrophoresis`
 
-**14 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1951
 
@@ -104,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Liga, A.; Vliegenthart, A. D. B.; Oosthuyzen, W.; Dear, J. W.; Kersaudy-Kerhoas, M. Exosome isolation: a microfluidic road-map. Lab Chip 2015, 15, 2388–2394. DOI: 10.1039/C5LC00240K
 - **ip status**: patented
 - **prior art notes**: Composite reference for the microfluidic exosome / EV isolation subfield. Combines size-based (DLD adapted for sub-200-nm cutoff), affinity-based (immunomagnetic), and electrokinetic (DEP) strategies. Anticipates: clinical-grade microfluidic exosome isolation for liquid biopsy applications. Underlies commercial efforts by Exosome Diagnostics, NX Pharmagen, and academic spinouts.
+
+## Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor (2014)
+
+- **id**: `yu-2014-aptamer-saliva-cortisol-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Nathan S. Swami group (Univ. Virginia) with Air Force Research Laboratory aptamer collaborators
+- **disclosure**: Sanghavi BJ, Moore JA, Chávez JL, Hagen JA, Kelley-Loughnane N, Chou C-F, Swami NS, Biosens. Bioelectron. 78:244-252 (2014); doi:10.1016/j.bios.2015.11.052
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an aptamer-functionalized impedimetric microfluidic chip for cortisol detection in saliva, with AC electrokinetic sample focusing to overcome the low salivary cortisol concentration. Anticipates: aptamer-based salivary cortisol point-of-care chips; AC-electrokinetic preconcentration coupled to aptamer-functionalized electrodes for any low-abundance salivary biomarker; the architectural pattern of pre-concentrate-then-detect for saliva analytes.
 
 ## Menarini Silicon Biosystems DEPArray NxT (2016)
 

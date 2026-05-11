@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-staggered-herringbone`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bhattacharjee N., Urrios A., Kang S., Folch A., 'The upcoming 3D-printing revolution in microfluidics', Lab on a Chip 16:1720-1742 (2016); doi:10.1039/C6LC00163G; companion review and design library
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a comprehensive 3D-printed microfluidics design toolkit with free downloadable CAD files including: pressure-actuated membrane valves, T-junction droplet generators, herringbone mixers, and serpentine reactors all printable on commodity DLP-SLA printers using PEGDA-based resins. Specifically anticipates patents post-2016 claiming '3D-printed pneumatic membrane microvalves for microfluidic devices' and 'libraries of 3D-printable microfluidic components distributed as parametric CAD files.' Element-by-element discloses the membrane-deflection valve geometry achievable in stereolithography, the choice of biocompatible PEGDA resins, and the calibration of channel dimensions against printer pixel pitch.
+
+## uFluidix Open Educational Chip Kit (2017)
+
+- **id**: `ufluidix-educational-chip-kit`
+- **corpus**: open
+- **device class**: consumable-bulk
+- **creator**: uFluidix Inc.
+- **disclosure**: uFluidix Inc. educational product page; ufluidix.com/education
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an open undergrad microfluidic kit including PDMS chip designs (droplet, gradient, herringbone) released under permissive license. Anticipates: open-source educational microfluidic chip libraries; reference designs for undergraduate teaching of canonical microfluidic primitives.
 
 ## Tessera Therapeutics Gene Writing Manufacturing (2020)
 
