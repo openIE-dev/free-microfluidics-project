@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**147 corpus entries disclose this subsystem.**
+**148 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -1404,6 +1404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fozouni et al., Cell 184:323 (2021) doi:10.1016/j.cell.2020.12.001 (Cas13a-based DETECTR); Mammoth EUA application 2022-06; US11098310B2
 - **ip status**: patented
 - **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
+
+## Inside Therapeutics LNP Microfluidic Cartridge (2022-10)
+
+- **id**: `inside-therapeutics-lnp-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Inside Therapeutics SAS
+- **disclosure**: Inside Therapeutics website launch 2022-10; Inside Therapeutics LNP cartridge datasheet rev 2024; Series A press release 2023-04
+- **ip status**: patented
+- **prior art notes**: Discloses an injection-molded disposable thermoplastic LNP encapsulation cartridge for research-scale pre-clinical LNP formulation, with on-board mixer geometry and syringe-pump interface. Anticipates: low-cost disposable injection-molded LNP cartridges as an alternative to PNI Spark and Knauer IJM for early-discovery LNP formulation; specifically the cost-reduction architectural pattern of replacing glass / silicon microfluidic R&D chips with injection-molded thermoplastic cartridges.
 
 ## Sherlock Biosciences INSPECTR cartridge (2023)
 
