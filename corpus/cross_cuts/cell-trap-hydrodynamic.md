@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `cell-trap-hydrodynamic`
 
-**17 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 1890
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Couette 1890 — Concentric Cylinder Viscometer and Couette Flow (1890)
+
+- **id**: `couette-1890-concentric-cylinder-viscometer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Maurice Couette
+- **disclosure**: Couette, M. (1890). 'Etudes sur le frottement des liquides.' Annales de Chimie et de Physique Series 6, 21: 433-510; abridged Couette, M. (1890). J. Phys. Theor. Appl. 9(1): 414-417. doi:10.1051/jphystap:018900090041401
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical shear-driven flow geometry. Anchors: (a) all shear-controlled microfluidic devices including blood-cell deformability assays; (b) on-chip rheometry; (c) shear-stress-controlled cell-culture chips (vascular shear); (d) Taylor-Couette mixing reactors at small scale; (e) any flow chamber that imposes a controlled shear via a moving boundary. Anticipates patent claims reciting 'controlled shear stress on cells by parallel-plate flow chamber', 'rotating-disc on-chip shear', or 'concentric-cylinder cell-stressing geometry' insofar as the shear-flow geometry is the only novel feature.
+
+## Langevin 1908 — Stochastic Equation for Brownian Motion (1908)
+
+- **id**: `langevin-1908-stochastic-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Paul Langevin
+- **disclosure**: Langevin, P. (1908). 'Sur la theorie du mouvement brownien.' Comptes Rendus de l'Academie des Sciences (Paris) 146: 530-533.
+- **ip status**: public-domain
+- **prior art notes**: Langevin's stochastic differential equation underpins all numerical simulation of Brownian dynamics in microfluidic systems (single-particle tracking, electrokinetic transport at low ionic concentration, optical-tweezers calibration on chip). Anticipates patent claims to 'simulation-driven control of microfluidic particle trajectories' that rest on Langevin dynamics, particularly in the context of feedback-controlled trapping.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 

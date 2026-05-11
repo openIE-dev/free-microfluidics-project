@@ -6,14 +6,54 @@ layout: default
 
 # Cross-cut: `detection-label-free-imaging`
 
-**33 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2001-08-01
+Earliest disclosure: 1863
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Wilhelmy 1863 — Plate Method for Surface Tension (1863)
+
+- **id**: `wilhelmy-1863-plate-surface-tension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ludwig Wilhelmy
+- **disclosure**: Wilhelmy, L. (1863). 'Ueber die Abhaengigkeit der Capillaritaets-Constanten des Alkohols von Substanz und Gestalt des benetzten festen Koerpers.' Annalen der Physik 195(6): 177-217. doi:10.1002/andp.18631950602
+- **ip status**: public-domain
+- **prior art notes**: Discloses surface-tension measurement by force on a vertical plate at the air-liquid interface. Anchors all on-chip surface-tension sensing and contact-angle metrology approaches that derive from interfacial force balance. Anticipates patents claiming 'in-line surface tension measurement' or 'inline interfacial tension probe' to the extent they recite force-on-plate or force-on-fiber geometries.
+
+## Sutherland 1905 — Independent Derivation of Brownian Motion / Stokes-Einstein (1905-03)
+
+- **id**: `sutherland-1905-brownian-motion`
+- **corpus**: academic
+- **device class**: other
+- **creator**: William Sutherland
+- **disclosure**: Sutherland, W. (1905). 'A dynamical theory of diffusion for non-electrolytes and the molecular mass of albumin.' Philosophical Magazine Series 6, 9(54): 781-785. doi:10.1080/14786440509463331
+- **ip status**: public-domain
+- **prior art notes**: Sutherland published the equation now usually called Stokes-Einstein two months before Einstein, in the context of protein-molecular-mass determination. Provides an even earlier prior-art anchor than Einstein 1905 for any patent claim resting on Stokes-Einstein diffusion. Particularly important for invalidating patents that claim the application of D = kT / (6 pi mu r) to protein/biomolecule sizing.
+
+## Einstein 1905 — Brownian Motion and Stokes-Einstein Diffusion (1905-05-11)
+
+- **id**: `einstein-1905-brownian-motion`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Albert Einstein
+- **disclosure**: Einstein, A. (1905). 'Ueber die von der molekularkinetischen Theorie der Waerme geforderte Bewegung von in ruhenden Fluessigkeiten suspendierten Teilchen.' Annalen der Physik 322(8): 549-560. doi:10.1002/andp.19053220806
+- **ip status**: public-domain
+- **prior art notes**: The Stokes-Einstein equation governs every diffusion-limited microfluidic process: H-filter separations (Brody and Yager 1997), diffusion mixers, Taylor-Aris dispersion (combined with Aris 1956), nanoparticle sizing by FCS or NTA, and the diffusion-controlled inlet/outlet of every reagent-zone in paper microfluidics. Anticipates patent claims that recite 'separation by diffusion coefficient difference' or 'particle sizing by Brownian motion tracking' insofar as they rest on the Stokes-Einstein relation. Together with Sutherland 1905 (independent derivation) this anchors over 120 years of diffusion-based microfluidic prior art.
+
+## Langevin 1908 — Stochastic Equation for Brownian Motion (1908)
+
+- **id**: `langevin-1908-stochastic-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Paul Langevin
+- **disclosure**: Langevin, P. (1908). 'Sur la theorie du mouvement brownien.' Comptes Rendus de l'Academie des Sciences (Paris) 146: 530-533.
+- **ip status**: public-domain
+- **prior art notes**: Langevin's stochastic differential equation underpins all numerical simulation of Brownian dynamics in microfluidic systems (single-particle tracking, electrokinetic transport at low ionic concentration, optical-tweezers calibration on chip). Anticipates patent claims to 'simulation-driven control of microfluidic particle trajectories' that rest on Langevin dynamics, particularly in the context of feedback-controlled trapping.
 
 ## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
 

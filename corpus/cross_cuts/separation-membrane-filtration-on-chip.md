@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `separation-membrane-filtration-on-chip`
 
-**32 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1965
+Earliest disclosure: 1905-05-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Einstein 1905 — Brownian Motion and Stokes-Einstein Diffusion (1905-05-11)
+
+- **id**: `einstein-1905-brownian-motion`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Albert Einstein
+- **disclosure**: Einstein, A. (1905). 'Ueber die von der molekularkinetischen Theorie der Waerme geforderte Bewegung von in ruhenden Fluessigkeiten suspendierten Teilchen.' Annalen der Physik 322(8): 549-560. doi:10.1002/andp.19053220806
+- **ip status**: public-domain
+- **prior art notes**: The Stokes-Einstein equation governs every diffusion-limited microfluidic process: H-filter separations (Brody and Yager 1997), diffusion mixers, Taylor-Aris dispersion (combined with Aris 1956), nanoparticle sizing by FCS or NTA, and the diffusion-controlled inlet/outlet of every reagent-zone in paper microfluidics. Anticipates patent claims that recite 'separation by diffusion coefficient difference' or 'particle sizing by Brownian motion tracking' insofar as they rest on the Stokes-Einstein relation. Together with Sutherland 1905 (independent derivation) this anchors over 120 years of diffusion-based microfluidic prior art.
 
 ## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
 
@@ -24,6 +34,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; pages 110-112 'Manual of Muad'dib' detailing stillsuit construction.
 - **ip status**: fictional
 - **prior art notes**: Original 1965 published description of a wearable, closed-loop body-fluid reclamation suit. Herbert's text gives unusually engineering-grade specifics: 'a high-efficiency filter and heat-exchange system. The skin-contact layer's perspiration passes through it, having cooled the body, and is reclaimed... your motions in the suit, especially of breathing and some osmotic action, provide the pumping force. Reclaimed water circulates to catchpockets from which you draw it through this tube...'. Architecturally anticipates: wearable closed-loop microfluidic body-water reclamation, breath/perspiration capture and recycling, body-motion-driven peristaltic pumping, and integrated drinking-tube delivery. The 1965 first publication date is one of the strongest fictional anchors for wearable microfluidic body-fluid reclamation as a concept (~60-year defensive prior art window).
+
+## Asahi Kasei Microza UF/MF hollow-fiber modules (1980)
+
+- **id**: `asahi-kasei-microza-uf-mf`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Asahi Kasei Corporation
+- **disclosure**: Asahi Kasei Microza commercial introduction (1980s); https://www.asahi-kasei.com/separation/microza/; JP4500411B2.
+- **ip status**: patented
+- **prior art notes**: Discloses polyacrylonitrile and PVDF hollow-fiber tangential-flow-filtration modules across UF (MWCO 6-150 kDa) and MF (0.1-0.65 µm) pore sizes, with module geometries from 0.05 m² lab modules to 60 m² process modules; the Microza family is one of the longest-running commercial hollow-fiber pharmaceutical TFF product lines, predating most Western competitors. Anticipates: hollow-fiber TFF for biotech downstream including viral-vector concentration, perfusion cell retention, and water-for-injection prefiltration; specifically the pattern of polyacrylonitrile fibers being chosen for low protein binding in plasma fractionation and biologics applications.
+
+## Sartorius Sartocon ultrafiltration cassette family (1995)
+
+- **id**: `sartorius-sartocon-cassette`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: Sartorius Sartocon cassette family (1990s through current); https://www.sartorius.com/en/products/process-filtration/tangential-flow-filtration/cassettes-and-holders; US5868930A.
+- **ip status**: patented
+- **prior art notes**: Discloses a flat-sheet ultrafiltration cassette architecture with stacked membrane and screen layers and silicone gaskets, scalable from 85 cm² development cassettes through 2.5 m² manufacturing cassettes by stacking; Hydrosart (regenerated cellulose) and PESU membrane chemistries. Anticipates: scalable flat-sheet TFF cassette geometry for biotech upstream and downstream; specifically the design of single-vendor cassette families that maintain channel geometry and TMP-flux behavior across two orders of magnitude of membrane area; foundational prior art for any large-scale-mAb, mRNA, or vaccine TFF process.
+
+## Final Fantasy VII Mako reactor extraction process (1997)
+
+- **id**: `ff7-mako-reactor-extraction`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square / Square Enix
+- **disclosure**: Final Fantasy VII (Square 1997-01-31, JP); Final Fantasy VII Remake (Square Enix 2020-04-10) shows extraction in detail; Final Fantasy VII Rebirth (Square Enix 2024-02-29).
+- **ip status**: fictional
+- **prior art notes**: Mako reactors extract Lifestream (planetary biofluid) from underground reservoirs through industrial-scale drilling, fluid pumping, and refinement. The reactor cross-sections in FF7 Remake show settling tanks, distillation columns, and a final Materia condenser stage. Reads as prior art for: industrial planetary-fluid harvesting + multi-stage refinement architecture; large-scale settling + distillation + crystallization train; useful for 'industrial bioreservoir extraction with on-site refinement' patent claim coverage.
 
 ## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
 
@@ -105,6 +145,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a commodity catalog of pre-packed reagent cartridges that can be plumbed into any flow chemistry rig (Vapourtec, Syrris, Uniqsis, custom). Anticipates patent claims directed to: (a) pre-packed scavenger-resin cartridges with standard HPLC fittings for inline metal/byproduct scavenging in flow chemistry; (b) immobilized-enzyme cartridges as drop-in flow-chemistry biocatalyst modules; (c) polymer-supported reagent cartridges enabling stoichiometric reagent use without aqueous workup. Important commons entry because Sigma-Aldrich/Merck is the canonical chemicals supplier and their product line establishes a wide prior-art baseline against future patents on 'cartridge-format reagents for flow chemistry'.
 
+## Merck/MilliporeSigma Pellicon 3 ultrafiltration cassette (2009)
+
+- **id**: `merck-pellicon-3-cassette`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Merck KGaA / MilliporeSigma
+- **disclosure**: EMD Millipore Pellicon 3 launch 2009; https://www.emdmillipore.com/US/en/products/biopharmaceutical-manufacturing/upstream-and-downstream-processing/tangential-flow-filtration/pellicon-3-cassettes; US7959802B2.
+- **ip status**: patented
+- **prior art notes**: Discloses an ultrafiltration cassette built from Ultracel regenerated-cellulose composite membrane with a C-screen turbulence-promoting feed channel and a suspended-screen retentate flow path that provides higher mass-transfer at lower TMP than conventional cassettes. Anticipates: TFF cassette architectures using engineered turbulence-promoting screens to decouple flux from polarization in mAb and mRNA bulk drug-substance concentration; specifically the suspended-screen retentate channel as a means of reducing fouling at high product concentrations.
+
 ## Syrris Asia and Asia 320 modular flow chemistry platform (2010)
 
 - **id**: `syrris-asia-platform`
@@ -135,6 +185,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an enzymatic DNA-amplification process replacing bacterial fermentation: a parental plasmid template is amplified by Phi29 rolling-circle amplification, then processed by TelN protelomerase to cleave at TelN target sites and ligate hairpin termini, yielding a linear covalently-closed (doggybone) DNA molecule. Manufacturing fluid path: in vitro reaction vessel → digestion/cleanup → TFF concentration → AEX chromatography polishing → sterile fill. Anticipates: cell-free enzymatic DNA manufacturing as alternative to fermentation-based plasmid; protelomerase-mediated linear-covalently-closed DNA topology as a delivery cargo (no bacterial sequences, smaller, suitable for AAV/LNP packaging). Element-by-element: amplification reactor + digestion/protelomerase reactor + TFF + AEX + sterile fill.
 
+## Cytiva ULTA Hollow Fiber large-scale TFF cartridges (2010)
+
+- **id**: `cytiva-ulta-hollow-fiber`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Cytiva (formerly GE Healthcare)
+- **disclosure**: GE Healthcare ULTA Hollow Fiber product launch (now Cytiva); https://www.cytivalifesciences.com/en/us/shop/bioprocess-filtration/tangential-flow-filtration/hollow-fiber-cartridges; US7682511B2.
+- **ip status**: patented
+- **prior art notes**: Discloses large-scale hollow-fiber tangential-flow-filtration cartridges with low-shear flow geometries suitable for viral-vector and live-cell perfusion applications, spanning UF MWCO 3-750 kDa and MF pore sizes 0.1-0.65 µm, scalable to 28 m² per cartridge. Anticipates: hollow-fiber TFF cartridge families optimized for shear-sensitive species including AAV and lentivirus particles; specifically the architectural pattern of geometric scaling of fiber length, lumen diameter, and packing density across cartridge sizes while preserving shear and TMP behavior.
+
 ## GSK / CMAC Strathclyde continuous-flow API manufacturing platform (2011)
 
 - **id**: `gsk-strathclyde-cmac-continuous-api`
@@ -144,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Florence, A. J.; Johnston, A.; Price, S. L.; Nowell, H.; Kennedy, A. R.; Shankland, K. EPSRC Centre for Innovative Manufacturing in Continuous Manufacturing and Crystallisation (CMAC) launch, University of Strathclyde, 2011; Cole, K. P. et al. 'Kilogram-scale prexasertib monolactate monohydrate synthesis under continuous-flow CGMP conditions' Science 2017, 356, 1144–1150 (Eli Lilly + CMAC collaboration); CMAC Hub annual report 2015–2020
 - **ip status**: patented
 - **prior art notes**: CMAC is the principal UK academic-industrial vehicle for continuous-API process development. Discloses (a) the canonical 'continuous-from-step-1-to-API' process map for small-molecule drug substance manufacturing; (b) continuous MSMPR cascade crystallization with PAT-driven control; (c) kg-scale CGMP-grade continuous flow demonstrated in the published Lilly prexasertib paper (Science 2017); (d) the consortium model in which 7 pharma companies share IP and process methods through the CMAC framework. Anticipates many process-method claims directed to 'continuous synthesis-crystallization-isolation of [small molecule API]' that have begun to appear in pharma patent literature 2018–2024.
+
+## The Expanse Belter station water and air microfluidic recyclers (2011)
+
+- **id**: `expanse-belter-water-air-recycler`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey (Daniel Abraham & Ty Franck) / Alcon Television / Amazon Studios
+- **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011) ISBN 978-0-316-12908-4, chapters describing Ceres Station infrastructure and the Belter dependency on water/air reclaim; reinforced across The Expanse TV series Seasons 1-3 (Syfy/Amazon 2015-2018), notably S1E1 'Dulcinea' Ceres scenes and S2 'Static' Tycho engineering scenes.
+- **ip status**: fictional
+- **prior art notes**: Depicts Belter habitats sustained by closed-loop life-support infrastructure that recovers potable water from urine, sweat, and atmospheric humidity, and recovers breathable air through CO2 scrubbing and humidity capture. Scenes describe stage-wise filtration banks, ion-exchange polishing, and station-scale evaporator/condenser loops with on-line conductivity and contaminant sensing. Prior-art coverage for: serially-staged water reclaim cartridges (filtration -> ion exchange -> polishing -> chemical disinfection -> conductivity QC) sized for habitat-scale flows; humidity-condensate microchannel collectors integrated into ventilation manifolds; the architectural pattern of Belter-style scarcity-driven 99%+ closed loops on a continuously-perfused station network. Anticipates claims to integrated cartridge stacks combining multiple water-treatment microfluidic primitives in a serial card format with on-line in-line monitoring.
 
 ## Continuus Pharmaceuticals Integrated Continuous Manufacturing (ICM) platform (2012)
 
@@ -215,6 +285,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Process disclosure: facility-level integration of Cytiva's portfolio (Sefia + Xuri + Xcellerex + AKTA + Allegro + Chronicle SCADA) into a single CGT manufacturing line. Microfluidic content is the cumulative content of the integrated unit operations (each separately covered in the corpus); the FlexFactory disclosure adds the connectivity, sterile-weld topology, and SCADA orchestration. Anticipates: single-vendor turnkey CGT facility composed of pre-validated single-use sub-systems with a unified audit-trail control layer. Distinguishable from Lonza Cocoon (single-cassette per-patient) by being a multi-station modular facility rather than a closed-cassette device.
 
+## Pall Cadence Inline Concentrator (CIC) (2014)
+
+- **id**: `pall-cadence-inline-concentrator`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Pall Corporation (Cytiva, Danaher)
+- **disclosure**: Pall Cadence Inline Concentrator launch (2014); USP10093552B2; https://www.pall.com/en/biotech/products/single-use-tff/cadence-inline-concentrator.html.
+- **ip status**: patented
+- **prior art notes**: Discloses a single-pass tangential flow filtration (SPTFF) module that achieves 5-25x concentration in a single pass by stacking ultrafiltration cassettes hydraulically in series, eliminating the recirculation loop and large retentate hold-up volume of conventional TFF. Anticipates: inline single-pass TFF as a continuous bioprocess unit operation; specifically the architecture of cassette stacks plumbed in series with progressively smaller channel cross-sections to maintain crossflow velocity as concentration increases; relevant prior art for continuous mRNA-LNP, mAb, and AAV concentration steps.
+
+## Cytiva ÄKTA Flux 6 laboratory TFF system (2014)
+
+- **id**: `cytiva-akta-flux-6`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare ÄKTA flux launch 2014 (now Cytiva); https://www.cytivalifesciences.com/en/us/shop/chromatography/systems/akta-flux; product datasheet 29017360 AC.
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop laboratory TFF system that shares UNICORN control and method-editor architecture with the ÄKTA chromatography family, supporting both hollow-fiber and flat-sheet cassettes, with feed-pump, retentate-valve, and permeate-pump control plus inline UV-Vis and conductivity monitoring. Anticipates: lab-scale TFF systems unified with chromatography skid control software for end-to-end process automation in development; specifically the architectural pattern of single-vendor unified control across orthogonal unit operations enabling integrated downstream development workflows.
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -245,6 +335,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use fixed-bed bioreactor with proprietary structured packing (tightly-controlled void fraction and fluid distribution geometry) that achieves uniform perfusion through the cell-bearing matrix at high cell densities. The hydro variant is the small-scale (sub-200 mL working volume) sister product targeting process development. Anticipates: structured-packing fixed-bed perfusion bioreactor design for viral vector manufacturing where the packing geometry, not random ceramic discs (Pall iCellis), defines flow distribution; integration of bioreactor + on-deck concentration step (NevoLine) into a single intensified train. Element-by-element: media inlet manifold + structured-packed bed + outlet manifold + integrated downstream concentration loop.
 
+## Repligen ProConnex single-use TFF flow path (2017)
+
+- **id**: `repligen-proconnex-single-use-tff`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Repligen Corporation
+- **disclosure**: Repligen ProConnex product literature; Repligen Annual Report 2017 (Spectrum acquisition); https://www.repligen.com/products/proconnex.
+- **ip status**: patented
+- **prior art notes**: Discloses a pre-assembled gamma-irradiated single-use tangential-flow-filtration flow path comprising hollow-fiber filter cartridge, integrated tubing manifold, sterile connectors, retentate and permeate sample ports, and pressure transducers; the flow path is designed to drop into a reusable TFF skid (KrosFlo). Anticipates: pre-rigged single-use flow paths for TFF that eliminate operator assembly errors, reduce changeover time, and enable rapid GMP product changeover; specifically the architectural pattern where a sterilized closed-system disposable replaces a stainless-steel-tubing assembly between batches in mRNA, AAV, and exosome polishing.
+
+## Pall Cadence Inline Diafiltration (CID) (2017)
+
+- **id**: `pall-cadence-inline-diafiltration`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Pall Corporation
+- **disclosure**: Pall Cadence Inline Diafiltration launch press release 2017; https://www.pall.com/en/biotech/products/single-use-tff/cadence-inline-diafiltration.html; USP10675586B2.
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous single-pass diafiltration module: a stack of ultrafiltration cassettes plumbed for countercurrent buffer addition between cassettes, achieving complete buffer exchange in a single pass without the recirculation tank required by conventional batch diafiltration. Anticipates: inline continuous diafiltration unit operations integrated with SPTFF concentration in continuous bioprocess trains; specifically the architectural pattern of countercurrent buffer addition between TFF stages; relevant prior art for end-to-end continuous mRNA, mAb, and AAV downstream-process trains.
+
 ## Asahi Kasei Planova S20N continuous virus filter (2018)
 
 - **id**: `asahi-kasei-planova-s20n`
@@ -264,6 +374,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Adamo, A.; Beingessner, R. L.; Behnam, M.; Chen, J.; Jamison, T. F.; Jensen, K. F. et al. 'On-demand continuous-flow production of pharmaceuticals in a compact, reconfigurable system' Science 2016, 352, 61–67; On Demand Pharmaceuticals Inc. founding 2018 (DARPA Pharmacy-on-Demand spinout); DARPA BAA 'Pharmacy on Demand' (PoD) program announcement 2014; FDA EUA submission 2020 hydroxychloroquine continuous manufacturing
 - **ip status**: patented
 - **prior art notes**: Direct commercial descendant of the Adamo 2016 MIT science paper. Discloses (a) refrigerator-sized footprint as design constraint for distributed pharmaceutical manufacturing — a more aggressive miniaturization target than Continuus ICM; (b) full reconfigurability across multiple drug products in the same hardware via swappable reaction-module cassettes; (c) DARPA-validated military-deployable form factor; (d) explicit goals around forward-deployed and disaster-response pharmaceutical manufacturing. Anticipates patent claims to compact (sub-cubic-meter) reconfigurable continuous-flow pharmaceutical manufacturing systems.
+
+## Sartorius Sartoflow Smart benchtop TFF skid (2018)
+
+- **id**: `sartorius-sartoflow-smart`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: Sartorius Sartoflow Smart product launch 2018; https://www.sartorius.com/en/products/process-filtration/tangential-flow-filtration/sartoflow-smart; product datasheet rev 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop tangential-flow-filtration skid with single-use cassette compatibility, integrated transmembrane-pressure and crossflow-rate feedback control, recipe-driven automation, and an SCADA-style HMI; the skid handles process volumes from 50 mL through 5 L. Anticipates: benchtop development-scale TFF systems with closed-loop TMP/permeate-flux control and recipe automation; specifically the architectural pattern for late-process-development and clinical-scale mRNA, AAV, and mAb buffer-exchange / concentration steps where benchtop scale must mirror manufacturing-scale TFF behavior.
 
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 

@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**25 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1953
+Earliest disclosure: 1879
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Helmholtz 1879 — Electrical Double Layer and Electroosmosis (1879)
+
+- **id**: `helmholtz-1879-electrokinetic-double-layer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hermann von Helmholtz
+- **disclosure**: Helmholtz, H. v. (1879). 'Studien ueber elektrische Grenzschichten.' Annalen der Physik und Chemie 243(7): 337-382. doi:10.1002/andp.18792430702
+- **ip status**: public-domain
+- **prior art notes**: Discloses the electrical-double-layer concept that anchors all electrokinetic microfluidic phenomena: electroosmotic flow, electrophoresis, streaming potential, sedimentation potential, dielectrophoresis (in part). Predates Smoluchowski 1903's quantitative slip-velocity by 24 years. Anticipates broad patent claims to 'voltage-controlled flow', 'surface-charge-modulated transport', or 'streaming-potential sensing on a chip' insofar as they recite the underlying double-layer physics.
+
+## Smoluchowski 1903 — Electroosmotic Velocity Equation (1903)
+
+- **id**: `smoluchowski-1903-electroosmosis-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Marian Smoluchowski
+- **disclosure**: Smoluchowski, M. v. (1903). 'Contribution a la theorie de l'endosmose electrique et de quelques phenomenes correlatifs.' Bulletin International de l'Academie des Sciences de Cracovie 8: 182-200.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Helmholtz-Smoluchowski equation, which is THE governing relation for all electroosmotic-flow microfluidic devices. Every capillary electrophoresis chip, every electrokinetic pump, every electroosmotic micromixer, every iontophoresis-on-chip drug-delivery system inherits its quantitative behavior from Smoluchowski 1903. Anticipates: (a) all patent claims to 'electrokinetically driven liquid transport' that fail to recite a specific non-obvious geometry; (b) zeta-potential-controlled flow rate claims; (c) field-strength-modulated EOF pumping claims; (d) the entire class of EOF capillary pumps used in micro total analysis systems (Manz 1990 successor patents). The plug-flow EOF profile (advantageous for electrophoresis because it minimizes Taylor-Aris dispersion) was disclosed in 1903.
+
+## Debye-Hueckel 1923 — Debye Length and Strong Electrolyte Theory (1923-02)
+
+- **id**: `debye-huckel-1923-debye-length`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Peter Debye; Erich Hueckel
+- **disclosure**: Debye, P., Hueckel, E. (1923). 'Zur Theorie der Elektrolyte. I. Gefrierpunktserniedrigung und verwandte Erscheinungen.' Physikalische Zeitschrift 24: 185-206; II. ibid. 305-325.
+- **ip status**: public-domain
+- **prior art notes**: Defines the Debye length, the single most-cited length scale in nanofluidics. Every claim in nanofluidic patents that recites a 'channel dimension comparable to the Debye length', 'overlapping double-layer regime', or 'ionic selectivity controlled by salt concentration' inherits from Debye-Hueckel 1923. Anticipates broad nanofluidic IP that fails to disclose specific non-obvious geometric features beyond the Debye-length matching.
 
 ## Taylor-Aris dispersion in pipe flow (1953)
 
@@ -24,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Taylor, G. Dispersion of soluble matter in solvent flowing slowly through a tube. Proc. R. Soc. London Ser. A 1953, 219, 186–203. DOI: 10.1098/rspa.1953.0139 (and Aris, R. Proc. R. Soc. London Ser. A 1956, 235, 67–77.)
 - **ip status**: public-domain
 - **prior art notes**: Foundational disclosure of Taylor-Aris dispersion: in pressure-driven (Poiseuille) flow through a tube, the parabolic velocity profile combined with cross-stream diffusion produces an effective axial dispersion coefficient that grows with Pe². This phenomenon is the dominant peak-broadening mechanism in chip CE and continuous-flow analysis, and the reason electroosmotic flow (with its plug-like profile) gives sharper peaks than pressure-driven flow. Anticipates: every CE chip's optimization of peak resolution by minimizing Taylor-Aris dispersion through plug-flow (electroosmotic, electrokinetic) regimes.
+
+## Probstein 1989 — Physicochemical Hydrodynamics (Textbook, 1st ed.) (1989)
+
+- **id**: `probstein-1989-physicochemical-hydrodynamics-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ronald F. Probstein
+- **disclosure**: Probstein, R. F. (1989). 'Physicochemical Hydrodynamics: An Introduction,' 1st edition. Butterworths, Boston. ISBN 0-409-90089-X. 2nd ed., Wiley-Interscience (1994). 3rd ed., Wiley (2003) ISBN 0-471-45830-4.
+- **ip status**: public-domain
+- **prior art notes**: Probstein's textbook is the foundational graduate text for transport phenomena in colloidal and microfluidic systems. By 1989 (1st ed.) it documents in textbook form: electrokinetic transport (Smoluchowski-Helmholtz), capillary electrophoresis theory, hydrodynamic chromatography, microconvective diffusion in narrow channels, and double-layer-mediated transport. Anticipates broad microfluidic patent claims that fail to recite specific non-obvious geometries beyond what Probstein 1989 already discloses as standard transport theory. Textbook publication means examiners can readily cite individual sections as 102 art with section/page numbers.
 
 ## Manz / Ciba-Geigy original µTAS patent (1990 priority) (1990)
 
@@ -124,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sebia Capillarys product family. https://www.sebia.com
 - **ip status**: patented
 - **prior art notes**: Commercial multi-capillary CE analyzer for hemoglobinopathy screening (sickle cell, beta-thalassemia, etc.) widely used in newborn screening programs. Architectural cousin of academic CE chips at clinical-deployment scale. Reference for the hemoglobinopathy-screening cartridge product segment, particularly relevant for global low-and-middle-income-country newborn screening efforts.
+
+## Schoch 2008 — Transport Phenomena in Nanofluidics (Rev. Mod. Phys.) (2008-07)
+
+- **id**: `schoch-2008-nanofluidic-transport-rmp`
+- **corpus**: academic
+- **device class**: nanofluidic-chip
+- **creator**: Reto B. Schoch; Jongyoon Han; Philippe Renaud
+- **disclosure**: Schoch, R. B., Han, J., Renaud, P. (2008). 'Transport phenomena in nanofluidics.' Reviews of Modern Physics 80(3): 839-883. doi:10.1103/RevModPhys.80.839
+- **ip status**: public-domain
+- **prior art notes**: Schoch 2008 in Reviews of Modern Physics is THE canonical review of nanofluidic transport prior to 2008. Catalogs: ion-selectivity in overlapping double layers, ionic-current rectification (asymmetric nanopores), concentration-polarization induced by ion-selective interfaces, electroosmotic and electrophoretic transport in nanochannels, biomolecule sensing in solid-state nanopores. Anticipates: (a) all post-2008 nanofluidic patents that claim ionic-selectivity-by-Debye-overlap; (b) ion-current-rectification asymmetric nanopore claims; (c) concentration-polarization-driven preconcentration patents; (d) DNA-translocation-through-solid-state-nanopore claims that fail to recite a non-obvious geometric or functional feature. As an RMP review, every section is examiner-citable with section/page granularity.
 
 ## Trinity Biotech Premier Hb9210 HbA1c analyzer cartridge (2009)
 

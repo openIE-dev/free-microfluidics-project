@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**57 corpus entries disclose this subsystem.**
+**62 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1965
+Earliest disclosure: 1916
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Smoluchowski 1916 — Diffusion-Controlled Coagulation Theory (1916)
+
+- **id**: `smoluchowski-1916-diffusion-coagulation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Marian Smoluchowski
+- **disclosure**: Smoluchowski, M. v. (1916). 'Drei Vortraege ueber Diffusion, Brownsche Bewegung und Koagulation von Kolloidteilchen.' Physikalische Zeitschrift 17: 557-571 and 585-599.
+- **ip status**: public-domain
+- **prior art notes**: Smoluchowski's diffusion-controlled rate constant is the upper bound on every on-chip biochemical reaction rate. Anticipates: (a) immunoassay binding-time predictions in microfluidic devices (the Sqalli-Houssini bound on antibody capture); (b) DNA-target hybridization rates on microfluidic biosensors; (c) particle-aggregation assay timing claims; (d) molecular-beacon and aptamer-binding cartridge claims that rest on diffusion-limited kinetics. Any patent claim to 'rapid diagnosis by surface-capture in a microchannel' is bounded above by Smoluchowski 1916 and cannot claim novelty over the diffusion-limited rate.
 
 ## Hertz–Simonsson Continuous Inkjet (Lund Institute) (1965)
 
@@ -64,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: LifeScan Inc. (Johnson & Johnson) OneTouch product family. Original 1981 disclosure by Newman.
 - **ip status**: patented
 - **prior art notes**: Foundational disposable glucose test strip with capillary-fill sample chamber, glucose oxidase enzyme layer, and electrochemical detection electrodes. The highest-cumulative-volume microfluidic-equivalent product in history (>10B units shipped since 1980s). Architectural ancestor of every modern blood-glucose test strip and many other electrochemical-detection POC strips.
+
+## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
+
+- **id**: `wise-1991-silicon-microsystems-instrumentation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kensall D. Wise; Khalil Najafi
+- **disclosure**: Wise, K. D., Najafi, K. (1991). 'Microfabrication techniques for integrated sensors and microsystems.' Sensors and Actuators A 25-27: 39-49 (later expanded as Wise, K. D. 'Silicon microsystems for instrumentation and sensing,' Sens. Actuators A 56(1-2), 7-18, 1996).
+- **ip status**: public-domain
+- **prior art notes**: Wise 1991 (and the 1996 expansion) catalogs the Michigan-group silicon-MEMS portfolio including the silicon micropump, micro-needle drug-delivery devices, and integrated chemical sensors. Anticipates: (a) silicon-needle drug-delivery patents (Mark Allen Georgia Tech 1998 and descendants); (b) integrated sensor-microfluidic chip patents that fail to disclose a non-obvious feature beyond silicon-on-silicon integration; (c) lab-on-chip patents claiming integration of micropump + microvalve + sensor on a single silicon die.
 
 ## i-STAT cartridge family (CHEM8+, CG8+, etc.) (1992)
 
@@ -285,6 +305,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an ingestible passive electrochemical sensor: a stomach-acid-activated Cu/Mg galvanic couple whose discharge waveform identifies the specific tablet via modulation of electrode geometry. Sample handling is implicit microfluidics — gastric fluid acts as the electrolyte that drives signal generation. Anticipates: ingestible adherence-monitoring sensors; galvanic-cell-activated ingestible chips; tablet-coupled sensor + skin-patch receiver architectures; specifically anticipates downstream Abilify MyCite (Otsuka collaboration) integrated drug-plus-sensor product.
 
+## Halo: Reach FROST and Noble Team field medical (2010)
+
+- **id**: `halo-reach-noble-team-frost-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie
+- **disclosure**: Bungie, Halo: Reach (Microsoft 2010-09-14); Halo: Reach Limited Edition guide (Prima 2010) ISBN 978-0-307-46874-2.
+- **ip status**: fictional
+- **prior art notes**: Reach gameplay shows Spartan healing from MJOLNIR-integrated biofoam reservoir with wound-detection sensors triggering auto-administration. Noble Team field medkits depicted as a multi-bay foil pack with biofoam, stim, and antiviral cartridges. Anticipates: armor-integrated trauma reagent reservoirs with wound-detection-triggered auto-injection; multi-bay foil-burst medkits with selectable cartridges; closed-loop wound diagnostics + reagent dispensing in body-worn equipment.
+
 ## Ion Torrent semiconductor sequencing chip (2011)
 
 - **id**: `rothberg-2011-ion-torrent`
@@ -294,6 +324,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rothberg, J. M. et al. An integrated semiconductor device enabling non-optical genome sequencing. Nature 2011, 475, 348–352. DOI: 10.1038/nature10242
 - **ip status**: patented
 - **prior art notes**: Disclosed semiconductor sequencing: a CMOS chip with millions of pH-sensitive microwells, each with a single template-loaded bead, where polymerase-incorporation H+ release is detected by ISFET sensing. Architecturally a hybrid silicon-microfluidic-MEMS-CMOS device. Anticipates: integrated CMOS-fluidic sequencing, ISFET-array-as-sensor architecture, and the entire 'sequencing-on-a-chip' family that subsequently expanded to Roche 454, ONT MinION, PacBio, Element Biosciences AVITI, Singular Genomics G4.
+
+## The Expanse Belter station water and air microfluidic recyclers (2011)
+
+- **id**: `expanse-belter-water-air-recycler`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey (Daniel Abraham & Ty Franck) / Alcon Television / Amazon Studios
+- **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011) ISBN 978-0-316-12908-4, chapters describing Ceres Station infrastructure and the Belter dependency on water/air reclaim; reinforced across The Expanse TV series Seasons 1-3 (Syfy/Amazon 2015-2018), notably S1E1 'Dulcinea' Ceres scenes and S2 'Static' Tycho engineering scenes.
+- **ip status**: fictional
+- **prior art notes**: Depicts Belter habitats sustained by closed-loop life-support infrastructure that recovers potable water from urine, sweat, and atmospheric humidity, and recovers breathable air through CO2 scrubbing and humidity capture. Scenes describe stage-wise filtration banks, ion-exchange polishing, and station-scale evaporator/condenser loops with on-line conductivity and contaminant sensing. Prior-art coverage for: serially-staged water reclaim cartridges (filtration -> ion exchange -> polishing -> chemical disinfection -> conductivity QC) sized for habitat-scale flows; humidity-condensate microchannel collectors integrated into ventilation manifolds; the architectural pattern of Belter-style scarcity-driven 99%+ closed loops on a continuously-perfused station network. Anticipates claims to integrated cartridge stacks combining multiple water-treatment microfluidic primitives in a serial card format with on-line in-line monitoring.
+
+## The Expanse Rocinante shipboard medical bay (auto-doc) (2011)
+
+- **id**: `expanse-rocinante-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey / Alcon Television / Amazon Studios
+- **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011); recurring through all 9 novels and 6 TV seasons. Notable scenes: Naomi decompression treatment S5E8 'Hard Vacuum' (Amazon 2021-01-13); Bobbie Draper post-combat triage S6E2 'Azure Dragon' (2021-12-17).
+- **ip status**: fictional
+- **prior art notes**: Depicts a small-crew vessel medbay as an integrated patient bed with overhead reagent reservoirs, IV manifolds, automated injection ports, and continuous biometric monitoring closing dose decisions in software. The Naomi decompression-recovery scene specifically shows oxygenated-saline perfusion delivered automatically. Anticipates: self-contained shipboard auto-doc bays with reservoir + manifold + closed-loop biometric dose control; modular reagent cartridges that snap into a manifold; software-titrated continuous infusion driven by physiological sensors. Useful prior art for any 'reagent-cartridge driven autonomous medical bed' patent claim.
 
 ## Blood-brain barrier-on-chip (2012)
 

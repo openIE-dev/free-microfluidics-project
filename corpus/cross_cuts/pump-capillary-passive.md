@@ -6,14 +6,74 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**66 corpus entries disclose this subsystem.**
+**72 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1965
+Earliest disclosure: 1805-12-20
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Young 1805 — An Essay on the Cohesion of Fluids (1805-12-20)
+
+- **id**: `young-1805-cohesion-of-fluids`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Thomas Young
+- **disclosure**: Young, T. (1805). 'An essay on the cohesion of fluids.' Philosophical Transactions of the Royal Society of London 95: 65-87. doi:10.1098/rstl.1805.0005
+- **ip status**: public-domain
+- **prior art notes**: Discloses the fundamental force balance at the three-phase (solid-liquid-vapor) contact line and defines the equilibrium contact angle in terms of the three interfacial tensions. This Young equation is the load-bearing relation for: (a) capillary-driven priming of microfluidic channels (paper microfluidics, lateral-flow assays, capillary stop valves); (b) all surface-treatment patents that claim a contact angle range to control wettability; (c) electrowetting devices (which modulate cos(theta) electrically — Lippmann's later equation reduces to a perturbation of Young); (d) hydrophilic/hydrophobic patterning to direct droplet motion. Anticipates any patent claim that recites 'controlling fluid motion by surface energy difference', 'directional flow by contact angle gradient', or 'stop valve formed by hydrophobic boundary' — Young 1805 published the underlying equation in the open literature 220 years prior. Particularly invalidates over-broad surface-energy-control claims that fail to disclose specific non-obvious geometries.
+
+## Laplace 1806 — Mecanique Celeste Supplement on Capillary Action (1806)
+
+- **id**: `laplace-1806-mecanique-celeste-capillarity`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Simon Laplace
+- **disclosure**: Laplace, P. S. (1806). 'Sur l'action capillaire,' Supplement to Book X of Traite de Mecanique Celeste, Vol. IV. Courcier, Paris. English: Bowditch translation, 1839, vol. IV.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Laplace pressure equation: the pressure difference across a curved fluid interface equals surface tension times mean curvature. Together with Young 1805 this forms the Young-Laplace equation, the universal governing relation for: (a) droplet pressure in T-junction and flow-focusing droplet generators; (b) bubble pinch-off and step emulsification; (c) capillary rise and capillary-driven priming in paper microfluidics; (d) Plateau-Rayleigh jet break-up; (e) the pressure threshold for breaking through a hydrophobic stop valve; (f) meniscus pinning at channel expansions and contractions; (g) the entire field of capillary stop valves on centrifugal microfluidic discs. Anticipates any claim that recites 'a pressure-balanced droplet generator', 'a capillary-pressure-driven valve', or 'a curved interface used to meter liquid' — Laplace 1806 published the governing equation 220 years before any microfluidic patent could have been filed.
+
+## Young-Laplace Equation (combined 1805-1806) (1806)
+
+- **id**: `young-laplace-equation-combined`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Thomas Young; Pierre-Simon Laplace
+- **disclosure**: Young, T. Phil. Trans. R. Soc. 95, 65-87 (1805); Laplace, P. S. Mecanique Celeste, Supplement to Book X (1806). Combined as DeltaP = gamma(1/R1 + 1/R2) with boundary condition cos(theta) at three-phase line.
+- **ip status**: public-domain
+- **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
+
+## Bond / Eoetvoes Number Bo = rho g L^2 / gamma (1886)
+
+- **id**: `bond-eotvos-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Lorand Eoetvoes (1886); Wilfrid Noel Bond (1928 dimensionless form)
+- **disclosure**: Eoetvoes, R. (1886). 'Ueber den Zusammenhang der Oberflaechenspannung der Fluessigkeiten mit ihrem Molekularvolumen.' Annalen der Physik 263(3): 448-459. doi:10.1002/andp.18862630309. Bond, W. N. (1928). Proc. Phys. Soc. 41, 1.
+- **ip status**: public-domain
+- **prior art notes**: Bond number explains why microfluidics works at all: at L ~ 100 microns, Bo ~ 10^-3 for water, so gravity is irrelevant and surface tension dominates. This is THE physical foundation for the microfluidic regime; anchors every patent claim that recites 'gravity-independent operation', 'orientation-independent chip', or 'surface-tension-driven liquid handling'. Eoetvoes 1886 (the equivalent group) predates the entire modern microfluidic field by more than a century.
+
+## Lucas 1918 — Capillary Rise Dynamics (1918)
+
+- **id**: `lucas-1918-capillary-rise-dynamics`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Richard Lucas
+- **disclosure**: Lucas, R. (1918). 'Ueber das Zeitgesetz des kapillaren Aufstiegs von Fluessigkeiten.' Kolloid-Zeitschrift 23(1): 15-22. doi:10.1007/BF01461107
+- **ip status**: public-domain
+- **prior art notes**: Discloses that the rise height of a wetting liquid in a capillary scales as the square root of time (h proportional to sqrt(gamma r cos(theta) t / mu)). This Lucas equation is the immediate prior art for: (a) all paper microfluidic / lateral-flow assay timing claims that recite a sqrt(t) wicking law; (b) self-priming microfluidic channels with predictable fill time; (c) wicking-pad reagent-storage cartridges. Together with Washburn 1921 (Lucas-Washburn equation) it anchors more than a century of capillary-flow patent prior art. Critically, Lucas 1918 PREDATES Washburn 1921 — examiners frequently cite only Washburn, leaving Lucas as a stronger anchor for invalidating priority claims that key on the 1921 date.
+
+## Washburn 1921 — The Dynamics of Capillary Flow (1921-03)
+
+- **id**: `washburn-1921-dynamics-of-capillary-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward W. Washburn
+- **disclosure**: Washburn, E. W. (1921). 'The dynamics of capillary flow.' Physical Review 17(3): 273-283. doi:10.1103/PhysRev.17.273
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
 
 ## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
 

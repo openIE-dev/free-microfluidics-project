@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `pump-thermal-bubble-jet`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1979
+Earliest disclosure: 1919
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Weber 1919 — Weber Number We = rho U^2 L / gamma (1919)
+
+- **id**: `weber-1919-weber-number`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Moritz Weber
+- **disclosure**: Weber, M. (1919). 'Die Grundlagen der Aehnlichkeitsmechanik und ihre Verwertung bei Modellversuchen.' Jahrbuch der Schiffbautechnischen Gesellschaft 20: 355-477.
+- **ip status**: public-domain
+- **prior art notes**: Weber number governs droplet impact, jet break-up onset, and high-velocity droplet-on-demand inkjet ejection. Anchors: (a) all inkjet drop-formation patents that recite a velocity-controlled droplet size; (b) impingement-mixing on-chip patents; (c) high-throughput droplet generation in jetting regime; (d) splashing-controlled droplet deposition for additive manufacturing. Predates the modern droplet-microfluidics field by 75 years.
+
+## Bassous & Taub 1977 — IBM Silicon Inkjet Nozzle Array (1977-08)
+
+- **id**: `bassous-1977-ibm-inkjet-nozzle`
+- **corpus**: academic
+- **device class**: inkjet-printhead
+- **creator**: Ernest Bassous; H. H. Taub; L. Kuhn
+- **disclosure**: Bassous, E., Taub, H. H., Kuhn, L. (1977). 'Ink jet printing nozzle arrays etched in silicon.' Applied Physics Letters 31(2): 135-137. doi:10.1063/1.89587
+- **ip status**: public-domain
+- **prior art notes**: Bassous 1977 is the canonical published prior art for silicon-micromachined inkjet nozzles. Anticipates: (a) all subsequent silicon-orifice inkjet patents whose only novel feature is the silicon-anisotropic-etched orifice geometry; (b) by extension, the entire class of silicon-MEMS inkjet printheads (HP, Canon, Lexmark, Epson MEMS); (c) silicon-orifice droplet generators in microfluidic chips. Published in APL with full process disclosure including KOH etch chemistry and orifice dimensions, this is one of the strongest single-paper anchors for silicon-microfluidic-orifice prior art. Particularly important because IBM published rather than patented these initial nozzle results — eliminating any priority claim by later silicon-inkjet patentees on the underlying orifice fabrication scheme.
 
 ## Canon thermal Bubble Jet inkjet printhead (1979)
 
@@ -44,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US Patent 4,490,728 'Thermal ink jet printer', filed 1981-08-14, issued 1984-12-25, inventors John L. Vaught, Frank L. Cloutier, David K. Donald, John D. Meyer, Christopher A. Tacklind, Howard H. Taub; assignee Hewlett-Packard Company
 - **ip status**: patented
 - **prior art notes**: Discloses a thermal inkjet printhead that ejects droplets by explosive bubble nucleation in the ink, driven by a thin-film resistor in the ink supply chamber, using a two-part electrical pulse: a precursor pulse that preheats the ink to just below boiling, then a nucleation pulse that drives the resistor to the superheat limit, producing reproducible drop formation. Anticipates: the entire architecture of HP-style thermal inkjet (TIJ); specifically (a) thin-film resistor on silicon as the drop-ejection actuator, (b) precursor+nucleation pulse drive shaping for repeatability and resistor-life extension, (c) integration of ink supply chamber, resistor, and orifice plate as a monolithic die. Companion to the 1979 Endo/Canon thermal disclosure in the existing corpus, and predicate to all HP DeskJet, OfficeJet, and HP PageWide nozzle dies.
+
+## Petersen 1982 — Silicon as a Mechanical Material (Extended Anchor) (1982-05)
+
+- **id**: `petersen-1982-silicon-mechanical-material-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kurt E. Petersen
+- **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
+- **ip status**: public-domain
+- **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
 
 ## HP ThinkJet thermal inkjet printhead (1984)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**26 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1997
+Earliest disclosure: 1936
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Damkoehler Numbers Da_I, Da_II (1936)
+
+- **id**: `damkohler-numbers-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Gerhard Damkoehler
+- **disclosure**: Damkoehler, G. (1936). 'Einfluesse der Stroemung, Diffusion und des Waermeueberganges auf die Leistung von Reaktionsoefen.' Z. Elektrochem. 42(12): 846-862.
+- **ip status**: public-domain
+- **prior art notes**: Damkoehler numbers govern every continuous-flow microreactor: Da_I sets conversion as a function of flow rate; Da_II sets whether the reactor is reaction- or diffusion-limited. Anchors: (a) all flow-chemistry microreactor patents reciting residence-time control; (b) on-chip enzymatic-assay timing claims; (c) on-chip PCR amplification residence-time engineering; (d) heterogeneous catalysis microreactors. Any patent claim that recites 'tunable conversion via residence-time modulation' is anticipated by Damkoehler scaling.
 
 ## Illumina Patent Estate Post-Solexa Acquisition (Bridge Amplification + SBS) (1997)
 

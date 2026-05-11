@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-koh-etching`
 
-**7 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1979
+Earliest disclosure: 1977-08
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bassous & Taub 1977 — IBM Silicon Inkjet Nozzle Array (1977-08)
+
+- **id**: `bassous-1977-ibm-inkjet-nozzle`
+- **corpus**: academic
+- **device class**: inkjet-printhead
+- **creator**: Ernest Bassous; H. H. Taub; L. Kuhn
+- **disclosure**: Bassous, E., Taub, H. H., Kuhn, L. (1977). 'Ink jet printing nozzle arrays etched in silicon.' Applied Physics Letters 31(2): 135-137. doi:10.1063/1.89587
+- **ip status**: public-domain
+- **prior art notes**: Bassous 1977 is the canonical published prior art for silicon-micromachined inkjet nozzles. Anticipates: (a) all subsequent silicon-orifice inkjet patents whose only novel feature is the silicon-anisotropic-etched orifice geometry; (b) by extension, the entire class of silicon-MEMS inkjet printheads (HP, Canon, Lexmark, Epson MEMS); (c) silicon-orifice droplet generators in microfluidic chips. Published in APL with full process disclosure including KOH etch chemistry and orifice dimensions, this is one of the strongest single-paper anchors for silicon-microfluidic-orifice prior art. Particularly important because IBM published rather than patented these initial nozzle results — eliminating any priority claim by later silicon-inkjet patentees on the underlying orifice fabrication scheme.
 
 ## Canon thermal Bubble Jet inkjet printhead (1979)
 
@@ -35,6 +45,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Foundational disclosure of microchannel single-phase liquid cooling integrated directly into a silicon device backside, demonstrating 790 W/cm² heat removal — a number that defined the performance ceiling for chip cooling for the next 30 years. Anticipates: silicon-microchannel cold plates as integrated VLSI thermal solutions, parallel rectangular microchannels at sub-100-µm scale, water-as-coolant in silicon microfluidics, and the entire embedded-liquid-cooling subfield that resurfaced in the 2010s with EU/DARPA programs (ICECool) and now with on-chip AI accelerators. This paper predates the µTAS framing by a decade.
 
+## Petersen 1982 — Silicon as a Mechanical Material (Extended Anchor) (1982-05)
+
+- **id**: `petersen-1982-silicon-mechanical-material-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kurt E. Petersen
+- **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
+- **ip status**: public-domain
+- **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
+
+## Esashi 1989 — Silicon Piezoelectric Micropump (1989-06)
+
+- **id**: `esashi-1989-silicon-piezo-pump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Masayoshi Esashi; Shuichi Shoji; A. Nakano
+- **disclosure**: Esashi, M., Shoji, S., Nakano, A. (1989). 'Normally closed microvalve and micropump fabricated on a silicon wafer.' Sensors and Actuators 20(1-2): 163-169. doi:10.1016/0250-6874(89)87114-4
+- **ip status**: public-domain
+- **prior art notes**: Esashi 1989 anchors the silicon piezo-membrane micropump and normally-closed silicon membrane microvalve, both integrated on one wafer. Anticipates: (a) integrated valve+pump silicon-microfluidic claims that fail to disclose a non-obvious feature beyond the Esashi geometry; (b) normally-closed silicon membrane valve patents (a major sub-class in MEMS-microfluidic IP); (c) piezo-actuated silicon micropump patents with passive check valves. Together with van Lintel 1988 (already in corpus) this anchors the late-1980s silicon-piezo-pump generation that preceded all commercial silicon micropump products.
+
 ## Miniaturized total chemical analysis system (µ-TAS) (1990)
 
 - **id**: `manz-1990-mu-tas-concept`
@@ -44,6 +74,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manz, A.; Graber, N.; Widmer, H. M. Miniaturized total chemical analysis systems: a novel concept for chemical sensing. Sens. Actuators B 1990, 1, 244–248. DOI: 10.1016/0925-4005(90)80209-I
 - **ip status**: public-domain
 - **prior art notes**: The seminal disclosure of integrated total chemical analysis on a single miniaturized substrate. Anticipates the entire concept of multi-step assay integration on a chip — sample prep, reagent addition, separation, and detection in one device. Any patent claim asserting novelty over 'integrated chemical analysis on a microscale chip' as a generic concept must contend with this 1990 paper.
+
+## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
+
+- **id**: `wise-1991-silicon-microsystems-instrumentation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kensall D. Wise; Khalil Najafi
+- **disclosure**: Wise, K. D., Najafi, K. (1991). 'Microfabrication techniques for integrated sensors and microsystems.' Sensors and Actuators A 25-27: 39-49 (later expanded as Wise, K. D. 'Silicon microsystems for instrumentation and sensing,' Sens. Actuators A 56(1-2), 7-18, 1996).
+- **ip status**: public-domain
+- **prior art notes**: Wise 1991 (and the 1996 expansion) catalogs the Michigan-group silicon-MEMS portfolio including the silicon micropump, micro-needle drug-delivery devices, and integrated chemical sensors. Anticipates: (a) silicon-needle drug-delivery patents (Mark Allen Georgia Tech 1998 and descendants); (b) integrated sensor-microfluidic chip patents that fail to disclose a non-obvious feature beyond silicon-on-silicon integration; (c) lab-on-chip patents claiming integration of micropump + microvalve + sensor on a single silicon die.
+
+## Gravesen 1993 — Microfluidics Review (1993)
+
+- **id**: `gravesen-1993-microfluidics-review`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Peter Gravesen; Jens Branebjerg; Ole Sondergaard Jensen
+- **disclosure**: Gravesen, P., Branebjerg, J., Jensen, O. S. (1993). 'Microfluidics — a review.' Journal of Micromechanics and Microengineering 3(4): 168-182. doi:10.1088/0960-1317/3/4/002
+- **ip status**: public-domain
+- **prior art notes**: Gravesen 1993 is one of the first explicit uses of 'microfluidics' as a field designator. Catalogs the state of the art in 1993: silicon piezoelectric pumps (van Lintel 1988, Esashi 1988-90), silicon membrane valves, silicon flow sensors, and silicon micromixers. Anticipates: (a) any post-1993 patent claim that recites a generic 'microfluidic system comprising pump, valve, mixer, sensor' integration (the integration architecture was reviewed and disclosed by 1993); (b) specific component claims to silicon piezoelectric pumps or membrane valves that fail to disclose a non-obvious geometric or functional feature beyond Gravesen's catalog. Critical anchor for invalidating broad silicon-microfluidic-system claims filed in the mid-1990s.
 
 ## Epson PrecisionCore MicroTFP Print Chip (2013)
 

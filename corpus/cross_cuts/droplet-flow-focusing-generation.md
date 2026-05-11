@@ -6,14 +6,44 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**34 corpus entries disclose this subsystem.**
+**40 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2002-06-28
+Earliest disclosure: 1806
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Laplace 1806 — Mecanique Celeste Supplement on Capillary Action (1806)
+
+- **id**: `laplace-1806-mecanique-celeste-capillarity`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Pierre-Simon Laplace
+- **disclosure**: Laplace, P. S. (1806). 'Sur l'action capillaire,' Supplement to Book X of Traite de Mecanique Celeste, Vol. IV. Courcier, Paris. English: Bowditch translation, 1839, vol. IV.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Laplace pressure equation: the pressure difference across a curved fluid interface equals surface tension times mean curvature. Together with Young 1805 this forms the Young-Laplace equation, the universal governing relation for: (a) droplet pressure in T-junction and flow-focusing droplet generators; (b) bubble pinch-off and step emulsification; (c) capillary rise and capillary-driven priming in paper microfluidics; (d) Plateau-Rayleigh jet break-up; (e) the pressure threshold for breaking through a hydrophobic stop valve; (f) meniscus pinning at channel expansions and contractions; (g) the entire field of capillary stop valves on centrifugal microfluidic discs. Anticipates any claim that recites 'a pressure-balanced droplet generator', 'a capillary-pressure-driven valve', or 'a curved interface used to meter liquid' — Laplace 1806 published the governing equation 220 years before any microfluidic patent could have been filed.
+
+## Young-Laplace Equation (combined 1805-1806) (1806)
+
+- **id**: `young-laplace-equation-combined`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Thomas Young; Pierre-Simon Laplace
+- **disclosure**: Young, T. Phil. Trans. R. Soc. 95, 65-87 (1805); Laplace, P. S. Mecanique Celeste, Supplement to Book X (1806). Combined as DeltaP = gamma(1/R1 + 1/R2) with boundary condition cos(theta) at three-phase line.
+- **ip status**: public-domain
+- **prior art notes**: Combined Young-Laplace equation is the single most invoked classical result in microfluidic device design: every droplet generator, every capillary-driven assay, every paper-microfluidic device, and every surface-energy patterned channel inherits its quantitative behavior from this equation. As a unified prior-art anchor, the combined equation invalidates broad patents claiming 'surface-tension-driven actuation', 'capillary-pressure metering', 'bursting-pressure valve', 'pressure-controlled droplet sizing', and similar — the relation between curvature, pressure, and surface tension was published before electricity was understood as an EM phenomenon.
+
+## Capillary Number Ca = mu U / gamma (1928)
+
+- **id**: `capillary-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: tradition (group structure implicit since 19th-century capillary-flow work)
+- **disclosure**: Bond, W. N. (1928). 'The use of dimensionless equations.' Proc. Phys. Soc. London 41(1): 1-16; named by Taylor in subsequent capillary-flow literature. Implicit in Tate 1864, Plateau 1873, Rayleigh 1879 work on droplet break-up.
+- **ip status**: public-domain
+- **prior art notes**: Capillary number is the controlling parameter for every droplet generator. The dripping-to-jetting transition, the squeezing-to-shearing transition in T-junctions, and the droplet-size scaling laws in flow-focusing devices are all functions of Ca. Anchors: (a) all droplet-generator patents that recite a flow-rate-to-droplet-size scaling (Anna 2003, Thorsen 2002, Garstecki 2006); (b) co-flow droplet sizing claims; (c) step-emulsification regime maps. Any patent claim that recites operating conditions in terms of viscosity, velocity, and surface tension is anticipated by the capillary-number scaling.
 
 ## RainDance Technologies DropMaker Patent Family (2002-06-28)
 
@@ -215,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial implementation of inDrops (Klein 2015): single cells co-encapsulated with photo-cleavable hydrogel barcoded beads in a PDMS flow-focusing chip driven by external syringe pumps. Anticipates: the academic-spinout commercialization path for single-cell barcoding, the use of dissolvable hydrogel beads as barcode carriers (vs. solid beads in Drop-seq), and the lower-cost open-architecture alternative to 10x Chromium. Many academic labs run this directly off the Klein 2015 paper without 1CellBio hardware.
 
+## Stilla Naica System Crystal Digital PCR Patent Family (2016)
+
+- **id**: `stilla-naica-crystal-digital-pcr-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Stilla Technologies
+- **disclosure**: WO2017046257A1 (Stilla Technologies, priority 2015-09-15); US10744506B2 'Method and apparatus for performing digital assays using polydisperse droplets'; Stilla Naica System product launch 2016
+- **ip status**: patented
+- **prior art notes**: Discloses a chamber-free 'crystal' digital PCR architecture in which an aqueous sample is partitioned into a 2D monolayer of monodisperse droplets confined between two parallel surfaces inside a microfluidic chip. The chip integrates a flow-focusing droplet generator with an immobilization chamber whose gap height is matched to droplet diameter so that droplets self-organize into a hexagonally close-packed 2D crystal. Anticipates: (a) any digital PCR architecture relying on geometrically constrained 2D droplet arrays for thermal cycling and image-based digital readout; (b) integrated single-chip dPCR cartridges with on-chip droplet generation, thermal cycling, and multi-color fluorescence imaging without an external droplet reader; (c) the use of close-packing density rather than addressed wells for partitioning. Material relevant to claims of Bio-Rad QX-series patents asserting required chambered/well architectures.
+
 ## Sphere Fluidics Cyto-Mine Single-Cell Analysis System (2017)
 
 - **id**: `sphere-fluidics-cyto-mine-acoustic-droplet-sorting`
@@ -265,6 +305,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an open undergrad microfluidic kit including PDMS chip designs (droplet, gradient, herringbone) released under permissive license. Anticipates: open-source educational microfluidic chip libraries; reference designs for undergraduate teaching of canonical microfluidic primitives.
 
+## Mission Bio Tapestri Droplet Single-Cell DNA Patent Family (2017)
+
+- **id**: `mission-bio-tapestri-droplet-scdna-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio, Inc.
+- **disclosure**: US10619204B2 'Methods for single cell genetic analysis' (priority 2015-11); WO2017106777A1; Mission Bio Tapestri platform launch 2018
+- **ip status**: patented
+- **prior art notes**: Discloses Mission Bio's two-step droplet workflow distinct from the 10x Chromium GEM single-droplet co-encapsulation: cells are first encapsulated and lysed inside droplets, then a second droplet containing barcoded primers, polymerase, and dNTPs is electrocoalesced with the lysate droplet to perform targeted multiplex PCR per cell. Anticipates: (a) two-step electrocoalescence-based single-cell barcoding workflows; (b) targeted scDNA-seq via in-droplet multiplex PCR rather than whole-transcriptome amplification; (c) injection-molded cartridges that integrate two sequential droplet generators with an electrode-equipped coalescence channel.
+
 ## Bio-Rad ddPCR Patent Consolidation Position (post-RainDance 2017) (2017-03-02)
 
 - **id**: `biorad-ddpcr-consolidation-position-2017`
@@ -284,6 +334,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mission Bio Tapestri platform. https://missionbio.com/tapestri/
 - **ip status**: patented
 - **prior art notes**: Two-step droplet workflow for single-cell DNA sequencing: cells encapsulated, lysed, and tagged in primary droplets; PCR products extracted and re-emulsified for amplicon sequencing. Anticipates: serial-emulsion architecture in single-cell genomics workflows, distinguishing Mission Bio's IP position from 10x Genomics' single-emulsion approach.
+
+## Stilla Naica Sapphire Chip Mask Architecture Patent Family (2018)
+
+- **id**: `stilla-naica-sapphire-chip-patent`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Stilla Technologies
+- **disclosure**: Stilla Technologies Sapphire chip product release 2018; WO2019207090A1; US11364502B2 'Microfluidic chip architecture with optimized phase actuation'
+- **ip status**: patented
+- **prior art notes**: Discloses the Sapphire chip's micro-channel mask topology in which a single sample inlet branches via passive hydrodynamic resistors to four parallel flow-focusing junctions, each feeding a distinct 2D crystal observation chamber. Anticipates claims directed to: (a) parallelized partitioning networks with shared oil source and per-sample passive flow division; (b) a single injection-molded chip carrying multiple independent dPCR reactions without active valving; (c) the use of a serpentine pre-mix region upstream of flow-focusing junctions for emulsion stabilization. Includes mask drawings sufficient to enable fabrication of equivalent COC parts at 100-200 micrometer feature sizes.
 
 ## Namocell Pala Single Cell Dispenser (2020)
 

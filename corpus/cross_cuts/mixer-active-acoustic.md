@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `mixer-active-acoustic`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2002
+Earliest disclosure: 1890
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Couette 1890 — Concentric Cylinder Viscometer and Couette Flow (1890)
+
+- **id**: `couette-1890-concentric-cylinder-viscometer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Maurice Couette
+- **disclosure**: Couette, M. (1890). 'Etudes sur le frottement des liquides.' Annales de Chimie et de Physique Series 6, 21: 433-510; abridged Couette, M. (1890). J. Phys. Theor. Appl. 9(1): 414-417. doi:10.1051/jphystap:018900090041401
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical shear-driven flow geometry. Anchors: (a) all shear-controlled microfluidic devices including blood-cell deformability assays; (b) on-chip rheometry; (c) shear-stress-controlled cell-culture chips (vascular shear); (d) Taylor-Couette mixing reactors at small scale; (e) any flow chamber that imposes a controlled shear via a moving boundary. Anticipates patent claims reciting 'controlled shear stress on cells by parallel-plate flow chamber', 'rotating-disc on-chip shear', or 'concentric-cylinder cell-stressing geometry' insofar as the shear-flow geometry is the only novel feature.
 
 ## Covaris ME220 / E220 focused-ultrasonic DNA shearing (2002)
 

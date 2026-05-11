@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-electrode-integration`
 
-**44 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -25,6 +25,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
 
+## Lord of Light reincarnation / body-cloning tech (Zelazny) (1967)
+
+- **id**: `zelazny-lord-of-light-reincarnation-tech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Roger Zelazny
+- **disclosure**: Roger Zelazny, Lord of Light (Doubleday 1967) — Hugo Award 1968; subsequent editions ISBN 978-0-06-056723-3.
+- **ip status**: fictional
+- **prior art notes**: Lord of Light depicts a planet-wide reincarnation industry: consciousness-transfer apparatus + body-cloning vats + scheduled reincarnation pipeline. The 'Masters of Karma' control access via reagent-and-substrate quality control. Reads as foundational sci-fi prior art for: integrated consciousness-transfer + body-cloning architectures; the architectural pattern of an industrial reincarnation pipeline with quality-tier selection. Important early reference predating most cloning-vat sci-fi tropes.
+
+## Walter Jon Williams Hardwired biotech (1986)
+
+- **id**: `wjw-hardwired-biotech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Walter Jon Williams
+- **disclosure**: Walter Jon Williams, Hardwired (Tor 1986) ISBN 978-0-8125-7515-5.
+- **ip status**: fictional
+- **prior art notes**: Hardwired's panzerboy and Cowboy interface depicted with cranial jacks and continuous reagent supply for immune-suppression and biotech maintenance. Foundational cyberpunk biotech reference. Anticipates: cranial-port reagent supply for chronic immune-suppression of body augmentation; integrated interface-jack + reagent-cartridge cyborg-maintenance hardware. Useful prior art for 'wearable continuous reagent infusion for cyborg-implant maintenance' claims.
+
+## Warhammer 40K Adeptus Mechanicus thrall body modification (1987)
+
+- **id**: `warhammer-40k-mechanicus-thrall-modification`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Rob Sanders
+- **disclosure**: Warhammer 40K Rogue Trader (Games Workshop 1987); Codex: Adeptus Mechanicus (Games Workshop 2017); Black Library Skitarius (Rob Sanders 2015) ISBN 978-1-78572-080-4.
+- **ip status**: fictional
+- **prior art notes**: Mechanicus thrall modification depicted as an assembly-line process: subject restraint, neural-fluid replacement, mechanical augmentation, sealing reagent application. Each station handles a discrete step. Anticipates: assembly-line subject-modification architecture with stations specialized to discrete fluidic and mechanical steps; combined neural-fluid-replacement and mechanical-augmentation flow; useful prior art for 'modular subject-modification assembly line with stationed reagent-and-mechanical workstations' claims.
+
 ## Shadowrun cyberware/bioware fluidic-interface suite (datajacks, wired reflexes, cybereyes) (1989)
 
 - **id**: `shadowrun-cyberware-bioware-suite`
@@ -34,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shadowrun first edition (FASA 1989) ISBN 1-55560-110-0; Bioware introduced in Shadowrun 2nd Edition (1992); Augmentation sourcebook (Catalyst 2007) ISBN 978-1-934857-31-3.
 - **ip status**: fictional
 - **prior art notes**: Shadowrun's published cyberware/bioware sourcebooks (~30 years of detailed canon) describe fluidic-interface implants extensively: datajacks (cerebrospinal-fluid-managed neural ports), wired reflexes (myomer-perfused muscle augments), cybereye HUDs (vitreous-replacement displays), enzymes-on-demand (bioware drug glands). Augmentation 2007 specifies microfluidic-equivalent fluid management for several implants. Defensive prior art for: implanted neural ports with CSF management, myomer-perfused muscle implants, vitreous-replacement display optics, and bioware drug-secretion implants.
+
+## Hyperion Cantos Brawne Lamia / Severn (M. Brawne) cyber-biotech (1989)
+
+- **id**: `hyperion-mathew-brawne-biotech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Hyperion (Doubleday 1989) ISBN 978-0-385-24949-4; The Fall of Hyperion (1990) ISBN 978-0-385-26747-4 — Brawne Lamia, John Keats persona, Severn arcs.
+- **ip status**: fictional
+- **prior art notes**: Brawne Lamia and the Keats/Severn personas depicted as AI personalities resident in biological substrates with fluidic neural interfaces. Architectural prior art for: AI-persona biological-substrate hosts maintained by continuous fluidic neural-interface perfusion; useful for 'AI-on-biology hybrid host with continuous reagent maintenance' speculative claims.
 
 ## Cyberpunk 2020 Ripperdoc clinic published mechanics (extends wave 1) (1990)
 
@@ -65,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Weapon X program adamantium-bonding tank is one of comics' most iconic biotech facility depictions. Wolverine is depicted submerged in a fluid-filled tank with multi-needle injection apparatus delivering molten adamantium to bones, full-body biosensor monitoring, restraint harness, and emergency life-support. Defensive prior art for: full-body submerged-patient industrial-augmentation apparatus, multi-port simultaneous parenteral delivery + biosensor monitoring, and forced-augmentation operating chamber. Cumulative ~35-year canonical depiction with multiple authoritative reprints.
 
+## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
+
+- **id**: `wise-1991-silicon-microsystems-instrumentation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kensall D. Wise; Khalil Najafi
+- **disclosure**: Wise, K. D., Najafi, K. (1991). 'Microfabrication techniques for integrated sensors and microsystems.' Sensors and Actuators A 25-27: 39-49 (later expanded as Wise, K. D. 'Silicon microsystems for instrumentation and sensing,' Sens. Actuators A 56(1-2), 7-18, 1996).
+- **ip status**: public-domain
+- **prior art notes**: Wise 1991 (and the 1996 expansion) catalogs the Michigan-group silicon-MEMS portfolio including the silicon micropump, micro-needle drug-delivery devices, and integrated chemical sensors. Anticipates: (a) silicon-needle drug-delivery patents (Mark Allen Georgia Tech 1998 and descendants); (b) integrated sensor-microfluidic chip patents that fail to disclose a non-obvious feature beyond silicon-on-silicon integration; (c) lab-on-chip patents claiming integration of micropump + microvalve + sensor on a single silicon die.
+
 ## Neon Genesis Evangelion LCL entry-plug fluid immersion (1995)
 
 - **id**: `evangelion-lcl-entry-plug`
@@ -94,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche/Boehringer Mannheim Elecsys 2010 immunoassay analyzer launch 1996; J. Clin. Lab. Anal. 1998 evaluation; US patents 5,238,808 and 5,310,687 (Boehringer Mannheim ECL cell)
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
+
+## Joe Haldeman Forever Peace neural jacks (jacking) (1997)
+
+- **id**: `haldeman-forever-peace-neural-jacks`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Joe Haldeman
+- **disclosure**: Joe Haldeman, Forever Peace (Ace 1997) ISBN 978-0-441-00566-5 — Hugo Award winner 1998.
+- **ip status**: fictional
+- **prior art notes**: Forever Peace depicts neural jacks as cranial ports physically interfacing operator nervous systems with mech-pilot soldierboy units; the jack maintains an active fluidic environment around the implanted electrode array. Anticipates: cranial-port neural interfaces with active fluidic maintenance loops, multi-operator coupled neural-fluidic networks, and the architectural pattern of mech-pilot jack-and-fluid coupling. Useful prior art for 'multi-operator coupled neural-fluidic interface' patent claims.
 
 ## The Matrix Nebuchadnezzar / hovership operating room (1999)
 
@@ -134,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Amaxa GmbH product introduction 2001; US patent US7,332,332B2 (Nucleofection method, priority 2002); EP1390518B1; Lonza acquired Amaxa 2008
 - **ip status**: patented
 - **prior art notes**: Discloses a low-volume polypropylene cuvette with parallel electrodes, used in conjunction with proprietary buffer compositions and program-defined pulse waveforms (the 'nucleofection' protocol set) that drive cargo delivery into the nucleus of non-dividing cells. The patent estate covers the buffer + waveform combinations as well as the cuvette geometry. Anticipates: kit-format electroporation where the cuvette+buffer+waveform are jointly specified per cell type; programmable pulse generator with cell-specific protocols; insert-molded electrode-bearing disposable cuvette as the closed-disposable element. Predecessor architecture for the 4D-Nucleofector and 4D-LV continuous-flow variants.
+
+## Halo MJOLNIR neural-laced helmet (Cortana neural interface fluidics) (2001)
+
+- **id**: `halo-mjolnir-neural-laced-helmet`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie / 343 Industries
+- **disclosure**: Eric Nylund, Halo: The Fall of Reach (Del Rey 2001) ISBN 978-0-345-45132-3, Spartan neural-interface implantation chapter; Halo Encyclopedia (DK 2009) and (DK 2022).
+- **ip status**: fictional
+- **prior art notes**: MJOLNIR helmet contains a neural-lace docking port that physically interfaces with surgically-implanted cranial pins on Spartans. The helmet circulates a coolant fluid through the brain-side neural lace to maintain operational temperature when an AI is loaded into the wearer's neural interface. Anticipates: helmet-integrated active-cooling microfluidic loops servicing brain-implant electrodes; closed-circulation coolant manifolds in head-worn hardware; integrated thermal management for neuroprosthetic AI co-processor docking. Strong prior art for any 'helmet-integrated brain-implant cooling loop' claim.
 
 ## Cassini Cosmic Dust Analyzer (CDA) — Enceladus Plume Mass Spectra (2004)
 
@@ -195,6 +265,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cylon Hybrid is a biological/cybernetic entity permanently immersed in a milky neural-fluid bath, wired into basestar systems. Detailed depictions of fluid-immersion life-support combined with neural-electrical interface (basestar control). Defensive prior art for: long-duration human-immersion neural-interface tanks, brain-in-a-vat cybernetic control systems, and mixed-biological-electronic vehicle-control architectures.
 
+## Ghost in the Shell SAC: Solid State Society medical fluidics (2006)
+
+- **id**: `ghost-in-the-shell-sac-solid-state-society`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Production I.G / Kenji Kamiyama
+- **disclosure**: Ghost in the Shell: Stand Alone Complex - Solid State Society (Production I.G 2006-09-01), directed by Kenji Kamiyama.
+- **ip status**: fictional
+- **prior art notes**: Solid State Society features a child-care network where children's cyberbrains are coupled in a shared fluidic-and-network configuration. Care facility depicted with combined cyberbrain-maintenance reagent supply and shared neural network. Anticipates: multi-subject coupled cyberbrain maintenance facilities with shared reagent reservoirs and shared neural-network coupling; useful prior art for 'multi-subject coupled neural-implant maintenance facility' claims.
+
 ## MaxCyte STX Scalable Transfection System (2007)
 
 - **id**: `maxcyte-stx-flow-electroporation`
@@ -234,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aber Instruments Futura biomass monitor (predecessor) ~2000; Incyte single-use capacitance probe launched as joint Aber/Hamilton product ~2008; US patent US7,930,110B2 (Aber Instruments; biomass monitor based on dielectric spectroscopy); product literature 2010-2023
 - **ip status**: patented
 - **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
+
+## Warhammer 30K Mechanicum Princeps titan-pilot amniotic tank (2008)
+
+- **id**: `warhammer-30k-mechanicum-titan-amniotic-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Forge World / Graham McNeill
+- **disclosure**: Forge World Imperial Armour Volume 1 (2nd Edition) (Forge World 2012); Black Library Horus Heresy: Mechanicum (Graham McNeill 2008) ISBN 978-1-84416-655-3; Adeptus Titanicus rulebook (Games Workshop 2018).
+- **ip status**: fictional
+- **prior art notes**: Princeps amniotic tanks depicted in canon as full-body immersion vessels with continuous oxygenated-amniotic perfusion, MIU neural interface, and waste-removal manifold for long-duration titan-piloting (days to weeks). Forge World Imperial Armour cross-sections show pump rooms, reservoir tanks, and reagent-cycling architecture. Anticipates: long-duration full-body human-immersion bioreactor with neural-interface coupling; pilot-life-support architecture combining circulation, oxygenation, waste filtration, and reagent supply over multi-day timescales; useful prior art for any 'multi-day human-immersion life-support bioreactor with neural interface' claim.
 
 ## Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) (2009)
 
@@ -425,6 +515,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a CMOS-fabricated DNA storage chip in which each cell is independently addressable for single-molecule DNA synthesis and read-out via integrated nanopore. Anticipates: integration of DNA-storage write and read on the same CMOS substrate; per-cell electronic addressing of nanopore-and-synthesis sites at >10^6 site density; nanofluidic single-molecule chemistries pairing on-chip electronics with enzymatic write. Anticipates claims to DNA-storage devices that combine CMOS electronics with nanopore-coupled per-cell synthesis.
 
+## Foundation Trantor Imperial Palace medical wing (2021)
+
+- **id**: `foundation-trantor-imperial-palace-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David S. Goyer / Apple TV+
+- **disclosure**: Foundation S1E1 'The Emperor's Peace' (Apple TV+ 2021-09-24) and recurring through S1-S2; specifically S2E3 'King and Commoner' (2023-07-28) Brother Day post-attack treatment.
+- **ip status**: fictional
+- **prior art notes**: Imperial palace medical wing depicted with a robotic surgeon coupled to a reagent reservoir stack, real-time neural-imprint backup before any procedure, and Imperial-grade reagent QC. Anticipates: robotic-surgeon + reagent-cartridge-stack integration; preoperative neural-imprint backup as part of the procedural flow tied to fluidic dosing decisions; high-stakes imperial-grade reagent provenance and chain-of-custody.
+
 ## Thermo Fisher Neon NxT Electroporator (2022)
 
 - **id**: `thermofisher-neon-nxt-electroporator`
@@ -435,6 +535,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an electroporation device in which the cell suspension is held within a disposable pipette tip whose lower bore contains the field-defining electrodes; aspiration draws cells between the electrodes; the pulse generator fires across the tip electrodes; cells are then dispensed into culture vessels. Anticipates: pipette-tip-format electroporation (distinct from cuvette format), parallelization by multi-channel head, instrument-disposable separation. The NxT update adds 3-channel parallelism and a redesigned electrode tip; underlying electrode-in-pipette architecture is the Invitrogen Neon parent.
 
+## Cyberpunk Edgerunners David Martinez Sandevistan augment stack (2022)
+
+- **id**: `cyberpunk-edgerunners-david-augment-stack`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Studio Trigger / CD Projekt Red / Netflix
+- **disclosure**: Cyberpunk: Edgerunners (Studio Trigger / Netflix 2022-09-13), Episodes 4-10 — David's escalating cyberware including the Sandevistan and final militech-grade augment.
+- **ip status**: fictional
+- **prior art notes**: David's escalating cyberware stack requires continuous immunosuppressant and psychosis-prevention reagent supply maintained by a chest-implanted reservoir-and-pump assembly. The Sandevistan specifically requires high-volume reagent throughput during activation. Anticipates: chest-implanted continuous-infusion reservoirs servicing multiple body-distributed implants; useful prior art for 'chest-implanted multi-implant reagent reservoir with on-demand high-throughput delivery' claims.
+
 ## Nuclera eProtein Discovery Platform (2022-09-01)
 
 - **id**: `nuclera-eprotein-platform`
@@ -444,6 +554,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nuclera Ltd. product launch announcement 2022-09; nuclera.com; Wheeler AR et al., founding patents WO2014047523A1
 - **ip status**: patented
 - **prior art notes**: Discloses a commercial EWOD cartridge benchtop instrument that combines cell-free protein synthesis with on-chip bead-based affinity purification. Builds on Wheeler-lab EWOD prior art. Anticipates: EWOD cartridges integrating cell-free protein synthesis; benchtop bead-purification on digital microfluidic platforms; the architectural pattern of disposable PCB-electrode cartridges for protein-engineering workflows.
+
+## Cyberpunk 2077 Phantom Liberty Songbird Blackwall fluidics (2023)
+
+- **id**: `cyberpunk-2077-songbird-blackwall-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt Red
+- **disclosure**: Cyberpunk 2077: Phantom Liberty (CD Projekt Red 2023-09-26) — Songbird character arc and final-act treatment scenes.
+- **ip status**: fictional
+- **prior art notes**: Songbird's Blackwall netrunning is supported by an integrated cooling-and-reagent loop that maintains her neural-implant fluidics during AI-bridging. Phantom Liberty depicts the apparatus as a head-mounted reservoir + cooling manifold with active flow control. Anticipates: neural-implant active-cooling loops integrated with reagent-supply manifolds for AI-bridging operations; useful prior art for 'head-mounted active-cooling reagent-supply manifold for neural implant operation' claims.
+
+## Death Stranding 2 Q-pid and BB-1 successor pod (2025)
+
+- **id**: `death-stranding-2-q-pid-bb-successor`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hideo Kojima / Kojima Productions
+- **disclosure**: Death Stranding 2: On the Beach (Kojima Productions / Sony 2025-06-26).
+- **ip status**: fictional
+- **prior art notes**: Death Stranding 2 features the next-generation BB pod with extended fluidic life-support: longer reagent reservoirs, improved circulation, and the Q-pid interface combining quantum-mechanical and fluidic-mechanical features. Distinct from the original Death Stranding BB pod entry; this entry covers the DS2 extensions specifically. Anticipates: next-generation portable bioreactor pods with extended-duration reagent reservoirs; combined-modality (quantum + fluidic) interface elements for portable bioreactors.
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

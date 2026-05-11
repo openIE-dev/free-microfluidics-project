@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**79 corpus entries disclose this subsystem.**
+**80 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1993
+Earliest disclosure: 1898-05-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hele-Shaw 1898 — The Flow of Water (Hele-Shaw Cell) (1898-05-12)
+
+- **id**: `hele-shaw-1898-flow-of-water`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Henry Selby Hele-Shaw
+- **disclosure**: Hele-Shaw, H. S. (1898). 'The flow of water.' Nature 58(1489): 34-36. doi:10.1038/058034a0; followed by Hele-Shaw, H. S. (1898). 'Investigation of the nature of surface resistance of water and of stream-line motion under certain experimental conditions.' Trans. Inst. Naval Arch. 40: 21-46.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical thin-slit geometry now ubiquitous in microfluidic chip design. Every PDMS or glass slit-channel device that is wider than it is tall operates in the Hele-Shaw regime, and Hele-Shaw 1898 is the explicit prior art for: (a) all 'flat-channel microfluidic chip' geometries that claim depth-averaged flow behavior; (b) viscous fingering experiments (Saffman-Taylor 1958); (c) Darcy-equivalent porous-medium analog devices used for petroleum-engineering and groundwater education chips; (d) all chips that rely on the equivalence between Hele-Shaw cell flow and 2D Laplace equation for streamline visualization. Anticipates patent claims that recite 'a flat microchannel of width >> depth' or 'depth-averaged 2D flow chip', stripping such broad geometric claims of novelty over Hele-Shaw 1898.
 
 ## Features of gold by µCP using PDMS stamps (1993)
 

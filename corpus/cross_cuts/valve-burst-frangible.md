@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-burst-frangible`
 
-**29 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-01-28
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo: Combat Evolved (Bungie/Microsoft, 2001); detailed in Halo: The Fall of Reach (Eric Nylund, Del Rey ISBN 978-0-345-45132-3, 2001) and Halo: First Strike (Eric Nylund, 2003).
 - **ip status**: fictional
 - **prior art notes**: Discloses an armor-integrated wound-sealant fluidic dispenser. Per the Fall of Reach novelization and on-armor lore, the MJOLNIR Mark IV/V/VI armor carries a biofoam canister system that, on detection of a penetrating wound, automatically injects a polymerizing fluid into the wound cavity to halt bleeding, immobilize damaged tissue, and deliver analgesics. Architecturally anticipates: (a) wearable closed-system fluid reservoir + on-demand actuator + injection cannula, (b) automated trigger via biosensor (heart-rate / pressure-loss / breach), (c) two-component reactive polymer mixed in-situ for cavity-fill, (d) drug-delivery payload bundled with mechanical hemostatic. The combat-armor automated injector concept is repeatedly described across Halo novels and games 2001-present and is depicted as a hands-free wearable microfluidic-equivalent sealant dispenser. Defensive prior art for hands-free combat-medic auto-injectors, wearable hemostatic foam dispensers, and biosensor-triggered drug delivery integrated into clothing/armor.
+
+## Halo Pelican dropship onboard medical kit (2001)
+
+- **id**: `halo-pelican-onboard-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries
+- **disclosure**: Bungie, Halo: Combat Evolved (Microsoft 2001-11-15); Halo Visual Guide (DK 2011) ISBN 978-0-7566-7711-5 — Pelican interior schematics.
+- **ip status**: fictional
+- **prior art notes**: Pelican dropship interiors depicted with wall-mounted medical kits providing immediate single-use biofoam injectors, IV reservoirs, and a fold-out gurney with patient-restraint manifold. Anticipates: vehicle-mounted single-shot medical reagent dispensers with foil-burst activation; combined gurney + reagent manifold built into a transport vehicle bulkhead; ruggedized impact-tolerant reagent reservoirs for combat-vehicle deployment.
 
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DNA Genotek Oragene-DNA datasheet 2007; 23andMe consumer launch November 2007; US patent 8,470,536
 - **ip status**: patented
 - **prior art notes**: Discloses a consumer sample-collection tube whose closure mechanism is a microfluidic dispensing event: turning the cap forces a piercing element through a foil disc that holds a precise aliquot of DNA stabilizer (proteinase, chelator, antimicrobial), releasing it into the saliva sample. Anticipates: foil-pierce dispensing in consumer collection tubes; the architectural pattern of stabilizer-on-board sample tubes that release reagent at the moment of sealing for transport stability.
+
+## S.T.A.L.K.E.R. anomaly fluid handling and Zone medical (2007)
+
+- **id**: `stalker-anomaly-fluid-handling`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: GSC Game World
+- **disclosure**: S.T.A.L.K.E.R.: Shadow of Chernobyl (GSC Game World 2007-03-20); S.T.A.L.K.E.R. 2: Heart of Chornobyl (GSC Game World 2024-11-20).
+- **ip status**: fictional
+- **prior art notes**: Stalker games depict Zone scientists collecting anomaly fluids in shielded containment vessels and processing artifact-derived reagents in mobile labs. Stalker medkits use foil-burst single-shot vials. Anticipates: shielded anomaly-fluid collection vessels with handle-and-vacuum operator interface; mobile field-lab artifact reagent extraction equipment; useful prior art for 'shielded hazardous-fluid collection vessel with operator-handle and remote-vacuum interface' claims.
 
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DNA Genotek Inc. ORAcollect•DNA OCR-100 product datasheet; dnagenotek.com pediatric collection device page
 - **ip status**: patented
 - **prior art notes**: Discloses a sponge-based pediatric variant of the Oragene architecture: an absorbent collection head replaces voluntary drool, but the same burst-valve buffer-release mechanism is preserved. Anticipates: pediatric and infant DNA collection cartridges using sponge-based collection with passive lysis-buffer release; assisted-collection variants for cognitively impaired donors; sample-adequacy through visual sponge saturation rather than donor-volume calibration.
+
+## Halo: Reach FROST and Noble Team field medical (2010)
+
+- **id**: `halo-reach-noble-team-frost-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie
+- **disclosure**: Bungie, Halo: Reach (Microsoft 2010-09-14); Halo: Reach Limited Edition guide (Prima 2010) ISBN 978-0-307-46874-2.
+- **ip status**: fictional
+- **prior art notes**: Reach gameplay shows Spartan healing from MJOLNIR-integrated biofoam reservoir with wound-detection sensors triggering auto-administration. Noble Team field medkits depicted as a multi-bay foil pack with biofoam, stim, and antiviral cartridges. Anticipates: armor-integrated trauma reagent reservoirs with wound-detection-triggered auto-injection; multi-bay foil-burst medkits with selectable cartridges; closed-loop wound diagnostics + reagent dispensing in body-worn equipment.
 
 ## AncestryDNA Saliva Collection Tube (2012-05)
 

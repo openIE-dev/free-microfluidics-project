@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `buffer-exchange-diafiltration`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2020-09
+Earliest disclosure: 2017
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Pall Cadence Inline Diafiltration (CID) (2017)
+
+- **id**: `pall-cadence-inline-diafiltration`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Pall Corporation
+- **disclosure**: Pall Cadence Inline Diafiltration launch press release 2017; https://www.pall.com/en/biotech/products/single-use-tff/cadence-inline-diafiltration.html; USP10675586B2.
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous single-pass diafiltration module: a stack of ultrafiltration cassettes plumbed for countercurrent buffer addition between cassettes, achieving complete buffer exchange in a single pass without the recirculation tank required by conventional batch diafiltration. Anticipates: inline continuous diafiltration unit operations integrated with SPTFF concentration in continuous bioprocess trains; specifically the architectural pattern of countercurrent buffer addition between TFF stages; relevant prior art for end-to-end continuous mRNA, mAb, and AAV downstream-process trains.
 
 ## BioNTech Marburg mRNA Continuous IVT Manufacturing Line (2020-09)
 

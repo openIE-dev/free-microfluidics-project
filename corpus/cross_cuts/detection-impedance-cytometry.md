@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-impedance-cytometry`
 
-**23 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1953-08-20
+Earliest disclosure: 1879
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Helmholtz 1879 — Electrical Double Layer and Electroosmosis (1879)
+
+- **id**: `helmholtz-1879-electrokinetic-double-layer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hermann von Helmholtz
+- **disclosure**: Helmholtz, H. v. (1879). 'Studien ueber elektrische Grenzschichten.' Annalen der Physik und Chemie 243(7): 337-382. doi:10.1002/andp.18792430702
+- **ip status**: public-domain
+- **prior art notes**: Discloses the electrical-double-layer concept that anchors all electrokinetic microfluidic phenomena: electroosmotic flow, electrophoresis, streaming potential, sedimentation potential, dielectrophoresis (in part). Predates Smoluchowski 1903's quantitative slip-velocity by 24 years. Anticipates broad patent claims to 'voltage-controlled flow', 'surface-charge-modulated transport', or 'streaming-potential sensing on a chip' insofar as they recite the underlying double-layer physics.
 
 ## Wallace H. Coulter 1953 Impedance Particle/Cell Counting Patent (Coulter Principle) (1953-08-20)
 
@@ -114,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aber Instruments Futura biomass monitor (predecessor) ~2000; Incyte single-use capacitance probe launched as joint Aber/Hamilton product ~2008; US patent US7,930,110B2 (Aber Instruments; biomass monitor based on dielectric spectroscopy); product literature 2010-2023
 - **ip status**: patented
 - **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
+
+## Schoch 2008 — Transport Phenomena in Nanofluidics (Rev. Mod. Phys.) (2008-07)
+
+- **id**: `schoch-2008-nanofluidic-transport-rmp`
+- **corpus**: academic
+- **device class**: nanofluidic-chip
+- **creator**: Reto B. Schoch; Jongyoon Han; Philippe Renaud
+- **disclosure**: Schoch, R. B., Han, J., Renaud, P. (2008). 'Transport phenomena in nanofluidics.' Reviews of Modern Physics 80(3): 839-883. doi:10.1103/RevModPhys.80.839
+- **ip status**: public-domain
+- **prior art notes**: Schoch 2008 in Reviews of Modern Physics is THE canonical review of nanofluidic transport prior to 2008. Catalogs: ion-selectivity in overlapping double layers, ionic-current rectification (asymmetric nanopores), concentration-polarization induced by ion-selective interfaces, electroosmotic and electrophoretic transport in nanochannels, biomolecule sensing in solid-state nanopores. Anticipates: (a) all post-2008 nanofluidic patents that claim ionic-selectivity-by-Debye-overlap; (b) ion-current-rectification asymmetric nanopore claims; (c) concentration-polarization-driven preconcentration patents; (d) DNA-translocation-through-solid-state-nanopore claims that fail to recite a non-obvious geometric or functional feature. As an RMP review, every section is examiner-citable with section/page granularity.
 
 ## Daktari Diagnostics CD4 Counter (defunct) (2009)
 

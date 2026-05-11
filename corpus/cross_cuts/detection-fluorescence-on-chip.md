@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**125 corpus entries disclose this subsystem.**
+**126 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1968
+Earliest disclosure: 1916
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Smoluchowski 1916 — Diffusion-Controlled Coagulation Theory (1916)
+
+- **id**: `smoluchowski-1916-diffusion-coagulation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Marian Smoluchowski
+- **disclosure**: Smoluchowski, M. v. (1916). 'Drei Vortraege ueber Diffusion, Brownsche Bewegung und Koagulation von Kolloidteilchen.' Physikalische Zeitschrift 17: 557-571 and 585-599.
+- **ip status**: public-domain
+- **prior art notes**: Smoluchowski's diffusion-controlled rate constant is the upper bound on every on-chip biochemical reaction rate. Anticipates: (a) immunoassay binding-time predictions in microfluidic devices (the Sqalli-Houssini bound on antibody capture); (b) DNA-target hybridization rates on microfluidic biosensors; (c) particle-aggregation assay timing claims; (d) molecular-beacon and aptamer-binding cartridge claims that rest on diffusion-limited kinetics. Any patent claim to 'rapid diagnosis by surface-capture in a microchannel' is bounded above by Smoluchowski 1916 and cannot claim novelty over the diffusion-limited rate.
 
 ## Sysmex hematology analyzer flow cell (1968)
 

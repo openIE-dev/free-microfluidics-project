@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `material-paper-cellulose`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1995
+Earliest disclosure: 1921-03
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Washburn 1921 — The Dynamics of Capillary Flow (1921-03)
+
+- **id**: `washburn-1921-dynamics-of-capillary-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Edward W. Washburn
+- **disclosure**: Washburn, E. W. (1921). 'The dynamics of capillary flow.' Physical Review 17(3): 273-283. doi:10.1103/PhysRev.17.273
+- **ip status**: public-domain
+- **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
 
 ## OraSure rapid HIV test cassette (lateral flow) (1995)
 

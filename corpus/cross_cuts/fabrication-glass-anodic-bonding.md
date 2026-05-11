@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-anodic-bonding`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26, 1880–1886. DOI: 10.1109/T-ED.1979.19791
 - **ip status**: public-domain
 - **prior art notes**: The first paper widely cited as a microfluidic-equivalent device: a 5-cm silicon wafer integrating a sample-injection valve, 1.5-meter spiral GC column, and a thermal conductivity detector. Predates Manz/Widmer's µTAS framing by 11 years and Manz's CE-on-chip by 11 years. Anticipates: silicon-substrate microfluidic chip as integrated analytical instrument, on-chip valves and integrated detection, and the entire silicon-microfluidic precursor literature. Often called the 'first lab-on-a-chip' although that term wasn't coined until much later.
+
+## Petersen 1982 — Silicon as a Mechanical Material (Extended Anchor) (1982-05)
+
+- **id**: `petersen-1982-silicon-mechanical-material-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kurt E. Petersen
+- **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
+- **ip status**: public-domain
+- **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
 
 ## Free-flow acoustophoresis for cell separation (2007)
 

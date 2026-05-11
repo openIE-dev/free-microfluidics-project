@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**21 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1969
+Earliest disclosure: 1955-03
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Womersley 1955 — Womersley Number alpha for Pulsatile Flow (1955-03)
+
+- **id**: `womersley-1955-number-pulsatile-flow`
+- **corpus**: academic
+- **device class**: other
+- **creator**: John Ronald Womersley
+- **disclosure**: Womersley, J. R. (1955). 'Method for the calculation of velocity, rate of flow and viscous drag in arteries when the pressure gradient is known.' Journal of Physiology 127(3): 553-563. doi:10.1113/jphysiol.1955.sp005276
+- **ip status**: public-domain
+- **prior art notes**: Womersley number anchors all pulsatile-flow microfluidic devices used in vascular-on-chip and arterial-flow modeling. At alpha ~ 1, viscous and unsteady inertia balance and the velocity profile differs significantly from steady Poiseuille. Anticipates: (a) endothelial-cell-on-chip platforms that recite physiologic pulsatile shear; (b) pulsatile organ-on-chip perfusion modules; (c) arterial-disease drug-screening chips that depend on pulsatile mass-transfer. Any patent claim to 'physiologic pulsatile shear in a microchannel' is anticipated by the Womersley group together with the Womersley 1955 derivation.
 
 ## Dune Tleilaxu vat-grown organs and replacement-tissue industry (1969)
 
@@ -204,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Horizon Zero Dawn (Guerrilla Games/Sony 2017); Horizon Forbidden West (2022).
 - **ip status**: fictional
 - **prior art notes**: Cradle facilities depicted as underground bunkers housing genetic templates and gestation tanks for reconstructing all of Earth's biology after the extinction event. Aloy is herself depicted as a clone produced from one of these facilities. Defensive prior art for: planetary-scale species-archive cloning facility, gestation-tank infant production at scale, and hardened underground biotech facility architecture.
+
+## The Expanse Laconian biotech lab (Strange Dogs / Persepolis Rising) (2017)
+
+- **id**: `expanse-laconia-strange-dogs-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey
+- **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3; Persepolis Rising (2017) ISBN 978-0-316-33283-5 chapters on Laconia colony bio-tech; expanded in Tiamat's Wrath (2019) ISBN 978-0-316-33287-3.
+- **ip status**: fictional
+- **prior art notes**: Strange Dogs depicts Laconian-engineered alien creatures ('the dogs') that physically reconstruct dead organisms from protomolecule-catalyzed biofluid pools. The reconstruction is a fluidic process: the dogs deposit a viscous matrix that encloses and re-grows the corpse over hours to days. Anticipates: organism-scale biological 3D-printing using a deposition matrix that polymerizes around a scaffold; cell-deposition micro-bioprinting at organism rather than tissue scale; combined deposition + curing fluidic systems for whole-body regeneration. Useful prior art for any 'matrix-deposition organism-scale bioprinting' patent claim, however speculative.
 
 ## Organoid-on-chip disease modeling (2023-2026 academic work) (2023)
 

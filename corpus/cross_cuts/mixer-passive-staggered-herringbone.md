@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `mixer-passive-staggered-herringbone`
 
-**6 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2002
+Earliest disclosure: 1841
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Peclet Number Pe = U L / D (1841)
+
+- **id**: `peclet-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Jean Claude Eugene Peclet (heat-transfer origin); standardized via mid-20th-c. transport texts
+- **disclosure**: Peclet, J. C. E. (1841). 'Traite de la chaleur considerée dans ses applications.' Hachette, Paris (2nd ed., 3 vol.); dimensionless-group form codified in 20th-century transport literature.
+- **ip status**: public-domain
+- **prior art notes**: Peclet number is the controlling parameter for every microfluidic mixer: at low Pe, diffusion dominates and mixing is fast; at high Pe (typical of microfluidics with small molecules at modest velocity), advection dominates and passive mixers like the Stroock 2002 staggered herringbone are required. Anchors: (a) all passive micromixer patents that recite mixing-length-vs-Peclet scaling; (b) Taylor-Aris dispersion analysis (combined with Aris 1956); (c) hydrodynamic focusing of analytes into a thin laminar stream for downstream detection. Any patent claim to 'mixing time scaling' or 'advection-dominated transport regime' is anticipated by the Peclet group.
+
+## Schmidt Number Sc = nu / D (1929)
+
+- **id**: `schmidt-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ernst Schmidt
+- **disclosure**: Schmidt, E. (1929). 'Foeppls Festschrift,' Springer-Verlag, Berlin, p. 179. Group structure standardized in subsequent transport literature.
+- **ip status**: public-domain
+- **prior art notes**: Schmidt number is the mass-transport analog of Prandtl number and links Reynolds and Peclet numbers. In aqueous microfluidics, the very large Sc means that mass mixing is much harder than momentum diffusion — this is the physical reason mixing is the central design problem in microfluidic chemistry. Anchors: (a) all 'mixing-enhancement' patents that recite an enhanced effective Schmidt number; (b) lamination-mixer scaling-law claims; (c) proteomic on-chip extraction efficiency arguments.
 
 ## Chaotic mixer for microchannels (staggered herringbone) (2002)
 

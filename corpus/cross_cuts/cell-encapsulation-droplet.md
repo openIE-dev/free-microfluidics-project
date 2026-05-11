@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**28 corpus entries disclose this subsystem.**
+**31 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US8748094; US9695468; US9856530 and continuations (Stanford / co-assigned with collaborators)
 - **ip status**: patented
 - **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
+
+## The Expanse protomolecule fluid biology (Eros and Venus events) (2011)
+
+- **id**: `expanse-protomolecule-eros-fluidic-biology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey / Alcon Television / Amazon Studios
+- **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011) ISBN 978-0-316-12908-4, Eros station infection arc; Caliban's War (2012) ISBN 978-0-316-12906-0, Venus surface restructuring; The Expanse TV S1E10 'Leviathan Wakes' and S2 Venus arc.
+- **ip status**: fictional
+- **prior art notes**: The protomolecule is depicted as a programmable fluid-biological substance that, when distributed through a habitat (Eros) or planetary surface (Venus), self-organizes into directed transport networks, lifts mass against gravity, and reconfigures inorganic and organic feedstock. Scenes show fluidic flow over the Eros station surfaces and the Venus restructuring as a coordinated chemical reaction-diffusion event. Reads as prior art for: chemically-programmable self-assembling reagent networks; reaction-diffusion-driven structure formation; directed liquid-state robotic feedstocks. Importantly anticipates the architectural concept of a 'reagent that builds infrastructure on demand' — a recurring theme in synthetic biology and programmed-matter patents.
 
 ## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
 
@@ -214,6 +224,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 1CellBio inDrop product launch 2017; Klein et al., Cell 161:1187 (2015) doi:10.1016/j.cell.2015.04.044 (academic origin)
 - **ip status**: patented
 - **prior art notes**: Discloses the commercial productization of the inDrops academic protocol including hydrogel-bead format barcoded primer release via UV photo-cleavage in droplet. Anticipates: photo-cleavable barcoded hydrogel beads as droplet co-encapsulation reagents; UV-triggered primer release inside droplets for single-cell RT initiation.
+
+## The Expanse Laconian biotech lab (Strange Dogs / Persepolis Rising) (2017)
+
+- **id**: `expanse-laconia-strange-dogs-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey
+- **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3; Persepolis Rising (2017) ISBN 978-0-316-33283-5 chapters on Laconia colony bio-tech; expanded in Tiamat's Wrath (2019) ISBN 978-0-316-33287-3.
+- **ip status**: fictional
+- **prior art notes**: Strange Dogs depicts Laconian-engineered alien creatures ('the dogs') that physically reconstruct dead organisms from protomolecule-catalyzed biofluid pools. The reconstruction is a fluidic process: the dogs deposit a viscous matrix that encloses and re-grows the corpse over hours to days. Anticipates: organism-scale biological 3D-printing using a deposition matrix that polymerizes around a scaffold; cell-deposition micro-bioprinting at organism rather than tissue scale; combined deposition + curing fluidic systems for whole-body regeneration. Useful prior art for any 'matrix-deposition organism-scale bioprinting' patent claim, however speculative.
+
+## The Expanse Cara/Sun-Cara Laconian augmentation procedure (2017)
+
+- **id**: `expanse-laconia-cara-augmentation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey
+- **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3 — Cara character reconstruction arc; protocol notes referenced in Tiamat's Wrath (2019).
+- **ip status**: fictional
+- **prior art notes**: Cara's reconstruction is a multi-stage process: external biological scaffold, internal protomolecule-catalyzed cellular reactivation, recovery in a fluidic cocoon, then progressive augmentation. The narrative treats it as an automated, programmable sequence operating on a single body with discrete reagent injections at controlled intervals. Reads as prior art for: programmable multi-stage cellular reactivation protocols using a sealed body-scale microfluidic reservoir; phase-change cocoon architectures providing structural and chemical support during cellular regrowth.
 
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 

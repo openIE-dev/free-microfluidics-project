@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `droplet-on-demand`
 
-**66 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1965
+Earliest disclosure: 1864
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Tate 1864 — Drop Weight Law (Tate's Law) (1864)
+
+- **id**: `tate-1864-drop-weight-law`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Thomas Tate
+- **disclosure**: Tate, T. (1864). 'On the magnitude of a drop of liquid formed under different circumstances.' Philosophical Magazine Series 4, 27(181): 176-180.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the quantitative relation between droplet detachment volume, orifice radius, and interfacial tension. Anticipates: (a) volumetric metering by drop count (the foundation of stalagmometric dispensing — and by extension every fixed-volume-per-drop dispenser claim); (b) droplet-on-demand sizing in inkjet and microfluidic dispensers when operated below the jetting threshold; (c) calibration of drop volume by surface tension and orifice geometry. Any patent that claims 'fixed-volume droplet dispensing by gravity-detached drops from a known-radius orifice' is anticipated by Tate 1864.
+
+## Weber 1919 — Weber Number We = rho U^2 L / gamma (1919)
+
+- **id**: `weber-1919-weber-number`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Moritz Weber
+- **disclosure**: Weber, M. (1919). 'Die Grundlagen der Aehnlichkeitsmechanik und ihre Verwertung bei Modellversuchen.' Jahrbuch der Schiffbautechnischen Gesellschaft 20: 355-477.
+- **ip status**: public-domain
+- **prior art notes**: Weber number governs droplet impact, jet break-up onset, and high-velocity droplet-on-demand inkjet ejection. Anchors: (a) all inkjet drop-formation patents that recite a velocity-controlled droplet size; (b) impingement-mixing on-chip patents; (c) high-throughput droplet generation in jetting regime; (d) splashing-controlled droplet deposition for additive manufacturing. Predates the modern droplet-microfluidics field by 75 years.
 
 ## Continuous inkjet (Sweet 1965) (1965)
 
@@ -94,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kyser, E. L.; Sears, S. B. Method and apparatus for recording with writing fluids and drop projection means therefor. US3946398A (1976).
 - **ip status**: patented
 - **prior art notes**: The foundational US patent for drop-on-demand piezoelectric inkjet printing — predates Canon's thermal Bubble Jet by three years. Disclosed: a piezoelectric ceramic that contracts on signal, ejecting a single droplet through a nozzle. Anticipates: the entire piezoelectric DOD inkjet category that subsequently became Epson MicroPiezo, Trident, Spectra/Dimatix, and the protein-spotter / 3D-printer-extrusion-head segments. Often forgotten because Canon won the consumer market; in industrial DOD this patent is the founding reference.
+
+## Bassous & Taub 1977 — IBM Silicon Inkjet Nozzle Array (1977-08)
+
+- **id**: `bassous-1977-ibm-inkjet-nozzle`
+- **corpus**: academic
+- **device class**: inkjet-printhead
+- **creator**: Ernest Bassous; H. H. Taub; L. Kuhn
+- **disclosure**: Bassous, E., Taub, H. H., Kuhn, L. (1977). 'Ink jet printing nozzle arrays etched in silicon.' Applied Physics Letters 31(2): 135-137. doi:10.1063/1.89587
+- **ip status**: public-domain
+- **prior art notes**: Bassous 1977 is the canonical published prior art for silicon-micromachined inkjet nozzles. Anticipates: (a) all subsequent silicon-orifice inkjet patents whose only novel feature is the silicon-anisotropic-etched orifice geometry; (b) by extension, the entire class of silicon-MEMS inkjet printheads (HP, Canon, Lexmark, Epson MEMS); (c) silicon-orifice droplet generators in microfluidic chips. Published in APL with full process disclosure including KOH etch chemistry and orifice dimensions, this is one of the strongest single-paper anchors for silicon-microfluidic-orifice prior art. Particularly important because IBM published rather than patented these initial nozzle results — eliminating any priority claim by later silicon-inkjet patentees on the underlying orifice fabrication scheme.
 
 ## Domino Amjet (Domino Printing Sciences) Continuous Inkjet Coding Printer (1978)
 

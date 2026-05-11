@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-drie`
 
-**48 corpus entries disclose this subsystem.**
+**50 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a thermal inkjet printhead that ejects droplets by explosive bubble nucleation in the ink, driven by a thin-film resistor in the ink supply chamber, using a two-part electrical pulse: a precursor pulse that preheats the ink to just below boiling, then a nucleation pulse that drives the resistor to the superheat limit, producing reproducible drop formation. Anticipates: the entire architecture of HP-style thermal inkjet (TIJ); specifically (a) thin-film resistor on silicon as the drop-ejection actuator, (b) precursor+nucleation pulse drive shaping for repeatability and resistor-life extension, (c) integration of ink supply chamber, resistor, and orifice plate as a monolithic die. Companion to the 1979 Endo/Canon thermal disclosure in the existing corpus, and predicate to all HP DeskJet, OfficeJet, and HP PageWide nozzle dies.
 
+## Petersen 1982 — Silicon as a Mechanical Material (Extended Anchor) (1982-05)
+
+- **id**: `petersen-1982-silicon-mechanical-material-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kurt E. Petersen
+- **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
+- **ip status**: public-domain
+- **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
+
 ## Silicon piezoelectric micropump (Van Lintel 1988) (1988)
 
 - **id**: `van-lintel-1988-silicon-piezo-pump`
@@ -54,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Smits, J. G. Piezoelectric micropump with three valves working peristaltically. Sens. Actuators A 1990, 21, 203–206. DOI: 10.1016/0924-4247(90)85039-7
 - **ip status**: patented
 - **prior art notes**: Disclosed silicon piezoelectric peristaltic micropump with three actively-actuated valves working in sequence to peristaltically drive fluid. Architectural alternative to Van Lintel's check-valve diaphragm topology. Anticipates: peristaltic-on-silicon-MEMS pumping, sequential-actuation valve architecture, and the broader 'all-valves-pumped' (no passive check valves) topology subsequently demonstrated by Berg/Quake.
+
+## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
+
+- **id**: `wise-1991-silicon-microsystems-instrumentation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Kensall D. Wise; Khalil Najafi
+- **disclosure**: Wise, K. D., Najafi, K. (1991). 'Microfabrication techniques for integrated sensors and microsystems.' Sensors and Actuators A 25-27: 39-49 (later expanded as Wise, K. D. 'Silicon microsystems for instrumentation and sensing,' Sens. Actuators A 56(1-2), 7-18, 1996).
+- **ip status**: public-domain
+- **prior art notes**: Wise 1991 (and the 1996 expansion) catalogs the Michigan-group silicon-MEMS portfolio including the silicon micropump, micro-needle drug-delivery devices, and integrated chemical sensors. Anticipates: (a) silicon-needle drug-delivery patents (Mark Allen Georgia Tech 1998 and descendants); (b) integrated sensor-microfluidic chip patents that fail to disclose a non-obvious feature beyond silicon-on-silicon integration; (c) lab-on-chip patents claiming integration of micropump + microvalve + sensor on a single silicon die.
 
 ## Silicon-based miniature PCR thermal cycler (Northrup 1993) (1993)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-su8-photoresist`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1991
 
@@ -44,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beebe, D. J.; Moore, J. S.; Bauer, J. M.; Yu, Q.; Liu, R. H.; Devadoss, C.; Jo, B.-H. Functional hydrogel structures for autonomous flow control inside microfluidic channels. Nature 2000, 404, 588–590. DOI: 10.1038/35007047
 - **ip status**: patented
 - **prior art notes**: Disclosed pH-responsive hydrogel structures photopatterned in situ inside microchannels to act as autonomous valves and chemostat-like sensors. Anticipates: in-channel photopolymerized hydrogel valves, stimulus-responsive autonomous flow regulation, and the entire 'smart hydrogel' microfluidics subfield. Among the most-cited microfluidics papers and a foundational primitive distinct from Quake-style pneumatic valves.
+
+## Berkeley Lights NanoPen Chamber Patent Family (2014)
+
+- **id**: `berkeley-lights-nanopen-chamber-patent`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Berkeley Lights, Inc.
+- **disclosure**: US10723988B2 'Microfluidic device with nanoliter-scale chambers'; US10384204B2; Berkeley Lights OptoSelect chip product literature 2016
+- **ip status**: patented
+- **prior art notes**: Discloses the NanoPen geometry: each pen is a dead-end side chamber off a flow channel, with chamber dimensions tuned (typically 200 micrometers long, 50-100 micrometers wide, 30-40 micrometers tall) so that diffusive transport into the channel is much slower than convective transport along it, enabling per-pen secreted-protein assays without cross-contamination. Anticipates: (a) any geometrically-isolated nanoliter side-chamber array used for clonal selection or secreted-product assay; (b) the combination of diffusion-isolated chambers with optical-DEP cell loading; (c) the integration of in-chamber bead-based capture assays for secreted proteins.

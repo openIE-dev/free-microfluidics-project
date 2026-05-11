@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `surface-functionalization-silane`
 
-**12 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1991
+Earliest disclosure: 1924
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Stern 1924 — Stern Layer Theory (1924)
+
+- **id**: `stern-1924-stern-layer-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Otto Stern
+- **disclosure**: Stern, O. (1924). 'Zur Theorie der elektrolytischen Doppelschicht.' Zeitschrift fuer Elektrochemie und angewandte physikalische Chemie 30(21-22): 508-516. doi:10.1002/bbpc.192400182
+- **ip status**: public-domain
+- **prior art notes**: Completes the modern theory of the electric double layer used in all electrokinetic microfluidic and nanofluidic device design. The zeta potential (the potential at the slip plane just outside the Stern layer) is the parameter every commercial EOF pump, every CE chip, and every electrokinetic micromixer is calibrated against. Anticipates patent claims keyed on 'controlled zeta potential surface coatings', 'adsorbed-ion modulated EOF', or 'Stern-layer engineering' as electrokinetic control schemes.
 
 ## Affymetrix (now Thermo Fisher) GeneChip Patent Estate (1991)
 

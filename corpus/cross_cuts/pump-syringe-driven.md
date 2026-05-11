@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-syringe-driven`
 
-**25 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1994
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Babylon 5 (PTEN/TNT, 1993-1998); Medlab scenes appear continuously seasons 1-5; pilot 'The Gathering' (1993) and 'Soul Hunter' (1994) establish the bed architecture.
 - **ip status**: fictional
 - **prior art notes**: Multi-bed medical bay with integrated diagnostic scanners over each bed, IV/perfusion lines, automated drug-delivery via overhead manipulators, and on-bed surgical interventions. Repeated detailed depictions across 110 episodes 1993-1998. Defensive prior art for: multi-bed integrated diagnostic-and-treatment ward architectures with overhead instrumentation rails and per-bed fluid-handling.
+
+## Halo Pelican dropship onboard medical kit (2001)
+
+- **id**: `halo-pelican-onboard-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries
+- **disclosure**: Bungie, Halo: Combat Evolved (Microsoft 2001-11-15); Halo Visual Guide (DK 2011) ISBN 978-0-7566-7711-5 — Pelican interior schematics.
+- **ip status**: fictional
+- **prior art notes**: Pelican dropship interiors depicted with wall-mounted medical kits providing immediate single-use biofoam injectors, IV reservoirs, and a fold-out gurney with patient-restraint manifold. Anticipates: vehicle-mounted single-shot medical reagent dispensers with foil-burst activation; combined gurney + reagent manifold built into a transport vehicle bulkhead; ruggedized impact-tolerant reagent reservoirs for combat-vehicle deployment.
 
 ## Vapourtec continuous-flow chemistry system (2003)
 

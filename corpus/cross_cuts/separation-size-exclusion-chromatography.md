@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-size-exclusion-chromatography`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sepragen Corp. radial-flow chromatography column patent US4,627,918 (Saxena, Sepragen, granted 1986, priority 1985); Sepragen QuantaSep / ProSep product literature; Wankat 'Radial flow chromatography,' Anal Chem 60(10):1014A (1988)
 - **ip status**: patented
 - **prior art notes**: Discloses a radial-flow chromatography column architecture: the chromatography bed is packed in an annular volume; the mobile phase enters through a central perforated tube, flows radially outward through the bed, and is collected at the outer perforated wall. Bed length is short (radial dimension) while cross-sectional area is large (cylindrical surface), giving low pressure drop at high volumetric throughput and short residence time. Anticipates: radial-flow chromatography column geometry as alternative to axial columns for preparative bioprocess; the inside-out flow distribution that exploits cylindrical geometry to decouple bed length from throughput. Element-by-element: outer housing + inner perforated tube + annular packed bed + outer perforated collection wall + inlet/outlet manifolds.
+
+## World of Darkness Tremere blood magic alchemy laboratory (1991)
+
+- **id**: `wod-tremere-blood-magic-alchemy-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tremere (White Wolf 1996) ISBN 1-56504-258-8.
+- **ip status**: fictional
+- **prior art notes**: Tremere chantry alchemy laboratory depicted with multi-vessel blood distillation rigs, brewing apparatus for blood bonds, and assay equipment for thaumaturgical reagents. Clanbook: Tremere details specific apparatus. Anticipates: multi-vessel blood-product distillation and characterization rigs; combined-vessel reagent-blood-substrate assay platforms; useful prior art for 'multi-vessel blood-substrate distillation with on-line characterization' claims.
 
 ## Charles River Laboratories Cobra Plasmid Manufacturing Platform (2010)
 

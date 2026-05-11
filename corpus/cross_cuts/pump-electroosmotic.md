@@ -6,14 +6,114 @@ layout: default
 
 # Cross-cut: `pump-electroosmotic`
 
-**11 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1990
+Earliest disclosure: 1879
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Helmholtz 1879 — Electrical Double Layer and Electroosmosis (1879)
+
+- **id**: `helmholtz-1879-electrokinetic-double-layer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Hermann von Helmholtz
+- **disclosure**: Helmholtz, H. v. (1879). 'Studien ueber elektrische Grenzschichten.' Annalen der Physik und Chemie 243(7): 337-382. doi:10.1002/andp.18792430702
+- **ip status**: public-domain
+- **prior art notes**: Discloses the electrical-double-layer concept that anchors all electrokinetic microfluidic phenomena: electroosmotic flow, electrophoresis, streaming potential, sedimentation potential, dielectrophoresis (in part). Predates Smoluchowski 1903's quantitative slip-velocity by 24 years. Anticipates broad patent claims to 'voltage-controlled flow', 'surface-charge-modulated transport', or 'streaming-potential sensing on a chip' insofar as they recite the underlying double-layer physics.
+
+## Smoluchowski 1903 — Electroosmotic Velocity Equation (1903)
+
+- **id**: `smoluchowski-1903-electroosmosis-equation`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Marian Smoluchowski
+- **disclosure**: Smoluchowski, M. v. (1903). 'Contribution a la theorie de l'endosmose electrique et de quelques phenomenes correlatifs.' Bulletin International de l'Academie des Sciences de Cracovie 8: 182-200.
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Helmholtz-Smoluchowski equation, which is THE governing relation for all electroosmotic-flow microfluidic devices. Every capillary electrophoresis chip, every electrokinetic pump, every electroosmotic micromixer, every iontophoresis-on-chip drug-delivery system inherits its quantitative behavior from Smoluchowski 1903. Anticipates: (a) all patent claims to 'electrokinetically driven liquid transport' that fail to recite a specific non-obvious geometry; (b) zeta-potential-controlled flow rate claims; (c) field-strength-modulated EOF pumping claims; (d) the entire class of EOF capillary pumps used in micro total analysis systems (Manz 1990 successor patents). The plug-flow EOF profile (advantageous for electrophoresis because it minimizes Taylor-Aris dispersion) was disclosed in 1903.
+
+## Knudsen Number Kn = lambda / L (1909)
+
+- **id**: `knudsen-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Martin Knudsen
+- **disclosure**: Knudsen, M. (1909). 'Die Gesetze der Molekularstroemung und der inneren Reibungsstroemung der Gase durch Roehren.' Annalen der Physik 333(1): 75-130. doi:10.1002/andp.19093330106. Group structure implicit; standardized in 20th-century rarefied-gas literature.
+- **ip status**: public-domain
+- **prior art notes**: Knudsen number is the controlling regime parameter for gas-phase microfluidics, vacuum microfluidics, and nanofluidic gas separations. At ~100 nm channels with air at STP, Kn ~ 1 and continuum equations break down. Anticipates: (a) all gas-microfluidic claims that recite slip-flow boundary conditions; (b) Knudsen pumps (thermal transpiration); (c) nanopore gas separation patents; (d) Pirani gauge on-chip claims. Together with Knudsen 1909 (the source paper) anchors all rarefied-gas microfluidic prior art.
+
+## Gouy 1910 — Diffuse Double Layer Theory (1910)
+
+- **id**: `gouy-1910-diffuse-double-layer`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Louis Georges Gouy
+- **disclosure**: Gouy, G. (1910). 'Sur la constitution de la charge electrique a la surface d'un electrolyte.' J. Phys. Theor. Appl. 9(1): 457-468. doi:10.1051/jphystap:019100090045700
+- **ip status**: public-domain
+- **prior art notes**: Discloses the diffuse double layer that governs all nanofluidic ion-transport behavior including the regime where channel dimension is comparable to the Debye length (the 'overlapping double layer' regime that anchors nanofluidic ionic-current rectification, ionic transistors, and selective ion sieves). Anticipates broad patent claims to 'ionic selectivity by Debye-length matched channel dimension' or 'rectifying nanofluidic ion transport' insofar as those rest on diffuse-layer physics.
+
+## Chapman 1913 — Diffuse Double Layer Extension (1913)
+
+- **id**: `chapman-1913-double-layer-extension`
+- **corpus**: academic
+- **device class**: other
+- **creator**: David Leonard Chapman
+- **disclosure**: Chapman, D. L. (1913). 'A contribution to the theory of electrocapillarity.' Philosophical Magazine Series 6, 25(148): 475-481. doi:10.1080/14786440408634187
+- **ip status**: public-domain
+- **prior art notes**: Co-anchors the Gouy-Chapman model of the diffuse double layer underpinning all electrokinetic microfluidics. Together with Gouy 1910, anticipates any patent claim to ionic-current-rectifying nanopores, surface-charge-tuned EOF, or Debye-length-controlled selectivity that fails to recite a non-obvious geometry beyond the underlying physics.
+
+## Debye-Hueckel 1923 — Debye Length and Strong Electrolyte Theory (1923-02)
+
+- **id**: `debye-huckel-1923-debye-length`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Peter Debye; Erich Hueckel
+- **disclosure**: Debye, P., Hueckel, E. (1923). 'Zur Theorie der Elektrolyte. I. Gefrierpunktserniedrigung und verwandte Erscheinungen.' Physikalische Zeitschrift 24: 185-206; II. ibid. 305-325.
+- **ip status**: public-domain
+- **prior art notes**: Defines the Debye length, the single most-cited length scale in nanofluidics. Every claim in nanofluidic patents that recites a 'channel dimension comparable to the Debye length', 'overlapping double-layer regime', or 'ionic selectivity controlled by salt concentration' inherits from Debye-Hueckel 1923. Anticipates broad nanofluidic IP that fails to disclose specific non-obvious geometric features beyond the Debye-length matching.
+
+## Stern 1924 — Stern Layer Theory (1924)
+
+- **id**: `stern-1924-stern-layer-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Otto Stern
+- **disclosure**: Stern, O. (1924). 'Zur Theorie der elektrolytischen Doppelschicht.' Zeitschrift fuer Elektrochemie und angewandte physikalische Chemie 30(21-22): 508-516. doi:10.1002/bbpc.192400182
+- **ip status**: public-domain
+- **prior art notes**: Completes the modern theory of the electric double layer used in all electrokinetic microfluidic and nanofluidic device design. The zeta potential (the potential at the slip plane just outside the Stern layer) is the parameter every commercial EOF pump, every CE chip, and every electrokinetic micromixer is calibrated against. Anticipates patent claims keyed on 'controlled zeta potential surface coatings', 'adsorbed-ion modulated EOF', or 'Stern-layer engineering' as electrokinetic control schemes.
+
+## Onsager 1931 — Reciprocal Relations (1931-02-15)
+
+- **id**: `onsager-1931-reciprocal-relations`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Lars Onsager
+- **disclosure**: Onsager, L. (1931). 'Reciprocal relations in irreversible processes. I.' Physical Review 37(4): 405-426. doi:10.1103/PhysRev.37.405; II. ibid. 38, 2265-2279 (1931).
+- **ip status**: public-domain
+- **prior art notes**: Onsager's reciprocal relations directly link electroosmosis to streaming potential, and electrophoresis to sedimentation potential. This means any microfluidic device that exploits one electrokinetic effect (e.g., streaming-potential energy harvesting from pressure-driven flow in a charged microchannel) is anticipated by Onsager 1931 in combination with the corresponding inverse-effect prior art. Anticipates: (a) streaming-potential micropumps and energy-harvesting chips; (b) thermo-osmotic pumps; (c) any 'cross-coupled transport' microfluidic claim that rests on Onsager-reciprocal physics. Onsager won the 1968 Nobel Prize in Chemistry largely for this 1931 paper.
+
+## Hyperion Cantos Brawne Lamia / Severn (M. Brawne) cyber-biotech (1989)
+
+- **id**: `hyperion-mathew-brawne-biotech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Dan Simmons
+- **disclosure**: Dan Simmons, Hyperion (Doubleday 1989) ISBN 978-0-385-24949-4; The Fall of Hyperion (1990) ISBN 978-0-385-26747-4 — Brawne Lamia, John Keats persona, Severn arcs.
+- **ip status**: fictional
+- **prior art notes**: Brawne Lamia and the Keats/Severn personas depicted as AI personalities resident in biological substrates with fluidic neural interfaces. Architectural prior art for: AI-persona biological-substrate hosts maintained by continuous fluidic neural-interface perfusion; useful for 'AI-on-biology hybrid host with continuous reagent maintenance' speculative claims.
+
+## Probstein 1989 — Physicochemical Hydrodynamics (Textbook, 1st ed.) (1989)
+
+- **id**: `probstein-1989-physicochemical-hydrodynamics-textbook`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ronald F. Probstein
+- **disclosure**: Probstein, R. F. (1989). 'Physicochemical Hydrodynamics: An Introduction,' 1st edition. Butterworths, Boston. ISBN 0-409-90089-X. 2nd ed., Wiley-Interscience (1994). 3rd ed., Wiley (2003) ISBN 0-471-45830-4.
+- **ip status**: public-domain
+- **prior art notes**: Probstein's textbook is the foundational graduate text for transport phenomena in colloidal and microfluidic systems. By 1989 (1st ed.) it documents in textbook form: electrokinetic transport (Smoluchowski-Helmholtz), capillary electrophoresis theory, hydrodynamic chromatography, microconvective diffusion in narrow channels, and double-layer-mediated transport. Anticipates broad microfluidic patent claims that fail to recite specific non-obvious geometries beyond what Probstein 1989 already discloses as standard transport theory. Textbook publication means examiners can readily cite individual sections as 102 art with section/page numbers.
 
 ## Manz / Ciba-Geigy original µTAS patent (1990 priority) (1990)
 
@@ -55,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational commercial implementation of glass chip CE for protein and nucleic acid separation. The Caliper LabChip platform was the dominant academic-research chip CE platform 2000-2010 before being eclipsed by capillary instruments. Caliper held a substantial patent estate covering chip-format separations, integrated multi-channel architectures, and droplet manipulation. Acquired by PerkinElmer 2011; underlies many commercial DNA / RNA / protein gel-equivalent chip products.
 
+## Joe Haldeman Forever Peace neural jacks (jacking) (1997)
+
+- **id**: `haldeman-forever-peace-neural-jacks`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Joe Haldeman
+- **disclosure**: Joe Haldeman, Forever Peace (Ace 1997) ISBN 978-0-441-00566-5 — Hugo Award winner 1998.
+- **ip status**: fictional
+- **prior art notes**: Forever Peace depicts neural jacks as cranial ports physically interfacing operator nervous systems with mech-pilot soldierboy units; the jack maintains an active fluidic environment around the implanted electrode array. Anticipates: cranial-port neural interfaces with active fluidic maintenance loops, multi-operator coupled neural-fluidic networks, and the architectural pattern of mech-pilot jack-and-fluid coupling. Useful prior art for 'multi-operator coupled neural-fluidic interface' patent claims.
+
 ## Cygnus GlucoWatch G2 Biographer (1999-12-06)
 
 - **id**: `cygnus-glucowatch-biographer`
@@ -64,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA PMA P990026 December 6 1999 (first wearable continuous glucose monitor cleared in US); Tamada JA et al. JAMA 282(19):1839-1844 1999 doi:10.1001/jama.282.19.1839
 - **ip status**: patented
 - **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
+
+## Karniadakis & Beskok 2002 — Micro Flows: Fundamentals and Simulation (2002)
+
+- **id**: `karniadakis-beskok-2002-micro-flows`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George Em Karniadakis; Ali Beskok
+- **disclosure**: Karniadakis, G. E., Beskok, A. (2002). 'Micro Flows: Fundamentals and Simulation.' Springer, New York. ISBN 0-387-95380-8.
+- **ip status**: public-domain
+- **prior art notes**: Karniadakis & Beskok 2002 is the first dedicated micro-flow simulation textbook, predating the more-cited Karniadakis-Beskok-Aluru 2005. Documents slip-flow boundary conditions, rarefaction-corrected simulations, and electrokinetic transport in microchannels. Anticipates patent claims keyed on simulation-driven microfluidic device design or slip-flow-corrected flow predictions in microchannels. Provides a 2002 anchor (vs 2005 for the more-cited later text).
 
 ## Nguyen & Wereley 2006 — Fundamentals and Applications of Microfluidics (2nd ed) (textbook) (2006-08-31)
 
@@ -124,3 +244,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: EOFlow Co. Ltd. press release 2017; KFDA approval 2017; Lee SH et al. clinical reports
 - **ip status**: patented
 - **prior art notes**: Discloses tubeless patch insulin pump using an electroosmotic micropump element to drive insulin through a cannula into subcutaneous tissue. Distinct from the spring/motor-driven syringe pumping in Omnipod. Anticipates: electroosmotic micropumping in implantable/wearable insulin delivery; alternative architectures to spring-driven syringe pumps in patch-pumps.
+
+## Cyberpunk 2077 Phantom Liberty Songbird Blackwall fluidics (2023)
+
+- **id**: `cyberpunk-2077-songbird-blackwall-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt Red
+- **disclosure**: Cyberpunk 2077: Phantom Liberty (CD Projekt Red 2023-09-26) — Songbird character arc and final-act treatment scenes.
+- **ip status**: fictional
+- **prior art notes**: Songbird's Blackwall netrunning is supported by an integrated cooling-and-reagent loop that maintains her neural-implant fluidics during AI-bridging. Phantom Liberty depicts the apparatus as a head-mounted reservoir + cooling manifold with active flow control. Anticipates: neural-implant active-cooling loops integrated with reagent-supply manifolds for AI-bridging operations; useful prior art for 'head-mounted active-cooling reagent-supply manifold for neural implant operation' claims.

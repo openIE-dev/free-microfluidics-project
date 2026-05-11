@@ -6,14 +6,54 @@ layout: default
 
 # Cross-cut: `separation-inertial-focusing`
 
-**10 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 1883
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Reynolds Number Re = rho U L / mu (1883)
+
+- **id**: `reynolds-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Osborne Reynolds (group); Arnold Sommerfeld (naming)
+- **disclosure**: Reynolds, O. (1883). 'An experimental investigation of the circumstances which determine whether the motion of water shall be direct or sinuous.' Phil. Trans. R. Soc. 174: 935-982. doi:10.1098/rstl.1883.0029. Group named by Sommerfeld in 1908.
+- **ip status**: public-domain
+- **prior art notes**: Reynolds number is the single most invoked dimensionless group in microfluidic literature; nearly every microfluidic chip operates at Re << 1 by design (channel size ~10 to 100 microns; velocity ~mm/s; water viscosity). Anchors: (a) all 'laminar flow chip' patents (Yager H-filter, parallel-stream extraction); (b) all 'inertial microfluidics' (Di Carlo 2007) patents that explicitly key on Re ~ 1-100; (c) the Purcell scallop theorem foundation (Purcell 1977); (d) Reynolds-controlled droplet generation regime. Codified by Sommerfeld in 1908. Together with Reynolds 1883 (the experimental paper) this anchors all dimensionless-group reasoning that microfluidic IP relies on.
+
+## Prandtl 1904 — Boundary Layer Theory (1904-08)
+
+- **id**: `prandtl-1904-boundary-layer-theory`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ludwig Prandtl
+- **disclosure**: Prandtl, L. (1904). 'Ueber Fluessigkeitsbewegung bei sehr kleiner Reibung.' Verhandlungen des dritten internationalen Mathematiker-Kongresses, Heidelberg, 8-13 August 1904: 484-491. Teubner, Leipzig (1905).
+- **ip status**: public-domain
+- **prior art notes**: While microfluidic flows are typically low-Reynolds (laminar throughout), Prandtl's boundary-layer concept is foundational for: (a) entry-length analysis in microchannels (Schlichting boundary-layer growth in developing flow); (b) high-Re inertial microfluidics (Di Carlo 2007 and descendants — particles migrate based on competing inertial lift and shear forces, both of which derive from boundary-layer arguments); (c) jet-impingement microchannel cooling (Tuckerman-Pease descendants). Anticipates: any patent claiming 'particle focusing by boundary-layer-mediated inertial lift' to the extent it recites boundary-layer physics generally rather than a specific non-obvious channel geometry.
+
+## Weissenberg Number Wi = gamma_dot * tau (1947)
+
+- **id**: `weissenberg-number-dimensionless-group`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Karl Weissenberg
+- **disclosure**: Weissenberg, K. (1947). 'A continuum theory of rheological phenomena.' Nature 159(4035): 310-311. doi:10.1038/159310a0
+- **ip status**: public-domain
+- **prior art notes**: Weissenberg number governs whether a viscoelastic fluid in a microchannel exhibits elastic instabilities (Pakdel-McKinley criterion: Wi sqrt(L/R) > critical). Anchors: (a) elastic-instability micromixers (passive mixing in viscoelastic solutions at low Re); (b) viscoelastic single-cell focusing (Yang 2011 and descendants); (c) polymer-solution droplet generation regime maps; (d) cell-deformability assays in polymer solutions. Any patent claim that recites 'mixing or focusing in viscoelastic fluid' is anticipated by Weissenberg-number scaling.
+
+## Deborah Number De = tau / T (Reiner 1964) (1964-01)
+
+- **id**: `deborah-number-reiner-1964`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Markus Reiner
+- **disclosure**: Reiner, M. (1964). 'The Deborah Number.' Physics Today 17(1): 62. doi:10.1063/1.3051374
+- **ip status**: public-domain
+- **prior art notes**: Deborah number anchors viscoelastic microfluidics: any chip that handles polymer solutions, biopolymer solutions, mucus, blood, or DNA solutions with significant relaxation time operates at finite De and exhibits non-Newtonian flow features (elastic instabilities, secondary flows, viscoelastic focusing). Anticipates: (a) elasto-inertial focusing patents; (b) DNA-stretching-on-chip patents; (c) viscoelastic-focusing single-cell platforms; (d) DEAN-flow vortex generators in viscoelastic fluids.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 

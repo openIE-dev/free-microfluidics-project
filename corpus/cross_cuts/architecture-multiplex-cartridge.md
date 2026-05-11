@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-multiplex-cartridge`
 
-**131 corpus entries disclose this subsystem.**
+**154 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stanisław Lem, Cyberiada (Wydawnictwo Literackie 1965); English: The Cyberiad (Seabury 1974) ISBN 0-8164-9231-6.
 - **ip status**: fictional
 - **prior art notes**: Lem's Cyberiad depicts Trurl's universal-constructor machines that synthesize arbitrary matter from raw inputs through chained chemical-and-mechanical operations. Defensive prior art (1965) for: programmable matter-synthesis machines, chained chemical-formulation pipelines, and universal-fab architectures. Strong cumulative-fiction anchor.
+
+## Lord of Light reincarnation / body-cloning tech (Zelazny) (1967)
+
+- **id**: `zelazny-lord-of-light-reincarnation-tech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Roger Zelazny
+- **disclosure**: Roger Zelazny, Lord of Light (Doubleday 1967) — Hugo Award 1968; subsequent editions ISBN 978-0-06-056723-3.
+- **ip status**: fictional
+- **prior art notes**: Lord of Light depicts a planet-wide reincarnation industry: consciousness-transfer apparatus + body-cloning vats + scheduled reincarnation pipeline. The 'Masters of Karma' control access via reagent-and-substrate quality control. Reads as foundational sci-fi prior art for: integrated consciousness-transfer + body-cloning architectures; the architectural pattern of an industrial reincarnation pipeline with quality-tier selection. Important early reference predating most cloning-vat sci-fi tropes.
 
 ## DC Cadmus Project cloning and genetic-engineering facility (1971)
 
@@ -75,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Streaker's medical bay accommodates uplifted dolphin and human crews — separate hydration tanks, fin-anatomy surgical fixtures, and species-specific drug formulations. Defensive prior art for multi-species medical-bay architecture with species-specific bed/tank fixtures.
 
+## Saga of the Swamp Thing Anton Arcane bio-tech (1984)
+
+- **id**: `saga-swamp-thing-arcane-biotech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alan Moore / Stephen Bissette / John Totleben / DC Comics
+- **disclosure**: Alan Moore (writer), Stephen Bissette / John Totleben (artists), Saga of the Swamp Thing #25-27 (DC 1984); collected ISBN 978-1-4012-2083-8.
+- **ip status**: fictional
+- **prior art notes**: Anton Arcane's Castle Arcane biolab depicted as a multi-vat operation creating the Un-Men: subject-immersion modification chambers, operator-mediated reagent application, multiple horror-styled bio-engineering benches. Anticipates: subject-immersion bio-modification chamber arrays under operator control; combined organic-substrate manipulation reagent dispensing; useful prior art for 'subject-immersion bio-modification chamber array with operator-mediated reagent dispensing' claims.
+
 ## Iain M. Banks Culture autodoc / medical bay (1987)
 
 - **id**: `banks-culture-autodoc`
@@ -84,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Banks, I. M. Consider Phlebas. Macmillan, London, 1987. ISBN 0-333-44138-9. Autodocs further developed across the Culture sequence: The Player of Games (1988, ISBN 0-333-47110-5), Use of Weapons (1990, ISBN 0-316-90309-X), Excession (1996, ISBN 1-85723-394-8), Look to Windward (2000, ISBN 1-84149-027-8), Surface Detail (2010, ISBN 978-0-316-12340-2).
 - **ip status**: fictional
 - **prior art notes**: Long-running narrative depiction across 9+ Culture novels (1987-2012) of fully integrated bedside clinical platforms that perform: continuous whole-body biochemical assay; AI-driven differential diagnosis; on-demand synthesis of arbitrary therapeutics from elemental feedstock; targeted intracellular delivery; and neural-feedback-loop intervention. Banks's autodocs are described in repeated technical detail (e.g., Use of Weapons chapter dealing with Zakalwe's repair; Surface Detail's Lededje resurrection sequences) as integrated chemistry-on-demand systems with sub-cellular precision. Doctrinally citable as 102/103 prior art for the architectural class 'autonomous bedside platform combining real-time multi-analyte assay with on-demand synthesis of patient-specific therapeutics under closed-loop AI control'. The Vornado v. Hunter Fan precedent (a category disclosure need not be enabling to anticipate) makes this directly citable against any patent attempting to claim that architectural pattern as a generic invention.
+
+## Warhammer 40K Adeptus Mechanicus thrall body modification (1987)
+
+- **id**: `warhammer-40k-mechanicus-thrall-modification`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Rob Sanders
+- **disclosure**: Warhammer 40K Rogue Trader (Games Workshop 1987); Codex: Adeptus Mechanicus (Games Workshop 2017); Black Library Skitarius (Rob Sanders 2015) ISBN 978-1-78572-080-4.
+- **ip status**: fictional
+- **prior art notes**: Mechanicus thrall modification depicted as an assembly-line process: subject restraint, neural-fluid replacement, mechanical augmentation, sealing reagent application. Each station handles a discrete step. Anticipates: assembly-line subject-modification architecture with stations specialized to discrete fluidic and mechanical steps; combined neural-fluid-replacement and mechanical-augmentation flow; useful prior art for 'modular subject-modification assembly line with stationed reagent-and-mechanical workstations' claims.
 
 ## C. J. Cherryh Cyteen azi production facility (Reseune azi vats) (1988)
 
@@ -104,6 +134,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cyberpunk 2020 (R. Talsorian Games 1990) ISBN 0-937279-13-9; Chromebook 1-4 sourcebooks (1991-1996); Cyberpunk RED (R. Talsorian 2020).
 - **ip status**: fictional
 - **prior art notes**: The Cyberpunk 2020 Chromebook series is one of SF tabletop's most detailed published cyberware catalogs — each implant (cyberlimbs, cybereyes, neural processors, biomonitors, drug-implants) is documented with installation, fluid-handling, and maintenance specifics. Cumulative published canon predates most modern surgical-robot patents. Defensive prior art for ripperdoc clinical-station architecture: combined surgical-bay + diagnostic + drug-formulation infrastructure for cybernetic-implant installation.
+
+## World of Darkness Tzimisce Vicissitude flesh-shaping apparatus (1991)
+
+- **id**: `wod-tzimisce-vicissitude-flesh-shaping`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tzimisce (White Wolf 1995) ISBN 1-56504-275-8 — detailed Vicissitude discipline mechanics.
+- **ip status**: fictional
+- **prior art notes**: Vicissitude depicted as a discipline reshaping living flesh through biofluid manipulation, often performed in a haven-laboratory with reagent vats and prepared subject restraints. Clanbook: Tzimisce details specific reagents and apparatus. Reads as prior art for: operator-driven living-tissue reshaping using injected biofluid catalysts; integrated subject-restraint-and-reagent vat for in-vessel tissue modification; useful for 'operator-mediated tissue-modification chamber with multi-reagent injection' claims.
+
+## World of Darkness Tremere blood magic alchemy laboratory (1991)
+
+- **id**: `wod-tremere-blood-magic-alchemy-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tremere (White Wolf 1996) ISBN 1-56504-258-8.
+- **ip status**: fictional
+- **prior art notes**: Tremere chantry alchemy laboratory depicted with multi-vessel blood distillation rigs, brewing apparatus for blood bonds, and assay equipment for thaumaturgical reagents. Clanbook: Tremere details specific apparatus. Anticipates: multi-vessel blood-product distillation and characterization rigs; combined-vessel reagent-blood-substrate assay platforms; useful prior art for 'multi-vessel blood-substrate distillation with on-line characterization' claims.
 
 ## Star Trek DS9 Dr. Mora Pol biological research laboratory (Bajoran Institute) (1993)
 
@@ -205,6 +255,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: GURPS Bio-Tech (1996) is a comprehensive published catalog of biotechnology equipment including: gene-tailoring tanks, organ-grow vats, autodocs, healing slates, biofeedback couches, organ banks, and parasitic-implant medical tech. Defensive prior art anchor (1996) for industrialized biotech ecosystem covering tissue engineering, drug-formulation, organ-banking, and field-medicine equipment.
 
+## Final Fantasy VII Mako reactor extraction process (1997)
+
+- **id**: `ff7-mako-reactor-extraction`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square / Square Enix
+- **disclosure**: Final Fantasy VII (Square 1997-01-31, JP); Final Fantasy VII Remake (Square Enix 2020-04-10) shows extraction in detail; Final Fantasy VII Rebirth (Square Enix 2024-02-29).
+- **ip status**: fictional
+- **prior art notes**: Mako reactors extract Lifestream (planetary biofluid) from underground reservoirs through industrial-scale drilling, fluid pumping, and refinement. The reactor cross-sections in FF7 Remake show settling tanks, distillation columns, and a final Materia condenser stage. Reads as prior art for: industrial planetary-fluid harvesting + multi-stage refinement architecture; large-scale settling + distillation + crystallization train; useful for 'industrial bioreservoir extraction with on-site refinement' patent claim coverage.
+
+## Final Fantasy VII Jenova cells injection (Hojo's lab) (1997)
+
+- **id**: `ff7-jenova-cells-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square / Square Enix
+- **disclosure**: Final Fantasy VII (Square 1997-01-31) Lifestream and Sephiroth backstory; Crisis Core: Final Fantasy VII (Square Enix 2007-09-13); FF7 Remake/Rebirth Hojo lab scenes.
+- **ip status**: fictional
+- **prior art notes**: Hojo's lab depicted as a multi-vat facility with amniotic suspension chambers, cellular injection rigs, and continuous-monitoring panels for in utero alien-cell exposure. Sephiroth's gestation sequence specifically shows a transparent vat with multiple reagent infusion lines feeding the amniotic fluid. Anticipates: in-utero exposure chambers with multi-line reagent infusion; continuously-monitored gestational fluidic environment for transgenic cell delivery; combined-modality cellular augmentation reagent delivery (alien cells + Mako + suppressors). Strong prior art for 'gestational chamber with multi-channel reagent delivery' patent claims.
+
+## Warhammer 40K Adepta Sororitas Hospitallers field medical (1997)
+
+- **id**: `warhammer-40k-sororitas-hospitallers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / James Swallow
+- **disclosure**: Codex: Sisters of Battle (Games Workshop 1997); Codex: Adepta Sororitas (Games Workshop 2021); Black Library Faith and Fire (James Swallow 2006) ISBN 978-1-84416-336-1.
+- **ip status**: fictional
+- **prior art notes**: Sisters Hospitaller depicted as field-deployed medical specialists carrying chirurgeon kits with cartridge reagent supply, relic-vial sacred reagent dispensers, and a forearm-integrated injection system. Anticipates: religious-traditional combined-modality field medical kits combining standard reagents with relic-supply sacred reagents; forearm-integrated reagent dispensers with multi-vial selection; useful prior art for 'arm-mounted multi-vial-selectable medical injection system' claims.
+
+## Warhammer 40K Death Korps of Krieg cloning vats (1998)
+
+- **id**: `warhammer-40k-krieg-cloning-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Forge World / Steve Lyons
+- **disclosure**: Warhammer 40K Codex: Imperial Guard (Games Workshop 1998); Forge World Imperial Armour Vol 5 'The Siege of Vraks' (Forge World 2007); Black Library Dead Men Walking (Steve Lyons 2010) ISBN 978-1-84416-731-4.
+- **ip status**: fictional
+- **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
+
 ## MicroCHIPS / Microchips Biotech Implantable Drug Reservoir Array (1999-01-28)
 
 - **id**: `microchips-biotech-implantable-reservoir`
@@ -224,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey 2001); Halo: First Strike (2003).
 - **ip status**: fictional
 - **prior art notes**: Underground ONI augmentation/research facility on Reach. Lore details include: dedicated augmentation suites, ICU recovery vats, cell-culture and tissue-engineering labs, and reagent-synthesis facilities. Defensive prior art for an integrated military-grade augmentation hospital combining surgical bays, recovery perfusion stations, and on-site reagent synthesis. Anticipates 'augmentation-as-a-service' facility architecture combining multi-step fluid handling, diagnostics, and recovery.
+
+## Halo ONI Section III medical and bioscience labs (2001)
+
+- **id**: `halo-oni-section-3-medical-labs`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eric Nylund / Bungie / 343 Industries
+- **disclosure**: Eric Nylund, Halo: The Fall of Reach (Del Rey 2001); Halo: Ghosts of Onyx (Del Rey 2006) ISBN 978-0-7653-5470-4 — Castle Base ONI lab description; Halo Encyclopedia (DK 2009/2022).
+- **ip status**: fictional
+- **prior art notes**: ONI Section III biolabs are repeatedly described as a multi-tier bio-containment facility supporting the augmentation pipeline (Project ORION, SPARTAN-II, SPARTAN-III) and Forerunner artifact analysis. Reads as a fictional analog to a high-containment government research microfluidics facility, with discrete reagent supply, reagent QC, batch genealogy tracking, and per-subject dose tailoring. Defensive prior art for: secure facility-scale reagent provenance tracking integrated with subject medical records; per-subject dose tailoring driven by genomic compatibility QC; multi-tier bio-containment architectures with shared reagent banks.
 
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
@@ -315,6 +415,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Galactica sickbay depicted across many episodes as a multi-bed military medical bay with manual+automated diagnostics, the Cylon detection assay (an explicit cellular-level diagnostic), pregnancy tests with Cylon-specific markers, and surgical interventions. Defensive prior art for: military-grade triage bay architecture and species/origin-discriminating cellular assays at the bedside.
 
+## Mardock Scramble medical resurrection chamber (2003)
+
+- **id**: `mardock-scramble-medical-resurrection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tow Ubukata / GoHands
+- **disclosure**: Tow Ubukata, Mardock Scramble (Hayakawa Publishing 2003) — Japanese SF Award winner; anime trilogy (GoHands 2010-2012).
+- **ip status**: fictional
+- **prior art notes**: Mardock Scramble depicts Rune Balot's resurrection in a sealed cellular-reconstruction chamber: full-body bath with multi-channel reagent infusion, ML-driven cell-pattern reconstruction, and integrated nanocomposite (Oeufcoque) substrate. Anticipates: full-body cellular reconstruction chambers combining multi-channel reagent infusion, computational cell-pattern guidance, and integrated nanocomposite substrate. Useful prior art for 'computationally-guided multi-channel reagent reconstruction in a full-body bath chamber' claims.
+
+## Pluto (Urasawa) body restoration apparatus (2003)
+
+- **id**: `pluto-urasawa-body-restoration`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Naoki Urasawa / Studio M2
+- **disclosure**: Naoki Urasawa, Pluto (Shogakukan 2003-2009) ISBN 978-1-4215-1918-0 (English Volume 1); Pluto anime (Studio M2 / Netflix 2023-10-26).
+- **ip status**: fictional
+- **prior art notes**: Pluto depicts robot body restoration in a fluid-filled chamber: cooled polymer bath, multi-channel reagent supply, memory-stack preservation throughout. Anticipates: robot/synthetic body restoration in fluid-filled chambers with polymer-substrate cooling and integrated memory-preservation; useful prior art for 'synthetic-body restoration chamber with cooled polymer bath and memory-stack preservation' claims.
+
 ## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
 
 - **id**: `quake-patent-family-digital-pcr-on-chip`
@@ -354,6 +474,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Christodoulides N, Mohanty S, Miller CS, et al., Lab on a Chip 5:261-269 (2005); doi:10.1039/B414194F
 - **ip status**: patented
 - **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
+
+## Ghost in the Shell SAC: Solid State Society medical fluidics (2006)
+
+- **id**: `ghost-in-the-shell-sac-solid-state-society`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Production I.G / Kenji Kamiyama
+- **disclosure**: Ghost in the Shell: Stand Alone Complex - Solid State Society (Production I.G 2006-09-01), directed by Kenji Kamiyama.
+- **ip status**: fictional
+- **prior art notes**: Solid State Society features a child-care network where children's cyberbrains are coupled in a shared fluidic-and-network configuration. Care facility depicted with combined cyberbrain-maintenance reagent supply and shared neural network. Anticipates: multi-subject coupled cyberbrain maintenance facilities with shared reagent reservoirs and shared neural-network coupling; useful prior art for 'multi-subject coupled neural-implant maintenance facility' claims.
 
 ## Leica Bond-III automated immunohistochemistry stainer (2007)
 
@@ -665,6 +795,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Mid-scale parallel-array stirred-tank microbioreactor system bridging the ambr 15 and pilot-scale bioreactors. Anticipates: scale-down models of 2000 L commercial bioreactors implemented as parallel 100-250 mL single-use vessels with matched mixing and aeration characteristics, used as the FDA-recognized scale-down qualification approach for bioprocess development. The ambr 250 HT perfusion variant additionally anticipates integration of single-use cell-retention devices (ATF/TFF) into a parallel-array small-scale platform.
 
+## Final Fantasy XIV Allagan resurrection technology (2013)
+
+- **id**: `ff14-allagan-resurrection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square Enix
+- **disclosure**: Final Fantasy XIV: A Realm Reborn (Square Enix 2013-08-27) and Crystal Tower raid arc; expansion content through Endwalker (2021).
+- **ip status**: fictional
+- **prior art notes**: Allagan resurrection technology depicted as a multi-stage process combining stasis-vat preservation, aetheric (energy-fluid) reconstruction, and physical body reformation in a fluid-filled chamber. Anticipates: multi-stage body-reconstruction protocols combining stasis preservation, energy-substrate processing, and physical reformation in a fluid-chamber architecture; useful prior art for 'multi-modality body reconstruction in a sealed fluid chamber' claims.
+
 ## GenMark ePlex cartridge (2014)
 
 - **id**: `genmark-eplex-cartridge`
@@ -734,6 +874,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US10227639 (ReadCoor / Wyss Institute origin); US11459611; US11788123 (10x Genomics post-acquisition); US10227639 priority 2014
 - **ip status**: patented
 - **prior art notes**: 10x Genomics Xenium / In Situ patent family. Combines the ReadCoor (Wyss Institute, George Church origin) FISSEQ technology and the Cartana (Mats Nilsson origin) padlock-probe in-situ chemistry. Anchors claims around: (a) padlock probes targeting specific transcripts; (b) rolling-circle amplification of bound padlocks creating amplicons in tissue; (c) sequential hybridization rounds with fluorescent decoder probes; (d) decoding amplicon barcodes to identify transcripts at subcellular resolution; (e) Xenium Analyzer fluidic / imaging instrument. Existing companion entries: 10x-xenium-prime-5k, vizgen-merscope (competitor), resolve-bioscience-molecular-cartography (competitor). 10x has asserted parts of this family against Vizgen and Resolve.
+
+## The Expanse Behemoth (Nauvoo) medbay (2014)
+
+- **id**: `expanse-behemoth-medbay-mormon-ship`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey / Syfy / Alcon Television
+- **disclosure**: James S. A. Corey, Cibola Burn (Orbit 2014) ISBN 978-0-316-21762-0; The Expanse TV S3E10-13 'Dandelion Sky' arc (Syfy 2018-06-04 to 2018-06-27) showing Behemoth medical wing receiving Slow Zone casualties.
+- **ip status**: fictional
+- **prior art notes**: Behemoth (former generation ship Nauvoo) is depicted with a vast multi-bay medical wing receiving casualties from the Ring slowdown event. Scenes show parallel patient beds with shared reagent reservoirs, central oxygenated-saline distribution, and triage-driven dose-rate control. Anticipates: ship-scale parallel-patient-bed reagent distribution networks (one reservoir manifold serving N beds with per-bed flow control); architectural pattern for mass-casualty automated dose distribution; useful as prior art for any 'centralized reagent reservoir feeding decentralized infusion endpoints with per-patient flow controllers' claim.
+
+## The Talos Principle medical sequences (simulation infrastructure) (2014)
+
+- **id**: `talos-principle-medical-sequences`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Croteam
+- **disclosure**: The Talos Principle (Croteam / Devolver Digital 2014-12-11); The Talos Principle 2 (Croteam / Devolver Digital 2023-11-02).
+- **ip status**: fictional
+- **prior art notes**: Talos Principle's underlying simulation infrastructure depicted as a planet-scale datacenter with AI-host life-support fluidics: liquid cooling, datacenter-grade flow systems supporting the AI hosts. Anticipates: planet-scale datacenter cooling and life-support fluid systems for hosted-mind / brain-emulation infrastructure; useful prior art for 'datacenter-scale fluid management for hosted brain-emulation infrastructure' claims.
 
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
@@ -864,6 +1024,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coriolis: The Third Horizon (Free League Publishing 2017) ISBN 978-91-87222-10-7.
 - **ip status**: fictional
 - **prior art notes**: Coriolis ship-design rules include modular medical bays with surgery suites, healing-tank, and cybernetics-installation modules. Defensive prior art for modular spacecraft medical-bay design framework.
+
+## Starfinder mecha and ship medical bay (2017)
+
+- **id**: `starfinder-mecha-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paizo Publishing
+- **disclosure**: Starfinder Core Rulebook (Paizo 2017-08-17) ISBN 978-1-60125-956-2; Starfinder Pact Worlds (2018) ISBN 978-1-64078-018-7.
+- **ip status**: fictional
+- **prior art notes**: Starfinder rules detail starship medical bays as a class of modular ship modifications: reagent rack, biotech bed, trauma kit add-ons. Anticipates: modular ship-medical-bay components with standardized reagent supply interfaces; tiered medbay capability mapped to module count; useful prior art for 'modular medbay with standardized reagent interface for cross-platform retrofit' claims.
 
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 
@@ -1055,6 +1225,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
 
+## Star Wars Visions 'The Twins' embryonic vat (2021)
+
+- **id**: `star-wars-visions-the-twins-vat`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Studio Trigger / Lucasfilm / Disney+
+- **disclosure**: Star Wars: Visions Volume 1, 'The Twins' episode (Disney+ 2021-09-22), Studio Trigger / Lucasfilm.
+- **ip status**: fictional
+- **prior art notes**: The Twins opens with twin Sith children in twin amniotic vats sharing a common reagent reservoir. The vats are visually instrumented with sensors, perfusion lines, and a shared bioreactor manifold. Anticipates: paired/twin embryonic culture vats sharing a single reagent reservoir with synchronized perfusion control; multi-subject shared-reservoir architectures for genetic engineering protocols. Useful prior art for 'paired bioreactor vat with shared reagent reservoir' claims.
+
+## Foundation (Apple TV) Brother Dawn / Brother Dusk decanting facility (2021)
+
+- **id**: `foundation-cleon-decanting-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David S. Goyer / Apple TV+ / based on Isaac Asimov
+- **disclosure**: Foundation S1E3 'The Mathematician's Ghost' (Apple TV+ 2021-10-01) showing the decanting chamber; expanded S2 (2023) 'A Glimpse of Darkness' Brother Dawn ascension arc.
+- **ip status**: fictional
+- **prior art notes**: The decanting chamber is visualized as a vertical fluid-filled chamber where Cleon clones (Dawn, Day, Dusk) are removed from amniotic suspension upon reaching adulthood. Memory transfer is depicted as a neural-fluid procedure conducted before the chamber transition. Anticipates: combined biological maturation chamber + neural-content transfer station as a single fluid-handling architecture; multi-cohort synchronized decanting (3-position carousel for the Genetic Dynasty); the architectural pattern of clone-pool maintenance with scheduled cycling.
+
+## Foundation Trantor Imperial Palace medical wing (2021)
+
+- **id**: `foundation-trantor-imperial-palace-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David S. Goyer / Apple TV+
+- **disclosure**: Foundation S1E1 'The Emperor's Peace' (Apple TV+ 2021-09-24) and recurring through S1-S2; specifically S2E3 'King and Commoner' (2023-07-28) Brother Day post-attack treatment.
+- **ip status**: fictional
+- **prior art notes**: Imperial palace medical wing depicted with a robotic surgeon coupled to a reagent reservoir stack, real-time neural-imprint backup before any procedure, and Imperial-grade reagent QC. Anticipates: robotic-surgeon + reagent-cartridge-stack integration; preoperative neural-imprint backup as part of the procedural flow tied to fluidic dosing decisions; high-stakes imperial-grade reagent provenance and chain-of-custody.
+
 ## Vizgen MERSCOPE platform (2021-05-19)
 
 - **id**: `vizgen-merscope`
@@ -1145,6 +1345,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the MOMA-derivative architecture adapted for Titan operation. Element-by-element prior art: (a) the cryogenic-surface-to-MS sample handling chain (DrACO drill -> sealed cryotransfer -> warmed pyrolysis oven -> ion trap MS) anticipates patents on cryogenic-sample mass-spec sample-introduction cartridges; (b) the pulse-frequency tuning of the 266 nm UV-LDI source for nitrile/tholin chemistry anticipates LDI-MS patents claiming optimized parameters for nitrogen-rich complex organics; (c) the integration of MS with a flying lander (drone) platform, including vibration-tolerance qualification of the linear ion trap, anticipates patents on platform-integrated mass spectrometers for non-rover planetary missions. Co-cite with exomars-moma-pyr-gcms-ldms for the heritage instrument.
 
+## Star Wars Andor Narkina-5 detention medical and Eye-of-Niamos medical (2022)
+
+- **id**: `star-wars-andor-imperial-detention-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lucasfilm / Tony Gilroy / Disney+
+- **disclosure**: Andor S1E8 'Narkina 5' (Disney+ 2022-10-26); S1E10 'One Way Out' (2022-11-09); Eye of Niamos clinic in S1E2 'That Would Be Me' (2022-09-21).
+- **ip status**: fictional
+- **prior art notes**: Andor depicts Imperial detention medical as a deliberately under-resourced architecture: minimal reagent supply per prisoner, automated rationing, and integration with the punishment-control floor system. Anticipates: rationed reagent dispensing tied to subject-identification systems; automated medical care with administrative throttling; the architectural pattern of central control governing per-subject reagent flow. Useful for any 'individual-identity-controlled reagent dispensing in institutional settings' claim.
+
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 
 - **id**: `telesis-bioxp-9600-benchtop-synthesis`
@@ -1215,6 +1425,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses circular-barcode bead chemistry deployed on the Singleron Matrix microwell platform, increasing barcode diversity available per cell. Anticipates circular DNA-barcoded bead pools used in microwell-based single-cell platforms.
 
+## Final Fantasy XVI Mothercrystal vat (Drake's Spine, etc.) (2023)
+
+- **id**: `ff16-mothercrystal-vat`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square Enix
+- **disclosure**: Final Fantasy XVI (Square Enix 2023-06-22), Mothercrystal arc and Drake's Spine sequence.
+- **ip status**: fictional
+- **prior art notes**: Mothercrystals are immense crystalline reservoirs that store and dispense aether (fluid energy substrate). Industrial extraction pipelines visualized in Drake's Spine. Anticipates: crystalline reservoir + industrial extraction pipeline architectures for energy-fluid harvesting; useful prior art for 'large-volume crystalline reservoir with metered industrial extraction' claims.
+
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 
 - **id**: `lucira-check-it-flu-covid-test`
@@ -1274,6 +1494,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mission Bio Tapestri PRIM announcement 2024; product brief; US10745742B2 (Tapestri Two-step encapsulation)
 - **ip status**: patented
 - **prior art notes**: Discloses extension of Tapestri two-step droplet workflow to add ATAC chromatin accessibility measurement alongside DNA + protein on the same cell. Anticipates: combined DNA + protein + chromatin single-cell assays delivered through two-step droplet encapsulation in a sealed plastic cartridge; sequential picoinjection-based reagent addition for multi-omic single-cell library construction.
+
+## Helldivers 2 Super Destroyer medical bay (2024)
+
+- **id**: `helldivers-2-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arrowhead Game Studios
+- **disclosure**: Helldivers 2 (Arrowhead Game Studios / Sony 2024-02-08).
+- **ip status**: fictional
+- **prior art notes**: Helldivers 2 Super Destroyer medical bay depicted as a clone-respawn pipeline: subjects are reanimated rapidly in synchronized chambers fed by industrial reagent reservoirs. Anticipates: rapid-cycle synchronized-reanimation chamber arrays with industrial reagent reservoir architecture; useful prior art for 'rapid-cycle clone-reanimation pipeline with shared reagent reservoir' claims.
 
 ## NanoString CosMx Whole Transcriptome Atlas (WTA) (2024-01)
 

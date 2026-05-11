@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**148 corpus entries disclose this subsystem.**
+**170 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosite Triage launch 1995 (drug-of-abuse panel); Triage BNP first cardiac assay 2000-11 (FDA 510(k) K003425); Quidel acquisition of Alere/Biosite Triage 2017; ongoing assays through 2020s
 - **ip status**: patented
 - **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
+
+## Loctite Dual-Cartridge Static-Mixer Adhesive Microfluidic Nozzle (1995)
+
+- **id**: `loctite-dual-cartridge-static-mixer`
+- **corpus**: private
+- **device class**: mixer-component
+- **creator**: Henkel Loctite Corporation
+- **disclosure**: Henkel Loctite Corporation product datasheet 'Loctite EA 9492 dual cartridge with static mixer' (1995); US5676281A 'Static mixer nozzle'
+- **ip status**: patented
+- **prior art notes**: Discloses an early commercial dual-component adhesive cartridge architecture with a disposable thermoplastic static-mixer nozzle, foundational to subsequent construction- and consumer-grade two-part adhesive systems. Anticipates: (a) disposable static-mixer microfluidic nozzle for two-part adhesives broadly; (b) the architectural pattern that Hilti, 3M, and others later refined; (c) industrial assembly-line microfluidic mixing as a commodity. Strong early patent.
 
 ## Burstein/Tecan LabCD original disc-format platform (1997)
 
@@ -154,6 +164,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott Laboratories ARCHITECT immunoassay family. https://www.abbottdiagnostics.com
 - **ip status**: patented
 - **prior art notes**: Major central-lab immunoassay platform with reagent-cartridge format and integrated chemiluminescent magnetic microparticle (CMIA) detection. The reagent cartridges include microfluidic-equivalent delivery and metering channels. Among the largest patent estates in central-lab immunoassay automation.
+
+## Alere Triage TOX Drug Screen Microfluidic Cartridge (2003)
+
+- **id**: `alere-triage-tox-drug-screen`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Biosite Diagnostics (now Abbott)
+- **disclosure**: Biosite Diagnostics (later Alere/Abbott) product datasheet 'Triage TOX Drug Screen' (2003); US6271040B1 'Diagnostic device'
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use thermoplastic urine cartridge that performs nine-class drug-of-abuse immunoassays using fluorescence-labeled particles in capillary-driven microfluidic channels, read by a benchtop Triage MeterPro. Anticipates: (a) ED-grade microfluidic drug-screen cartridge; (b) the architectural pattern of capillary microfluidic + fluorescent-particle immunoassay; (c) 15-minute clinical drug screen on a single cartridge. Strong patent anchor.
+
+## Hilti HIT-HY Construction Adhesive Microfluidic Static-Mixer Cartridge (2003)
+
+- **id**: `hilti-hit-construction-adhesive-cartridge`
+- **corpus**: private
+- **device class**: mixer-component
+- **creator**: Hilti AG
+- **disclosure**: Hilti AG product datasheet 'HIT-HY 200 injection mortar with static mixer nozzle' (2003); US7320421B2 'Static mixer for two-component adhesive systems'
+- **ip status**: patented
+- **prior art notes**: Discloses a dual-cartridge construction adhesive system with a disposable thermoplastic static-mixer nozzle that combines two viscous components in helical microfluidic baffles immediately before dispense into a drilled anchor hole. Anticipates: (a) static-mixer microfluidic nozzle as a construction-grade two-part chemistry mixer; (b) the architectural pattern of dual-piston cartridge + helical mixer on a single-use nozzle; (c) construction-floor microfluidic mixing as a commodity. Strong patent anchor.
 
 ## Cepheid GeneXpert cartridge (2004)
 
@@ -465,6 +495,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a POC blood gas cartridge architecture distinguished by: (1) separable Sensor Cassette and Solution Pack — the user can replace one without the other based on usage profile, optimizing cost; (2) ultra-low 65 µL sample volume enabling neonatal capillary collection; (3) high-spectral-resolution CO-oximetry (256-wavelength photodiode array spectrophotometer in lieu of fixed-filter approach), enabling better discrimination of fetal Hb, sulfhemoglobin, and high MetHb fractions. The ABL90 family represents the third-generation Radiometer architecture (succeeding ABL700 series and ABL800). Anticipates: cartridge-and-pack separation as a fluidic-engineering pattern for cost-of-ownership optimization; high-spectral-resolution POC CO-oximetry; sub-100 µL POC blood gas + CO-oximetry. Companion to ABL800 FLEX (high-throughput central-lab variant).
 
+## Seegene Allplex Multiplex PCR Cartridge Patent Family (2009)
+
+- **id**: `seegene-allplex-cartridge-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Seegene Inc.
+- **disclosure**: US8198418B2 'Detection of nucleic acid sequences using oligonucleotides with multiple temperature-dependent (DPO/TOCE) probe chemistry'; KR/EP equivalents; Seegene Allplex commercial launch 2014
+- **ip status**: patented
+- **prior art notes**: Discloses Seegene's DPO and TOCE chemistries enabling multiplex real-time PCR readout of more targets than there are fluorescence channels: each target is encoded by a tagging oligo whose melting temperature is unique, so post-PCR melt analysis distinguishes targets within a single channel. Anticipates: (a) any multiplex PCR cartridge using post-cycling melt-curve deconvolution for >1 target per fluorophore; (b) DPO primers with thermo-stable spacer regions for improved specificity; (c) cartridge-format PCR multiplexing of respiratory pathogens (4-7 fluorophores resolving 14-21 targets). Useful as anchor against later 'high-multiplex per channel' assertions by Hologic, BioFire, or Roche.
+
 ## Thermo Fisher TaqPath / Applied Biosystems QuantStudio cartridge (2010)
 
 - **id**: `thermo-taqpath-cartridge`
@@ -584,6 +624,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ChemoMetec A/S NC-3000 product launch 2010; product literature 2012-2023; ChemoMetec patent estate US8,309,025B1 (Cassette for cell counting based on fluorescent staining)
 - **ip status**: patented
 - **prior art notes**: Discloses a fluorescence imaging cytometer in which a disposable polycarbonate cassette is pre-loaded with lyophilized AO (acridine orange, total nuclei) and DAPI (membrane-impermeable, dead-cell nuclei) dyes; sample is loaded by capillary action; the NC-3000 instrument acquires 8-channel fluorescence images and counts total/dead cells with viability calculation. Distinguishable from NC-200 (single-channel viability only) by the 8-channel image cytometry capability. Anticipates: closed-cassette image-cytometry architecture with pre-loaded fluorescent stains for bioprocess viability/density measurement; multi-assay panel via cassette-format extensibility. Element-by-element: capillary-fill cassette + lyophilized stain + epi-fluorescence imaging + cell-counting algorithm.
+
+## LG Chem Microfluidic Cartridge Patent Family (2010)
+
+- **id**: `lg-chem-microfluidic-cartridge-patents`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: LG Chem, Ltd.
+- **disclosure**: KR/WO LG Chem patent filings 2008-2015 covering microfluidic POC cartridges for nucleic acid extraction and PCR (e.g. KR101252429B1, WO2010030049A1, US8268262B2)
+- **ip status**: patented
+- **prior art notes**: Discloses LG Chem's centrifugal-microfluidics cartridge architecture for sample-to-answer molecular diagnostics: a polymer disc with integrated extraction columns, mixing chambers, valving (capillary burst, ferrowax, or paraffin), and PCR chambers, all driven by disc rotation on a spindle. Anticipates: (a) integrated extraction-and-amplification CD-format cartridges (Madou-lineage); (b) ferrowax / paraffin-burst valves on centrifugal discs; (c) on-disc thermal-cycling chambers integrated with optical readout windows. Material as Korean prior art for any later Roche cobas LIAT, Cepheid GeneXpert, or Abbott Alinity assertion attempting to claim CD-format integrated POC cartridges. Marked draft pending verification of specific patent grants vs applications.
+
+## AethLabs MicroAeth AE51 Black Carbon Microfluidic Flow Cell (2010)
+
+- **id**: `aethlabs-microaeth-black-carbon`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: AethLabs LLC
+- **disclosure**: AethLabs LLC product datasheet 'microAeth Model AE51' (2010)
+- **ip status**: patented
+- **prior art notes**: Discloses a pocket-sized aethalometer with a microfluidic sample-flow path through a quartz fiber filter and an 880 nm optical attenuation measurement, providing 1-minute personal black-carbon exposure data. Anticipates: (a) personal-wear microfluidic aethalometer; (b) thermoplastic flow-cell + quartz-filter as a black-carbon detection geometry; (c) battery-powered microfluidic air-quality device. Does not disclose filter advance mechanism.
 
 ## Vaxxas High-Density Microarray Patch (HD-MAP) (2010-04)
 
@@ -875,6 +935,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
 
+## Stilla Naica System Crystal Digital PCR Patent Family (2016)
+
+- **id**: `stilla-naica-crystal-digital-pcr-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Stilla Technologies
+- **disclosure**: WO2017046257A1 (Stilla Technologies, priority 2015-09-15); US10744506B2 'Method and apparatus for performing digital assays using polydisperse droplets'; Stilla Naica System product launch 2016
+- **ip status**: patented
+- **prior art notes**: Discloses a chamber-free 'crystal' digital PCR architecture in which an aqueous sample is partitioned into a 2D monolayer of monodisperse droplets confined between two parallel surfaces inside a microfluidic chip. The chip integrates a flow-focusing droplet generator with an immobilization chamber whose gap height is matched to droplet diameter so that droplets self-organize into a hexagonally close-packed 2D crystal. Anticipates: (a) any digital PCR architecture relying on geometrically constrained 2D droplet arrays for thermal cycling and image-based digital readout; (b) integrated single-chip dPCR cartridges with on-chip droplet generation, thermal cycling, and multi-color fluorescence imaging without an external droplet reader; (c) the use of close-packing density rather than addressed wells for partitioning. Material relevant to claims of Bio-Rad QX-series patents asserting required chambered/well architectures.
+
+## Erbslöh Geisenheim Wine Cartridge Test Kits (2016)
+
+- **id**: `erbsloh-geisenheim-cartridge-test`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Erbslöh Geisenheim AG
+- **disclosure**: Erbslöh Geisenheim AG product brochure 'Quick Test Cartridges for Wine Analysis' (2016)
+- **ip status**: trade-secret
+- **prior art notes**: Discloses single-use capillary microfluidic cartridges with dried-down enzymatic chemistry for routine winery measurements (malic acid, glucose-fructose, free SO2), read by a simple companion meter. Anticipates: (a) point-of-winery cartridge enzymatic chemistry on a capillary microfluidic substrate; (b) decentralization of OIV reference enzymatic methods into a winery-floor cartridge; (c) the architectural pattern of a multi-analyte family of cartridges sharing a single optical reader. Does not disclose enzyme stabilization formulation.
+
 ## Cepheid Xpress (rapid GeneXpert) cartridge (2017)
 
 - **id**: `cepheid-xpress-cartridge`
@@ -984,6 +1064,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cellix Ltd. product datasheet 'VenaPlus 8'; cellixltd.com; ECVAM-validated white papers
 - **ip status**: patented
 - **prior art notes**: Discloses an 8-channel microfluidic biochip in 96-well-plate footprint with bonded thermoplastic substrate and pressure-driven perfusion. Anticipates: 96-well-plate-footprint multi-channel perfusion biochips; thermoplastic bonded biochips for high-throughput cell-rolling assays. Distinct from existing cellix-vena8-magnetofluidics-chip entry by addressing VenaPlus rather than Vena8.
+
+## Mission Bio Tapestri Droplet Single-Cell DNA Patent Family (2017)
+
+- **id**: `mission-bio-tapestri-droplet-scdna-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Mission Bio, Inc.
+- **disclosure**: US10619204B2 'Methods for single cell genetic analysis' (priority 2015-11); WO2017106777A1; Mission Bio Tapestri platform launch 2018
+- **ip status**: patented
+- **prior art notes**: Discloses Mission Bio's two-step droplet workflow distinct from the 10x Chromium GEM single-droplet co-encapsulation: cells are first encapsulated and lysed inside droplets, then a second droplet containing barcoded primers, polymerase, and dNTPs is electrocoalesced with the lysate droplet to perform targeted multiplex PCR per cell. Anticipates: (a) two-step electrocoalescence-based single-cell barcoding workflows; (b) targeted scDNA-seq via in-droplet multiplex PCR rather than whole-transcriptome amplification; (c) injection-molded cartridges that integrate two sequential droplet generators with an electrode-equipped coalescence channel.
+
+## New Belgium Brewing Open-Fermentation Wild Microbe Microfluidic Survey (2017)
+
+- **id**: `new-belgium-open-fermentation-microfluidic-survey`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: New Belgium Brewing Company
+- **disclosure**: New Belgium Brewing R&D presentation 'Microbiome characterization of the Foeder Forest with Oxford Nanopore and microfluidic sample prep', Master Brewers Association of the Americas annual meeting 2017
+- **ip status**: unknown
+- **prior art notes**: Discloses a microfluidic sample-prep workflow at a craft brewery: wort and sour beer aliquots are passed through a disposable microfluidic cartridge that performs cell lysis, magnetic-bead DNA capture, and elution into a Nanopore library prep reaction. Anticipates: (a) brewery-floor microfluidic prep for microbiome sequencing; (b) integrated lyse-bind-elute on a thermoplastic cartridge for fermentation microbiology; (c) Oxford Nanopore-coupled brewing QC. Does not disclose primer multiplex design.
 
 ## Mission Bio Tapestri single-cell DNA sequencing (2018)
 
@@ -1095,6 +1195,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-well disposable counting plate format for image cytometry: each well has an integrated optical-quality bottom window; the instrument acquires brightfield + AO/PI fluorescence images per well in parallel; total count, viable count, and viability are computed per well. The Cellaca PLX increases parallelism to 96-well plate format. Anticipates: plate-format parallel image cytometry (vs serial single-cassette NC-200/NC-3000); high-throughput cell-counting suitable for bioprocess sampling at scale. Element-by-element: multi-well disposable plate + per-well stain + multi-channel imaging + per-well cell-count algorithm.
 
+## Stilla Naica Sapphire Chip Mask Architecture Patent Family (2018)
+
+- **id**: `stilla-naica-sapphire-chip-patent`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Stilla Technologies
+- **disclosure**: Stilla Technologies Sapphire chip product release 2018; WO2019207090A1; US11364502B2 'Microfluidic chip architecture with optimized phase actuation'
+- **ip status**: patented
+- **prior art notes**: Discloses the Sapphire chip's micro-channel mask topology in which a single sample inlet branches via passive hydrodynamic resistors to four parallel flow-focusing junctions, each feeding a distinct 2D crystal observation chamber. Anticipates claims directed to: (a) parallelized partitioning networks with shared oil source and per-sample passive flow division; (b) a single injection-molded chip carrying multiple independent dPCR reactions without active valving; (c) the use of a serpentine pre-mix region upstream of flow-focusing junctions for emulsion stabilization. Includes mask drawings sufficient to enable fabrication of equivalent COC parts at 100-200 micrometer feature sizes.
+
+## Lallemand Brewing Yeast Inoculation Cartridge (2018)
+
+- **id**: `lallemand-yeast-inoculation-cartridge`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Lallemand Inc. (Brewing Division)
+- **disclosure**: Lallemand Brewing technical bulletin TB-04 'Smart Pitch Yeast Inoculation Systems' (2018); Lallemand Brewing product datasheet 'LalBrew SOS Inoculation Cartridge' rev 2
+- **ip status**: trade-secret
+- **prior art notes**: Discloses an injection-molded thermoplastic cartridge format for delivering dosed active dry yeast inoculum into wort fermenters, with integrated sterile barrier and pressure-actuated flow path. Anticipates: (a) single-use sterile inoculation cartridges for industrial fermentation; (b) the architectural pattern of a sealed yeast pitch device that mates to a brewery-scale fermenter port via standardized aseptic connector; (c) metered cell-density delivery through a flow-controller without operator intervention. Does not disclose on-cartridge cell viability sensing.
+
+## Smith-Root eDNA Sampler Cartridge (2018)
+
+- **id**: `smith-root-edna-sampler`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smith-Root Inc.
+- **disclosure**: Smith-Root Inc product page 'eDNA Sampler' (2018); Thomas A.C. et al. 'Smith-Root eDNA Sampler validation' Methods in Ecology and Evolution 9:1379-1385 (2018) doi:10.1111/2041-210X.12994
+- **ip status**: patented
+- **prior art notes**: Discloses a field-deployable eDNA sampling cartridge with a self-preserving desiccated membrane reservoir, allowing room-temperature transport of captured environmental DNA from field to lab. Anticipates: (a) self-preserving microfluidic eDNA membrane cartridge; (b) the field workflow of pump-through filter and dry-on-membrane preservation in one device; (c) backpack-integrated microfluidic environmental sampling. Does not disclose downstream extraction protocol.
+
+## Trace Genomics Soil Microbiome Microfluidic Cartridge (2018)
+
+- **id**: `trace-genomics-soil-microbiome-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Trace Genomics Inc.
+- **disclosure**: Trace Genomics Inc product page 'Soil microbiome analysis service' (2018); USDA partnership announcement 2019
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a mail-in soil sampling cartridge feeding a high-throughput microfluidic DNA extraction line at a centralized lab, returning a fungal-pathogen and beneficial-microbe report to growers. Anticipates: (a) consumer-mail soil microbiome cartridge format; (b) high-throughput central-lab microfluidic soil prep; (c) the workflow pattern of cartridge-as-shipping-container for soil microbiome. Does not disclose primer multiplex.
+
+## Genvida microfluidic IVD cartridge (2018)
+
+- **id**: `genvida-microfluidic-ivd-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Genvida Inc.
+- **disclosure**: Genvida Inc. product brochures and Korean MFDS clearance filings 2018-2021; KR patent applications
+- **ip status**: patented
+- **prior art notes**: Discloses an injection-molded centrifugal microfluidic disc cartridge for multiplex serological / clinical chemistry assays in a point-of-care reader. Anticipates: centrifugal-disc cartridges integrating sample metering, mixing chambers, and detection wells for multiplex immunoassay; specifically the Korean implementation pattern combining COC injection molding with reflective-photometric readout in a benchtop-grade reader. Distinguishable from Gyros Bioaffy (centrifugal nanoliter immunoassay) by larger sample volumes (100s of microliters vs nanoliters) and from Roche cobas h232 by centrifugal-disc rather than dipstick architecture.
+
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
 - **id**: `parse-biosciences-evercode`
@@ -1154,6 +1304,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Inscripta Onyx product launch 2019; Inscripta MAD7 nuclease publication: Garst et al., 'Genome-wide engineering of E. coli using CREATE,' Nat Biotechnol 35:48 (2017); Inscripta SEC filings; US patent US10,808,254B2 (Inscripta nucleic acid engineering systems)
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
+
+## Heineken Continuous Quality Control Microfluidic Sampler (2019)
+
+- **id**: `heineken-continuous-qc-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Heineken N.V.
+- **disclosure**: Heineken N.V. sustainability report 2019 'Brewing a Better World' QC modernization section; TU Delft - Heineken project communications 2018-2020
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a side-stream microfluidic optical flow cell that continuously measures iso-alpha-acid bitterness (IBU) and color (EBC) on the brewing line, replacing batch off-line spectrophotometry. Anticipates: (a) inline microfluidic optical bitterness assay; (b) integration of a thermoplastic optical cell with brewery SCADA; (c) the architectural pattern of a continuous-flow chip QC instrument on a major macro-brewery line. Does not disclose specific anti-fouling protocol.
+
+## BrettSeq Wild Yeast Detection Microfluidic Cartridge (2019)
+
+- **id**: `brettseq-wild-yeast-detection-chip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Omega Yeast Labs LLC
+- **disclosure**: Omega Yeast Labs LLC product page 'BrettSeq detection service' (2019); Probrewer trade article 'Hunting Brett with microfluidic qPCR' (Brewing Industry Guide 2019)
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a single-use thermoplastic microfluidic cartridge for qPCR detection of brewing spoilage organisms (Brettanomyces bruxellensis, Pediococcus damnosus, Lactobacillus brevis) directly from beer or fermenter samples. Anticipates: (a) brewery-floor cartridge qPCR for spoilage microbiology; (b) the multiplex panel design specifically tuned to brewing contaminants; (c) decentralization of a contract-lab microbiology test into a craft-brewery cartridge. Does not disclose primer sequences (proprietary).
+
+## Demus DeMark Caffeine Quantification Microfluidic Device (2019)
+
+- **id**: `demus-demark-caffeine-quantifier`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Demus S.p.A.
+- **disclosure**: Demus S.p.A. (Trieste) product launch press release 'DeMark portable decaffeination quantifier' (2019)
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a single-use microfluidic cartridge for residual caffeine quantification from decaffeinated coffee at the process line, replacing off-line HPLC. Anticipates: (a) microfluidic decaffeination QC cartridge; (b) process-line deployment of a single-use chip for ICO-compliant residual-caffeine determination; (c) the workflow pattern of a green-coffee aliquot to chip to readout in under 10 minutes. Does not disclose the colorimetric chemistry detail.
 
 ## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
 
@@ -1275,6 +1455,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an automated hemocytometer architecture in which a disposable two-chamber slide is loaded by capillary action with sample + trypan blue stain (or unstained for fluorescence); the instrument autofocuses, acquires brightfield + optional fluorescence images, segments cells, and computes total/dead/viable counts. The Countess 3 generation adds two-channel fluorescence and improved imaging optics. Anticipates: automated brightfield+fluorescence cell-counting on a disposable hemocytometer slide with embedded counting chambers. Element-by-element: disposable slide + brightfield/fluorescence imaging + autofocus + cell-segmentation algorithm + count display.
 
+## Honeycomb Biotechnologies HIVE CellBox Patent Family (2020)
+
+- **id**: `honeycomb-hive-cellbox-patent-family`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Honeycomb Biotechnologies, Inc.
+- **disclosure**: US11352669B2 'Methods and devices for stabilizing and processing single-cell samples' (priority 2018); WO2020068937A1; Honeycomb HIVE commercial release 2021
+- **ip status**: patented
+- **prior art notes**: Discloses the HIVE picowell collector: a disposable cartridge containing a dense array of nanoliter-scale wells loaded with barcoded magnetic beads. Cells loaded by gravity sediment one-per-well by Poisson statistics; the collector is then sealed and shipped at ambient temperature with cells preserved for days, allowing decentralized sample collection without an instrument. Anticipates: (a) any scRNA-seq workflow that decouples sample collection from instrument-based processing via picowell arrays; (b) ambient-stable scRNA-seq sample preservation in a sealed picowell cartridge; (c) gravity-driven Poisson loading without active fluidics for single-cell partitioning.
+
+## Mylab Discovery Solutions PCR Cartridge Family (India) (2020)
+
+- **id**: `mylab-discovery-cy-tb-cartridge-india`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Mylab Discovery Solutions Pvt. Ltd.
+- **disclosure**: Indian Patent Office filings 2020-2024 by Mylab Discovery Solutions; CDSCO approval CoviSelf 2021-05; PathoDetect COVID-19 RT-PCR kit IFU 2020
+- **ip status**: patented
+- **prior art notes**: Records Mylab's pandemic-driven Indian patent and regulatory filings: PathoDetect RT-PCR (April 2020, first ICMR-approved Indian molecular kit) and CoviSelf (May 2021, first Indian-approved consumer self-test antigen lateral-flow). Material to defensive publication because: (a) Indian Patent Office records contain primary disclosures of the cartridge architectures used; (b) the regulatory submissions to CDSCO contain device-architecture details that can serve as 102 prior art for later international filings; (c) the rapid time-to-market disclosed development efficiencies (3-week kit development) that would be useful evidence for non-obviousness analyses. Marked draft pending IN patent number verification.
+
+## Ÿnsect Mealworm Vertical Farm Microfluidic Process Monitor (2020)
+
+- **id**: `ynsect-mealworm-protein-microfluidic-monitor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ÿnsect SA
+- **disclosure**: Ÿnsect SA company technical brochure 'Ÿnfarm vertical insect protein farm' (2020)
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a microfluidic instrument package monitoring feed-slurry composition and mealworm hemolymph stress markers in a vertical insect-protein farm. Anticipates: (a) insect-livestock biomarker monitoring on a microfluidic chip; (b) feed-slurry compositional analysis as a microfluidic process step; (c) the architectural pattern of microfluidic QC for industrial-scale insect agriculture. Does not disclose marker panel.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -1314,6 +1524,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## ABV Atomic Beer Hops Quantification Microfluidic Chip (2021)
+
+- **id**: `abv-atomic-hops-quant-chip`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ABV Atomic Inc.
+- **disclosure**: ABV Atomic Inc. product website launch announcement (2021); Brewing Industry Guild trade article 'Hops bitterness on a chip' (Brew Magazine, October 2021)
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a single-use microfluidic cartridge for craft-brewery hops bitterness quantification using on-chip solid-phase extraction followed by UV absorbance detection at 275 nm. Anticipates: (a) point-of-brew microfluidic IBU assay; (b) the architectural pattern of an SPE-microfluidic UV chip for hops phytochemistry; (c) cartridge-based decentralization of a wet-lab method (ASBC Beer-23 isohumulones). Does not disclose iso-isomerization on chip.
 
 ## Visby Medical Sexual Health Test Cartridge (2021-08)
 

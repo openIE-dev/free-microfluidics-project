@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-check`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003
+Earliest disclosure: 1989-06
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Esashi 1989 — Silicon Piezoelectric Micropump (1989-06)
+
+- **id**: `esashi-1989-silicon-piezo-pump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Masayoshi Esashi; Shuichi Shoji; A. Nakano
+- **disclosure**: Esashi, M., Shoji, S., Nakano, A. (1989). 'Normally closed microvalve and micropump fabricated on a silicon wafer.' Sensors and Actuators 20(1-2): 163-169. doi:10.1016/0250-6874(89)87114-4
+- **ip status**: public-domain
+- **prior art notes**: Esashi 1989 anchors the silicon piezo-membrane micropump and normally-closed silicon membrane microvalve, both integrated on one wafer. Anticipates: (a) integrated valve+pump silicon-microfluidic claims that fail to disclose a non-obvious feature beyond the Esashi geometry; (b) normally-closed silicon membrane valve patents (a major sub-class in MEMS-microfluidic IP); (c) piezo-actuated silicon micropump patents with passive check valves. Together with van Lintel 1988 (already in corpus) this anchors the late-1980s silicon-piezo-pump generation that preceded all commercial silicon micropump products.
 
 ## Hamilton Microlab STAR liquid handler (2003)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-resistive-heater`
 
-**52 corpus entries disclose this subsystem.**
+**58 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -65,6 +65,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a family of thermal inkjet heater chips with: (a) offset (laterally staggered) heater resistors to interleave nozzles for higher effective resolution, (b) asymmetric ink-feed vias to reduce silicon die area, (c) on-chip ESD protection via grounded-gate MOSFET integrated above the dielectric/resistor stack, (d) tri-color heater layouts that pack three independent ink colors into a single heater die for cartridge integration. Anticipates: TIJ heater-chip art beyond Canon/HP foundational disclosures, particularly the chip-level integration of color separation, redundancy, and ESD protection on a single silicon die. Lexmark exited inkjet in 2013 but the patent estate is broad and forms cited prior art in modern TIJ litigation.
 
+## Final Fantasy VII SOLDIER program enhancement procedure (1997)
+
+- **id**: `ff7-soldier-program-enhancement`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Square / Square Enix
+- **disclosure**: Final Fantasy VII (Square 1997); Crisis Core: Final Fantasy VII (Square Enix 2007-09-13); Final Fantasy VII Remake (2020) Cloud backstory.
+- **ip status**: fictional
+- **prior art notes**: SOLDIER program enhancement depicted as a Mako-immersion chamber; candidates suspended in Mako-saturated bath with controlled flow rate, exposure duration determining tier. Crisis Core depicts the chamber as a vertical cylinder with circulation, oxygenation, and continuous reagent flow. Anticipates: tiered-exposure-duration augmentation chambers with continuous reagent circulation; the architectural pattern of dose-by-time augmentation in a flow-through chamber; immersion bioreactors with subject-suspension and continuous reagent perfusion.
+
+## Warhammer 40K Death Korps of Krieg cloning vats (1998)
+
+- **id**: `warhammer-40k-krieg-cloning-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Forge World / Steve Lyons
+- **disclosure**: Warhammer 40K Codex: Imperial Guard (Games Workshop 1998); Forge World Imperial Armour Vol 5 'The Siege of Vraks' (Forge World 2007); Black Library Dead Men Walking (Steve Lyons 2010) ISBN 978-1-84416-731-4.
+- **ip status**: fictional
+- **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
+
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
 - **id**: `biomerieux-vitek-2-card-fluidics`
@@ -84,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jones, R. V.; Godorhazy, L.; Varga, N.; Szalay, D.; Urge, L.; Darvas, F. 'Continuous-flow high pressure hydrogenation reactor for optimization and high-throughput synthesis' J. Comb. Chem. 2006, 8, 110–116; ThalesNano H-Cube launch press release 2003; H-Cube user manual rev 2 (2005); US7128883B2
 - **ip status**: patented
 - **prior art notes**: Canonical commercialization of (a) in-situ electrolytic hydrogen generation coupled to a heated packed-bed flow reactor — eliminating compressed H2 cylinders and enabling lab-bench hydrogenation; (b) the disposable prepacked catalyst cartridge ('CatCart') as standardized sub-component, swappable in <30 s, with 500+ pre-loaded catalyst SKUs (Pd/C, Pt/C, Raney Ni, chiral hydrogenation catalysts); (c) integrated PAT and pressure control sealed in a benchtop appliance form factor. Anticipates patent claims directed to combined-electrolyzer-and-flow-hydrogenation reactors and to disposable prepacked catalyst cartridges within continuous-flow chemistry rigs.
+
+## Mardock Scramble medical resurrection chamber (2003)
+
+- **id**: `mardock-scramble-medical-resurrection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tow Ubukata / GoHands
+- **disclosure**: Tow Ubukata, Mardock Scramble (Hayakawa Publishing 2003) — Japanese SF Award winner; anime trilogy (GoHands 2010-2012).
+- **ip status**: fictional
+- **prior art notes**: Mardock Scramble depicts Rune Balot's resurrection in a sealed cellular-reconstruction chamber: full-body bath with multi-channel reagent infusion, ML-driven cell-pattern reconstruction, and integrated nanocomposite (Oeufcoque) substrate. Anticipates: full-body cellular reconstruction chambers combining multi-channel reagent infusion, computational cell-pattern guidance, and integrated nanocomposite substrate. Useful prior art for 'computationally-guided multi-channel reagent reconstruction in a full-body bath chamber' claims.
 
 ## Memjet Waterfall MEMS Pagewide Printhead (2007)
 
@@ -144,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ThalesNano Phoenix Flow Reactor launch 2008 (high-T flow up to 450 °C, 200 bar); X-Cube launch 2009; Ice-Cube launch 2014; Gas Module launch 2010; Cantillo, D.; Damm, M.; Kappe, C. O. 'Continuous-flow synthesis of biaryls' J. Org. Chem. 2014, 79, 223–229 (cites X-Cube); Bartrum, H. E. et al. 'Flow-chemistry vs. batch' Tetrahedron 2013, 69, 3279
 - **ip status**: patented
 - **prior art notes**: Distinct from H-Cube entry. Discloses (a) Phoenix high-T/P 'novel process window' flow reactor enabling chemistry at conditions impossible in batch glass; (b) Ice-Cube integrated Peltier-cooled flow coil for cryogenic flow chemistry (sub-zero organolithium and Grignard); (c) Gas Module providing precision-dosed gaseous-reagent inlet with mass flow control plus back-pressure equilibration, enabling routine CO, H2, O2 chemistry without cylinder safety concerns; (d) the 'novel process window' framing — exploiting transient sub-millimeter heat/mass transport to access chemistry inaccessible to batch. Anticipates patent claims to integrated multi-temperature flow rigs spanning -10 to +450 °C and to gas-dosing modules for continuous flow.
+
+## Warhammer 30K Mechanicum Princeps titan-pilot amniotic tank (2008)
+
+- **id**: `warhammer-30k-mechanicum-titan-amniotic-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / Forge World / Graham McNeill
+- **disclosure**: Forge World Imperial Armour Volume 1 (2nd Edition) (Forge World 2012); Black Library Horus Heresy: Mechanicum (Graham McNeill 2008) ISBN 978-1-84416-655-3; Adeptus Titanicus rulebook (Games Workshop 2018).
+- **ip status**: fictional
+- **prior art notes**: Princeps amniotic tanks depicted in canon as full-body immersion vessels with continuous oxygenated-amniotic perfusion, MIU neural interface, and waste-removal manifold for long-duration titan-piloting (days to weeks). Forge World Imperial Armour cross-sections show pump rooms, reservoir tanks, and reagent-cycling architecture. Anticipates: long-duration full-body human-immersion bioreactor with neural-interface coupling; pilot-life-support architecture combining circulation, oxygenation, waste filtration, and reagent supply over multi-day timescales; useful prior art for any 'multi-day human-immersion life-support bioreactor with neural interface' claim.
 
 ## Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette (2009)
 
@@ -365,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop NGS-library-prep automation system suitable for academic and small-clinical-lab use, sized between handheld and full lab automation, with integrated SPRI magnetic-bead cleanup. Anticipates: benchtop-scale NGS library-prep automation as a product class.
 
+## The Expanse Cara/Sun-Cara Laconian augmentation procedure (2017)
+
+- **id**: `expanse-laconia-cara-augmentation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey
+- **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3 — Cara character reconstruction arc; protocol notes referenced in Tiamat's Wrath (2019).
+- **ip status**: fictional
+- **prior art notes**: Cara's reconstruction is a multi-stage process: external biological scaffold, internal protomolecule-catalyzed cellular reactivation, recovery in a fluidic cocoon, then progressive augmentation. The narrative treats it as an automated, programmable sequence operating on a single body with discrete reagent injections at controlled intervals. Reads as prior art for: programmable multi-stage cellular reactivation protocols using a sealed body-scale microfluidic reservoir; phase-change cocoon architectures providing structural and chemical support during cellular regrowth.
+
 ## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
 
 - **id**: `molecular-assemblies-fams-synthesis`
@@ -494,6 +544,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Star Wars Mandalorian Living Waters of Mandalore (2023)
+
+- **id**: `star-wars-mandalorian-living-waters-pool`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Jon Favreau / Lucasfilm / Disney+
+- **disclosure**: The Mandalorian S3E2 'The Mines of Mandalore' (Disney+ 2023-03-08) — Din Djarin and Bo-Katan submerge in the Living Waters; mythic significance reaffirmed S3E5 'The Pirate' and S3E8 'The Return' (2023-04-19).
+- **ip status**: fictional
+- **prior art notes**: The Living Waters function as a full-body submersion bath in the Mandalorian rite of redemption. Visually depicted with circulation, oxygenation, and a controlled-temperature reservoir. Reads as a fictional analog to a hyperbaric / cryo-restorative full-body immersion tank. Anticipates: full-body therapeutic immersion tanks with circulation, temperature management, and oxygenated bath chemistry; the architectural pattern of ritual-medical fluid where the bath serves both restorative and ceremonial functions.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

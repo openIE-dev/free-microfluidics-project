@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**80 corpus entries disclose this subsystem.**
+**87 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1990
+Earliest disclosure: 1986
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Walter Jon Williams Hardwired biotech (1986)
+
+- **id**: `wjw-hardwired-biotech`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Walter Jon Williams
+- **disclosure**: Walter Jon Williams, Hardwired (Tor 1986) ISBN 978-0-8125-7515-5.
+- **ip status**: fictional
+- **prior art notes**: Hardwired's panzerboy and Cowboy interface depicted with cranial jacks and continuous reagent supply for immune-suppression and biotech maintenance. Foundational cyberpunk biotech reference. Anticipates: cranial-port reagent supply for chronic immune-suppression of body augmentation; integrated interface-jack + reagent-cartridge cyborg-maintenance hardware. Useful prior art for 'wearable continuous reagent infusion for cyborg-implant maintenance' claims.
 
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 
@@ -55,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
 
+## Warhammer 40K Adepta Sororitas Hospitallers field medical (1997)
+
+- **id**: `warhammer-40k-sororitas-hospitallers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Games Workshop / James Swallow
+- **disclosure**: Codex: Sisters of Battle (Games Workshop 1997); Codex: Adepta Sororitas (Games Workshop 2021); Black Library Faith and Fire (James Swallow 2006) ISBN 978-1-84416-336-1.
+- **ip status**: fictional
+- **prior art notes**: Sisters Hospitaller depicted as field-deployed medical specialists carrying chirurgeon kits with cartridge reagent supply, relic-vial sacred reagent dispensers, and a forearm-integrated injection system. Anticipates: religious-traditional combined-modality field medical kits combining standard reagents with relic-supply sacred reagents; forearm-integrated reagent dispensers with multi-vial selection; useful prior art for 'arm-mounted multi-vial-selectable medical injection system' claims.
+
 ## Cytiva Xuri W25 / Wave 25 single-use rocking bioreactor (1999)
 
 - **id**: `cytiva-xuri-wave-bioreactor`
@@ -94,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey 2001) ISBN 978-0-345-45132-3, chapters describing the ONI Section III augmentation surgery; expanded in Halo: Evolutions (2009) and Halo Encyclopedia.
 - **ip status**: fictional
 - **prior art notes**: Detailed multi-stage biological augmentation pipeline: candidates undergo coordinated injections of carbide-ceramic ossification compound (skeletal infusion), muscular-density growth catalysts, occipital-capillary reversal protein, superconducting fibrification of neural dendrites, and catalytic thyroid implants. The text describes a sequence of fluid-handling subsystems (perfusion, multi-bolus controlled injection, post-op recovery tanks). Architecturally anticipates a programmable multi-reagent timed-injection regimen administered through a single integrated patient-bed pumping system; couples diagnostic monitoring with sequenced infusion. The ~3:1 mortality figure (33 of 75 candidates surviving) makes the Project ORION protocol one of the most detailed fictional descriptions of an automated multi-channel infusion bed. Defensive prior art for: programmed multi-channel infusion stations, integrated patient-bed perfusion + monitoring loops, and time-resolved augmentation drug regimens.
+
+## Halo Pelican dropship onboard medical kit (2001)
+
+- **id**: `halo-pelican-onboard-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / 343 Industries
+- **disclosure**: Bungie, Halo: Combat Evolved (Microsoft 2001-11-15); Halo Visual Guide (DK 2011) ISBN 978-0-7566-7711-5 — Pelican interior schematics.
+- **ip status**: fictional
+- **prior art notes**: Pelican dropship interiors depicted with wall-mounted medical kits providing immediate single-use biofoam injectors, IV reservoirs, and a fold-out gurney with patient-restraint manifold. Anticipates: vehicle-mounted single-shot medical reagent dispensers with foil-burst activation; combined gurney + reagent manifold built into a transport vehicle bulkhead; ruggedized impact-tolerant reagent reservoirs for combat-vehicle deployment.
 
 ## Firefly Simon Tam handheld medical kit (2002)
 
@@ -164,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oasis Diagnostics Corporation product literature; FDA 510(k) submissions for VerOFy oral fluid collection devices; oasisdx.com
 - **ip status**: patented
 - **prior art notes**: Discloses an oral fluid collection cartridge that combines a sponge-style absorbent collector with a calibrated reservoir and an integrated lateral-flow detection strip in the same disposable. The volume-adequate indicator (a colored window that triggers when the absorbent has reached threshold saturation) anticipates downstream POC saliva cartridges that need to confirm sufficient sample without active sensing. Anticipates: integrated saliva-collection-plus-detection cartridges for drugs of abuse, infectious disease serology, and hormone screening; the 'sample adequacy window' UI pattern; injection-molded saliva collection housings with assay strip in same enclosure.
+
+## S.T.A.L.K.E.R. anomaly fluid handling and Zone medical (2007)
+
+- **id**: `stalker-anomaly-fluid-handling`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: GSC Game World
+- **disclosure**: S.T.A.L.K.E.R.: Shadow of Chernobyl (GSC Game World 2007-03-20); S.T.A.L.K.E.R. 2: Heart of Chornobyl (GSC Game World 2024-11-20).
+- **ip status**: fictional
+- **prior art notes**: Stalker games depict Zone scientists collecting anomaly fluids in shielded containment vessels and processing artifact-derived reagents in mobile labs. Stalker medkits use foil-burst single-shot vials. Anticipates: shielded anomaly-fluid collection vessels with handle-and-vacuum operator interface; mobile field-lab artifact reagent extraction equipment; useful prior art for 'shielded hazardous-fluid collection vessel with operator-handle and remote-vacuum interface' claims.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -355,6 +395,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a forensic-grade NA extraction processor with sealed single-use cartridges and chain-of-custody tracking, optimized for inhibitor-rich substrates. Anticipates: forensic-tracked extraction architectures with single-use sealed cartridges and per-sample audit metadata.
 
+## Halo: Reach FROST and Noble Team field medical (2010)
+
+- **id**: `halo-reach-noble-team-frost-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie
+- **disclosure**: Bungie, Halo: Reach (Microsoft 2010-09-14); Halo: Reach Limited Edition guide (Prima 2010) ISBN 978-0-307-46874-2.
+- **ip status**: fictional
+- **prior art notes**: Reach gameplay shows Spartan healing from MJOLNIR-integrated biofoam reservoir with wound-detection sensors triggering auto-administration. Noble Team field medkits depicted as a multi-bay foil pack with biofoam, stim, and antiviral cartridges. Anticipates: armor-integrated trauma reagent reservoirs with wound-detection-triggered auto-injection; multi-bay foil-burst medkits with selectable cartridges; closed-loop wound diagnostics + reagent dispensing in body-worn equipment.
+
+## The Expanse Rocinante shipboard medical bay (auto-doc) (2011)
+
+- **id**: `expanse-rocinante-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: James S. A. Corey / Alcon Television / Amazon Studios
+- **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011); recurring through all 9 novels and 6 TV seasons. Notable scenes: Naomi decompression treatment S5E8 'Hard Vacuum' (Amazon 2021-01-13); Bobbie Draper post-combat triage S6E2 'Azure Dragon' (2021-12-17).
+- **ip status**: fictional
+- **prior art notes**: Depicts a small-crew vessel medbay as an integrated patient bed with overhead reagent reservoirs, IV manifolds, automated injection ports, and continuous biometric monitoring closing dose decisions in software. The Naomi decompression-recovery scene specifically shows oxygenated-saline perfusion delivered automatically. Anticipates: self-contained shipboard auto-doc bays with reservoir + manifold + closed-loop biometric dose control; modular reagent cartridges that snap into a manifold; software-titrated continuous infusion driven by physiological sensors. Useful prior art for any 'reagent-cartridge driven autonomous medical bed' patent claim.
+
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
 - **id**: `hologic-panther-fusion-cartridge`
@@ -374,6 +434,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mahaffy PR et al., 'The Sample Analysis at Mars Investigation and Instrument Suite,' Space Science Reviews 170:401-478 (2012), doi:10.1007/s11214-012-9879-z; Glavin DP et al., 'Evidence for perchlorates and the origin of chlorinated hydrocarbons detected by SAM at the Rocknest aeolian deposit in Gale Crater,' JGR Planets 118:1955-1973 (2013)
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
+
+## Halo SPARTAN-IV bone density and biofoam treatment (2012)
+
+- **id**: `halo-spartan-iv-bone-density-treatment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: 343 Industries
+- **disclosure**: Halo 4 (343 Industries / Microsoft 2012-11-06); Halo: Initiation comic (Dark Horse 2013) ISBN 978-1-61655-292-8; Halo Encyclopedia (DK 2022) ISBN 978-0-7440-5689-8 SPARTAN-IV chapter.
+- **ip status**: fictional
+- **prior art notes**: SPARTAN-IV protocol depicted as a less invasive augmentation suite for adult volunteers. Multiple sequential injections: bone-density compound (carbonate/phosphate matrix infusion), muscular catalyst, neural bridge fluid for MJOLNIR Gen 2 interface. Performed in an outpatient-style clinic with single-shift recovery rather than the SPARTAN-II surgical operating theater. Anticipates: outpatient adult-augmentation protocols using a multi-bolus injection bed with sequenced reagent cartridges; bone-density-augmentation pharmaceutical cartridges; the architectural pattern of reduced-invasiveness sequenced-reagent augmentation.
 
 ## AncestryDNA Saliva Collection Tube (2012-05)
 
