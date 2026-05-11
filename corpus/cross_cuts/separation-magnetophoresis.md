@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-magnetophoresis`
 
-**23 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -84,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: QIAGEN QIAsymphony product launch 2008; user manual HB-0212; FDA-cleared QIAsymphony RGQ MDx 510(k) K133314
 - **ip status**: patented
 - **prior art notes**: Discloses a modular two-stage clinical-laboratory automation architecture where one module performs NA extraction continuously while a downstream module sets up downstream PCR/assay reactions with the same pipetting infrastructure. Anticipates: random-access continuous-loading clinical-lab extraction architectures; modular-track plus shared-robotics extraction-plus-assay-setup automation; FDA-cleared NA-extraction modules feeding integrated downstream PCR systems.
+
+## Tosoh AIA-360/1800 immunoassay patent family (2008)
+
+- **id**: `tosoh-aia-360-1800-immunoassay-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Tosoh Bioscience
+- **disclosure**: Tosoh AIA-360 (2008) and AIA-1800 (2010) launches; JP/US filings
+- **ip status**: patented
+- **prior art notes**: Tosoh AIA-360/1800 patent family covers unit-dose immunoassay cartridges with magnetic-bead separation in fluidic format. Anticipates claims directed to unit-dose immunoassay cartridges with magnetic-bead separation subsystems.
 
 ## Roche MagNA Pure 96 System (2010)
 

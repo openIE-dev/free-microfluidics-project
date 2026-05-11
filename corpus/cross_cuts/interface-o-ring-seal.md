@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**13 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2001-08-01
+Earliest disclosure: 1825
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bormioli Pharma - Glass and plastic primary packaging (1825)
+
+- **id**: `bormioli-rocco-pharma-vials`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Bormioli Pharma S.p.A.
+- **disclosure**: Bormioli Rocco company founding 1825; pharma vial product line documented post-1960; corporate split as Bormioli Pharma 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses standard Type I-III borosilicate vial primary packaging at industrial scale, with documented child-safe closure mechanisms. Anticipates routine packaging claims around multilayer borosilicate primary container with elastomeric stopper and crimp ring.
 
 ## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
 
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hamilton Company Microlab STAR product literature. https://www.hamiltoncompany.com/automated-liquid-handling/platforms/microlab-star. Hamilton STAR family launched ~2003.
 - **ip status**: patented
 - **prior art notes**: Air-displacement multi-channel pipettor with the proprietary CO-RE (compressed O-ring expansion) tip-locking mechanism: a tapered steel mandrel expands an internal O-ring inside a disposable tip to form a leak-free seal without forceful press-fit. Anticipates: air-displacement liquid handlers with sealing-mandrel disposable tips; integration of pressure-sensor monitoring (MAD) for liquid-level and clog detection; the integration of microfluidic add-on modules (for example Hamilton's NIMBUS / STAR with chip-based options) on a 96/384-channel automation backbone. Foundational prior art for any 'air-displacement multi-channel head with monitored aspiration' claim post-2003.
+
+## SCHOTT TopLyo / FIOLAX / Type I Plus - Lyophilization-optimized vials (2007)
+
+- **id**: `schott-toplyo-fiolax-vials`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: SCHOTT AG
+- **disclosure**: SCHOTT TopLyo product release 2007; Type I Plus SiO2-coated vial 2010.
+- **ip status**: patented
+- **prior art notes**: Discloses plasma-CVD SiO2 inner coating on Type I borosilicate vials to prevent siliconization-driven fog and protein-cake adhesion in lyophilized biologic products. Anticipates plasma-deposited silica inner coating for lyophilization vial fogging suppression claims.
 
 ## Future Chemistry FlowStart Evo and FlowSyn (FutureChem BV) (2008)
 

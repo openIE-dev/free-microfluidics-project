@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-serpentine`
 
-**16 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -174,3 +174,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: LumiraDx Platform CE-IVD launch 2017-12; SARS-CoV-2 Ag EUA 2020-08-18; INR strip 510(k) K191167; D-dimer 510(k) K203049
 - **ip status**: patented
 - **prior art notes**: Discloses a unified POC platform architecture: a single handheld electromechanical reader (with electrical contacts, optical excitation, and pneumatic/mechanical actuators) accepts a family of injection-molded microfluidic test strips, each pre-loaded with assay-specific dry reagents in metered zones along a capillary-driven flow path. The strip-level architecture pattern: sample inlet → capillary metering → dry-reagent rehydration mixer → optional incubation serpentine → detection chamber (electrochemical for INR/glucose; fluorescence for SARS-CoV-2 Ag, NT-proBNP, hsTnI). Anticipates: single-reader-multi-assay POC platforms using injection-molded microfluidic strips with assay-class-specific detection chambers; the commercial scaling pattern of strip manufacturing as the unit-economics enabler for menu breadth. Differs from i-STAT (single class: electrochemistry) and Sofia (single class: fluorescent immunoassay) by spanning electrochemistry + fluorescence on the same instrument.
+
+## Sysmex CN-series coagulation analyzer patent family (2018)
+
+- **id**: `sysmex-cn-series-coagulation-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sysmex Corporation
+- **disclosure**: Sysmex CN-series product launch (Sysmex Corp 2018); JP/US/EP filings via espacenet (assignee: Sysmex)
+- **ip status**: patented
+- **prior art notes**: CN-series patent family extends sysmex-cn-3000-coag-analyzer existing entry with detailed disclosure of integrated coag/chromogenic/immuno fluidic subsystem. Anticipates claims that recite integrated multi-modality coagulation fluidic cartridges with on-cartridge calibration wells.

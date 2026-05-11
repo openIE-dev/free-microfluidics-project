@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**17 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -165,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disposable-microfluidic-chip dispenser: each chip carries pneumatic diaphragm valves that meter and dispense nanoliter reagent volumes from off-chip reservoirs. Mantis is the lower-throughput single-channel system; Tempest is a 96-channel rack of identical metering primitives. Anticipates: the architectural pattern of putting the dispense metering primitive on a disposable consumable rather than on a fixed instrument syringe, which categorically eliminates carryover; the use of pneumatic diaphragm valves as the metering element in nanoliter dispensing; the chip-on-instrument architecture for low-volume reagent dispensing as an alternative to acoustic (Echo) or piezo (Mosquito) approaches.
 
+## Roche cobas Liat Strep A cartridge (2018)
+
+- **id**: `roche-cobas-liat-strep-a`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Roche Diagnostics
+- **disclosure**: Roche cobas Liat Strep A 510(k) clearance 2018.
+- **ip status**: patented
+- **prior art notes**: Discloses flexible-tube fluidic-cartridge architecture for point-of-care NAAT with CLIA waiver. Anticipates flexible-tube point-of-care NAAT cartridge for Strep A claims.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -174,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gibani MM et al. Lancet Microbe 1(7):e300-e307 2020 doi:10.1016/S2666-5247(20)30121-X (CovidNudge clinical evaluation); UK MHRA authorization
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained sample-to-answer PCR cartridge integrating swab-input, lysis, RT-PCR, and fluorescence detection. Originally a consumer DTC nutrigenomics product (NudgeBox at point of sale in supermarkets), repurposed for COVID-19. Anticipates: consumer-genomics sample-to-answer cartridges; supermarket point-of-sale DNA testing topology; reuse of consumer-genomics cartridge designs for infectious-disease detection.
+
+## Visby Medical STI 2024 cartridge extend (2024)
+
+- **id**: `visby-medical-sti-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical, Inc.
+- **disclosure**: Visby Medical 4-plex STI cartridge FDA clearance announcement Q1 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-plex sexual-health PCR cartridge with onboard thermal cycling and battery power, FDA-cleared for OTC use. Anticipates disposable battery-powered 4-plex PCR cartridge for STI panel claims.
 
 ## Multi-resolution DLP-SLA for 2 µm microfluidic channels (2026-02-27)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-electrode-integration`
 
-**57 corpus entries disclose this subsystem.**
+**62 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roger Zelazny, Lord of Light (Doubleday 1967) — Hugo Award 1968; subsequent editions ISBN 978-0-06-056723-3.
 - **ip status**: fictional
 - **prior art notes**: Lord of Light depicts a planet-wide reincarnation industry: consciousness-transfer apparatus + body-cloning vats + scheduled reincarnation pipeline. The 'Masters of Karma' control access via reagent-and-substrate quality control. Reads as foundational sci-fi prior art for: integrated consciousness-transfer + body-cloning architectures; the architectural pattern of an industrial reincarnation pipeline with quality-tier selection. Important early reference predating most cloning-vat sci-fi tropes.
+
+## BattleTech BattleMech cockpit immersion fluid (inertial damping fluid) (1984)
+
+- **id**: `battletech-cockpit-immersion-fluid`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation / Catalyst Game Labs
+- **disclosure**: BattleTech (FASA Corporation, 1984); first detailed in BattleMech Technical Readout 3025 (1986)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a non-Newtonian inertial-damping cockpit immersion fluid with integrated breathing inlet and conductive neurohelmet electrode-array. Anticipates claims directed to non-Newtonian impact-damping immersive operator chambers with integrated electrode-fluid neural interface and respiratory bypass. Especially relevant to combat vehicle and aerospace operator-cabin immersion damping claims.
 
 ## Walter Jon Williams Hardwired biotech (1986)
 
@@ -275,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Solid State Society features a child-care network where children's cyberbrains are coupled in a shared fluidic-and-network configuration. Care facility depicted with combined cyberbrain-maintenance reagent supply and shared neural network. Anticipates: multi-subject coupled cyberbrain maintenance facilities with shared reagent reservoirs and shared neural-network coupling; useful prior art for 'multi-subject coupled neural-implant maintenance facility' claims.
 
+## Promethean: The Created - Tank-reborn fluidic creation (2006)
+
+- **id**: `promethean-tank-reborn-fluidic-creation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: White Wolf Publishing, 'Promethean: The Created' core book 2006, ISBN 978-1-58846-415-8
+- **ip status**: fictional
+- **prior art notes**: Disclosure of galvanic-fluid-bath corpse-to-being transformation tank with subsequent staged refinement biofluid regimen. Anticipates claims directed to corpse-to-being electrochemical-fluidic reanimation cartridges with staged post-creation biofluid regimens.
+
 ## MaxCyte STX Scalable Transfection System (2007)
 
 - **id**: `maxcyte-stx-flow-electroporation`
@@ -304,6 +324,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bang S, Park JY, Jeong S, Kim YH, Shim HC, Kim TS, Lee DH, Song SY, Gastrointest Endosc 69:253-259 (2009); doi:10.1016/j.gie.2008.04.033; KFDA approval 2007
 - **ip status**: patented
 - **prior art notes**: Discloses a capsule endoscope using galvanic Human Body Communication for telemetry, eliminating the RF antenna and reducing power. Anticipates: HBC-based ingestible telemetry; capsule designs using body-conductive modulation; alternative to PillCam RF architecture for any future microfluidic ingestible.
+
+## Crysis Nanosuit fluidic actuation (2007-11-13)
+
+- **id**: `crysis-nanosuit-fluidic-actuation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Crytek
+- **disclosure**: Crysis (Crytek / Electronic Arts, 2007); expanded in Crysis 2 (2011) and Crysis 3 (2013)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a full-body fluidic actuation suit with multiple selectable fluidic mode configurations and host-integrated parasitic biofluid drive. Anticipates claims directed to multi-mode fluidic actuation garments or exosuits with mode-selectable fluidic configurations.
 
 ## Aber Instruments Incyte (Hamilton Incyte) Capacitance Probe (2008)
 
@@ -385,6 +415,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an ingestible passive electrochemical sensor: a stomach-acid-activated Cu/Mg galvanic couple whose discharge waveform identifies the specific tablet via modulation of electrode geometry. Sample handling is implicit microfluidics — gastric fluid acts as the electrolyte that drives signal generation. Anticipates: ingestible adherence-monitoring sensors; galvanic-cell-activated ingestible chips; tablet-coupled sensor + skin-patch receiver architectures; specifically anticipates downstream Abilify MyCite (Otsuka collaboration) integrated drug-plus-sensor product.
 
+## BioShock 2 - Big Daddy/Little Sister fluidic bonding (2010-02-09)
+
+- **id**: `bioshock-2-big-daddy-bonding`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: 2K Marin
+- **disclosure**: BioShock 2 (2K Marin / 2K Games 2010)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of fluidic conditioning chamber for inter-individual neuro-bonding via biofluid exchange, with pheromone-like signal biofluid. Anticipates claims directed to conditioning chambers for inter-individual neurobonding via biofluid signal exchange.
+
 ## Psycho-Pass Sibyl System brain-immersion fluidic substrate (2012)
 
 - **id**: `psycho-pass-sibyl-brain-immersion`
@@ -394,6 +434,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Psycho-Pass (Production I.G/Fuji TV 2012); 'Reveal of the Sibyl' arc episodes 17-18 (2013).
 - **ip status**: fictional
 - **prior art notes**: Psycho-Pass reveals that the Sibyl System is a parallel-array of disembodied human brains immersed in nutrient fluid, networked together as a distributed compute substrate. The reveal-arc shows the brain-array's perfusion infrastructure: per-brain fluid-circulation, oxygen and nutrient delivery, waste removal, and neural-electrical interface. Defensive prior art for: parallel-brain wetware compute substrate, per-brain perfusion + electrical-interface modules, and disembodied-brain network architecture.
+
+## Brin - Existence biofluidic medical (2012)
+
+- **id**: `brin-existence-medical-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Brin
+- **disclosure**: Brin, D., 'Existence' Tor Books 2012, ISBN 978-0-7653-0361-6
+- **ip status**: fictional
+- **prior art notes**: Disclosure of crowd-aggregation of wearable biofluidic patch data with AR overlay for clinical encounter. Anticipates claims directed to wearable diagnostic cartridges that aggregate biofluidic biomarker readouts across users with cloud-aggregation and AR overlay.
 
 ## MaxCyte GTx Flow Electroporation System (2014)
 

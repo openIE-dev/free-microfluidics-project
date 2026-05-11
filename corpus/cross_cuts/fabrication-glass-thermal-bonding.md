@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-thermal-bonding`
 
-**23 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Harrison, D. J.; Manz, A.; Fan, Z.; Lüdi, H.; Widmer, H. M. Capillary electrophoresis and sample injection systems integrated on a planar glass chip. Anal. Chem. 1992, 64, 1926–1932. DOI: 10.1021/ac00041a030
 - **ip status**: public-domain
 - **prior art notes**: First demonstration of capillary electrophoresis with sample injection integrated on a planar glass chip. Anticipates: integrated electrokinetic separation, T-injector geometry for plug formation, glass-glass thermal bonding for chip sealing, and on-chip electrochemical or fluorescence detection coupled to electrophoretic separation. Patent claims asserting novelty over CE-on-chip as a category run into this disclosure.
+
+## Witcher Kaer Morhen alchemy laboratory (1994)
+
+- **id**: `witcher-kaer-morhen-alchemy-laboratory`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Krew Elfow' (Blood of Elves), SuperNowa 1994, ISBN 978-83-7054-153-0
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a fortress-scale alchemical laboratory with redundant distillation columns, persistent reagent stockpile, and pre-electric heated mixing benches. Anticipates claims directed to redundant distillation manifolds for small-batch reagent production with persistent stockpile management.
 
 ## microfluidic ChipShop standard glass and thermoplastic chips (2002)
 
@@ -145,6 +155,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Production-scale numbering-up of the AFR G1 architecture: same heart-shaped channel motif, scaled to ~1 mm hydraulic diameter and ~25× footprint. Discloses (a) industrial-throughput borosilicate microreactor at multi-hundred-gram-per-minute regime; (b) modular stacking with shared heat-transfer manifolds; (c) compatibility with slurries (catalytic hydrogenation, crystallization-onset reactions) within microchannels — historically considered impossible. Anticipates patent claims directed to 'stacked plate microreactor for continuous pharmaceutical manufacturing at multi-tonne scale'. Pairs with G1 entry for full numbering-up disclosure.
 
+## BGI Group patent portfolio overview (10k+ filings) (2010)
+
+- **id**: `bgi-group-patent-portfolio-overview`
+- **corpus**: private
+- **device class**: other
+- **creator**: BGI Group / MGI Tech / Complete Genomics
+- **disclosure**: BGI Group / MGI Tech patent portfolio (Beijing Genomics Institute spinoffs, 2010-present); CN/US/EP filings via espacenet (assignees: BGI Genomics, MGI Tech, Complete Genomics)
+- **ip status**: patented
+- **prior art notes**: BGI Group patent portfolio is the foundational Chinese sequencing-fluidics IP estate, with 10k+ filings covering DNB chemistry, patterned-array flow cells, cartridge library prep, and downstream automation. Complements existing bgi-mgi-dnbseq-flowcell and bgi-mgi-cartridge-extensions entries with full portfolio scope.
+
+## Dishonored - Sokolovs alchemical laboratory (2012-10-09)
+
+- **id**: `dishonored-sokolov-laboratory`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arkane Studios
+- **disclosure**: Dishonored mission 4 (Arkane Studios 2012)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an integrated apparatus performing dual-stream chemical production (pigment and pharmaceutical) from shared distillation/reagent infrastructure, with a documented organic-oil fluidic energy source. Anticipates claims directed to dual-stream chemical co-production cartridges with shared distillation manifold and externally-supplied organic-oil energy input.
+
 ## Mathies/Quinn 2017 Microchip Capillary Electrophoresis for Mars Amino Acid Detection (2017)
 
 - **id**: `mathies-quinn-2017-microchip-ce-mars-amino-acids`
@@ -174,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Creamer, J. S. et al. 'Microfluidic Organic Analyzer for Biosignature Detection.' Lunar and Planetary Science Conference 50, abstract 2132 (2019); Mora, M. et al. 'A Microcapillary Electrophoresis Mass Spectrometry Platform for Habitability and Organic Detection in Ocean Worlds.' Astrobiology 22(11), 1330-1346 (2022), doi:10.1089/ast.2021.0124
 - **ip status**: unknown
 - **prior art notes**: Discloses a microfluidic CE-MS platform for in-situ ocean-worlds organic analysis. The chip integrates: (a) electrokinetic injection from a sealed buffer reservoir; (b) on-chip pre-column derivatization mixing module; (c) CE separation channel; (d) electrospray emitter terminating in an off-chip MS interface; (e) modular packaging compatible with SmallSat thermal/power envelope. Anticipates: integration of derivatization, CE separation, and electrospray emission on a single glass chip qualified for cryogenic/vacuum operation; modular CE-MS as a flight-ready alternative to large MS-only instruments; the use of Pacific-Blue and fluorescamine derivatization in microfluidic buffers as primary flight chemistry. Cite against later patents claiming integrated CE-ESI-MS chips for planetary biosignature detection.
+
+## MGI Tech DNBSEQ family patent extensions (2019)
+
+- **id**: `mgi-tech-dnbseq-family-patent-extensions`
+- **corpus**: private
+- **device class**: other
+- **creator**: MGI Tech
+- **disclosure**: MGI Tech DNBSEQ-T7 (2019), G400 (2020), G99 (2022) launches; CN/US/EP filings
+- **ip status**: patented
+- **prior art notes**: MGI Tech DNBSEQ patent family extends existing mgi-dnbseq-t7-flow-cell and mgi-dnbseq-g400-flow-cell entries with full portfolio coverage. Anticipates claims directed to DNB-patterned high-density sequencing flow cell cartridges.
 
 ## Nanofluidic scattering microscopy (NSM) (2022)
 

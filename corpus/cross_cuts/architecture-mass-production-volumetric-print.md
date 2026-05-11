@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-mass-production-volumetric-print`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -45,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Stross's 'cornucopias' (sometimes T-gate-coupled in Glasshouse) are room-scale matter compilers performing arbitrary small-molecule and small-object synthesis from elemental feedstock under software control. Detailed architectural depiction of integrated synthesis-on-chip / synthesis-on-platform devices that combine: feedstock metering at microliter precision; multi-step reaction sequencing; product purification; and dispensing. Relevant prior art for the architectural category 'consumer-scale on-demand chemical synthesis appliance' which subsumes proposed pharmaceutical-on-demand printing systems and personal drug-discovery cartridges.
 
+## Quake 4 - Strogg conversion line (2005-10-18)
+
+- **id**: `quake-4-strogg-conversion-line`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Raven Software
+- **disclosure**: Quake 4 (Raven Software / id Software / Activision, 2005)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of forced parallel-station industrial bioprocessing line for human-to-cyborg conversion, with per-station fluidic exchange. Anticipates claims directed to forced-throughput parallel-station bioprocessing cartridge lines with per-station fluid exchange protocols. The Strogg conversion line is a particularly extreme prior art anchor for industrial cyborg production claims.
+
 ## Vernor Vinge Rainbows End mass-printed pharmaceuticals (2006)
 
 - **id**: `vinge-rainbows-end-pharma-printer`
@@ -55,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Rainbows End depicts a near-future society where pharmaceuticals are mass-printed on demand at consumer scale (e.g., the Alzheimer's-class therapy that the protagonist receives is described as a precision-formulated personalized output). Architectural category disclosure of 'consumer-scale pharmaceutical printing appliance with personalized dose formulation'. Relevant prior art for pharmacy-printer patents and for personalized-dose 3D-printed-pharmaceutical patents (e.g., Aprecia Spritam class).
 
+## Dune - Brian Herbert/KJA Last Ghola production line (2006)
+
+- **id**: `dune-last-ghola-production-line-brian-herbert`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brian Herbert and Kevin J. Anderson
+- **disclosure**: Herbert B., Anderson K.J., 'Hunters of Dune' Tor Books 2006, ISBN 978-0-7653-1292-2
+- **ip status**: fictional
+- **prior art notes**: Disclosure of industrial-scale parallel-array bioreactor production line with per-batch sampling QC and addressable genetic-template biofluid storage. Anticipates claims directed to industrial parallel-bioreactor cartridge production lines with per-batch QC sampling and addressable cryostorage interfaces.
+
 ## Charles Stross Rule 34 pharma printer / domestic compounder (2011)
 
 - **id**: `stross-rule-34-pharma-printer`
@@ -64,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stross, C. Rule 34. Ace Books, New York, 2011. ISBN 978-0-441-02034-8.
 - **ip status**: fictional
 - **prior art notes**: Rule 34 (2011) depicts a near-future Edinburgh where domestic pharmaceutical printers / compounders are commonplace consumer appliances. Architectural category disclosure of 'consumer domestic pharmaceutical printer with downloadable formulation library'. Distinct from the Glasshouse cornucopia entry by being explicitly small-molecule pharmaceutical-focused and consumer-grade.
+
+## Crysis - Hargreave-Rasch BioChemical laboratories (2011-03-22)
+
+- **id**: `crysis-hargreave-rasch-labs`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Crytek
+- **disclosure**: Crysis 2 (Crytek / Electronic Arts, 2011)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of industrial alien-substrate-derived fluidic production with corporate-segregated supply chain. Anticipates claims directed to industrial alien/exogenous-substrate biofluidic cartridge production with corporate-controlled supply chains.
 
 ## William Gibson The Peripheral fabrication printer (2014)
 

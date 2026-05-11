@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-droplet-pcr-cycling`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999
 
@@ -84,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wong, B. G.; Mancuso, C. P.; Kiriakov, S.; Bashor, C. J.; Khalil, A. S. Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER. Nat. Biotechnol. 2018, 36, 614–623. DOI: 10.1038/nbt.4151
 - **ip status**: open-permissive
 - **prior art notes**: Open-hardware 16-vessel parallel bioreactor system with per-vessel temperature, OD, stirring, and feed control. Designed for laboratory directed-evolution and high-throughput growth experiments. Anticipates: massively-parallel addressable bioreactor architecture, open-source bioreactor scaling, and the experimental-evolution use case at academic-budget price points.
+
+## Verily Wastewater Surveillance program (2020)
+
+- **id**: `verily-wastewater-surveillance`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Verily Life Sciences LLC
+- **disclosure**: Verily (Alphabet) Stanford SCAN wastewater monitoring launch 2020; WastewaterScan public dashboard 2022.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses ddPCR-based absolute viral concentration measurement in wastewater pellet, integrated with public dashboard. Anticipates ddPCR-based wastewater respiratory-virus quantification cartridge feeding public dashboard claims.
 
 ## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
 

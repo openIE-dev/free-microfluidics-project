@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-pressure-controlled-air-over-liquid`
 
-**33 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -25,6 +25,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
 
+## Dune - Bene Tleilax Master breeding floor (1981)
+
+- **id**: `dune-bene-tleilax-master-breeding-floor`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'God Emperor of Dune' (1981), expanded in 'Heretics of Dune' (1984) and 'Chapterhouse: Dune' (1985)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of segregated parallel biofluidic production streams for distinct product tiers (Master, Face-Dancer, ghola) with stratified access control on the same parent infrastructure. Anticipates claims directed to multi-stream biofluidic production cartridges with tier-segregated access control to a common parent reagent reservoir.
+
+## BattleTech Clan iron-womb medical breeding (1990)
+
+- **id**: `battletech-clan-iron-womb-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech Clan sourcebook (FASA 1990); Wolf Clan Sourcebook (FASA 1991)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a parallel-array artificial gestation system with shared nutrient manifold, paired with cryopreserved genetic legacy canisters. Anticipates claims directed to parallel-array artificial gestation cartridges sharing a common nutrient supply manifold and to canister-format genetic preservation interfaces.
+
 ## OLS Bio CASY Cell Counter and Analyzer (formerly Innovatis CASY-TT) (1991)
 
 - **id**: `ols-bio-casy-tt-cell-counter`
@@ -35,6 +55,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the CASY Pulse Area Analysis variant of Coulter-principle particle counting: instead of peak-amplitude pulse detection (which conflates fast-transit small particles with slow-transit large particles), the CASY integrates each impedance pulse over time, yielding a true volume measurement; importantly, intact cell membranes block the electrolyte from penetrating the cell interior, so live cells appear to have their full hydrodynamic volume, while dead cells with permeabilized membranes appear shrunken to nuclear volume — providing label-free live/dead discrimination. Anticipates: stain-free viability discrimination via electrical sensing zone integration; the architectural choice of Pulse Area Analysis vs amplitude detection in Coulter-derivative instruments; the use of multiple aperture sizes (50, 60, 150 µm) in a single instrument enabling 0.7-200 µm dynamic range in one measurement. Important historical anchor for the bioprocess cell counting market dominated by image cytometry (Vi-CELL) and impedance (CASY) before flow cytometry routine.
 
+## BattleTech Solaris VII arena medical fluidics (1991)
+
+- **id**: `battletech-solaris-vii-arena-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech Solaris VII: The Game World (FASA 1991)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of arena-side emergency medbay with live cockpit-fluid telemetry and rapid evacuation pumps for cockpit immersion fluid. Anticipates claims directed to combat-platform emergency fluid evacuation pumps coupled to live biometric telemetry.
+
+## Babylon 5 Minbari healing pod (1995)
+
+- **id**: `babylon5-minbari-medical-healing-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 S2E22 'The Fall of Night' (1995); Minbari healing depicted across S2-S5
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an immersion healing pod combining controlled aromatic/medicinal vapor injection with prolonged patient residence and integrated temperature control. Anticipates claims directed to long-residence therapeutic immersion enclosures with integrated vapor-phase drug delivery and temperature-feedback control.
+
+## Liu Cixin - The Wandering Earth Underground City medical (2000)
+
+- **id**: `liu-cixin-wandering-earth-underground-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Liu Cixin
+- **disclosure**: Liu C., 'The Wandering Earth' Tor Books US ed. 2017 (orig. 2000), ISBN 978-1-250-30603-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of population-scale subterranean refuge medical infrastructure with standardized cartridge SKUs and tightly coupled atmospheric/biofluidic recycling. Anticipates claims directed to population-scale refuge medical cartridge SKUs with integrated atmospheric/fluidic recycling.
+
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
 - **id**: `biomerieux-vitek-2-card-fluidics`
@@ -44,6 +94,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VITEK 2 launch 1999; VITEK 2 Compact 2002; FDA 510(k) K022366; VITEK 2 XL launch 2009
 - **ip status**: patented
 - **prior art notes**: Discloses an automated microbial ID/AST card-based fluidic system: a credit-card-sized polystyrene cassette containing 64 isolated microwells, each pre-loaded with a different lyophilized substrate (sugars, amino acids, antibiotic dilutions); the card mates with a transfer tube dipped into the bacterial inoculum suspension, and the analyzer's vacuum chamber draws inoculum into all wells simultaneously; the card is then sealed and continuously incubated at 35.5 °C with kinetic optical readout (turbidity at 660 nm + colorimetric pH/redox indicators). Anticipates: vacuum-loaded multi-well microbiology cards as a fluidic primitive for parallel substrate testing; the 'transfer tube + manifold + sealed card' architecture distinguishing VITEK from microtiter plate ID systems. Foundational disclosure for automated clinical microbiology workflows.
+
+## Quake 4 - Strogg conversion line (2005-10-18)
+
+- **id**: `quake-4-strogg-conversion-line`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Raven Software
+- **disclosure**: Quake 4 (Raven Software / id Software / Activision, 2005)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of forced parallel-station industrial bioprocessing line for human-to-cyborg conversion, with per-station fluidic exchange. Anticipates claims directed to forced-throughput parallel-station bioprocessing cartridge lines with per-station fluid exchange protocols. The Strogg conversion line is a particularly extreme prior art anchor for industrial cyborg production claims.
+
+## Crysis Nanosuit fluidic actuation (2007-11-13)
+
+- **id**: `crysis-nanosuit-fluidic-actuation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Crytek
+- **disclosure**: Crysis (Crytek / Electronic Arts, 2007); expanded in Crysis 2 (2011) and Crysis 3 (2013)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a full-body fluidic actuation suit with multiple selectable fluidic mode configurations and host-integrated parasitic biofluid drive. Anticipates claims directed to multi-mode fluidic actuation garments or exosuits with mode-selectable fluidic configurations.
 
 ## Lee Company / TTP Ventus Disc Pump (2009)
 
@@ -64,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Syrris Ltd. Asia product launch press release, June 2010; Asia 320 launch 2017; Syrris Asia user manual rev 4 (2014); product brochure https://syrris.com/products/asia-flow-chemistry/
 - **ip status**: patented
 - **prior art notes**: Distinct from base Syrris-flow-chemistry entry. Discloses (a) 'pressurized-syringe' pump with sealed reservoir and electronic pressure feedback eliminating pulsation typical of HPLC pumps; (b) the FLLEX inline liquid-liquid extraction unit using a hydrophobic porous PTFE membrane to phase-separate organic and aqueous flows continuously without settling tanks; (c) Asia 320 ultra-high-pressure variant for supercritical-like flow chemistry; (d) modular architecture with shared 19-inch rack and tablet-based control software. Anticipates patent claims to pressurized-reservoir pulsation-free pumps for flow chemistry, and to inline membrane LLE within the residence-time loop of a flow reactor.
+
+## A*STAR Bioprocessing Technology Institute patent family (2010)
+
+- **id**: `astar-bti-bioprocessing-patent-family`
+- **corpus**: academic
+- **device class**: other
+- **creator**: A*STAR Bioprocessing Technology Institute
+- **disclosure**: A*STAR Bioprocessing Technology Institute (Singapore) IP estate; SG/US/PCT filings
+- **ip status**: patented
+- **prior art notes**: A*STAR BTI patent family covers continuous perfusion bioreactor cartridges and CHO process patents. Anticipates claims directed to continuous-perfusion biologic-manufacturing fluidic cartridges.
 
 ## QIAGEN QIAcube HT Sample Prep (2013)
 
@@ -124,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Parra M et al., 'Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station,' PLOS ONE 12(9):e0183480 (2017), doi:10.1371/journal.pone.0183480; NASA WetLab-2 facility description, ISS Research Office (2016)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an end-to-end RNA-extraction + RT-qPCR cartridge architecture qualified for microgravity. Element-by-element prior art: (a) the closed-cartridge magnetic-bead RNA extraction protocol with no open-air liquid transfer steps anticipates patents claiming aerosol-free spaceflight or BSL-3 nucleic acid extraction cartridges; (b) the validation of paramagnetic-bead binding/wash kinetics in zero-G is published prior art against any patent claiming novel microgravity-compatible bead handling; (c) the integration of off-the-shelf SmartCycler-class Peltier modules with a custom reaction tube format anticipates retrofit spaceflight diagnostic cartridge concepts. Combined with iss-biomolecule-sequencer-minion below, WetLab-2 establishes the full sample-prep + amplification + sequencing chain in spaceflight prior art.
+
+## Dishonored 2 - Karnaca alchemical fluidics (2016-11-11)
+
+- **id**: `dishonored-2-karnaca-alchemical-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arkane Studios
+- **disclosure**: Dishonored 2 (Arkane Studios 2016)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of wind-corridor pneumatic-coupled inter-building fluid transport network coupled with industrial-scale extraction chemistry. Anticipates claims directed to wind-driven pneumatic fluid transport between separate process modules in an industrial cartridge plant.
 
 ## Mars 2020 Perseverance MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment) (2017)
 
@@ -215,6 +305,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a long-DNA synthesis platform that constructs gene-length sequences by enzymatic ligation of pre-synthesized trimer DNA blocks under controlled fluidic conditions. Anticipates: alternative architectures to per-base synthesis that combine block-libraries with on-instrument fluidic ligation; benchtop synthesis platforms that target >10 kb DNA without PCR. Prior art for claims to ligation-based gene synthesis automated through chip-scale fluidics.
 
+## Liu Cixin - Hold Up the Sky stories biofluidics (2020)
+
+- **id**: `liu-cixin-hold-up-the-sky-stories`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Liu Cixin
+- **disclosure**: Liu C., 'Hold Up the Sky' Tor Books 2020, ISBN 978-1-250-25664-8
+- **ip status**: fictional
+- **prior art notes**: Disclosure of atmospheric-scale fluidic-bubble water transport intervention with downstream climate-engineering endpoint. Anticipates claims directed to atmospheric-scale fluidic-bubble distributed transport networks for environmental intervention.
+
 ## Lunaphore COMET (2021)
 
 - **id**: `lunaphore-comet-spatial-proteomics`
@@ -264,6 +364,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Open OB1 - Open-source pressure controller (Elveflow OB1 clone) (2023)
+
+- **id**: `open-ob1-elveflow-clone`
+- **corpus**: open
+- **device class**: flow-controller
+- **creator**: Open OB1 community project
+- **disclosure**: Open OB1 GitHub project release 2023; community fork from earlier Wijnen Pearce pressure controller.
+- **ip status**: open-copyleft
+- **prior art notes**: Discloses 4-channel open-hardware pressure flow controller with PID-based pressure regulation as an open clone of the Elveflow OB1 architecture. Anticipates open-hardware multi-channel pressure-driven flow controller with PID feedback claims.
 
 ## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
 

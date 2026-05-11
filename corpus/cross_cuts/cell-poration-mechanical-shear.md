@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1986
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kac E, 'GFP Bunny', Leonardo 36:97-102 (2003); doi:10.1162/002409403321554125; ekac.org/gfpbunny.html
 - **ip status**: fictional
 - **prior art notes**: Discloses a public-art act of microinjection of GFP construct into a rabbit zygote (executed at INRA Jouy-en-Josas). The microfluidic relevance is the use of a glass-pulled microinjection capillary as the artistic medium. Anticipates: artistic and pedagogical use of microinjection capillaries; bioart works whose primary instrument is a microfluidic single-cell injector; the broader precedent for microfluidic devices being framed as cultural rather than purely scientific objects.
+
+## NUS Mechano-Biology Institute microfluidic patent family (2010)
+
+- **id**: `nus-mechano-biology-institute-patent-family`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: NUS Mechano-Biology Institute
+- **disclosure**: NUS Mechano-Biology Institute IP estate; SG/US/PCT filings 2010-present
+- **ip status**: patented
+- **prior art notes**: NUS MBI patent family covers cell-stretching fluidic platforms with shear-flow stimulation. Anticipates claims directed to mechano-biology fluidic cartridges with cell-stretching subsystems.
 
 ## Diagenode Megaruptor hydrodynamic DNA shearer (2013)
 

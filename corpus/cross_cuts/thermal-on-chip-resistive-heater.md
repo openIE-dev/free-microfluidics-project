@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-resistive-heater`
 
-**58 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -55,6 +55,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cybrid bodies (cybernetic-organic hybrids that house TechnoCore intelligences) require continuous biological maintenance hookups — cooling, oxygenation, nutrient perfusion of the organic brain component, and waste removal. Defensive prior art for organic-brain-in-cybernetic-host life-support systems and brain-perfusion microfluidic interfaces.
 
+## Witcher Trial of the Grasses mutagenic alchemy (1993)
+
+- **id**: `witcher-trial-of-the-grasses-mutagenic-alchemy`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Miecz Przeznaczenia' (Sword of Destiny), SuperNowa 1993, ISBN 978-83-7054-149-3
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a multi-day staged mutagenic infusion protocol with documented dose-response, kill-rate biostatistics, and observable marker phenotypes (cat-eye pupils). Anticipates claims directed to staged IV mutagen delivery with phenotypic biomarker readout, including claims reciting graduated infusion of plural alchemical compounds over a multi-day protocol with phenotypic acceptance criterion. The mutagen-induction phenotype-readout coupling specifically anticipates platform claims combining IV chemotherapy regimens with on-cartridge biomarker validation.
+
+## Witcher Kaer Morhen alchemy laboratory (1994)
+
+- **id**: `witcher-kaer-morhen-alchemy-laboratory`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Krew Elfow' (Blood of Elves), SuperNowa 1994, ISBN 978-83-7054-153-0
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a fortress-scale alchemical laboratory with redundant distillation columns, persistent reagent stockpile, and pre-electric heated mixing benches. Anticipates claims directed to redundant distillation manifolds for small-batch reagent production with persistent stockpile management.
+
+## Babylon 5 Minbari healing pod (1995)
+
+- **id**: `babylon5-minbari-medical-healing-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 S2E22 'The Fall of Night' (1995); Minbari healing depicted across S2-S5
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an immersion healing pod combining controlled aromatic/medicinal vapor injection with prolonged patient residence and integrated temperature control. Anticipates claims directed to long-residence therapeutic immersion enclosures with integrated vapor-phase drug delivery and temperature-feedback control.
+
+## Hitachi 7180/7500 clinical chemistry analyzer patent family (1995)
+
+- **id**: `hitachi-7180-7500-chemistry-patents`
+- **corpus**: private
+- **device class**: other
+- **creator**: Hitachi Ltd / Hitachi High-Tech
+- **disclosure**: Hitachi High-Tech 7180/7500 product launches (Hitachi 1990s); JP/US/EP filings (assignees: Hitachi Ltd / Hitachi High-Tech)
+- **ip status**: patented
+- **prior art notes**: Hitachi 7180/7500 patent family covers random-access photometric clinical chemistry cartridge with rotary reagent disk. Complements existing hitachi-7080-clinical-chemistry entry with 7180/7500 patent disclosures.
+
 ## Lexmark Thermal Inkjet Heater Chip (1996)
 
 - **id**: `lexmark-thermal-inkjet-heater-chip`
@@ -64,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lexmark patent portfolio incl. US5635968 'Thermal inkjet printer printhead with offset heater resistors', US6890062, US7014299, US7267430, US6039439
 - **ip status**: patented
 - **prior art notes**: Discloses a family of thermal inkjet heater chips with: (a) offset (laterally staggered) heater resistors to interleave nozzles for higher effective resolution, (b) asymmetric ink-feed vias to reduce silicon die area, (c) on-chip ESD protection via grounded-gate MOSFET integrated above the dielectric/resistor stack, (d) tri-color heater layouts that pack three independent ink colors into a single heater die for cartridge integration. Anticipates: TIJ heater-chip art beyond Canon/HP foundational disclosures, particularly the chip-level integration of color separation, redundancy, and ESD protection on a single silicon die. Lexmark exited inkjet in 2013 but the patent estate is broad and forms cited prior art in modern TIJ litigation.
+
+## Babylon 5 Drazi crystal-vine medical preparation (1996)
+
+- **id**: `babylon5-drazi-crystal-vine-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions; Drazi sourcebook (Mongoose)
+- **disclosure**: Babylon 5 S3E14 'Ship of Tears' Drazi background; B5 RPG 'Galactic Guide' 2006
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a temperature-staged fluid extraction protocol from biological substrate, used for both medicinal preparation and identity-compatibility verification. Anticipates claims directed to staged-temperature solvent extraction cartridges with downstream identity-marker analysis.
 
 ## Final Fantasy VII SOLDIER program enhancement procedure (1997)
 
@@ -84,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Warhammer 40K Codex: Imperial Guard (Games Workshop 1998); Forge World Imperial Armour Vol 5 'The Siege of Vraks' (Forge World 2007); Black Library Dead Men Walking (Steve Lyons 2010) ISBN 978-1-84416-731-4.
 - **ip status**: fictional
 - **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
+
+## Liu Cixin - The Wandering Earth Underground City medical (2000)
+
+- **id**: `liu-cixin-wandering-earth-underground-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Liu Cixin
+- **disclosure**: Liu C., 'The Wandering Earth' Tor Books US ed. 2017 (orig. 2000), ISBN 978-1-250-30603-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of population-scale subterranean refuge medical infrastructure with standardized cartridge SKUs and tightly coupled atmospheric/biofluidic recycling. Anticipates claims directed to population-scale refuge medical cartridge SKUs with integrated atmospheric/fluidic recycling.
 
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
@@ -265,6 +325,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
 
+## Dishonored - Sokolovs alchemical laboratory (2012-10-09)
+
+- **id**: `dishonored-sokolov-laboratory`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arkane Studios
+- **disclosure**: Dishonored mission 4 (Arkane Studios 2012)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an integrated apparatus performing dual-stream chemical production (pigment and pharmaceutical) from shared distillation/reagent infrastructure, with a documented organic-oil fluidic energy source. Anticipates claims directed to dual-stream chemical co-production cartridges with shared distillation manifold and externally-supplied organic-oil energy input.
+
 ## Ricoh GH2220 Silicon Piezo Industrial Printhead (2013)
 
 - **id**: `ricoh-gh2220-silicon-piezo-printhead`
@@ -415,6 +485,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cara's reconstruction is a multi-stage process: external biological scaffold, internal protomolecule-catalyzed cellular reactivation, recovery in a fluidic cocoon, then progressive augmentation. The narrative treats it as an automated, programmable sequence operating on a single body with discrete reagent injections at controlled intervals. Reads as prior art for: programmable multi-stage cellular reactivation protocols using a sealed body-scale microfluidic reservoir; phase-change cocoon architectures providing structural and chemical support during cellular regrowth.
 
+## Climeworks Direct Air Capture solid-sorbent module (2017)
+
+- **id**: `climeworks-direct-air-capture`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Climeworks AG
+- **disclosure**: Climeworks Hinwil DAC commercial launch 2017; Orca Iceland 4 kt/yr 2021; Mammoth Iceland 36 kt/yr 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses amine-functionalized solid sorbent cartridge in modular collector with low-temp regeneration coupled to mineralization downstream. Anticipates DAC amine-sorbent modular cartridge with geothermal regeneration claims.
+
 ## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
 
 - **id**: `molecular-assemblies-fams-synthesis`
@@ -434,6 +514,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## Compass Pathways COMP360 psilocybin therapy (2018)
+
+- **id**: `compass-pathways-comp360`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: COMPASS Pathways plc
+- **disclosure**: Compass Pathways COMP360 program disclosure, 2018; FDA Breakthrough Therapy Designation 2018.
+- **ip status**: patented
+- **prior art notes**: Discloses GMP-grade synthetic psilocybin polymorph A with documented PXRD/DSC signatures, plus the flow-chemistry synthesis route used at scale. Anticipates GMP synthetic psilocybin polymorph A composition-of-matter claims and continuous-flow psilocybin synthesis claims.
 
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
@@ -535,6 +625,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the MOMA-derivative architecture adapted for Titan operation. Element-by-element prior art: (a) the cryogenic-surface-to-MS sample handling chain (DrACO drill -> sealed cryotransfer -> warmed pyrolysis oven -> ion trap MS) anticipates patents on cryogenic-sample mass-spec sample-introduction cartridges; (b) the pulse-frequency tuning of the 266 nm UV-LDI source for nitrile/tholin chemistry anticipates LDI-MS patents claiming optimized parameters for nitrogen-rich complex organics; (c) the integration of MS with a flying lander (drone) platform, including vibration-tolerance qualification of the linear ion trap, anticipates patents on platform-integrated mass spectrometers for non-rover planetary missions. Co-cite with exomars-moma-pyr-gcms-ldms for the heritage instrument.
 
+## Heirloom Carbon CDR - Calcium-loop direct air capture (2022)
+
+- **id**: `heirloom-cdr-mineral`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Heirloom Carbon Technologies
+- **disclosure**: Heirloom Carbon Technologies public disclosure 2022; Tracy CA commercial plant launch 2023.
+- **ip status**: patented
+- **prior art notes**: Discloses passive calcium-hydroxide tray-stack DAC architecture with electrified calcination loop. Anticipates passive calcium-cycle DAC with electrified calcination claims.
+
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 
 - **id**: `telesis-bioxp-9600-benchtop-synthesis`
@@ -584,6 +684,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 10x Genomics product launch Visium HD 2023-10-04; CytAssist user guide CG000493 rev D
 - **ip status**: patented
 - **prior art notes**: Discloses a workflow combining a high-density barcoded glass capture slide with a thermal-pneumatic CytAssist instrument that releases nucleic acids from a separate FFPE tissue slide and presses them onto the barcoded chip via a heated gasketed cavity. Anticipates: two-slide architecture for spatial transcriptomics that decouples tissue mounting from barcode capture; sub-cellular barcode pitch (2 um) achieved through photolithographic patterning rather than bead deposition; gasketed thermal release of cross-linked RNA from FFPE for orthogonal capture. Anticipates claims to spatial transcriptomics platforms that perform analyte transfer between two solid substrates by controlled pneumatic compression with thermal cycling.
+
+## Pioreactor v2 - Open-hardware desktop bioreactor 2024 (2024)
+
+- **id**: `pioreactor-v2-bioreactor`
+- **corpus**: open
+- **device class**: lab-on-chip
+- **creator**: Pioreactor (University of Toronto open hardware project)
+- **disclosure**: Pioreactor v2 hardware revision release notes on GitHub pioreactor/pioreactor v2024.5.x.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses open-hardware desktop continuous-culture bioreactor with web-orchestrated multi-unit clustering at sub-300 USD hardware cost. Anticipates open-hardware desktop bioreactor cluster with web-UI orchestration claims.
 
 ## 10x Genomics Xenium Prime 5K (2024-10)
 

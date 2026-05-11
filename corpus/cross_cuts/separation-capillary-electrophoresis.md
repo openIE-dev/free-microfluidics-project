@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**33 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -175,6 +175,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Demonstrated 96-channel radial CE array on a single 100-mm glass wafer for parallel DNA sequencing reads. Anticipates: radial-channel-array architecture for parallel CE, glass-chip-as-replacement-for-slab-gel for sequencing, and the Caliper LabChip / Agilent Bioanalyzer commercial platforms. Established the wafer-scale parallelism paradigm in chip CE.
 
+## Helena Laboratories capillary electrophoresis (1990s) patent family (1995)
+
+- **id**: `helena-laboratories-ce-1990s-patents`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Helena Laboratories
+- **disclosure**: Helena Laboratories (Beaumont TX) CE / clinical electrophoresis IP estate; US filings 1990s-2000s
+- **ip status**: patented
+- **prior art notes**: Helena Laboratories patent family covers 1990s clinical CE cartridge platforms for serum protein and hemoglobin variant analysis. Anticipates claims directed to clinical CE cartridges with high-resolution split-beta protein readout.
+
 ## Caliper LabChip / ACLA chip technology (acquired by Ciba-Geigy lineage) (1996)
 
 - **id**: `caliper-acla-chip-1999`
@@ -224,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bio-Techne ProteinSimple Simple Western platform. https://www.bio-techne.com/p/simple-western/wes
 - **ip status**: patented
 - **prior art notes**: Capillary-format automated western blot replacement: protein separation by SDS capillary electrophoresis, UV-induced covalent immobilization to capillary wall, antibody probing, and chemiluminescence detection — all on a single instrument with disposable capillary cartridges. Anticipates: capillary-immobilization westerns, automated multi-step immunodetection on a microfluidic-equivalent capillary substrate, and the broader trend of replacing manual molecular biology bench protocols with cartridge-format automation.
+
+## Bioptic (Taiwan) capillary electrophoresis patent family (2012)
+
+- **id**: `bioptic-taiwan-ce-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Bioptic Inc
+- **disclosure**: Bioptic Inc (Taiwan) Qsep-series CE launch (2012-present); TW/US/EP filings
+- **ip status**: patented
+- **prior art notes**: Bioptic patent family covers compact multi-channel CE cartridges for nucleic acid sizing. Anticipates claims directed to multi-channel disposable CE cartridges with gel-replacement matrix.
 
 ## Continuous high-throughput single-cell western blotting (scWestern) (2014)
 

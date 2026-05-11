@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-protein-passivation`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1948
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Verwey, E. J. W., Overbeek, J. T. G. (1948). 'Theory of the Stability of Lyophobic Colloids.' Elsevier, Amsterdam.
 - **ip status**: public-domain
 - **prior art notes**: Verwey-Overbeek 1948 (together with Derjaguin-Landau 1941) established DLVO theory: colloid stability emerges from a balance of attractive van der Waals and repulsive electric-double-layer interactions. Anticipates microfluidic claims involving bead aggregation in on-chip immunoassays, cell-cell adhesion in droplet encapsulation, particle deposition on channel walls, and electrolyte-controlled colloid handling. Any patent claiming a 'novel colloid-stability-controlled microfluidic operation' must clear DLVO theory.
+
+## Gerresheimer Gx Pharma + Centor PFS - Pre-filled syringes and vials (2008)
+
+- **id**: `gerresheimer-gx-pharma-pfs-systems`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Gerresheimer AG
+- **disclosure**: Gerresheimer Gx Centor pre-filled syringe product release 2008; Gx Elite low-particulate glass syringe 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses tubular borosilicate syringe with controlled silicone oil deposition for low-protein-adsorption pre-filled syringe applications, plus 100% camera inspection at fill-line speed. Anticipates low-particulate pre-filled biologic syringe with controlled silicone interior claims.
 
 ## Salimetrics SalivaBio Oral Swab (SOS) (2009)
 

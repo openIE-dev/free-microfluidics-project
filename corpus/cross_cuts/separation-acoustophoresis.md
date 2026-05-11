@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-acoustophoresis`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1934
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ding, X.; Lin, S.-C. S.; Kiraly, B.; Yue, H.; Li, S.; Chiang, I.-K.; Shi, J.; Benkovic, S. J.; Huang, T. J. On-chip manipulation of single microparticles, cells, and organisms using surface acoustic waves. Proc. Natl. Acad. Sci. USA 2012, 109, 11105–11109. DOI: 10.1073/pnas.1209288109
 - **ip status**: patented
 - **prior art notes**: Disclosed SSAW (standing surface acoustic wave) micromanipulation of cells and microparticles in a PDMS channel atop a lithium niobate substrate with paired IDTs. Anticipates: IDT-on-LiNbO3 SSAW architecture for sub-mm patterning of pressure nodes in solution, individually addressable cell trapping by SAW phase shifting, and the SAW microfluidics paradigm that competes with Laurell-style BAW. Underlies most subsequent SAW-based cell-separation papers.
+
+## NTU Centre for Lifesciences microfluidic patent family (2012)
+
+- **id**: `ntu-centre-lifesciences-patent-family`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Nanyang Technological University
+- **disclosure**: NTU Centre for Lifesciences / LKCMedicine IP estate; SG/US/PCT filings 2012-present
+- **ip status**: patented
+- **prior art notes**: NTU patent family covers acoustic-microfluidic separation and photonic biosensor cartridges. Anticipates claims directed to acoustic-separation POC cartridges with integrated photonic biosensors.
 
 ## AcouSort BAW acoustofluidic platform (2013)
 

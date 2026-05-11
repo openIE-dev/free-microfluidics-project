@@ -6,14 +6,34 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**87 corpus entries disclose this subsystem.**
+**109 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1986
+Earliest disclosure: 1945
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Van Vogt - World of Null-A Gosseyn restoration apparatus (1945)
+
+- **id**: `van-vogt-null-a-gosseyn-restoration`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: A.E. van Vogt
+- **disclosure**: Van Vogt A.E., 'The World of Null-A' Astounding Science Fiction Aug-Oct 1945; novel ISBN 978-0-7653-0883-3
+- **ip status**: fictional
+- **prior art notes**: Disclosure of parallel cloned-body biofluidic preservation reservoir with consciousness-transfer biofluidic interface. Anticipates claims directed to parallel preserved-body biofluidic reservoirs with addressable consciousness-transfer interfaces. 1945 disclosure substantially predates most cloning-tank fictional prior art.
+
+## Polaroid blister-pod chemistry patent extensions (1970)
+
+- **id**: `polaroid-blister-pod-chemistry-patent-extensions`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Polaroid Corporation
+- **disclosure**: Polaroid Corporation instant-photography pod IP estate; US filings 1970-1990s
+- **ip status**: patented
+- **prior art notes**: Polaroid blister-pod chemistry patent family covers blister-pod reagent storage with frangible-seal roller-burst metering across substrate, and multi-stage sequential pod chemistry. Extends existing polaroid-sx-70-fluid-pod-1972 and polaroid-spectra-1986 entries. Anticipates claims directed to blister-pod cartridges with roller-burst metering and multi-stage layered reactive substrates. Foundational disclosure for downstream POC diagnostic blister-pod cartridge prior art.
 
 ## Walter Jon Williams Hardwired biotech (1986)
 
@@ -25,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Hardwired's panzerboy and Cowboy interface depicted with cranial jacks and continuous reagent supply for immune-suppression and biotech maintenance. Foundational cyberpunk biotech reference. Anticipates: cranial-port reagent supply for chronic immune-suppression of body augmentation; integrated interface-jack + reagent-cartridge cyborg-maintenance hardware. Useful prior art for 'wearable continuous reagent infusion for cyborg-implant maintenance' claims.
 
+## BattleTech ComStar HPG station medbay (1988)
+
+- **id**: `battletech-comstar-hpg-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech ComStar sourcebook (FASA 1988-1993)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a remote-station medbay with archival cryofluid bio-storage paired with classified communication infrastructure. Anticipates claims directed to remote-station autonomous medbays with combined archival cryostorage and integrated communication relay.
+
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 
 - **id**: `biomerieux-vidas-3-spr-cone`
@@ -34,6 +64,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VIDAS launch 1990 (pioneering ELFA technology); VIDAS 3 launch 2014; FDA 510(k) K133769
 - **ip status**: patented
 - **prior art notes**: Discloses the bioMérieux SPR (Solid Phase Receptacle) format: a polypropylene cone shaped like a pipette tip whose inner surface is pre-coated with capture antibody; the analyzer's micropipettor docks onto the cone and uses it as both pipette and solid phase, drawing sample and reagents in/out from a sealed reagent strip with 6-10 pre-loaded wells (sample well, wash wells, conjugate well, substrate well). Anticipates: integrated pipette-as-solid-phase fluidic primitive eliminating separate microtiter plate coating; sealed reagent strips with foil seal pierced by the SPR mating action; ELFA (Enzyme-Linked Fluorescent Assay) using MUP→4-methylumbelliferone for sub-pg/mL sensitivity in a single-strip format. Foundational architectural disclosure dating to 1990 — relevant prior art for many subsequent disposable-cartridge-with-pipette-cone architectures (e.g., Biotech / VIDAS-derivative platforms).
+
+## Witcher Brokilon dryad medical (Water of Brokilon) (1992)
+
+- **id**: `witcher-brokilon-dryad-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Miecz Przeznaczenia' (Sword of Destiny) - story 'Edge of the World' / 'A Little Sacrifice', 1992-1993
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a three-stage ingestion protocol of a memory-modifying biofluid with practitioner-supervised dose staging and documented overdose phenotype. Anticipates claims directed to staged oral biofluid dosing with neurological endpoint.
+
+## Witcher Yennefer / sorceress healing fluidics (1993)
+
+- **id**: `witcher-yennefer-sorceress-healing-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Miecz Przeznaczenia' (1993) and 'Czas Pogardy' (Time of Contempt, 1995)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a field-portable medicinal kit with vial-stoppered fluidic storage, wound flush, and remote-diagnostic communication coupling. Anticipates claims directed to field-portable diagnostic reagent kits with telemetric remote-consult integration.
+
+## Babylon 5 Zocalo med-tech vendor stalls (1994)
+
+- **id**: `babylon5-zocalo-medtech-vendor-stalls`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 various S1-S5 episodes, esp. 'Grail' S1E15 (1994) and 'Eyes' S1E19
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a marketplace ecosystem of interspecies-compatible diagnostic cartridges and field-grade pharmaceutical compounders, traded as commodity goods. Anticipates claims directed to a marketplace-style multiplex diagnostic cartridge SKU catalog with cross-species fluid handling.
 
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 
@@ -54,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Trek: Voyager (Paramount 1995-2001); EMH carries a portable emergency medical kit on away missions.
 - **ip status**: fictional
 - **prior art notes**: EMH's portable emergency medical kit combines diagnostic tricorder, hyposprays, surgical tools, and wound-sealant in a single carry case. Defensive prior art for self-contained emergency medical-kit form-factor with integrated diagnostics + treatments + drug-delivery.
+
+## Stratagene QuikChange (1995) patent family extensions (1995)
+
+- **id**: `stratagene-quikchange-patent-extensions`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Stratagene Corporation (Agilent Technologies since 2007)
+- **disclosure**: Stratagene Corporation QuikChange IP estate; US filings 1995-present
+- **ip status**: patented
+- **prior art notes**: Stratagene QuikChange patent family extends existing stratagene-quikchange-1995-extended-anchor entry with broader IP coverage. Anticipates claims directed to site-directed mutagenesis fluidic cartridges with on-cartridge thermal cycling.
 
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
@@ -95,6 +165,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
 
+## Blue Planet RPG - aquatic medicine fluidics (2000)
+
+- **id**: `blue-planet-aquatic-medicine`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Biohazard Games
+- **disclosure**: Biohazard Games, 'Blue Planet v2' 2000, ISBN 978-1-58994-001-7
+- **ip status**: fictional
+- **prior art notes**: Disclosure of underwater-deployable medical cartridge with sealed-fluid integrity under hydrostatic pressure and bioprospected indigenous pharmaceutical pipeline. Anticipates claims directed to pressure-sealed underwater diagnostic cartridges and to bioprospected-indigenous-pharmaceutical reagent supply chains.
+
+## Deus Ex (2000) - nano-augmentation chamber (2000-06-22)
+
+- **id**: `deus-ex-2000-nano-augmentation-chamber`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ion Storm / Warren Spector
+- **disclosure**: Deus Ex (Ion Storm / Eidos Interactive, 2000)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of slot-loaded augmentation cartridges containing nanomachine-bearing biofluid, integrated with a pod-form patient interface and energy-cell-coupled activation. Anticipates claims directed to slot-loaded nanoparticle-bearing biofluidic cartridges with patient-pod interface and external energy-coupled activation.
+
 ## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
 
 - **id**: `halo-mjolnir-biofoam-injection`
@@ -135,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Simon Tam's portable medical kit appears repeatedly across Firefly episodes — handheld diagnostic readers, single-use ampoule injectors, smart-syringe drug delivery. Architecturally anticipates: portable point-of-care diagnostic + therapeutic kit, smart pre-filled injectors with automated dosing, and combined diagnostic-therapeutic handheld device. The Serenity film extends this with the Miranda-investigation handheld scanner.
 
+## John C. Wright - Golden Age noumenon tank (2002)
+
+- **id**: `wright-golden-age-noumenon-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John C. Wright
+- **disclosure**: Wright, J.C., 'The Golden Age' Tor Books 2002, ISBN 978-0-7653-0436-1
+- **ip status**: fictional
+- **prior art notes**: Disclosure of biofluid tank holding distinct personality-state with reinstantiation interface to compatible body. Anticipates claims directed to cryogel-matrix biofluid storage cartridges holding distinct personality-state markers with reinstantiation interface.
+
 ## MBARI Environmental Sample Processor (ESP) (2003)
 
 - **id**: `mbari-esp-environmental-sample-processor`
@@ -154,6 +254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7888125 priority 2005-03-24; US7494770; US8088593; US8158430; US8283155 (Theranos Inc., post-bankruptcy assignments to Fortress Investment Group / Labrador Diagnostics)
 - **ip status**: patented
 - **prior art notes**: Theranos cartridge patent family. Anchors claims around: (a) handheld disposable diagnostic cartridge accepting finger-stick blood; (b) integrated reagent-storage, sample-prep, and detection chambers; (c) on-cartridge assay scheduling and barcode identification; (d) wireless data return to a central reader. Notable for two reasons: (1) the patents were granted but the corresponding products never demonstrated the claimed performance (FDA correspondence and later trial testimony established this); (2) post-bankruptcy the patents were reassigned to Fortress Investment Group / Labrador Diagnostics, which asserted them against working diagnostic companies (notably BioFire) during the COVID pandemic, drawing significant criticism. Defensive value is high: Theranos patent disclosures contain extensive claim language but minimal enabling disclosure, making them weak as offensive prior art but useful as anti-claim-scope ammunition for any cartridge integrator to cite as evidence that broad cartridge claims are not novel. Companion existing entry: theranos-promised-cartridge documents the marketing claim; this entry catalogs the asserted IP.
+
+## HiMedia Laboratories reagent patent family (2005)
+
+- **id**: `himedia-labs-reagent-patent-family`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: HiMedia Laboratories
+- **disclosure**: HiMedia Laboratories Pvt Ltd (Mumbai) IP estate; IN/PCT filings 2005-present
+- **ip status**: patented
+- **prior art notes**: HiMedia patent family covers reagent supply for Indian POC fluidic platforms with low-cost optimization. Anticipates claims directed to Indian-market POC reagent kits with low-cost cartridge format constraints.
 
 ## ISS Lab-on-Chip Application Development Portable Test System (LOCAD-PTS) (2007)
 
@@ -295,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
 
+## Reynolds - House of Suns Gentian Line medical (2008)
+
+- **id**: `reynolds-house-of-suns-gentian-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'House of Suns' Gollancz 2008, ISBN 978-0-575-08236-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of multi-million-year residence biofluid preservation with shared-memory biofluid synthesis across distributed line members. Anticipates claims directed to multi-decade biofluid preservation cartridges with synchronized shared-state across distributed cartridges.
+
 ## Theranos Capillary Blood Microsampling Patent (2008-09-16)
 
 - **id**: `theranos-microsample-bloodcollection-patent`
@@ -415,6 +535,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Depicts a small-crew vessel medbay as an integrated patient bed with overhead reagent reservoirs, IV manifolds, automated injection ports, and continuous biometric monitoring closing dose decisions in software. The Naomi decompression-recovery scene specifically shows oxygenated-saline perfusion delivered automatically. Anticipates: self-contained shipboard auto-doc bays with reservoir + manifold + closed-loop biometric dose control; modular reagent cartridges that snap into a manifold; software-titrated continuous infusion driven by physiological sensors. Useful prior art for any 'reagent-cartridge driven autonomous medical bed' patent claim.
 
+## Weir - The Martian improvised medical fluidics (2011)
+
+- **id**: `weir-martian-medical-improvised`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andy Weir
+- **disclosure**: Weir, A., 'The Martian' (self-published 2011, Crown 2014, ISBN 978-0-8041-3902-1)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of standard astronaut medical kit SKU contents with documented improvisation for blood monitoring and self-suture. Anticipates claims directed to standard SKU astronaut medical cartridges with documented improvisation pathways and pressure-dressing application.
+
+## Deus Ex: Human Revolution - LIMB clinic (2011-08-23)
+
+- **id**: `deus-ex-hr-limb-clinic`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eidos Montreal
+- **disclosure**: Deus Ex: Human Revolution (Eidos Montreal / Square Enix, 2011)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a clinic-network subscription model for augmentation maintenance with proprietary anti-rejection biofluid distribution chain. Anticipates claims directed to subscription-based therapeutic cartridge refill networks with proprietary anti-rejection biofluid supply.
+
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
 - **id**: `hologic-panther-fusion-cartridge`
@@ -455,6 +595,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sister entry to 23andMe collection tube (same DNA Genotek architecture). Listed for completeness of the consumer-shipped microfluidic neighborhood.
 
+## Dishonored - Sokolovs Elixir (2012-10-09)
+
+- **id**: `dishonored-sokolov-elixir`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arkane Studios
+- **disclosure**: Dishonored (Arkane Studios / Bethesda Softworks, 2012)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an oral anti-pandemic elixir with whale-oil solvent and documented batch variance, distributed in cartridge-vial form factor with regulated potency. Anticipates claims directed to whale-oil/alkane-solvent batch potency control for therapeutic cartridges and SKU-level distribution of pandemic-prevention oral cartridges.
+
 ## Numenera Auto-doctor cypher and biotech artifacts (2013)
 
 - **id**: `numenera-autodoctor-cypher`
@@ -464,6 +614,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Numenera Corebook (Monte Cook Games 2013) ISBN 978-1-939979-00-3; Numenera: Discovery (2018).
 - **ip status**: fictional
 - **prior art notes**: Numenera's auto-doctor cypher is a published biotech micro-device performing automated wound treatment via injected nanofluidic agents. The book details numerous similar single-use biotech cyphers (drug nanos, healing pads, anti-toxin patches). Defensive prior art for single-use disposable nanofluidic medical patches and microscale autodoc devices.
+
+## Numenera - cypher catalog fluidic cyphers (2013)
+
+- **id**: `numenera-cypher-catalog-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Monte Cook Games
+- **disclosure**: Cook M., 'Numenera' Monte Cook Games 2013, ISBN 978-1-939979-00-7
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a catalog of hundreds of distinct disposable single-use biofluidic cartridges with diverse end-effects. Anticipates claims directed to broad-SKU disposable biofluidic cartridge catalogs with diverse effect endpoints and inscrutable underlying mechanisms (i.e., not requiring claim-by-claim mechanism disclosure).
+
+## BioShock Infinite: Burial at Sea - medical fluidics (2013-11-12)
+
+- **id**: `bioshock-burial-at-sea-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Irrational Games
+- **disclosure**: BioShock Infinite: Burial at Sea Ep. 1 (Irrational Games 2013), Ep. 2 (2014)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of an early-prototype biofluid commercial deployment with retail SKU display and pre-public-launch medical clinic. Anticipates claims directed to retail-display SKU presentation of investigational biofluid cartridges with co-located prototyping clinic.
 
 ## RoosterBio xeno-free hMSC manufacturing platform (2014)
 
@@ -505,6 +675,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an Oragene-architecture saliva collection cartridge whose preservation chemistry is specifically formulated to stabilize RNA (not DNA), enabling ambient-shipped saliva-transcriptome and oral-microbiome RNA-seq workflows. Anticipates: RNA-preserving variants of mail-back saliva cartridges; ambient-temperature transcriptome preservation in self-contained collection cups; microbiome-rRNA preservation in oral-cavity samples.
 
+## The Strange / Predation - autodoc cyphers (2014)
+
+- **id**: `strange-predation-autodoc-cyphers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Monte Cook Games
+- **disclosure**: Cook M., 'The Strange' Monte Cook Games 2014, ISBN 978-1-939979-15-1
+- **ip status**: fictional
+- **prior art notes**: Disclosure of biofluidic cypher cartridges that retain operational endpoint while the underlying fluidic mechanism is rewritten by context. Anticipates claims directed to context-adaptive biofluidic cartridges where the underlying mechanism varies by deployment context while preserving the end-effect specification.
+
+## Wolfenstein: The New Order - Daat Yichud medical fluidics (2014-05-20)
+
+- **id**: `wolfenstein-tno-daat-yichud-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: MachineGames
+- **disclosure**: Wolfenstein: The New Order (MachineGames / Bethesda Softworks, 2014)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of concealed-chamber medical artifact cartridges with combined diagnostic and therapeutic functions, paired with field-resistance distribution. Anticipates claims directed to concealed-chamber dual diagnostic-therapeutic cartridges with field distribution networks.
+
 ## Beta Bionics iLet Bionic Pancreas (2014-06-15)
 
 - **id**: `beta-bionics-ilet-bionic-pancreas`
@@ -545,6 +735,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
 
+## Witcher 3 in-game alchemy station crafting interface (2015-05-19)
+
+- **id**: `witcher-3-game-alchemy-station`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt RED
+- **disclosure**: The Witcher 3: Wild Hunt, CD Projekt RED, released 2015-05-19
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a structured compositional UI for staged alchemical formulation with ingredient slot substitutability, named quality grades, and solvent-recycle accounting. Anticipates claims directed to UI-driven compositional reagent design with substitutable ingredient slots, especially in computer-vision-loop or AI-controlled microfluidic dosing platforms.
+
 ## CELLINK BIO X Pneumatic Bioprinthead (2016)
 
 - **id**: `cellink-bio-x-pneumatic-printhead`
@@ -574,6 +774,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
+
+## Deus Ex: Mankind Divided - augmentation chambers (2016-08-23)
+
+- **id**: `deus-ex-md-augmentation-chambers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eidos Montreal
+- **disclosure**: Deus Ex: Mankind Divided (Eidos Montreal / Square Enix, 2016)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of segregated augmentation facility with screening biofluid sampling and in vivo upgrade biomarker monitoring. Anticipates claims directed to cartridge-form factor in vivo upgrade modules with integrated rejection-event biomarker monitoring.
 
 ## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
 
@@ -704,6 +914,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Outer Worlds (Obsidian Entertainment/Private Division 2019).
 - **ip status**: fictional
 - **prior art notes**: Spacer's Choice / Auntie Cleo medical kiosks depicted as standalone vending-machine medical units providing diagnostic scan + injectable dispensing. Defensive prior art for retail-style medical kiosks with combined diagnostic + drug-vending interfaces.
+
+## Becky Chambers - To Be Taught If Fortunate xenobiology fluidics (2019-09-03)
+
+- **id**: `chambers-to-be-taught-xenobiology-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Becky Chambers
+- **disclosure**: Chambers, B., 'To Be Taught, If Fortunate' Harper Voyager 2019, ISBN 978-0-06-293609-0
+- **ip status**: fictional
+- **prior art notes**: Disclosure of mission-specific staged biofluidic somaforming injection sequence for crew adaptation to extraterrestrial environments. Anticipates claims directed to mission-specific cartridge-staged adaptive biofluid regimens.
 
 ## Cyberpunk RED MaxTac response unit medical capability (2020)
 

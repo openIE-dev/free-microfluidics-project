@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-coflow-generation`
 
-**5 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Levenspiel 1972 is the canonical reactor-engineering textbook. The reactor archetypes - CSTR, PFR, packed-bed, batch - are ancestors of every microfluidic reactor disclosure: droplet reactors implement a discrete PFR; on-chip mixing chambers are CSTRs; packed-bead immunoassay chambers are packed-bed reactors. Anticipates microfluidic claims reciting residence-time control, mixing-vs-reaction selectivity arguments, or reactor-archetype-based device topology. Any patent that frames a microfluidic device as a 'CSTR-on-chip' or 'PFR-on-chip' is anticipated as to its reactor-engineering framing by Levenspiel.
 
+## Buchi B-290 / B-90 Nano / Encapsulator B-390 - Lab spray and encapsulation (1988)
+
+- **id**: `buchi-b290-b90-encapsulator-spray-line`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Buchi Labortechnik AG
+- **disclosure**: Buchi B-191 mini spray dryer launch (predecessor) 1988; B-290 launch 2003; B-90 Nano launch 2009; Encapsulator B-390 2010.
+- **ip status**: patented
+- **prior art notes**: Discloses three independent atomization architectures - two-fluid nozzle (B-290), piezo vibrating-mesh (B-90 Nano), and Rayleigh-disturbed co-axial jet (Encapsulator B-390) - each used for biopharma powder formation or microcapsule production. Anticipates vibrating-mesh sub-micron spray dryer and piezo-modulated co-axial alginate microbead encapsulator claims.
+
 ## Fogler 2006 - Elements of Chemical Reaction Engineering (4th ed.) (2006)
 
 - **id**: `fogler-2006-elements-reaction-engineering-4e`
@@ -64,3 +74,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fogler, H. S. (2006). 'Elements of Chemical Reaction Engineering' (4th ed.). Prentice Hall. ISBN 978-0-13-047394-3.
 - **ip status**: public-domain
 - **prior art notes**: Fogler 2006 is the modern reactor-engineering textbook, with explicit treatment of microreactors and chip-scale reactor design. Anticipates microfluidic reactor claims around residence-time control, reactor-network design, and chip-scale process intensification. Companion to Levenspiel 1972 for modern microfluidic-reactor disclosures.
+
+## BeeHex Chef 3D pizza printer (NASA spinout) (2013)
+
+- **id**: `beehex-pizza-printer`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: BeeHex Inc. (NASA SBIR spinout)
+- **disclosure**: Contractor / SMRC NASA Phase I SBIR food printer award 2013; BeeHex spinout 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses three-extruder food 3D printer for layered savory food product. Anticipates multi-extruder 3D printer for dough/sauce/cheese sequential deposition claims.
+
+## Redefine Meat New-Meat 3D-printed plant alternative (2020)
+
+- **id**: `redefine-meat-3d-meat`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Redefine Meat Ltd.
+- **disclosure**: Redefine Meat product launch September 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses triple-extruder 3D printer co-depositing protein gel, lipid, and connective phases to mimic muscle anisotropy in plant-based meat alternatives. Anticipates triple-extruder co-deposition plant-protein meat printer with anisotropic fiber structuring claims.

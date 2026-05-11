@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-luer-lock-port`
 
-**53 corpus entries disclose this subsystem.**
+**54 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -184,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ibidi GmbH product datasheet 'µ-Slide VI 0.4' Cat. 80606 (2008); ibidi.com
 - **ip status**: trade-secret
 - **prior art notes**: Discloses a six-channel injection-molded flow chamber on a microscope-slide-format COC substrate, designed for parallel shear-stress experiments under defined perfusion. Anticipates: parallel-channel flow chambers for cell-mechanobiology assays; COC-substrate microscopy-grade fluidic slides; the multiplex-laminar-shear architectural pattern.
+
+## Gerresheimer Gx Pharma + Centor PFS - Pre-filled syringes and vials (2008)
+
+- **id**: `gerresheimer-gx-pharma-pfs-systems`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Gerresheimer AG
+- **disclosure**: Gerresheimer Gx Centor pre-filled syringe product release 2008; Gx Elite low-particulate glass syringe 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses tubular borosilicate syringe with controlled silicone oil deposition for low-protein-adsorption pre-filled syringe applications, plus 100% camera inspection at fill-line speed. Anticipates low-particulate pre-filled biologic syringe with controlled silicone interior claims.
 
 ## Cytiva ÄKTA ready single-use chromatography skid (2009)
 

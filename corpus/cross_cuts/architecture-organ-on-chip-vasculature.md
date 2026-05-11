@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1947
 
@@ -234,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3; Persepolis Rising (2017) ISBN 978-0-316-33283-5 chapters on Laconia colony bio-tech; expanded in Tiamat's Wrath (2019) ISBN 978-0-316-33287-3.
 - **ip status**: fictional
 - **prior art notes**: Strange Dogs depicts Laconian-engineered alien creatures ('the dogs') that physically reconstruct dead organisms from protomolecule-catalyzed biofluid pools. The reconstruction is a fluidic process: the dogs deposit a viscous matrix that encloses and re-grows the corpse over hours to days. Anticipates: organism-scale biological 3D-printing using a deposition matrix that polymerizes around a scaffold; cell-deposition micro-bioprinting at organism rather than tissue scale; combined deposition + curing fluidic systems for whole-body regeneration. Useful prior art for any 'matrix-deposition organism-scale bioprinting' patent claim, however speculative.
+
+## Aleph Farms Aleph Cuts cultured-meat steak (2018)
+
+- **id**: `aleph-farms-cultured-steak`
+- **corpus**: private
+- **device class**: organ-on-chip
+- **creator**: Aleph Farms Ltd.
+- **disclosure**: Aleph Farms public unveil December 2018; Petit Steak Singapore market launch 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses perfused-bioreactor co-culture of multi-cell-type bovine tissue on plant-derived scaffold to produce structured cultured meat. Anticipates plant-scaffold perfused-bioreactor multi-cell-type cultured-meat steak claims.
 
 ## Organoid-on-chip disease modeling (2023-2026 academic work) (2023)
 

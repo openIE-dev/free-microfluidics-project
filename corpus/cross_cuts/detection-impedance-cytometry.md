@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-impedance-cytometry`
 
-**25 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -125,6 +125,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an in-line dielectric-spectroscopy probe that measures capacitance across a sweep of frequencies (typically 0.3-10 MHz); the difference between low-frequency (cell-membrane-charged) and high-frequency (cell-membrane-transparent) capacitance is proportional to the viable biomass volume fraction; signal processing extracts viable-cell-density estimate in real time. The single-use Incyte variant uses a disposable insert-molded electrode head compatible with gamma-irradiation pre-sterilized bioreactors. Anticipates: in-line PAT viable-biomass measurement by multi-frequency dielectric spectroscopy (distinguishable from off-line Coulter, NucleoCounter); single-use disposable probe head as the single-use-bioreactor compatibility solution. Element-by-element: probe body + electrode tip + sweep frequency generator + impedance lock-in + biomass extraction algorithm.
 
+## Anpac Biomedical CDA patent family (2008)
+
+- **id**: `anpac-biomedical-cda-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Anpac Bio-Medical Science
+- **disclosure**: Anpac Bio-Medical Science (Lishui, Shanghai) IP estate (2008-present); CN/US/PCT filings
+- **ip status**: patented
+- **prior art notes**: Anpac CDA patent family covers multi-parameter biophysical-property cancer screening cartridges. Anticipates claims directed to multi-parameter biophysical-property biofluidic cartridges with cancer-screening endpoint.
+
+## Izon Science qNano / qViro / Exoid - Tunable Resistive Pulse Sensing (2008)
+
+- **id**: `izon-qnano-qviro-trps`
+- **corpus**: private
+- **device class**: nanofluidic-chip
+- **creator**: Izon Science Ltd.
+- **disclosure**: Izon Science qNano product launch, 2008; Exoid next-generation launch 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses a stretchable polyurethane nanopore mounted in a fluidic cell with mechanical actuators tuning pore size in operation. Anticipates mechanically tunable nanopore TRPS claims, and per-particle zeta-potential measurement via convolved pulse magnitude and asymmetry.
+
 ## Schoch 2008 — Transport Phenomena in Nanofluidics (Rev. Mod. Phys.) (2008-07)
 
 - **id**: `schoch-2008-nanofluidic-transport-rmp`
@@ -185,6 +205,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the Sysmex XN-9000 modular hematology track architecture extending the existing sysmex-cbc-cartridge entry (in corpus) with: (1) primary-tube cap-piercing sample aspiration sharing one probe across multiple downstream analyzer modules; (2) the WDF channel using a polymethine fluorescent dye that selectively stains WBC nucleic acid + cytoplasmic granularity, enabling true 5-part diff via two-color cytogram (side scatter × side fluorescence) — replacing the earlier-generation impedance-only differential; (3) the WPC channel using a different polymethine dye selective for blast cells, enabling automated reflexing for hematological malignancy screening; (4) the modular XN-9000 configuration linking up to 6 analyzer modules on a sample-routing track. Anticipates: high-throughput modular hematology with primary-tube cap-piercing + multi-channel optical/impedance + fluorescent intracellular staining for cell classification.
 
+## Sysmex XN-series hematology analyzer patent family (2011)
+
+- **id**: `sysmex-xn-series-hematology-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sysmex Corporation
+- **disclosure**: Sysmex XN-series product launch (Sysmex Corp 2011); JP/US/EP filings via espacenet (assignee: Sysmex)
+- **ip status**: patented
+- **prior art notes**: Sysmex XN-series patent estate covers integrated multi-parameter hematology fluidic cartridges with fluorescence-flow-cytometric subsystem. References sysmex-xn-9000-track-hematology existing entry. Anticipates claims that recite multi-parameter integrated hematology cartridges with fluorescence-flow-cytometric platelet subsystem.
+
 ## Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor (2014)
 
 - **id**: `yu-2014-aptamer-saliva-cortisol-chip`
@@ -194,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanghavi BJ, Moore JA, Chávez JL, Hagen JA, Kelley-Loughnane N, Chou C-F, Swami NS, Biosens. Bioelectron. 78:244-252 (2014); doi:10.1016/j.bios.2015.11.052
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an aptamer-functionalized impedimetric microfluidic chip for cortisol detection in saliva, with AC electrokinetic sample focusing to overcome the low salivary cortisol concentration. Anticipates: aptamer-based salivary cortisol point-of-care chips; AC-electrokinetic preconcentration coupled to aptamer-functionalized electrodes for any low-abundance salivary biomarker; the architectural pattern of pre-concentrate-then-detect for saliva analytes.
+
+## Spectradyne nCS1 / nCS2 - Microfluidic resistive pulse sensing (2015)
+
+- **id**: `spectradyne-ncs1-ncs2-rps`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Spectradyne LLC
+- **disclosure**: Spectradyne nCS1 product launch, 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses disposable microfluidic Coulter-style nanopore cartridges with calibration-free absolute concentration measurement, and the ARC variant integrating per-particle fluorescence with MRPS for AAV full/empty ratio. Anticipates disposable polymer constriction-Coulter cartridge with absolute concentration calibration-free measurement and fluorescence-augmented microfluidic resistive pulse cartridge for AAV characterization claims.
 
 ## ISS Biomolecule Sequencer (Oxford Nanopore MinION on ISS) (2016)
 

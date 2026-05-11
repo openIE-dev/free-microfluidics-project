@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-dielectrophoresis`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1951
 
@@ -84,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Menarini Silicon Biosystems DEPArray. https://www.siliconbiosystems.com
 - **ip status**: patented
 - **prior art notes**: Commercial DEP-cage array on a CMOS chip for individual cell capture, image-based identification, and individual cell release into downstream tubes. Used clinically for circulating tumor cell isolation and for forensic mixed-DNA-sample resolution. Architecturally the commercial descendant of Voldman 2002.
+
+## Particle Metrix ZetaView - Nanoparticle tracking + zeta potential (2010)
+
+- **id**: `particle-metrix-zetaview-nta`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Particle Metrix GmbH (acquired by Sun Chemical)
+- **disclosure**: Particle Metrix ZetaView product launch, 2010; QUATT 4-laser launch 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic cell combining NTA (Brownian motion measurement) with electrokinetic mobility (zeta potential) in a single chamber. Anticipates integrated NTA + zeta potential exosome characterization cell claims, plus fluorescent EV phenotyping via per-particle fluorescence channels.
 
 ## ApoCell ApoStream CTC Capture System (2012)
 

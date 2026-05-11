@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-quake-pneumatic-membrane`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1988
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Van Lintel, H. T. G.; van de Pol, F. C. M.; Bouwstra, S. A piezoelectric micropump based on micromachining of silicon. Sens. Actuators 1988, 15, 153–167. DOI: 10.1016/0250-6874(88)87005-7
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of silicon-MEMS piezoelectric reciprocating micropump: piezo-actuated diaphragm with passive check valves on inlet and outlet defines pump direction. Predates the µTAS-era explosion by 2 years; predates Quake-valve work by 12 years. Anticipates: silicon-piezo diaphragm as primitive micropump architecture, integrated check-valve micropump topology, and the entire reciprocating-diaphragm micropump category subsequently commercialized by Bartels mp6, TTP Ventus, and Lee Co micropumps.
+
+## Olympus Medical fluidic endoscopy patent family (1995)
+
+- **id**: `olympus-medical-fluidic-patents`
+- **corpus**: private
+- **device class**: other
+- **creator**: Olympus Corporation
+- **disclosure**: Olympus Medical Systems endoscope fluidic patents (Olympus Corporation 1990s-present)
+- **ip status**: patented
+- **prior art notes**: Olympus endoscope fluidic patent family covers integrated irrigation/aspiration fluidic manifold with cross-patient isolation. Anticipates claims directed to endoscope-channel multi-channel fluidic manifolds with cross-patient sterile isolation.
 
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 

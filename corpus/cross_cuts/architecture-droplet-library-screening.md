@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-droplet-library-screening`
 
-**8 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002-06-28
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Harvard-anchored patent family covering hydrodynamic flow-focusing droplet generation. Anchors claims around: (a) a microfluidic device with an inner phase channel meeting two outer continuous-phase channels at an orifice; (b) generation of monodisperse droplets via Rayleigh-Plateau breakup at the orifice; (c) independent control of droplet diameter via continuous-phase flow rate while inner-phase flow rate sets generation frequency; (d) chip geometry compatible with PDMS soft lithography. Anticipates flow-focusing droplet-generator chips in microfluidic context. Underlying Anna 2003 paper (anna-2003-flow-focusing-droplet) is the published companion. The patent family was a precursor for the licensing chains that fed RainDance, QuantaLife, and 10x Genomics droplet platforms. Expiry: ~2023-2024 for earliest members, but continuations may extend coverage on specific geometries.
 
+## Witcher schools (Wolf/Cat/Griffin/Manticore/Bear/Viper) mutagen variants (2008-10-26)
+
+- **id**: `witcher-school-mutagen-variants`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt RED / Sapkowski universe
+- **disclosure**: The Witcher (CD Projekt RED 2007), expanded in The Witcher 2 (2011) and W3 (2015)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of phenotype-targeted alchemical variant cocktails with differentiable end-state biomarkers per recipe. Anticipates claims directed to phenotype-targeted multi-formulation small-molecule libraries with named recipes per intended end-phenotype.
+
 ## Droplet microfluidic technology for single-cell high-throughput screening (2009)
 
 - **id**: `brouzes-2009-droplet-screening`
@@ -55,6 +65,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
 
+## Synthetic Genomics / Viridos - Algal biofuel cell engineering (2010)
+
+- **id**: `concrete-biosciences-synthetic-genomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Synthetic Genomics Inc. (now Viridos)
+- **disclosure**: Gibson et al., Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome, Science 329 (2010) 52-56.
+- **ip status**: patented
+- **prior art notes**: Discloses the first chemically-synthesized prokaryotic genome rebooted in a recipient cell, and the minimal-cell genome (473 essential genes). Anticipates chemically synthesized whole-genome transplantation into recipient cell as a biofoundry workflow claims.
+
+## Recursion Pharmaceuticals OS - Cell painting + foundation model (extend) (2013)
+
+- **id**: `recursion-pharma-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Recursion Pharmaceuticals
+- **disclosure**: Recursion Pharmaceuticals founding 2013; Phenom-Beta foundation model release 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses massively-parallel Cell Painting fluorescence microscopy on standard 384-well plates with embedding-based AI hit calling. Anticipates large-scale Cell-Painting + image-foundation-model phenotypic drug discovery workflow claims.
+
 ## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
 
 - **id**: `broad-institute-drop-seq-patent-family`
@@ -64,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US10221442 priority 2014; US20170029873; WO2014210353 (Broad Institute / Harvard / Steve McCarroll lab)
 - **ip status**: patented
 - **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
+
+## Zymergen Foundry (acquired by Ginkgo 2022) (2014)
+
+- **id**: `zymergen-ginkgo-acquired-foundry`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Zymergen, Inc.
+- **disclosure**: Zymergen launch 2014; SPAC IPO S-1 2021; Hyaline product withdrawal 8-K August 2021; acquired by Ginkgo October 2022.
+- **ip status**: patented
+- **prior art notes**: Discloses iterative ML-driven cycle of strain mutagenesis, phenotypic screening, and ML retraining for microbial chemical production. Anticipates ML-driven iterative genome edit selection biofoundry workflow claims.
 
 ## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
 
@@ -85,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a piezo-driven on-demand single-cell dispenser combining sub-nanoliter droplet ejection with closed-loop optical inspection of the nozzle reservoir, gating dispense on detection of exactly one cell within the droplet field of view. Anticipates: image-gated single-cell isolation into wellplates without sorting (no fluidic FACS pressurization, no microfluidic chip required); deposition of single cells with sub-nanoliter accompanying volume to enable downstream low-input proteomics or genomics; reservoir-based piezo nozzle that recirculates uncommitted cells. Anticipates claims to single-cell printers using machine-vision verification before each ejection event.
 
+## Asimov Inc. - AI-guided cell line design platform (2017)
+
+- **id**: `asimov-design-cell-engineering`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Asimov, Inc.
+- **disclosure**: Asimov Inc. Y Combinator demo day, summer 2017; Series A 2021.
+- **ip status**: patented
+- **prior art notes**: Discloses an in-silico genetic circuit compiler that synthesizes regulatory cassettes from logic-level specifications and orders verified DNA from a synthesis partner. Anticipates logic-to-DNA genetic circuit compiler with CHO-cell mechanistic verification claims.
+
 ## Bio-Rad ddPCR Patent Consolidation Position (post-RainDance 2017) (2017-03-02)
 
 - **id**: `biorad-ddpcr-consolidation-position-2017`
@@ -94,3 +144,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bio-Rad 8-K 2017-02-01 (RainDance acquisition close); Bio-Rad 10-K 2017 IP discussion; combined patent estate analysis
 - **ip status**: patented
 - **prior art notes**: Consolidation-position entry capturing the post-2017 Bio-Rad ddPCR patent landscape. By March 2017, Bio-Rad held: (a) QuantaLife-originated droplet-PCR patents (acquired 2011); (b) RainDance picoliter-droplet patents (acquired 2017); (c) Bio-Rad-internal continuations and improvements. This combined estate gave Bio-Rad a dominant negotiating position with all parties using droplet partitioning for nucleic-acid quantification, including 10x Genomics (single-cell), Stilla (Naica), Sysmex (RainDrop). Bio-Rad subsequently sued 10x Genomics under multiple counts of patent infringement (10x-genomics-vs-bio-rad-litigation entry below). Defensive value: a one-stop disclosure of the patent positions Bio-Rad used to anchor those suits.
+
+## Twist Bioscience Biopharma Foundry - Antibody discovery and cell-line (2018)
+
+- **id**: `twist-bioscience-foundry-cell-line`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Twist Bioscience Corporation
+- **disclosure**: Twist Bioscience Biopharma launch announcement 2018; Library of Libraries antibody platform 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses silicon-chip oligo synthesis as input to combinatorial antibody library construction with rational CDR coverage. Anticipates silicon-chip oligo-fed combinatorial antibody phage library with rational coverage of paratope space claims.
+
+## Apona biotech - AI-guided antibody drug-discovery microfluidic platform (2025)
+
+- **id**: `apona-biotech-startup`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Apona Biotech Inc.
+- **disclosure**: Apona biotech public launch announcement 2025 (speculative).
+- **ip status**: unknown
+- **prior art notes**: Draft speculative entry: monitors a 2024-2026 startup focused on AI-guided antibody discovery with droplet mammalian-display screening. To be updated upon public disclosure.

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-multilayer-lamination`
 
-**14 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1997
+Earliest disclosure: 1970
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Polaroid blister-pod chemistry patent extensions (1970)
+
+- **id**: `polaroid-blister-pod-chemistry-patent-extensions`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Polaroid Corporation
+- **disclosure**: Polaroid Corporation instant-photography pod IP estate; US filings 1970-1990s
+- **ip status**: patented
+- **prior art notes**: Polaroid blister-pod chemistry patent family covers blister-pod reagent storage with frangible-seal roller-burst metering across substrate, and multi-stage sequential pod chemistry. Extends existing polaroid-sx-70-fluid-pod-1972 and polaroid-spectra-1986 entries. Anticipates claims directed to blister-pod cartridges with roller-burst metering and multi-stage layered reactive substrates. Foundational disclosure for downstream POC diagnostic blister-pod cartridge prior art.
 
 ## IMM Institut für Mikrotechnik Mainz modular microreactors (slit/interdigital/Caterpillar) (1997)
 
@@ -154,3 +164,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ineratec GmbH founding 2016 from Karlsruhe Institute of Technology spinout; Loewert, M.; Pfeifer, P. 'Microstructured Fischer-Tropsch reactor scale-up and opportunities for decentralized application' Chem. Ing. Tech. 2020, 92, 696–708; Ineratec product release 'P2X container' 2018; INERATEC Atmosfair pilot plant commissioning 2021 Werlte, Germany
 - **ip status**: patented
 - **prior art notes**: Direct descendant of Velocys's microchannel-FT architecture, but optimized for e-fuel/PtX rather than gas-to-liquids: (a) discloses containerized modular packaging of microchannel FT and methanol synthesis plus reverse-water-gas-shift (RWGS) into shipping-container-sized standardized modules suitable for distributed deployment at hydrogen production sites; (b) discloses CO2-feedstock-compatible catalyst formulations and the integrated RWGS-FT process intensification within a microchannel block; (c) commercial demonstration at Werlte, Germany. Anticipates patent claims directed to containerized microchannel e-fuel plants and to integrated RWGS-FT microchannel reactor blocks.
+
+## LG Chem microfluidic chip patent extensions (2018)
+
+- **id**: `lg-chem-chip-patent-extensions`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: LG Chem
+- **disclosure**: LG Chem (Seoul) microfluidic chip IP; KR/US filings 2018-present
+- **ip status**: patented
+- **prior art notes**: LG Chem patent family covers rolled-laminate flexible-substrate microfluidic cartridges with integrated thermal cycling. Anticipates claims directed to roll-to-roll laminate fluidic cartridges with mass-production scaling.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-microwell-array`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -154,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Berkeley Lights Lightning product launch 2019; Berkeley Lights S-1 SEC filing 2020-06; OptoElectroPositioning patent estate US9,023,628B2
 - **ip status**: patented
 - **prior art notes**: Variant of the Berkeley Lights OptoSelect / Beacon architecture in which the optoelectronic positioning array is paired with on-chip imaging and a transfection workflow within the NanoPen chambers — distinct from the original Beacon (cell-line development focus) by including transfection-after-isolation as a single integrated workflow. Anticipates: optoelectronic-positioning chip extended with on-chip transfection events triggered after single-cell isolation; combined imaging + delivery in the same chamber array. Element-by-element: photoconductor array + NanoPen chamber + objective + on-chip pulse/cargo flush + clonal recovery export.
+
+## Singleron Matrix patent family extensions (2019)
+
+- **id**: `singleron-matrix-patent-extensions`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies (Nanjing/Singleron) IP estate (2019-present); CN/PCT filings
+- **ip status**: patented
+- **prior art notes**: Singleron Matrix patent family extends existing singleron-matrix-microwell and singleron-matrix-scircle-barcoding entries with full IP portfolio coverage. Anticipates claims directed to microwell-array single-cell barcoding cartridges with circularization-based chemistry.
 
 ## Singleron Matrix microwell single-cell platform (2020)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-membrane-filtration-on-chip`
 
-**55 corpus entries disclose this subsystem.**
+**61 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1856
 
@@ -205,6 +205,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
 
+## EPICA Dome C ice core - 800ka climate record (2004)
+
+- **id**: `epica-dome-c-ice-core`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: EPICA (European Project for Ice Coring in Antarctica) consortium
+- **disclosure**: EPICA community members, Eight glacial cycles from an Antarctic ice core, Nature 429 (2004) 623-628.
+- **ip status**: public-domain
+- **prior art notes**: Discloses long-record paleo-CFA microfluidic chemistry pipeline for sub-millimeter resolution. Anticipates microfluidic chemistry train with multi-decade-resolution paleo-climate ice-core analysis claims.
+
 ## Repligen KrosFlo tangential flow filtration system (2005)
 
 - **id**: `repligen-krosflo-tff`
@@ -235,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a compact off-gas analyzer combining electrochemical O2 measurement and NDIR (non-dispersive infrared) CO2 measurement in a single rack-mount unit, with sample-conditioning (gas drier, particulate filter) integrated; sample gas is drawn from bioreactor exhaust at low flow; OUR/CER calculated from inlet vs outlet partial-pressure difference. Anticipates: combined O2/CO2 off-gas analyzer in a compact form factor suitable for distributed deployment at each bioreactor (vs centralized mass spec); sample-conditioning train integration. Element-by-element: gas inlet + drier + filter + electrochemical O2 cell + NDIR CO2 cell + outlet to atmosphere + RS485/Profibus output.
 
+## NEEM Greenland ice-core drilling and microfluidic CFA (2008)
+
+- **id**: `neem-greenland-ice-core`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: NEEM (North Greenland Eemian Ice Drilling) international consortium
+- **disclosure**: NEEM community members, Eemian interglacial reconstructed from a Greenland folded ice core, Nature 493 (2013) 489-494.
+- **ip status**: public-domain
+- **prior art notes**: Discloses Continuous Flow Analysis microfluidic train: melt-front decontamination, parallel branching microchannels, and inline laser water-isotope spectroscopy at 1 mm depth resolution. Anticipates microfluidic CFA train for paleoclimate ice-core analysis with simultaneous chemistry and isotope readouts claims.
+
 ## Sigma-Aldrich (Merck) Flow Chemistry product kits and reagent supports (2009)
 
 - **id**: `merck-sigma-aldrich-flow-chemistry-kits`
@@ -264,6 +284,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cussler, E. L. (2009). 'Diffusion: Mass Transfer in Fluid Systems' (3rd ed.). Cambridge University Press. ISBN 978-0-521-87121-1.
 - **ip status**: public-domain
 - **prior art notes**: The 2009 third edition expands Cussler mass-transfer treatment to explicitly cover microfluidic geometries, biological transport, and Maxwell-Stefan multicomponent diffusion. Anticipates patent claims involving microfluidic mass-transfer novelty in any of these expanded areas.
+
+## Pall ChromaSorb single-use Q-membrane chromatography (2009)
+
+- **id**: `pall-chromasorb-membrane-chromatography`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Pall Corporation (now Cytiva/Danaher)
+- **disclosure**: Pall Life Sciences ChromaSorb product launch, 2009.
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use anion-exchange membrane adsorber in flow-through polishing mode. Anticipates disposable membrane Q chromatography flow-through polishing claims and complements Sartobind Q already in the corpus.
 
 ## Syrris Asia and Asia 320 modular flow chemistry platform (2010)
 
@@ -465,6 +495,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a continuous single-pass diafiltration module: a stack of ultrafiltration cassettes plumbed for countercurrent buffer addition between cassettes, achieving complete buffer exchange in a single pass without the recirculation tank required by conventional batch diafiltration. Anticipates: inline continuous diafiltration unit operations integrated with SPTFF concentration in continuous bioprocess trains; specifically the architectural pattern of countercurrent buffer addition between TFF stages; relevant prior art for end-to-end continuous mRNA, mAb, and AAV downstream-process trains.
 
+## Smith-Root eDNA Sampler (eFishery) (2017)
+
+- **id**: `smith-root-efishery-edna-sampler`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Smith-Root Inc.
+- **disclosure**: Smith-Root Inc. ANDe eDNA sampler launch, 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses backpack-portable eDNA filter-cartridge sampler with onboard logging and self-preservation chemistry. Anticipates portable eDNA filter-cartridge sampler with self-preserving lysis-buffer reservoir claims.
+
+## Nordic Aquaculture sea-lice cartridge detection system (2017)
+
+- **id**: `nordic-aquaculture-sea-lice-cartridge`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Norwegian Veterinary Institute / Nofima
+- **disclosure**: Bakke et al., Quantification of sea lice (Lepeophtheirus salmonis) infestation via environmental DNA, J. Fish Dis. 40 (2017) 765-776.
+- **ip status**: unknown
+- **prior art notes**: Discloses eDNA-based qPCR quantification of L. salmonis larvae in cage-water samples as regulatory monitoring tool. Anticipates eDNA-based parasitic-louse qPCR monitoring cartridge for aquaculture regulatory compliance claims.
+
 ## Asahi Kasei Planova S20N continuous virus filter (2018)
 
 - **id**: `asahi-kasei-planova-s20n`
@@ -564,3 +614,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
 - **ip status**: patented
 - **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.
+
+## Curio Trekker - Pooled-screen spatial barcoding 2024 extend (2024)
+
+- **id**: `curio-trekker-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Curio Bioscience
+- **disclosure**: Curio Bioscience Trekker launch announcement Q3 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses bead-carpet spatial-barcode transfer onto suspended nuclei enabling downstream scRNA-seq or pooled-CRISPR screen with spatial readout. Anticipates Slide-tags-style bead-to-nucleus spatial barcode transfer with downstream pooled-perturbation scRNA-seq claims.

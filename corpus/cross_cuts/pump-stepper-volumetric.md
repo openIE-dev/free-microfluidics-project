@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-stepper-volumetric`
 
-**88 corpus entries disclose this subsystem.**
+**95 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1864
 
@@ -545,6 +545,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Allagan resurrection technology depicted as a multi-stage process combining stasis-vat preservation, aetheric (energy-fluid) reconstruction, and physical body reformation in a fluid-filled chamber. Anticipates: multi-stage body-reconstruction protocols combining stasis preservation, energy-substrate processing, and physical reformation in a fluid-chamber architecture; useful prior art for 'multi-modality body reconstruction in a sealed fluid chamber' claims.
 
+## BeeHex Chef 3D pizza printer (NASA spinout) (2013)
+
+- **id**: `beehex-pizza-printer`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: BeeHex Inc. (NASA SBIR spinout)
+- **disclosure**: Contractor / SMRC NASA Phase I SBIR food printer award 2013; BeeHex spinout 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses three-extruder food 3D printer for layered savory food product. Anticipates multi-extruder 3D printer for dough/sauce/cheese sequential deposition claims.
+
 ## Sysmex CS-2500 / CN-6000 Coagulation Analyzer Multi-Wavelength Cuvette (2014)
 
 - **id**: `sysmex-cs-2500-coag-automated`
@@ -595,6 +605,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Behemoth (former generation ship Nauvoo) is depicted with a vast multi-bay medical wing receiving casualties from the Ring slowdown event. Scenes show parallel patient beds with shared reagent reservoirs, central oxygenated-saline distribution, and triage-driven dose-rate control. Anticipates: ship-scale parallel-patient-bed reagent distribution networks (one reservoir manifold serving N beds with per-bed flow control); architectural pattern for mass-casualty automated dose distribution; useful as prior art for any 'centralized reagent reservoir feeding decentralized infusion endpoints with per-patient flow controllers' claim.
 
+## Natural Machines Foodini countertop food printer (2014)
+
+- **id**: `natural-machines-foodini`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Natural Machines S.L.
+- **disclosure**: Natural Machines Foodini Kickstarter 2014.
+- **ip status**: patented
+- **prior art notes**: Discloses 5-capsule countertop food 3D printer with cloud-connected recipe library. Anticipates countertop multi-capsule food 3D printer with cloud recipe orchestration claims.
+
 ## Beta Bionics iLet Bionic Pancreas (2014-06-15)
 
 - **id**: `beta-bionics-ilet-bionic-pancreas`
@@ -614,6 +634,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wijnen B., Hunt E.J., Anzalone G.C., Pearce J.M., 'Open-source syringe pump library', PLoS ONE 9(9):e107216, 22 Sept 2014; doi:10.1371/journal.pone.0107216; design files at https://www.appropedia.org/Open-source_syringe_pump
 - **ip status**: open-copyleft
 - **prior art notes**: Discloses a fully open-source 3D-printable syringe pump library: a NEMA 17 stepper motor drives an Acme threaded rod that translates a printed pusher block on linear rods, displacing a standard medical syringe. Control is via Arduino + a RepRap-style stepper driver, with G-code or serial command input. The publication releases STL/OpenSCAD parametric source, BOM with Digi-Key part numbers, calibration script, and benchmarks volumetric accuracy (<1% over 0.5-30 mL range) and minimum dispensable volume. CC-BY-SA / GPL release. Anticipates: any patent claim covering '3D-printed syringe pump assemblies driven by a stepper-motor-and-leadscrew with open firmware controlling dispense rate by step count' as of Sept 2014. Foundational prior art for the entire 'open syringe pump' lineage including Poseidon (which explicitly cites it), countless thesis instruments, and the Klipper-driven syringe pump line. Element-by-element discloses: parametric printed frame, leadscrew-translated syringe pusher, syringe-barrel clamping, microstepping volume calibration, and parallelization by chaining drivers on a single MCU.
+
+## Function of Beauty - Per-customer compounded hair and skin care (2015)
+
+- **id**: `function-of-beauty-personalized`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Function Inc.
+- **disclosure**: Function of Beauty company launch, 2015; DTC personalization platform.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses industrial robotic compounder that fills personalized topical formulations from a base reservoir bank via quiz-driven recipe generation. Anticipates DTC personalized cosmetic compounding workflow with quiz-to-formula recipe generation claims.
 
 ## Beckman Biomek i5 / i7 automated workstation (2016)
 
@@ -715,6 +745,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Starfinder rules detail starship medical bays as a class of modular ship modifications: reagent rack, biotech bed, trauma kit add-ons. Anticipates: modular ship-medical-bay components with standardized reagent supply interfaces; tiered medbay capability mapped to module count; useful prior art for 'modular medbay with standardized reagent interface for cross-platform retrofit' claims.
 
+## Shiseido HumanFit Vision personalized cosmetics platform (2017)
+
+- **id**: `shiseido-humanfit-vision`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Shiseido Co., Ltd.
+- **disclosure**: Shiseido Optune platform launch announcement, 2017; HumanFit Vision update 2021.
+- **ip status**: patented
+- **prior art notes**: Discloses countertop multi-cartridge personalized cosmetic dispenser with daily-updated dose recipe from app context. Anticipates daily-adaptive cartridge-based cosmetic dispenser with weather/sleep contextual dosing claims.
+
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 
 - **id**: `heska-element-ht5-veterinary-imaging`
@@ -724,6 +764,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Heska Element HT5 launch 2018-09; product datasheet; companion Heska 510(k) K200147
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer using image cytometry (vs flow cytometry) for the WBC differential: stained WBCs flow through a microfluidic imaging channel under high-magnification CCD imaging, and convolutional-neural-network (CNN)-based image classification produces 5-part diff plus reticulocyte count (since 2019 software updates). Distinguishes from IDEXX ProCyte Dx (Sysmex-licensed flow cytometry), Sysmex XN, Beckman DxH, and Mindray BC-6800 (all flow cytometry-based) by retaining actual cell images for veterinarian review — important in veterinary clinical pathology where edge cases (mast cell tumor mast cells in peripheral blood, exotic species hematology) benefit from image evidence. Anticipates: image-cytometry hematology as an alternative to flow cytometry; CNN-based image classification embedded in a clinical analyzer; the architectural choice of single-cuvette image + impedance hybrid (vs separate multi-channel architecture).
+
+## L Oreal Perso / Custom D.O.S.E. personalized skincare dispenser (2020)
+
+- **id**: `loreal-perso-skincare`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: L Oreal SA
+- **disclosure**: LOreal Perso CES 2020 launch announcement; SkinCeuticals Custom D.O.S.E. launch 2019.
+- **ip status**: patented
+- **prior art notes**: Discloses handheld personalized cosmetic dispenser combining three sub-mL reservoirs with mobile-app feedback. Anticipates handheld personalized topical-dose dispenser with mobile-app skin diagnostic feedback claims.
+
+## L Oreal Perso / Custom D.O.S.E. personalized skincare dispenser (2020)
+
+- **id**: `loreal-perso-skincare`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: L Oreal SA
+- **disclosure**: LOreal Perso CES 2020 launch announcement; SkinCeuticals Custom D.O.S.E. launch 2019.
+- **ip status**: patented
+- **prior art notes**: Discloses handheld personalized cosmetic dispenser combining three sub-mL reservoirs with mobile-app feedback. Anticipates handheld personalized topical-dose dispenser with mobile-app skin diagnostic feedback claims.
+
+## Redefine Meat New-Meat 3D-printed plant alternative (2020)
+
+- **id**: `redefine-meat-3d-meat`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Redefine Meat Ltd.
+- **disclosure**: Redefine Meat product launch September 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses triple-extruder 3D printer co-depositing protein gel, lipid, and connective phases to mimic muscle anisotropy in plant-based meat alternatives. Anticipates triple-extruder co-deposition plant-protein meat printer with anisotropic fiber structuring claims.
 
 ## OpenFlexure Pump (Stirling et al. 2020) (2020-06)
 

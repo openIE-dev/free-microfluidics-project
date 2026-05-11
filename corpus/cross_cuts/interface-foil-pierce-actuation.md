@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-foil-pierce-actuation`
 
-**21 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1990
+Earliest disclosure: 1970
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Polaroid blister-pod chemistry patent extensions (1970)
+
+- **id**: `polaroid-blister-pod-chemistry-patent-extensions`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Polaroid Corporation
+- **disclosure**: Polaroid Corporation instant-photography pod IP estate; US filings 1970-1990s
+- **ip status**: patented
+- **prior art notes**: Polaroid blister-pod chemistry patent family covers blister-pod reagent storage with frangible-seal roller-burst metering across substrate, and multi-stage sequential pod chemistry. Extends existing polaroid-sx-70-fluid-pod-1972 and polaroid-spectra-1986 entries. Anticipates claims directed to blister-pod cartridges with roller-burst metering and multi-stage layered reactive substrates. Foundational disclosure for downstream POC diagnostic blister-pod cartridge prior art.
 
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 

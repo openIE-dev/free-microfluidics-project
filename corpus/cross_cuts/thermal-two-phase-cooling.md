@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-two-phase-cooling`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1994
+Earliest disclosure: 1984
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## BattleTech BattleMech cockpit immersion fluid (inertial damping fluid) (1984)
+
+- **id**: `battletech-cockpit-immersion-fluid`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation / Catalyst Game Labs
+- **disclosure**: BattleTech (FASA Corporation, 1984); first detailed in BattleMech Technical Readout 3025 (1986)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a non-Newtonian inertial-damping cockpit immersion fluid with integrated breathing inlet and conductive neurohelmet electrode-array. Anticipates claims directed to non-Newtonian impact-damping immersive operator chambers with integrated electrode-fluid neural interface and respiratory bypass. Especially relevant to combat vehicle and aerospace operator-cabin immersion damping claims.
 
 ## Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks (1994)
 

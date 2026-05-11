@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-2pp-direct-write`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2016
 
@@ -34,3 +34,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: James S. A. Corey, Strange Dogs novella (Orbit 2017) ISBN 978-0-316-46243-3; Persepolis Rising (2017) ISBN 978-0-316-33283-5 chapters on Laconia colony bio-tech; expanded in Tiamat's Wrath (2019) ISBN 978-0-316-33287-3.
 - **ip status**: fictional
 - **prior art notes**: Strange Dogs depicts Laconian-engineered alien creatures ('the dogs') that physically reconstruct dead organisms from protomolecule-catalyzed biofluid pools. The reconstruction is a fluidic process: the dogs deposit a viscous matrix that encloses and re-grows the corpse over hours to days. Anticipates: organism-scale biological 3D-printing using a deposition matrix that polymerizes around a scaffold; cell-deposition micro-bioprinting at organism rather than tissue scale; combined deposition + curing fluidic systems for whole-body regeneration. Useful prior art for any 'matrix-deposition organism-scale bioprinting' patent claim, however speculative.
+
+## Stanford Microfluidics Foundry 2024 (2024)
+
+- **id**: `stanford-microfluidics-foundry-2024`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Stanford Microfluidics Foundry (Stanford SNF / Stanford BioE)
+- **disclosure**: Stanford Microfluidics Foundry 2024 capability update on foundry.stanford.edu.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses university-hosted microfluidics fab service offering SU-8 master, glass DRIE, and 2PP capabilities for academic researchers. Anticipates university-foundry-as-service microfluidic-fabrication ecosystem claims.

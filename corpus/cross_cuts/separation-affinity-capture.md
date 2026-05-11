@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-affinity-capture`
 
-**64 corpus entries disclose this subsystem.**
+**112 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fulwyler, M. J. Electronic separation of biological cells by volume. Science 1965, 150, 910–911. DOI: 10.1126/science.150.3698.910
 - **ip status**: public-domain
 - **prior art notes**: The foundational disclosure of fluorescence-activated cell sorting (FACS): a cell-laden fluid jet broken into droplets by piezoelectric vibration, with droplets containing cells of interest electrostatically deflected to collection vessels. Predates Becton Dickinson FACS commercialization by 4 years. Anticipates: jet-in-air cell sorting architecture, droplet-based electrostatic deflection sorting, and the entire commercial flow cytometry industry. Direct architectural cousin of Sweet 1965 continuous inkjet — same primitive, different application.
+
+## Dune - Fremen Water of Life ritual fluidics (1965)
+
+- **id**: `dune-fremen-water-of-life-ritual`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'Dune' Chilton Books 1965, ISBN 978-0-441-17271-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of in vivo biotransmutation of a toxic biofluid into a benign product by a specialized practitioner, with communal redistribution of the transformed fluid. Anticipates claims directed to in vivo or wearable bioreactor cartridges for substrate transformation with downstream redistribution interface, and personalized-medicine claims that involve practitioner-mediated substrate activation prior to community use.
 
 ## Sepragen QuantaSep / ProSep Radial-Flow Chromatography Column (1989)
 
@@ -85,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the Biosite Triage cartridge as the original quantitative fluorescent lateral flow immunoassay POC architecture: a hybrid cartridge integrating an injection-molded fluidic frame (sample addition, capillary metering, conjugate rehydration zone) with a nitrocellulose lateral-flow membrane carrying capture-antibody-coated test lines, all read by a benchtop fluorescence meter performing time-resolved fluorescence (TRF) on Eu-chelate labels (or fluorescent latex). Anticipates: quantitative-vs-qualitative lateral flow POC architecture using fluorescent labels and meter-based readout; the BNP/NT-proBNP heart-failure POC market built on this primitive (2000s); the cartridge-frame-plus-membrane fabrication pattern that influenced Sofia, BD Veritor (in corpus), Alere/Abbott IM, and Quidel's modern POC line. Foundational architectural disclosure dating to 1995.
 
+## New England Biolabs (NEB) foundational patent family (1995)
+
+- **id**: `neb-1995-foundational-patent-family`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: New England Biolabs
+- **disclosure**: New England Biolabs (Ipswich MA) reagent IP estate; US filings 1995-present
+- **ip status**: patented
+- **prior art notes**: NEB patent family covers Q5 high-fidelity polymerase, NEBNext NGS library prep kits, and restriction enzyme manufacturing IP. Complements existing neb-gmp-t7-rnap entry with broader portfolio. Anticipates claims directed to high-fidelity polymerase fluidic cartridges and to NGS library prep kit cartridges.
+
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
 - **id**: `roche-elecsys-ecl-reagent-cassette`
@@ -95,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
 
+## Babylon 5 Drazi crystal-vine medical preparation (1996)
+
+- **id**: `babylon5-drazi-crystal-vine-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions; Drazi sourcebook (Mongoose)
+- **disclosure**: Babylon 5 S3E14 'Ship of Tears' Drazi background; B5 RPG 'Galactic Guide' 2006
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a temperature-staged fluid extraction protocol from biological substrate, used for both medicinal preparation and identity-compatibility verification. Anticipates claims directed to staged-temperature solvent extraction cartridges with downstream identity-marker analysis.
+
 ## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
 
 - **id**: `aldevron-plasmid-extend`
@@ -104,6 +134,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aldevron company founding 1998; Aldevron patent US10,975,374B2 (Methods for plasmid DNA manufacturing); Aldevron acquired by Danaher 2021 for $9.6B (SEC 8-K)
 - **ip status**: patented
 - **prior art notes**: Process disclosure (extending wave 1 generic plasmid coverage): Aldevron's GMP plasmid train comprises fed-batch E. coli fermentation → in-line continuous static-mixer alkaline lysis (microfluidic laminar mixing of cell paste with NaOH/SDS lysis buffer) → flocculation neutralization → centrifugal/depth clarification → TFF concentration → AEX (Q-Sepharose / Capto-class) → HIC polishing → final TFF + 0.2 µm sterile filtration. Anticipates: standardized GMP plasmid manufacturing chain optimized for CGT and mRNA-vaccine-template supply, where the in-line static-mixer lysis step is the microfluidic-relevant unit operation (controls shear-induced plasmid degradation by setting mixing residence time and Reynolds regime). Element-by-element: fermenter outlet + static-mixer lysis + neutralizer junction + centrifuge → bag → AEX column → HIC column → TFF → sterile fill.
+
+## Blue Planet RPG - aquatic medicine fluidics (2000)
+
+- **id**: `blue-planet-aquatic-medicine`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Biohazard Games
+- **disclosure**: Biohazard Games, 'Blue Planet v2' 2000, ISBN 978-1-58994-001-7
+- **ip status**: fictional
+- **prior art notes**: Disclosure of underwater-deployable medical cartridge with sealed-fluid integrity under hydrostatic pressure and bioprospected indigenous pharmaceutical pipeline. Anticipates claims directed to pressure-sealed underwater diagnostic cartridges and to bioprospected-indigenous-pharmaceutical reagent supply chains.
+
+## Reynolds - Chasm City Boa Curve medical district (2001)
+
+- **id**: `reynolds-chasm-city-boa-curve-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'Chasm City' Gollancz 2001, ISBN 978-0-575-06877-1
+- **ip status**: fictional
+- **prior art notes**: Disclosure of stratified medical-service ecosystem with high-tier organ-growth and low-tier salvage biofluidics. Anticipates claims directed to tiered cartridge SKU ecosystems with replacement-organ growth at top tier and salvage-mode biofluidic reuse at low tier.
 
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
@@ -145,6 +195,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
 
+## Fujifilm Wako Pure Chemical reagent patent family (2003)
+
+- **id**: `fujifilm-wako-pure-chemical-patents`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Fujifilm Wako Pure Chemical Corporation
+- **disclosure**: Wako Pure Chemical Industries (Fujifilm Wako since 2017) reagent kit patents; JP/US filings 1990s-present
+- **ip status**: patented
+- **prior art notes**: Fujifilm Wako Pure Chemical patent family is the foundational Japanese reagent-kit IP estate, covering hundreds of clinical analytes. Anticipates claims that recite specific reagent fluidic protocols for endotoxin / beta-glucan / clinical biochemistry detection on a cartridge.
+
 ## Blood-on-a-chip review (Toner & Irimia 2005) (2005)
 
 - **id**: `toner-irimia-2005-blood-on-chip`
@@ -175,6 +235,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a programmable bead-based fluidic cassette in which agarose beads functionalized with capture antibodies are arranged in etched silicon microwells under a sealed flow channel. The architecture is configurable per assay by changing bead loading. Anticipates: configurable bead-array microfluidic immunoassay cartridges; salivary periodontal disease panels using multiplex bead capture; bead-array p-BNC architectures for any saliva or serum panel; the broader 'electronic taste chip' lineage.
 
+## Reynolds - Pushing Ice Rockhopper autodoc (2005)
+
+- **id**: `reynolds-pushing-ice-rockhopper-autodoc`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'Pushing Ice' Gollancz 2005, ISBN 978-0-575-07440-6
+- **ip status**: fictional
+- **prior art notes**: Disclosure of industrial mining-vessel autodoc cluster with contamination-triage interface to industrial fluidic streams. Anticipates claims directed to industrial-platform autodoc cartridges with contamination-triage interfaces to non-medical industrial fluid streams.
+
+## Tosoh Toyopearl AF-Heparin - Heparin affinity resin for AAV polishing (2005)
+
+- **id**: `tosoh-toyopearl-af-heparin-resin`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Tosoh Bioscience
+- **disclosure**: Tosoh Bioscience Toyopearl AF-Heparin product release, 2005.
+- **ip status**: patented
+- **prior art notes**: Discloses heparin-conjugated rigid methacrylic polymer base for AAV polishing leveraging native AAV2 heparin sulfate receptor binding. Anticipates heparin affinity resin for AAV serotype polishing claims.
+
 ## Bead-based cell capture in microfluidic channels (2007)
 
 - **id**: `yu-2010-cell-pull-down-bead`
@@ -204,6 +284,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMerieux NucliSENS easyMAG launch 2007; EMAG launch 2017; CE-IVD marked
 - **ip status**: patented
 - **prior art notes**: Discloses an automated Boom-chemistry NA extraction platform using single-vessel batch processing with movable magnet bars rather than plate-to-plate transfer, with the EMAG variant providing per-strip independent magnet actuation and clinical-lab sample tracking. Anticipates: single-vessel-batch automated extraction architectures using moving magnet bars with strip-level independent control; integration of Boom-chemistry silica-bead chemistry into clinical-lab IVD-compliant instruments.
+
+## ChromaCon Contichrom CUBE / MCSGP - Twin-column continuous chromatography (2007)
+
+- **id**: `chromacon-contichrom-mcsgp-continuous`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ChromaCon AG (acquired by YMC 2019)
+- **disclosure**: Aumann and Morbidelli, A continuous multicolumn countercurrent solvent gradient purification (MCSGP) process, Biotechnol. Bioeng. 98 (2007) 1043-1055.
+- **ip status**: patented
+- **prior art notes**: Discloses two columns in alternating capture/elute roles with internal recycle of impure tails back to the loading column - the canonical MCSGP architecture. Anticipates twin-column continuous gradient separation claims with internal recycling and broader claims to continuous countercurrent ternary chromatography.
+
+## Cytiva AVB Sepharose - AAV affinity capture resin (2007)
+
+- **id**: `cytiva-avb-sepharose-aav-affinity`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Cytiva (formerly GE Healthcare)
+- **disclosure**: GE Healthcare AVB Sepharose HP launch, 2007.
+- **ip status**: patented
+- **prior art notes**: Discloses a single-domain antibody ligand coupled via flexible spacer to highly cross-linked Sepharose for broad-serotype AAV capture. Anticipates pan-serotype single-domain-antibody AAV affinity capture resin claims.
+
+## BioShock - ADAM extraction from Little Sisters (2007-08-21)
+
+- **id**: `bioshock-adam-extraction-little-sisters`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: 2K Boston / Irrational Games
+- **disclosure**: 2K Boston/2K Australia, BioShock (2K Games 2007)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of host-parasite biofluid harvesting via oral cannula, with downstream volumetric measurement and SKU-format bottling. Anticipates claims directed to host-parasite biofluid extraction cartridges with downstream volumetric metering and SKU-format dispensing.
 
 ## Thermo Fisher Phadia 2500 Allergy/Autoimmune ImmunoCAP Cartridge (2008)
 
@@ -255,6 +365,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
 
+## Premas Biotech patent family (2009)
+
+- **id**: `premas-biotech-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Premas Biotech
+- **disclosure**: Premas Biotech Pvt Ltd IP estate; IN/US/PCT filings 2009-present
+- **ip status**: patented
+- **prior art notes**: Premas Biotech patent family covers yeast-based protein expression platform with bioreactor-scale fermentation cartridges. Anticipates claims directed to D-Crypt-style yeast expression cartridges.
+
+## Pall ChromaSorb single-use Q-membrane chromatography (2009)
+
+- **id**: `pall-chromasorb-membrane-chromatography`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: Pall Corporation (now Cytiva/Danaher)
+- **disclosure**: Pall Life Sciences ChromaSorb product launch, 2009.
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use anion-exchange membrane adsorber in flow-through polishing mode. Anticipates disposable membrane Q chromatography flow-through polishing claims and complements Sartobind Q already in the corpus.
+
 ## DiaSorin LIAISON XL Immunoassay Magnetic Bead Cuvette (2010)
 
 - **id**: `diasorin-liaison-xl-magnetic-bead-cuvette`
@@ -305,6 +435,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an enzymatic DNA-amplification process replacing bacterial fermentation: a parental plasmid template is amplified by Phi29 rolling-circle amplification, then processed by TelN protelomerase to cleave at TelN target sites and ligate hairpin termini, yielding a linear covalently-closed (doggybone) DNA molecule. Manufacturing fluid path: in vitro reaction vessel → digestion/cleanup → TFF concentration → AEX chromatography polishing → sterile fill. Anticipates: cell-free enzymatic DNA manufacturing as alternative to fermentation-based plasmid; protelomerase-mediated linear-covalently-closed DNA topology as a delivery cargo (no bacterial sequences, smaller, suitable for AAV/LNP packaging). Element-by-element: amplification reactor + digestion/protelomerase reactor + TFF + AEX + sterile fill.
 
+## Indian Council of Medical Research translational research patent family (2010)
+
+- **id**: `icmr-translational-research-patent-family`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Indian Council of Medical Research / BIRAC
+- **disclosure**: Indian Council of Medical Research (ICMR) and Biotechnology Industry Research Assistance Council (BIRAC) translational program patents; IN/PCT filings 2010-present
+- **ip status**: patented
+- **prior art notes**: ICMR/BIRAC translational research patent family covers POC fluidic-cartridge diagnostics developed by Indian academic and SME network. Anticipates claims directed to Indian-developed POC NAAT cartridges for tuberculosis and COVID-19.
+
+## Mowi (Marine Harvest) salmon genomic preparation cassette (2010)
+
+- **id**: `mowi-genomic-prep`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Mowi ASA (formerly Marine Harvest)
+- **disclosure**: Marine Harvest (now Mowi) genomic selection program documented from 2010 in corporate sustainability reports.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses genomic-selection-driven salmon broodstock pipeline coupled to qPCR sea-lice surveillance. Anticipates broodstock genomic-selection-plus-pathogen-surveillance integrated aquaculture workflow claims.
+
 ## Quanterix Simoa HD-X / HD-1 Single-Molecule Array Bead Cartridge (2011)
 
 - **id**: `quanterix-simoa-hd-x-bead-cartridge`
@@ -324,6 +474,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Israelachvili, J. N. (2011). 'Intermolecular and Surface Forces' (3rd ed.). Academic Press. ISBN 978-0-12-391927-4. (1st ed. 1985, 2nd ed. 1992.)
 - **ip status**: public-domain
 - **prior art notes**: Israelachvili textbook is the standard reference for intermolecular and surface forces, covering van der Waals interactions, electric-double-layer forces (extending DLVO from Verwey-Overbeek 1948), hydration and hydrophobic forces, and steric and bridging forces. Anticipates microfluidic claims involving surface-force-controlled nanochannel transport, particle-surface adhesion in microfluidic separations, and bio-functionalized surface-affinity capture in lab-on-chip cartridges. Any patent claiming novelty around tunable surface-interaction forces in microfluidics must clear Israelachvili.
+
+## Sysmex XN-series hematology analyzer patent family (2011)
+
+- **id**: `sysmex-xn-series-hematology-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sysmex Corporation
+- **disclosure**: Sysmex XN-series product launch (Sysmex Corp 2011); JP/US/EP filings via espacenet (assignee: Sysmex)
+- **ip status**: patented
+- **prior art notes**: Sysmex XN-series patent estate covers integrated multi-parameter hematology fluidic cartridges with fluorescence-flow-cytometric subsystem. References sysmex-xn-9000-track-hematology existing entry. Anticipates claims that recite multi-parameter integrated hematology cartridges with fluorescence-flow-cytometric platelet subsystem.
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
@@ -345,6 +505,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an artistic forensic workflow extracting DNA from discarded trace material (cigarette butts, hair) and using SNP-prediction tools to generate 3D-printed facial reconstructions of strangers. Anticipates: trace-DNA-to-phenotype consumer cartridges; speculative forensic microfluidic kits for crowd surveillance; popular-culture prior art for DNA-driven facial-reconstruction services.
 
+## Macrogen sequencing prep patent family (2012)
+
+- **id**: `macrogen-sequencing-prep-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Macrogen Inc
+- **disclosure**: Macrogen Inc (Seoul) sequencing services IP estate; KR/US/PCT filings 2012-present
+- **ip status**: patented
+- **prior art notes**: Macrogen patent family covers sequencing-prep cartridge protocols and Asian-population reference sequencing kits. Anticipates claims directed to population-reference sequencing-prep cartridges with regional optimization.
+
 ## QIAGEN QIAcube HT Sample Prep (2013)
 
 - **id**: `qiagen-qiacube-ht-extraction`
@@ -354,6 +524,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
 - **ip status**: patented
 - **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
+
+## DNA Link clinical genetics patent family (2013)
+
+- **id**: `dna-link-clinical-genetics-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DNA Link Inc
+- **disclosure**: DNA Link Inc (Seoul) clinical genetics IP estate; KR/US filings 2013-present
+- **ip status**: patented
+- **prior art notes**: DNA Link patent family covers consumer- and clinical-genetics cartridge protocols. Anticipates claims directed to consumer-genetics fluidic prep cartridges with clinical-grade readout.
+
+## Cytiva AKTA Pure with PCC (periodic counter-current) module (2013)
+
+- **id**: `cytiva-akta-pure-continuous-pcc`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare Life Sciences AKTA PCC 75 product release announcement, 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses 3-column protein A PCC with delta-UV trigger algorithm. Anticipates claims to breakthrough-driven column rotation in N>=3 column continuous capture and UV inline difference signal as column switching trigger.
 
 ## Waters ionKey/MS chip (2014)
 
@@ -395,6 +585,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Process disclosure: facility-level integration of Cytiva's portfolio (Sefia + Xuri + Xcellerex + AKTA + Allegro + Chronicle SCADA) into a single CGT manufacturing line. Microfluidic content is the cumulative content of the integrated unit operations (each separately covered in the corpus); the FlexFactory disclosure adds the connectivity, sterile-weld topology, and SCADA orchestration. Anticipates: single-vendor turnkey CGT facility composed of pre-validated single-use sub-systems with a unified audit-trail control layer. Distinguishable from Lonza Cocoon (single-cassette per-patient) by being a multi-station modular facility rather than a closed-cassette device.
 
+## A*STAR Genome Institute of Singapore cartridge patent family (2014)
+
+- **id**: `astar-gis-cartridge-patent-family`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: A*STAR Genome Institute of Singapore
+- **disclosure**: A*STAR Genome Institute of Singapore IP estate; SG/US/PCT filings 2014-present
+- **ip status**: patented
+- **prior art notes**: A*STAR GIS patent family covers single-cell library prep cartridges and chromatin conformation protocols. Anticipates claims directed to single-cell library prep cartridges with chromatin conformation capture.
+
+## Samsung Genome Center patent family (2014)
+
+- **id**: `samsung-genome-center-patent-family`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Samsung Genome Center
+- **disclosure**: Samsung Genome Center (Samsung Medical Center, Seoul) IP estate; KR/US filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Samsung Genome Center patent family covers Korean-population cancer-genomics cartridge protocols and pharmacogenomics POC fluidics. Anticipates claims directed to population-specific cancer-genomics cartridges with methylation-marker readout.
+
+## Nucleix patent family extensions (2014)
+
+- **id**: `nucleix-patent-extensions`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Nucleix Ltd
+- **disclosure**: Nucleix Ltd (Rehovot) IP estate; IL/US/EP filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Nucleix patent family extends existing nucleix-bladder-epicheck-methylation-patent with Lung EpiCheck and broader methylation-cartridge IP. Anticipates claims directed to methylation-cartridge fluidic protocols for liquid biopsy.
+
+## Roche cobas 6800 / 8800 - High-throughput central-lab molecular extend (2014)
+
+- **id**: `roche-cobas-6800-8800-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Diagnostics
+- **disclosure**: Roche cobas 6800 launch 2014; cobas 8800 launch 2015; respiratory panel update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses integrated automated NA extraction + PCR amplification system in continuous-loader format for high-throughput central-lab molecular diagnostics. Anticipates continuous-loader automated NAAT system with multi-target multiplex PCR claims.
+
 ## Open Insulin Foundation (2015)
 
 - **id**: `open-insulin-foundation`
@@ -434,6 +664,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Promega Maxwell RSC 48 datasheet (2016); product technical manual TM488
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
+
+## Tade Thompson - Rosewater xenobiology fluidics (2016)
+
+- **id**: `tade-thompson-rosewater-xenobiology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tade Thompson
+- **disclosure**: Thompson, T., 'Rosewater' Apex 2016, Orbit reissue 2018, ISBN 978-0-316-44907-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of subterranean xenobiotic biofluid healing dome with telepathic-substrate coupling and post-mortem reconstruction. Anticipates claims directed to xenobiotic-substrate healing facility cartridges with integrated reconstruction biofluid exchange.
+
+## Burning Rock Biotech patent family (2016)
+
+- **id**: `burning-rock-biotech-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Burning Rock Biotech
+- **disclosure**: Burning Rock Biotech (Guangzhou) IP estate (2014-present); CN/PCT filings
+- **ip status**: patented
+- **prior art notes**: Burning Rock patent family covers cfDNA tumor profiling library prep cartridges with NGS-coupled companion diagnostic readout. Anticipates claims directed to cfDNA library prep cartridges with downstream NGS companion diagnostic specification.
+
+## Doom (2016) - UAC Mars medical bay (2016-05-13)
+
+- **id**: `doom-2016-uac-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: id Software
+- **disclosure**: Doom (id Software / Bethesda Softworks, 2016)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of corporate research-medical bay coupling demonic-substrate triage with energy-conversion biofluidic apparatus. Anticipates claims directed to research-grade cartridge platforms combining unknown-substrate triage with integrated energy-conversion interfaces.
 
 ## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
 
@@ -505,6 +765,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop NGS-library-prep automation system suitable for academic and small-clinical-lab use, sized between handheld and full lab automation, with integrated SPRI magnetic-bead cleanup. Anticipates: benchtop-scale NGS library-prep automation as a product class.
 
+## Sartorius BioSMB Octave - Multi-column continuous chromatography (2017)
+
+- **id**: `sartorius-biosmb-octave-continuous-chromatography`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: Sartorius BioSMB Octave product datasheet (acquired ChromaTan platform, 2017 commercial launch).
+- **ip status**: patented
+- **prior art notes**: Discloses a 16-port single-use valve cassette routing feed and buffers across a series of capture columns operating in periodic counter-current mode. Anticipates claims to disposable multi-column chromatography manifold, feedback-controlled column switching based on UV breakthrough, and continuous protein A capture with bound-column shielding from feed. Distinct from ChromaCon Contichrom by using polymeric single-use cassettes rather than stainless valve blocks.
+
+## Kew Royal Botanic Gardens pollen DNA metabarcoding extraction (2017)
+
+- **id**: `kew-pollen-dna-metabarcoding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Royal Botanic Gardens, Kew
+- **disclosure**: Lucas et al., Generic-level identification of pollen by environmental DNA metabarcoding, Methods Ecol Evol 9 (2018) 1085-1097.
+- **ip status**: public-domain
+- **prior art notes**: Discloses pollen lysis and dual-marker amplicon metabarcoding workflow for honey provenance attribution. Anticipates pollen-DNA metabarcoding workflow for honey floral-source authentication claims.
+
+## Climeworks Direct Air Capture solid-sorbent module (2017)
+
+- **id**: `climeworks-direct-air-capture`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Climeworks AG
+- **disclosure**: Climeworks Hinwil DAC commercial launch 2017; Orca Iceland 4 kt/yr 2021; Mammoth Iceland 36 kt/yr 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses amine-functionalized solid sorbent cartridge in modular collector with low-temp regeneration coupled to mineralization downstream. Anticipates DAC amine-sorbent modular cartridge with geothermal regeneration claims.
+
+## Death of the Outsider - alchemical fluidics (2017-09-15)
+
+- **id**: `dishonored-death-of-the-outsider-alchemy`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Arkane Studios
+- **disclosure**: Dishonored: Death of the Outsider (Arkane Studios 2017)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of multi-contributor pooled biofluid reservoir with temple-scale distribution network and tap points. Anticipates claims directed to multi-donor pooled-biofluid cartridges with manifold tap points for downstream ritual or analytical processing.
+
 ## Veracyte Decipher GRID Sample Prep Cartridge (2018)
 
 - **id**: `veracyte-decipher-prep-cartridge`
@@ -525,6 +825,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
 
+## WeGenix microfluidic chip patent family (2018)
+
+- **id**: `wegenix-microfluidic-chip-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: WeGenix Bio-Tech
+- **disclosure**: WeGenix (Suzhou WeGenix Bio-Tech) IP estate; CN/PCT filings 2018-present
+- **ip status**: patented
+- **prior art notes**: WeGenix patent family covers POC PCR cartridges with finger-stick input and on-cartridge nucleic acid prep. Anticipates claims directed to finger-stick-input POC nucleic acid amplification cartridges.
+
+## Carbon Engineering KOH-based DAC, Squamish BC (2018)
+
+- **id**: `carbon-engineering-dac-squamish`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Carbon Engineering Ltd. (acquired by Occidental/1PointFive 2023)
+- **disclosure**: Keith et al., A process for capturing CO2 from the atmosphere, Joule 2 (2018) 1573-1594.
+- **ip status**: patented
+- **prior art notes**: Discloses cross-flow KOH absorber column followed by Ca-cycle solid regeneration and calcination producing pure CO2. Anticipates liquid-alkali air-contactor with calcium-cycle solid loop DAC claims.
+
+## 23andMe Therapeutics drug-discovery pipeline 2024 (2018)
+
+- **id**: `twentythreeandme-therapeutics-2024`
+- **corpus**: private
+- **device class**: other
+- **creator**: 23andMe Holding Co. (currently TTAM Research Institute post-2025 reorganization)
+- **disclosure**: 23andMe Therapeutics launch 2018 with GSK partnership; reorganized post-2024 going-private/restructuring.
+- **ip status**: patented
+- **prior art notes**: Discloses use of saliva-cartridge-derived consumer genotype data as input to drug-discovery target identification pipeline at scale. Anticipates consumer-genomics-driven drug-discovery target-identification pipeline from saliva-cartridge data claims.
+
 ## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
 
 - **id**: `thermofisher-kingfisher-apex-extraction`
@@ -544,6 +874,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beam Therapeutics SEC S-1 (2020-01); Komor et al. 'Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage,' Nature 533:420 (2016); Beam patent estate US10,167,457B2 (Cytidine deaminase fusion)
 - **ip status**: patented
 - **prior art notes**: Process disclosure: closed-system ex vivo base-editing manufacturing in which patient-derived CD34+ HSPCs are processed through a sterile fluid train comprising apheresis input → CD34 enrichment (CliniMACS-class) → activation/expansion in single-use bag → MaxCyte GTx flow electroporation with base-editor mRNA + sgRNA → wash/formulation → cryopreservation. Anticipates: closed-cartridge base-editing manufacturing where the editing reagent (mRNA-encoded base editor + sgRNA, not a viral vector) is electroporated into HSPCs in a single-use sterile train. Distinguishable from CRISPR/Cas9 manufacturing by the specific base-editor reagent identity, but the fluidic/process architecture is shared. Element-by-element: apheresis weld + CD34 affinity column + expansion bag + MaxCyte GTx EP + wash/concentration + cryo bag.
+
+## Bio-Techne LigaTrap LT-AAV / LT-Lenti - Synthetic AAV/lentivirus affinity (2019)
+
+- **id**: `bio-techne-ligatrap-lt-aav`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: LigaTrap Technologies / Bio-Techne
+- **disclosure**: LigaTrap Technologies LT-AAV resin product launch, 2019 (acquired by Bio-Techne 2022).
+- **ip status**: patented
+- **prior art notes**: Discloses synthetic peptide ligand chemistry coupled to agarose for AAV and lentivirus affinity capture, with milder elution conditions than mAb-derived ligands. Anticipates small-peptide synthetic ligand AAV affinity resin claims.
+
+## Verdox electrochemical direct air capture (2019)
+
+- **id**: `verdox-electrochemical-dac`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Verdox Inc. (MIT spinout)
+- **disclosure**: Voskian and Hatton, Faradaic electro-swing reactive adsorption for CO2 capture, Energy Environ. Sci. 12 (2019) 3530-3547.
+- **ip status**: patented
+- **prior art notes**: Discloses reversible quinone-redox electrochemical CO2 adsorbent in flow-through cell. Anticipates electrochemical-swing quinone CO2 capture cell claims.
 
 ## BillionToOne UNITY cfDNA Prep Cartridge (2020)
 
@@ -585,6 +935,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Process disclosure: Resilience operates a multi-modality CGT CDMO with shared infrastructure for mRNA-LNP (microfluidic mixer + TFF), AAV (iCellis or suspension + chromatography), lentivirus (suspension + TFF + chromatography), plasmid (fermenter + chromatography), and cell therapy (closed-train MaxCyte/CliniMACS-class workflows). The microfluidic content is the cumulative content of the modality-specific trains; Resilience's platform-level disclosure is the digital-twin orchestration across sites and the unified materials-management infrastructure. Trade-secret heavy; entry rests on press releases and public manufacturing capability disclosures.
 
+## Numinus Wellness - Natural psilocybin extraction and clinical service (2020)
+
+- **id**: `numinus-wellness-psilocybin-extraction`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Numinus Wellness Inc.
+- **disclosure**: Numinus Wellness Health Canada Dealers License 2020 (psilocybin); IPO 2021.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses standardized natural-source psilocybin extraction with chromatographic dose verification and clinic delivery infrastructure. Anticipates natural-source standardized psilocybin extract with multi-cannabinoid fingerprint dosing claims.
+
+## CDC National Wastewater Surveillance System (NWSS) standardized prep (2020)
+
+- **id**: `cdc-nwss-wastewater-prep`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: U.S. Centers for Disease Control and Prevention
+- **disclosure**: CDC National Wastewater Surveillance System launch, September 2020.
+- **ip status**: public-domain
+- **prior art notes**: Discloses standardized PEG-NaCl precipitation and automated bead-based RNA extraction microfluidic workflow for wastewater SARS-CoV-2 surveillance. Anticipates centralized public-health wastewater-extraction-and-qPCR standardized workflow claims.
+
+## Tchaikovsky - Doors of Eden parallel-species biofluid (2020-08-20)
+
+- **id**: `tchaikovsky-doors-of-eden-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Adrian Tchaikovsky
+- **disclosure**: Tchaikovsky, A., 'The Doors of Eden' Tor 2020, ISBN 978-1-5290-1009-0
+- **ip status**: fictional
+- **prior art notes**: Disclosure of parallel-evolutionary-branch biofluidic cross-comparison apparatus with documented inter-universe chain-of-custody. Anticipates claims directed to comparative biofluidic analysis cartridges that handle samples from disparate evolutionary lineages with cross-comparison readout.
+
 ## Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track (2021)
 
 - **id**: `beckman-coulter-dxi-9000-immunoassay`
@@ -614,6 +994,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Curio Bioscience commercial launch of Slide-seqV2 as Curio Seeker, 2022. https://curiobioscience.com/. Stickels, R. R. et al. Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2. Nat. Biotechnol. 2021, 39, 313-319. DOI: 10.1038/s41587-020-0739-1.
 - **ip status**: patented
 - **prior art notes**: Commercialization of Slide-seqV2: a glass puck densely coated with a monolayer of spatially-barcoded ~10 µm beads. Tissue is laid on the puck, RNA captured by adjacent beads, then library-prepped off-puck. Anticipates: bead-monolayer spatial transcriptomic substrates as an alternative to printed barcode grids (Visium); commercialization of an open-published spatial method by the originating lab's spinout, distinct from the 10x/Visium commercialization of Stahl 2016 spatial transcriptomics.
+
+## Heirloom Carbon CDR - Calcium-loop direct air capture (2022)
+
+- **id**: `heirloom-cdr-mineral`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Heirloom Carbon Technologies
+- **disclosure**: Heirloom Carbon Technologies public disclosure 2022; Tracy CA commercial plant launch 2023.
+- **ip status**: patented
+- **prior art notes**: Discloses passive calcium-hydroxide tray-stack DAC architecture with electrified calcination loop. Anticipates passive calcium-cycle DAC with electrified calcination claims.
 
 ## Nuclera eProtein Discovery Platform (2022-09-01)
 
@@ -654,3 +1044,93 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Curio Bioscience Curio Trekker product launch 2024. https://curiobioscience.com/products/curio-trekker/.
 - **ip status**: unknown
 - **prior art notes**: Extension of the Slide-seq bead-puck architecture to record cell positional barcodes in vivo: tissue is briefly exposed to a Trekker puck so cells take up positional barcode oligonucleotides, then dissociated and processed by standard scRNA-seq with barcode readout. Anticipates: 'spatial-tag-then-dissociate' architecture for combining standard droplet scRNA-seq with retained positional information, bypassing the resolution limits of in-situ-only readouts.
+
+## Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend (2024)
+
+- **id**: `cellares-cell-shuttle-2-0`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellares Corporation
+- **disclosure**: Cellares Cell Shuttle 2.0 product announcement, CGT Manufacturing Conference January 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 16-parallel-cartridge integrated CAR-T cell-therapy manufacturing platform with NPI process-tech-transfer automation. Anticipates 16-parallel integrated cassette CAR-T manufacturing platform with built-in process-tech-transfer claims.
+
+## Vizgen MERSCOPE Ultra - Whole-transcriptome MERFISH 2024 (2024)
+
+- **id**: `vizgen-merscope-ultra-500plex-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Vizgen Inc.
+- **disclosure**: Vizgen MERSCOPE Ultra launch announcement Q2 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses next-gen MERFISH 500-plex spatial transcriptomics platform with cell-boundary staining for accurate segmentation. Anticipates 500-plex MERFISH spatial transcriptomics with cell-boundary co-staining claims.
+
+## Curio Trekker - Pooled-screen spatial barcoding 2024 extend (2024)
+
+- **id**: `curio-trekker-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Curio Bioscience
+- **disclosure**: Curio Bioscience Trekker launch announcement Q3 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses bead-carpet spatial-barcode transfer onto suspended nuclei enabling downstream scRNA-seq or pooled-CRISPR screen with spatial readout. Anticipates Slide-tags-style bead-to-nucleus spatial barcode transfer with downstream pooled-perturbation scRNA-seq claims.
+
+## Akoya PhenoCycler-Fusion 2.0 - Spatial proteomics 2024 (2024)
+
+- **id**: `akoya-phenocycler-fusion-2`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Akoya Biosciences
+- **disclosure**: Akoya Biosciences PhenoCycler-Fusion 2.0 launch, AGBT February 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses iterative-cycling 100-plex spatial proteomics with 3x throughput improvement over predecessor. Anticipates iterative-strip-restain 100-plex spatial proteomics platform with high-throughput flow-cell fluidics claims.
+
+## 10x Genomics Visium HD + CytAssist 2.0 - 2024 update (2024)
+
+- **id**: `tenx-visium-hd-cytassist-2`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: 10x Genomics, Inc.
+- **disclosure**: 10x Genomics Visium HD + CytAssist 2.0 expansion announcement AGBT February 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses extension of Visium HD 2 um barcoded capture-area to 11 mm x 11 mm and CytAssist 2.0 hardware accommodating it. Anticipates 11 mm x 11 mm 2 um Visium HD spatial transcriptomics capture chip claims.
+
+## BD Veritor Plus 2024 - Connected respiratory cartridge (2024)
+
+- **id**: `bd-veritor-plus-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Becton, Dickinson and Company
+- **disclosure**: Becton Dickinson BD Veritor Plus Flu+COVID-19+RSV multiplex cartridge launch 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-target multiplex lateral-flow respiratory virus cartridge with digital fluorescence reader and CLIA-waived deployment. Anticipates 4-target multiplex fluorescence lateral-flow respiratory-virus cartridge with reader-based quantification claims.
+
+## Curio Bio 2024 - Spatial transcriptomics update (2024)
+
+- **id**: `curio-bio-2024-update`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Curio Bioscience
+- **disclosure**: Curio Bio Seeker 2024 update plus Slide-tags commercial product launch 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 2024 commercial extension of bead-carpet spatial-barcoding with reduced footprint and partnership-driven downstream scRNA-seq workflows. Anticipates commercial spatial-pooled-CRISPR screening kit with Slide-tags chemistry claims.
+
+## DiaSorin LIAISON XL 2024 update - Chemiluminescence immunoassay extend (2024)
+
+- **id**: `diasorin-liaison-xl-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: DiaSorin S.p.A.
+- **disclosure**: DiaSorin LIAISON XL extended panel announcement 2024 (Inhibin B, Lyme, CMV IgG/IgM updates).
+- **ip status**: patented
+- **prior art notes**: Discloses chemiluminescence immunoassay panel extension on magnetic-bead cuvette platform. Anticipates LIAISON XL chemiluminescence immunoassay panel with Inhibin B / Lyme C6-Cys / CMV expanded menu claims.
+
+## Atelys microfluidics - Multiplexed protein quantification startup (2025)
+
+- **id**: `atelys-microfluidics-startup`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Atelys Inc.
+- **disclosure**: Atelys public launch announcement 2025 (speculative).
+- **ip status**: unknown
+- **prior art notes**: Draft speculative entry: monitors a 2024-2026 startup focused on nanofluidic multiplexed protein quantification. To be updated upon public disclosure.

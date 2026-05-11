@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-hf-etching`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -204,3 +204,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: uFluidix microfluidic foundry services. https://www.ufluidix.com
 - **ip status**: open-permissive
 - **prior art notes**: Commercial microfluidic chip foundry serving the academic research community: PDMS, glass, and thermoplastic chip fabrication services at academic-budget pricing. While uFluidix itself is commercial, the broader 'foundry services for academic microfluidics' ecosystem (including Microfluidic ChipShop, Dolomite, Black Hole Lab) plays a critical role in lowering the barrier for academic groups without in-house fabrication capability.
+
+## Stanford Microfluidics Foundry 2024 (2024)
+
+- **id**: `stanford-microfluidics-foundry-2024`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Stanford Microfluidics Foundry (Stanford SNF / Stanford BioE)
+- **disclosure**: Stanford Microfluidics Foundry 2024 capability update on foundry.stanford.edu.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses university-hosted microfluidics fab service offering SU-8 master, glass DRIE, and 2PP capabilities for academic researchers. Anticipates university-foundry-as-service microfluidic-fabrication ecosystem claims.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**35 corpus entries disclose this subsystem.**
+**63 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -25,6 +25,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Damkoehler numbers govern every continuous-flow microreactor: Da_I sets conversion as a function of flow rate; Da_II sets whether the reactor is reaction- or diffusion-limited. Anchors: (a) all flow-chemistry microreactor patents reciting residence-time control; (b) on-chip enzymatic-assay timing claims; (c) on-chip PCR amplification residence-time engineering; (d) heterogeneous catalysis microreactors. Any patent claim that recites 'tunable conversion via residence-time modulation' is anticipated by Damkoehler scaling.
 
+## Cetus PCR (Mullis-Saiki 1985) - foundational patent estate extensions (1985)
+
+- **id**: `cetus-pcr-1985-foundational-anchor-extensions`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cetus Corporation
+- **disclosure**: Cetus Corporation PCR patents - Mullis K., Saiki R. et al.; US4683195 (1987), US4683202 (1987), US4965188 (1990)
+- **ip status**: public-domain
+- **prior art notes**: Cetus PCR patent family (Mullis-Saiki 1985 disclosure / 1987-1990 issuance) is the foundational disclosure underlying every PCR-based fluidic cartridge in subsequent prior art. With original patents expired in 2005-2007, PCR is now public domain. Complements existing mullis-cetus-pcr-1985-foundational-anchor entry by adding the broader patent expiry / Roche royalty estate context. Anticipates claims directed to thermal-cycling fluidic cartridges with oligonucleotide-primed exponential amplification.
+
+## AquaBounty AquAdvantage transgenic Atlantic salmon genotyping (1989)
+
+- **id**: `aquabounty-aquadvantage-salmon`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: AquaBounty Technologies, Inc.
+- **disclosure**: Du et al., Growth enhancement in transgenic Atlantic salmon by use of an all-fish chimeric growth hormone gene construct, Bio/Technology 10 (1992) 176-181; AAS approval first FDA-approved transgenic food fish 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses transgenic salmon construct identity verification via qPCR for the AAS-opAFP-GH cassette. Anticipates qPCR transgenic-fish identity cartridge for FDA-regulated aquaculture claims.
+
+## Cetus-Roche PCR royalty estate (1991)
+
+- **id**: `cetus-roche-pcr-royalty-estate`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Molecular Systems (acquired Cetus PCR estate)
+- **disclosure**: Cetus->Roche acquisition 1991, Roche Molecular Systems PCR licensing program through patent expiry 2005-2007
+- **ip status**: public-domain
+- **prior art notes**: Cetus-Roche PCR royalty estate covers the 1991-2007 licensing era during which Roche Molecular Systems collected PCR royalties from the entire molecular diagnostics industry. Its post-2007 public-domain status is the proximate cause of the explosion in POC PCR cartridge prior art. Complements cetus-pcr-1985-foundational-anchor-extensions with the royalty-era licensing context.
+
 ## Silicon-based miniature PCR thermal cycler (Northrup 1993) (1993)
 
 - **id**: `northrup-1993-silicon-pcr-microreactor`
@@ -34,6 +64,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Northrup, M. A.; Ching, M. T.; White, R. M.; Watson, R. T. DNA amplification with a microfabricated reaction chamber. Proc. Transducers '93, 1993, 924–926.
 - **ip status**: patented
 - **prior art notes**: The first demonstration of PCR in a silicon microfabricated reaction chamber with integrated heater. Predates Wittwer's commercial RapidCycler and Manz's continuous-flow PCR; the architectural ancestor of all subsequent silicon-microreactor PCR work. Among the foundational references in chip-format molecular diagnostics — disclosed five years before the µTAS-era PCR chip explosion.
+
+## Stratagene QuikChange (1995) patent family extensions (1995)
+
+- **id**: `stratagene-quikchange-patent-extensions`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Stratagene Corporation (Agilent Technologies since 2007)
+- **disclosure**: Stratagene Corporation QuikChange IP estate; US filings 1995-present
+- **ip status**: patented
+- **prior art notes**: Stratagene QuikChange patent family extends existing stratagene-quikchange-1995-extended-anchor entry with broader IP coverage. Anticipates claims directed to site-directed mutagenesis fluidic cartridges with on-cartridge thermal cycling.
+
+## New England Biolabs (NEB) foundational patent family (1995)
+
+- **id**: `neb-1995-foundational-patent-family`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: New England Biolabs
+- **disclosure**: New England Biolabs (Ipswich MA) reagent IP estate; US filings 1995-present
+- **ip status**: patented
+- **prior art notes**: NEB patent family covers Q5 high-fidelity polymerase, NEBNext NGS library prep kits, and restriction enzyme manufacturing IP. Complements existing neb-gmp-t7-rnap entry with broader portfolio. Anticipates claims directed to high-fidelity polymerase fluidic cartridges and to NGS library prep kit cartridges.
 
 ## LightCycler real-time rapid PCR (Wittwer 1997) (1997)
 
@@ -145,6 +195,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Major commercial food-pathogen detection platform: cartridge-format integrated sample prep + amplification + detection for Salmonella, Listeria, E. coli O157:H7, and other foodborne pathogens. The food-safety POC cartridge segment is dominated by Neogen, 3M Petrifilm, BioControl, and Hygiena — all with substantial cartridge-architecture patent estates.
 
+## Steep Hill Labs - Cannabis potency and contaminant testing (2008)
+
+- **id**: `steep-hill-cannabis-testing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Steep Hill Labs, Inc.
+- **disclosure**: Steep Hill Halent Labs founding, 2008; QuantaCann handheld NIR cannabinoid scanner launch 2014.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses commercialization of cannabis HPLC potency analysis with portable NIR pre-screen and qPCR genotyping. Anticipates handheld NIR cannabis potency pre-screen cartridge claims.
+
 ## Roche cobas Liat point-of-care cartridge (2009)
 
 - **id**: `roche-cobas-liat-cartridge`
@@ -184,6 +244,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Berthier, J., Silberzan, P. (2010). 'Microfluidics for Biotechnology' (2nd ed.). Artech House, Boston. ISBN 978-1-59693-443-6.
 - **ip status**: public-domain
 - **prior art notes**: Berthier-Silberzan 2010 is one of the few textbooks focused specifically on microfluidics for biotechnology. Anticipates PCR-on-chip claims, biosensor-integrated lab-on-chip claims, on-chip DNA-handling claims, and capillary/electrokinetic/droplet biotech microfluidic applications. Any 'biotech-microfluidic device' patent must clear this textbook.
+
+## Indian Council of Medical Research translational research patent family (2010)
+
+- **id**: `icmr-translational-research-patent-family`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Indian Council of Medical Research / BIRAC
+- **disclosure**: Indian Council of Medical Research (ICMR) and Biotechnology Industry Research Assistance Council (BIRAC) translational program patents; IN/PCT filings 2010-present
+- **ip status**: patented
+- **prior art notes**: ICMR/BIRAC translational research patent family covers POC fluidic-cartridge diagnostics developed by Indian academic and SME network. Anticipates claims directed to Indian-developed POC NAAT cartridges for tuberculosis and COVID-19.
+
+## SC Labs - California cannabis testing infrastructure (2010)
+
+- **id**: `sc-labs-cannabis-testing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SC Laboratories Inc.
+- **disclosure**: SC Labs founding, 2010, Santa Cruz CA; State of California cannabis testing accreditation 2018.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a multi-instrument cannabis compliance testing workflow combining HPLC potency, LC-MS/MS pesticide, GC-MS terpene, and qPCR microbial assays. Anticipates integrated cannabis compliance testing workflow with multiplex contaminant/pathogen cartridges claims.
+
+## Mowi (Marine Harvest) salmon genomic preparation cassette (2010)
+
+- **id**: `mowi-genomic-prep`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Mowi ASA (formerly Marine Harvest)
+- **disclosure**: Marine Harvest (now Mowi) genomic selection program documented from 2010 in corporate sustainability reports.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses genomic-selection-driven salmon broodstock pipeline coupled to qPCR sea-lice surveillance. Anticipates broodstock genomic-selection-plus-pathogen-surveillance integrated aquaculture workflow claims.
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
@@ -225,6 +315,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed a multiplex molecular diagnostic cartridge integrating sample prep, PCR amplification, and electrochemical detection on a printed gold electrode array (eSensor technology). Anticipates: electrochemical-array detection as alternative to optical fluorescence in syndromic POC molecular diagnostics, and the architectural pattern of integrating eSensor-style detection within a self-contained cartridge.
 
+## Seegene Allplex patent family extensions (2014)
+
+- **id**: `seegene-allplex-patent-extensions`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Seegene Inc
+- **disclosure**: Seegene Inc (Seoul) Allplex platform IP estate; KR/US/EP filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Seegene Allplex patent family extends existing seegene-allplex-cartridge-patent-family with additional MuDT chemistry and STARlet automation IP. Anticipates claims directed to multiplex syndromic-panel cartridges with melting-temperature differential detection.
+
+## Nucleix patent family extensions (2014)
+
+- **id**: `nucleix-patent-extensions`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Nucleix Ltd
+- **disclosure**: Nucleix Ltd (Rehovot) IP estate; IL/US/EP filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Nucleix patent family extends existing nucleix-bladder-epicheck-methylation-patent with Lung EpiCheck and broader methylation-cartridge IP. Anticipates claims directed to methylation-cartridge fluidic protocols for liquid biopsy.
+
+## Cermaq salmon genomics QC cassette (2014)
+
+- **id**: `cermaq-salmon-genomics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cermaq Group AS (subsidiary of Mitsubishi Corp.)
+- **disclosure**: Cermaq Norway IPN-resistance breeding program disclosure 2014; SNP genotyping program documented in industry reports.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses SNP genotyping panel and viral pathogen qPCR for industrial salmon breeding programs. Anticipates SNP genotyping fingerling-cohort breeding selection cartridge claims.
+
+## Roche cobas 6800 / 8800 - High-throughput central-lab molecular extend (2014)
+
+- **id**: `roche-cobas-6800-8800-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Diagnostics
+- **disclosure**: Roche cobas 6800 launch 2014; cobas 8800 launch 2015; respiratory panel update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses integrated automated NA extraction + PCR amplification system in continuous-loader format for high-throughput central-lab molecular diagnostics. Anticipates continuous-loader automated NAAT system with multi-target multiplex PCR claims.
+
 ## The ODIN DIY Genetic Engineering Kits (2015)
 
 - **id**: `the-odin-diy-genetic-eng-kits`
@@ -234,6 +364,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The ODIN founded 2015 by Josiah Zayner; first public DIY CRISPR kit released 2016; https://www.the-odin.com; documented in Zayner J., 'A Step-by-Step Guide to DIY CRISPR' (2016 e-book) and extensive press coverage (NYT, Wired, MIT Tech Review)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses retail distribution of complete molecular-biology workflows to non-institutional users, including microfluidic-adjacent open hardware (PCR thermocycler, gel rig, mini-centrifuge) bundled with reagents and step-by-step protocols. The ODIN's open documentation of its kits' hardware (BOMs, schematics) and its written protocols are prior art against post-2016 'consumer molecular biology kit' patents and against many 'low-cost integrated PCR-and-gel cartridge' claims. Specifically anticipates: any patent claiming 'a consumer-grade integrated genetic engineering kit comprising thermocycling, electrophoresis, and reagent components.'
+
+## Phylos Bioscience Cannabis Galaxy and Sex ID assay (2015)
+
+- **id**: `phylos-bioscience-cannabis-genotyping`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Phylos Bioscience
+- **disclosure**: Phylos Bioscience Cannabis Galaxy launch, 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses qPCR genotyping cartridge for cannabis seedling sex determination and chemotype prediction. Anticipates cannabis-specific point-of-care qPCR sex/chemotype assay claims.
+
+## Chr. Hansen FRAGcheck phage detection assay (2015)
+
+- **id**: `chr-hansen-fragcheck-phage-assay`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Chr. Hansen Holding A/S (now Novonesis)
+- **disclosure**: Chr. Hansen FRAGcheck launch announcement 2015.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses cheese-vat bacteriophage qPCR detection cartridge for industrial dairy fermentation. Anticipates field-deployed Lactococcus phage qPCR cartridge for starter rotation decisions claims.
 
 ## Bento Bioworks Bento Lab portable PCR + electrophoresis (2016)
 
@@ -254,6 +404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Parra M et al., 'Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station,' PLOS ONE 12(9):e0183480 (2017), doi:10.1371/journal.pone.0183480; NASA WetLab-2 facility description, ISS Research Office (2016)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an end-to-end RNA-extraction + RT-qPCR cartridge architecture qualified for microgravity. Element-by-element prior art: (a) the closed-cartridge magnetic-bead RNA extraction protocol with no open-air liquid transfer steps anticipates patents claiming aerosol-free spaceflight or BSL-3 nucleic acid extraction cartridges; (b) the validation of paramagnetic-bead binding/wash kinetics in zero-G is published prior art against any patent claiming novel microgravity-compatible bead handling; (c) the integration of off-the-shelf SmartCycler-class Peltier modules with a custom reaction tube format anticipates retrofit spaceflight diagnostic cartridge concepts. Combined with iss-biomolecule-sequencer-minion below, WetLab-2 establishes the full sample-prep + amplification + sequencing chain in spaceflight prior art.
+
+## Burning Rock Biotech patent family (2016)
+
+- **id**: `burning-rock-biotech-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Burning Rock Biotech
+- **disclosure**: Burning Rock Biotech (Guangzhou) IP estate (2014-present); CN/PCT filings
+- **ip status**: patented
+- **prior art notes**: Burning Rock patent family covers cfDNA tumor profiling library prep cartridges with NGS-coupled companion diagnostic readout. Anticipates claims directed to cfDNA library prep cartridges with downstream NGS companion diagnostic specification.
 
 ## Bento Lab Portable PCR + Centrifuge + Gel Workstation (2016-04)
 
@@ -285,6 +445,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a tip-and-vessel cartridge architecture for magnetic-bead nucleic-acid extraction integrated with on-board real-time PCR amplification: a disposable plastic tip aspirates sample, mixes with lysis buffer and silica-coated magnetic beads, and the bead pellet is washed and eluted in a thermally cycled microreactor instrumented with multiplex fluorescence detection. Anticipates: random-access viral load PCR with single-use extraction tips, eliminating cross-contamination of the analyzer fluid path; per-sample disposable amplification well used as the optical detection cuvette; pre-loaded reagent strip with foil-pierce sequencing. Distinct from Cepheid GeneXpert (corpus) in extraction modality (tip-suspended vs glass-fiber column) and from Roche Cobas Liat (corpus) in modular continuous queueing.
 
+## Smith-Root eDNA Sampler (eFishery) (2017)
+
+- **id**: `smith-root-efishery-edna-sampler`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Smith-Root Inc.
+- **disclosure**: Smith-Root Inc. ANDe eDNA sampler launch, 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses backpack-portable eDNA filter-cartridge sampler with onboard logging and self-preservation chemistry. Anticipates portable eDNA filter-cartridge sampler with self-preserving lysis-buffer reservoir claims.
+
+## Nordic Aquaculture sea-lice cartridge detection system (2017)
+
+- **id**: `nordic-aquaculture-sea-lice-cartridge`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Norwegian Veterinary Institute / Nofima
+- **disclosure**: Bakke et al., Quantification of sea lice (Lepeophtheirus salmonis) infestation via environmental DNA, J. Fish Dis. 40 (2017) 765-776.
+- **ip status**: unknown
+- **prior art notes**: Discloses eDNA-based qPCR quantification of L. salmonis larvae in cage-water samples as regulatory monitoring tool. Anticipates eDNA-based parasitic-louse qPCR monitoring cartridge for aquaculture regulatory compliance claims.
+
+## Kew Royal Botanic Gardens pollen DNA metabarcoding extraction (2017)
+
+- **id**: `kew-pollen-dna-metabarcoding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Royal Botanic Gardens, Kew
+- **disclosure**: Lucas et al., Generic-level identification of pollen by environmental DNA metabarcoding, Methods Ecol Evol 9 (2018) 1085-1097.
+- **ip status**: public-domain
+- **prior art notes**: Discloses pollen lysis and dual-marker amplicon metabarcoding workflow for honey provenance attribution. Anticipates pollen-DNA metabarcoding workflow for honey floral-source authentication claims.
+
+## BeeFlow honeybee hive monitoring and microbiome cartridge (2017)
+
+- **id**: `beeflow-hive-monitor`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: BeeFlow Inc.
+- **disclosure**: BeeFlow Inc. ProBoost honeybee nutritional supplement launch, 2017; expanded with hive-monitoring sensors 2020.
+- **ip status**: patented
+- **prior art notes**: Discloses combined honeybee nutritional supplement + hive sensor pack + pathogen qPCR cartridge for managed-pollinator health management. Anticipates integrated bee-health platform combining supplement, hive-sensor logging, and pathogen qPCR claims.
+
+## Biobot Analytics wastewater epidemiology cartridge (2017)
+
+- **id**: `biobot-analytics-wastewater`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Biobot Analytics, Inc.
+- **disclosure**: Biobot Analytics opioid wastewater pilot, 2017; SARS-CoV-2 sewer monitoring product launch 2020.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses sewer-shed-scale composite sampling combined with RT-qPCR and LC-MS/MS analytical pipelines for sub-population public-health surveillance. Anticipates municipal wastewater epidemiology cartridge with RT-qPCR + LC-MS/MS dual-analyte readout claims.
+
 ## Visby Medical PCR cartridge (2018)
 
 - **id**: `visby-medical-cartridge`
@@ -314,6 +524,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan DreamPrep NGS launch 2018; product brochure 1505-PB-1808-EN
 - **ip status**: patented
 - **prior art notes**: Discloses a pre-configured NGS-library-prep automation workflow on the Tecan Fluent platform, integrating SPRI magnetic-bead size selection with low-volume pipetting and thermal cycling for 96-sample throughput. Anticipates: pre-validated sequencing-library-prep automation workflows that pair Air Displacement Pipetting with magnetic-bead size selection; sub-10-uL library preparation at production scale.
+
+## LG Chem microfluidic chip patent extensions (2018)
+
+- **id**: `lg-chem-chip-patent-extensions`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: LG Chem
+- **disclosure**: LG Chem (Seoul) microfluidic chip IP; KR/US filings 2018-present
+- **ip status**: patented
+- **prior art notes**: LG Chem patent family covers rolled-laminate flexible-substrate microfluidic cartridges with integrated thermal cycling. Anticipates claims directed to roll-to-roll laminate fluidic cartridges with mass-production scaling.
+
+## Front Range Biosciences clean-stock cannabis tissue culture (2018)
+
+- **id**: `front-range-biosciences-cannabis-tc`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Front Range Biosciences
+- **disclosure**: Front Range Biosciences Clean Stock Program announcement 2018.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses cannabis meristem tissue culture in sterile multiwell plates with multiplex pathogen qPCR clean-stock certification. Anticipates cannabis tissue-culture clean-stock cassette with pathogen qPCR audit claims.
+
+## Whisky barley provenance DNA-tracing platform (2018)
+
+- **id**: `whisky-provenance-dna-tracing`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James Hutton Institute (Scotland)
+- **disclosure**: Russell et al., DNA-based traceability of malt barley in Scotch whisky, J. Inst. Brew. 124 (2018) 145-156.
+- **ip status**: unknown
+- **prior art notes**: Discloses recovery of barley DNA from finished whisky and PCR-based SNP barcoding to attest variety provenance. Anticipates residual-DNA cereal provenance qPCR cartridge for distilled spirit verification claims.
+
+## Roche cobas Liat Strep A cartridge (2018)
+
+- **id**: `roche-cobas-liat-strep-a`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Roche Diagnostics
+- **disclosure**: Roche cobas Liat Strep A 510(k) clearance 2018.
+- **ip status**: patented
+- **prior art notes**: Discloses flexible-tube fluidic-cartridge architecture for point-of-care NAAT with CLIA waiver. Anticipates flexible-tube point-of-care NAAT cartridge for Strep A claims.
+
+## CDC National Wastewater Surveillance System (NWSS) standardized prep (2020)
+
+- **id**: `cdc-nwss-wastewater-prep`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: U.S. Centers for Disease Control and Prevention
+- **disclosure**: CDC National Wastewater Surveillance System launch, September 2020.
+- **ip status**: public-domain
+- **prior art notes**: Discloses standardized PEG-NaCl precipitation and automated bead-based RNA extraction microfluidic workflow for wastewater SARS-CoV-2 surveillance. Anticipates centralized public-health wastewater-extraction-and-qPCR standardized workflow claims.
 
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
@@ -364,3 +624,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various 2024-2026 publications on environmental microbiome sample-to-sequencing integrated cartridges.
 - **ip status**: patented
 - **prior art notes**: Composite reference for emerging sample-to-sequencing microbiome cartridges: lyse-extract-amplify-sequence in integrated disposable cartridges for soil, water, and air microbiome surveillance. The combination of long-read sequencing (Oxford Nanopore MinION) with cartridge-format sample prep enables true field-deployable microbiome analysis.
+
+## Visby Medical STI 2024 cartridge extend (2024)
+
+- **id**: `visby-medical-sti-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Visby Medical, Inc.
+- **disclosure**: Visby Medical 4-plex STI cartridge FDA clearance announcement Q1 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-plex sexual-health PCR cartridge with onboard thermal cycling and battery power, FDA-cleared for OTC use. Anticipates disposable battery-powered 4-plex PCR cartridge for STI panel claims.
+
+## Pearce Lab MOST 2024 - Multi-fab open-hardware suite update (2024)
+
+- **id**: `pearce-lab-2024-most-suite`
+- **corpus**: open
+- **device class**: printer-tooling
+- **creator**: Joshua Pearce Lab (Western University)
+- **disclosure**: Pearce Lab MOST suite 2024 update on appropedia.org and journal Open Hardware 2024.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses expanded MOST open-hardware laboratory-instrument ecosystem with RepRap-frame substrate and economic-impact validation. Anticipates open-hardware unified RepRap-frame lab-instrument ecosystem with documented order-of-magnitude cost reduction claims.

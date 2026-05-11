@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-drie`
 
-**52 corpus entries disclose this subsystem.**
+**53 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -214,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Silverbrook Research / Memjet pagewide printer disclosure; e.g. US Patent 6,443,555 'Pagewidth wide format printer'; Memjet press releases; Wiley Handbook of Industrial Inkjet Printing ch.17 (2018)
 - **ip status**: patented
 - **prior art notes**: Note: existing memjet-printhead corpus entry covers Memjet broadly; this entry pins specific 'Waterfall' MEMS architecture. Discloses a single ~8.77-inch silicon MEMS pagewide bar with 70,400 thermal-bubble nozzles arranged in stitched dies, with massively parallel addressing electronics and per-color array organization, achieving pagewide single-pass color at 1600 dpi without scanning carriages. Anticipates: (a) single-bar pagewide thermal MEMS array as the industrial alternative to scanning-carriage printers and to Epson/Dimatix piezo single-pass arrays, (b) per-die redundant nozzle banks for compensation of failed nozzles in single-pass printing, (c) tightly-coupled CMOS drive logic on the same MEMS die. Predicate to Memjet-licensed machines from Canon (Océ ColorWave/ImagePROGRAF), HP-derived label presses, and Colordyne, AstroNova, and Afinia label printers.
+
+## A*STAR Institute of Microelectronics microfluidic patent family (2008)
+
+- **id**: `astar-ime-microfluidic-patent-family`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: A*STAR Institute of Microelectronics
+- **disclosure**: A*STAR Institute of Microelectronics (Singapore) IP estate 2008-present; SG/US/PCT filings
+- **ip status**: patented
+- **prior art notes**: A*STAR IME patent family covers silicon-CMOS-integrated microfluidic cartridges and photonic biosensor lab-on-chip platforms. Complements existing imec-photonic-biosensor-lab-on-chip with Singapore semiconductor-foundry prior art.
 
 ## Real-time DNA sequencing from single polymerase molecules (PacBio SMRT) (2009)
 

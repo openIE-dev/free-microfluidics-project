@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-stack`
 
-**39 corpus entries disclose this subsystem.**
+**40 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -274,6 +274,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OKI Data ColorPainter product datasheets (oki.com/printers); OKI ColorPainter H-104s and W-64s product specifications; Seiko I Infotech ColorPainter as predecessor brand
 - **ip status**: patented
 - **prior art notes**: OKI/Seiko I Infotech ColorPainter product family captures the pattern of OEM-head + Japanese integrator wide-format solvent printers, complementary to Roland and Mimaki entries. Discloses: (a) carriage architecture for SII RC1536-class heads driven from a host integrator's electronics, (b) eco-solvent ink-system integration with on-machine recirculation and capping, (c) wide-format productization at print widths above 64". Concrete prior art for the OEM-piezo + integrator-machine architectural class outside of the Roland/Mimaki/Mutoh trio.
+
+## Toshiba TEC inkjet/fluidic patent family (2007)
+
+- **id**: `toshiba-tec-fluidic-patents`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Toshiba TEC Corporation
+- **disclosure**: Toshiba TEC CF1/CF3 printhead launches (TEC Corporation 2007-2018); JP/US filings
+- **ip status**: patented
+- **prior art notes**: Toshiba TEC patent family covers recirculating shared-wall piezo printheads with sub-pL droplet metering, complementing existing toshiba-tec-cf3-recirculating-printhead entry. Anticipates claims directed to recirculating-shared-wall fluidic architectures in droplet-on-demand systems.
 
 ## Konica Minolta KM1024 Shared-Wall Shear-Mode Piezo Printhead (2008)
 

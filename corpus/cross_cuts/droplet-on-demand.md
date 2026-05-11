@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-on-demand`
 
-**69 corpus entries disclose this subsystem.**
+**74 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1864
 
@@ -245,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Industrial piezo droplet dispenser (single-droplet to MHz rates, 10 pL to 1 nL droplet volumes) used for protein arrays, microbiology spotting, electronics manufacturing, and pharmaceutical formulation. Anticipates: piezo-glass-capillary droplet generator as a discrete instrument-grade primitive (as opposed to consumer printhead arrays), and laboratory automation for low-volume liquid handling.
 
+## Eastman Kodak microfluidic patent family (inkjet + photo chemistry crossover) (1995)
+
+- **id**: `eastman-kodak-microfluidic-patent-family`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Eastman Kodak Company
+- **disclosure**: Eastman Kodak Company microfluidic IP estate (inkjet + photo); US filings 1995-2012 (pre-bankruptcy)
+- **ip status**: patented
+- **prior art notes**: Eastman Kodak microfluidic patent family covers thermal-bubble-jet printheads and photographic-chemistry fluidic processing, with significant crossover between inkjet droplet generation and photo-chemistry fluidic prep. Complements existing kodak-c-41-process-1972 and kodak-e-6-process-1976 entries by adding the patent-protected inkjet/photo crossover IP. Anticipates claims directed to thermal-bubble-jet droplet generation in inkjet+photo-chemistry crossover applications.
+
 ## Brother Industries Thin-Film Piezo Inkjet Printhead (1996)
 
 - **id**: `brother-piezo-printhead-thin-film`
@@ -384,6 +394,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Memjet (Silverbrook Research) printhead architecture. https://memjet.com
 - **ip status**: patented
 - **prior art notes**: High-density thermal-bubble-jet printhead with ~70,000 nozzles per page-wide module on a single silicon MEMS die. Anticipates: page-wide-array thermal-inkjet architecture, sub-200 µm nozzle pitch on silicon, and integrated drive electronics + nozzle-plate co-fabrication.
+
+## Toshiba TEC inkjet/fluidic patent family (2007)
+
+- **id**: `toshiba-tec-fluidic-patents`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Toshiba TEC Corporation
+- **disclosure**: Toshiba TEC CF1/CF3 printhead launches (TEC Corporation 2007-2018); JP/US filings
+- **ip status**: patented
+- **prior art notes**: Toshiba TEC patent family covers recirculating shared-wall piezo printheads with sub-pL droplet metering, complementing existing toshiba-tec-cf3-recirculating-printhead entry. Anticipates claims directed to recirculating-shared-wall fluidic architectures in droplet-on-demand systems.
 
 ## Formulatrix Rock Imager / Mantis nanodispenser (2008)
 
@@ -555,6 +575,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a fully closed-cartridge CIJ system in which both ink and make-up solvent are supplied as factory-sealed Intelli'inks cartridges with embedded RFID, eliminating manual fluid handling and enabling automatic priming and viscosity tracking. The Intelli'jet printhead integrates the orifice, stimulator, charge tunnel, deflection plates, and gutter as a single replaceable unit. Anticipates: (a) RFID-tagged sealed-cartridge ink/solvent supply for industrial CIJ as an operator-safety and traceability primitive, (b) integrated single-replacement-unit printhead architecture for industrial CIJ, (c) on-machine code-format expansion (alphanumeric → 2D / DotCode) without printhead change.
 
+## A*STAR Genome Institute of Singapore cartridge patent family (2014)
+
+- **id**: `astar-gis-cartridge-patent-family`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: A*STAR Genome Institute of Singapore
+- **disclosure**: A*STAR Genome Institute of Singapore IP estate; SG/US/PCT filings 2014-present
+- **ip status**: patented
+- **prior art notes**: A*STAR GIS patent family covers single-cell library prep cartridges and chromatin conformation protocols. Anticipates claims directed to single-cell library prep cartridges with chromatin conformation capture.
+
+## Ginkgo Bioworks Foundry (deep automation extend) - Bioworks 1-6 (2014)
+
+- **id**: `ginkgo-bioworks-foundry-deep-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ginkgo Bioworks Holdings, Inc.
+- **disclosure**: Ginkgo Bioworks Foundry public disclosure 2014; SPAC IPO S-1 2021 with detailed automation stack.
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated HTP biofoundry combining acoustic-droplet dispensing, parallel transformation, automated colony picking, sequencing QC, and analytical readout (LC-MS, GC-MS, NMR) in a closed-loop AI-guided design-build-test-learn cycle. Anticipates AI-orchestrated high-throughput design-build-test-learn biofoundry workflow with acoustic-droplet construct dispensing claims.
+
 ## FluidForm FRESH bioprinting platform (2015)
 
 - **id**: `fluidform-fresh-bioprinting`
@@ -664,6 +704,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Inventia Life Science Pty Ltd. RASTRUM launch 2019. Utama, R.H. et al. A 3D bioprinter specifically designed for the high-throughput production of matrix-embedded multicellular spheroids. iScience 2020, 23:101475. doi:10.1016/j.isci.2020.101475. Patent family: WO2017070743A1 / US10953580B2 (Inventia; priority 2015).
 - **ip status**: patented
 - **prior art notes**: Discloses a drop-on-demand piezo bioprinter that prints into standard 96- and 384-well microplates using two-component synthetic bioinks that crosslink on contact. Anticipates: (a) plate-format drop-on-demand bioprinting for HTS-compatible 3D cell models; (b) two-component on-contact-crosslinking bioinks delivered from co-located piezo dispense heads; (c) RASTRUM-style platforms as the link between bioprinting and HTS pharma drug screening.
+
+## Singleron Matrix patent family extensions (2019)
+
+- **id**: `singleron-matrix-patent-extensions`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: Singleron Biotechnologies
+- **disclosure**: Singleron Biotechnologies (Nanjing/Singleron) IP estate (2019-present); CN/PCT filings
+- **ip status**: patented
+- **prior art notes**: Singleron Matrix patent family extends existing singleron-matrix-microwell and singleron-matrix-scircle-barcoding entries with full IP portfolio coverage. Anticipates claims directed to microwell-array single-cell barcoding cartridges with circularization-based chemistry.
 
 ## Catalog Technologies Shannon DNA Storage Platform (2019-06)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-thermal-bubble-jet`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1919
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US Patent 5,204,055 'Three-dimensional printing techniques', issued 1993-04-20, inventors Emanuel M. Sachs, John S. Haggerty, Michael J. Cima, Paul A. Williams; assignee MIT
 - **ip status**: patented
 - **prior art notes**: Discloses a method of fabricating three-dimensional objects by spreading a layer of powder, then selectively jetting a liquid binder onto the powder using a thermal inkjet printhead, repeating this layer-by-layer to form a green part that is later debound and sintered. Anticipates: (a) the foundational binder-jetting class of additive manufacturing, (b) the use of a commercial thermal inkjet head as the patterning primitive for a powder-bed AM process, (c) layer thickness, binder load, and powder-spreading parameters as controlled variables. Predicate to all subsequent binder-jetting machines from ExOne, Z Corporation, 3D Systems Z-printer, Voxeljet, Desktop Metal, Markforged Digital Metal, and HP Metal Jet.
+
+## Eastman Kodak microfluidic patent family (inkjet + photo chemistry crossover) (1995)
+
+- **id**: `eastman-kodak-microfluidic-patent-family`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Eastman Kodak Company
+- **disclosure**: Eastman Kodak Company microfluidic IP estate (inkjet + photo); US filings 1995-2012 (pre-bankruptcy)
+- **ip status**: patented
+- **prior art notes**: Eastman Kodak microfluidic patent family covers thermal-bubble-jet printheads and photographic-chemistry fluidic processing, with significant crossover between inkjet droplet generation and photo-chemistry fluidic prep. Complements existing kodak-c-41-process-1972 and kodak-e-6-process-1976 entries by adding the patent-protected inkjet/photo crossover IP. Anticipates claims directed to thermal-bubble-jet droplet generation in inkjet+photo-chemistry crossover applications.
 
 ## Lexmark Thermal Inkjet Heater Chip (1996)
 

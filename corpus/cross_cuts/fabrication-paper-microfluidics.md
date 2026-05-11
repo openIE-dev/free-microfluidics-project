@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**42 corpus entries disclose this subsystem.**
+**43 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1856
 
@@ -304,6 +304,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kuldell N, Bernstein R, Ingram K, BioBuilder: Synthetic Biology in the Lab (O'Reilly 2015, ISBN 978-1491904299); biobuilder.org
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an open educational kit and curriculum framework including microfluidic-adjacent activities (E. coli pigment assays, sensor strain plate readouts) for high-school synthetic biology. Anticipates: educational consumable kits combining engineered-strain reagents with simple microfluidic readout chambers; the architectural pattern of teacher-deployable lab-on-chip teaching cartridges with companion curriculum.
+
+## Achira Labs paper microfluidics patent family (2012)
+
+- **id**: `achira-labs-paper-microfluidics-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Achira Labs
+- **disclosure**: Achira Labs Pvt Ltd (Bangalore) IP estate; IN/US/PCT filings 2012-present
+- **ip status**: patented
+- **prior art notes**: Achira Labs patent family covers paper-microfluidic ELISA cartridges for low-cost POC immunoassay. Anticipates claims directed to paper-microfluidic ELISA cartridges with Indian-market cost optimization.
 
 ## Whitesides 2013 - Cool, or simple and cheap? Why not both? (origins of microfluidics) (2013)
 

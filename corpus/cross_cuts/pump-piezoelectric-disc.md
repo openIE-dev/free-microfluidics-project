@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-disc`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1982-05
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hoiman et al. (1986). 'A silicon-based micropump.' Sensors and Actuators (proceedings of Helsinki MEMS work, 1986).
 - **ip status**: public-domain
 - **prior art notes**: Pre-1990 silicon-micromachined membrane micropump from the Helsinki MEMS effort. Discloses bulk-silicon micropump topology - membrane-driven displacement chamber with bonded check-valves. Combined with Esashi 1989 (already in corpus) and the slightly later Smits 1990 piezoelectric pump literature, Hoiman 1986 establishes the silicon-MEMS micropump as established prior art well before 1990.
+
+## Buchi B-290 / B-90 Nano / Encapsulator B-390 - Lab spray and encapsulation (1988)
+
+- **id**: `buchi-b290-b90-encapsulator-spray-line`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Buchi Labortechnik AG
+- **disclosure**: Buchi B-191 mini spray dryer launch (predecessor) 1988; B-290 launch 2003; B-90 Nano launch 2009; Encapsulator B-390 2010.
+- **ip status**: patented
+- **prior art notes**: Discloses three independent atomization architectures - two-fluid nozzle (B-290), piezo vibrating-mesh (B-90 Nano), and Rayleigh-disturbed co-axial jet (Encapsulator B-390) - each used for biopharma powder formation or microcapsule production. Anticipates vibrating-mesh sub-micron spray dryer and piezo-modulated co-axial alginate microbead encapsulator claims.
 
 ## Esashi 1989 — Silicon Piezoelectric Micropump (1989-06)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**78 corpus entries disclose this subsystem.**
+**85 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -415,6 +415,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: BD Veritor cartridge family covers respiratory infection rapid antigen tests with companion benchtop reader. The cartridge format is a standard lateral-flow strip in a BD-proprietary cassette housing. The dominant POC influenza/RSV/COVID antigen test platform in U.S. clinical labs and emergency departments.
 
+## Achira Labs paper microfluidics patent family (2012)
+
+- **id**: `achira-labs-paper-microfluidics-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Achira Labs
+- **disclosure**: Achira Labs Pvt Ltd (Bangalore) IP estate; IN/US/PCT filings 2012-present
+- **ip status**: patented
+- **prior art notes**: Achira Labs patent family covers paper-microfluidic ELISA cartridges for low-cost POC immunoassay. Anticipates claims directed to paper-microfluidic ELISA cartridges with Indian-market cost optimization.
+
+## Sysmex / Alit CountStar cell counter (Castor, Rigel, Mira) (2013)
+
+- **id**: `sysmex-countstar-cell-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Alit Life Sciences / Sysmex
+- **disclosure**: Shanghai Ruiyu (Alit) CountStar BioMed cell counter product launch, 2013; Sysmex distribution partnership 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable plastic slide with capillary fill and imaging window for automated brightfield cell counting. Anticipates capillary-fill cell-counting slide with paired AO/PI fluorescence claims.
+
 ## Abbott FreeStyle Libre continuous glucose monitor (2014)
 
 - **id**: `abbott-freestyle-libre-cgm`
@@ -615,6 +635,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Subcutaneous amperometric glucose sensor with multi-electrode redundancy (at least two working electrodes whose ISIG is fused to reject motion artifact). Discloses the architecture of pairing a CGM with an automated insulin pump for closed-loop control. Anticipates: redundant-electrode CGM filament architectures; CGM-pump integration topology in the SmartGuard / Auto Mode hybrid closed loop family.
 
+## Unchained Labs Stunner - UV/Vis + DLS + SLS in 2-uL drop (2018)
+
+- **id**: `unchained-labs-stunner-protein-analytics`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Unchained Labs
+- **disclosure**: Unchained Labs Stunner product launch, 2018.
+- **ip status**: patented
+- **prior art notes**: Discloses a multi-well capillary-confined chip where each well exposes a fixed-pathlength capillary stack for combined UV-Vis spectroscopy and orthogonal light scattering. Anticipates integrated UV-Vis + DLS + SLS multi-well capillary chip for protein concentration and aggregation analysis claims.
+
 ## Park 2018 Stretchable Glucose-Sensing Smart Contact Lens (2018-01-24)
 
 - **id**: `park-2018-soft-electronic-tear-glucose-lens`
@@ -784,6 +814,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
+
+## Lucira Flu + COVID OTC test 2024 extend (2024)
+
+- **id**: `lucira-flu-covid-otc-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Pfizer Inc. (acquired Lucira 2023)
+- **disclosure**: Pfizer Lucira Flu + COVID-19 OTC test 510(k) FDA clearance 2023; Pfizer launch update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 3-target LAMP isothermal at-home OTC cartridge for Flu/COVID with FDA OTC clearance (first such product). Anticipates 3-target LAMP isothermal OTC respiratory-virus cartridge claims.
+
+## Detect Inc. Flu + COVID 2024 extend (2024)
+
+- **id**: `detect-inc-flu-covid-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect, Inc.
+- **disclosure**: Detect Inc. Flu+COVID-19 RT-LAMP cartridge product update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-target RT-LAMP at-home cartridge using reusable optical reader for cost reduction. Anticipates 4-target respiratory-virus RT-LAMP cartridge with reusable optical reader claims.
+
+## BD Veritor Plus 2024 - Connected respiratory cartridge (2024)
+
+- **id**: `bd-veritor-plus-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Becton, Dickinson and Company
+- **disclosure**: Becton Dickinson BD Veritor Plus Flu+COVID-19+RSV multiplex cartridge launch 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-target multiplex lateral-flow respiratory virus cartridge with digital fluorescence reader and CLIA-waived deployment. Anticipates 4-target multiplex fluorescence lateral-flow respiratory-virus cartridge with reader-based quantification claims.
+
+## Quidel Sofia 2 + LumiraDx integration 2024 (2024)
+
+- **id**: `quidel-sofia-2-lumiradx-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: QuidelOrtho Corporation
+- **disclosure**: QuidelOrtho 2024 announcement of LumiraDx Flu/COVID/RSV integration onto Sofia 2 analyzer platform after LumiraDx asset acquisition 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses cross-platform adaptation of LumiraDx lateral-flow microfluidic cartridges onto Sofia 2 fluorescence reader following corporate asset acquisition. Anticipates cross-platform retrofit of fluorescence-lateral-flow cartridges onto existing CLIA-waived reader infrastructure claims.
 
 ## Dexcom Stelo Glucose Biosensor System (2024-03-05)
 

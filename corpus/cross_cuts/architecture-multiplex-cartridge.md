@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-multiplex-cartridge`
 
-**154 corpus entries disclose this subsystem.**
+**158 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964
 
@@ -165,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Dr. Mora Pol's lab depicted as a Bajoran-built biological research facility focused on shape-shifter (Founder) cell biology, including specimen containment, cellular sampling, and electrical/biochemical assays. Defensive prior art for non-Federation alien-organism research-lab architecture and specimen-confinement chambers for unknown biology.
 
+## Witcher Trial of the Grasses mutagenic alchemy (1993)
+
+- **id**: `witcher-trial-of-the-grasses-mutagenic-alchemy`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Miecz Przeznaczenia' (Sword of Destiny), SuperNowa 1993, ISBN 978-83-7054-149-3
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a multi-day staged mutagenic infusion protocol with documented dose-response, kill-rate biostatistics, and observable marker phenotypes (cat-eye pupils). Anticipates claims directed to staged IV mutagen delivery with phenotypic biomarker readout, including claims reciting graduated infusion of plural alchemical compounds over a multi-day protocol with phenotypic acceptance criterion. The mutagen-induction phenotype-readout coupling specifically anticipates platform claims combining IV chemotherapy regimens with on-cartridge biomarker validation.
+
 ## Babylon 5 Medlab automated diagnostic and treatment beds (Dr. Franklin's lab) (1994)
 
 - **id**: `babylon5-medlab-autodoc`
@@ -174,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Babylon 5 (PTEN/TNT, 1993-1998); Medlab scenes appear continuously seasons 1-5; pilot 'The Gathering' (1993) and 'Soul Hunter' (1994) establish the bed architecture.
 - **ip status**: fictional
 - **prior art notes**: Multi-bed medical bay with integrated diagnostic scanners over each bed, IV/perfusion lines, automated drug-delivery via overhead manipulators, and on-bed surgical interventions. Repeated detailed depictions across 110 episodes 1993-1998. Defensive prior art for: multi-bed integrated diagnostic-and-treatment ward architectures with overhead instrumentation rails and per-bed fluid-handling.
+
+## Babylon 5 Zocalo med-tech vendor stalls (1994)
+
+- **id**: `babylon5-zocalo-medtech-vendor-stalls`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 various S1-S5 episodes, esp. 'Grail' S1E15 (1994) and 'Eyes' S1E19
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a marketplace ecosystem of interspecies-compatible diagnostic cartridges and field-grade pharmaceutical compounders, traded as commodity goods. Anticipates claims directed to a marketplace-style multiplex diagnostic cartridge SKU catalog with cross-species fluid handling.
 
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 
@@ -565,6 +585,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the ImmunoCAP solid-phase fluorescent enzyme immunoassay: a cellulose-based 3D porous matrix in a capsule, derivatized with allergen, providing massively expanded surface area (vs flat-bottom microtiter wells) for IgE binding kinetics; the capsule is the disposable assay element, transported through automated wash, conjugate, and substrate steps in a Phadia rotor analyzer. Anticipates: 3D porous solid-phase immunoassay matrices as the binding-kinetics primitive distinguishing allergy testing (which requires capturing very low IgE concentrations against extract heterogeneity); the WHO IgE calibration traceability that established Phadia/ImmunoCAP as the global allergy reference. Element-by-element architectural disclosure relevant to all derivative ImmunoCAP assays (Phadia 100, 250, 1000, 2500, 5000).
 
+## Witcher schools (Wolf/Cat/Griffin/Manticore/Bear/Viper) mutagen variants (2008-10-26)
+
+- **id**: `witcher-school-mutagen-variants`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt RED / Sapkowski universe
+- **disclosure**: The Witcher (CD Projekt RED 2007), expanded in The Witcher 2 (2011) and W3 (2015)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of phenotype-targeted alchemical variant cocktails with differentiable end-state biomarkers per recipe. Anticipates claims directed to phenotype-targeted multi-formulation small-molecule libraries with named recipes per intended end-phenotype.
+
 ## Sartorius ambr 15 microbioreactor system (2009)
 
 - **id**: `sartorius-ambr-15`
@@ -904,6 +934,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
+
+## Witcher 3 in-game alchemy station crafting interface (2015-05-19)
+
+- **id**: `witcher-3-game-alchemy-station`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt RED
+- **disclosure**: The Witcher 3: Wild Hunt, CD Projekt RED, released 2015-05-19
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a structured compositional UI for staged alchemical formulation with ingredient slot substitutability, named quality grades, and solvent-recycle accounting. Anticipates claims directed to UI-driven compositional reagent design with substitutable ingredient slots, especially in computer-vision-loop or AI-controlled microfluidic dosing platforms.
 
 ## Twist Bioscience Cell Engineering (Twist Cellomics) (2016)
 

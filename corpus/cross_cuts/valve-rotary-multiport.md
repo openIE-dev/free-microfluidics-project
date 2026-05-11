@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-rotary-multiport`
 
-**25 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable cartridge with a rotary valve sequencing reagents through a sample preparation pathway into an optical reaction tube for real-time PCR. Anticipates: rotary-valve / multi-port selector architecture for multi-reagent cartridges, optically interrogated reaction chamber within a closed disposable, and the GeneXpert-style sample-prep + amplification + detection integration that underlies most Cepheid POC products including the Xpert MTB/RIF tuberculosis test.
 
+## ChromaCon Contichrom CUBE / MCSGP - Twin-column continuous chromatography (2007)
+
+- **id**: `chromacon-contichrom-mcsgp-continuous`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ChromaCon AG (acquired by YMC 2019)
+- **disclosure**: Aumann and Morbidelli, A continuous multicolumn countercurrent solvent gradient purification (MCSGP) process, Biotechnol. Bioeng. 98 (2007) 1043-1055.
+- **ip status**: patented
+- **prior art notes**: Discloses two columns in alternating capture/elute roles with internal recycle of impure tails back to the loading column - the canonical MCSGP architecture. Anticipates twin-column continuous gradient separation claims with internal recycling and broader claims to continuous countercurrent ternary chromatography.
+
 ## Cytiva ÄKTA ready single-use chromatography skid (2009)
 
 - **id**: `cytiva-akta-ready`
@@ -95,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
 
+## Cytiva AKTA Pure with PCC (periodic counter-current) module (2013)
+
+- **id**: `cytiva-akta-pure-continuous-pcc`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare Life Sciences AKTA PCC 75 product release announcement, 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses 3-column protein A PCC with delta-UV trigger algorithm. Anticipates claims to breakthrough-driven column rotation in N>=3 column continuous capture and UV inline difference signal as column switching trigger.
+
 ## Tecan Fluent automation workstation with Cavro syringe pumps (2014)
 
 - **id**: `tecan-fluent-cavro`
@@ -124,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Goesmann F et al., 'The Mars Organic Molecule Analyzer (MOMA) Instrument: Characterization of Organic Material in Martian Sediments,' Astrobiology 17(6-7):655-685 (2017), doi:10.1089/ast.2016.1551
 - **ip status**: public-domain
 - **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
+
+## Sartorius BioSMB Octave - Multi-column continuous chromatography (2017)
+
+- **id**: `sartorius-biosmb-octave-continuous-chromatography`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: Sartorius BioSMB Octave product datasheet (acquired ChromaTan platform, 2017 commercial launch).
+- **ip status**: patented
+- **prior art notes**: Discloses a 16-port single-use valve cassette routing feed and buffers across a series of capture columns operating in periodic counter-current mode. Anticipates claims to disposable multi-column chromatography manifold, feedback-controlled column switching based on UV breakthrough, and continuous protein A capture with bound-column shielding from feed. Distinct from ChromaCon Contichrom by using polymeric single-use cassettes rather than stainless valve blocks.
 
 ## Molecular Assemblies FAMS Enzymatic DNA Synthesis (2018)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `architecture-process-analytical-technology`
 
-**66 corpus entries disclose this subsystem.**
+**85 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1995
+Earliest disclosure: 1994
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Nova Biomedical BioProfile FLEX2 / 100 / 200 bioprocess analyzers (1994)
+
+- **id**: `nova-bioprofile-flex2-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Nova Biomedical
+- **disclosure**: Nova Biomedical BioProfile 100 launch, 1994; FLEX product line 2010, FLEX2 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated electrochemical sensor cartridge measuring 16 parameters from a single sub-2-mL sample, with onboard image-cytometry cell counter. Anticipates multi-electrochemical-electrode cassette with automated calibration loop claims.
 
 ## Mettler-Toledo InPro 6800 / 6850 Dissolved Oxygen Sensor (1995)
 
@@ -74,6 +84,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Whyatt, G. A.; TeGrotenhuis, W. E.; Wegeng, R. S.; Pederson, L. R. 'Microchannel reactors for fuel processing applications. II. Compact fuel vaporization for fuel cells' AIChE Spring Meeting 2002 / DOE technical report; Air Products / PNNL CRADA 2002–2008; US7186388B2; AIChE Process Intensification Award presentation 2007
 - **ip status**: patented
 - **prior art notes**: The PNNL/Air Products CRADA work in 2002–2008 produced foundational US patents on microchannel steam-methane reforming for distributed hydrogen production. Discloses (a) integration of SMR + water-gas-shift catalyst beds in adjacent microchannel layers within a single diffusion-bonded laminate reactor block; (b) integrated combustion channels providing endothermic-reaction heat in cross-flow arrangement; (c) sized for distributed (refueling-station-scale) hydrogen production. Anticipates patent claims directed to integrated SMR+WGS microchannel modules for distributed hydrogen production. Pairs with Velocys (FT) and Ineratec (PtX) — same diffusion-bonded laminate platform, different chemistry.
+
+## GEA PSD-1 / PSD-Pro - Pharmaceutical spray dryers (2003)
+
+- **id**: `gea-psd-pro-spray-dryer`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: GEA Group (formerly Niro A/S)
+- **disclosure**: GEA Niro PSD-1 product launch in pharmaceutical spray drying line, c.2003.
+- **ip status**: patented
+- **prior art notes**: Discloses containment-rated cGMP pharmaceutical spray dryers with two-fluid nozzles or rotary atomizers, integrated cyclones, and PAT for amorphous solid dispersion manufacturing. Anticipates cGMP containment-rated pharmaceutical spray dryer with closed-loop process analytical control claims.
+
+## iLab Solutions - Core-facility scheduling and instrument billing extend (2003)
+
+- **id**: `ilab-solutions-2025`
+- **corpus**: private
+- **device class**: other
+- **creator**: Agilent Technologies (iLab Solutions)
+- **disclosure**: iLab Solutions company founding 2003; acquired by Agilent 2016; 2025 update with AI instrument anomaly detection.
+- **ip status**: patented
+- **prior art notes**: Discloses cloud platform for core-facility instrument scheduling and chargeback with 2025 AI-anomaly-detection extension. Anticipates AI-driven core-facility instrument anomaly detection from usage-log telemetry claims.
 
 ## Endress+Hauser Memosens Digital Sensor Platform (2004)
 
@@ -144,6 +174,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Uniqsis Ltd. FlowSyn product launch 2007; Glasnov, T. N.; Kappe, C. O. 'Continuous-flow syntheses of heterocyclic targets' Adv. Synth. Catal. 2010, 352, 3089–3097 (cites FlowSyn); Uniqsis FlowSyn brochure rev 2018; product page https://www.uniqsis.com/paProduct.aspx?ID=FlowSyn
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated benchtop flow chemistry workstation distinct from Vapourtec/Syrris by virtue of (a) integrated dual HPLC pumps + heated reactor + BPR + collection in single sealed unit (one box rather than rack of cassettes); (b) standardized swappable reactor cartridges spanning coil and chip designs; (c) compatibility with the Polar Bear (separate Cambridge Reactor Design product, distributed by Uniqsis) for cryogenic operation. Useful prior-art entry showing third independent UK commercial flow chemistry rig (alongside Vapourtec, Syrris) demonstrating the integrated-benchtop architecture.
+
+## Roche Cedex Bio / Bio HT / HiRes bioprocess analyzers (2007)
+
+- **id**: `roche-cedex-bio-hires-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Roche Diagnostics (Innovatis acquisition)
+- **disclosure**: Innovatis Cedex Bio HT product release, 2007 (acquired by Roche 2008).
+- **ip status**: patented
+- **prior art notes**: Discloses an at-line bioreactor sampling fluidic interface coupled to a cuvette-rotor analyzer with brightfield image based viable cell counting. Anticipates feedback-controlled bioreactor sampling with closed-loop glucose feed and automated trypan-blue exclusion brightfield count via cuvette-rotor analyzer claims.
+
+## Amyris Bioengineered Fermentation - Industrial yeast biorefinery (2007)
+
+- **id**: `amyris-bioengineered-fermentation`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Amyris, Inc.
+- **disclosure**: Amyris S-1 2010 disclosure of farnesene-producing yeast and Brotas plant.
+- **ip status**: patented
+- **prior art notes**: Discloses engineered S. cerevisiae harboring rebuilt mevalonate pathway producing farnesene, and an industrial cane-sugar fermentation plant at Brotas. Anticipates industrial yeast farnesene fermentation with downstream cosmetic squalene claims.
 
 ## ThalesNano X-Cube, Phoenix Flow Reactor, Ice-Cube, and Gas Module (2008)
 
@@ -405,6 +455,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a custom-engineered single-use bioreactor where the stainless-steel jacket is custom-fabricated for the client's chosen impeller geometry, sensor port array, and cell-density target, and the disposable bag liner is welded to match. Microfluidic content is in the sparger/impeller flow distribution geometry, the in-line PAT sensor manifolds, and the harvest/feed port architecture. Anticipates: single-use bioreactor scaling to 6000 L (significantly above prior Sartorius/Cytiva SUB ceilings of ~2000 L); custom-engineered jacket-and-bag pairing as a manufacturing model. Element-by-element: jacket + impeller + sparger + PAT manifold + harvest line + bag liner.
 
+## Cytiva AKTA Pure with PCC (periodic counter-current) module (2013)
+
+- **id**: `cytiva-akta-pure-continuous-pcc`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cytiva (formerly GE Healthcare Life Sciences)
+- **disclosure**: GE Healthcare Life Sciences AKTA PCC 75 product release announcement, 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses 3-column protein A PCC with delta-UV trigger algorithm. Anticipates claims to breakthrough-driven column rotation in N>=3 column continuous capture and UV inline difference signal as column switching trigger.
+
 ## Sartorius Flexsafe RM single-use rocking bag and BIOSTAT RM (2014)
 
 - **id**: `sartorius-flexsafe-rm`
@@ -495,6 +555,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the Mettler-Toledo ReactIR family of process FTIR spectrometers with diamond/silicon/AgX ATR flow-cell probes purpose-built for continuous-flow chemistry monitoring. Anticipates: (a) diamond-ATR flow-cell architecture for high-pressure continuous-flow FTIR; (b) silicon and silver halide alternative ATR materials for IR-window spectral-range trade-offs; (c) integrated kinetic-profiling software (iC IR) closing feedback-control loops on flow-chemistry reactors; (d) the de facto industry-standard PAT tool for academic and industrial flow-chemistry labs (Vapourtec, Syrris, Uniqsis, etc. all certify ReactIR integration). Cite against later patents claiming diamond-ATR flow-cell FTIR for continuous-flow chemistry.
 
+## Ginkgo Bioworks Foundry (deep automation extend) - Bioworks 1-6 (2014)
+
+- **id**: `ginkgo-bioworks-foundry-deep-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ginkgo Bioworks Holdings, Inc.
+- **disclosure**: Ginkgo Bioworks Foundry public disclosure 2014; SPAC IPO S-1 2021 with detailed automation stack.
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated HTP biofoundry combining acoustic-droplet dispensing, parallel transformation, automated colony picking, sequencing QC, and analytical readout (LC-MS, GC-MS, NMR) in a closed-loop AI-guided design-build-test-learn cycle. Anticipates AI-orchestrated high-throughput design-build-test-learn biofoundry workflow with acoustic-droplet construct dispensing claims.
+
+## Zymergen Foundry (acquired by Ginkgo 2022) (2014)
+
+- **id**: `zymergen-ginkgo-acquired-foundry`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Zymergen, Inc.
+- **disclosure**: Zymergen launch 2014; SPAC IPO S-1 2021; Hyaline product withdrawal 8-K August 2021; acquired by Ginkgo October 2022.
+- **ip status**: patented
+- **prior art notes**: Discloses iterative ML-driven cycle of strain mutagenesis, phenotypic screening, and ML retraining for microbial chemical production. Anticipates ML-driven iterative genome edit selection biofoundry workflow claims.
+
+## Strateos cloud lab platform (acquired Transcriptic) (2014)
+
+- **id**: `strateos-emerald-cloud-lab`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Strateos Inc. (formerly Transcriptic + 3Scan)
+- **disclosure**: Transcriptic public launch 2014; rebrand to Strateos after merger with 3Scan 2019.
+- **ip status**: patented
+- **prior art notes**: Discloses SiLA-2 cloud-laboratory protocol execution platform with HTS automation cells, integrated with public-domain SD2 synthetic-biology testbed. Anticipates cloud-laboratory robotic-protocol-execution platform with standard schema claims.
+
+## Emerald Cloud Lab (ECL) - User-programmable cloud laboratory (2014)
+
+- **id**: `emerald-cloud-lab-ecl`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Emerald Cloud Lab Inc.
+- **disclosure**: Emerald Therapeutics Emerald Cloud Lab service launch 2014; CMU university-scale partnership 2021.
+- **ip status**: patented
+- **prior art notes**: Discloses Mathematica-based declarative DSL for cloud-laboratory experiment specification with version-pinned data and protocol provenance. Anticipates Mathematica-style declarative protocol specification cloud-laboratory claims.
+
 ## Beta Bionics iLet Bionic Pancreas (2014-06-15)
 
 - **id**: `beta-bionics-ilet-bionic-pancreas`
@@ -575,6 +675,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Although tablet manufacturing is not microfluidic per se, the Janssen Prezista line is the canonical first-FDA-approved continuous-pharma supplemental NDA and has substantial spillover prior art for: (a) inline gravimetric feeders + continuous blenders + continuous tablet press as integrated CM line; (b) PAT-driven real-time release replacing batch quality holds (analogous to flow-chemistry PAT); (c) the regulatory precedent that enables Continuus ICM, On Demand Pharmaceuticals, and other downstream entries. Included for prior-art completeness on regulatory and architectural patterns shared with microreactor-based CM.
 
+## CarbFix CO2 mineralization in basalt, Hellisheidi Iceland (2016)
+
+- **id**: `carbfix-mineralization-iceland`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: CarbFix consortium (Reykjavik Energy, University of Iceland, Columbia LDEO)
+- **disclosure**: Matter et al., Rapid carbon mineralization for permanent disposal of anthropogenic carbon dioxide emissions, Science 352 (2016) 1312-1314.
+- **ip status**: patented
+- **prior art notes**: Discloses dissolved-CO2 basalt injection chemistry for in-situ mineralization to calcite at industrial scale. Anticipates dissolved-CO2 mafic-rock injection for permanent mineralization claims.
+
 ## Tidepool Loop DIY Closed-Loop Insulin Algorithm (2016-02 (Loop community); 2023-01 (FDA-cleared Tidepool Loop))
 
 - **id**: `tidepool-loop-diy-closed-loop`
@@ -605,6 +715,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses Endress+Hauser SpectraTec process spectrometer family with hygienic stainless-steel housings and CIP/SIP-rated optical probes. Anticipates: (a) hygienic-design Raman and NIR process spectrometers for pharma/food PAT; (b) Industry 4.0 / WirelessHART integration of optical PAT probes; (c) the design template of co-located Raman + NIR probes sharing hygienic insertion fittings. Cite against later patents claiming hygienic-CIP/SIP-rated optical PAT probes with WirelessHART integration.
 
+## Sartorius BioSMB Octave - Multi-column continuous chromatography (2017)
+
+- **id**: `sartorius-biosmb-octave-continuous-chromatography`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sartorius Stedim Biotech
+- **disclosure**: Sartorius BioSMB Octave product datasheet (acquired ChromaTan platform, 2017 commercial launch).
+- **ip status**: patented
+- **prior art notes**: Discloses a 16-port single-use valve cassette routing feed and buffers across a series of capture columns operating in periodic counter-current mode. Anticipates claims to disposable multi-column chromatography manifold, feedback-controlled column switching based on UV breakthrough, and continuous protein A capture with bound-column shielding from feed. Distinct from ChromaCon Contichrom by using polymeric single-use cassettes rather than stainless valve blocks.
+
+## Climeworks Direct Air Capture solid-sorbent module (2017)
+
+- **id**: `climeworks-direct-air-capture`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Climeworks AG
+- **disclosure**: Climeworks Hinwil DAC commercial launch 2017; Orca Iceland 4 kt/yr 2021; Mammoth Iceland 36 kt/yr 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses amine-functionalized solid sorbent cartridge in modular collector with low-temp regeneration coupled to mineralization downstream. Anticipates DAC amine-sorbent modular cartridge with geothermal regeneration claims.
+
+## Modern Meadow Zoa biofabricated collagen leather (2017)
+
+- **id**: `modern-meadow-zoa-leather`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Modern Meadow Inc.
+- **disclosure**: Modern Meadow Zoa material disclosure at Museum of Modern Art Items: Is Fashion Modern, 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses Pichia pastoris fermentation of human-like recombinant collagen with downstream sheet assembly for leather-equivalent material. Anticipates recombinant collagen fermentation with downstream leather assembly claims.
+
 ## Adva Biotechnology AdvaBio bioreactor (2018)
 
 - **id**: `adva-biotechnology-advabio`
@@ -634,6 +774,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bruker BioSpin Avance Neo product brochure 2017-2018; Wallace, M. et al. 'Online benchtop NMR for monitoring of pharmaceutical reactions.' Reaction Chemistry & Engineering 7, 1583-1593 (2022), doi:10.1039/D2RE00171C
 - **ip status**: patented
 - **prior art notes**: Discloses the Bruker Fourier 80 / Avance Neo benchtop process NMR with permanent-magnet (no helium) architecture and flow-cell probes for continuous-flow chemistry PAT integration. Anticipates: (a) helium-free permanent-magnet NMR spectrometers as practical PAT tools for continuous-flow chemistry lines; (b) integrated flow-cell probes for sub-mL in-line reaction monitoring; (c) the integration template for benchtop NMR into continuous-flow pharma synthesis lines (e.g., GSK CMAC, Vapourtec R-series). Cite against later patents claiming permanent-magnet flow-cell NMR PAT instruments.
+
+## Carbon Engineering KOH-based DAC, Squamish BC (2018)
+
+- **id**: `carbon-engineering-dac-squamish`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Carbon Engineering Ltd. (acquired by Occidental/1PointFive 2023)
+- **disclosure**: Keith et al., A process for capturing CO2 from the atmosphere, Joule 2 (2018) 1573-1594.
+- **ip status**: patented
+- **prior art notes**: Discloses cross-flow KOH absorber column followed by Ca-cycle solid regeneration and calcination producing pure CO2. Anticipates liquid-alkali air-contactor with calcium-cycle solid loop DAC claims.
+
+## IMA Lynx - Continuous freeze-drying for biopharma (2019)
+
+- **id**: `ima-lynx-continuous-lyophilizer`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: IMA Life (IMA Group)
+- **disclosure**: IMA Life Lynx continuous freeze-dryer launch, 2019 (Powder Bulk Solids announcement).
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous vial-by-vial freeze-drying system in which individual vials are spin-frozen to create a thin frozen shell and then conveyed past IR heating stations during reduced-pressure drying. Anticipates continuous spin-freeze freeze-drying vial conveyor claims.
 
 ## Tessera Therapeutics Gene Writing Manufacturing (2020)
 
@@ -674,3 +834,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Verve Therapeutics SEC S-1 (2021-06); Musunuru et al. 'In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates,' Nature 593:429 (2021), doi:10.1038/s41586-021-03534-y; Verve clinical trial NCT05398029 (heart-1)
 - **ip status**: patented
 - **prior art notes**: Process disclosure: mRNA encoding adenine base editor is co-formulated with a chemically-modified sgRNA into hepatocyte-targeted LNPs via microfluidic mixing (T-junction or impingement-jet); downstream TFF concentration and buffer exchange; sterile-filtered fill. Distinguishable from Tessera by cargo identity (base editor + sgRNA, not a recombinase + template) but the manufacturing fluid path is the standard mRNA-LNP architecture. Anticipates: clinical-stage in vivo base-editing LNP manufacturing with a hepatocyte-targeted lipid in a continuous microfluidic train. Element-by-element: aqueous mRNA/sgRNA + ethanolic lipid mix → microfluidic mixer → dialysis/TFF → sterile fill → vial.
+
+## Open OB1 - Open-source pressure controller (Elveflow OB1 clone) (2023)
+
+- **id**: `open-ob1-elveflow-clone`
+- **corpus**: open
+- **device class**: flow-controller
+- **creator**: Open OB1 community project
+- **disclosure**: Open OB1 GitHub project release 2023; community fork from earlier Wijnen Pearce pressure controller.
+- **ip status**: open-copyleft
+- **prior art notes**: Discloses 4-channel open-hardware pressure flow controller with PID-based pressure regulation as an open clone of the Elveflow OB1 architecture. Anticipates open-hardware multi-channel pressure-driven flow controller with PID feedback claims.
+
+## Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend (2024)
+
+- **id**: `cellares-cell-shuttle-2-0`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellares Corporation
+- **disclosure**: Cellares Cell Shuttle 2.0 product announcement, CGT Manufacturing Conference January 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 16-parallel-cartridge integrated CAR-T cell-therapy manufacturing platform with NPI process-tech-transfer automation. Anticipates 16-parallel integrated cassette CAR-T manufacturing platform with built-in process-tech-transfer claims.
+
+## Multiply Labs CGT manufacturing robot 2024 extend (2024)
+
+- **id**: `multiply-labs-cgt-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Multiply Labs Inc.
+- **disclosure**: Multiply Labs distributed cell-therapy manufacturing platform announcement, CGT Manufacturing Summit Feb 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses cabinet-scale robotic CAR-T manufacturing platform using sterile gripper end-effectors operating on Cytiva-compatible cassettes. Anticipates robotic-cabinet distributed cell-therapy manufacturing platform with gripper-based cassette automation claims.

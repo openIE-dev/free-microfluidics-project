@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**170 corpus entries disclose this subsystem.**
+**171 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -444,6 +444,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ibidi GmbH product datasheet 'µ-Slide VI 0.4' Cat. 80606 (2008); ibidi.com
 - **ip status**: trade-secret
 - **prior art notes**: Discloses a six-channel injection-molded flow chamber on a microscope-slide-format COC substrate, designed for parallel shear-stress experiments under defined perfusion. Anticipates: parallel-channel flow chambers for cell-mechanobiology assays; COC-substrate microscopy-grade fluidic slides; the multiplex-laminar-shear architectural pattern.
+
+## Konica Minolta CC-450 clinical chemistry patent family (2008)
+
+- **id**: `konica-minolta-cc-450-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Konica Minolta
+- **disclosure**: Konica Minolta clinical chemistry analyzer family (Konica Minolta 2008-present); JP/US filings
+- **ip status**: patented
+- **prior art notes**: Konica Minolta CC-450 patent family covers compact hybrid dry-slide/wet-chemistry fluidic cartridges. Anticipates claims directed to hybrid dry-slide-wet-chemistry compact analyzer cartridges.
 
 ## Fluxion BioFlux organ-on-chip platform (2009)
 

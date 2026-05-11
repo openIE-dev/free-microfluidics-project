@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dmf-addressable-electrode-array`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Disclosed an open-source DMF (digital microfluidics) control system with software, electronics, and reference EWOD chip designs released under permissive license. Anticipates: open-source EWOD instrument architecture, real-time droplet velocity feedback as a control primitive, and Python-based DMF protocol scripting.
 
+## Ginkgo Bioworks Foundry (deep automation extend) - Bioworks 1-6 (2014)
+
+- **id**: `ginkgo-bioworks-foundry-deep-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Ginkgo Bioworks Holdings, Inc.
+- **disclosure**: Ginkgo Bioworks Foundry public disclosure 2014; SPAC IPO S-1 2021 with detailed automation stack.
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated HTP biofoundry combining acoustic-droplet dispensing, parallel transformation, automated colony picking, sequencing QC, and analytical readout (LC-MS, GC-MS, NMR) in a closed-loop AI-guided design-build-test-learn cycle. Anticipates AI-orchestrated high-throughput design-build-test-learn biofoundry workflow with acoustic-droplet construct dispensing claims.
+
 ## Illumina NeoPrep digital-microfluidic NGS library prep (2014-09-30)
 
 - **id**: `advanced-liquid-logic-illumina-neoprep`
@@ -84,3 +94,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Volta Labs Desktop product launch 2023. https://voltalabs.com/. Spun out of MIT Sambasivan / Wang lab work on EWOD library prep.
 - **ip status**: patented
 - **prior art notes**: Commercial digital-microfluidics instrument focused on NGS library prep: an EWOD electrode array under an oil-coated glass top moves discrete reagent droplets through library-prep steps without bulk channels or pipettors. Anticipates: post-Illumina-DMF-acquisition (Advanced Liquid Logic) commercial DMF for genomics; integration with kit chemistries (NEB UltraExpress) tuned for the DMF format. Major prior art point: that EWOD library prep can match conventional library quality at production NGS scale - a claim several competitors will want to make.
+
+## DropBot v4 / v5 - Open-source DMF platform 2024 extend (2024)
+
+- **id**: `dropbot-v4-v5`
+- **corpus**: open
+- **device class**: digital-microfluidics
+- **creator**: Sci-Bots Inc. (UToronto Wheeler Lab spinout)
+- **disclosure**: Sci-Bots Inc. DropBot v4/v5 release 2024; GitHub sci-bots/dropbot v2.x release.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses next-generation open-hardware DMF platform with high-voltage piezoceramic boost driver and PCB-DMF cassette variants, plus open MicroDrop-Edge embedded runtime. Anticipates open-hardware DMF platform with capacitive-feedback PCB-DMF cassette claims.

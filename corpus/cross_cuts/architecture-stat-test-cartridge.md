@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-stat-test-cartridge`
 
-**225 corpus entries disclose this subsystem.**
+**227 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1870
 
@@ -285,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: A Fire Upon the Deep depicts medical pods aboard the Out of Band II that combine long-duration trauma intervention with multi-zone-compatible operation (the novel's premise is that physical-law variation across galactic zones imposes constraints on technology — the medical pods are explicitly designed to function in lower zones). Architectural category disclosure of 'redundancy-engineered medical platform tolerant of degraded operating environments'.
 
+## Witcher Brokilon dryad medical (Water of Brokilon) (1992)
+
+- **id**: `witcher-brokilon-dryad-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andrzej Sapkowski
+- **disclosure**: Sapkowski A., 'Miecz Przeznaczenia' (Sword of Destiny) - story 'Edge of the World' / 'A Little Sacrifice', 1992-1993
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a three-stage ingestion protocol of a memory-modifying biofluid with practitioner-supervised dose staging and documented overdose phenotype. Anticipates claims directed to staged oral biofluid dosing with neurological endpoint.
+
 ## Kim Stanley Robinson Mars trilogy longevity treatment process (1993)
 
 - **id**: `ksr-mars-trilogy-longevity-treatment`
@@ -304,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Egan, G. Permutation City. Millennium / Orion, London, 1994. ISBN 1-85798-218-9.
 - **ip status**: fictional
 - **prior art notes**: Permutation City (1994) depicts whole-brain non-destructive scanning apparatus paired with substrate-replacement procedures. Egan's technical descriptions include specific imaging-resolution and fluidic-handling considerations. Architectural category disclosure of 'whole-brain non-destructive scanning apparatus with substrate-replacement procedure'. Relevant prior art for whole-organ imaging and substrate-translation platform patents.
+
+## Babylon 5 'Believers' episode pediatric medical (S1E10, 1994) (1994-03-27)
+
+- **id**: `babylon5-believers-pediatric-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: J. Michael Straczynski / Babylonian Productions
+- **disclosure**: Babylon 5 S1E10 'Believers' (1994), written by David Gerrold, dir. Richard Compton
+- **ip status**: fictional
+- **prior art notes**: 1994 broadcast disclosure of a pediatric-specific bedside diagnostic-plus-fluidic-aspiration platform integrated with a surgical bed, with a portable fluid-sample uptake kit used at the patient. Anticipates claims directed to integrated pediatric POC cartridges that combine non-invasive scan with intra-procedure fluid sampling, including claims that recite fluid-sample uptake during in-situ pediatric procedure or bedside scanner with integrated micro-aspiration. Complements existing babylon5-medlab-autodoc by adding the pediatric and procedure-time fluid-uptake disclosure.
 
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 

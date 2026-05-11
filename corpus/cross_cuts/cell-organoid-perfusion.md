@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-organoid-perfusion`
 
-**95 corpus entries disclose this subsystem.**
+**117 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1932
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cordwainer Smith (Paul Linebarger), 'The Boy Who Bought Old Earth' (Galaxy magazine, 1964); Norstrilia (Ballantine 1975) ISBN 0-345-24366-4.
 - **ip status**: fictional
 - **prior art notes**: Stroon (santaclara) is depicted as a longevity drug extracted from giant mutated sheep on Norstrilia. Smith describes the extraction-and-purification pipeline, distribution network, and clinical-administration protocols. Defensive prior art (1964) for: animal-source longevity-drug extraction industry and lifespan-extension clinical infrastructure.
+
+## Dune - Fremen Water of Life ritual fluidics (1965)
+
+- **id**: `dune-fremen-water-of-life-ritual`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'Dune' Chilton Books 1965, ISBN 978-0-441-17271-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of in vivo biotransmutation of a toxic biofluid into a benign product by a specialized practitioner, with communal redistribution of the transformed fluid. Anticipates claims directed to in vivo or wearable bioreactor cartridges for substrate transformation with downstream redistribution interface, and personalized-medicine claims that involve practitioner-mediated substrate activation prior to community use.
 
 ## Lord of Light reincarnation / body-cloning tech (Zelazny) (1967)
 
@@ -104,6 +114,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Frank Herbert, Children of Dune (1976) ISBN 0-399-11697-4 and God Emperor of Dune (1981) ISBN 0-399-12604-X; expanded in Heretics of Dune (1984) and Chapterhouse: Dune (1985).
 - **ip status**: fictional
 - **prior art notes**: Iconic and one of the most detailed fictional biological-compiler systems in SF. The axlotl tank is a controlled biological growth vat — a perfused, temperature-regulated, nutrient-cycling chamber that can grow organs, ghola (clone) bodies from cellular material, and (in later books) melange spice. Herbert's text repeatedly describes nutrient feeds, temperature control, sample loading, and harvested-product extraction, all elements of an industrial bioreactor / organ-culture system. Defensive prior art for: large-volume perfused organ-culture bioreactors, whole-body / whole-organ tissue-engineered cultivation systems, hybrid bioreactor-pharmaceutical synthesis (drug + cell co-production), and integrated nutrient-recycle culture systems. The 1976-1985 publication window predates virtually all modern bioreactor tissue-engineering patents.
+
+## Dune - God Emperor Leto II worm transformation chamber (1981)
+
+- **id**: `dune-god-emperor-worm-transformation-chamber`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'God Emperor of Dune' Putnam 1981, ISBN 978-0-399-12601-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a multi-decade encystment bioreactor chamber for symbiont-mediated substrate-organism transformation, with sustained fluidic exchange between host and symbiont. Anticipates claims directed to long-residence symbiont co-culture bioreactor cartridges with sustained host-symbiont fluidic exchange interfaces.
+
+## Dune - Bene Tleilax Master breeding floor (1981)
+
+- **id**: `dune-bene-tleilax-master-breeding-floor`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'God Emperor of Dune' (1981), expanded in 'Heretics of Dune' (1984) and 'Chapterhouse: Dune' (1985)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of segregated parallel biofluidic production streams for distinct product tiers (Master, Face-Dancer, ghola) with stratified access control on the same parent infrastructure. Anticipates claims directed to multi-stream biofluidic production cartridges with tier-segregated access control to a common parent reagent reservoir.
 
 ## David Brin Streaker dolphin-crew medical bay (Startide Rising) (1983)
 
@@ -184,6 +214,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shadowrun first edition (FASA 1989) ISBN 1-55560-110-0; Bioware introduced in Shadowrun 2nd Edition (1992); Augmentation sourcebook (Catalyst 2007) ISBN 978-1-934857-31-3.
 - **ip status**: fictional
 - **prior art notes**: Shadowrun's published cyberware/bioware sourcebooks (~30 years of detailed canon) describe fluidic-interface implants extensively: datajacks (cerebrospinal-fluid-managed neural ports), wired reflexes (myomer-perfused muscle augments), cybereye HUDs (vitreous-replacement displays), enzymes-on-demand (bioware drug glands). Augmentation 2007 specifies microfluidic-equivalent fluid management for several implants. Defensive prior art for: implanted neural ports with CSF management, myomer-perfused muscle implants, vitreous-replacement display optics, and bioware drug-secretion implants.
+
+## BattleTech Clan iron-womb medical breeding (1990)
+
+- **id**: `battletech-clan-iron-womb-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech Clan sourcebook (FASA 1990); Wolf Clan Sourcebook (FASA 1991)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a parallel-array artificial gestation system with shared nutrient manifold, paired with cryopreserved genetic legacy canisters. Anticipates claims directed to parallel-array artificial gestation cartridges sharing a common nutrient supply manifold and to canister-format genetic preservation interfaces.
 
 ## World of Darkness Tzimisce Vicissitude flesh-shaping apparatus (1991)
 
@@ -365,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Phlox maintains a sickbay menagerie of living creatures whose biological products (secretions, extracts) are used as therapeutic agents. Defensive prior art for: living-organism-as-drug-source bioreactors integrated into clinical settings, on-demand biological extraction + drug formulation pipelines.
 
+## Reynolds - Chasm City Boa Curve medical district (2001)
+
+- **id**: `reynolds-chasm-city-boa-curve-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'Chasm City' Gollancz 2001, ISBN 978-0-575-06877-1
+- **ip status**: fictional
+- **prior art notes**: Disclosure of stratified medical-service ecosystem with high-tier organ-growth and low-tier salvage biofluidics. Anticipates claims directed to tiered cartridge SKU ecosystems with replacement-organ growth at top tier and salvage-mode biofluidic reuse at low tier.
+
 ## Repligen XCell ATF alternating tangential flow cell-retention device (2002)
 
 - **id**: `repligen-xcell-atf`
@@ -435,6 +485,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Extremis depicted as a self-administered injectable bio-engineered virus that re-writes the host's biology over a 3-day fluid-immersion recovery cycle. Tony Stark's recovery shows full-body fluid-bath with monitoring infrastructure. Defensive prior art for: injectable bio-engineering payload + post-injection fluid-immersion recovery chamber, host-biology rewrite via viral delivery + monitored convalescence.
 
+## Quake 4 - Strogg conversion line (2005-10-18)
+
+- **id**: `quake-4-strogg-conversion-line`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Raven Software
+- **disclosure**: Quake 4 (Raven Software / id Software / Activision, 2005)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of forced parallel-station industrial bioprocessing line for human-to-cyborg conversion, with per-station fluidic exchange. Anticipates claims directed to forced-throughput parallel-station bioprocessing cartridge lines with per-station fluid exchange protocols. The Strogg conversion line is a particularly extreme prior art anchor for industrial cyborg production claims.
+
 ## Battlestar Galactica Cylon Hybrid immersion tank (basestar control Hybrid) (2006)
 
 - **id**: `bsg-cylon-hybrid-tank`
@@ -454,6 +514,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stelarc, 'Ear on Arm', performance documentation 2006; Smith MR (ed.), Stelarc: The Monograph (MIT Press 2005); stelarc.org/?catID=20242
 - **ip status**: fictional
 - **prior art notes**: Discloses an artistic-surgical project that surgically implanted a cell-scaffold ear on the artist's forearm with stated future intent to embed a perfusion microfluidic and microphone for telepresent listening. The proposed perfusion-vascularized scaffold-on-skin anticipates: in-vivo perfused soft-tissue scaffolds with embedded microfluidic vasculature; wearable organ-on-chip concepts; artistic precedent for microfluidic prosthetic augmentation.
+
+## Dune - Brian Herbert/KJA Last Ghola production line (2006)
+
+- **id**: `dune-last-ghola-production-line-brian-herbert`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brian Herbert and Kevin J. Anderson
+- **disclosure**: Herbert B., Anderson K.J., 'Hunters of Dune' Tor Books 2006, ISBN 978-0-7653-1292-2
+- **ip status**: fictional
+- **prior art notes**: Disclosure of industrial-scale parallel-array bioreactor production line with per-batch sampling QC and addressable genetic-template biofluid storage. Anticipates claims directed to industrial parallel-bioreactor cartridge production lines with per-batch QC sampling and addressable cryostorage interfaces.
+
+## Promethean: The Created - Tank-reborn fluidic creation (2006)
+
+- **id**: `promethean-tank-reborn-fluidic-creation`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: White Wolf Publishing, 'Promethean: The Created' core book 2006, ISBN 978-1-58846-415-8
+- **ip status**: fictional
+- **prior art notes**: Disclosure of galvanic-fluid-bath corpse-to-being transformation tank with subsequent staged refinement biofluid regimen. Anticipates claims directed to corpse-to-being electrochemical-fluidic reanimation cartridges with staged post-creation biofluid regimens.
 
 ## Acoustically detectable cellular-level lung injury model (2007)
 
@@ -575,6 +655,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Dr. Genus's House of Evolution depicted as a biological-modification facility producing augmented humanoid creatures and Dr. Genus's own clone bodies via fluid-tank cultivation. Defensive prior art for biological augmentation laboratories with clone-tank backups for the principal researcher.
 
+## Premas Biotech patent family (2009)
+
+- **id**: `premas-biotech-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Premas Biotech
+- **disclosure**: Premas Biotech Pvt Ltd IP estate; IN/US/PCT filings 2009-present
+- **ip status**: patented
+- **prior art notes**: Premas Biotech patent family covers yeast-based protein expression platform with bioreactor-scale fermentation cartridges. Anticipates claims directed to D-Crypt-style yeast expression cartridges.
+
 ## Lung-on-a-chip (2010)
 
 - **id**: `huh-2010-lung-on-chip`
@@ -604,6 +694,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mass Effect 2 (BioWare/EA 2010); 'Lazarus Project' opening sequence; Mass Effect: Foundation comic series (Dark Horse 2013-2014).
 - **ip status**: fictional
 - **prior art notes**: Lazarus Project depicted as a multi-year, multi-billion-credit facility reconstructing a corpse into a functional being using cybernetic implants, cellular regrowth, and neural-state restoration. The opening cinematic shows operating tables with multiple overhead surgical arms, fluid-perfusion lines, and integrated diagnostic monitors. Defensive prior art for: large-scale corpse-reconstruction facility integrating cybernetic implant installation + tissue engineering + neural restoration. Extends wave 1 ME entries with the explicit reconstruction-pipeline architecture.
+
+## A*STAR Bioprocessing Technology Institute patent family (2010)
+
+- **id**: `astar-bti-bioprocessing-patent-family`
+- **corpus**: academic
+- **device class**: other
+- **creator**: A*STAR Bioprocessing Technology Institute
+- **disclosure**: A*STAR Bioprocessing Technology Institute (Singapore) IP estate; SG/US/PCT filings
+- **ip status**: patented
+- **prior art notes**: A*STAR BTI patent family covers continuous perfusion bioreactor cartridges and CHO process patents. Anticipates claims directed to continuous-perfusion biologic-manufacturing fluidic cartridges.
+
+## NUS Mechano-Biology Institute microfluidic patent family (2010)
+
+- **id**: `nus-mechano-biology-institute-patent-family`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: NUS Mechano-Biology Institute
+- **disclosure**: NUS Mechano-Biology Institute IP estate; SG/US/PCT filings 2010-present
+- **ip status**: patented
+- **prior art notes**: NUS MBI patent family covers cell-stretching fluidic platforms with shear-flow stimulation. Anticipates claims directed to mechano-biology fluidic cartridges with cell-stretching subsystems.
+
+## Crysis - Hargreave-Rasch BioChemical laboratories (2011-03-22)
+
+- **id**: `crysis-hargreave-rasch-labs`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Crytek
+- **disclosure**: Crysis 2 (Crytek / Electronic Arts, 2011)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of industrial alien-substrate-derived fluidic production with corporate-segregated supply chain. Anticipates claims directed to industrial alien/exogenous-substrate biofluidic cartridge production with corporate-controlled supply chains.
 
 ## NIH MPS / NCATS microphysiological systems program (2012)
 
@@ -644,6 +764,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Psycho-Pass (Production I.G/Fuji TV 2012); 'Reveal of the Sibyl' arc episodes 17-18 (2013).
 - **ip status**: fictional
 - **prior art notes**: Psycho-Pass reveals that the Sibyl System is a parallel-array of disembodied human brains immersed in nutrient fluid, networked together as a distributed compute substrate. The reveal-arc shows the brain-array's perfusion infrastructure: per-brain fluid-circulation, oxygen and nutrient delivery, waste removal, and neural-electrical interface. Defensive prior art for: parallel-brain wetware compute substrate, per-brain perfusion + electrical-interface modules, and disembodied-brain network architecture.
+
+## A*STAR Singapore Bioimaging Consortium patent family (2012)
+
+- **id**: `astar-sbic-bioimaging-patent-family`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: A*STAR Singapore Bioimaging Consortium
+- **disclosure**: A*STAR Singapore Bioimaging Consortium IP estate; SG/US/PCT filings 2012-present
+- **ip status**: patented
+- **prior art notes**: A*STAR SBIC patent family covers imaging-coupled fluidic flow chambers for live-cell biofluidic imaging. Anticipates claims directed to flow-imaging fluidic cartridges with molecular probe delivery.
 
 ## Engineering multi-organ microphysiological systems (multi-organ-on-chip) (2013)
 
@@ -695,6 +825,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses speculative-design works depicting fictional reproductive microfluidic devices: an artificial human placenta capable of gestating non-human species, and a fictional same-sex-couple genome-merging cartridge whose inputs are saliva collection kits. Anticipates: speculative reproductive microfluidic cartridges; consumer-facing depictions of organ-on-chip placental devices; speculative design language for in-vitro gametogenesis cartridges.
 
+## Recursion Pharmaceuticals OS - Cell painting + foundation model (extend) (2013)
+
+- **id**: `recursion-pharma-extend`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Recursion Pharmaceuticals
+- **disclosure**: Recursion Pharmaceuticals founding 2013; Phenom-Beta foundation model release 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses massively-parallel Cell Painting fluorescence microscopy on standard 384-well plates with embedding-based AI hit calling. Anticipates large-scale Cell-Painting + image-foundation-model phenotypic drug discovery workflow claims.
+
 ## Emulate Inc. Organ-Chip platform (2014)
 
 - **id**: `emulate-organ-on-chip-platform`
@@ -745,6 +885,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses Sartorius single-use rocking bioreactor line (BIOSTAT RM) with Flexsafe polymer-film bags. Anticipates: extensible-film single-use rocking bioreactor architectures with in-bag optical DO/pH and capacitance sensors; CGT-validated extractables/leachables polymer-film formulations. Sister to the Cytiva Xuri line.
 
+## Mitra Biotech TumorGRAFT patent family (2014)
+
+- **id**: `mitra-biotech-tumorgraft-patent-family`
+- **corpus**: private
+- **device class**: organ-on-chip
+- **creator**: Mitra Biotech
+- **disclosure**: Mitra Biotech CANscript / TumorGRAFT IP estate; IN/US/PCT filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Mitra Biotech CANscript patent family covers ex vivo patient-derived tumor explant culture cartridges for drug response prediction. Anticipates claims directed to patient-derived tumor-on-chip cartridges with phenotypic drug response readout.
+
+## Samsung Bioepis biologics patent family (2014)
+
+- **id**: `samsung-bioepis-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Samsung Bioepis
+- **disclosure**: Samsung Bioepis Co Ltd IP estate (Samsung BioLogics subsidiary); KR/US filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Samsung Bioepis patent family covers biosimilar continuous-perfusion biologic-production fluidics with in-line analytical QC. Anticipates claims directed to continuous biologic-production fluidic cartridges with in-line analytical QC.
+
 ## T&R Biofab IB3D / 3DX Multi-Head Bioprinter (2015)
 
 - **id**: `tr-biofab-ib3d-bioprinter`
@@ -754,6 +914,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: T&R Biofab Co., Ltd. (Korea) IB3D / 3DX product line; tnrbiofab.com; commercial release ~2015
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-head bioprinter integrating thermoplastic-extrusion heads (PCL/PLGA scaffold material at melt temperature) with cell-laden hydrogel bioprinting heads (dECM, alginate, GelMA), enabling simultaneous deposition of structural scaffold and cellular components. Anticipates: (a) hybrid melt-extrusion plus low-temperature bioink architecture in a single machine, (b) dECM-bioink workflow productized into a commercial machine (lineage to Cho 2014 dECM Nature Communications paper), (c) Korean-origin bioprinter prior art for industrial scaffold-plus-cell platforms. Note: corpus already references POSTECH microfluidics broadly via postech-microfluidics-suh; this entry pins T&R Biofab specifically.
+
+## Tade Thompson - Rosewater xenobiology fluidics (2016)
+
+- **id**: `tade-thompson-rosewater-xenobiology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tade Thompson
+- **disclosure**: Thompson, T., 'Rosewater' Apex 2016, Orbit reissue 2018, ISBN 978-0-316-44907-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of subterranean xenobiotic biofluid healing dome with telepathic-substrate coupling and post-mortem reconstruction. Anticipates claims directed to xenobiotic-substrate healing facility cartridges with integrated reconstruction biofluid exchange.
 
 ## Lonza Cocoon CAR-T cell therapy platform (2017)
 
@@ -815,6 +985,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Closed single-use bioreactor for CGT expansion targeting smaller batch sizes than the Wave/Xuri family, with integrated process-analytical-technology (DO/pH/glucose) feedback. Anticipates: integration of in-line PAT sensors with closed single-use bioreactors at sub-litre scale for CGT-specific workflows.
 
+## Front Range Biosciences clean-stock cannabis tissue culture (2018)
+
+- **id**: `front-range-biosciences-cannabis-tc`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Front Range Biosciences
+- **disclosure**: Front Range Biosciences Clean Stock Program announcement 2018.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses cannabis meristem tissue culture in sterile multiwell plates with multiplex pathogen qPCR clean-stock certification. Anticipates cannabis tissue-culture clean-stock cassette with pathogen qPCR audit claims.
+
+## Aleph Farms Aleph Cuts cultured-meat steak (2018)
+
+- **id**: `aleph-farms-cultured-steak`
+- **corpus**: private
+- **device class**: organ-on-chip
+- **creator**: Aleph Farms Ltd.
+- **disclosure**: Aleph Farms public unveil December 2018; Petit Steak Singapore market launch 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses perfused-bioreactor co-culture of multi-cell-type bovine tissue on plant-derived scaffold to produce structured cultured meat. Anticipates plant-scaffold perfused-bioreactor multi-cell-type cultured-meat steak claims.
+
 ## Ori Biotech IRO cell therapy manufacturing platform (2019)
 
 - **id**: `ori-biotech-iro`
@@ -874,6 +1064,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Foundation S1E3 'The Mathematician's Ghost' (Apple TV+ 2021-10-01) showing the decanting chamber; expanded S2 (2023) 'A Glimpse of Darkness' Brother Dawn ascension arc.
 - **ip status**: fictional
 - **prior art notes**: The decanting chamber is visualized as a vertical fluid-filled chamber where Cleon clones (Dawn, Day, Dusk) are removed from amniotic suspension upon reaching adulthood. Memory transfer is depicted as a neural-fluid procedure conducted before the chamber transition. Anticipates: combined biological maturation chamber + neural-content transfer station as a single fluid-handling architecture; multi-cohort synchronized decanting (3-position carousel for the Genetic Dynasty); the architectural pattern of clone-pool maintenance with scheduled cycling.
+
+## Weir - Project Hail Mary coma-slick biofluidic care (2021-05-04)
+
+- **id**: `weir-project-hail-mary-coma-slick`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Andy Weir
+- **disclosure**: Weir, A., 'Project Hail Mary' Ballantine 2021, ISBN 978-0-593-13520-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of long-duration interstellar autodoc with comatose-state nutrient perfusion, biofuel-bioreactor coupling for life-support, and cross-species fluidic compatibility interface. Anticipates claims directed to long-duration coma-state autodoc cartridges with integrated biofuel-bioreactor coupling and cross-species fluidic compatibility.
 
 ## Cellares Cell Shuttle CAR-T manufacturing platform (2022)
 
@@ -954,6 +1154,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Helldivers 2 (Arrowhead Game Studios / Sony 2024-02-08).
 - **ip status**: fictional
 - **prior art notes**: Helldivers 2 Super Destroyer medical bay depicted as a clone-respawn pipeline: subjects are reanimated rapidly in synchronized chambers fed by industrial reagent reservoirs. Anticipates: rapid-cycle synchronized-reanimation chamber arrays with industrial reagent reservoir architecture; useful prior art for 'rapid-cycle clone-reanimation pipeline with shared reagent reservoir' claims.
+
+## Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend (2024)
+
+- **id**: `cellares-cell-shuttle-2-0`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Cellares Corporation
+- **disclosure**: Cellares Cell Shuttle 2.0 product announcement, CGT Manufacturing Conference January 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 16-parallel-cartridge integrated CAR-T cell-therapy manufacturing platform with NPI process-tech-transfer automation. Anticipates 16-parallel integrated cassette CAR-T manufacturing platform with built-in process-tech-transfer claims.
+
+## Multiply Labs CGT manufacturing robot 2024 extend (2024)
+
+- **id**: `multiply-labs-cgt-2024`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Multiply Labs Inc.
+- **disclosure**: Multiply Labs distributed cell-therapy manufacturing platform announcement, CGT Manufacturing Summit Feb 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses cabinet-scale robotic CAR-T manufacturing platform using sterile gripper end-effectors operating on Cytiva-compatible cassettes. Anticipates robotic-cabinet distributed cell-therapy manufacturing platform with gripper-based cassette automation claims.
 
 ## Death Stranding 2 Q-pid and BB-1 successor pod (2025)
 

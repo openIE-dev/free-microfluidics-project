@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-functionalization-silane`
 
-**14 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1924
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Affymetrix GeneChip patent estate. Anchors claims around: (a) photolithographic in situ synthesis of oligonucleotide arrays on a glass substrate using photolabile protecting groups (Fodor 1991 Science paper, US5445934 priority 1989); (b) high-density spatially-addressable microarrays for hybridization-based nucleic-acid analysis; (c) GeneChip-format mask-based or maskless light-directed synthesis. Affymetrix acquired by Thermo Fisher 2016-03-31 for approximately $1.3B. Foundational core patents largely expired by 2009-2014 (17/20-year terms from 1989-1994 priorities). Defensive value: anchors public-domain status of basic photolithographic-array fabrication. Anticipates almost all DNA microarray fabrication approaches that use light-directed synthesis. Companion: this estate is also relevant prior art for spatial-transcriptomics capture arrays (10x Visium).
 
+## Lockhart 1996 - GeneChip multi-color US5556752 (1995-10-31)
+
+- **id**: `lockhart-1996-genechip-multi-color-us5556752`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Affymetrix Inc
+- **disclosure**: US Patent 5,556,752 (filed 1995-10-31, granted 1996-09-17) - assignee Affymetrix Inc, inventors Lockhart D.J., Lipshutz R.J. et al.
+- **ip status**: patented
+- **prior art notes**: Lockhart 1996 US5556752 patent covers multi-color fluorescent labeling on photolithographic high-density GeneChip arrays with integrated fluidic hybridization. Foundational disclosure for downstream microarray and even sequencing IP. Anticipates claims directed to multi-color fluorescent hybridization assays on high-density photolithographic substrates.
+
 ## Illumina Patent Estate Post-Solexa Acquisition (Bridge Amplification + SBS) (1997)
 
 - **id**: `illumina-patent-estate-post-solexa`
@@ -44,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7771970 (priority via Solexa 1997); US8158346; US8071739; US7115400; US6306597 (Illumina via Solexa acquisition 2007 for $600M)
 - **ip status**: patented
 - **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
+
+## CapitalBio lab-on-chip patent family (2003)
+
+- **id**: `capitalbio-lab-on-chip-patent-family`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CapitalBio Corporation
+- **disclosure**: CapitalBio Corporation (Tsinghua University spinoff, 2002) IP estate; CN/US filings 2003-present
+- **ip status**: patented
+- **prior art notes**: CapitalBio patent family covers microarray-on-cartridge POC infectious-disease platforms, with hybridization and detection integrated. Anticipates claims directed to integrated microarray-fluidic POC cartridges for infectious-disease panel detection.
+
+## SCHOTT TopLyo / FIOLAX / Type I Plus - Lyophilization-optimized vials (2007)
+
+- **id**: `schott-toplyo-fiolax-vials`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: SCHOTT AG
+- **disclosure**: SCHOTT TopLyo product release 2007; Type I Plus SiO2-coated vial 2010.
+- **ip status**: patented
+- **prior art notes**: Discloses plasma-CVD SiO2 inner coating on Type I borosilicate vials to prevent siliconization-driven fog and protein-cake adhesion in lyophilized biologic products. Anticipates plasma-deposited silica inner coating for lyophilization vial fogging suppression claims.
 
 ## 10x Genomics Visium Spatial Transcriptomics Patent Family (2010)
 

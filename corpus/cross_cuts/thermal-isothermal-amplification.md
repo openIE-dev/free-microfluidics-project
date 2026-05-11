@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**27 corpus entries disclose this subsystem.**
+**31 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -165,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a distributed open-research collaboration platform whose OpenCovid19 initiative published dozens of open microfluidic diagnostic designs (RT-LAMP cartridges, paper-based COVID tests, low-cost PCR cartridges) in 2020 with timestamped publication. Relevance: the JOGL OpenCovid19 archive is itself a citable prior-art trove for low-cost open RT-LAMP and paper-microfluidic COVID tests, and the JOGL platform model anticipates 'distributed federated open-science platforms with timestamped output suitable as defensive publication.'
 
+## WeGenix microfluidic chip patent family (2018)
+
+- **id**: `wegenix-microfluidic-chip-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: WeGenix Bio-Tech
+- **disclosure**: WeGenix (Suzhou WeGenix Bio-Tech) IP estate; CN/PCT filings 2018-present
+- **ip status**: patented
+- **prior art notes**: WeGenix patent family covers POC PCR cartridges with finger-stick input and on-cartridge nucleic acid prep. Anticipates claims directed to finger-stick-input POC nucleic acid amplification cartridges.
+
 ## Lucira Health Check It home COVID-19 isothermal molecular test (2020)
 
 - **id**: `lucira-home-covid-test`
@@ -284,3 +294,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sherlock Biosciences press release 2024-04 SHERLOCK STI; FDA Breakthrough Designation 2023-12-14; US10266887B2 (Cas13a-based detection)
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use disposable cartridge that performs CRISPR-based nucleic acid detection (Cas13a or Cas12a collateral cleavage of fluorogenic reporters) entirely without an external instrument. Anticipates: instrument-free CRISPR diagnostic cartridges for STI / respiratory pathogens; lyophilized-on-cartridge isothermal amplification + Cas effector cleavage workflows; consumer point-of-use form factors for at-home or pharmacy testing. Anticipates claims to fully-self-contained CRISPR diagnostic cartridges that combine isothermal amplification with collateral-cleavage readout.
+
+## Lucira Flu + COVID OTC test 2024 extend (2024)
+
+- **id**: `lucira-flu-covid-otc-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Pfizer Inc. (acquired Lucira 2023)
+- **disclosure**: Pfizer Lucira Flu + COVID-19 OTC test 510(k) FDA clearance 2023; Pfizer launch update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 3-target LAMP isothermal at-home OTC cartridge for Flu/COVID with FDA OTC clearance (first such product). Anticipates 3-target LAMP isothermal OTC respiratory-virus cartridge claims.
+
+## Detect Inc. Flu + COVID 2024 extend (2024)
+
+- **id**: `detect-inc-flu-covid-2024`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Detect, Inc.
+- **disclosure**: Detect Inc. Flu+COVID-19 RT-LAMP cartridge product update 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses 4-target RT-LAMP at-home cartridge using reusable optical reader for cost reduction. Anticipates 4-target respiratory-virus RT-LAMP cartridge with reusable optical reader claims.
+
+## Abbott ID NOW 2024 expanded respiratory panel (2024)
+
+- **id**: `abbott-id-now-2024-update`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Abbott Diagnostics Scarborough
+- **disclosure**: Abbott ID NOW expanded multiplex respiratory cartridge announcement 2024.
+- **ip status**: patented
+- **prior art notes**: Discloses NEAR-based 4-target isothermal amplification CLIA-waived POC cartridge. Anticipates 4-target NEAR isothermal point-of-care respiratory cartridge claims.

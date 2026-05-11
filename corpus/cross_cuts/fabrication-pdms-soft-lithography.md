@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**80 corpus entries disclose this subsystem.**
+**81 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1898-05-12
 
@@ -804,6 +804,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various 2023-2026 publications on next-generation rare-cell isolation. Representative: cancer-cell-on-chip cluster-isolation methods.
 - **ip status**: patented
 - **prior art notes**: Composite reference for 2023-onward rare-cell isolation work: CTC-cluster isolation (rather than single CTC), circulating immune-cell phenotyping, antigen-independent capture by combined biophysical + biochemical signatures. Cumulative architectural disclosures from this period define current state-of-the-art in rare-cell microfluidic isolation, complementing the foundational 2007-2013 work (Di Carlo, Toner, etc.).
+
+## Stanford Microfluidics Foundry 2024 (2024)
+
+- **id**: `stanford-microfluidics-foundry-2024`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Stanford Microfluidics Foundry (Stanford SNF / Stanford BioE)
+- **disclosure**: Stanford Microfluidics Foundry 2024 capability update on foundry.stanford.edu.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses university-hosted microfluidics fab service offering SU-8 master, glass DRIE, and 2PP capabilities for academic researchers. Anticipates university-foundry-as-service microfluidic-fabrication ecosystem claims.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-staggered-herringbone`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stroock, A. D.; Dertinger, S. K. W.; Ajdari, A.; Mezic, I.; Stone, H. A.; Whitesides, G. M. Chaotic mixer for microchannels. Science 2002, 295, 647–651. DOI: 10.1126/science.1066238
 - **ip status**: public-domain
 - **prior art notes**: The canonical disclosure of passive chaotic mixing in microchannels via patterned grooves on the channel floor. Anticipates: staggered herringbone topology, the principle of using transverse flow patterns to fold fluid layers and shorten diffusion paths in laminar regimes. Any patent claiming novelty over 'patterned floor structures producing transverse flow for mixing' must contend with this disclosure.
+
+## BiAffin patent family extensions (2015)
+
+- **id**: `biaffin-patent-extensions`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: BiAffin
+- **disclosure**: BiAffin IP estate; IL/US filings 2015-present
+- **ip status**: patented
+- **prior art notes**: BiAffin patent family extends existing biaffin-lnp-encapsulator with additional LNP-microfluidic IP. Anticipates claims directed to micromixer-driven LNP assembly cartridges with GMP-compliant scaling.
 
 ## Bhattacharjee 2016 3D-Printed Microfluidics Toolkit (2016-04)
 

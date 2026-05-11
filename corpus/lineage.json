@@ -32,6 +32,14 @@
       "descendants": []
     },
     {
+      "id": "bormioli-rocco-pharma-vials",
+      "name": "Bormioli Pharma - Glass and plastic primary packaging",
+      "year": "1825",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hagen-1839-pipe-flow-viscosity",
       "name": "Hagen 1839 — On the motion of water in narrow cylindrical tubes (Hagen-Poiseuille flow)",
       "year": "1839",
@@ -471,6 +479,14 @@
       "descendants": []
     },
     {
+      "id": "van-vogt-null-a-gosseyn-restoration",
+      "name": "Van Vogt - World of Null-A Gosseyn restoration apparatus",
+      "year": "1945",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "brinkman-1947-porous-medium-equation",
       "name": "Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles",
       "year": "1947",
@@ -601,6 +617,14 @@
       "descendants": []
     },
     {
+      "id": "chandler-rim-runner-autodoc",
+      "name": "A. Bertram Chandler - Rim Runner autodoc",
+      "year": "1961",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "heinlein-stranger-strange-land-medical",
       "name": "Robert A. Heinlein Stranger in a Strange Land medical units",
       "year": "1961",
@@ -657,6 +681,14 @@
       "descendants": []
     },
     {
+      "id": "derwent-innovation-index-clarivate",
+      "name": "Derwent Innovation Index (Clarivate) patent search tool",
+      "year": "1963",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "karnis-mason-1963-particle-migration-tubes",
       "name": "Karnis & Mason 1963 - Particle migration in Poiseuille flow",
       "year": "1963",
@@ -701,6 +733,14 @@
     {
       "id": "dune-bene-gesserit-poison-snooper",
       "name": "Dune Bene Gesserit poison-snooper / chemical microsensor",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dune-fremen-water-of-life-ritual",
+      "name": "Dune - Fremen Water of Life ritual fluidics",
       "year": "1965",
       "corpus": "fictional",
       "ancestors": [],
@@ -937,6 +977,14 @@
       "descendants": []
     },
     {
+      "id": "polaroid-blister-pod-chemistry-patent-extensions",
+      "name": "Polaroid blister-pod chemistry patent extensions",
+      "year": "1970",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "niven-1970-ringworld-autodoc",
       "name": "Niven Ringworld Autodoc (1970)",
       "year": "1970",
@@ -993,6 +1041,14 @@
       "name": "Polaroid SX-70 Integral Film Self-Contained Fluid Pod (Historic Microfluidic Prior Art)",
       "year": "1972",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "proquest-dialog-patent-search",
+      "name": "ProQuest Dialog patent search platform",
+      "year": "1972",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -1159,6 +1215,22 @@
       "descendants": []
     },
     {
+      "id": "dsm-pro-biolacta-lactase",
+      "name": "DSM (now dsm-firmenich) Pro Biolacta lactase + Maxilact",
+      "year": "1978",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "honey-isotope-ratio-ms",
+      "name": "Honey isotope ratio mass spectrometry (IRMS) for adulteration",
+      "year": "1978",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "canon-bubble-jet-printhead",
       "name": "Canon thermal Bubble Jet inkjet printhead",
       "year": "1979",
@@ -1317,6 +1389,22 @@
       "descendants": []
     },
     {
+      "id": "dune-bene-tleilax-master-breeding-floor",
+      "name": "Dune - Bene Tleilax Master breeding floor",
+      "year": "1981",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dune-god-emperor-worm-transformation-chamber",
+      "name": "Dune - God Emperor Leto II worm transformation chamber",
+      "year": "1981",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fujifilm-dri-chem-vet-slide",
       "name": "Fujifilm DRI-CHEM Veterinary Slide System",
       "year": "1981",
@@ -1419,6 +1507,14 @@
       "descendants": []
     },
     {
+      "id": "battletech-cockpit-immersion-fluid",
+      "name": "BattleTech BattleMech cockpit immersion fluid (inertial damping fluid)",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dune-bene-tleilax-axlotl-extended",
       "name": "Bene Tleilax Axlotl Tank (Extended Heretics / Chapterhouse)",
       "year": "1984",
@@ -1489,6 +1585,14 @@
       "name": "Greg Bear Eon Sphere Medical (Way Medical)",
       "year": "1985",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cetus-pcr-1985-foundational-anchor-extensions",
+      "name": "Cetus PCR (Mullis-Saiki 1985) - foundational patent estate extensions",
+      "year": "1985",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -1693,6 +1797,22 @@
       "descendants": []
     },
     {
+      "id": "battletech-comstar-hpg-medbay",
+      "name": "BattleTech ComStar HPG station medbay",
+      "year": "1988",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "buchi-b290-b90-encapsulator-spray-line",
+      "name": "Buchi B-290 / B-90 Nano / Encapsulator B-390 - Lab spray and encapsulation",
+      "year": "1988",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bujold-quaddie-spaceborne-medbay",
       "name": "Quaddie Spaceborne Medbay (Falling Free)",
       "year": "1988",
@@ -1736,6 +1856,14 @@
       "id": "xaar-1988-shared-wall-shear-mode-printhead",
       "name": "Xaar Shared-Wall Shear-Mode Piezo Printhead",
       "year": "1988",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "aquabounty-aquadvantage-salmon",
+      "name": "AquaBounty AquAdvantage transgenic Atlantic salmon genotyping",
+      "year": "1989",
       "corpus": "private",
       "ancestors": [],
       "descendants": []
@@ -1879,6 +2007,14 @@
       "descendants": []
     },
     {
+      "id": "battletech-clan-iron-womb-medical",
+      "name": "BattleTech Clan iron-womb medical breeding",
+      "year": "1990",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bear-queen-of-angels-slant-medical",
       "name": "Greg Bear Queen of Angels / Slant Therapy Suite",
       "year": "1990",
@@ -2000,6 +2136,14 @@
       "descendants": []
     },
     {
+      "id": "battletech-solaris-vii-arena-medical",
+      "name": "BattleTech Solaris VII arena medical fluidics",
+      "year": "1991",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "blackrock-utah-array",
       "name": "Blackrock Microsystems Utah Intracortical Electrode Array",
       "year": "1991",
@@ -2008,8 +2152,24 @@
       "descendants": []
     },
     {
+      "id": "cetus-roche-pcr-royalty-estate",
+      "name": "Cetus-Roche PCR royalty estate",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "daikyo-crystal-zenith-vials",
       "name": "Daikyo Crystal Zenith (CZ) Cyclic-Olefin Polymer Vials",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hitachi-911-917-historic-chemistry-patents",
+      "name": "Hitachi 911/917 historic clinical chemistry (1990s) patents",
       "year": "1991",
       "corpus": "private",
       "ancestors": [],
@@ -2186,6 +2346,14 @@
       "descendants": []
     },
     {
+      "id": "witcher-brokilon-dryad-medical",
+      "name": "Witcher Brokilon dryad medical (Water of Brokilon)",
+      "year": "1992",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sano-1992-immunopcr-foundational-anchor",
       "name": "Sano 1992 ImmunoPCR Foundational Disclosure",
       "year": "1992",
@@ -2309,6 +2477,22 @@
       "descendants": []
     },
     {
+      "id": "witcher-trial-of-the-grasses-mutagenic-alchemy",
+      "name": "Witcher Trial of the Grasses mutagenic alchemy",
+      "year": "1993",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "witcher-yennefer-sorceress-healing-fluidics",
+      "name": "Witcher Yennefer / sorceress healing fluidics",
+      "year": "1993",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sachs-mit-1993-three-dimensional-printing",
       "name": "Sachs (MIT) Three-Dimensional Printing / Binder Jetting Patent",
       "year": "1993",
@@ -2319,6 +2503,14 @@
     {
       "id": "babylon5-medlab-autodoc",
       "name": "Babylon 5 Medlab automated diagnostic and treatment beds (Dr. Franklin's lab)",
+      "year": "1994",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "babylon5-zocalo-medtech-vendor-stalls",
+      "name": "Babylon 5 Zocalo med-tech vendor stalls",
       "year": "1994",
       "corpus": "fictional",
       "ancestors": [],
@@ -2375,10 +2567,34 @@
       "descendants": []
     },
     {
+      "id": "nova-bioprofile-flex2-analyzer",
+      "name": "Nova Biomedical BioProfile FLEX2 / 100 / 200 bioprocess analyzers",
+      "year": "1994",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sartorius-sartobind-q-membrane",
       "name": "Sartorius Sartobind Q Membrane Chromatography",
       "year": "1994",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "witcher-kaer-morhen-alchemy-laboratory",
+      "name": "Witcher Kaer Morhen alchemy laboratory",
+      "year": "1994",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "babylon5-believers-pediatric-medical",
+      "name": "Babylon 5 'Believers' episode pediatric medical (S1E10, 1994)",
+      "year": "1994",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -2413,10 +2629,34 @@
       "descendants": []
     },
     {
+      "id": "babylon5-minbari-medical-healing-pod",
+      "name": "Babylon 5 Minbari healing pod",
+      "year": "1995",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "babylon5-narn-bioweapon-facility",
       "name": "Babylon 5 Narn biological weapons / Dilgar War medical-weapon labs",
       "year": "1995",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "battletech-warship-medbay",
+      "name": "BattleTech WarShip medbay",
+      "year": "1995",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "eastman-kodak-microfluidic-patent-family",
+      "name": "Eastman Kodak microfluidic patent family (inkjet + photo chemistry crossover)",
+      "year": "1995",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2437,8 +2677,24 @@
       "descendants": []
     },
     {
+      "id": "helena-laboratories-ce-1990s-patents",
+      "name": "Helena Laboratories capillary electrophoresis (1990s) patent family",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hitachi-7080-clinical-chemistry",
       "name": "Hitachi 7080/7180/7600 clinical chemistry analyzer",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hitachi-7180-7500-chemistry-patents",
+      "name": "Hitachi 7180/7500 clinical chemistry analyzer patent family",
       "year": "1995",
       "corpus": "private",
       "ancestors": [],
@@ -2519,6 +2775,22 @@
       "descendants": []
     },
     {
+      "id": "neb-1995-foundational-patent-family",
+      "name": "New England Biolabs (NEB) foundational patent family",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "olympus-medical-fluidic-patents",
+      "name": "Olympus Medical fluidic endoscopy patent family",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "orasure-quickflex-cartridge",
       "name": "OraSure rapid HIV test cassette (lateral flow)",
       "year": "1995",
@@ -2529,6 +2801,14 @@
         "chembio-dpp",
         "sd-biosensor-rapid-antigen"
       ]
+    },
+    {
+      "id": "orbit-intelligence-questel",
+      "name": "Orbit Intelligence (Questel) patent search platform",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "quidel-triage-meterpro-fluorescence-cartridge",
@@ -2573,6 +2853,14 @@
     {
       "id": "stratagene-quikchange-1995-extended-anchor",
       "name": "Stratagene QuikChange Site-Directed Mutagenesis 1995 Foundational Anchor",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stratagene-quikchange-patent-extensions",
+      "name": "Stratagene QuikChange (1995) patent family extensions",
       "year": "1995",
       "corpus": "private",
       "ancestors": [],
@@ -2627,6 +2915,14 @@
       "descendants": []
     },
     {
+      "id": "lockhart-1996-genechip-multi-color-us5556752",
+      "name": "Lockhart 1996 - GeneChip multi-color US5556752",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "abbott-binaxnow-rapid-antigen",
       "name": "Abbott BinaxNOW rapid antigen test cassette",
       "year": "1996",
@@ -2637,6 +2933,14 @@
       "descendants": [
         "abbott-binaxnow-self-test-otc-2021"
       ]
+    },
+    {
+      "id": "babylon5-drazi-crystal-vine-medical",
+      "name": "Babylon 5 Drazi crystal-vine medical preparation",
+      "year": "1996",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "branebjerg-1995-silicon-valve-survey",
@@ -2822,6 +3126,14 @@
         "margulies-2005-454-picotiterplate",
         "rothberg-2011-ion-torrent"
       ]
+    },
+    {
+      "id": "sacco-system-dairy-cultures",
+      "name": "Sacco System Lyofast dairy cultures",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "symbiotica-tissue-culture-art-project",
@@ -3216,6 +3528,14 @@
       "descendants": []
     },
     {
+      "id": "aberrant-nova-quantum-flesh",
+      "name": "Aberrant - Nova quantum-flesh biofluidics",
+      "year": "1999",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "agilent-bioanalyzer-2100",
       "name": "Agilent 2100 Bioanalyzer chip-based capillary electrophoresis",
       "year": "1999",
@@ -3314,6 +3634,14 @@
       ]
     },
     {
+      "id": "vostok-ice-core",
+      "name": "Vostok ice-core gas-trap mass-spec coupling",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "voxeljet-binder-jet-printer",
       "name": "Voxeljet VX Binder-Jetting Sand and Polymer Printer",
       "year": "1999",
@@ -3354,6 +3682,14 @@
       "descendants": [
         "chen-2003-pegda-hydrogel-photopatterning"
       ]
+    },
+    {
+      "id": "blue-planet-aquatic-medicine",
+      "name": "Blue Planet RPG - aquatic medicine fluidics",
+      "year": "2000",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cellavision-vs-roche-cellavision-international-ip",
@@ -3408,6 +3744,14 @@
       "name": "Lens.org / Cambia Open Patent Search Platform",
       "year": "2000",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "liu-cixin-wandering-earth-underground-medical",
+      "name": "Liu Cixin - The Wandering Earth Underground City medical",
+      "year": "2000",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -3514,6 +3858,14 @@
       "name": "Quake Lab MLSI Monolithic Membrane Valve Patent Family",
       "year": "2000",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "deus-ex-2000-nano-augmentation-chamber",
+      "name": "Deus Ex (2000) - nano-augmentation chamber",
+      "year": "2000",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -3638,6 +3990,22 @@
       "name": "Lonza Nucleofector (classic 2b/2S cuvette platform)",
       "year": "2001",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "reynolds-chasm-city-boa-curve-medical",
+      "name": "Reynolds - Chasm City Boa Curve medical district",
+      "year": "2001",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "reynolds-chasm-city-mendicant-treatment",
+      "name": "Reynolds - Chasm City Mendicant treatment center",
+      "year": "2001",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -3950,6 +4318,14 @@
       "descendants": []
     },
     {
+      "id": "patbase-minesoft-patent-search",
+      "name": "PatBase (Minesoft) patent search platform",
+      "year": "2002",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "perkinelmer-labchip-gxii-ez-reader",
       "name": "PerkinElmer LabChip GXII Touch / EZ Reader",
       "year": "2002",
@@ -4078,6 +4454,14 @@
     {
       "id": "warhammer-40k-geneseed-culture-tank",
       "name": "Astartes Geneseed Culture Tank (Apothecarion Vat)",
+      "year": "2002",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wright-golden-age-noumenon-tank",
+      "name": "John C. Wright - Golden Age noumenon tank",
       "year": "2002",
       "corpus": "fictional",
       "ancestors": [],
@@ -4288,6 +4672,14 @@
       "descendants": []
     },
     {
+      "id": "capitalbio-lab-on-chip-patent-family",
+      "name": "CapitalBio lab-on-chip patent family",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "chen-2003-pegda-hydrogel-photopatterning",
       "name": "PEGDA hydrogel photopatterning in microfluidic channels",
       "year": "2003",
@@ -4351,6 +4743,22 @@
       ]
     },
     {
+      "id": "fujifilm-wako-pure-chemical-patents",
+      "name": "Fujifilm Wako Pure Chemical reagent patent family",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gea-psd-pro-spray-dryer",
+      "name": "GEA PSD-1 / PSD-Pro - Pharmaceutical spray dryers",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "geankoplis-transport-processes-textbook",
       "name": "Geankoplis - Transport Processes and Separation Process Principles (4th ed.)",
       "year": "2003",
@@ -4397,6 +4805,14 @@
       "name": "iGEM Foundation Distribution Kit",
       "year": "2003",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ilab-solutions-2025",
+      "name": "iLab Solutions - Core-facility scheduling and instrument billing extend",
+      "year": "2003",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -4619,6 +5035,14 @@
       "descendants": []
     },
     {
+      "id": "epica-dome-c-ice-core",
+      "name": "EPICA Dome C ice core - 800ka climate record",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fluidigm-patent-family-biomark-dynamic-array",
       "name": "Fluidigm BioMark Dynamic Array Chemistry Patent Family",
       "year": "2004",
@@ -4826,6 +5250,14 @@
       "descendants": []
     },
     {
+      "id": "himedia-labs-reagent-patent-family",
+      "name": "HiMedia Laboratories reagent patent family",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "insulet-omnipod-cartridge",
       "name": "Insulet OmniPod tubeless insulin pump",
       "year": "2005",
@@ -4938,6 +5370,14 @@
       "descendants": []
     },
     {
+      "id": "promega-qc-reagents-patent-family",
+      "name": "Promega QC reagents patent family",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "raytheon-aesa-microchannel-cooling",
       "name": "Raytheon AESA Radar T/R Module Microchannel Cooling",
       "year": "2005",
@@ -4948,6 +5388,22 @@
     {
       "id": "repligen-krosflo-tff",
       "name": "Repligen KrosFlo tangential flow filtration system",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "reynolds-pushing-ice-rockhopper-autodoc",
+      "name": "Reynolds - Pushing Ice Rockhopper autodoc",
+      "year": "2005",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "roper-industries-microfluidic-patent-family",
+      "name": "Roper Industries / Roper Technologies microfluidic patent family",
       "year": "2005",
       "corpus": "private",
       "ancestors": [],
@@ -5004,6 +5460,14 @@
       ]
     },
     {
+      "id": "tosoh-toyopearl-af-heparin-resin",
+      "name": "Tosoh Toyopearl AF-Heparin - Heparin affinity resin for AAV polishing",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "trauma-team-international",
       "name": "Trauma Center / Trauma Team (Atlus) automated surgical interfaces",
       "year": "2005",
@@ -5050,6 +5514,14 @@
       "name": "Tabeling 2005 — Introduction to Microfluidics (textbook)",
       "year": "2005",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "quake-4-strogg-conversion-line",
+      "name": "Quake 4 - Strogg conversion line",
+      "year": "2005",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -5106,6 +5578,14 @@
       "name": "Lab-on-a-chip: microfluidics in drug discovery",
       "year": "2006",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dune-last-ghola-production-line-brian-herbert",
+      "name": "Dune - Brian Herbert/KJA Last Ghola production line",
+      "year": "2006",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -5201,6 +5681,14 @@
       "name": "Thermoresponsive hydrogel microvalves",
       "year": "2006",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "promethean-tank-reborn-fluidic-creation",
+      "name": "Promethean: The Created - Tank-reborn fluidic creation",
+      "year": "2006",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -5314,7 +5802,9 @@
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "twentythreeandme-therapeutics-2024"
+      ]
     },
     {
       "id": "3m-petrifilm-plate-reader-vision",
@@ -5336,6 +5826,14 @@
         "advanced-liquid-logic-illumina-neoprep",
         "volta-labs-desktop"
       ]
+    },
+    {
+      "id": "amyris-bioengineered-fermentation",
+      "name": "Amyris Bioengineered Fermentation - Industrial yeast biorefinery",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "biomerieux-easymag-emag",
@@ -5404,8 +5902,27 @@
       "descendants": []
     },
     {
+      "id": "chromacon-contichrom-mcsgp-continuous",
+      "name": "ChromaCon Contichrom CUBE / MCSGP - Twin-column continuous chromatography",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "cytiva-akta-pure-continuous-pcc",
+        "sartorius-biosmb-octave-continuous-chromatography"
+      ]
+    },
+    {
       "id": "corning-advanced-flow-reactor-g1",
       "name": "Corning Advanced-Flow Reactor G1",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cytiva-avb-sepharose-aav-affinity",
+      "name": "Cytiva AVB Sepharose - AAV affinity capture resin",
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
@@ -5608,16 +6125,36 @@
       "descendants": []
     },
     {
-      "id": "roche-cobas-6000-modular-fluidics",
-      "name": "Roche Cobas 6000 Modular Analyzer Fluidic Track",
+      "id": "roche-cedex-bio-hires-analyzer",
+      "name": "Roche Cedex Bio / Bio HT / HiRes bioprocess analyzers",
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
     {
+      "id": "roche-cobas-6000-modular-fluidics",
+      "name": "Roche Cobas 6000 Modular Analyzer Fluidic Track",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "roche-cobas-6800-8800-extend"
+      ]
+    },
+    {
       "id": "roche-cobas-c-cartridge",
       "name": "Roche cobas c clinical chemistry analyzer cartridge",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "roche-cobas-6800-8800-extend"
+      ]
+    },
+    {
+      "id": "schott-toplyo-fiolax-vials",
+      "name": "SCHOTT TopLyo / FIOLAX / Type I Plus - Lyophilization-optimized vials",
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
@@ -5650,6 +6187,14 @@
     {
       "id": "syrris-flow-chemistry",
       "name": "Syrris Asia and Africa flow-chemistry platform",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "toshiba-tec-fluidic-patents",
+      "name": "Toshiba TEC inkjet/fluidic patent family",
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
@@ -5730,10 +6275,26 @@
       ]
     },
     {
+      "id": "bioshock-adam-extraction-little-sisters",
+      "name": "BioShock - ADAM extraction from Little Sisters",
+      "year": "2007",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "whitesides-patent-family-paper-microfluidics",
       "name": "Whitesides Paper Microfluidics Patent Family",
       "year": "2007",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "crysis-nanosuit-fluidic-actuation",
+      "name": "Crysis Nanosuit fluidic actuation",
+      "year": "2007",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -5770,10 +6331,26 @@
       "descendants": []
     },
     {
+      "id": "anpac-biomedical-cda-patent-family",
+      "name": "Anpac Biomedical CDA patent family",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "aseptic-technologies-crystal-closed-vial",
       "name": "Aseptic Technologies Crystal Closed Vial / AT-Closed Vial",
       "year": "2008",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "astar-ime-microfluidic-patent-family",
+      "name": "A*STAR Institute of Microelectronics microfluidic patent family",
+      "year": "2008",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -5952,6 +6529,14 @@
       "descendants": []
     },
     {
+      "id": "gerresheimer-gx-pharma-pfs-systems",
+      "name": "Gerresheimer Gx Pharma + Centor PFS - Pre-filled syringes and vials",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "iba-synthera",
       "name": "IBA Synthera + Synthera Extension Radiosynthesizer",
       "year": "2008",
@@ -5986,6 +6571,22 @@
     {
       "id": "intarcia-itca-650-osmotic-pump",
       "name": "Intarcia ITCA 650 Implantable Osmotic Mini-Pump (Exenatide)",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "izon-qnano-qviro-trps",
+      "name": "Izon Science qNano / qViro / Exoid - Tunable Resistive Pulse Sensing",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "konica-minolta-cc-450-patent-family",
+      "name": "Konica Minolta CC-450 clinical chemistry patent family",
       "year": "2008",
       "corpus": "private",
       "ancestors": [],
@@ -6050,6 +6651,14 @@
     {
       "id": "nasa-solid-signs-of-life-detector",
       "name": "SOLID (Signs Of Life Detector) Antibody Microarray Platform",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "neem-greenland-ice-core",
+      "name": "NEEM Greenland ice-core drilling and microfluidic CFA",
       "year": "2008",
       "corpus": "academic",
       "ancestors": [],
@@ -6141,6 +6750,14 @@
       "descendants": []
     },
     {
+      "id": "reynolds-house-of-suns-gentian-medical",
+      "name": "Reynolds - House of Suns Gentian Line medical",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "romer-labs-fluoroquant-mycotoxin-quant",
       "name": "Romer Labs FluoroQuant Mycotoxin Quantitation System",
       "year": "2008",
@@ -6159,6 +6776,14 @@
     {
       "id": "siemens-rapidpoint-500-blood-gas-cartridge",
       "name": "Siemens RAPIDPoint 500 Blood Gas Cartridge",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "steep-hill-cannabis-testing",
+      "name": "Steep Hill Labs - Cannabis potency and contaminant testing",
       "year": "2008",
       "corpus": "private",
       "ancestors": [],
@@ -6199,6 +6824,14 @@
     {
       "id": "thermofisher-magmax-extraction",
       "name": "Thermo Fisher MagMAX Magnetic Bead Extraction System",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tosoh-aia-360-1800-immunoassay-patent-family",
+      "name": "Tosoh AIA-360/1800 immunoassay patent family",
       "year": "2008",
       "corpus": "private",
       "ancestors": [],
@@ -6267,6 +6900,14 @@
       "name": "Theranos Capillary Blood Microsampling Patent",
       "year": "2008",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "witcher-school-mutagen-variants",
+      "name": "Witcher schools (Wolf/Cat/Griffin/Manticore/Bear/Viper) mutagen variants",
+      "year": "2008",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -6593,8 +7234,24 @@
       "descendants": []
     },
     {
+      "id": "pall-chromasorb-membrane-chromatography",
+      "name": "Pall ChromaSorb single-use Q-membrane chromatography",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "picarro-crds-gas-inlet",
       "name": "Picarro Cavity Ring-Down Spectrometer Microfluidic Gas Inlet System",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "premas-biotech-patent-family",
+      "name": "Premas Biotech patent family",
       "year": "2009",
       "corpus": "private",
       "ancestors": [],
@@ -6622,7 +7279,9 @@
       "year": "2009",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "roche-cobas-liat-strep-a"
+      ]
     },
     {
       "id": "roche-cobas-u-411-urinalysis-strip-fluidics",
@@ -6696,6 +7355,7 @@
       "ancestors": [],
       "descendants": [
         "fluidigm-helios-mass-cytometry",
+        "standard-biotools-aria-hyperion-xti-2",
         "standard-biotools-hyperion-xti"
       ]
     },
@@ -6828,6 +7488,14 @@
       "descendants": []
     },
     {
+      "id": "astar-bti-bioprocessing-patent-family",
+      "name": "A*STAR Bioprocessing Technology Institute patent family",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "aurolab-vial-filling-microfluidic",
       "name": "Aurolab Small-Volume Pharmaceutical Vial Filling Microfluidic Dispenser",
       "year": "2010",
@@ -6849,7 +7517,9 @@
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "bd-veritor-plus-2024"
+      ]
     },
     {
       "id": "berkeley-lights-beacon-oet-patent-family",
@@ -6864,6 +7534,14 @@
       "name": "Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.)",
       "year": "2010",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bgi-group-patent-portfolio-overview",
+      "name": "BGI Group patent portfolio overview (10k+ filings)",
+      "year": "2010",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -6968,6 +7646,14 @@
       "descendants": []
     },
     {
+      "id": "concrete-biosciences-synthetic-genomics",
+      "name": "Synthetic Genomics / Viridos - Algal biofuel cell engineering",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "corning-advanced-flow-reactor-g3",
       "name": "Corning Advanced-Flow Reactor G3 (production-scale)",
       "year": "2010",
@@ -7031,7 +7717,9 @@
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "diasorin-liaison-xl-2024"
+      ]
     },
     {
       "id": "dna-genotek-oracollect-dna-pediatric",
@@ -7130,6 +7818,14 @@
       "descendants": []
     },
     {
+      "id": "hitachi-aloka-ultrasound-fluidic-patents",
+      "name": "Hitachi Aloka ultrasound-fluidic patent family",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "huh-2010-lung-on-chip",
       "name": "Lung-on-a-chip",
       "year": "2010",
@@ -7147,6 +7843,14 @@
         "kim-ingber-2012-gut-on-chip",
         "organoid-on-chip-clevers-2020"
       ]
+    },
+    {
+      "id": "icmr-translational-research-patent-family",
+      "name": "Indian Council of Medical Research translational research patent family",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "idexx-procyte-dx-veterinary-hematology",
@@ -7251,6 +7955,22 @@
       "descendants": []
     },
     {
+      "id": "mowi-genomic-prep",
+      "name": "Mowi (Marine Harvest) salmon genomic preparation cassette",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nus-mechano-biology-institute-patent-family",
+      "name": "NUS Mechano-Biology Institute microfluidic patent family",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "openpcr-thermal-cycler",
       "name": "OpenPCR open-source thermal cycler",
       "year": "2010",
@@ -7277,6 +7997,14 @@
     {
       "id": "pall-icellis-fixed-bed",
       "name": "Pall iCellis Fixed-Bed Bioreactor (Nano / 500)",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "particle-metrix-zetaview-nta",
+      "name": "Particle Metrix ZetaView - Nanoparticle tracking + zeta potential",
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
@@ -7333,7 +8061,9 @@
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "quidel-sofia-2-lumiradx-2024"
+      ]
     },
     {
       "id": "rajaniemi-quantum-thief-gevulot-biology",
@@ -7383,7 +8113,9 @@
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "sartorius-biosmb-octave-continuous-chromatography"
+      ]
     },
     {
       "id": "sartorius-biowelder-tc",
@@ -7396,6 +8128,14 @@
     {
       "id": "sartorius-flexact-skid",
       "name": "Sartorius FlexAct Single-Use Process Skid",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sc-labs-cannabis-testing",
+      "name": "SC Labs - California cannabis testing infrastructure",
       "year": "2010",
       "corpus": "private",
       "ancestors": [],
@@ -7566,6 +8306,14 @@
       "descendants": []
     },
     {
+      "id": "bioshock-2-big-daddy-bonding",
+      "name": "BioShock 2 - Big Daddy/Little Sister fluidic bonding",
+      "year": "2010",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mark-2010-microfluidic-platforms-review",
       "name": "Mark, Haeberle, Roth, von Stetten & Zengerle 2010 — Microfluidic lab-on-a-chip platforms",
       "year": "2010",
@@ -7667,7 +8415,9 @@
       "year": "2011",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "bd-veritor-plus-2024"
+      ]
     },
     {
       "id": "beckman-coulter-au5800-cuvette-wheel",
@@ -7839,10 +8589,42 @@
       "descendants": []
     },
     {
+      "id": "sysmex-xn-series-hematology-patent-family",
+      "name": "Sysmex XN-series hematology analyzer patent family",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "weir-martian-medical-improvised",
+      "name": "Weir - The Martian improvised medical fluidics",
+      "year": "2011",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wright-count-to-a-trillion-cryosleep",
+      "name": "John C. Wright - Count to a Trillion cryosleep fluidics",
+      "year": "2011",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "microsemi-csac-sa45s",
       "name": "Microsemi SA.45s Chip-Scale Atomic Clock (CSAC)",
       "year": "2011",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "crysis-hargreave-rasch-labs",
+      "name": "Crysis - Hargreave-Rasch BioChemical laboratories",
+      "year": "2011",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -7863,6 +8645,14 @@
       "descendants": []
     },
     {
+      "id": "deus-ex-hr-limb-clinic",
+      "name": "Deus Ex: Human Revolution - LIMB clinic",
+      "year": "2011",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "inscopix-nvista-miniscope",
       "name": "Inscopix nVista Head-Mounted Miniature Calcium-Imaging Microscope",
       "year": "2011",
@@ -7874,6 +8664,14 @@
       "id": "biorad-quantalife-acquisition-2011",
       "name": "Bio-Rad Acquisition of QuantaLife 2011 (QX200 ddPCR Origin)",
       "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "achira-labs-paper-microfluidics-patent-family",
+      "name": "Achira Labs paper microfluidics patent family",
+      "year": "2012",
       "corpus": "private",
       "ancestors": [],
       "descendants": []
@@ -7903,6 +8701,14 @@
       "descendants": []
     },
     {
+      "id": "astar-sbic-bioimaging-patent-family",
+      "name": "A*STAR Singapore Bioimaging Consortium patent family",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "biobuilder-educational-foundation-kits",
       "name": "BioBuilder Educational Foundation Microfluidic Lab Kits",
       "year": "2012",
@@ -7913,6 +8719,14 @@
     {
       "id": "biomerieux-vidas-salmonella-easy",
       "name": "bioMérieux VIDAS UP Salmonella (SPT) Phage Recombinant Assay",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bioptic-taiwan-ce-patent-family",
+      "name": "Bioptic (Taiwan) capillary electrophoresis patent family",
       "year": "2012",
       "corpus": "private",
       "ancestors": [],
@@ -7931,6 +8745,14 @@
       "name": "Blood-brain barrier-on-chip",
       "year": "2012",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "brin-existence-medical-fluidics",
+      "name": "Brin - Existence biofluidic medical",
+      "year": "2012",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -8126,6 +8948,14 @@
       "descendants": []
     },
     {
+      "id": "macrogen-sequencing-prep-patent-family",
+      "name": "Macrogen sequencing prep patent family",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mass-effect-genophage-cure",
       "name": "Mass Effect 3 Genophage cure synthesis platform",
       "year": "2012",
@@ -8162,12 +8992,22 @@
       "descendants": []
     },
     {
+      "id": "ntu-centre-lifesciences-patent-family",
+      "name": "NTU Centre for Lifesciences microfluidic patent family",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "pearce-most-open-hardware-suite",
       "name": "Pearce Lab MOST Open Scientific Hardware Suite",
       "year": "2012",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pearce-lab-2024-most-suite"
+      ]
     },
     {
       "id": "psycho-pass-sibyl-brain-immersion",
@@ -8301,6 +9141,22 @@
       "descendants": []
     },
     {
+      "id": "dishonored-sokolov-elixir",
+      "name": "Dishonored - Sokolovs Elixir",
+      "year": "2012",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dishonored-sokolov-laboratory",
+      "name": "Dishonored - Sokolovs alchemical laboratory",
+      "year": "2012",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "abec-cssb-custom-stainless-bioreactor",
       "name": "ABEC Custom Single-use Bioreactor (CSR) / Custom Stainless Steel Bioreactor (CSSB)",
       "year": "2013",
@@ -8335,6 +9191,14 @@
       "descendants": []
     },
     {
+      "id": "beehex-pizza-printer",
+      "name": "BeeHex Chef 3D pizza printer (NASA spinout)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bhushan-2013-liver-on-chip",
       "name": "Liver hepatocyte sandwich-culture on chip",
       "year": "2013",
@@ -8359,6 +9223,16 @@
       "descendants": []
     },
     {
+      "id": "cytiva-akta-pure-continuous-pcc",
+      "name": "Cytiva AKTA Pure with PCC (periodic counter-current) module",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [
+        "chromacon-contichrom-mcsgp-continuous"
+      ],
+      "descendants": []
+    },
+    {
       "id": "dako-omnis-stainer",
       "name": "Dako Omnis IHC / ISH stainer",
       "year": "2013",
@@ -8377,12 +9251,22 @@
       ]
     },
     {
+      "id": "dna-link-clinical-genetics-patent-family",
+      "name": "DNA Link clinical genetics patent family",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dropbot-open-source-dmf",
       "name": "DropBot open-source digital microfluidics platform",
       "year": "2013",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "dropbot-v4-v5"
+      ]
     },
     {
       "id": "elysium-cure-all-medbay",
@@ -8515,6 +9399,14 @@
       "descendants": []
     },
     {
+      "id": "numenera-cypher-catalog-fluidics",
+      "name": "Numenera - cypher catalog fluidic cyphers",
+      "year": "2013",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "openspim-microscope",
       "name": "OpenSPIM light-sheet microscope",
       "year": "2013",
@@ -8540,6 +9432,14 @@
     {
       "id": "qiagen-qiacube-ht-extraction",
       "name": "QIAGEN QIAcube HT Sample Prep",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "recursion-pharma-extend",
+      "name": "Recursion Pharmaceuticals OS - Cell painting + foundation model (extend)",
       "year": "2013",
       "corpus": "private",
       "ancestors": [],
@@ -8613,10 +9513,26 @@
       "descendants": []
     },
     {
+      "id": "sysmex-countstar-cell-analyzer",
+      "name": "Sysmex / Alit CountStar cell counter (Castor, Rigel, Mira)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "thermo-sorvall-lynx-6000",
       "name": "Thermo Fisher Sorvall LYNX 6000 superspeed centrifuge",
       "year": "2013",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wais-divide-ice-core",
+      "name": "WAIS Divide ice core - high-resolution Antarctic Holocene",
+      "year": "2013",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -8705,6 +9621,14 @@
       "descendants": []
     },
     {
+      "id": "bioshock-burial-at-sea-medical",
+      "name": "BioShock Infinite: Burial at Sea - medical fluidics",
+      "year": "2013",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "3d-bioprinting-solutions-fabion",
       "name": "3D Bioprinting Solutions FABION Multi-Material Bioprinter",
       "year": "2014",
@@ -8728,7 +9652,9 @@
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "abbott-id-now-2024-update"
+      ]
     },
     {
       "id": "advanced-solutions-bioassemblybot",
@@ -8795,6 +9721,14 @@
       "descendants": []
     },
     {
+      "id": "astar-gis-cartridge-patent-family",
+      "name": "A*STAR Genome Institute of Singapore cartridge patent family",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "atomo-diagnostics-hiv-finger-stick",
       "name": "Atomo Diagnostics HIV finger-stick rapid test",
       "year": "2014",
@@ -8853,6 +9787,14 @@
       ]
     },
     {
+      "id": "cermaq-salmon-genomics",
+      "name": "Cermaq salmon genomics QC cassette",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "chambers-wayfarer-medbay",
       "name": "Becky Chambers Wayfarer medbay",
       "year": "2014",
@@ -8900,6 +9842,14 @@
       "ancestors": [
         "notomi-2000-loop-mediated-isothermal"
       ],
+      "descendants": []
+    },
+    {
+      "id": "curology-skincare",
+      "name": "Curology compounded prescription skincare",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -8986,6 +9936,14 @@
       "descendants": []
     },
     {
+      "id": "emerald-cloud-lab-ecl",
+      "name": "Emerald Cloud Lab (ECL) - User-programmable cloud laboratory",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "emulate-organ-on-chip-platform",
       "name": "Emulate Inc. Organ-Chip platform",
       "year": "2014",
@@ -9058,6 +10016,18 @@
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
+      "descendants": [
+        "ginkgo-bioworks-foundry-deep-extend"
+      ]
+    },
+    {
+      "id": "ginkgo-bioworks-foundry-deep-extend",
+      "name": "Ginkgo Bioworks Foundry (deep automation extend) - Bioworks 1-6",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "ginkgo-bioworks-foundry"
+      ],
       "descendants": []
     },
     {
@@ -9076,7 +10046,8 @@
       "ancestors": [],
       "descendants": [
         "akoya-codex-athena",
-        "akoya-phenocycler-fusion"
+        "akoya-phenocycler-fusion",
+        "akoya-phenocycler-fusion-2"
       ]
     },
     {
@@ -9282,8 +10253,24 @@
       "descendants": []
     },
     {
+      "id": "mitra-biotech-tumorgraft-patent-family",
+      "name": "Mitra Biotech TumorGRAFT patent family",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mutoh-valuejet-1638uh-uv-led-printer",
       "name": "Mutoh ValueJet 1638UH / 1638UR UV-LED Inkjet Printer",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "natural-machines-foodini",
+      "name": "Natural Machines Foodini countertop food printer",
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
@@ -9316,6 +10303,14 @@
     {
       "id": "nucleix-bladder-epicheck-methylation-patent",
       "name": "Nucleix Bladder EpiCheck DNA Methylation Cartridge Patent Family",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nucleix-patent-extensions",
+      "name": "Nucleix patent family extensions",
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
@@ -9398,7 +10393,9 @@
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "quidel-sofia-2-lumiradx-2024"
+      ]
     },
     {
       "id": "ricoh-mh5440-stainless-recirculating-printhead",
@@ -9414,6 +10411,17 @@
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "roche-cobas-6800-8800-extend",
+      "name": "Roche cobas 6800 / 8800 - High-throughput central-lab molecular extend",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "roche-cobas-6000-modular-fluidics",
+        "roche-cobas-c-cartridge"
+      ],
       "descendants": []
     },
     {
@@ -9441,6 +10449,22 @@
       "descendants": []
     },
     {
+      "id": "samsung-bioepis-patent-family",
+      "name": "Samsung Bioepis biologics patent family",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "samsung-genome-center-patent-family",
+      "name": "Samsung Genome Center patent family",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sartorius-ambr-250-modular-bioreactor",
       "name": "Sartorius ambr 250 Modular Single-Use Bioreactor",
       "year": "2014",
@@ -9451,6 +10475,30 @@
     {
       "id": "sartorius-flexsafe-rm",
       "name": "Sartorius Flexsafe RM single-use rocking bag and BIOSTAT RM",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "seegene-allplex-patent-extensions",
+      "name": "Seegene Allplex patent family extensions",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "shimadzu-lcms-8060-nexera-uc-patent-family",
+      "name": "Shimadzu LCMS-8060 / Nexera UC patent family",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sight-diagnostics-olo-patent-family",
+      "name": "Sight Diagnostics OLO patent family",
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
@@ -9472,6 +10520,22 @@
       "ancestors": [
         "di-carlo-2007-inertial-microfluidics"
       ],
+      "descendants": []
+    },
+    {
+      "id": "strange-predation-autodoc-cyphers",
+      "name": "The Strange / Predation - autodoc cyphers",
+      "year": "2014",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "strateos-emerald-cloud-lab",
+      "name": "Strateos cloud lab platform (acquired Transcriptic)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -9609,6 +10673,14 @@
       "descendants": []
     },
     {
+      "id": "wipo-pearl-terminology",
+      "name": "WIPO Pearl multilingual patent terminology",
+      "year": "2014",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "wissard-salsa-subglacial-microbe-sampler",
       "name": "WISSARD / SALSA Subglacial Antarctic Microbial Samplers",
       "year": "2014",
@@ -9637,6 +10709,14 @@
       "name": "Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor",
       "year": "2014",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "zymergen-ginkgo-acquired-foundry",
+      "name": "Zymergen Foundry (acquired by Ginkgo 2022)",
+      "year": "2014",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -9671,6 +10751,14 @@
       "name": "10x Genomics Chromium GEM-X Bead-Barcoding Patent Family",
       "year": "2014",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wolfenstein-tno-daat-yichud-medical",
+      "name": "Wolfenstein: The New Order - Daat Yichud medical fluidics",
+      "year": "2014",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -9728,7 +10816,9 @@
       "year": "2014",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pearce-lab-2024-most-suite"
+      ]
     },
     {
       "id": "whitesides-2014-cool-or-simple-cheap-editorial",
@@ -9744,7 +10834,9 @@
       "year": "2014",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pearce-lab-2024-most-suite"
+      ]
     },
     {
       "id": "advanced-liquid-logic-illumina-neoprep",
@@ -9886,6 +10978,14 @@
       "descendants": []
     },
     {
+      "id": "biaffin-patent-extensions",
+      "name": "BiAffin patent family extensions",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "black-hole-lab-foundry",
       "name": "Black Hole Lab academic microfluidics tooling",
       "year": "2015",
@@ -9904,6 +11004,14 @@
     {
       "id": "carbon-dls-clip-resin-printer",
       "name": "Carbon Digital Light Synthesis (DLS / CLIP) Resin 3D Printer",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "chr-hansen-fragcheck-phage-assay",
+      "name": "Chr. Hansen FRAGcheck phage detection assay",
       "year": "2015",
       "corpus": "private",
       "ancestors": [],
@@ -9975,6 +11083,14 @@
       "ancestors": [
         "standard-biotools-mass-cytometry-cytof"
       ],
+      "descendants": []
+    },
+    {
+      "id": "function-of-beauty-personalized",
+      "name": "Function of Beauty - Per-customer compounded hair and skin care",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -10103,6 +11219,14 @@
       "descendants": []
     },
     {
+      "id": "phylos-bioscience-cannabis-genotyping",
+      "name": "Phylos Bioscience Cannabis Galaxy and Sex ID assay",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "prosep-electrochemical-membrane-reactor",
       "name": "ProSep Electrochemical Membrane Reactor (EMR)",
       "year": "2015",
@@ -10176,6 +11300,14 @@
       "name": "Smithsonian Center for Conservation Genomics Microfluidic Workflow",
       "year": "2015",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "spectradyne-ncs1-ncs2-rps",
+      "name": "Spectradyne nCS1 / nCS2 - Microfluidic resistive pulse sensing",
+      "year": "2015",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -10260,6 +11392,14 @@
       "descendants": []
     },
     {
+      "id": "wuxi-nextcode-patent-family",
+      "name": "WuXi NextCODE / Genuity Science patent family",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "tenx-vs-bio-rad-litigation",
       "name": "10x Genomics vs Bio-Rad Patent Litigation (RainDance basis)",
       "year": "2015",
@@ -10272,6 +11412,14 @@
       "name": "Color Health Genomics Sample Collection Kit",
       "year": "2015",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "witcher-3-game-alchemy-station",
+      "name": "Witcher 3 in-game alchemy station crafting interface",
+      "year": "2015",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -10425,6 +11573,22 @@
       "descendants": []
     },
     {
+      "id": "burning-rock-biotech-patent-family",
+      "name": "Burning Rock Biotech patent family",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "carbfix-mineralization-iceland",
+      "name": "CarbFix CO2 mineralization in basalt, Hellisheidi Iceland",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "carolina-biological-microfluidic-teaching-kit",
       "name": "Carolina Biological Supply Microfluidic Teaching Kit (Lab-on-a-Chip Investigation)",
       "year": "2016",
@@ -10567,7 +11731,8 @@
       "corpus": "open",
       "ancestors": [],
       "descendants": [
-        "open-flexure-microfluidics-fork"
+        "open-flexure-microfluidics-fork",
+        "openflexure-v8-2024"
       ]
     },
     {
@@ -10575,6 +11740,14 @@
       "name": "Passengers (2016) Avalon autodoc medical pod",
       "year": "2016",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pg-olay-skin-advisor",
+      "name": "P and G Olay Skin Advisor AI dosing app",
+      "year": "2016",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -10639,6 +11812,14 @@
       "descendants": []
     },
     {
+      "id": "tade-thompson-rosewater-xenobiology",
+      "name": "Tade Thompson - Rosewater xenobiology fluidics",
+      "year": "2016",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "twist-bioscience-cellomics",
       "name": "Twist Bioscience Cell Engineering (Twist Cellomics)",
       "year": "2016",
@@ -10653,8 +11834,17 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": [
-        "twist-bioscience-cellomics-singlecell"
+        "twist-bioscience-cellomics-singlecell",
+        "twist-bioscience-foundry-cell-line"
       ]
+    },
+    {
+      "id": "unchained-labs-uncle-protein-stability",
+      "name": "Unchained Labs Uncle - Triple-detection protein stability screening",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "westworld-host-fluid-systems",
@@ -10737,12 +11927,22 @@
       "descendants": []
     },
     {
+      "id": "doom-2016-uac-medical-bay",
+      "name": "Doom (2016) - UAC Mars medical bay",
+      "year": "2016",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "zhang-pearce-2016-most-platform-instrument-ecosystem",
       "name": "MOST — Open-Source 3-D Platform for Low-Cost Scientific Instrument Ecosystem",
       "year": "2016",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pearce-lab-2024-most-suite"
+      ]
     },
     {
       "id": "iota-biosciences-neural-dust",
@@ -10753,10 +11953,26 @@
       "descendants": []
     },
     {
+      "id": "deus-ex-md-augmentation-chambers",
+      "name": "Deus Ex: Mankind Divided - augmentation chambers",
+      "year": "2016",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "berkeley-lights-beacon-optofluidic",
       "name": "Berkeley Lights Beacon (PhenomeX/Bruker)",
       "year": "2016",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dishonored-2-karnaca-alchemical-fluidics",
+      "name": "Dishonored 2 - Karnaca alchemical fluidics",
+      "year": "2016",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -10804,6 +12020,22 @@
       "descendants": []
     },
     {
+      "id": "aiforia-ai-pathology-platform",
+      "name": "Aiforia AI-pathology platform - Cloud H&E whole-slide analysis",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "asimov-design-cell-engineering",
+      "name": "Asimov Inc. - AI-guided cell line design platform",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bd-rhapsody-microwell",
       "name": "BD Rhapsody single-cell analysis system",
       "year": "2017",
@@ -10814,6 +12046,14 @@
     {
       "id": "beckman-coulter-dxh-900-flow-cell",
       "name": "Beckman Coulter DxH 900 Hematology VCSn Flow Cell",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "beeflow-hive-monitor",
+      "name": "BeeFlow honeybee hive monitoring and microbiome cartridge",
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
@@ -10832,6 +12072,14 @@
     {
       "id": "bico-bio-x-pneumatic-printhead-extended",
       "name": "BICO BIO X Pneumatic / Thermoplastic / Photocuring Printhead Family (extended)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "biobot-analytics-wastewater",
+      "name": "Biobot Analytics wastewater epidemiology cartridge",
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
@@ -10901,6 +12149,14 @@
       "ancestors": [
         "cepheid-genexpert-cartridge"
       ],
+      "descendants": []
+    },
+    {
+      "id": "climeworks-direct-air-capture",
+      "name": "Climeworks Direct Air Capture solid-sorbent module",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -11103,6 +12359,14 @@
       "descendants": []
     },
     {
+      "id": "jeol-jnm-eczl-nmr-patent-family",
+      "name": "JEOL JNM-ECZL NMR fluidic patent family",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kanakasabapathy-shafiee-2017-cellphone-fertility",
       "name": "Smartphone-based semen analysis (Kanakasabapathy 2017)",
       "year": "2017",
@@ -11115,6 +12379,14 @@
       "name": "Karius Test cfDNA Microbial Prep",
       "year": "2017",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kew-pollen-dna-metabarcoding",
+      "name": "Kew Royal Botanic Gardens pollen DNA metabarcoding extraction",
+      "year": "2017",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -11239,6 +12511,14 @@
       "descendants": []
     },
     {
+      "id": "modern-meadow-zoa-leather",
+      "name": "Modern Meadow Zoa biofabricated collagen leather",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mutoh-xpj-460prt-direct-to-garment",
       "name": "Mutoh XpertJet XPJ-460PRT Direct-to-Garment Printer",
       "year": "2017",
@@ -11291,6 +12571,14 @@
       "name": "Annalee Newitz Autonomous open-pharma piracy infrastructure",
       "year": "2017",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nordic-aquaculture-sea-lice-cartridge",
+      "name": "Nordic Aquaculture sea-lice cartridge detection system",
+      "year": "2017",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -11351,6 +12639,17 @@
       "descendants": []
     },
     {
+      "id": "sartorius-biosmb-octave-continuous-chromatography",
+      "name": "Sartorius BioSMB Octave - Multi-column continuous chromatography",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "chromacon-contichrom-mcsgp-continuous",
+        "sartorius-biosmb-continuous-chromatography"
+      ],
+      "descendants": []
+    },
+    {
       "id": "sd-biosensor-rapid-antigen",
       "name": "SD Biosensor STANDARD Q rapid antigen test",
       "year": "2017",
@@ -11358,6 +12657,14 @@
       "ancestors": [
         "orasure-quickflex-cartridge"
       ],
+      "descendants": []
+    },
+    {
+      "id": "shiseido-humanfit-vision",
+      "name": "Shiseido HumanFit Vision personalized cosmetics platform",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -11371,6 +12678,14 @@
     {
       "id": "siemens-atellica-im-1300-immunoassay",
       "name": "Siemens Atellica IM 1300 Immunoassay Analyzer Acridinium Cuvette Module",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "smith-root-efishery-edna-sampler",
+      "name": "Smith-Root eDNA Sampler (eFishery)",
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
@@ -11593,6 +12908,14 @@
       "descendants": []
     },
     {
+      "id": "dishonored-death-of-the-outsider-alchemy",
+      "name": "Death of the Outsider - alchemical fluidics",
+      "year": "2017",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "natera-signatera-collection-cartridge",
       "name": "Natera Signatera ctDNA Collection Tube",
       "year": "2017",
@@ -11657,8 +12980,24 @@
       "descendants": []
     },
     {
+      "id": "aleph-farms-cultured-steak",
+      "name": "Aleph Farms Aleph Cuts cultured-meat steak",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "asahi-kasei-planova-s20n",
       "name": "Asahi Kasei Planova S20N continuous virus filter",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "atai-life-sciences-platform",
+      "name": "atai Life Sciences psychedelic platform companies",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -11683,6 +13022,14 @@
     {
       "id": "bruker-avance-neo-process-nmr",
       "name": "Bruker Avance Neo / Fourier 80 In-Line NMR PAT",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "carbon-engineering-dac-squamish",
+      "name": "Carbon Engineering KOH-based DAC, Squamish BC",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -11715,6 +13062,14 @@
       "name": "Chi.Bio open-hardware bioreactor",
       "year": "2018",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "compass-pathways-comp360",
+      "name": "Compass Pathways COMP360 psilocybin therapy",
+      "year": "2018",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -11763,6 +13118,14 @@
       "name": "USDA Forensics Wildlife eDNA Marine Cartridge Workflow",
       "year": "2018",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "front-range-biosciences-cannabis-tc",
+      "name": "Front Range Biosciences clean-stock cannabis tissue culture",
+      "year": "2018",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -11891,6 +13254,14 @@
     {
       "id": "landa-w10-nanographic-web-press",
       "name": "Landa W10 Nanographic Web Press",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lg-chem-chip-patent-extensions",
+      "name": "LG Chem microfluidic chip patent extensions",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -12083,6 +13454,14 @@
       "descendants": []
     },
     {
+      "id": "owkin-biotech-multimodal-ai",
+      "name": "Owkin federated multimodal AI biomarker platform",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "parse-biosciences-evercode-splitseq-patent-family",
       "name": "Parse Biosciences Evercode Split-Pool Patent Family",
       "year": "2018",
@@ -12120,6 +13499,16 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "roche-cobas-liat-strep-a",
+      "name": "Roche cobas Liat Strep A cartridge",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "roche-cobas-liat-cartridge"
+      ],
       "descendants": []
     },
     {
@@ -12179,6 +13568,14 @@
       "descendants": []
     },
     {
+      "id": "sysmex-cn-series-coagulation-patent-family",
+      "name": "Sysmex CN-series coagulation analyzer patent family",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "t2-biosystems-t2bacteria-mr-panel",
       "name": "T2 Biosystems T2Bacteria magnetic resonance panel",
       "year": "2018",
@@ -12215,6 +13612,34 @@
     {
       "id": "trace-genomics-soil-microbiome-cartridge",
       "name": "Trace Genomics Soil Microbiome Microfluidic Cartridge",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "twentythreeandme-therapeutics-2024",
+      "name": "23andMe Therapeutics drug-discovery pipeline 2024",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "23andme-saliva-collection-tube"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "twist-bioscience-foundry-cell-line",
+      "name": "Twist Bioscience Biopharma Foundry - Antibody discovery and cell-line",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "twist-bioscience-silicon-oligo-synthesis"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "unchained-labs-stunner-protein-analytics",
+      "name": "Unchained Labs Stunner - UV/Vis + DLS + SLS in 2-uL drop",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -12275,7 +13700,8 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": [
-        "visby-medical-sexual-health-test-cartridge"
+        "visby-medical-sexual-health-test-cartridge",
+        "visby-medical-sti-2024"
       ]
     },
     {
@@ -12283,6 +13709,22 @@
       "name": "Watson-Marlow AsepticSU sterile single-use connector and weldable bag system",
       "year": "2018",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wegenix-microfluidic-chip-patent-family",
+      "name": "WeGenix microfluidic chip patent family",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "whisky-provenance-dna-tracing",
+      "name": "Whisky barley provenance DNA-tracing platform",
+      "year": "2018",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -12555,6 +13997,14 @@
       "descendants": []
     },
     {
+      "id": "aoac-smpr-2019-cannabis-method",
+      "name": "AOAC SMPR 2019.001 - Cannabis potency standardization method",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "azenta-brooks-cartridges",
       "name": "Azenta (Brooks) GENEWIZ NGS sample-prep cartridges",
       "year": "2019",
@@ -12581,6 +14031,14 @@
     {
       "id": "bico-bio-x6-six-tool-bioprinter",
       "name": "BICO BIO X6 Six-Tool Bioprinter",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bio-techne-ligatrap-lt-aav",
+      "name": "Bio-Techne LigaTrap LT-AAV / LT-Lenti - Synthetic AAV/lentivirus affinity",
       "year": "2019",
       "corpus": "private",
       "ancestors": [],
@@ -12651,6 +14109,14 @@
       "descendants": []
     },
     {
+      "id": "foss-spiritscan-distilled-qc",
+      "name": "Foss SpiritScan distilled-spirits NIR analyzer",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "future-chemistry-flowsyn-electrochemistry",
       "name": "Future Chemistry FlowSyn ECs Electrochemistry Reactor",
       "year": "2019",
@@ -12699,6 +14165,14 @@
       "descendants": []
     },
     {
+      "id": "ima-lynx-continuous-lyophilizer",
+      "name": "IMA Lynx - Continuous freeze-drying for biopharma",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "inscripta-onyx-genome-engineering",
       "name": "Inscripta Onyx Digital Genome Engineering Platform",
       "year": "2019",
@@ -12741,6 +14215,14 @@
       "ancestors": [
         "bgi-mgi-dnbseq-flowcell"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mgi-tech-dnbseq-family-patent-extensions",
+      "name": "MGI Tech DNBSEQ family patent extensions",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -12813,6 +14295,14 @@
       "descendants": []
     },
     {
+      "id": "singleron-matrix-patent-extensions",
+      "name": "Singleron Matrix patent family extensions",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "syntegon-versynta-flexible-aseptic",
       "name": "Syntegon Versynta FFP / Combotec aseptic filling line",
       "year": "2019",
@@ -12844,6 +14334,14 @@
       "ancestors": [
         "thermofisher-kingfisher-magnetic-bead-handler"
       ],
+      "descendants": []
+    },
+    {
+      "id": "verdox-electrochemical-dac",
+      "name": "Verdox electrochemical direct air capture",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -12955,6 +14453,14 @@
       "name": "Kumasi Hive BioLab — Ghanaian Open Bio-Hardware Hub",
       "year": "2019",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "chambers-to-be-taught-xenobiology-fluidics",
+      "name": "Becky Chambers - To Be Taught If Fortunate xenobiology fluidics",
+      "year": "2019",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -13079,6 +14585,14 @@
       "descendants": []
     },
     {
+      "id": "cdc-nwss-wastewater-prep",
+      "name": "CDC National Wastewater Surveillance System (NWSS) standardized prep",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cellink-bionova-stereolithography-bioprinter",
       "name": "CELLINK BIONOVA Digital Light Processing Bioprinter",
       "year": "2020",
@@ -13175,6 +14689,14 @@
       "descendants": []
     },
     {
+      "id": "liu-cixin-hold-up-the-sky-stories",
+      "name": "Liu Cixin - Hold Up the Sky stories biofluidics",
+      "year": "2020",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "liu-fan-2020-dbit-seq",
       "name": "DBiT-seq spatial multi-omics on chip",
       "year": "2020",
@@ -13195,6 +14717,14 @@
       "descendants": []
     },
     {
+      "id": "loreal-perso-skincare",
+      "name": "L Oreal Perso / Custom D.O.S.E. personalized skincare dispenser",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "lucira-home-covid-test",
       "name": "Lucira Health Check It home COVID-19 isothermal molecular test",
       "year": "2020",
@@ -13203,7 +14733,8 @@
         "notomi-2000-loop-mediated-isothermal"
       ],
       "descendants": [
-        "lucira-check-it-flu-covid-test"
+        "lucira-check-it-flu-covid-test",
+        "lucira-flu-covid-otc-2024"
       ]
     },
     {
@@ -13219,6 +14750,14 @@
       "name": "Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry)",
       "year": "2020",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mindmed-mm120-lsd",
+      "name": "MindMed MM120 - Pharmaceutical LSD for generalized anxiety",
+      "year": "2020",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -13249,6 +14788,14 @@
     {
       "id": "namocell-pala-single-cell-dispenser",
       "name": "Namocell Pala Single Cell Dispenser",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "numinus-wellness-psilocybin-extraction",
+      "name": "Numinus Wellness - Natural psilocybin extraction and clinical service",
       "year": "2020",
       "corpus": "private",
       "ancestors": [],
@@ -13332,6 +14879,14 @@
       "descendants": []
     },
     {
+      "id": "redefine-meat-3d-meat",
+      "name": "Redefine Meat New-Meat 3D-printed plant alternative",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "resilience-cgt-manufacturing-platform",
       "name": "Resilience CGT Manufacturing Platform",
       "year": "2020",
@@ -13381,7 +14936,9 @@
       "year": "2020",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "squid-cephla-2024"
+      ]
     },
     {
       "id": "sysmex-cn-3000-coag-analyzer",
@@ -13444,6 +15001,14 @@
       "name": "Upload (Amazon) afterlife head-scanning fluid system",
       "year": "2020",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "verily-wastewater-surveillance",
+      "name": "Verily Wastewater Surveillance program",
+      "year": "2020",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -13592,6 +15157,14 @@
       "descendants": []
     },
     {
+      "id": "tchaikovsky-doors-of-eden-medical",
+      "name": "Tchaikovsky - Doors of Eden parallel-species biofluid",
+      "year": "2020",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "open-jip-chlorophyll-fluorometer",
       "name": "Open-JIP — Open Chlorophyll Fluorometer (OJIP transient)",
       "year": "2020",
@@ -13661,7 +15234,9 @@
       "year": "2020",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "openflexure-v8-2024"
+      ]
     },
     {
       "id": "moderna-mrna-continuous-process",
@@ -13677,7 +15252,9 @@
       "year": "2020",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "squid-cephla-2024"
+      ]
     },
     {
       "id": "abv-atomic-hops-quant-chip",
@@ -13740,6 +15317,14 @@
     {
       "id": "caribou-cas12a-editing-mfg-cartridge",
       "name": "Caribou Bio Cas12a editing manufacturing cartridge",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cybin-psilocybin-formulation",
+      "name": "Cybin Inc. CYB003 - Deuterated psilocin oral formulation",
       "year": "2021",
       "corpus": "private",
       "ancestors": [],
@@ -13996,6 +15581,14 @@
       "descendants": []
     },
     {
+      "id": "weir-project-hail-mary-coma-slick",
+      "name": "Weir - Project Hail Mary coma-slick biofluidic care",
+      "year": "2021",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "vizgen-merscope",
       "name": "Vizgen MERSCOPE platform",
       "year": "2021",
@@ -14003,7 +15596,8 @@
       "ancestors": [],
       "descendants": [
         "vizgen-merfish-2-chemistry",
-        "vizgen-merscope-ultra"
+        "vizgen-merscope-ultra",
+        "vizgen-merscope-ultra-500plex-2024"
       ]
     },
     {
@@ -14022,7 +15616,9 @@
       "ancestors": [
         "visby-medical-cartridge"
       ],
-      "descendants": []
+      "descendants": [
+        "visby-medical-sti-2024"
+      ]
     },
     {
       "id": "gatorade-gx-sweat-patch",
@@ -14054,7 +15650,9 @@
       "year": "2021",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pioreactor-v2-bioreactor"
+      ]
     },
     {
       "id": "nix-hydration-biosensor",
@@ -14070,7 +15668,9 @@
       "year": "2021",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "detect-inc-flu-covid-2024"
+      ]
     },
     {
       "id": "dna-script-storage-extension",
@@ -14118,7 +15718,9 @@
       "year": "2022",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "cellares-cell-shuttle-2-0"
+      ]
     },
     {
       "id": "cellipont-bioservices-cdmo",
@@ -14138,6 +15740,8 @@
         "staahl-2016-spatial-transcriptomics"
       ],
       "descendants": [
+        "curio-bio-2024-update",
+        "curio-trekker-2024",
         "curio-trekker-spatial-celltracking"
       ]
     },
@@ -14196,6 +15800,14 @@
       ]
     },
     {
+      "id": "heirloom-cdr-mineral",
+      "name": "Heirloom Carbon CDR - Calcium-loop direct air capture",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "inventia-rastrum-ipsc-variant",
       "name": "Inventia Life Science RASTRUM iPSC Bioprinting Variant",
       "year": "2022",
@@ -14237,7 +15849,9 @@
       "year": "2022",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "multiply-labs-cgt-2024"
+      ]
     },
     {
       "id": "nanostring-cosmx",
@@ -14419,7 +16033,9 @@
       "year": "2022",
       "corpus": "open",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "openflexure-v8-2024"
+      ]
     },
     {
       "id": "tenx-vs-resolve-bioscience-litigation",
@@ -14637,6 +16253,14 @@
       "descendants": []
     },
     {
+      "id": "open-ob1-elveflow-clone",
+      "name": "Open OB1 - Open-source pressure controller (Elveflow OB1 clone)",
+      "year": "2023",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "openraman-starter-edition-2023",
       "name": "OpenRAMAN Starter Edition",
       "year": "2023",
@@ -14785,7 +16409,9 @@
       "ancestors": [
         "lucira-home-covid-test"
       ],
-      "descendants": []
+      "descendants": [
+        "lucira-flu-covid-otc-2024"
+      ]
     },
     {
       "id": "berkeley-lights-phenomex-rename-2023",
@@ -14859,7 +16485,9 @@
       "ancestors": [
         "10x-genomics-visium-hd"
       ],
-      "descendants": []
+      "descendants": [
+        "tenx-visium-hd-cytassist-2"
+      ]
     },
     {
       "id": "10x-genomics-visium-hd",
@@ -14875,6 +16503,16 @@
       ]
     },
     {
+      "id": "abbott-id-now-2024-update",
+      "name": "Abbott ID NOW 2024 expanded respiratory panel",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "abbott-id-now-isothermal-cartridge"
+      ],
+      "descendants": []
+    },
+    {
       "id": "akoya-codex-athena",
       "name": "Akoya CODEX Athena (PhenoImager Athena)",
       "year": "2024",
@@ -14884,7 +16522,8 @@
         "goldman-2014-codex-akoya"
       ],
       "descendants": [
-        "akoya-codex-athena-cytassist-2024"
+        "akoya-codex-athena-cytassist-2024",
+        "akoya-phenocycler-fusion-2"
       ]
     },
     {
@@ -14899,12 +16538,102 @@
       "descendants": []
     },
     {
+      "id": "akoya-phenocycler-fusion-2",
+      "name": "Akoya PhenoCycler-Fusion 2.0 - Spatial proteomics 2024",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "akoya-codex-athena",
+        "goldman-2014-codex-akoya"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bd-veritor-plus-2024",
+      "name": "BD Veritor Plus 2024 - Connected respiratory cartridge",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "bd-veritor-cartridge",
+        "bd-veritor-rapid-test"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "cellares-cell-shuttle-2-0",
+      "name": "Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "cellares-cell-shuttle"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "curio-bio-2024-update",
+      "name": "Curio Bio 2024 - Spatial transcriptomics update",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "curio-bio-seeker-slideseq",
+        "curio-trekker-2024",
+        "curio-trekker-spatial-celltracking"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "curio-trekker-2024",
+      "name": "Curio Trekker - Pooled-screen spatial barcoding 2024 extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "curio-bio-seeker-slideseq",
+        "curio-trekker-spatial-celltracking"
+      ],
+      "descendants": [
+        "curio-bio-2024-update"
+      ]
+    },
+    {
       "id": "curio-trekker-spatial-celltracking",
       "name": "Curio Trekker spatial cell-tracking platform",
       "year": "2024",
       "corpus": "private",
       "ancestors": [
         "curio-bio-seeker-slideseq"
+      ],
+      "descendants": [
+        "curio-bio-2024-update",
+        "curio-trekker-2024"
+      ]
+    },
+    {
+      "id": "detect-inc-flu-covid-2024",
+      "name": "Detect Inc. Flu + COVID 2024 extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "detect-inc-covid-19-rt-lamp-cartridge"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "diasorin-liaison-xl-2024",
+      "name": "DiaSorin LIAISON XL 2024 update - Chemiluminescence immunoassay extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "diasorin-liaison-xl-magnetic-bead-cuvette"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dropbot-v4-v5",
+      "name": "DropBot v4 / v5 - Open-source DMF platform 2024 extend",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "dropbot-open-source-dmf"
       ],
       "descendants": []
     },
@@ -14983,6 +16712,17 @@
       "descendants": []
     },
     {
+      "id": "lucira-flu-covid-otc-2024",
+      "name": "Lucira Flu + COVID OTC test 2024 extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "lucira-check-it-flu-covid-test",
+        "lucira-home-covid-test"
+      ],
+      "descendants": []
+    },
+    {
       "id": "mission-bio-tapestri-prim-2024",
       "name": "Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics)",
       "year": "2024",
@@ -14993,11 +16733,67 @@
       "descendants": []
     },
     {
+      "id": "multiply-labs-cgt-2024",
+      "name": "Multiply Labs CGT manufacturing robot 2024 extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "multiply-labs-robotic-cgt"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "openflexure-v8-2024",
+      "name": "OpenFlexure Microscope v8 2024",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "openflexure-deltastage-2022",
+        "openflexure-microscope",
+        "openflexure-microscope-v7"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "pearce-lab-2024-most-suite",
+      "name": "Pearce Lab MOST 2024 - Multi-fab open-hardware suite update",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "pearce-most-open-hardware-suite",
+        "wijnen-pearce-2014-open-syringe-pump",
+        "wijnen-pearce-2014-syringe-pump-v2-12mm",
+        "zhang-pearce-2016-most-platform-instrument-ecosystem"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "pioreactor-v2-bioreactor",
+      "name": "Pioreactor v2 - Open-hardware desktop bioreactor 2024",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "pioreactor-open-bioreactor"
+      ],
+      "descendants": []
+    },
+    {
       "id": "qiagen-stilla-acquisition-2024",
       "name": "QIAGEN Acquisition of Stilla Technologies (announced 2024)",
       "year": "2024",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "quidel-sofia-2-lumiradx-2024",
+      "name": "Quidel Sofia 2 + LumiraDx integration 2024",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "quidel-sofia-2",
+        "quidel-sofia-cartridge"
+      ],
       "descendants": []
     },
     {
@@ -15038,6 +16834,45 @@
       "descendants": []
     },
     {
+      "id": "squid-cephla-2024",
+      "name": "Squid+ v3 / Cephla 2024 - High-throughput imaging platform 2024",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "li-prakash-2020-squid-imaging-platform",
+        "squid-microscope"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "standard-biotools-aria-hyperion-xti-2",
+      "name": "Standard BioTools Aria + Hyperion XTi 2.0 - Imaging mass cytometry 2024",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "standard-biotools-mass-cytometry-cytof"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "stanford-microfluidics-foundry-2024",
+      "name": "Stanford Microfluidics Foundry 2024",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tenx-visium-hd-cytassist-2",
+      "name": "10x Genomics Visium HD + CytAssist 2.0 - 2024 update",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "10x-visium-hd-cytassist"
+      ],
+      "descendants": []
+    },
+    {
       "id": "three-body-problem-medical",
       "name": "Three-Body Problem (Netflix) medical and laboratory depictions",
       "year": "2024",
@@ -15062,6 +16897,27 @@
       "corpus": "private",
       "ancestors": [
         "ultima-genomics-ug100-wafer"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "visby-medical-sti-2024",
+      "name": "Visby Medical STI 2024 cartridge extend",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "visby-medical-cartridge",
+        "visby-medical-sexual-health-test-cartridge"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "vizgen-merscope-ultra-500plex-2024",
+      "name": "Vizgen MERSCOPE Ultra - Whole-transcriptome MERFISH 2024",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "vizgen-merscope"
       ],
       "descendants": []
     },
@@ -15140,10 +16996,34 @@
       "descendants": []
     },
     {
+      "id": "apona-biotech-startup",
+      "name": "Apona biotech - AI-guided antibody drug-discovery microfluidic platform",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "atelys-microfluidics-startup",
+      "name": "Atelys microfluidics - Multiplexed protein quantification startup",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "death-stranding-2-q-pid-bb-successor",
       "name": "Death Stranding 2 Q-pid and BB-1 successor pod",
       "year": "2025",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "microbio-ai-startup",
+      "name": "Microbio.AI - Microbiome diagnostic AI startup",
+      "year": "2025",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -15198,7 +17078,9 @@
     }
   ],
   "warnings": [
-    "bd-rhapsody-microwell.lineage_ancestors references unknown id `fan-2015-cellular-research-microwell`"
+    "bd-rhapsody-microwell.lineage_ancestors references unknown id `fan-2015-cellular-research-microwell`",
+    "recursion-pharma-extend.lineage_ancestors references unknown id `cell-painting-bray-2016`",
+    "tenx-visium-hd-cytassist-2.lineage_ancestors references unknown id `tenx-genomics-visium-hd`"
   ],
   "cycles": []
 }

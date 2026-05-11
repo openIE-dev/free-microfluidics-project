@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-hydrodynamic`
 
-**20 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1890
 
@@ -174,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluidigm Corp. C1 system (now Standard BioTools). Pollen et al. 2014 Nat. Biotechnol. 32, 1053–1058. DOI: 10.1038/nbt.2967
 - **ip status**: patented
 - **prior art notes**: Single-cell capture-and-amplify IFC: 96 chambers each receiving exactly one cell by hydrodynamic trap, then automated lysis, RT, and PCR per chamber for downstream sequencing. Architectural ancestor of all subsequent microfluidic-trap single-cell genomics, including 10x Chromium's droplet successor. Largely displaced by droplet platforms after 2015 because of cost-per-cell, but retains use in low-throughput high-fidelity work.
+
+## Sight Diagnostics OLO patent family (2014)
+
+- **id**: `sight-diagnostics-olo-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Sight Diagnostics
+- **disclosure**: Sight Diagnostics Ltd (Tel Aviv) IP estate; IL/US/PCT filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Sight Diagnostics OLO patent family covers POC CBC fluidic cartridges with imaging-cytometry readout. Anticipates claims directed to POC CBC cartridges with on-cartridge imaging-cytometry.
 
 ## Advanced Instruments / Solentim VIPS PRO single-cell deposition system (2017)
 

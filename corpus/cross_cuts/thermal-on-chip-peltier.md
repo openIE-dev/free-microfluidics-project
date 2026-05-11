@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-peltier`
 
-**15 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1974
+Earliest disclosure: 1945
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Van Vogt - World of Null-A Gosseyn restoration apparatus (1945)
+
+- **id**: `van-vogt-null-a-gosseyn-restoration`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: A.E. van Vogt
+- **disclosure**: Van Vogt A.E., 'The World of Null-A' Astounding Science Fiction Aug-Oct 1945; novel ISBN 978-0-7653-0883-3
+- **ip status**: fictional
+- **prior art notes**: Disclosure of parallel cloned-body biofluidic preservation reservoir with consciousness-transfer biofluidic interface. Anticipates claims directed to parallel preserved-body biofluidic reservoirs with addressable consciousness-transfer interfaces. 1945 disclosure substantially predates most cloning-tank fictional prior art.
 
 ## Joe Haldeman Forever War medical pods (1974)
 
@@ -35,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Traveller small-ship medical bay (~1977) is one of the longest-running tabletop sourcebook depictions of a starship medical facility: low-berth (cold-sleep coffin) banks, autodoc chambers, and integrated drug-delivery. Mongoose Traveller High Guard (2008) provides explicit ship-design rules and module specifications for medical bays. Defensive prior art for modular spacecraft medical bay architecture with cold-sleep + autodoc integration. The 1977 publication is one of the earliest tabletop autodoc anchors.
 
+## Dune - God Emperor Leto II worm transformation chamber (1981)
+
+- **id**: `dune-god-emperor-worm-transformation-chamber`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Frank Herbert
+- **disclosure**: Herbert F., 'God Emperor of Dune' Putnam 1981, ISBN 978-0-399-12601-9
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a multi-decade encystment bioreactor chamber for symbiont-mediated substrate-organism transformation, with sustained fluidic exchange between host and symbiont. Anticipates claims directed to long-residence symbiont co-culture bioreactor cartridges with sustained host-symbiont fluidic exchange interfaces.
+
 ## Warhammer 40K Astartes geneseed tithe shipping (in stasis) (1987)
 
 - **id**: `warhammer-40k-astartes-geneseed-tithe-shipping`
@@ -45,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Geneseed tithe involves shipping Astartes geneseed in stasis-vial form across galactic distances, with Mechanicus-validated chain-of-custody, tamper-evidence, and multi-decade preservation. Anticipates: long-duration cell-line preservation in transport-grade stasis vials; cryptographic chain-of-custody for cell-line tithe shipping; combined preservation + tamper-evidence + audit-trail apparatus. Useful prior art for 'tamper-evident long-duration cell-line transport vial with cryptographic chain-of-custody' claims.
 
+## BattleTech ComStar HPG station medbay (1988)
+
+- **id**: `battletech-comstar-hpg-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech ComStar sourcebook (FASA 1988-1993)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of a remote-station medbay with archival cryofluid bio-storage paired with classified communication infrastructure. Anticipates claims directed to remote-station autonomous medbays with combined archival cryostorage and integrated communication relay.
+
 ## Vernor Vinge Slow Zone repair / cold-sleep pods (A Fire Upon the Deep) (1992)
 
 - **id**: `vinge-fire-upon-deep-slowzone-pods`
@@ -54,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vernor Vinge, A Fire Upon the Deep (Tor 1992) ISBN 0-312-85182-0.
 - **ip status**: fictional
 - **prior art notes**: Vinge's Out of Band II crew uses cold-sleep pods extensively during the slow descent into the Slow Zone. Pods include cellular-repair cycle programs running over years. Defensive prior art for long-duration cold-sleep-with-active-cellular-repair protocols. Distinct from existing 'vinge-fire-upon-deep-medical' entry.
+
+## BattleTech WarShip medbay (1995)
+
+- **id**: `battletech-warship-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech Star League Sourcebook (FASA 1988), WarShip details in House Steiner (FASA 1989)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of capital-ship-scale medbay with multi-theater surgical capacity and centrifuged blood-storage refrigeration, suitable for long-deployment crews. Anticipates claims directed to mobile-platform multi-bay surgical cartridges and centrifugal blood-storage architectures with onboard pharmaceutical compounding.
 
 ## Final Fantasy VII Mako reactor extraction process (1997)
 
@@ -74,6 +114,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vernor Vinge, A Deepness in the Sky (Tor 1999) ISBN 0-312-85683-0.
 - **ip status**: fictional
 - **prior art notes**: Vinge describes Qeng Ho coldsleep coffins in unusual engineering detail: continuous low-temperature life-support cycles, periodic thaw-and-cycle protocols, microbial monitoring, and crew rotation handled at the coffin level. Architecturally anticipates: long-duration coldsleep life-support with active periodic perfusion, distributed coldsleep-array control systems, and thaw-and-cycle pharmacological management. Defensive prior art for cryopreservation-with-active-perfusion systems.
+
+## Reynolds - Chasm City Mendicant treatment center (2001)
+
+- **id**: `reynolds-chasm-city-mendicant-treatment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'Chasm City' Gollancz 2001, ISBN 978-0-575-06877-1; further appearances across Revelation Space sequence
+- **ip status**: fictional
+- **prior art notes**: Disclosure of long-residence vitrified-patient hold facility with active vitrification refresh and biomedical thaw monitoring. Anticipates claims directed to long-residence vitrified-patient cartridges with periodic active-refresh and integrated thaw biomarker monitoring.
+
+## John C. Wright - Golden Age noumenon tank (2002)
+
+- **id**: `wright-golden-age-noumenon-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John C. Wright
+- **disclosure**: Wright, J.C., 'The Golden Age' Tor Books 2002, ISBN 978-0-7653-0436-1
+- **ip status**: fictional
+- **prior art notes**: Disclosure of biofluid tank holding distinct personality-state with reinstantiation interface to compatible body. Anticipates claims directed to cryogel-matrix biofluid storage cartridges holding distinct personality-state markers with reinstantiation interface.
 
 ## Pluto (Urasawa) body restoration apparatus (2003)
 
@@ -105,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Distinct from H-Cube entry. Discloses (a) Phoenix high-T/P 'novel process window' flow reactor enabling chemistry at conditions impossible in batch glass; (b) Ice-Cube integrated Peltier-cooled flow coil for cryogenic flow chemistry (sub-zero organolithium and Grignard); (c) Gas Module providing precision-dosed gaseous-reagent inlet with mass flow control plus back-pressure equilibration, enabling routine CO, H2, O2 chemistry without cylinder safety concerns; (d) the 'novel process window' framing — exploiting transient sub-millimeter heat/mass transport to access chemistry inaccessible to batch. Anticipates patent claims to integrated multi-temperature flow rigs spanning -10 to +450 °C and to gas-dosing modules for continuous flow.
 
+## Reynolds - House of Suns Gentian Line medical (2008)
+
+- **id**: `reynolds-house-of-suns-gentian-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Alastair Reynolds
+- **disclosure**: Reynolds, A., 'House of Suns' Gollancz 2008, ISBN 978-0-575-08236-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of multi-million-year residence biofluid preservation with shared-memory biofluid synthesis across distributed line members. Anticipates claims directed to multi-decade biofluid preservation cartridges with synchronized shared-state across distributed cartridges.
+
 ## Cambridge Reactor Design Polar Bear and Polar Bear Plus flow chemistry chiller (2010)
 
 - **id**: `cambridge-reactor-design-polar-bear-plus`
@@ -114,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cambridge Reactor Design Ltd. Polar Bear product launch 2010; Browne, D. L.; Wright, S.; Deadman, B. J.; Dunnage, S.; Baxendale, I. R.; Turner, R. M.; Ley, S. V. 'Continuous flow processing of slurries: evaluation of an agitated cell reactor' Rapid Commun. Mass Spectrom. 2012, 26, 1999–2006 (cites Polar Bear); CRD Polar Bear Plus datasheet 2013; product page https://cambridgereactordesign.com
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained thermoelectric chiller capable of -78 °C wraparound jacketing for fluoropolymer-tubing flow reactors — the practical solid-state alternative to dry-ice or liquid-nitrogen baths for cryogenic flow chemistry. Anticipates: (a) thermoelectric-stack (multi-stage Peltier) module integrated into a chiller form factor for laboratory flow chemistry; (b) the universal-fit wraparound jacket pattern that accepts any user-wound reactor coil; (c) the 'no consumables coolant' architecture (no LN2, no dry ice) for routine cryogenic flow chemistry. Anticipates patent claims to thermoelectric-stack chillers wraparound to fluoropolymer flow reactors at -78 °C.
+
+## John C. Wright - Count to a Trillion cryosleep fluidics (2011)
+
+- **id**: `wright-count-to-a-trillion-cryosleep`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John C. Wright
+- **disclosure**: Wright, J.C., 'Count to a Trillion' Tor Books 2011, ISBN 978-0-7653-2927-2
+- **ip status**: fictional
+- **prior art notes**: Disclosure of long-dormancy cryosuspension capsule with active fluidic refresh and sequential rewarming exchange protocol. Anticipates claims directed to long-duration cryocapsule cartridges with active perfusion refresh and staged rewarming exchange protocols.
 
 ## Final Fantasy XIV Allagan resurrection technology (2013)
 
@@ -134,6 +214,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Parra M et al., 'Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station,' PLOS ONE 12(9):e0183480 (2017), doi:10.1371/journal.pone.0183480; NASA WetLab-2 facility description, ISS Research Office (2016)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an end-to-end RNA-extraction + RT-qPCR cartridge architecture qualified for microgravity. Element-by-element prior art: (a) the closed-cartridge magnetic-bead RNA extraction protocol with no open-air liquid transfer steps anticipates patents claiming aerosol-free spaceflight or BSL-3 nucleic acid extraction cartridges; (b) the validation of paramagnetic-bead binding/wash kinetics in zero-G is published prior art against any patent claiming novel microgravity-compatible bead handling; (c) the integration of off-the-shelf SmartCycler-class Peltier modules with a custom reaction tube format anticipates retrofit spaceflight diagnostic cartridge concepts. Combined with iss-biomolecule-sequencer-minion below, WetLab-2 establishes the full sample-prep + amplification + sequencing chain in spaceflight prior art.
+
+## Unchained Labs Uncle - Triple-detection protein stability screening (2016)
+
+- **id**: `unchained-labs-uncle-protein-stability`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Unchained Labs (Avacta Analytical acquisition)
+- **disclosure**: Unchained Labs Uncle product launch, 2016 (formerly Avacta Optim 1000 acquired 2015).
+- **ip status**: patented
+- **prior art notes**: Discloses a 48-position cuvette array with integrated Peltier ramping and simultaneous intrinsic fluorescence + DLS + SLS per cuvette. Anticipates triple-detection thermal ramp protein stability cuvette array claims.
+
+## IMA Lynx - Continuous freeze-drying for biopharma (2019)
+
+- **id**: `ima-lynx-continuous-lyophilizer`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: IMA Life (IMA Group)
+- **disclosure**: IMA Life Lynx continuous freeze-dryer launch, 2019 (Powder Bulk Solids announcement).
+- **ip status**: patented
+- **prior art notes**: Discloses a continuous vial-by-vial freeze-drying system in which individual vials are spin-frozen to create a thin frozen shell and then conveyed past IR heating stations during reduced-pressure drying. Anticipates continuous spin-freeze freeze-drying vial conveyor claims.
 
 ## Foundation Cleon I genetic blueprint preservation system (2021)
 

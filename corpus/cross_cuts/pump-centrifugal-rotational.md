@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-centrifugal-rotational`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abaxis (acquired by Zoetis 2018) VetScan VS2 system; same disc-format as Piccolo Xpress for veterinary use.
 - **ip status**: patented
 - **prior art notes**: Veterinary-market sibling product of the Piccolo Xpress: same centrifugal microfluidic disc architecture but with veterinary chemistry panels. Reference for the broader veterinary diagnostic cartridge market, which under-indexes in human-medicine prior-art reviews despite using the same architectural primitives.
+
+## BattleTech WarShip medbay (1995)
+
+- **id**: `battletech-warship-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FASA Corporation
+- **disclosure**: BattleTech Star League Sourcebook (FASA 1988), WarShip details in House Steiner (FASA 1989)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of capital-ship-scale medbay with multi-theater surgical capacity and centrifuged blood-storage refrigeration, suitable for long-deployment crews. Anticipates claims directed to mobile-platform multi-bay surgical cartridges and centrifugal blood-storage architectures with onboard pharmaceutical compounding.
 
 ## Burstein/Tecan LabCD original disc-format platform (1997)
 

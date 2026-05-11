@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**62 corpus entries disclose this subsystem.**
+**72 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disposable glucose test strip with capillary-fill sample chamber, glucose oxidase enzyme layer, and electrochemical detection electrodes. The highest-cumulative-volume microfluidic-equivalent product in history (>10B units shipped since 1980s). Architectural ancestor of every modern blood-glucose test strip and many other electrochemical-detection POC strips.
 
+## Hitachi 911/917 historic clinical chemistry (1990s) patents (1991)
+
+- **id**: `hitachi-911-917-historic-chemistry-patents`
+- **corpus**: private
+- **device class**: other
+- **creator**: Hitachi Ltd (co-marketed with Boehringer-Mannheim, later Roche Diagnostics)
+- **disclosure**: Hitachi 911/917 product launches (Hitachi, co-marketed with Boehringer-Mannheim 1990s); JP/US filings 1990-1996
+- **ip status**: patented
+- **prior art notes**: Hitachi 911/917 patent family is the 1990s foundational random-access clinical chemistry cartridge IP, transferred through the Boehringer-Mannheim->Roche Diagnostics acquisition. Anticipates claims directed to integrated electrolyte-ISE-plus-photometric clinical chemistry cartridges with rotary cuvette architecture.
+
 ## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
 
 - **id**: `wise-1991-silicon-microsystems-instrumentation`
@@ -95,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of integrated-blood-gas-and-chemistry POC cartridge: a single-use cartridge with sample-handling chamber, calibrant pouch, electrochemical sensor array, and reagent reservoirs in injection-molded thermoplastic. The i-STAT cartridge is among the longest-running and highest-volume POC cartridges in clinical use (1990s onward). Anticipates: integrated-biochemistry-cartridge architecture combining electrolyte, blood gas, and metabolite measurements in a single bedside device.
 
+## Nova Biomedical BioProfile FLEX2 / 100 / 200 bioprocess analyzers (1994)
+
+- **id**: `nova-bioprofile-flex2-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Nova Biomedical
+- **disclosure**: Nova Biomedical BioProfile 100 launch, 1994; FLEX product line 2010, FLEX2 2017.
+- **ip status**: patented
+- **prior art notes**: Discloses an integrated electrochemical sensor cartridge measuring 16 parameters from a single sub-2-mL sample, with onboard image-cytometry cell counter. Anticipates multi-electrochemical-electrode cassette with automated calibration loop claims.
+
 ## Mettler-Toledo InPro 6800 / 6850 Dissolved Oxygen Sensor (1995)
 
 - **id**: `mettler-toledo-inpro-6800-do`
@@ -114,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche/Boehringer Mannheim Elecsys 2010 immunoassay analyzer launch 1996; J. Clin. Lab. Anal. 1998 evaluation; US patents 5,238,808 and 5,310,687 (Boehringer Mannheim ECL cell)
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
+
+## Aberrant - Nova quantum-flesh biofluidics (1999)
+
+- **id**: `aberrant-nova-quantum-flesh`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: White Wolf Publishing
+- **disclosure**: White Wolf, 'Aberrant' core book 1999, ISBN 978-1-56504-755-4
+- **ip status**: fictional
+- **prior art notes**: Disclosure of distinct biofluidic baseline class (nova) with corporate biomonitoring of registered class members. Anticipates claims directed to baseline-class-specific biofluidic cartridges paired with a registry/monitoring infrastructure.
 
 ## Cygnus GlucoWatch G2 Biographer (1999-12-06)
 
@@ -214,6 +244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BlueSens gas sensor GmbH BlueInOne product launch 2008; BlueInOne Cell datasheet rev 2018; US patent US8,691,143B2 (BlueSens, off-gas analysis)
 - **ip status**: patented
 - **prior art notes**: Discloses a compact off-gas analyzer combining electrochemical O2 measurement and NDIR (non-dispersive infrared) CO2 measurement in a single rack-mount unit, with sample-conditioning (gas drier, particulate filter) integrated; sample gas is drawn from bioreactor exhaust at low flow; OUR/CER calculated from inlet vs outlet partial-pressure difference. Anticipates: combined O2/CO2 off-gas analyzer in a compact form factor suitable for distributed deployment at each bioreactor (vs centralized mass spec); sample-conditioning train integration. Element-by-element: gas inlet + drier + filter + electrochemical O2 cell + NDIR CO2 cell + outlet to atmosphere + RS485/Profibus output.
+
+## Anpac Biomedical CDA patent family (2008)
+
+- **id**: `anpac-biomedical-cda-patent-family`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Anpac Bio-Medical Science
+- **disclosure**: Anpac Bio-Medical Science (Lishui, Shanghai) IP estate (2008-present); CN/US/PCT filings
+- **ip status**: patented
+- **prior art notes**: Anpac CDA patent family covers multi-parameter biophysical-property cancer screening cartridges. Anticipates claims directed to multi-parameter biophysical-property biofluidic cartridges with cancer-screening endpoint.
 
 ## Abbott FreeStyle Navigator Continuous Glucose Monitor (2008-03-12)
 
@@ -355,6 +395,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Disclosed in vitro blood-brain barrier on chip: porous-membrane-separated dual-channel device with brain endothelial cells on luminal side and astrocytes on abluminal side, with TEER (trans-endothelial electrical resistance) measurement. Anticipates: TEER-integrated BBB-on-chip architecture, dual-cell-type co-culture organ-chip with electrical readout, and the BBB drug-permeability screening application.
 
+## Brin - Existence biofluidic medical (2012)
+
+- **id**: `brin-existence-medical-fluidics`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Brin
+- **disclosure**: Brin, D., 'Existence' Tor Books 2012, ISBN 978-0-7653-0361-6
+- **ip status**: fictional
+- **prior art notes**: Disclosure of crowd-aggregation of wearable biofluidic patch data with AR overlay for clinical encounter. Anticipates claims directed to wearable diagnostic cartridges that aggregate biofluidic biomarker readouts across users with cloud-aggregation and AR overlay.
+
 ## Abbott FreeStyle Libre continuous glucose monitor (2014)
 
 - **id**: `abbott-freestyle-libre-cgm`
@@ -435,6 +485,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses an aptamer-functionalized impedimetric microfluidic chip for cortisol detection in saliva, with AC electrokinetic sample focusing to overcome the low salivary cortisol concentration. Anticipates: aptamer-based salivary cortisol point-of-care chips; AC-electrokinetic preconcentration coupled to aptamer-functionalized electrodes for any low-abundance salivary biomarker; the architectural pattern of pre-concentrate-then-detect for saliva analytes.
 
+## Samsung Bioepis biologics patent family (2014)
+
+- **id**: `samsung-bioepis-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Samsung Bioepis
+- **disclosure**: Samsung Bioepis Co Ltd IP estate (Samsung BioLogics subsidiary); KR/US filings 2014-present
+- **ip status**: patented
+- **prior art notes**: Samsung Bioepis patent family covers biosimilar continuous-perfusion biologic-production fluidics with in-line analytical QC. Anticipates claims directed to continuous biologic-production fluidic cartridges with in-line analytical QC.
+
 ## Verily / Alcon Smart Contact Lens for Tear-Glucose Monitoring (defunct) (2014-01-16)
 
 - **id**: `verily-alcon-glucose-contact-lens`
@@ -484,6 +544,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nemaura Medical CE Mark announcement 2016; Nemaura SEC filings (10-K) and clinical trial NCT02942888
 - **ip status**: patented
 - **prior art notes**: Discloses a daily-disposable transdermal patch that uses low-current iontophoresis to extract glucose into a thin hydrogel film and a screen-printed amperometric sensor for readout. Effectively a modernized GlucoWatch with patch (rather than watch) form factor. Anticipates: daily-disposable transdermal-extraction CGM patches; consumer-wellness positioning for non-invasive glucose tracking; layered-hydrogel sample-collection architectures behind a skin-contact membrane.
+
+## Doom (2016) - UAC Mars medical bay (2016-05-13)
+
+- **id**: `doom-2016-uac-medical-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: id Software
+- **disclosure**: Doom (id Software / Bethesda Softworks, 2016)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of corporate research-medical bay coupling demonic-substrate triage with energy-conversion biofluidic apparatus. Anticipates claims directed to research-grade cartridge platforms combining unknown-substrate triage with integrated energy-conversion interfaces.
+
+## Deus Ex: Mankind Divided - augmentation chambers (2016-08-23)
+
+- **id**: `deus-ex-md-augmentation-chambers`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Eidos Montreal
+- **disclosure**: Deus Ex: Mankind Divided (Eidos Montreal / Square Enix, 2016)
+- **ip status**: fictional
+- **prior art notes**: Disclosure of segregated augmentation facility with screening biofluid sampling and in vivo upgrade biomarker monitoring. Anticipates claims directed to cartridge-form factor in vivo upgrade modules with integrated rejection-event biomarker monitoring.
 
 ## Medtronic MiniMed 780G insulin pump cartridge (2017)
 
@@ -555,6 +635,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an ultra-low-cost flexible silicon thin-film IC technology designed for embedding into disposable microfluidic test strips and smart packaging, with on-strip NFC readout. Anticipates: instrumented lateral-flow strips with integrated NFC chips; flexible thin-film IC + microfluidic test-strip integrations; sub-cent silicon readout for any disposable POC strip.
 
+## Sysmex CN-series coagulation analyzer patent family (2018)
+
+- **id**: `sysmex-cn-series-coagulation-patent-family`
+- **corpus**: private
+- **device class**: other
+- **creator**: Sysmex Corporation
+- **disclosure**: Sysmex CN-series product launch (Sysmex Corp 2018); JP/US/EP filings via espacenet (assignee: Sysmex)
+- **ip status**: patented
+- **prior art notes**: CN-series patent family extends sysmex-cn-3000-coag-analyzer existing entry with detailed disclosure of integrated coag/chromogenic/immuno fluidic subsystem. Anticipates claims that recite integrated multi-modality coagulation fluidic cartridges with on-cartridge calibration wells.
+
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
 - **id**: `atmo-biosciences-gas-sensing-capsule`
@@ -604,6 +694,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biolinq Inc. corporate disclosures; clinical trial NCT04790344 2021; Krishnan SR et al. for Biolinq founder publications
 - **ip status**: patented
 - **prior art notes**: Discloses a CGM patch in which an array of solid silicon microneedles is functionalized as electrochemical glucose sensors operating directly in epidermal interstitial fluid (~500 micron depth). The microneedle array is the sensor and the fluid envelope at the tip is the microfluidic. Anticipates: intradermal-microneedle-array CGM architectures; multi-microneedle redundant electrochemical sensing topologies; sub-dermal painless biosensor patches.
+
+## Verdox electrochemical direct air capture (2019)
+
+- **id**: `verdox-electrochemical-dac`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Verdox Inc. (MIT spinout)
+- **disclosure**: Voskian and Hatton, Faradaic electro-swing reactive adsorption for CO2 capture, Energy Environ. Sci. 12 (2019) 3530-3547.
+- **ip status**: patented
+- **prior art notes**: Discloses reversible quinone-redox electrochemical CO2 adsorbent in flow-through cell. Anticipates electrochemical-swing quinone CO2 capture cell claims.
 
 ## Dexcom G7 continuous glucose monitor sensor (2022)
 

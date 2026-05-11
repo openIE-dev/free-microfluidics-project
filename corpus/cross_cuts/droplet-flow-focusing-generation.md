@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**45 corpus entries disclose this subsystem.**
+**49 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Levenspiel, O. (1972). 'Chemical Reaction Engineering' (2nd ed.). John Wiley & Sons. ISBN 978-0-471-53016-8.
 - **ip status**: public-domain
 - **prior art notes**: Levenspiel 1972 is the canonical reactor-engineering textbook. The reactor archetypes - CSTR, PFR, packed-bed, batch - are ancestors of every microfluidic reactor disclosure: droplet reactors implement a discrete PFR; on-chip mixing chambers are CSTRs; packed-bead immunoassay chambers are packed-bed reactors. Anticipates microfluidic claims reciting residence-time control, mixing-vs-reaction selectivity arguments, or reactor-archetype-based device topology. Any patent that frames a microfluidic device as a 'CSTR-on-chip' or 'PFR-on-chip' is anticipated as to its reactor-engineering framing by Levenspiel.
+
+## Buchi B-290 / B-90 Nano / Encapsulator B-390 - Lab spray and encapsulation (1988)
+
+- **id**: `buchi-b290-b90-encapsulator-spray-line`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: Buchi Labortechnik AG
+- **disclosure**: Buchi B-191 mini spray dryer launch (predecessor) 1988; B-290 launch 2003; B-90 Nano launch 2009; Encapsulator B-390 2010.
+- **ip status**: patented
+- **prior art notes**: Discloses three independent atomization architectures - two-fluid nozzle (B-290), piezo vibrating-mesh (B-90 Nano), and Rayleigh-disturbed co-axial jet (Encapsulator B-390) - each used for biopharma powder formation or microcapsule production. Anticipates vibrating-mesh sub-micron spray dryer and piezo-modulated co-axial alginate microbead encapsulator claims.
 
 ## RainDance Technologies DropMaker Patent Family (2002-06-28)
 
@@ -265,6 +275,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Disclosed barcoded-hydrogel-bead manufacturing for single-cell RNA-seq: split-and-pool synthesis on alginate beads in microfluidic encapsulation produces a library of beads each bearing a unique barcode, used in inDrops and similar platforms. Anticipates: split-pool-bead-barcoding architecture, which became central to the inDrops and 10x Chromium commercial platforms.
 
+## BiAffin patent family extensions (2015)
+
+- **id**: `biaffin-patent-extensions`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: BiAffin
+- **disclosure**: BiAffin IP estate; IL/US filings 2015-present
+- **ip status**: patented
+- **prior art notes**: BiAffin patent family extends existing biaffin-lnp-encapsulator with additional LNP-microfluidic IP. Anticipates claims directed to micromixer-driven LNP assembly cartridges with GMP-compliant scaling.
+
 ## 10x Genomics vs Bio-Rad Patent Litigation (RainDance basis) (2015-02-12)
 
 - **id**: `tenx-vs-bio-rad-litigation`
@@ -405,6 +425,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Extends Hana design to 5-color fluorescence and explicit doublet discrimination by per-droplet image analysis. Anticipates claims to disposable-cartridge multi-color cell sorters with image-based event verification and per-deposit traceability metadata for regulated single-cell-cloning workflows (cell-line provenance documentation under USP/ICH guidelines).
 
+## Verily Wastewater Surveillance program (2020)
+
+- **id**: `verily-wastewater-surveillance`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Verily Life Sciences LLC
+- **disclosure**: Verily (Alphabet) Stanford SCAN wastewater monitoring launch 2020; WastewaterScan public dashboard 2022.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses ddPCR-based absolute viral concentration measurement in wastewater pellet, integrated with public dashboard. Anticipates ddPCR-based wastewater respiratory-virus quantification cartridge feeding public dashboard claims.
+
 ## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
 
 - **id**: `quake-broad-carmen-multiplex-prep-patent`
@@ -464,3 +494,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lashkaripour A, McIntyre DP, Calhoun SGK, Krauth K, Densmore D, Fordyce PM. Design automation of microfluidic single and double emulsion droplets with machine learning. Nature Communications 15: 83 (2024). doi:10.1038/s41467-023-44068-3
 - **ip status**: open-permissive
 - **prior art notes**: Distinct from the 2021 DAFD 1.0 disclosure, this entry pins the 2024 extension to double emulsions. Element-by-element discloses: (1) parameterised geometry library for single + double-emulsion flow-focusing devices, (2) consensus ensemble ML model trained on experimental droplet datasets, (3) automated search returning device geometry + flow-rate setpoints for user-targeted single or double-emulsion morphology, (4) open web deployment generating fab-ready files. Anticipates: claims directed to inverse-design of double-emulsion droplet generators, ML-driven design automation for W/O/W and O/W/O architectures, and cloud-served device-design APIs covering both emulsion classes.
+
+## Apona biotech - AI-guided antibody drug-discovery microfluidic platform (2025)
+
+- **id**: `apona-biotech-startup`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Apona Biotech Inc.
+- **disclosure**: Apona biotech public launch announcement 2025 (speculative).
+- **ip status**: unknown
+- **prior art notes**: Draft speculative entry: monitors a 2024-2026 startup focused on AI-guided antibody discovery with droplet mammalian-display screening. To be updated upon public disclosure.
