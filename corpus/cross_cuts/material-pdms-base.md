@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `material-pdms-base`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1996-12-12
 
@@ -84,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lo R, Li PY, Saati S, Agrawal RN, Humayun MS, Meng E Biomed Microdevices 11(5):959-970 2009 doi:10.1007/s10544-009-9313-9
 - **ip status**: patented
 - **prior art notes**: Discloses a fully implantable ophthalmic micropump in which an electrolysis pair generates gas that deflects a parylene/silicone membrane separating the gas chamber from a drug reservoir, expelling sub-microliter drug volumes through a tubing cannula into the vitreous humor via a passive check valve. Anticipates: electrolysis-actuated implantable micropump architectures; nanoliter-resolution chronic ophthalmic drug delivery; parylene-C as combined fluidic and membrane material in implants.
+
+## Soft lithography for micro- and nanoscale patterning (Qin, Xia & Whitesides, Nature Protocols, 2010) (2010-03)
+
+- **id**: `whitesides-2010-nature-protocols-pdms-fabrication`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Dong Qin, Younan Xia, George M. Whitesides, Harvard
+- **disclosure**: Qin, D.; Xia, Y.; Whitesides, G. M. Soft lithography for micro- and nanoscale patterning. Nat. Protoc. 2010, 5 (3), 491-502. DOI: 10.1038/nprot.2009.234.
+- **ip status**: public-domain
+- **prior art notes**: The widely-followed step-by-step protocol that codified PDMS soft-lithography microfabrication for non-specialist laboratories - the de facto foundry recipe behind a large fraction of academic microfluidic devices. Discloses, in reproducible detail: photomask layout and printing; SU-8 photoresist master fabrication on silicon with feature heights from a few microns to hundreds of microns; degassed-PDMS casting, curing, and demolding; oxygen-plasma activation and irreversible PDMS-glass and PDMS-PDMS bonding; inlet/outlet punching and tubing interfacing; and multilayer alignment for valve chips. Anticipates claims to: standardized PDMS replica-molding microfluidic fabrication workflows; plasma-bonded PDMS-glass channel sealing; SU-8-master-defined microchannel geometries; and the generic rapid-prototyping foundry process. Distinct from existing duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, mcdonald-whitesides-2002-pdms-review, and whitesides-2010-mu-pads-systematic; cross-referenced as the published protocol node of the Whitesides soft-lithography lineage (the patented aspects are covered by whitesides-patent-family-soft-lithography).
 
 ## ForSight Vision5 Helios Bimatoprost Insert (Periocular Ring) (2014-10-30)
 

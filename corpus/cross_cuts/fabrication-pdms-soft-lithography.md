@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**81 corpus entries disclose this subsystem.**
+**83 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1898-05-12
 
@@ -245,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
 
+## A nanoliter-scale nucleic acid processor with parallel architecture (Hong, Studer, Hang, Anderson, Quake, 2004) (2004-03-21)
+
+- **id**: `hong-studer-quake-2004-nanoliter-nucleic-acid-processor`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Jong Wook Hong, Vincent Studer, Stephen R. Quake, Caltech
+- **disclosure**: Hong, J. W.; Studer, V.; Hang, G.; Anderson, W. F.; Quake, S. R. A nanoliter-scale nucleic acid processor with parallel architecture. Nat. Biotechnol. 2004, 22 (4), 435-439. DOI: 10.1038/nbt951.
+- **ip status**: patented
+- **prior art notes**: An integrated PDMS lab-on-a-chip that performs the full nucleic-acid-preparation workflow - cell isolation, lysis, mRNA/DNA capture on functionalized beads, washing, and recovery of purified product - in parallel nanolitre reactors, built entirely from multilayer-soft-lithography pneumatic membrane valves and peristaltic pumps. Discloses: a parallel-architecture chip in which dozens of membrane valves partition and route fluids among rotary mixers, bead-capture columns, and elution channels; on-chip affinity capture (paramagnetic or affinity beads trapped behind a sieve valve) for solid-phase nucleic-acid purification; on-chip peristaltic metering and rotary mixing; and recovery of purified mRNA/DNA from single-cell-quantity inputs. Anticipates claims to: integrated multi-step nucleic-acid sample preparation in valve-controlled PDMS chips; parallelized nL bead-based extraction columns on chip; rotary-mixer reaction units fed by membrane-valve manifolds; and single-cell nucleic-acid processing pipelines. Builds on unger-2000-quake-monolithic-membrane-valve and thorsen-2002-microfluidic-large-scale-integration; commercialized via Fluidigm.
+
 ## OpenWetWare Community Wiki (2005)
 
 - **id**: `openwetware-mit-wiki`
@@ -474,6 +484,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iqbal M et al., IEEE J Sel Top Quantum Electron 16:654-661 (2010); doi:10.1109/JSTQE.2009.2032510; Genalyte Maverick product literature; FDA 510(k) K183052
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon-photonic microring biosensor array integrated with a PDMS microfluidic flow cell for multiplex label-free serology. Anticipates: silicon-photonic POC diagnostic cartridges; multiplex microring-resonator serology architectures; integration of silicon-photonic biosensors with disposable polymer fluidic flow cells.
+
+## Soft lithography for micro- and nanoscale patterning (Qin, Xia & Whitesides, Nature Protocols, 2010) (2010-03)
+
+- **id**: `whitesides-2010-nature-protocols-pdms-fabrication`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Dong Qin, Younan Xia, George M. Whitesides, Harvard
+- **disclosure**: Qin, D.; Xia, Y.; Whitesides, G. M. Soft lithography for micro- and nanoscale patterning. Nat. Protoc. 2010, 5 (3), 491-502. DOI: 10.1038/nprot.2009.234.
+- **ip status**: public-domain
+- **prior art notes**: The widely-followed step-by-step protocol that codified PDMS soft-lithography microfabrication for non-specialist laboratories - the de facto foundry recipe behind a large fraction of academic microfluidic devices. Discloses, in reproducible detail: photomask layout and printing; SU-8 photoresist master fabrication on silicon with feature heights from a few microns to hundreds of microns; degassed-PDMS casting, curing, and demolding; oxygen-plasma activation and irreversible PDMS-glass and PDMS-PDMS bonding; inlet/outlet punching and tubing interfacing; and multilayer alignment for valve chips. Anticipates claims to: standardized PDMS replica-molding microfluidic fabrication workflows; plasma-bonded PDMS-glass channel sealing; SU-8-master-defined microchannel geometries; and the generic rapid-prototyping foundry process. Distinct from existing duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, mcdonald-whitesides-2002-pdms-review, and whitesides-2010-mu-pads-systematic; cross-referenced as the published protocol node of the Whitesides soft-lithography lineage (the patented aspects are covered by whitesides-patent-family-soft-lithography).
 
 ## Microfluidic bioreactor for individual yeast cells (2011)
 

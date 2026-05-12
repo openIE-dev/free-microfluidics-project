@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-acoustophoresis`
 
-**14 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1934
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Trampler F., Sonderhoff S. A., Pui P. W. S., Kilburn D. G., Piret J. M., Bio/Technology 12:281-284 (1994); SonoSep Technologies Inc. product literature, Vancouver BC; US patent 5,626,767
 - **ip status**: patented
 - **prior art notes**: SonoSep discloses a bulk-acoustic-wave resonant retention chamber inserted into the perfusion loop of a bioreactor; cells aggregate at pressure nodes and settle back into the bioreactor while spent medium is harvested. Anticipates: (i) BAW-based bioreactor perfusion devices; (ii) acoustic separators scaled to multi-liter clinical-grade biomanufacturing; (iii) the combination of acoustic resonance with gravitational sedimentation for membrane-free clarification. Predates AcouSort blood-prep products by ~15 years for the bioreactor application.
+
+## Acoustic frequency selection in microchannel ultrasonic standing-wave separation (Wiklund & Hertz, 2005) (2005)
+
+- **id**: `wiklund-hertz-2005-acoustic-frequency-selection-microchannels`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Martin Wiklund & Hans M. Hertz, KTH
+- **disclosure**: Wiklund, M.; Hertz, H. M. Ultrasonic enhancement of bead-based bioaffinity assays. Lab Chip 2006, 6, 1279. Related: Wiklund, M.; Toivonen, J.; Tirri, M.; Hanninen, P.; Hertz, H. M. Ultrasonic enrichment of microspheres for ultrasensitive biomedical analysis in confocal laser-scanning fluorescence detection. J. Appl. Phys. 2004, 96, 1242. Hertz, H. M. Standing-wave acoustic trap for nonintrusive positioning of microparticles. J. Appl. Phys. 1995, 78, 4845.
+- **ip status**: public-domain
+- **prior art notes**: Establishes how to choose the ultrasonic drive frequency for half-wavelength (and multi-node) standing-wave resonances in glass/silicon microchannels so that the acoustic radiation force concentrates particles or cells at pressure nodes - the design rule behind essentially all bulk-acoustic-wave acoustophoresis chips. Discloses: matching the channel width to an integer number of acoustic half-wavelengths in the fluid for a chosen transducer frequency; the resulting node positions and the dependence of trapping strength on frequency, channel resonance Q, and acoustic contrast factor; and integration of standing-wave trapping with confocal fluorescence detection for bead-based bioaffinity assays. Anticipates claims to frequency-tuned acoustophoretic microchannel separators, half-wavelength-resonator chip dimensioning, and acoustically enriched on-chip immunoassays. Companion to laurell-2007-acoustophoresis and the King 1934 / Yosioka-Kawasima 1955 / Gorkov 1962 acoustic-radiation-force lineage.
 
 ## Free-flow acoustophoresis for cell separation (2007)
 

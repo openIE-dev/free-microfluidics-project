@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-quake-pneumatic-membrane`
 
-**25 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1988
 
@@ -124,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7820427; US8420017; US8475743; US9663819 (Fluidigm Corporation)
 - **ip status**: patented
 - **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
+
+## A nanoliter-scale nucleic acid processor with parallel architecture (Hong, Studer, Hang, Anderson, Quake, 2004) (2004-03-21)
+
+- **id**: `hong-studer-quake-2004-nanoliter-nucleic-acid-processor`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Jong Wook Hong, Vincent Studer, Stephen R. Quake, Caltech
+- **disclosure**: Hong, J. W.; Studer, V.; Hang, G.; Anderson, W. F.; Quake, S. R. A nanoliter-scale nucleic acid processor with parallel architecture. Nat. Biotechnol. 2004, 22 (4), 435-439. DOI: 10.1038/nbt951.
+- **ip status**: patented
+- **prior art notes**: An integrated PDMS lab-on-a-chip that performs the full nucleic-acid-preparation workflow - cell isolation, lysis, mRNA/DNA capture on functionalized beads, washing, and recovery of purified product - in parallel nanolitre reactors, built entirely from multilayer-soft-lithography pneumatic membrane valves and peristaltic pumps. Discloses: a parallel-architecture chip in which dozens of membrane valves partition and route fluids among rotary mixers, bead-capture columns, and elution channels; on-chip affinity capture (paramagnetic or affinity beads trapped behind a sieve valve) for solid-phase nucleic-acid purification; on-chip peristaltic metering and rotary mixing; and recovery of purified mRNA/DNA from single-cell-quantity inputs. Anticipates claims to: integrated multi-step nucleic-acid sample preparation in valve-controlled PDMS chips; parallelized nL bead-based extraction columns on chip; rotary-mixer reaction units fed by membrane-valve manifolds; and single-cell nucleic-acid processing pipelines. Builds on unger-2000-quake-monolithic-membrane-valve and thorsen-2002-microfluidic-large-scale-integration; commercialized via Fluidigm.
 
 ## Magnetic-bead microvalve and pump (2009)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-serpentine`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -104,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pakdel, P., McKinley, G. H. (1996). 'Elastic instability and curved streamlines.' Phys. Rev. Lett. 77(12): 2459-2462. doi:10.1103/PhysRevLett.77.2459
 - **ip status**: public-domain
 - **prior art notes**: Discloses the Pakdel-McKinley criterion: viscoelastic flow becomes unstable when streamline curvature times Weissenberg number exceeds a material-dependent threshold. Universal scaling law underlying every viscoelastic-instability microfluidic disclosure: chaotic mixing of viscoelastic fluids in low-Re serpentine channels, elastic-turbulence-enhanced mixing, viscoelastic particle focusing, viscoelastic flow rectifiers. Anticipates patent claims keyed on viscoelastic mixing enhancement, elastic-instability-driven chaotic advection, or low-Re mixing via fluid rheology. Particularly invalidates over-broad 'viscoelastic mixing in serpentine microchannel' claims.
+
+## Chemical amplification: continuous-flow PCR on a chip (Kopp, de Mello & Manz, 1998) (1998-05-15)
+
+- **id**: `kopp-1998-continuous-flow-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Martin U. Kopp, Andrew J. de Mello, Andreas Manz, Imperial College London
+- **disclosure**: Kopp, M. U.; de Mello, A. J.; Manz, A. Chemical amplification: continuous-flow PCR on a chip. Science 1998, 280 (5366), 1046-1048. DOI: 10.1126/science.280.5366.1046.
+- **ip status**: public-domain
+- **prior art notes**: Introduced continuous-flow (flow-through) PCR: instead of cycling the temperature of a static chamber, the reaction mixture is pumped through a serpentine microchannel that repeatedly traverses three zones held at fixed denaturation, annealing, and extension temperatures, so the time-domain thermal protocol becomes a spatial one - removing thermal-ramp limits and enabling very fast amplification. Discloses: spatially-multiplexed isothermal-zone architecture for thermal cycling; cycle number set by channel geometry (number of passes); cycle time set by flow rate and zone-segment lengths; and the elimination of bulk-heater thermal mass as the rate limit. Anticipates claims to: continuous-flow / flow-through nucleic-acid amplification microdevices; fixed-temperature-zone serpentine PCR chips; flow-rate-controlled cycling kinetics; and spatial-domain implementations of any cyclic thermal protocol. Companion to wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures and northrup-1993-silicon-pcr-microreactor (static-chamber predecessors); ancestor of droplet-PCR and microfluidic digital-PCR throughput architectures.
 
 ## Tanner 2000 - Engineering Rheology (2nd ed.) (2000)
 

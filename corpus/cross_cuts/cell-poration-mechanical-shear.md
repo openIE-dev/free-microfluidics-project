@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**7 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1986
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses early bioart work encoding human-derived images into bacterial DNA (Microvenus, 1986) and engineering bacteria as radio signal generators. Architectural relevance: the 1986 work uses microinjection-style transformation as art medium and predates much of the synthetic-biology era's prior art on engineered bacterial systems intended for non-research output. Anticipates: bacterial bioart precedents for any consumer 'living art' microfluidic product; foundational artistic prior art for engineered-microbe-as-medium installations.
 
+## Weapon X adamantium-bonding immersion tank (Wolverine origin) (1991-03-01)
+
+- **id**: `x-men-weapon-x-adamantium-bonding-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Barry Windsor-Smith (Weapon X serial)
+- **disclosure**: Marvel Comics Presents #72-84 (Marvel Comics, 1991), the Weapon X serial by Barry Windsor-Smith; earlier referenced in Alpha Flight #33-34 (1986); the immersion-tank adamantium-bonding sequence is the centerpiece of the 1991 serial.
+- **ip status**: fictional
+- **prior art notes**: Discloses an immersion-tank procedure that infuses a metal onto a living skeleton under continuous life support and vitals monitoring, requiring a regenerating substrate. Extends halo-spartan-ii-eight-procedures-detail (intra-osseous infusion of a skeletal-hardening agent) into the immersion-tank format. Anticipates generic claims to immersion-tank skeletal-infusion procedures with real-time life support and vitals feedback. Pairs with halo-spartan-ii-eight-procedures-detail and warhammer-40k-magos-biologis-vat-servitor.
+
 ## Eduardo Kac — GFP Bunny (Alba) (2000)
 
 - **id**: `kac-2000-gfp-bunny-alba`
@@ -35,6 +45,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses a public-art act of microinjection of GFP construct into a rabbit zygote (executed at INRA Jouy-en-Josas). The microfluidic relevance is the use of a glass-pulled microinjection capillary as the artistic medium. Anticipates: artistic and pedagogical use of microinjection capillaries; bioart works whose primary instrument is a microfluidic single-cell injector; the broader precedent for microfluidic devices being framed as cultural rather than purely scientific objects.
 
+## SPARTAN-II augmentation: the eight separate procedures and washout cases (Halsey protocols) (2001-10-30)
+
+- **id**: `halo-spartan-ii-eight-procedures-detail`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / Eric Nylund; in-fiction Dr. Catherine Halsey
+- **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey, 2001) ISBN 978-0-345-45132-9, chapters detailing the augmentation procedures; reaffirmed in Halo: First Strike (Nylund, 2003) and Dr. Halseys journal (Halo: Reach Limited Edition, 2010).
+- **ip status**: fictional
+- **prior art notes**: Extends halo-spartan-ii-augmentation-procedure with the explicit per-procedure breakdown: eight distinct staged interventions, each with a specified delivery route (infusion, IM injection, intra-osseous perfusion, implant), precise mass-indexed dosing, continuous monitoring, and a documented adverse-outcome stratification. Anticipates generic claims to staged multi-route augmentation protocols with mass-indexed dosing and outcome stratification, and specifically to intra-osseous infusion of a bone-hardening agent. Pairs with halo-spartan-iii-spi-armor-injection and halo-spartan-iv-bone-density-treatment.
+
+## Chula nanogene flesh-rewriting cloud (The Empty Child / The Doctor Dances) (2005-05-21)
+
+- **id**: `doctor-who-empty-child-nanogene-rewrite`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Steven Moffat
+- **disclosure**: Doctor Who, The Empty Child (BBC, broadcast 2005-05-21) and The Doctor Dances (BBC, broadcast 2005-05-28), written by Steven Moffat; IMDB tt0563000.
+- **ip status**: fictional
+- **prior art notes**: Discloses an aerosolized population of sub-micron medical machines that perform in-vivo, in-situ remodeling of tissue against a stored template, with contact-propagation and template-correction. Anticipates broad claims to aerosol-delivered cell-scale therapeutic agents that edit tissue toward a reference state and to template-driven autonomous in-body repair. Borderline for a microfluidics corpus (no chip), but the in-body fluidic distribution and sub-cellular dosing is the cited aspect; pairs with Iron Man Extremis-style virus entries.
+
 ## NUS Mechano-Biology Institute microfluidic patent family (2010)
 
 - **id**: `nus-mechano-biology-institute-patent-family`
@@ -44,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: NUS Mechano-Biology Institute IP estate; SG/US/PCT filings 2010-present
 - **ip status**: patented
 - **prior art notes**: NUS MBI patent family covers cell-stretching fluidic platforms with shear-flow stimulation. Anticipates claims directed to mechano-biology fluidic cartridges with cell-stretching subsystems.
+
+## Bleeding Edge subdermal nanofluid armor reservoir and the Extremis injection sequence (Iron Man) (2010-05-01)
+
+- **id**: `iron-man-bleeding-edge-subdermal-nanofluid-reservoir`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Matt Fraction & Salvador Larroca (Bleeding Edge); Warren Ellis & Adi Granov (Extremis sequence)
+- **disclosure**: Invincible Iron Man #25 onward (Marvel Comics, 2010), Matt Fraction & Salvador Larroca -- the Bleeding Edge armor stored as nanofluid in hollow subdermal/intra-osseous reservoirs; the agonizing Extremis-injection-and-reconfiguration sequence in Iron Man vol. 4 #1-6 (Marvel Comics, 2005-2006, Warren Ellis & Adi Granov); film Extremis-injection scenes in Iron Man 3 (Marvel Studios, 2013, IMDB tt1300854).
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a subdermal/intra-osseous nanofluid reservoir that stores a deployable structure and extrudes it on command, and (b) an injected nano-agent that rewrites a body to a stored schematic via its own repair pathways over a documented timed reconfiguration. Anticipates generic claims to subdermal nanofluid reservoirs with on-demand extrusion and to schematic-driven somatic-reconfiguration injectables with timed reconfiguration. Extends the existing iron-man-extremis-injection entry with the Bleeding Edge subdermal-storage subsystem and the explicit injection-sequence detail. Pairs with iron-man-extremis-injection, doctor-who-empty-child-nanogene-rewrite, and bioshock-plasmid-injection.
 
 ## Diagenode Megaruptor hydrodynamic DNA shearer (2013)
 
@@ -74,6 +114,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Szeto et al., 'Microfluidic squeezing for intracellular antigen loading in polyclonal B-cells as cellular vaccines,' Sci Rep 5:10276 (2015); ClinicalTrials.gov NCT04084951 (SQZ-PBMC-HPV-101 study, first posted 2019); US patent US10870112B2
 - **ip status**: patented
 - **prior art notes**: Application-specific implementation of the Cell Squeeze chip in a closed sterile single-use cartridge for clinical manufacture: leukapheresis bag connects via sterile weld to cartridge; cells routed by pneumatic flow drive through silicon constriction array; antigen co-flowed at controlled molar ratio; squeezed cells collected, washed via tangential flow, formulated for IV infusion. Anticipates: closed-cartridge silicon-constriction APC manufacturing where the entire workflow from apheresis bag to formulated drug product runs in single-use fluidic train without breaking sterile boundary. Distinguishable from CliniMACS Prodigy (uses magnetic separation + Sepax bag, no constriction-mediated cargo loading) and from Lonza Cocoon (no mechanical poration). Element-by-element: sterile inlet weld + cell-pre-conditioning chamber + silicon constriction chip + co-flowed peptide reservoir + collection bag + sterile outlet weld.
+
+## Lone Cyberman / Ascension cyber-conversion variants (Series 12) (2020-02-23)
+
+- **id**: `doctor-who-ascension-cyberium-conversion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Chris Chibnall
+- **disclosure**: Doctor Who, The Haunting of Villa Diodati (BBC, 2020-02-23), Ascension of the Cybermen (BBC, 2020-02-23), and The Timeless Children (BBC, 2020-03-01), written by Maxine Alderton / Chris Chibnall; IMDB tt9612264.
+- **ip status**: fictional
+- **prior art notes**: Extends doctor-who-cyberman-conversion-chamber with two further variants: (a) an in-body nanofluid swarm (the Cyberium) that carries control logic and rides inside a living host, and (b) a remanufacture/reconversion line that takes dormant or stockpiled bodies and runs them back through conversion. Anticipates generic claims to host-resident nanofluid information-carriers, to remanufacture lines that recondition previously processed biological units, and to scalable cyborg-conversion conveyors. Pairs with doctor-who-cyberman-conversion-chamber and doctor-who-empty-child-nanogene-rewrite.
+
+## Relic biochip implantation and engram-substrate fusion (Cyberpunk 2077) (2020-12-10)
+
+- **id**: `cyberpunk-2077-relic-biochip-fusion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt Red; based on Cyberpunk 2020 (Mike Pondsmith, R. Talsorian Games)
+- **disclosure**: Cyberpunk 2077 (CD Projekt Red, released 2020-12-10); the Relic biochip is installed in the protagonist's skull early in the game; the engram-fusion mechanics and Mikoshi engram storage detailed across the main campaign and Phantom Liberty DLC (2023).
+- **ip status**: fictional
+- **prior art notes**: Discloses an implantable biochip that carries a digitized personality and autonomously fuses it with the host nervous system by rewriting neural tissue, with host-degradation monitoring, plus a central engram store and re-embodiment workflow. Anticipates generic claims to implantable engram-carrying devices that drive autonomous neural-tissue reconfiguration and to engram-store-plus-re-embodiment architectures. Pairs with cyberpunk-2077-ripperdoc-chair, black-mirror-grain-implant-and-black-museum, and iron-man-extremis-injection.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

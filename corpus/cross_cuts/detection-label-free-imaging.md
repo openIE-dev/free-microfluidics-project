@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-label-free-imaging`
 
-**70 corpus entries disclose this subsystem.**
+**72 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1863
 
@@ -555,6 +555,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses federated-learning training framework with hospital-resident data and gradient-exchange protocol for cross-institution multimodal model training. Anticipates federated multimodal pathology-omics model training framework claims.
 
+## Shuris vibranium-augmented medical lab and Kimoyo-bead remote surgery (Black Panther / Wakanda Forever) (2018-02-16)
+
+- **id**: `black-panther-shuri-vibranium-medical-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Studios (Ryan Coogler); Marvel Comics (Reginald Hudlin & John Romita Jr. -- modern Shuri characterization)
+- **disclosure**: Black Panther (Marvel Studios, 2018-02-16) -- the bullet-removal and Everett Ross spinal-repair sequences; Shuri synthesizes the Heart-Shaped Herb in Black Panther: Wakanda Forever (Marvel Studios, 2022); IMDB tt1825683 / tt9114286; lab also in Avengers: Infinity War (Marvel Studios, 2018, the Vision operation).
+- **ip status**: fictional
+- **prior art notes**: Discloses an integrated advanced-medical lab: bead-projector-guided remote minimally-invasive surgery, vibranium-mediated accelerated tissue and spinal-cord regeneration, and de-novo synthesis of a complex augmenting compound. Anticipates generic claims to bead/wearable-guided remote microsurgery, to accelerated-regeneration tissue-repair platforms, and to integrated diagnose-repair-synthesize medical workstations. Pairs with star-wars-2-1b-medical-droid, mass-effect-medbay, and the Star Trek autodoc lineage.
+
 ## Berkeley Lights Lightning Optofluidic System (2019)
 
 - **id**: `berkeley-lights-lightning`
@@ -614,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Numinus Wellness Health Canada Dealers License 2020 (psilocybin); IPO 2021.
 - **ip status**: trade-secret
 - **prior art notes**: Discloses standardized natural-source psilocybin extraction with chromatographic dose verification and clinic delivery infrastructure. Anticipates natural-source standardized psilocybin extract with multi-cannabinoid fingerprint dosing claims.
+
+## Praxeus microplastic-borne pathogen detection and synthesis (Praxeus, Series 12) (2020-02-02)
+
+- **id**: `doctor-who-praxeus-microplastic-life-detection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Pete McTighe & Chris Chibnall
+- **disclosure**: Doctor Who, Praxeus (BBC, broadcast 2020-02-02), written by Pete McTighe and Chris Chibnall; IMDB tt9612260.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable workflow that (a) samples environmental water and blood, (b) detects a pathogen by its association with sub-millimetre plastic particles, (c) characterizes the pathogen genome in the field, and (d) drives synthesis of a countermeasure. Anticipates generic claims to microplastic-vector pathogen assays, to particle-association-based detection, and to integrated detect-then-synthesize countermeasure platforms. Pairs with andromeda-strain-isolation-chamber and the Star Trek tricorder lineage.
 
 ## Tchaikovsky - Doors of Eden parallel-species biofluid (2020-08-20)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-hf-etching`
 
-**20 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Companion to Harrison 1992 / Manz 1990 establishing electroosmotic pumping on glass CE chips. Demonstrated reproducible voltage-controlled fluid handling on-chip without mechanical pumps — pure electrokinetic transport with sub-nanoliter sample plug definition. Anticipates: voltage-as-pump for chip CE, programmable electrokinetic flow control, and the electroosmotic pumping paradigm that became the de facto fluid-handling method for chip CE before pressure-driven systems took over.
 
+## Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) (1993-08-13)
+
+- **id**: `harrison-1993-science-mu-tas-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: D. Jed Harrison (Alberta), Andreas Manz (Ciba-Geigy), and coworkers
+- **disclosure**: Harrison, D. J.; Fluri, K.; Seiler, K.; Fan, Z.; Effenhauser, C. S.; Manz, A. Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip. Science 1993, 261 (5123), 895-897. DOI: 10.1126/science.261.5123.895.
+- **ip status**: public-domain
+- **prior art notes**: The landmark demonstration of an integrated capillary-electrophoresis chemical-analysis microchip - electrokinetically controlled sample handling, on-chip injection at a channel intersection, electrophoretic separation in HF-etched glass channels, and laser-induced-fluorescence detection - establishing the planar-glass uTAS platform that dominated the next decade. Discloses: a cross/double-T channel network with multiple reservoirs; voltage-program-controlled electrokinetic sample injection, separation, and dilution entirely by switching electrode potentials with no moving parts; sub-nL defined injection volumes; and integrated optical detection. Anticipates claims to: electrokinetically valved sample injection at channel intersections; multi-reservoir voltage-programmed CE microchips; HF-etched glass CE channel networks; and integrated LIF detection on a CE chip. Distinct companion to existing harrison-1992-cap-electrophoresis-on-chip and harrison-1993-electroosmotic-cycling entries; cross-referenced. Ancestor of jacobson-1994-pinched-injection, effenhauser-1993-glass-microchip-electrophoresis, mathies-1995-radial-cap-array, and burns-1998-integrated-dna-analysis-device.
+
 ## Pinched injection on glass CE microchips (1994)
 
 - **id**: `jacobson-1994-pinched-injection`
@@ -84,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jacobson, S. C.; Hergenroder, R.; Koutny, L. B.; Warmack, R. J.; Ramsey, J. M. Effects of injection schemes and column geometry on the performance of microchip electrophoresis devices. Anal. Chem. 1994, 66, 1107–1113. DOI: 10.1021/ac00079a028
 - **ip status**: public-domain
 - **prior art notes**: Disclosed pinched-injection geometry for chip CE: a four-port crossed-channel layout with simultaneously pulled sample-and-buffer arms generates a precisely defined sub-nanoliter sample plug. Anticipates: pinched-injection cross geometry as the standard chip-CE injection primitive, used in essentially every subsequent commercial CE chip. Among Ramsey's most-cited microfluidics papers.
+
+## Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips (Woolley & Mathies, 1994) (1994-11-22)
+
+- **id**: `woolley-mathies-1994-microfabricated-capillary-array-electrophoresis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Adam T. Woolley & Richard A. Mathies, UC Berkeley
+- **disclosure**: Woolley, A. T.; Mathies, R. A. Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips. Proc. Natl. Acad. Sci. U.S.A. 1994, 91 (24), 11348-11352. DOI: 10.1073/pnas.91.24.11348.
+- **ip status**: public-domain
+- **prior art notes**: Demonstrated DNA-fragment electrophoretic separations on a glass microchip with a sieving polymer matrix achieving separations in seconds-to-minutes, and laid the groundwork for microfabricated capillary-array electrophoresis (CAE) for high-throughput DNA sizing and sequencing. Discloses: HF-etched glass channels filled with replaceable polymer sieving matrices for size separation of dsDNA; high-field ultra-fast electrophoresis enabled by efficient Joule-heat dissipation in shallow channels; on-chip LIF detection; and the scaling toward parallel channel arrays read by a scanning confocal detector. Anticipates claims to: polymer-sieving DNA separations in microchannels; high-field rapid microchip electrophoresis; capillary-array electrophoresis on a single substrate; and confocal-scanner readout of parallel separation channels. Distinct companion to existing mathies-1995-radial-cap-array; cross-referenced. Ancestor of microchip DNA-sequencing and high-throughput-genotyping platforms.
 
 ## Radial capillary-array electrophoresis chip (1995)
 
@@ -134,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kopp, M. U.; de Mello, A. J.; Manz, A. Chemical amplification: continuous-flow PCR on a chip. Science 1998, 280, 1046–1048. DOI: 10.1126/science.280.5366.1046
 - **ip status**: patented
 - **prior art notes**: Disclosed continuous-flow PCR on chip: serpentine glass channel passes through three temperature zones (denature/anneal/extend), with the number of cycles equal to the number of channel passes through each zone. Anticipates: spatial-temperature-zone PCR architecture as alternative to time-domain thermal cycling, and the entire continuous-flow PCR subfield. Architectural ancestor of many subsequent flow-PCR designs.
+
+## Chemical amplification: continuous-flow PCR on a chip (Kopp, de Mello & Manz, 1998) (1998-05-15)
+
+- **id**: `kopp-1998-continuous-flow-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Martin U. Kopp, Andrew J. de Mello, Andreas Manz, Imperial College London
+- **disclosure**: Kopp, M. U.; de Mello, A. J.; Manz, A. Chemical amplification: continuous-flow PCR on a chip. Science 1998, 280 (5366), 1046-1048. DOI: 10.1126/science.280.5366.1046.
+- **ip status**: public-domain
+- **prior art notes**: Introduced continuous-flow (flow-through) PCR: instead of cycling the temperature of a static chamber, the reaction mixture is pumped through a serpentine microchannel that repeatedly traverses three zones held at fixed denaturation, annealing, and extension temperatures, so the time-domain thermal protocol becomes a spatial one - removing thermal-ramp limits and enabling very fast amplification. Discloses: spatially-multiplexed isothermal-zone architecture for thermal cycling; cycle number set by channel geometry (number of passes); cycle time set by flow rate and zone-segment lengths; and the elimination of bulk-heater thermal mass as the rate limit. Anticipates claims to: continuous-flow / flow-through nucleic-acid amplification microdevices; fixed-temperature-zone serpentine PCR chips; flow-rate-controlled cycling kinetics; and spatial-domain implementations of any cyclic thermal protocol. Companion to wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures and northrup-1993-silicon-pcr-microreactor (static-chamber predecessors); ancestor of droplet-PCR and microfluidic digital-PCR throughput architectures.
 
 ## Ramsey integrated chip-MS extensions (post-1996) (2000)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**109 corpus entries disclose this subsystem.**
+**116 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1945
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Van Vogt A.E., 'The World of Null-A' Astounding Science Fiction Aug-Oct 1945; novel ISBN 978-0-7653-0883-3
 - **ip status**: fictional
 - **prior art notes**: Disclosure of parallel cloned-body biofluidic preservation reservoir with consciousness-transfer biofluidic interface. Anticipates claims directed to parallel preserved-body biofluidic reservoirs with addressable consciousness-transfer interfaces. 1945 disclosure substantially predates most cloning-tank fictional prior art.
+
+## Heart-Shaped Herb extraction and ritual infusion (Black Panther) (1966-07-01)
+
+- **id**: `black-panther-heart-shaped-herb-processing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics (Stan Lee & Jack Kirby); Marvel Studios (Ryan Coogler)
+- **disclosure**: Fantastic Four #52-53 (Marvel Comics, July-August 1966, Lee/Kirby) introduce the Black Panther mantle and the herb; the explicit extraction/infusion ritual depicted in Black Panther (Marvel Studios, theatrical release 2018-02-16, IMDB tt1825683); re-synthesis in Black Panther: Wakanda Forever (Marvel Studios, 2022, IMDB tt9114286).
+- **ip status**: fictional
+- **prior art notes**: Discloses a botanical-extract augmentation: a vibranium-mutated plant processed into a calibrated single-dose infusion that physically augments the recipient, a paired reversal preparation, and a later artificial re-synthesis route. Anticipates generic claims to plant-derived augmentation extracts with calibrated dosing, paired reversal agents, and synthetic re-creation of a natural augmenting compound. Pairs with bioshock-plasmid-injection and dune-spice-related entries.
 
 ## Polaroid blister-pod chemistry patent extensions (1970)
 
@@ -214,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bungie, Halo: Combat Evolved (Microsoft 2001-11-15); Halo Visual Guide (DK 2011) ISBN 978-0-7566-7711-5 — Pelican interior schematics.
 - **ip status**: fictional
 - **prior art notes**: Pelican dropship interiors depicted with wall-mounted medical kits providing immediate single-use biofoam injectors, IV reservoirs, and a fold-out gurney with patient-restraint manifold. Anticipates: vehicle-mounted single-shot medical reagent dispensers with foil-burst activation; combined gurney + reagent manifold built into a transport vehicle bulkhead; ruggedized impact-tolerant reagent reservoirs for combat-vehicle deployment.
+
+## SPARTAN-II augmentation: the eight separate procedures and washout cases (Halsey protocols) (2001-10-30)
+
+- **id**: `halo-spartan-ii-eight-procedures-detail`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bungie / Eric Nylund; in-fiction Dr. Catherine Halsey
+- **disclosure**: Halo: The Fall of Reach (Eric Nylund, Del Rey, 2001) ISBN 978-0-345-45132-9, chapters detailing the augmentation procedures; reaffirmed in Halo: First Strike (Nylund, 2003) and Dr. Halseys journal (Halo: Reach Limited Edition, 2010).
+- **ip status**: fictional
+- **prior art notes**: Extends halo-spartan-ii-augmentation-procedure with the explicit per-procedure breakdown: eight distinct staged interventions, each with a specified delivery route (infusion, IM injection, intra-osseous perfusion, implant), precise mass-indexed dosing, continuous monitoring, and a documented adverse-outcome stratification. Anticipates generic claims to staged multi-route augmentation protocols with mass-indexed dosing and outcome stratification, and specifically to intra-osseous infusion of a bone-hardening agent. Pairs with halo-spartan-iii-spi-armor-injection and halo-spartan-iv-bone-density-treatment.
 
 ## Firefly Simon Tam handheld medical kit (2002)
 
@@ -525,6 +545,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Reach gameplay shows Spartan healing from MJOLNIR-integrated biofoam reservoir with wound-detection sensors triggering auto-administration. Noble Team field medkits depicted as a multi-bay foil pack with biofoam, stim, and antiviral cartridges. Anticipates: armor-integrated trauma reagent reservoirs with wound-detection-triggered auto-injection; multi-bay foil-burst medkits with selectable cartridges; closed-loop wound diagnostics + reagent dispensing in body-worn equipment.
 
+## Bleeding Edge subdermal nanofluid armor reservoir and the Extremis injection sequence (Iron Man) (2010-05-01)
+
+- **id**: `iron-man-bleeding-edge-subdermal-nanofluid-reservoir`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Matt Fraction & Salvador Larroca (Bleeding Edge); Warren Ellis & Adi Granov (Extremis sequence)
+- **disclosure**: Invincible Iron Man #25 onward (Marvel Comics, 2010), Matt Fraction & Salvador Larroca -- the Bleeding Edge armor stored as nanofluid in hollow subdermal/intra-osseous reservoirs; the agonizing Extremis-injection-and-reconfiguration sequence in Iron Man vol. 4 #1-6 (Marvel Comics, 2005-2006, Warren Ellis & Adi Granov); film Extremis-injection scenes in Iron Man 3 (Marvel Studios, 2013, IMDB tt1300854).
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a subdermal/intra-osseous nanofluid reservoir that stores a deployable structure and extrudes it on command, and (b) an injected nano-agent that rewrites a body to a stored schematic via its own repair pathways over a documented timed reconfiguration. Anticipates generic claims to subdermal nanofluid reservoirs with on-demand extrusion and to schematic-driven somatic-reconfiguration injectables with timed reconfiguration. Extends the existing iron-man-extremis-injection entry with the Bleeding Edge subdermal-storage subsystem and the explicit injection-sequence detail. Pairs with iron-man-extremis-injection, doctor-who-empty-child-nanogene-rewrite, and bioshock-plasmid-injection.
+
 ## The Expanse Rocinante shipboard medical bay (auto-doc) (2011)
 
 - **id**: `expanse-rocinante-medical-bay`
@@ -594,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AncestryDNA consumer launch May 2012; tube manufacturer disclosures
 - **ip status**: patented
 - **prior art notes**: Sister entry to 23andMe collection tube (same DNA Genotek architecture). Listed for completeness of the consumer-shipped microfluidic neighborhood.
+
+## Paternoster Gang Victorian-era surgical and revival kit (Madame Vastra / Strax) (2012-09-22)
+
+- **id**: `doctor-who-paternoster-gang-victorian-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Steven Moffat (Vastra/Jenny/Strax characters)
+- **disclosure**: Doctor Who, The Snowmen (BBC, 2012-12-25); Strax as field nurse in A Good Man Goes to War (BBC, 2011-06-04); detailed in Deep Breath (BBC, 2014-08-23) and The Crimson Horror (BBC, 2013-05-04); IMDB tt1305824.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable, field-deployable surgical-plus-biochemical kit including reagent vials, injection delivery, and a wet-chemistry forensic readout (retinal-image recovery) run outside a laboratory. Anticipates generic claims to portable point-of-care wet-chemistry kits combining injection delivery, reagent storage, and an in-field optical readout. Pairs with star-wars-2-1b-medical-droid and the Star Trek portable-tricorder lineage.
 
 ## Dishonored - Sokolovs Elixir (2012-10-09)
 
@@ -735,6 +775,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
 
+## Healing Church blood ministration and Old Blood transfusion (Bloodborne) (2015-03-24)
+
+- **id**: `bloodborne-healing-church-blood-ministration`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FromSoftware; director Hidetaka Miyazaki
+- **disclosure**: Bloodborne (FromSoftware / Sony Computer Entertainment, released 2015-03-24); the opening blood-ministration scene, the Healing Church lore, and the blood-vial healing item shown throughout; The Old Hunters DLC (2015).
+- **ip status**: fictional
+- **prior art notes**: Discloses a medicine built on blood transfusion: a clinical blood-ministration procedure, portable self-injected blood preparations, a hierarchy of blood potencies including a near-universal cure with a documented severe adverse outcome, and an institution for harvesting and refining the preparations. Anticipates generic claims to transfusion-based therapeutic platforms with portable self-administered formats and potency stratification. Pairs with bioshock-plasmid-injection and the Lazarus-Pit / vampire-blood entries.
+
 ## Witcher 3 in-game alchemy station crafting interface (2015-05-19)
 
 - **id**: `witcher-3-game-alchemy-station`
@@ -834,6 +884,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Goesmann F et al., 'The Mars Organic Molecule Analyzer (MOMA) Instrument: Characterization of Organic Material in Martian Sediments,' Astrobiology 17(6-7):655-685 (2017), doi:10.1089/ast.2016.1551
 - **ip status**: public-domain
 - **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
+
+## Dr. Stone petrification cure / revival fluid (nital-acid revival formula) (2017-03-06)
+
+- **id**: `dr-stone-petrification-revival-fluid`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Riichiro Inagaki & Boichi; Shueisha / Viz Media
+- **disclosure**: Dr. Stone, by Riichiro Inagaki (story) and Boichi (art), serialized in Weekly Shonen Jump from 2017-03-06; Viz Media English vol. 1 (2018) ISBN 978-1-9747-0058-8; anime adaptation TMS Entertainment (2019).
+- **ip status**: fictional
+- **prior art notes**: Discloses an improvised wet-chemistry reagent for reversing a whole-body mineralization, derived from primitive feedstocks, applied topically/by immersion, with empirical dose-response titration and arbitrary scale-up. Anticipates generic claims to topical de-mineralization reagents and to scalable immersion-revival formulations. Borderline for a microfluidics corpus (no chip) but the formulated-reagent-plus-titration workflow is the cited element. Pairs with star-trek-genesis-device-matrix and bioshock-plasmid-bottling-plant.
 
 ## EOFlow EOPatch Insulin Pump (2017-06)
 
@@ -1004,6 +1064,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
 - **ip status**: patented
 - **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## USS Protostar holographic medbay (Holo-Janeway / Star Trek: Prodigy) (2021-10-28)
+
+- **id**: `star-trek-prodigy-protostar-holo-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CBS Studios / Kevin Hageman & Dan Hageman, Alex Kurtzman
+- **disclosure**: Star Trek: Prodigy, Lost and Found Parts 1-2 (S1E01-02, premiered 2021-10-28 on Paramount+), created by Kevin and Dan Hageman; IMDB tt9795876.
+- **ip status**: fictional
+- **prior art notes**: Discloses an AI-directed automated medbay (holographic advisor plus biobed plus hypospray delivery) sized for a small vessel with limited supplies. Anticipates generic claims to AI-supervised automated point-of-care medical bays. Extends star-trek-voy-emh-emergency-kit and star-trek-autodoc-tos-tng into the small-crew context. Draft.
 
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 

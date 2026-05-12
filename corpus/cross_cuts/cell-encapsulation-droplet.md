@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**33 corpus entries disclose this subsystem.**
+**42 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Focus is a cognitive-modification therapy administered through a controlled neuroviral payload. The 'Mindrot' progenitor was a biological agent; Focus is engineered downstream. Defensive prior art for: targeted-delivery cognitive-modification therapeutics and engineered-virus drug-delivery systems.
 
+## Dr. Allison Mann's parthenogenesis / cloning lab and the global sperm-bank crisis (Y: The Last Man) (2002-09-01)
+
+- **id**: `y-the-last-man-mann-cloning-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: DC/Vertigo; Brian K. Vaughan & Pia Guerra
+- **disclosure**: Y: The Last Man #1-60 (DC/Vertigo, 2002-2008), written by Brian K. Vaughan, art by Pia Guerra; Dr. Mann's lab and her self-clone are central from #3 onward; collected as ten trade paperbacks (vol. 1 ISBN 978-1-56389-980-4).
+- **ip status**: fictional
+- **prior art notes**: Discloses a reproductive-biology field lab performing micromanipulation, embryo culture, and cryostorage for cloning and parthenogenesis, plus the management of distributed gamete/embryo banks under scarcity. Anticipates generic claims to austere-field reproductive-biology workflows (oocyte handling + embryo culture + cryostorage in a single small lab) and to distributed gamete-bank allocation systems. Pairs with bujold-vorkosigan-uterine-replicator and gattaca-instant-genome-readout.
+
 ## Microfluidic alginate microbead generation (2007)
 
 - **id**: `choi-weitz-2007-alginate-microbead`
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Choi, C.-H.; Jung, J.-H.; Rhee, Y. W.; Kim, D.-P.; Shim, S.-E.; Lee, C.-S. Generation of monodisperse alginate microbeads and in situ encapsulation of cell in microfluidic device. Biomed. Microdevices 2007, 9, 855–862. DOI: 10.1007/s10544-007-9098-7
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of microfluidic alginate microbead generation: aqueous alginate flow-focused into oil with downstream calcium-mediated gelation produces monodisperse alginate microbeads suitable for cell encapsulation. Anticipates: alginate-as-microbead-substrate-in-droplet-microfluidics, which became the backbone of single-cell sequencing platforms (Drop-seq, inDrops, Tapestri) where the bead encapsulates barcoding oligos.
+
+## Dalek Sec human-Dalek hybrid fusion vat (Daleks in Manhattan / Evolution of the Daleks) (2007-04-21)
+
+- **id**: `doctor-who-dalek-sec-hybrid-vat`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Helen Raynor
+- **disclosure**: Doctor Who, Daleks in Manhattan (BBC, broadcast 2007-04-21) and Evolution of the Daleks (BBC, broadcast 2007-04-28), written by Helen Raynor; IMDB tt0995845.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) an immersion-tank fusion of two whole organisms to yield a chimera, (b) extraction and reservoir storage of a genetic solution from one donor lineage, (c) distributed delivery of that solution to many recipients through a conduit/antenna. Anticipates generic claims to organism-fusion bioreactors, to extraction-and-reservoir-storage of genetic material for later bulk dosing, and to centralized distributed gene-delivery to a population. Pairs with doctor-who-davros-kaled-mutant-vats and Octavia Butler Oankali gene-trading entries.
 
 ## Organovo NovoGen MMX Bioprinter Dual Extrusion Bioprinthead (2009)
 
@@ -95,6 +115,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
 
+## Project Gestalt replicant-decanting facility (NieR Replicant / Gestalt) (2010-04-22)
+
+- **id**: `nier-replicant-project-gestalt-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Cavia / Toylogic / Square Enix; director Yoko Taro
+- **disclosure**: NieR Replicant / NieR Gestalt (Cavia / Square Enix, released 2010-04-22); remaster NieR Replicant ver.1.22474487139... (Toylogic / Square Enix, 2021); the Project Gestalt backstory and the replicant facilities (the Aerie, the Shadowlords Castle) shown across the game and the Grimoire NieR companion materials.
+- **ip status**: fictional
+- **prior art notes**: Discloses a population-scale program that mass-cultures human-form bodies in perfusion vats while separately storing an extracted essence, with an intended recombination step. Anticipates generic claims to mass-vat body culture coupled with separate essence storage and recombination. Pairs with brave-new-world-bokanovsky-process, doctor-who-flesh-ganger-vats, and cherryh-cyteen azi-decanting entries.
+
 ## The Expanse protomolecule fluid biology (Eros and Venus events) (2011)
 
 - **id**: `expanse-protomolecule-eros-fluidic-biology`
@@ -105,6 +135,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The protomolecule is depicted as a programmable fluid-biological substance that, when distributed through a habitat (Eros) or planetary surface (Venus), self-organizes into directed transport networks, lifts mass against gravity, and reconfigures inorganic and organic feedstock. Scenes show fluidic flow over the Eros station surfaces and the Venus restructuring as a coordinated chemical reaction-diffusion event. Reads as prior art for: chemically-programmable self-assembling reagent networks; reaction-diffusion-driven structure formation; directed liquid-state robotic feedstocks. Importantly anticipates the architectural concept of a 'reagent that builds infrastructure on demand' — a recurring theme in synthetic biology and programmed-matter patents.
 
+## The Flesh / Ganger programmable-matter vats (The Rebel Flesh / The Almost People) (2011-05-21)
+
+- **id**: `doctor-who-flesh-ganger-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Matthew Graham
+- **disclosure**: Doctor Who, The Rebel Flesh (BBC, broadcast 2011-05-21) and The Almost People (BBC, broadcast 2011-05-28), written by Matthew Graham; IMDB tt1832965.
+- **ip status**: fictional
+- **prior art notes**: Discloses an industrial vat process for fabricating whole-body biological copies on demand: (a) bulk culture and maintenance of a programmable cell-mass in pumped, circulated vats, (b) acquisition of a template from a living donor, (c) physical instantiation of a full anatomy from the bulk matter under that template, (d) reversible dissolution back to feedstock. Anticipates generic claims to on-demand whole-organ or whole-body fabrication from a recirculated programmable-cell feedstock vat and to reversible biofabrication. Pairs with halo-forerunner-composer-fluidic and black-mirror replica-body entries.
+
+## Be Right Back synthetic-body activation vat (Black Mirror) (2013-02-11)
+
+- **id**: `black-mirror-be-right-back-synthetic-body-vat`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Channel 4 / Charlie Brooker (Zeppotron)
+- **disclosure**: Black Mirror, Be Right Back (S2E01, Channel 4, first aired 2013-02-11), written by Charlie Brooker; IMDB tt2290780.
+- **ip status**: fictional
+- **prior art notes**: Discloses a consumer-grade home-activated synthetic-body fabrication: inert feedstock plus a bath of activator fluid plus a few hours yields a full templated adult body, then animated by an AI personality model. Anticipates generic claims to consumer-deployed immersion-activated biofabrication of a full body and to fabricated-body-plus-personality-model replica systems. Pairs with doctor-who-flesh-ganger-vats, black-mirror-beyond-the-sea-replicas (below), and the Westworld host lineage.
+
 ## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
 
 - **id**: `broad-institute-drop-seq-patent-family`
@@ -114,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US10221442 priority 2014; US20170029873; WO2014210353 (Broad Institute / Harvard / Steve McCarroll lab)
 - **ip status**: patented
 - **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
+
+## Zygon body-print pod (Day of the Doctor / The Zygon Invasion) (2013-11-23)
+
+- **id**: `doctor-who-zygon-body-print-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Steven Moffat (origin Robert Banks Stewart, 1975)
+- **disclosure**: Doctor Who, The Day of the Doctor (BBC, broadcast 2013-11-23), written by Steven Moffat; detailed in The Zygon Invasion / The Zygon Inversion (BBC, 2015); origin Terror of the Zygons (BBC, 1975); IMDB tt2779318.
+- **ip status**: fictional
+- **prior art notes**: Discloses an immersion-pod process for producing a full-body organic copy from a living donor: donor immersed/suspended in a templating bath, complete biological pattern (including recent memories) read out, duplicate body instantiated. Anticipates whole-body organic-replica fabrication from a suspended living template claims and links donor-suspension life support to copy-instantiation. Pairs with doctor-who-flesh-ganger-vats and black-mirror replica-body entries.
 
 ## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
 
@@ -304,6 +364,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rosenberg, A. B. et al. Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science 2018, 360, 176-182. DOI: 10.1126/science.aam8999. Parse Biosciences (Split Biosciences) commercial launch 2019.
 - **ip status**: patented
 - **prior art notes**: Combinatorial split-pool barcoding kit derived from the SPLiT-seq method (Rosenberg & Roco 2018). Each cell or nucleus is fixed and permeabilized, then distributed across plate wells through 3-4 sequential rounds of in-cell barcode oligo ligation/RT; the cell itself is the compartment, no droplet generator or microwell chip is required. Anticipates: instrument-free, plate-based combinatorial single-cell barcoding architectures; fixable-sample workflows for single-cell RNA-seq that decouple sample collection from library prep; the architectural distinction from 10x Chromium (no droplet microfluidics, only multichannel pipettors and 96-well plates) enabling sub-$1 per-cell economics at >100k cell scale. Also anticipates instrument-side passive fluidic handling consisting solely of plate transfer and centrifugation.
+
+## Mycelial network medbay resurrection of Hugh Culber (Star Trek: Discovery S2) (2019-02-21)
+
+- **id**: `star-trek-discovery-mycelial-resurrection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CBS Studios / Bryan Fuller, Alex Kurtzman, Kirsten Beyer
+- **disclosure**: Star Trek: Discovery, Saints of Imperfection (S2E05, first aired 2019-02-21), written by Kirsten Beyer; the spore-drive medbay context across S1-S2; IMDB tt5171438.
+- **ip status**: fictional
+- **prior art notes**: Discloses a network-substrate biological preservation-and-reconstitution: a deceased pattern held in a distributed biological network, then re-grown in a perfused cocoon and extracted. Anticipates generic claims to distributed-substrate biological pattern storage and to perfused-cocoon reconstitution of an organism from a stored pattern. Pairs with star-trek-snw-transporter-buffer-stasis and doctor-who-flesh-ganger-vats.
+
+## Krakoan resurrection protocols -- the Five (House of X / Powers of X) (2019-07-24)
+
+- **id**: `x-men-krakoa-resurrection-protocols`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Jonathan Hickman
+- **disclosure**: House of X #1-6 / Powers of X #1-6 (Marvel Comics, July-October 2019), written by Jonathan Hickman, art by Pepe Larraz and R.B. Silva; the resurrection mechanic detailed in House of X #5 (October 2019).
+- **ip status**: fictional
+- **prior art notes**: Discloses an industrial biological-resurrection pipeline: a banked genetic template plus a banked mind backup plus a fixed multi-stage process (vessel generation, body stabilization, biology initiation, age acceleration, amplification) yielding a restored individual from a husk. Anticipates generic claims to template-plus-backup-driven whole-organism resurrection pipelines with staged maturation. Pairs with x-men-sinister-cloning-vats (below), bujold-jacksonian-bharaputra-clone-vat, and star-trek-discovery-mycelial-resurrection.
+
+## Coppelius / Daystrom synthetic-body fabrication and golem mind-transfer lab (Star Trek: Picard S1) (2020-01-23)
+
+- **id**: `star-trek-picard-soong-synthetics-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CBS Studios / Akiva Goldsman, Michael Chabon, Kirsten Beyer, Alex Kurtzman
+- **disclosure**: Star Trek: Picard, season 1 (CBS All Access / Paramount+, premiered 2020-01-23); the golem and synth fabrication shown in Et in Arcadia Ego, Parts 1-2 (S1E09-10, aired 2020-03-19 / 2020-03-26); IMDB tt8806524.
+- **ip status**: fictional
+- **prior art notes**: Discloses a synthetic-tissue body fabrication line plus a maintained blank-body reservoir plus a neural-pattern transfer that instantiates a person into the fabricated body. Anticipates generic claims to organic-substrate android fabrication, to maintained blank-body reservoirs awaiting a pattern, and to consciousness-into-fabricated-body transfer workflows. Pairs with star-trek-replicator, doctor-who-flesh-ganger-vats, and the Westworld host-fabrication lineage.
 
 ## Scale Biosciences single-cell split-pool kit (2022)
 

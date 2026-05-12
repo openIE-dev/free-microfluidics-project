@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**63 corpus entries disclose this subsystem.**
+**65 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The first demonstration of PCR in a silicon microfabricated reaction chamber with integrated heater. Predates Wittwer's commercial RapidCycler and Manz's continuous-flow PCR; the architectural ancestor of all subsequent silicon-microreactor PCR work. Among the foundational references in chip-format molecular diagnostics — disclosed five years before the µTAS-era PCR chip explosion.
 
+## PCR in silicon microstructures (Wilding, Shoffner & Kricka, 1994) (1994-09)
+
+- **id**: `wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Peter Wilding, Mann A. Shoffner, Larry J. Kricka, University of Pennsylvania
+- **disclosure**: Wilding, P.; Shoffner, M. A.; Kricka, L. J. PCR in a silicon microstructure. Clin. Chem. 1994, 40 (9), 1815-1818. DOI: 10.1093/clinchem/40.9.1815.
+- **ip status**: public-domain
+- **prior art notes**: One of the founding demonstrations of on-chip polymerase chain reaction: thermal cycling of a PCR mixture inside a silicon micromachined reaction chamber sealed with glass, with surface passivation to prevent inhibition of the polymerase by the silicon/oxide walls. Discloses: micromachined silicon-glass PCR chambers of microlitre volume; the wall-passivation problem (PCR inhibition by bare silicon, native oxide, and metals) and its mitigation by oxide growth, silanization, or BSA/polymer coating - a result essential to all subsequent on-chip PCR; rapid thermal cycling enabled by the small thermal mass; and successful amplification of human genomic targets in the chip. Anticipates claims to: micromachined PCR reaction chambers; surface-passivated silicon nucleic-acid-amplification cavities; small-thermal-mass rapid PCR cycling; and integration of PCR into a chip-scale diagnostic. Distinct from existing northrup-1993-silicon-pcr-microreactor (Lawrence Livermore device); cross-referenced as the parallel Penn origin. Ancestor of cheng-1996-chip-pcr-ii, continuous-flow PCR (kopp-1998-continuous-flow-pcr-on-chip), and integrated PCR-CE devices (burns-1998-integrated-dna-analysis-device).
+
 ## Stratagene QuikChange (1995) patent family extensions (1995)
 
 - **id**: `stratagene-quikchange-patent-extensions`
@@ -104,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kopp, M. U.; de Mello, A. J.; Manz, A. Chemical amplification: continuous-flow PCR on a chip. Science 1998, 280, 1046–1048. DOI: 10.1126/science.280.5366.1046
 - **ip status**: patented
 - **prior art notes**: Disclosed continuous-flow PCR on chip: serpentine glass channel passes through three temperature zones (denature/anneal/extend), with the number of cycles equal to the number of channel passes through each zone. Anticipates: spatial-temperature-zone PCR architecture as alternative to time-domain thermal cycling, and the entire continuous-flow PCR subfield. Architectural ancestor of many subsequent flow-PCR designs.
+
+## Chemical amplification: continuous-flow PCR on a chip (Kopp, de Mello & Manz, 1998) (1998-05-15)
+
+- **id**: `kopp-1998-continuous-flow-pcr-on-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Martin U. Kopp, Andrew J. de Mello, Andreas Manz, Imperial College London
+- **disclosure**: Kopp, M. U.; de Mello, A. J.; Manz, A. Chemical amplification: continuous-flow PCR on a chip. Science 1998, 280 (5366), 1046-1048. DOI: 10.1126/science.280.5366.1046.
+- **ip status**: public-domain
+- **prior art notes**: Introduced continuous-flow (flow-through) PCR: instead of cycling the temperature of a static chamber, the reaction mixture is pumped through a serpentine microchannel that repeatedly traverses three zones held at fixed denaturation, annealing, and extension temperatures, so the time-domain thermal protocol becomes a spatial one - removing thermal-ramp limits and enabling very fast amplification. Discloses: spatially-multiplexed isothermal-zone architecture for thermal cycling; cycle number set by channel geometry (number of passes); cycle time set by flow rate and zone-segment lengths; and the elimination of bulk-heater thermal mass as the rate limit. Anticipates claims to: continuous-flow / flow-through nucleic-acid amplification microdevices; fixed-temperature-zone serpentine PCR chips; flow-rate-controlled cycling kinetics; and spatial-domain implementations of any cyclic thermal protocol. Companion to wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures and northrup-1993-silicon-pcr-microreactor (static-chamber predecessors); ancestor of droplet-PCR and microfluidic digital-PCR throughput architectures.
 
 ## Fluidigm Integrated Fluidic Circuit Controller Patent Family (2002)
 

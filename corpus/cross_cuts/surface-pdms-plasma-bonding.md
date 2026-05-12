@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-pdms-plasma-bonding`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998
 
@@ -44,3 +44,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OpenWetWare launched May 2005 at MIT by Knight T., Endy D., et al.; https://openwetware.org; foundational paper Bobe J., Endy D., 'OpenWetWare: a wiki for sharing biology lab protocols', Yeast 24:s223 (2007)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses a long-running open protocol archive whose documented procedures for soft lithography, PDMS microfluidic fabrication, paper microfluidics, and on-chip cell culture, with timestamped wiki edit-histories from 2005 onward, are themselves citable prior art. Specifically anticipates protocol claims in many post-2010 patents for 'methods of fabricating PDMS microfluidic devices,' 'methods of bonding PDMS to glass,' and 'protocols for cell culture in microfluidic devices' to the extent these claims read on the OWW protocol pages timestamped before the patent's earliest priority date. Cite OWW page revision URLs (https://openwetware.org/index.php?title=...&oldid=...) for entry-specific anticipation.
+
+## Soft lithography for micro- and nanoscale patterning (Qin, Xia & Whitesides, Nature Protocols, 2010) (2010-03)
+
+- **id**: `whitesides-2010-nature-protocols-pdms-fabrication`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Dong Qin, Younan Xia, George M. Whitesides, Harvard
+- **disclosure**: Qin, D.; Xia, Y.; Whitesides, G. M. Soft lithography for micro- and nanoscale patterning. Nat. Protoc. 2010, 5 (3), 491-502. DOI: 10.1038/nprot.2009.234.
+- **ip status**: public-domain
+- **prior art notes**: The widely-followed step-by-step protocol that codified PDMS soft-lithography microfabrication for non-specialist laboratories - the de facto foundry recipe behind a large fraction of academic microfluidic devices. Discloses, in reproducible detail: photomask layout and printing; SU-8 photoresist master fabrication on silicon with feature heights from a few microns to hundreds of microns; degassed-PDMS casting, curing, and demolding; oxygen-plasma activation and irreversible PDMS-glass and PDMS-PDMS bonding; inlet/outlet punching and tubing interfacing; and multilayer alignment for valve chips. Anticipates claims to: standardized PDMS replica-molding microfluidic fabrication workflows; plasma-bonded PDMS-glass channel sealing; SU-8-master-defined microchannel geometries; and the generic rapid-prototyping foundry process. Distinct from existing duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, mcdonald-whitesides-2002-pdms-review, and whitesides-2010-mu-pads-systematic; cross-referenced as the published protocol node of the Whitesides soft-lithography lineage (the patented aspects are covered by whitesides-patent-family-soft-lithography).

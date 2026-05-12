@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-koh-etching`
 
-**15 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1977-08
+Earliest disclosure: 1977-07-15
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Ink jet printing nozzle arrays etched in (100) silicon (Bassous, Taub & Kuhn, 1977) (1977-07-15)
+
+- **id**: `bassous-taub-kuhn-1977-inkjet-nozzle-array-silicon`
+- **corpus**: academic
+- **device class**: inkjet-printhead
+- **creator**: Ernest Bassous, Harvey H. Taub, Larry Kuhn, IBM
+- **disclosure**: Bassous, E.; Taub, H. H.; Kuhn, L. Ink jet printing nozzle arrays etched in single-crystal silicon. Appl. Phys. Lett. 1977, 31 (2), 135-137. DOI: 10.1063/1.89587.
+- **ip status**: public-domain
+- **prior art notes**: First demonstration of dimensionally precise micro-orifice arrays made by KOH anisotropic etching of (100) silicon for continuous-jet ink-jet printing - both a foundational MEMS fabrication result and a founding microfluidic-component disclosure. Discloses: square-mask anisotropic etching of (100) Si producing self-terminating {111}-walled pits and through-wafer orifices whose size is set photolithographically; arrays of such orifices on tight pitch with the uniformity needed for multi-nozzle ink jets; and the use of silicon micromachining to make a fluidic dispensing component. Anticipates claims to: silicon micromachined nozzle/orifice arrays; anisotropic-etch-defined microfluidic apertures; and wafer-scale fabrication of droplet-ejection arrays. Distinct companion to the existing bassous-1977-ibm-inkjet-nozzle entry (this entry foregrounds the Appl. Phys. Lett. 31, 135 disclosure and the array aspect); cross-referenced. Ancestor of the thermal- and piezoelectric-inkjet printheads (canon-bubble-jet-printhead, hp-thinkjet-thermal-inkjet) and of silicon-microfluidic fabrication generally.
 
 ## Bassous & Taub 1977 — IBM Silicon Inkjet Nozzle Array (1977-08)
 
@@ -25,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Bassous 1977 is the canonical published prior art for silicon-micromachined inkjet nozzles. Anticipates: (a) all subsequent silicon-orifice inkjet patents whose only novel feature is the silicon-anisotropic-etched orifice geometry; (b) by extension, the entire class of silicon-MEMS inkjet printheads (HP, Canon, Lexmark, Epson MEMS); (c) silicon-orifice droplet generators in microfluidic chips. Published in APL with full process disclosure including KOH etch chemistry and orifice dimensions, this is one of the strongest single-paper anchors for silicon-microfluidic-orifice prior art. Particularly important because IBM published rather than patented these initial nozzle results — eliminating any priority claim by later silicon-inkjet patentees on the underlying orifice fabrication scheme.
 
+## Fabrication of novel three-dimensional microstructures by anisotropic etching of (100) and (110) silicon (Bassous, 1978) (1978-10)
+
+- **id**: `bassous-1978-three-dimensional-anisotropic-etching`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Ernest Bassous, IBM
+- **disclosure**: Bassous, E. Fabrication of novel three-dimensional microstructures by the anisotropic etching of (100) and (110) silicon. IEEE Trans. Electron Devices 1978, 25 (10), 1178-1185. DOI: 10.1109/T-ED.1978.19250.
+- **ip status**: public-domain
+- **prior art notes**: The systematic exposition of how orientation-dependent (anisotropic) wet etching of (100) and (110) silicon produces a toolkit of three-dimensional microstructures: V-grooves, truncated pyramidal cavities, through-wafer holes, suspended diaphragms, cantilever beams, and - crucially for microfluidics - long channels with near-vertical (90 deg) walls in (110)-oriented wafers. Discloses: the {111}-stop self-limiting etch geometry; mask-to-feature transformation rules; thin-membrane and through-hole fabrication by timed/etch-stop methods; and the vertical-wall (110) channel that became a staple of early silicon microfluidic devices. Anticipates claims to: anisotropically-etched silicon microchannels with controlled wall angle; KOH-defined silicon diaphragms for pressure sensors and pump membranes; V-groove fiber/capillary alignment features; and through-wafer fluidic vias. Companion to bassous-taub-kuhn-1977-inkjet-nozzle-array-silicon (same author/era) and ancestor of petersen-1982-silicon-mechanical-material and the silicon-micropump/microvalve work (van-lintel-1988-silicon-piezo-pump, esashi-1989-silicon-piezo-pump).
+
 ## Canon thermal Bubble Jet inkjet printhead (1979)
 
 - **id**: `canon-bubble-jet-printhead`
@@ -34,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Endo, I.; Sato, Y.; Saito, S.; Nakagiri, T.; Ohno, S. Liquid jet recording process and apparatus therefor. JP S54-59936A (1979); subsequent US patents include US4723129 (1988).
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of thermal bubble-jet inkjet printheads — almost certainly the highest-volume microfluidic device ever produced. Anticipates: integrated silicon-based microfluidic channels with embedded thin-film resistive heaters, on-demand vapor-bubble droplet ejection from microscale orifices, and the entire thermal-inkjet category of consumer printers. Microfluidics' largest commercial deployment by orders of magnitude predates the academic field's emergence.
+
+## A gas chromatographic air analyzer fabricated on a silicon wafer (Terry, Jerman & Angell, 1979) (1979-12)
+
+- **id**: `terry-jerman-angell-1979-silicon-gas-chromatograph-ieee`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen C. Terry, J. Hal Jerman, James B. Angell, Stanford University
+- **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26 (12), 1880-1886. DOI: 10.1109/T-ED.1979.19791. (Based on Terry, S. C., PhD thesis, Stanford University, 1975.)
+- **ip status**: public-domain
+- **prior art notes**: The first integrated micro total analysis system (uTAS): a complete miniature gas chromatograph - sample-injection valve, 1.5-metre spiral separation column, and thermal-conductivity detector - photolithographically patterned and etched into a single silicon wafer with a glass cover, separating air mixtures in seconds. Discloses: a long spiral microchannel column anisotropically etched in silicon and sealed with a bonded glass lid; an integrated diaphragm sample-injection valve; an on-chip resistive thermal-conductivity detector; and the entire integrated-fabrication paradigm of putting a multi-component analytical instrument on a chip - the founding prior art for lab-on-a-chip. Anticipates claims to: spiral microchannel separation columns in silicon; monolithically integrated injector + column + detector; wafer-scale fabrication of a chemical analyzer; and the generic uTAS concept later named by Manz 1990. Distinct companion to the existing terry-1979-stanford-gas-chromatograph entry (this entry foregrounds the IEEE T-ED 26, 1880 publication and the uTAS-precedent framing); cross-referenced. Ancestor of manz-1990-mu-tas-concept and the entire lab-on-chip lineage.
 
 ## High-performance heat sinking for VLSI (microchannel cooling) (1981)
 
@@ -95,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The seminal disclosure of integrated total chemical analysis on a single miniaturized substrate. Anticipates the entire concept of multi-step assay integration on a chip — sample prep, reagent addition, separation, and detection in one device. Any patent claim asserting novelty over 'integrated chemical analysis on a microscale chip' as a generic concept must contend with this 1990 paper.
 
+## Electrically activated normally-closed silicon diaphragm microvalves (Jerman, 1990) (1990-06)
+
+- **id**: `jerman-1990-normally-closed-microvalve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Hal Jerman, IC Sensors / EG&G IC Sensors
+- **disclosure**: Jerman, H. Electrically-activated, normally-closed diaphragm valves. Tech. Digest, Transducers 1991 (Int. Conf. Solid-State Sensors and Actuators), San Francisco, 1991, pp. 1045-1048. (Earlier presented at Transducers 1990; see also Jerman, H. J. Micromech. Microeng. 1994, 4, 210.) DOI: 10.1109/SENSOR.1991.149041.
+- **ip status**: public-domain
+- **prior art notes**: A canonical early integrated silicon microvalve: a bulk-micromachined silicon diaphragm seals a valve seat in the normally-closed state and is lifted by thermopneumatic actuation (a sealed cavity of fluid heated by an integrated resistor expands and deflects the membrane) to open the flow path. Discloses: a normally-closed (fail-safe) micromachined valve architecture; thermopneumatic membrane actuation with an integrated heater; a micromachined valve seat and corrugated diaphragm for low leakage and large stroke; and integration of the valve with silicon flow channels. Anticipates claims to: normally-closed micromachined valves; thermopneumatic-actuated microfluidic valves; resistor-heated sealed-cavity membrane drives; and corrugated-diaphragm low-leakage valve seats. Companion to the silicon-micropump lineage (van-lintel-1988-silicon-piezo-pump, esashi-1989-silicon-piezo-pump, smits-1989-piezo-peristaltic-pump) and an ancestor of integrated microvalve technology preceding the Quake pneumatic-membrane valve (unger-2000-quake-monolithic-membrane-valve).
+
 ## Wise 1991 — Silicon Microsystems for Instrumentation and Sensing (1991-04)
 
 - **id**: `wise-1991-silicon-microsystems-instrumentation`
@@ -105,6 +145,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Wise 1991 (and the 1996 expansion) catalogs the Michigan-group silicon-MEMS portfolio including the silicon micropump, micro-needle drug-delivery devices, and integrated chemical sensors. Anticipates: (a) silicon-needle drug-delivery patents (Mark Allen Georgia Tech 1998 and descendants); (b) integrated sensor-microfluidic chip patents that fail to disclose a non-obvious feature beyond silicon-on-silicon integration; (c) lab-on-chip patents claiming integration of micropump + microvalve + sensor on a single silicon die.
 
+## A bidirectional silicon micropump (Zengerle, Richter, Sandmaier, 1992) (1992)
+
+- **id**: `zengerle-1992-bidirectional-silicon-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Roland Zengerle and coworkers, University of the German Armed Forces / IMM Mainz
+- **disclosure**: Zengerle, R.; Richter, A.; Sandmaier, H. A micro membrane pump with electrostatic actuation. Proc. IEEE Micro Electro Mechanical Systems (MEMS 1992), Travemunde, 1992, pp. 19-24. Zengerle, R.; Ulrich, J.; Kluge, S.; Richter, M.; Richter, A. A bidirectional silicon micropump. Sens. Actuators A 1995, 50, 81-86. DOI: 10.1016/0924-4247(96)80088-4.
+- **ip status**: public-domain
+- **prior art notes**: An electrostatically actuated silicon membrane micropump whose direction of net flow can be reversed by changing the actuation frequency, exploiting the frequency-dependent dynamics of its two passive flap check valves (above the resonance of one valve the pump runs forward, in a band between the two valve resonances it pumps backward). Discloses: an electrostatically driven pump diaphragm in stacked-silicon construction; two passive cantilever/flap check valves; and - the key result - bidirectional pumping from a single unidirectional-looking valve pair via valve-resonance-dependent rectification, plus self-priming and bubble-tolerant operation. Anticipates claims to: frequency-controlled flow reversal in passive-valve micropumps; electrostatic-membrane micropumps; and dual-check-valve rectifier pump architectures. Companion to van-lintel-1988-silicon-piezo-pump, esashi-1989-silicon-piezo-pump, and smits-1989-piezo-peristaltic-pump in the silicon-micropump lineage; the IMM Mainz pump that helped found integrated drug-delivery micropumps.
+
 ## Gravesen 1993 — Microfluidics Review (1993)
 
 - **id**: `gravesen-1993-microfluidics-review`
@@ -114,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gravesen, P., Branebjerg, J., Jensen, O. S. (1993). 'Microfluidics — a review.' Journal of Micromechanics and Microengineering 3(4): 168-182. doi:10.1088/0960-1317/3/4/002
 - **ip status**: public-domain
 - **prior art notes**: Gravesen 1993 is one of the first explicit uses of 'microfluidics' as a field designator. Catalogs the state of the art in 1993: silicon piezoelectric pumps (van Lintel 1988, Esashi 1988-90), silicon membrane valves, silicon flow sensors, and silicon micromixers. Anticipates: (a) any post-1993 patent claim that recites a generic 'microfluidic system comprising pump, valve, mixer, sensor' integration (the integration architecture was reviewed and disclosed by 1993); (b) specific component claims to silicon piezoelectric pumps or membrane valves that fail to disclose a non-obvious geometric or functional feature beyond Gravesen's catalog. Critical anchor for invalidating broad silicon-microfluidic-system claims filed in the mid-1990s.
+
+## PCR in silicon microstructures (Wilding, Shoffner & Kricka, 1994) (1994-09)
+
+- **id**: `wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Peter Wilding, Mann A. Shoffner, Larry J. Kricka, University of Pennsylvania
+- **disclosure**: Wilding, P.; Shoffner, M. A.; Kricka, L. J. PCR in a silicon microstructure. Clin. Chem. 1994, 40 (9), 1815-1818. DOI: 10.1093/clinchem/40.9.1815.
+- **ip status**: public-domain
+- **prior art notes**: One of the founding demonstrations of on-chip polymerase chain reaction: thermal cycling of a PCR mixture inside a silicon micromachined reaction chamber sealed with glass, with surface passivation to prevent inhibition of the polymerase by the silicon/oxide walls. Discloses: micromachined silicon-glass PCR chambers of microlitre volume; the wall-passivation problem (PCR inhibition by bare silicon, native oxide, and metals) and its mitigation by oxide growth, silanization, or BSA/polymer coating - a result essential to all subsequent on-chip PCR; rapid thermal cycling enabled by the small thermal mass; and successful amplification of human genomic targets in the chip. Anticipates claims to: micromachined PCR reaction chambers; surface-passivated silicon nucleic-acid-amplification cavities; small-thermal-mass rapid PCR cycling; and integration of PCR into a chip-scale diagnostic. Distinct from existing northrup-1993-silicon-pcr-microreactor (Lawrence Livermore device); cross-referenced as the parallel Penn origin. Ancestor of cheng-1996-chip-pcr-ii, continuous-flow PCR (kopp-1998-continuous-flow-pcr-on-chip), and integrated PCR-CE devices (burns-1998-integrated-dna-analysis-device).
 
 ## Ho & Tai 1998 - Micro-electro-mechanical-systems (MEMS) and fluid flows (1998)
 

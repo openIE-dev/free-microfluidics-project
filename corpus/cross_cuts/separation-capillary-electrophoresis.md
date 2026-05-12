@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**35 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -155,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Companion to the foundational Ciba-Geigy patent: covers electrokinetic gated injection (cross-tee + voltage-switching) as the dominant method for sample plug definition in chip CE. This injection scheme is the de facto standard for all academic and commercial chip-CE platforms; the patent's expiration in ~2014 freed downstream developers to use the injection scheme without licensing.
 
+## Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) (1993-08-13)
+
+- **id**: `harrison-1993-science-mu-tas-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: D. Jed Harrison (Alberta), Andreas Manz (Ciba-Geigy), and coworkers
+- **disclosure**: Harrison, D. J.; Fluri, K.; Seiler, K.; Fan, Z.; Effenhauser, C. S.; Manz, A. Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip. Science 1993, 261 (5123), 895-897. DOI: 10.1126/science.261.5123.895.
+- **ip status**: public-domain
+- **prior art notes**: The landmark demonstration of an integrated capillary-electrophoresis chemical-analysis microchip - electrokinetically controlled sample handling, on-chip injection at a channel intersection, electrophoretic separation in HF-etched glass channels, and laser-induced-fluorescence detection - establishing the planar-glass uTAS platform that dominated the next decade. Discloses: a cross/double-T channel network with multiple reservoirs; voltage-program-controlled electrokinetic sample injection, separation, and dilution entirely by switching electrode potentials with no moving parts; sub-nL defined injection volumes; and integrated optical detection. Anticipates claims to: electrokinetically valved sample injection at channel intersections; multi-reservoir voltage-programmed CE microchips; HF-etched glass CE channel networks; and integrated LIF detection on a CE chip. Distinct companion to existing harrison-1992-cap-electrophoresis-on-chip and harrison-1993-electroosmotic-cycling entries; cross-referenced. Ancestor of jacobson-1994-pinched-injection, effenhauser-1993-glass-microchip-electrophoresis, mathies-1995-radial-cap-array, and burns-1998-integrated-dna-analysis-device.
+
 ## Pinched injection on glass CE microchips (1994)
 
 - **id**: `jacobson-1994-pinched-injection`
@@ -164,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Jacobson, S. C.; Hergenroder, R.; Koutny, L. B.; Warmack, R. J.; Ramsey, J. M. Effects of injection schemes and column geometry on the performance of microchip electrophoresis devices. Anal. Chem. 1994, 66, 1107–1113. DOI: 10.1021/ac00079a028
 - **ip status**: public-domain
 - **prior art notes**: Disclosed pinched-injection geometry for chip CE: a four-port crossed-channel layout with simultaneously pulled sample-and-buffer arms generates a precisely defined sub-nanoliter sample plug. Anticipates: pinched-injection cross geometry as the standard chip-CE injection primitive, used in essentially every subsequent commercial CE chip. Among Ramsey's most-cited microfluidics papers.
+
+## Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips (Woolley & Mathies, 1994) (1994-11-22)
+
+- **id**: `woolley-mathies-1994-microfabricated-capillary-array-electrophoresis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Adam T. Woolley & Richard A. Mathies, UC Berkeley
+- **disclosure**: Woolley, A. T.; Mathies, R. A. Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips. Proc. Natl. Acad. Sci. U.S.A. 1994, 91 (24), 11348-11352. DOI: 10.1073/pnas.91.24.11348.
+- **ip status**: public-domain
+- **prior art notes**: Demonstrated DNA-fragment electrophoretic separations on a glass microchip with a sieving polymer matrix achieving separations in seconds-to-minutes, and laid the groundwork for microfabricated capillary-array electrophoresis (CAE) for high-throughput DNA sizing and sequencing. Discloses: HF-etched glass channels filled with replaceable polymer sieving matrices for size separation of dsDNA; high-field ultra-fast electrophoresis enabled by efficient Joule-heat dissipation in shallow channels; on-chip LIF detection; and the scaling toward parallel channel arrays read by a scanning confocal detector. Anticipates claims to: polymer-sieving DNA separations in microchannels; high-field rapid microchip electrophoresis; capillary-array electrophoresis on a single substrate; and confocal-scanner readout of parallel separation channels. Distinct companion to existing mathies-1995-radial-cap-array; cross-referenced. Ancestor of microchip DNA-sequencing and high-throughput-genotyping platforms.
 
 ## Radial capillary-array electrophoresis chip (1995)
 

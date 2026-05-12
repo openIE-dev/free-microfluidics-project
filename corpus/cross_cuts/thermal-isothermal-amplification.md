@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**31 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -194,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Various Institut Pasteur publications 2020-2024 on CRISPR-cartridge POC diagnostic development.
 - **ip status**: patented
 - **prior art notes**: Composite reference for European CRISPR-cartridge academic work centered at Institut Pasteur, complementing US (Sherlock, Mammoth, Broad) and academic-to-commercial pipelines. The Pasteur lineage is particularly strong in tropical disease applications (Plasmodium, dengue, chikungunya) where CRISPR cartridge architectures have specific advantages.
+
+## Praxeus microplastic-borne pathogen detection and synthesis (Praxeus, Series 12) (2020-02-02)
+
+- **id**: `doctor-who-praxeus-microplastic-life-detection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Pete McTighe & Chris Chibnall
+- **disclosure**: Doctor Who, Praxeus (BBC, broadcast 2020-02-02), written by Pete McTighe and Chris Chibnall; IMDB tt9612260.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable workflow that (a) samples environmental water and blood, (b) detects a pathogen by its association with sub-millimetre plastic particles, (c) characterizes the pathogen genome in the field, and (d) drives synthesis of a countermeasure. Anticipates generic claims to microplastic-vector pathogen assays, to particle-association-based detection, and to integrated detect-then-synthesize countermeasure platforms. Pairs with andromeda-strain-isolation-chamber and the Star Trek tricorder lineage.
 
 ## Kraken Sense KRAKEN1 Automated Pathogen Detection System (2021)
 

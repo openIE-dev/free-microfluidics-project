@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1825
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iddan G, Meron G, Glukhovsky A, Swain P, Nature 405:417 (2000); FDA 510(k) K010312 (2001-08-01); doi:10.1038/35013140
 - **ip status**: patented
 - **prior art notes**: Discloses a swallowable optical-imaging capsule with a passive optical-dome window that interfaces with luminal fluid as both an immersion medium and as the analyte itself (mucus, blood). Anticipates: ingestible imaging capsules; the ingestible-architecture pattern of dome-window + sensor + radio + battery in a 26 mm form factor; established the FDA pathway via K010312 that all subsequent ingestible microfluidic capsules followed.
+
+## Enterprise NX-01 decontamination chamber gel application (2001-09-26)
+
+- **id**: `star-trek-ent-decon-gel`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / Rick Berman & Brannon Braga
+- **disclosure**: Star Trek: Enterprise, Broken Bow (S1E01-02, first aired 2001-09-26); recurring throughout the series, written by Rick Berman and Brannon Braga; IMDB tt0244365.
+- **ip status**: fictional
+- **prior art notes**: Discloses an integrated decontamination protocol: a topical reagent gel plus a conditioned-atmosphere sealed chamber plus a timed dwell cycle, applied to personnel and to recovered samples. Anticipates generic claims to combined topical-reagent-plus-atmosphere decontamination protocols and to sample-and-personnel decontamination chambers. Pairs with andromeda-strain-isolation-chamber and seveneves-stratosphere-microfluidic-lab.
 
 ## Hamilton Microlab STAR liquid handler (2003)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-protein-passivation`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1948
 
@@ -24,6 +24,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Verwey, E. J. W., Overbeek, J. T. G. (1948). 'Theory of the Stability of Lyophobic Colloids.' Elsevier, Amsterdam.
 - **ip status**: public-domain
 - **prior art notes**: Verwey-Overbeek 1948 (together with Derjaguin-Landau 1941) established DLVO theory: colloid stability emerges from a balance of attractive van der Waals and repulsive electric-double-layer interactions. Anticipates microfluidic claims involving bead aggregation in on-chip immunoassays, cell-cell adhesion in droplet encapsulation, particle deposition on channel walls, and electrolyte-controlled colloid handling. Any patent claiming a 'novel colloid-stability-controlled microfluidic operation' must clear DLVO theory.
+
+## PCR in silicon microstructures (Wilding, Shoffner & Kricka, 1994) (1994-09)
+
+- **id**: `wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Peter Wilding, Mann A. Shoffner, Larry J. Kricka, University of Pennsylvania
+- **disclosure**: Wilding, P.; Shoffner, M. A.; Kricka, L. J. PCR in a silicon microstructure. Clin. Chem. 1994, 40 (9), 1815-1818. DOI: 10.1093/clinchem/40.9.1815.
+- **ip status**: public-domain
+- **prior art notes**: One of the founding demonstrations of on-chip polymerase chain reaction: thermal cycling of a PCR mixture inside a silicon micromachined reaction chamber sealed with glass, with surface passivation to prevent inhibition of the polymerase by the silicon/oxide walls. Discloses: micromachined silicon-glass PCR chambers of microlitre volume; the wall-passivation problem (PCR inhibition by bare silicon, native oxide, and metals) and its mitigation by oxide growth, silanization, or BSA/polymer coating - a result essential to all subsequent on-chip PCR; rapid thermal cycling enabled by the small thermal mass; and successful amplification of human genomic targets in the chip. Anticipates claims to: micromachined PCR reaction chambers; surface-passivated silicon nucleic-acid-amplification cavities; small-thermal-mass rapid PCR cycling; and integration of PCR into a chip-scale diagnostic. Distinct from existing northrup-1993-silicon-pcr-microreactor (Lawrence Livermore device); cross-referenced as the parallel Penn origin. Ancestor of cheng-1996-chip-pcr-ii, continuous-flow PCR (kopp-1998-continuous-flow-pcr-on-chip), and integrated PCR-CE devices (burns-1998-integrated-dna-analysis-device).
+
+## Enterprise NX-01 decontamination chamber gel application (2001-09-26)
+
+- **id**: `star-trek-ent-decon-gel`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / Rick Berman & Brannon Braga
+- **disclosure**: Star Trek: Enterprise, Broken Bow (S1E01-02, first aired 2001-09-26); recurring throughout the series, written by Rick Berman and Brannon Braga; IMDB tt0244365.
+- **ip status**: fictional
+- **prior art notes**: Discloses an integrated decontamination protocol: a topical reagent gel plus a conditioned-atmosphere sealed chamber plus a timed dwell cycle, applied to personnel and to recovered samples. Anticipates generic claims to combined topical-reagent-plus-atmosphere decontamination protocols and to sample-and-personnel decontamination chambers. Pairs with andromeda-strain-isolation-chamber and seveneves-stratosphere-microfluidic-lab.
 
 ## Gerresheimer Gx Pharma + Centor PFS - Pre-filled syringes and vials (2008)
 

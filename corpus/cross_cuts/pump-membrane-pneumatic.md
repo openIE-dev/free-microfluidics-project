@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hoiman et al. (1986). 'A silicon-based micropump.' Sensors and Actuators (proceedings of Helsinki MEMS work, 1986).
 - **ip status**: public-domain
 - **prior art notes**: Pre-1990 silicon-micromachined membrane micropump from the Helsinki MEMS effort. Discloses bulk-silicon micropump topology - membrane-driven displacement chamber with bonded check-valves. Combined with Esashi 1989 (already in corpus) and the slightly later Smits 1990 piezoelectric pump literature, Hoiman 1986 establishes the silicon-MEMS micropump as established prior art well before 1990.
+
+## A bidirectional silicon micropump (Zengerle, Richter, Sandmaier, 1992) (1992)
+
+- **id**: `zengerle-1992-bidirectional-silicon-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: Roland Zengerle and coworkers, University of the German Armed Forces / IMM Mainz
+- **disclosure**: Zengerle, R.; Richter, A.; Sandmaier, H. A micro membrane pump with electrostatic actuation. Proc. IEEE Micro Electro Mechanical Systems (MEMS 1992), Travemunde, 1992, pp. 19-24. Zengerle, R.; Ulrich, J.; Kluge, S.; Richter, M.; Richter, A. A bidirectional silicon micropump. Sens. Actuators A 1995, 50, 81-86. DOI: 10.1016/0924-4247(96)80088-4.
+- **ip status**: public-domain
+- **prior art notes**: An electrostatically actuated silicon membrane micropump whose direction of net flow can be reversed by changing the actuation frequency, exploiting the frequency-dependent dynamics of its two passive flap check valves (above the resonance of one valve the pump runs forward, in a band between the two valve resonances it pumps backward). Discloses: an electrostatically driven pump diaphragm in stacked-silicon construction; two passive cantilever/flap check valves; and - the key result - bidirectional pumping from a single unidirectional-looking valve pair via valve-resonance-dependent rectification, plus self-priming and bubble-tolerant operation. Anticipates claims to: frequency-controlled flow reversal in passive-valve micropumps; electrostatic-membrane micropumps; and dual-check-valve rectifier pump architectures. Companion to van-lintel-1988-silicon-piezo-pump, esashi-1989-silicon-piezo-pump, and smits-1989-piezo-peristaltic-pump in the silicon-micropump lineage; the IMM Mainz pump that helped found integrated drug-delivery micropumps.
 
 ## Gravesen 1993 — Microfluidics Review (1993)
 

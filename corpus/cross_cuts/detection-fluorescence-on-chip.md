@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**176 corpus entries disclose this subsystem.**
+**187 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -45,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses transgenic salmon construct identity verification via qPCR for the AAS-opAFP-GH cassette. Anticipates qPCR transgenic-fish identity cartridge for FDA-regulated aquaculture claims.
 
+## Darwin Genetic Research Station accelerated-immunity lab (Unnatural Selection) (1989-01-30)
+
+- **id**: `star-trek-tng-darwin-station-genetics-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / John Mason & Mike Gray
+- **disclosure**: Star Trek: The Next Generation, Unnatural Selection (S2E07, first aired 1989-01-30), written by John Mason and Mike Gray; IMDB tt0708696.
+- **ip status**: fictional
+- **prior art notes**: Discloses an accelerated-maturation phenotype arising from germline immune engineering, plus a remediation method that reconstructs a person from a pre-exposure stored pattern (a buffer used as a clean-template restore). Anticipates generic claims to stored-pattern clean-template biological restoration and links engineered-immunity research to accelerated-aging side effects. Pairs with star-trek-snw-transporter-buffer-stasis (below) and gattaca-instant-genome-readout.
+
 ## bioMérieux VIDAS 3 Solid Phase Receptacle (SPR) Immunoassay Cone (1990)
 
 - **id**: `biomerieux-vidas-3-spr-cone`
@@ -64,6 +74,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US5445934 (Fodor et al., priority 1989); US5510270; US5800992; US6022963 (Affymetrix; acquired by Thermo Fisher 2016-03-31 for $1.3B)
 - **ip status**: patented
 - **prior art notes**: Affymetrix GeneChip patent estate. Anchors claims around: (a) photolithographic in situ synthesis of oligonucleotide arrays on a glass substrate using photolabile protecting groups (Fodor 1991 Science paper, US5445934 priority 1989); (b) high-density spatially-addressable microarrays for hybridization-based nucleic-acid analysis; (c) GeneChip-format mask-based or maskless light-directed synthesis. Affymetrix acquired by Thermo Fisher 2016-03-31 for approximately $1.3B. Foundational core patents largely expired by 2009-2014 (17/20-year terms from 1989-1994 priorities). Defensive value: anchors public-domain status of basic photolithographic-array fabrication. Anticipates almost all DNA microarray fabrication approaches that use light-directed synthesis. Companion: this estate is also relevant prior art for spatial-transcriptomics capture arrays (10x Visium).
+
+## Genome colony of the Masterpiece Society (TNG: The Masterpiece Society) and the Genesis de-evolution lab (TNG: Genesis) (1992-02-10)
+
+- **id**: `star-trek-tng-masterpiece-society-colony`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / Adam Belanoff & Michael Piller (Masterpiece Society); Brannon Braga (Genesis)
+- **disclosure**: Star Trek: The Next Generation, The Masterpiece Society (S5E13, first aired 1992-02-10); the de-evolution lab in Genesis (S7E19, first aired 1994-03-21); IMDB tt0708731 / tt0708704.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a designed-genome colony breeding program with a documented closed-pool fragility, and (b) an iatrogenic genome-rewrite syndrome plus its reversal by reconstructing a clean genome from an unaffected sample and synthesizing a counter-agent. Anticipates generic claims to designed-genome population programs and to clean-sample genome reconstruction as a remediation for runaway genome alteration. Pairs with star-trek-ds9-bashir-genetic-enhancement and star-trek-tng-darwin-station-genetics-lab.
+
+## Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) (1993-08-13)
+
+- **id**: `harrison-1993-science-mu-tas-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: D. Jed Harrison (Alberta), Andreas Manz (Ciba-Geigy), and coworkers
+- **disclosure**: Harrison, D. J.; Fluri, K.; Seiler, K.; Fan, Z.; Effenhauser, C. S.; Manz, A. Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip. Science 1993, 261 (5123), 895-897. DOI: 10.1126/science.261.5123.895.
+- **ip status**: public-domain
+- **prior art notes**: The landmark demonstration of an integrated capillary-electrophoresis chemical-analysis microchip - electrokinetically controlled sample handling, on-chip injection at a channel intersection, electrophoretic separation in HF-etched glass channels, and laser-induced-fluorescence detection - establishing the planar-glass uTAS platform that dominated the next decade. Discloses: a cross/double-T channel network with multiple reservoirs; voltage-program-controlled electrokinetic sample injection, separation, and dilution entirely by switching electrode potentials with no moving parts; sub-nL defined injection volumes; and integrated optical detection. Anticipates claims to: electrokinetically valved sample injection at channel intersections; multi-reservoir voltage-programmed CE microchips; HF-etched glass CE channel networks; and integrated LIF detection on a CE chip. Distinct companion to existing harrison-1992-cap-electrophoresis-on-chip and harrison-1993-electroosmotic-cycling entries; cross-referenced. Ancestor of jacobson-1994-pinched-injection, effenhauser-1993-glass-microchip-electrophoresis, mathies-1995-radial-cap-array, and burns-1998-integrated-dna-analysis-device.
+
+## Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips (Woolley & Mathies, 1994) (1994-11-22)
+
+- **id**: `woolley-mathies-1994-microfabricated-capillary-array-electrophoresis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Adam T. Woolley & Richard A. Mathies, UC Berkeley
+- **disclosure**: Woolley, A. T.; Mathies, R. A. Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips. Proc. Natl. Acad. Sci. U.S.A. 1994, 91 (24), 11348-11352. DOI: 10.1073/pnas.91.24.11348.
+- **ip status**: public-domain
+- **prior art notes**: Demonstrated DNA-fragment electrophoretic separations on a glass microchip with a sieving polymer matrix achieving separations in seconds-to-minutes, and laid the groundwork for microfabricated capillary-array electrophoresis (CAE) for high-throughput DNA sizing and sequencing. Discloses: HF-etched glass channels filled with replaceable polymer sieving matrices for size separation of dsDNA; high-field ultra-fast electrophoresis enabled by efficient Joule-heat dissipation in shallow channels; on-chip LIF detection; and the scaling toward parallel channel arrays read by a scanning confocal detector. Anticipates claims to: polymer-sieving DNA separations in microchannels; high-field rapid microchip electrophoresis; capillary-array electrophoresis on a single substrate; and confocal-scanner readout of parallel separation channels. Distinct companion to existing mathies-1995-radial-cap-array; cross-referenced. Ancestor of microchip DNA-sequencing and high-throughput-genotyping platforms.
 
 ## Quidel Triage MeterPro Immunoassay Cartridge (1995)
 
@@ -114,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7771970 (priority via Solexa 1997); US8158346; US8071739; US7115400; US6306597 (Illumina via Solexa acquisition 2007 for $600M)
 - **ip status**: patented
 - **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
+
+## Bashir-era illegal genetic-resequencing clinic (Doctor Bashir, I Presume / Statistical Probabilities) (1997-02-24)
+
+- **id**: `star-trek-ds9-bashir-genetic-enhancement`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / Ronald D. Moore (story)
+- **disclosure**: Star Trek: Deep Space Nine, Doctor Bashir, I Presume (S5E16, first aired 1997-02-24); the institutionalized augments shown in Statistical Probabilities (S6E09, first aired 1997-11-24); IMDB tt0708538.
+- **ip status**: fictional
+- **prior art notes**: Discloses a multi-week pediatric in-vivo gene-resequencing therapy with a known distribution of outcomes (enhanced; destabilized) and an aftercare institution. Anticipates generic claims to staged in-vivo somatic resequencing protocols and to outcome-stratified post-therapy care pathways. Pairs with gattaca-instant-genome-readout and star-trek-tng-masterpiece-society (below).
 
 ## Microfluidic flow cytometer architectures (academic) (2002)
 
@@ -274,6 +324,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Promega Corporation (Madison WI) QC reagent IP estate; US filings 2005-present
 - **ip status**: patented
 - **prior art notes**: Promega QC reagent patent family covers process QC and cell-line QC reagent kits for downstream fluidic cartridge workflows. Complements existing promega-maxwell-rsc-magnetic-extraction and promega-cellfree-ivt entries. Anticipates claims directed to process-QC reagent cartridges with cell-line viability readout.
+
+## Acoustic frequency selection in microchannel ultrasonic standing-wave separation (Wiklund & Hertz, 2005) (2005)
+
+- **id**: `wiklund-hertz-2005-acoustic-frequency-selection-microchannels`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Martin Wiklund & Hans M. Hertz, KTH
+- **disclosure**: Wiklund, M.; Hertz, H. M. Ultrasonic enhancement of bead-based bioaffinity assays. Lab Chip 2006, 6, 1279. Related: Wiklund, M.; Toivonen, J.; Tirri, M.; Hanninen, P.; Hertz, H. M. Ultrasonic enrichment of microspheres for ultrasensitive biomedical analysis in confocal laser-scanning fluorescence detection. J. Appl. Phys. 2004, 96, 1242. Hertz, H. M. Standing-wave acoustic trap for nonintrusive positioning of microparticles. J. Appl. Phys. 1995, 78, 4845.
+- **ip status**: public-domain
+- **prior art notes**: Establishes how to choose the ultrasonic drive frequency for half-wavelength (and multi-node) standing-wave resonances in glass/silicon microchannels so that the acoustic radiation force concentrates particles or cells at pressure nodes - the design rule behind essentially all bulk-acoustic-wave acoustophoresis chips. Discloses: matching the channel width to an integer number of acoustic half-wavelengths in the fluid for a chosen transducer frequency; the resulting node positions and the dependence of trapping strength on frequency, channel resonance Q, and acoustic contrast factor; and integration of standing-wave trapping with confocal fluorescence detection for bead-based bioaffinity assays. Anticipates claims to frequency-tuned acoustophoretic microchannel separators, half-wavelength-resonator chip dimensioning, and acoustically enriched on-chip immunoassays. Companion to laurell-2007-acoustophoresis and the King 1934 / Yosioka-Kawasima 1955 / Gorkov 1962 acoustic-radiation-force lineage.
 
 ## Developing optofluidic technology through the fusion of microfluidics and optics (2006)
 
@@ -595,6 +655,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sysmex XN-series patent estate covers integrated multi-parameter hematology fluidic cartridges with fluorescence-flow-cytometric subsystem. References sysmex-xn-9000-track-hematology existing entry. Anticipates claims that recite multi-parameter integrated hematology cartridges with fluorescence-flow-cytometric platelet subsystem.
 
+## The Grain memory-recorder implant and the Black Museum consciousness-transfer tech (Black Mirror) (2011-12-18)
+
+- **id**: `black-mirror-grain-implant-and-black-museum`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Channel 4 / Netflix; Jesse Armstrong; Charlie Brooker
+- **disclosure**: Black Mirror, The Entire History of You (S1E03, Channel 4, first aired 2011-12-18, written by Jesse Armstrong); the Black Museum (S4E06, Netflix, released 2017-12-29, written by Charlie Brooker); IMDB tt2089054 / tt6877616.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a subdermal implant-grade microfabricated recorder that taps neural pathways for continuous capture with searchable replay, including its surgical insertion/removal, and (b) a kit for extracting a consciousness pattern and instantiating it in another host or substrate. Anticipates generic claims to subdermal neural-tap recorder implants with replay and to consciousness-extraction-and-reinstantiation kits. Pairs with black-mirror-blockchain-implant, cyberpunk-2077-ripperdoc-chair, and the Grain device sits in the neural-implant lineage.
+
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
 - **id**: `hologic-panther-fusion-cartridge`
@@ -624,6 +694,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bioptic Inc (Taiwan) Qsep-series CE launch (2012-present); TW/US/EP filings
 - **ip status**: patented
 - **prior art notes**: Bioptic patent family covers compact multi-channel CE cartridges for nucleic acid sizing. Anticipates claims directed to multi-channel disposable CE cartridges with gel-replacement matrix.
+
+## Paternoster Gang Victorian-era surgical and revival kit (Madame Vastra / Strax) (2012-09-22)
+
+- **id**: `doctor-who-paternoster-gang-victorian-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Steven Moffat (Vastra/Jenny/Strax characters)
+- **disclosure**: Doctor Who, The Snowmen (BBC, 2012-12-25); Strax as field nurse in A Good Man Goes to War (BBC, 2011-06-04); detailed in Deep Breath (BBC, 2014-08-23) and The Crimson Horror (BBC, 2013-05-04); IMDB tt1305824.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable, field-deployable surgical-plus-biochemical kit including reagent vials, injection delivery, and a wet-chemistry forensic readout (retinal-image recovery) run outside a laboratory. Anticipates generic claims to portable point-of-care wet-chemistry kits combining injection delivery, reagent storage, and an in-field optical readout. Pairs with star-wars-2-1b-medical-droid and the Star Trek portable-tricorder lineage.
 
 ## Smartphone-based photonic-crystal biosensor (2013)
 
@@ -1015,6 +1095,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Litigation entry. PacBio sued Oxford Nanopore in 2017 in D.Del., the ITC, and the UK High Court asserting that ONT's MinION nanopore-sequencing technology infringed PacBio's single-molecule sequencing patents. Cases proceeded for seven years. Most rulings favored ONT: PacBio's broad single-molecule sequencing claims were narrowed or invalidated; ONT prevailed in UK; ITC investigation 337-TA-1062 closed favorably for ONT. Settled around 2024. Defensive value: invalidates broad-scope claims to 'single-molecule sequencing in general' and confirms that PacBio's enforceable scope is essentially limited to ZMW-specific implementations. Useful for any nanopore or single-molecule sequencing developer.
 
+## USS Callister DNA-to-consciousness cloner (Black Mirror) (2017-12-29)
+
+- **id**: `black-mirror-uss-callister-dna-consciousness-cloner`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Netflix / Charlie Brooker (House of Tomorrow)
+- **disclosure**: Black Mirror, USS Callister (S4E01, Netflix, released 2017-12-29), written by Charlie Brooker and William Bridges; IMDB tt5710984.
+- **ip status**: fictional
+- **prior art notes**: Discloses a trace-DNA-to-digital-clone device: a small sample input, an extraction step yielding a complete personality/memory reconstruction, and instantiation as a sentient entity. Borderline for a microfluidics corpus, but the trace-biological-sample-input-plus-extraction step is the cited element. Anticipates generic claims to trace-biosample-driven personality reconstruction. Pairs with gattaca-instant-genome-readout and black-mirror-blockchain-implant.
+
 ## Chi.Bio open-hardware bioreactor (2018)
 
 - **id**: `chibio-bioreactor`
@@ -1235,6 +1325,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses standardized PEG-NaCl precipitation and automated bead-based RNA extraction microfluidic workflow for wastewater SARS-CoV-2 surveillance. Anticipates centralized public-health wastewater-extraction-and-qPCR standardized workflow claims.
 
+## Praxeus microplastic-borne pathogen detection and synthesis (Praxeus, Series 12) (2020-02-02)
+
+- **id**: `doctor-who-praxeus-microplastic-life-detection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: BBC / Pete McTighe & Chris Chibnall
+- **disclosure**: Doctor Who, Praxeus (BBC, broadcast 2020-02-02), written by Pete McTighe and Chris Chibnall; IMDB tt9612260.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable workflow that (a) samples environmental water and blood, (b) detects a pathogen by its association with sub-millimetre plastic particles, (c) characterizes the pathogen genome in the field, and (d) drives synthesis of a countermeasure. Anticipates generic claims to microplastic-vector pathogen assays, to particle-association-based detection, and to integrated detect-then-synthesize countermeasure platforms. Pairs with andromeda-strain-isolation-chamber and the Star Trek tricorder lineage.
+
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
 - **id**: `dnanudge-rapid-cartridge`
@@ -1374,6 +1474,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Detect Inc. FDA EUA 2021-10-29 (originally Homodyne Health); product user manual rev 2
 - **ip status**: patented
 - **prior art notes**: Discloses a hub-and-cartridge isothermal-amplification consumer molecular diagnostic with reusable heater/reader and disposable reagent cartridge, FDA-EUA-cleared for at-home COVID-19. Anticipates: hub-and-cartridge consumer OTC molecular test architectures that decouple a reusable heater/optics module from disposable single-use cartridges; FDA-EUA-cleared RT-LAMP at-home tests targeting respiratory pathogens.
+
+## USS Protostar holographic medbay (Holo-Janeway / Star Trek: Prodigy) (2021-10-28)
+
+- **id**: `star-trek-prodigy-protostar-holo-medbay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CBS Studios / Kevin Hageman & Dan Hageman, Alex Kurtzman
+- **disclosure**: Star Trek: Prodigy, Lost and Found Parts 1-2 (S1E01-02, premiered 2021-10-28 on Paramount+), created by Kevin and Dan Hageman; IMDB tt9795876.
+- **ip status**: fictional
+- **prior art notes**: Discloses an AI-directed automated medbay (holographic advisor plus biobed plus hypospray delivery) sized for a small vessel with limited supplies. Anticipates generic claims to AI-supervised automated point-of-care medical bays. Extends star-trek-voy-emh-emergency-kit and star-trek-autodoc-tos-tng into the small-crew context. Draft.
 
 ## Illumina vs Singular Genomics Patent Litigation (Singular won 2024) (2021-12-13)
 

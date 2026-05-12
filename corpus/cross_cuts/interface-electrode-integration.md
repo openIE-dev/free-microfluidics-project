@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-electrode-integration`
 
-**62 corpus entries disclose this subsystem.**
+**67 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roger Zelazny, Lord of Light (Doubleday 1967) — Hugo Award 1968; subsequent editions ISBN 978-0-06-056723-3.
 - **ip status**: fictional
 - **prior art notes**: Lord of Light depicts a planet-wide reincarnation industry: consciousness-transfer apparatus + body-cloning vats + scheduled reincarnation pipeline. The 'Masters of Karma' control access via reagent-and-substrate quality control. Reads as foundational sci-fi prior art for: integrated consciousness-transfer + body-cloning architectures; the architectural pattern of an industrial reincarnation pipeline with quality-tier selection. Important early reference predating most cloning-vat sci-fi tropes.
+
+## Eight Worlds change clinics, medico machines, and cloning banks (John Varley) (1977-01-01)
+
+- **id**: `varley-eight-worlds-change-clinics-cloning-banks`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John Varley
+- **disclosure**: John Varley, The Ophiuchi Hotline (Dial Press, 1977) -- cloning banks and memory recording; The Persistence of Vision / The Barbie Murders collections (1978-1980) -- the Change; Steel Beach (Ace, 1992) ISBN 978-0-441-78565-1 -- the Central Computer's medical infrastructure and routine body modification.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) automated outpatient body-reconfiguration clinics, and (b) a banked-cell-sample plus periodic-memory-recording resurrection system. Anticipates generic claims to automated elective body-modification clinics and to cell-bank-plus-memory-recording resurrection architectures. Pacing the field: Varley's 1977 Ophiuchi Hotline cloning banks predate the Culture's and most later treatments. Pairs with bujold-jacksonian-bharaputra-clone-vat, banks-surface-detail-sense-made-common-reconstitution, and sterling-schismatrix-shaper-clinics.
 
 ## BattleTech BattleMech cockpit immersion fluid (inertial damping fluid) (1984)
 
@@ -164,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Joe Haldeman, Forever Peace (Ace 1997) ISBN 978-0-441-00566-5 — Hugo Award winner 1998.
 - **ip status**: fictional
 - **prior art notes**: Forever Peace depicts neural jacks as cranial ports physically interfacing operator nervous systems with mech-pilot soldierboy units; the jack maintains an active fluidic environment around the implanted electrode array. Anticipates: cranial-port neural interfaces with active fluidic maintenance loops, multi-operator coupled neural-fluidic networks, and the architectural pattern of mech-pilot jack-and-fluid coupling. Useful prior art for 'multi-operator coupled neural-fluidic interface' patent claims.
+
+## Seven of Nine Borg-implant maintenance and dermal regenerator (Star Trek: Voyager) (1997-09-03)
+
+- **id**: `star-trek-voy-seven-borg-implant-maintenance`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Paramount Television / Brannon Braga, Jeri Taylor
+- **disclosure**: Star Trek: Voyager, Scorpion Part II (S4E01, first aired 1997-09-03) introduces Seven; implant maintenance recurring (e.g., The Gift S4E02, Imperfection S7E02); IMDB tt0112178.
+- **ip status**: fictional
+- **prior art notes**: Discloses a recurring maintenance regime for an organic-plus-cybernetic body: a cyclic regeneration station servicing both substrates, a handheld tissue-and-interface regenerator, and replacement of a failing implant module from a donor. Anticipates generic claims to combined organic-tissue-and-implant maintenance stations and to handheld dermal regenerators that seal device-tissue interfaces. Pairs with star-trek-borg-maturation-chamber and halo-mjolnir-neural-laced-helmet.
 
 ## The Matrix Nebuchadnezzar / hovership operating room (1999)
 
@@ -425,6 +445,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of fluidic conditioning chamber for inter-individual neuro-bonding via biofluid exchange, with pheromone-like signal biofluid. Anticipates claims directed to conditioning chambers for inter-individual neurobonding via biofluid signal exchange.
 
+## Ship-autodoc full-body reconstitution from a neural-lace backup (Surface Detail, the Sense Made Common) (2010-10-07)
+
+- **id**: `banks-surface-detail-sense-made-common-reconstitution`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Iain M. Banks
+- **disclosure**: Iain M. Banks, Surface Detail (Orbit, 2010-10-07) ISBN 978-1-84149-893-2 -- the protagonist Lededje is murdered on-page and is reconstituted in a Culture ship's medical bay from the backup carried by the neural lace she did not know she had.
+- **ip status**: fictional
+- **prior art notes**: Extends banks-culture-autodoc with the explicit from-backup reconstitution case: a continuously-updated compact neural-lace backup plus a perfused whole-body regrowth bay plus mind-state reinstallation, yielding a restored person. Anticipates generic claims to continuous-backup-driven whole-body reconstitution and to implanted compact state-recorders feeding a regrowth bay. Pairs with eclipse-phase-healing-vat, star-trek-picard-soong-synthetics-lab, and x-men-krakoa-resurrection-protocols.
+
+## The Grain memory-recorder implant and the Black Museum consciousness-transfer tech (Black Mirror) (2011-12-18)
+
+- **id**: `black-mirror-grain-implant-and-black-museum`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Channel 4 / Netflix; Jesse Armstrong; Charlie Brooker
+- **disclosure**: Black Mirror, The Entire History of You (S1E03, Channel 4, first aired 2011-12-18, written by Jesse Armstrong); the Black Museum (S4E06, Netflix, released 2017-12-29, written by Charlie Brooker); IMDB tt2089054 / tt6877616.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a subdermal implant-grade microfabricated recorder that taps neural pathways for continuous capture with searchable replay, including its surgical insertion/removal, and (b) a kit for extracting a consciousness pattern and instantiating it in another host or substrate. Anticipates generic claims to subdermal neural-tap recorder implants with replay and to consciousness-extraction-and-reinstantiation kits. Pairs with black-mirror-blockchain-implant, cyberpunk-2077-ripperdoc-chair, and the Grain device sits in the neural-implant lineage.
+
 ## Psycho-Pass Sibyl System brain-immersion fluidic substrate (2012)
 
 - **id**: `psycho-pass-sibyl-brain-immersion`
@@ -564,6 +604,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iridia Inc. announcement 2020; US10752946B2 priority 2017; US11214586B2
 - **ip status**: patented
 - **prior art notes**: Discloses a CMOS-fabricated DNA storage chip in which each cell is independently addressable for single-molecule DNA synthesis and read-out via integrated nanopore. Anticipates: integration of DNA-storage write and read on the same CMOS substrate; per-cell electronic addressing of nanopore-and-synthesis sites at >10^6 site density; nanofluidic single-molecule chemistries pairing on-chip electronics with enzymatic write. Anticipates claims to DNA-storage devices that combine CMOS electronics with nanopore-coupled per-cell synthesis.
+
+## Relic biochip implantation and engram-substrate fusion (Cyberpunk 2077) (2020-12-10)
+
+- **id**: `cyberpunk-2077-relic-biochip-fusion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: CD Projekt Red; based on Cyberpunk 2020 (Mike Pondsmith, R. Talsorian Games)
+- **disclosure**: Cyberpunk 2077 (CD Projekt Red, released 2020-12-10); the Relic biochip is installed in the protagonist's skull early in the game; the engram-fusion mechanics and Mikoshi engram storage detailed across the main campaign and Phantom Liberty DLC (2023).
+- **ip status**: fictional
+- **prior art notes**: Discloses an implantable biochip that carries a digitized personality and autonomously fuses it with the host nervous system by rewriting neural tissue, with host-degradation monitoring, plus a central engram store and re-embodiment workflow. Anticipates generic claims to implantable engram-carrying devices that drive autonomous neural-tissue reconfiguration and to engram-store-plus-re-embodiment architectures. Pairs with cyberpunk-2077-ripperdoc-chair, black-mirror-grain-implant-and-black-museum, and iron-man-extremis-injection.
 
 ## Foundation Trantor Imperial Palace medical wing (2021)
 

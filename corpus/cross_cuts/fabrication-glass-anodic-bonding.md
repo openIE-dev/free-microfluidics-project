@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-anodic-bonding`
 
-**5 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The first paper widely cited as a microfluidic-equivalent device: a 5-cm silicon wafer integrating a sample-injection valve, 1.5-meter spiral GC column, and a thermal conductivity detector. Predates Manz/Widmer's µTAS framing by 11 years and Manz's CE-on-chip by 11 years. Anticipates: silicon-substrate microfluidic chip as integrated analytical instrument, on-chip valves and integrated detection, and the entire silicon-microfluidic precursor literature. Often called the 'first lab-on-a-chip' although that term wasn't coined until much later.
 
+## A gas chromatographic air analyzer fabricated on a silicon wafer (Terry, Jerman & Angell, 1979) (1979-12)
+
+- **id**: `terry-jerman-angell-1979-silicon-gas-chromatograph-ieee`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen C. Terry, J. Hal Jerman, James B. Angell, Stanford University
+- **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26 (12), 1880-1886. DOI: 10.1109/T-ED.1979.19791. (Based on Terry, S. C., PhD thesis, Stanford University, 1975.)
+- **ip status**: public-domain
+- **prior art notes**: The first integrated micro total analysis system (uTAS): a complete miniature gas chromatograph - sample-injection valve, 1.5-metre spiral separation column, and thermal-conductivity detector - photolithographically patterned and etched into a single silicon wafer with a glass cover, separating air mixtures in seconds. Discloses: a long spiral microchannel column anisotropically etched in silicon and sealed with a bonded glass lid; an integrated diaphragm sample-injection valve; an on-chip resistive thermal-conductivity detector; and the entire integrated-fabrication paradigm of putting a multi-component analytical instrument on a chip - the founding prior art for lab-on-a-chip. Anticipates claims to: spiral microchannel separation columns in silicon; monolithically integrated injector + column + detector; wafer-scale fabrication of a chemical analyzer; and the generic uTAS concept later named by Manz 1990. Distinct companion to the existing terry-1979-stanford-gas-chromatograph entry (this entry foregrounds the IEEE T-ED 26, 1880 publication and the uTAS-precedent framing); cross-referenced. Ancestor of manz-1990-mu-tas-concept and the entire lab-on-chip lineage.
+
 ## Petersen 1982 — Silicon as a Mechanical Material (Extended Anchor) (1982-05)
 
 - **id**: `petersen-1982-silicon-mechanical-material-extension`
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
 - **ip status**: public-domain
 - **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
+
+## PCR in silicon microstructures (Wilding, Shoffner & Kricka, 1994) (1994-09)
+
+- **id**: `wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Peter Wilding, Mann A. Shoffner, Larry J. Kricka, University of Pennsylvania
+- **disclosure**: Wilding, P.; Shoffner, M. A.; Kricka, L. J. PCR in a silicon microstructure. Clin. Chem. 1994, 40 (9), 1815-1818. DOI: 10.1093/clinchem/40.9.1815.
+- **ip status**: public-domain
+- **prior art notes**: One of the founding demonstrations of on-chip polymerase chain reaction: thermal cycling of a PCR mixture inside a silicon micromachined reaction chamber sealed with glass, with surface passivation to prevent inhibition of the polymerase by the silicon/oxide walls. Discloses: micromachined silicon-glass PCR chambers of microlitre volume; the wall-passivation problem (PCR inhibition by bare silicon, native oxide, and metals) and its mitigation by oxide growth, silanization, or BSA/polymer coating - a result essential to all subsequent on-chip PCR; rapid thermal cycling enabled by the small thermal mass; and successful amplification of human genomic targets in the chip. Anticipates claims to: micromachined PCR reaction chambers; surface-passivated silicon nucleic-acid-amplification cavities; small-thermal-mass rapid PCR cycling; and integration of PCR into a chip-scale diagnostic. Distinct from existing northrup-1993-silicon-pcr-microreactor (Lawrence Livermore device); cross-referenced as the parallel Penn origin. Ancestor of cheng-1996-chip-pcr-ii, continuous-flow PCR (kopp-1998-continuous-flow-pcr-on-chip), and integrated PCR-CE devices (burns-1998-integrated-dna-analysis-device).
 
 ## Free-flow acoustophoresis for cell separation (2007)
 

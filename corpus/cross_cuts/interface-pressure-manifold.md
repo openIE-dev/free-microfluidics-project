@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-pressure-manifold`
 
-**88 corpus entries disclose this subsystem.**
+**90 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -134,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vampire: The Masquerade 1st Edition (White Wolf 1991) ISBN 1-56504-026-7; Clanbook: Tzimisce (White Wolf 1995) ISBN 1-56504-275-8 — detailed Vicissitude discipline mechanics.
 - **ip status**: fictional
 - **prior art notes**: Vicissitude depicted as a discipline reshaping living flesh through biofluid manipulation, often performed in a haven-laboratory with reagent vats and prepared subject restraints. Clanbook: Tzimisce details specific reagents and apparatus. Reads as prior art for: operator-driven living-tissue reshaping using injected biofluid catalysts; integrated subject-restraint-and-reagent vat for in-vessel tissue modification; useful for 'operator-mediated tissue-modification chamber with multi-reagent injection' claims.
+
+## Weapon X adamantium-bonding immersion tank (Wolverine origin) (1991-03-01)
+
+- **id**: `x-men-weapon-x-adamantium-bonding-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Barry Windsor-Smith (Weapon X serial)
+- **disclosure**: Marvel Comics Presents #72-84 (Marvel Comics, 1991), the Weapon X serial by Barry Windsor-Smith; earlier referenced in Alpha Flight #33-34 (1986); the immersion-tank adamantium-bonding sequence is the centerpiece of the 1991 serial.
+- **ip status**: fictional
+- **prior art notes**: Discloses an immersion-tank procedure that infuses a metal onto a living skeleton under continuous life support and vitals monitoring, requiring a regenerating substrate. Extends halo-spartan-ii-eight-procedures-detail (intra-osseous infusion of a skeletal-hardening agent) into the immersion-tank format. Anticipates generic claims to immersion-tank skeletal-infusion procedures with real-time life support and vitals feedback. Pairs with halo-spartan-ii-eight-procedures-detail and warhammer-40k-magos-biologis-vat-servitor.
 
 ## Babylon 5 Vorlon encounter suit biological life-support (1993)
 
@@ -474,6 +484,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan Cavro MagniFlex product launch 2010; Cavro Centris syringe pump 2015; widely OEM'd into clinical analyzers and life-science liquid handlers
 - **ip status**: patented
 - **prior art notes**: Discloses a modular multi-channel precision syringe pipettor block — the OEM fluidic primitive embedded in dozens of commercial clinical and life-science analyzers (including many entries in this corpus expansion: Atellica, Alinity, ACL TOP, Phadia, etc.). The pipettor block integrates: stepper-motor-driven plunger arrays with closed-loop encoder feedback; ceramic rotary distribution valves switching between aspirate/dispense ports; on-board pressure-sensor liquid-level detection; modular 8/12/16/24/96 channel scaling. Anticipates: the standard architecture for sub-µL clinical-grade pipetting that underlies the central-lab analyzer ecosystem; the ceramic-valve + stainless-syringe + stepper-leadscrew triplet as the durability-and-precision tradeoff for high-cycle (>10^7 cycle lifetime) analyzer service. Important commons disclosure because most published analyzer patents discuss assay flow but elide the metering subsystem; this entry establishes the metering primitive as prior art so that downstream synthetic-biology / open-microfluidics platforms can adopt equivalent designs without infringement risk.
+
+## Bleeding Edge subdermal nanofluid armor reservoir and the Extremis injection sequence (Iron Man) (2010-05-01)
+
+- **id**: `iron-man-bleeding-edge-subdermal-nanofluid-reservoir`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Marvel Comics; Matt Fraction & Salvador Larroca (Bleeding Edge); Warren Ellis & Adi Granov (Extremis sequence)
+- **disclosure**: Invincible Iron Man #25 onward (Marvel Comics, 2010), Matt Fraction & Salvador Larroca -- the Bleeding Edge armor stored as nanofluid in hollow subdermal/intra-osseous reservoirs; the agonizing Extremis-injection-and-reconfiguration sequence in Iron Man vol. 4 #1-6 (Marvel Comics, 2005-2006, Warren Ellis & Adi Granov); film Extremis-injection scenes in Iron Man 3 (Marvel Studios, 2013, IMDB tt1300854).
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) a subdermal/intra-osseous nanofluid reservoir that stores a deployable structure and extrudes it on command, and (b) an injected nano-agent that rewrites a body to a stored schematic via its own repair pathways over a documented timed reconfiguration. Anticipates generic claims to subdermal nanofluid reservoirs with on-demand extrusion and to schematic-driven somatic-reconfiguration injectables with timed reconfiguration. Extends the existing iron-man-extremis-injection entry with the Bleeding Edge subdermal-storage subsystem and the explicit injection-sequence detail. Pairs with iron-man-extremis-injection, doctor-who-empty-child-nanogene-rewrite, and bioshock-plasmid-injection.
 
 ## Beckman Coulter AU5800 Clinical Chemistry Analyzer Cuvette Wheel (2011)
 

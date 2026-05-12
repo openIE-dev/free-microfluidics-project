@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-su8-photoresist`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1991
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beebe, D. J.; Moore, J. S.; Bauer, J. M.; Yu, Q.; Liu, R. H.; Devadoss, C.; Jo, B.-H. Functional hydrogel structures for autonomous flow control inside microfluidic channels. Nature 2000, 404, 588–590. DOI: 10.1038/35007047
 - **ip status**: patented
 - **prior art notes**: Disclosed pH-responsive hydrogel structures photopatterned in situ inside microchannels to act as autonomous valves and chemostat-like sensors. Anticipates: in-channel photopolymerized hydrogel valves, stimulus-responsive autonomous flow regulation, and the entire 'smart hydrogel' microfluidics subfield. Among the most-cited microfluidics papers and a foundational primitive distinct from Quake-style pneumatic valves.
+
+## Soft lithography for micro- and nanoscale patterning (Qin, Xia & Whitesides, Nature Protocols, 2010) (2010-03)
+
+- **id**: `whitesides-2010-nature-protocols-pdms-fabrication`
+- **corpus**: academic
+- **device class**: printer-tooling
+- **creator**: Dong Qin, Younan Xia, George M. Whitesides, Harvard
+- **disclosure**: Qin, D.; Xia, Y.; Whitesides, G. M. Soft lithography for micro- and nanoscale patterning. Nat. Protoc. 2010, 5 (3), 491-502. DOI: 10.1038/nprot.2009.234.
+- **ip status**: public-domain
+- **prior art notes**: The widely-followed step-by-step protocol that codified PDMS soft-lithography microfabrication for non-specialist laboratories - the de facto foundry recipe behind a large fraction of academic microfluidic devices. Discloses, in reproducible detail: photomask layout and printing; SU-8 photoresist master fabrication on silicon with feature heights from a few microns to hundreds of microns; degassed-PDMS casting, curing, and demolding; oxygen-plasma activation and irreversible PDMS-glass and PDMS-PDMS bonding; inlet/outlet punching and tubing interfacing; and multilayer alignment for valve chips. Anticipates claims to: standardized PDMS replica-molding microfluidic fabrication workflows; plasma-bonded PDMS-glass channel sealing; SU-8-master-defined microchannel geometries; and the generic rapid-prototyping foundry process. Distinct from existing duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, mcdonald-whitesides-2002-pdms-review, and whitesides-2010-mu-pads-systematic; cross-referenced as the published protocol node of the Whitesides soft-lithography lineage (the patented aspects are covered by whitesides-patent-family-soft-lithography).
 
 ## Berkeley Lights NanoPen Chamber Patent Family (2014)
 

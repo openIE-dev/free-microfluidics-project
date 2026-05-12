@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-thermal-bonding`
 
-**27 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992
 
@@ -25,6 +25,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: First demonstration of capillary electrophoresis with sample injection integrated on a planar glass chip. Anticipates: integrated electrokinetic separation, T-injector geometry for plug formation, glass-glass thermal bonding for chip sealing, and on-chip electrochemical or fluorescence detection coupled to electrophoretic separation. Patent claims asserting novelty over CE-on-chip as a category run into this disclosure.
 
+## Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) (1993-08-13)
+
+- **id**: `harrison-1993-science-mu-tas-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: D. Jed Harrison (Alberta), Andreas Manz (Ciba-Geigy), and coworkers
+- **disclosure**: Harrison, D. J.; Fluri, K.; Seiler, K.; Fan, Z.; Effenhauser, C. S.; Manz, A. Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip. Science 1993, 261 (5123), 895-897. DOI: 10.1126/science.261.5123.895.
+- **ip status**: public-domain
+- **prior art notes**: The landmark demonstration of an integrated capillary-electrophoresis chemical-analysis microchip - electrokinetically controlled sample handling, on-chip injection at a channel intersection, electrophoretic separation in HF-etched glass channels, and laser-induced-fluorescence detection - establishing the planar-glass uTAS platform that dominated the next decade. Discloses: a cross/double-T channel network with multiple reservoirs; voltage-program-controlled electrokinetic sample injection, separation, and dilution entirely by switching electrode potentials with no moving parts; sub-nL defined injection volumes; and integrated optical detection. Anticipates claims to: electrokinetically valved sample injection at channel intersections; multi-reservoir voltage-programmed CE microchips; HF-etched glass CE channel networks; and integrated LIF detection on a CE chip. Distinct companion to existing harrison-1992-cap-electrophoresis-on-chip and harrison-1993-electroosmotic-cycling entries; cross-referenced. Ancestor of jacobson-1994-pinched-injection, effenhauser-1993-glass-microchip-electrophoresis, mathies-1995-radial-cap-array, and burns-1998-integrated-dna-analysis-device.
+
 ## Witcher Kaer Morhen alchemy laboratory (1994)
 
 - **id**: `witcher-kaer-morhen-alchemy-laboratory`
@@ -34,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sapkowski A., 'Krew Elfow' (Blood of Elves), SuperNowa 1994, ISBN 978-83-7054-153-0
 - **ip status**: fictional
 - **prior art notes**: Disclosure of a fortress-scale alchemical laboratory with redundant distillation columns, persistent reagent stockpile, and pre-electric heated mixing benches. Anticipates claims directed to redundant distillation manifolds for small-batch reagent production with persistent stockpile management.
+
+## Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips (Woolley & Mathies, 1994) (1994-11-22)
+
+- **id**: `woolley-mathies-1994-microfabricated-capillary-array-electrophoresis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Adam T. Woolley & Richard A. Mathies, UC Berkeley
+- **disclosure**: Woolley, A. T.; Mathies, R. A. Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips. Proc. Natl. Acad. Sci. U.S.A. 1994, 91 (24), 11348-11352. DOI: 10.1073/pnas.91.24.11348.
+- **ip status**: public-domain
+- **prior art notes**: Demonstrated DNA-fragment electrophoretic separations on a glass microchip with a sieving polymer matrix achieving separations in seconds-to-minutes, and laid the groundwork for microfabricated capillary-array electrophoresis (CAE) for high-throughput DNA sizing and sequencing. Discloses: HF-etched glass channels filled with replaceable polymer sieving matrices for size separation of dsDNA; high-field ultra-fast electrophoresis enabled by efficient Joule-heat dissipation in shallow channels; on-chip LIF detection; and the scaling toward parallel channel arrays read by a scanning confocal detector. Anticipates claims to: polymer-sieving DNA separations in microchannels; high-field rapid microchip electrophoresis; capillary-array electrophoresis on a single substrate; and confocal-scanner readout of parallel separation channels. Distinct companion to existing mathies-1995-radial-cap-array; cross-referenced. Ancestor of microchip DNA-sequencing and high-throughput-genotyping platforms.
 
 ## microfluidic ChipShop standard glass and thermoplastic chips (2002)
 
@@ -74,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Little Things Factory GmbH (Ilmenau, DE) product brochure 2005; Hessel, V.; Hardt, S.; Löwe, H. Chemical Micro Process Engineering: Fundamentals, Modelling and Reactions, Wiley-VCH, 2004 (cites LTF); LTF product catalog rev 2018; product page https://www.ltf-gmbh.com
 - **ip status**: patented
 - **prior art notes**: Discloses an off-the-shelf catalog of standardized borosilicate-glass microreactor chips (T-mixer, V-mixer, HEX with integrated heat exchanger, residence-time meanders) in two standard footprints — a 'commodity glass chip' supplier providing the substrates that other vendors (Future Chemistry, Chemtrix Labtrix, Syrris) integrate into their platforms. Anticipates patent claims to standardized-footprint glass microreactor chip families and to integrated-heat-exchanger glass microreactor plates ('HEX' variants).
+
+## Acoustic frequency selection in microchannel ultrasonic standing-wave separation (Wiklund & Hertz, 2005) (2005)
+
+- **id**: `wiklund-hertz-2005-acoustic-frequency-selection-microchannels`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Martin Wiklund & Hans M. Hertz, KTH
+- **disclosure**: Wiklund, M.; Hertz, H. M. Ultrasonic enhancement of bead-based bioaffinity assays. Lab Chip 2006, 6, 1279. Related: Wiklund, M.; Toivonen, J.; Tirri, M.; Hanninen, P.; Hertz, H. M. Ultrasonic enrichment of microspheres for ultrasensitive biomedical analysis in confocal laser-scanning fluorescence detection. J. Appl. Phys. 2004, 96, 1242. Hertz, H. M. Standing-wave acoustic trap for nonintrusive positioning of microparticles. J. Appl. Phys. 1995, 78, 4845.
+- **ip status**: public-domain
+- **prior art notes**: Establishes how to choose the ultrasonic drive frequency for half-wavelength (and multi-node) standing-wave resonances in glass/silicon microchannels so that the acoustic radiation force concentrates particles or cells at pressure nodes - the design rule behind essentially all bulk-acoustic-wave acoustophoresis chips. Discloses: matching the channel width to an integer number of acoustic half-wavelengths in the fluid for a chosen transducer frequency; the resulting node positions and the dependence of trapping strength on frequency, channel resonance Q, and acoustic contrast factor; and integration of standing-wave trapping with confocal fluorescence detection for bead-based bioaffinity assays. Anticipates claims to frequency-tuned acoustophoretic microchannel separators, half-wavelength-resonator chip dimensioning, and acoustically enriched on-chip immunoassays. Companion to laurell-2007-acoustophoresis and the King 1934 / Yosioka-Kawasima 1955 / Gorkov 1962 acoustic-radiation-force lineage.
 
 ## Singulex Erenna single-molecule counting immunoassay (2006)
 

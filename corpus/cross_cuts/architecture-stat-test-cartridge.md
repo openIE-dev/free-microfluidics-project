@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-stat-test-cartridge`
 
-**227 corpus entries disclose this subsystem.**
+**229 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1870
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Miller, M. Traveller (Classic). Game Designers' Workshop, 1977.
 - **ip status**: fictional
 - **prior art notes**: Traveller (1977 onwards) is among the earliest RPG canons to formally specify shipboard medical infrastructure, including 'low berth' long-duration cryostasis chambers and autodoc surgical platforms. Sourcebook canon across multiple editions (Classic 1977, MegaTraveller, T20, Mongoose Traveller) constitutes timestamped RPG-canonical disclosure of the architectural categories 'shipboard cryostasis chamber with continuous monitoring' and 'shipboard autodoc surgical platform'. §102 category disclosure with provenance dating to 1977 — earlier than Banks Culture autodoc (1987) or Niven Ringworld autodoc (1970, though Traveller adds RPG-canonical functional specification).
+
+## A gas chromatographic air analyzer fabricated on a silicon wafer (Terry, Jerman & Angell, 1979) (1979-12)
+
+- **id**: `terry-jerman-angell-1979-silicon-gas-chromatograph-ieee`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen C. Terry, J. Hal Jerman, James B. Angell, Stanford University
+- **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26 (12), 1880-1886. DOI: 10.1109/T-ED.1979.19791. (Based on Terry, S. C., PhD thesis, Stanford University, 1975.)
+- **ip status**: public-domain
+- **prior art notes**: The first integrated micro total analysis system (uTAS): a complete miniature gas chromatograph - sample-injection valve, 1.5-metre spiral separation column, and thermal-conductivity detector - photolithographically patterned and etched into a single silicon wafer with a glass cover, separating air mixtures in seconds. Discloses: a long spiral microchannel column anisotropically etched in silicon and sealed with a bonded glass lid; an integrated diaphragm sample-injection valve; an on-chip resistive thermal-conductivity detector; and the entire integrated-fabrication paradigm of putting a multi-component analytical instrument on a chip - the founding prior art for lab-on-a-chip. Anticipates claims to: spiral microchannel separation columns in silicon; monolithically integrated injector + column + detector; wafer-scale fabrication of a chemical analyzer; and the generic uTAS concept later named by Manz 1990. Distinct companion to the existing terry-1979-stanford-gas-chromatograph entry (this entry foregrounds the IEEE T-ED 26, 1880 publication and the uTAS-precedent framing); cross-referenced. Ancestor of manz-1990-mu-tas-concept and the entire lab-on-chip lineage.
 
 ## Star Wars bacta tank / kolto tank (1980)
 
@@ -304,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Robinson, K. S. Red Mars. HarperCollins, London, 1993. ISBN 0-00-224448-6. Process detailed in Green Mars (1994, ISBN 0-00-224608-X) and Blue Mars (1996, ISBN 0-00-224748-5).
 - **ip status**: fictional
 - **prior art notes**: Robinson's Mars trilogy describes Vlad Taneev's longevity treatment in laboratory-process detail, including: extraction of patient's nucleated cells; analysis of DNA damage and telomere state; synthesis of patient-specific DNA-repair enzymes and telomerase activators; and reintroduction. Architecturally discloses 'integrated personalized cell therapy preparation platform combining patient-cell input, on-chip sequencing/assay, on-demand enzyme synthesis, and reformulation for reinjection'. Relevant prior art against patents on automated cell-therapy preparation cartridges (CAR-T sample-to-formulation systems, autologous gene-therapy benchtop platforms).
+
+## Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) (1993-08-13)
+
+- **id**: `harrison-1993-science-mu-tas-chip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: D. Jed Harrison (Alberta), Andreas Manz (Ciba-Geigy), and coworkers
+- **disclosure**: Harrison, D. J.; Fluri, K.; Seiler, K.; Fan, Z.; Effenhauser, C. S.; Manz, A. Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip. Science 1993, 261 (5123), 895-897. DOI: 10.1126/science.261.5123.895.
+- **ip status**: public-domain
+- **prior art notes**: The landmark demonstration of an integrated capillary-electrophoresis chemical-analysis microchip - electrokinetically controlled sample handling, on-chip injection at a channel intersection, electrophoretic separation in HF-etched glass channels, and laser-induced-fluorescence detection - establishing the planar-glass uTAS platform that dominated the next decade. Discloses: a cross/double-T channel network with multiple reservoirs; voltage-program-controlled electrokinetic sample injection, separation, and dilution entirely by switching electrode potentials with no moving parts; sub-nL defined injection volumes; and integrated optical detection. Anticipates claims to: electrokinetically valved sample injection at channel intersections; multi-reservoir voltage-programmed CE microchips; HF-etched glass CE channel networks; and integrated LIF detection on a CE chip. Distinct companion to existing harrison-1992-cap-electrophoresis-on-chip and harrison-1993-electroosmotic-cycling entries; cross-referenced. Ancestor of jacobson-1994-pinched-injection, effenhauser-1993-glass-microchip-electrophoresis, mathies-1995-radial-cap-array, and burns-1998-integrated-dna-analysis-device.
 
 ## Greg Egan Permutation City scanning / medical-substrate apparatus (1994)
 

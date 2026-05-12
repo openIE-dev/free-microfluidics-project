@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-size-exclusion-chromatography`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1901
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Carman, P. C. (1937). 'Fluid flow through granular beds.' Trans. IChemE 15: 150-166. Companion: Carman, P. C. (1939). J. Agric. Sci. 29: 263.
 - **ip status**: public-domain
 - **prior art notes**: Combines Kozeny's geometric capillary-bundle model with Carman's empirical permeability data into the Carman-Kozeny equation, the standard relation for permeability of granular and fibrous porous media. Anticipates microfluidic disclosures claiming packed-bead immunoassay columns with predicted flow rates, on-chip solid-phase extraction columns sized to a target pressure drop, cell-trap arrays modeled as porous media. Any patent claim that derives an on-chip permeability or pressure-drop from bead-diameter and packing fraction is anticipated by Carman-Kozeny.
+
+## A gas chromatographic air analyzer fabricated on a silicon wafer (Terry, Jerman & Angell, 1979) (1979-12)
+
+- **id**: `terry-jerman-angell-1979-silicon-gas-chromatograph-ieee`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen C. Terry, J. Hal Jerman, James B. Angell, Stanford University
+- **disclosure**: Terry, S. C.; Jerman, J. H.; Angell, J. B. A gas chromatographic air analyzer fabricated on a silicon wafer. IEEE Trans. Electron Devices 1979, 26 (12), 1880-1886. DOI: 10.1109/T-ED.1979.19791. (Based on Terry, S. C., PhD thesis, Stanford University, 1975.)
+- **ip status**: public-domain
+- **prior art notes**: The first integrated micro total analysis system (uTAS): a complete miniature gas chromatograph - sample-injection valve, 1.5-metre spiral separation column, and thermal-conductivity detector - photolithographically patterned and etched into a single silicon wafer with a glass cover, separating air mixtures in seconds. Discloses: a long spiral microchannel column anisotropically etched in silicon and sealed with a bonded glass lid; an integrated diaphragm sample-injection valve; an on-chip resistive thermal-conductivity detector; and the entire integrated-fabrication paradigm of putting a multi-component analytical instrument on a chip - the founding prior art for lab-on-a-chip. Anticipates claims to: spiral microchannel separation columns in silicon; monolithically integrated injector + column + detector; wafer-scale fabrication of a chemical analyzer; and the generic uTAS concept later named by Manz 1990. Distinct companion to the existing terry-1979-stanford-gas-chromatograph entry (this entry foregrounds the IEEE T-ED 26, 1880 publication and the uTAS-precedent framing); cross-referenced. Ancestor of manz-1990-mu-tas-concept and the entire lab-on-chip lineage.
 
 ## Sepragen QuantaSep / ProSep Radial-Flow Chromatography Column (1989)
 
