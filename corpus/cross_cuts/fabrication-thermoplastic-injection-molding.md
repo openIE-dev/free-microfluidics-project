@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**171 corpus entries disclose this subsystem.**
+**172 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -924,6 +924,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche MagNA Pure 24 product release 2015; technical user guide V2; CE-IVD marked
 - **ip status**: patented
 - **prior art notes**: Discloses a 24-position pipette-based magnetic-bead NA extraction processor with sealed reagent reservoirs and disposable pipette tips, distinct from rod-transfer-based KingFisher architecture. Anticipates: pipette-tip magnetic-bead extraction at the 24-sample scale with integrated waste handling and IVD-compliant sample tracking.
+
+## Cellular Research microwell-array single-cell barcoding (Fan 2015) (2015)
+
+- **id**: `fan-2015-cellular-research-microwell`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Fan / Fu / Fodor, Cellular Research / Stanford
+- **disclosure**: Fan, H. C.; Fu, G. K.; Fodor, S. P. A. Combinatorial labeling of single cells for gene expression cytometry. Science 2015, 347, 6222, 1258367. DOI: 10.1126/science.1258367.
+- **ip status**: patented
+- **prior art notes**: Discloses passive single-cell capture into a microwell array followed by bead-mediated barcoded reverse transcription, the foundational methodology for cartridge-based scRNA-seq without droplet generation. Anticipates microwell-array single-cell barcoding cartridges; bead-loaded passive single-cell sequencing prep. Direct ancestor of BD Rhapsody.
 
 ## 10x Genomics Chromium controller and Next GEM chip (2016)
 

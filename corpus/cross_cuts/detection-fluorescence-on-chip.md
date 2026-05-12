@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**175 corpus entries disclose this subsystem.**
+**176 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -834,6 +834,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unchained Labs Uncle product launch, 2016 (formerly Avacta Optim 1000 acquired 2015).
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-position cuvette array with integrated Peltier ramping and simultaneous intrinsic fluorescence + DLS + SLS per cuvette. Anticipates triple-detection thermal ramp protein stability cuvette array claims.
+
+## Cell Painting high-throughput morphological profiling (Bray 2016) (2016)
+
+- **id**: `cell-painting-bray-2016`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Bray / Carpenter group, Broad Institute
+- **disclosure**: Bray, M. A. et al. Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes. Nat. Protoc. 2016, 11, 1757-1774. DOI: 10.1038/nprot.2016.105.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses the multiplexed six-dye phenotypic staining protocol on 384-well microfluidic-compatible plates, scored by high-content imaging. Anticipates: image-based phenotypic profiling at industrial scale; staining-protocol-as-pipeline. Direct ancestor of Recursion Phenom and AI-driven phenotypic platforms.
 
 ## Senseonics Eversense Implantable Continuous Glucose Monitor (2016-05)
 

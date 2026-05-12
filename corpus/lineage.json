@@ -9442,7 +9442,9 @@
       "name": "Recursion Pharmaceuticals OS - Cell painting + foundation model (extend)",
       "year": "2013",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "cell-painting-bray-2016"
+      ],
       "descendants": []
     },
     {
@@ -11066,6 +11068,16 @@
       "descendants": []
     },
     {
+      "id": "fan-2015-cellular-research-microwell",
+      "name": "Cellular Research microwell-array single-cell barcoding (Fan 2015)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "bd-rhapsody-microwell"
+      ]
+    },
+    {
       "id": "fluidform-fresh-bioprinting",
       "name": "FluidForm FRESH bioprinting platform",
       "year": "2015",
@@ -11597,6 +11609,16 @@
       "descendants": []
     },
     {
+      "id": "cell-painting-bray-2016",
+      "name": "Cell Painting high-throughput morphological profiling (Bray 2016)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "recursion-pharma-extend"
+      ]
+    },
+    {
       "id": "cellink-bio-x-pneumatic-printhead",
       "name": "CELLINK BIO X Pneumatic Bioprinthead",
       "year": "2016",
@@ -12040,7 +12062,9 @@
       "name": "BD Rhapsody single-cell analysis system",
       "year": "2017",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "fan-2015-cellular-research-microwell"
+      ],
       "descendants": []
     },
     {
@@ -16863,12 +16887,23 @@
       "descendants": []
     },
     {
+      "id": "tenx-genomics-visium-hd",
+      "name": "10x Genomics Visium HD spatial gene expression (2024)",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "tenx-visium-hd-cytassist-2"
+      ]
+    },
+    {
       "id": "tenx-visium-hd-cytassist-2",
       "name": "10x Genomics Visium HD + CytAssist 2.0 - 2024 update",
       "year": "2024",
       "corpus": "private",
       "ancestors": [
-        "10x-visium-hd-cytassist"
+        "10x-visium-hd-cytassist",
+        "tenx-genomics-visium-hd"
       ],
       "descendants": []
     },
@@ -17077,10 +17112,6 @@
       "descendants": []
     }
   ],
-  "warnings": [
-    "bd-rhapsody-microwell.lineage_ancestors references unknown id `fan-2015-cellular-research-microwell`",
-    "recursion-pharma-extend.lineage_ancestors references unknown id `cell-painting-bray-2016`",
-    "tenx-visium-hd-cytassist-2.lineage_ancestors references unknown id `tenx-genomics-visium-hd`"
-  ],
+  "warnings": [],
   "cycles": []
 }

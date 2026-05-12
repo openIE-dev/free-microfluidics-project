@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-spatial-barcoded-array`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2016
 
@@ -104,3 +104,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Curio Bioscience Curio Trekker product launch 2024. https://curiobioscience.com/products/curio-trekker/.
 - **ip status**: unknown
 - **prior art notes**: Extension of the Slide-seq bead-puck architecture to record cell positional barcodes in vivo: tissue is briefly exposed to a Trekker puck so cells take up positional barcode oligonucleotides, then dissociated and processed by standard scRNA-seq with barcode readout. Anticipates: 'spatial-tag-then-dissociate' architecture for combining standard droplet scRNA-seq with retained positional information, bypassing the resolution limits of in-situ-only readouts.
+
+## 10x Genomics Visium HD spatial gene expression (2024) (2024)
+
+- **id**: `tenx-genomics-visium-hd`
+- **corpus**: private
+- **device class**: single-cell-platform
+- **creator**: 10x Genomics, Inc.
+- **disclosure**: 10x Genomics. Visium HD Spatial Gene Expression product launch, AGBT 2024-02-12. https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression
+- **ip status**: patented
+- **prior art notes**: Discloses 2 um-resolution whole-transcriptome spatial profiling on a glass slide with a barcoded grid (Visium HD), bridged from FFPE / fresh-frozen tissue via the CytAssist instrument. Anticipates: 2 um spatial resolution whole-transcriptome capture grids; CytAssist-based thermal-pneumatic transfer. Direct ancestor of Visium HD 2.0 + CytAssist 2.0.

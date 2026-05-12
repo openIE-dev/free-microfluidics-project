@@ -335,7 +335,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `architecture-soft-litho-lineage` | 1 | 2019-04 |
 | `architecture-software-defined-recipe-platform` | 1 | 2018-07 |
 | `architecture-solar-wind-analyzer` | 1 | 2023 |
-| `architecture-spatial-barcoded-array` | 9 | 2016 |
+| `architecture-spatial-barcoded-array` | 10 | 2016 |
 | `architecture-stat-test-cartridge` | 227 | 1870 |
 | `architecture-stilted-clean-city` | 1 | 2002-05-16 |
 | `architecture-thermal-bubble-jet` | 2 | 1977 |
@@ -459,7 +459,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `cell-trap-acoustic-streaming-vortex` | 8 | 1934 |
 | `cell-trap-dielectrophoretic` | 2 | 2016 |
 | `cell-trap-hydrodynamic` | 21 | 1890 |
-| `cell-trap-microwell-array` | 18 | 1993 |
+| `cell-trap-microwell-array` | 19 | 1993 |
 | `cell-viability-preserving-jet` | 1 | 2016 |
 | `cellular-resolution-treatment` | 1 | 1985 |
 | `centralized-genome-master` | 1 | 1988 |
@@ -603,7 +603,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `detection-electrochemical-on-chip` | 72 | 1916 |
 | `detection-fid` | 1 | 2014 |
 | `detection-flow-cytometry` | 1 | 2009 |
-| `detection-fluorescence-on-chip` | 175 | 1916 |
+| `detection-fluorescence-on-chip` | 176 | 1916 |
 | `detection-fluorescence-optical` | 3 | 2009 |
 | `detection-fluorescent-particle` | 1 | 2003 |
 | `detection-ftir` | 2 | 2008 |
@@ -852,7 +852,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `fabrication-stainless-steel-printhead` | 1 | 2019-06-25 |
 | `fabrication-su8-photoresist` | 6 | 1991 |
 | `fabrication-thermal-bonding-thermoplastic` | 1 | 2002-04 |
-| `fabrication-thermoplastic-injection-molding` | 171 | 1989 |
+| `fabrication-thermoplastic-injection-molding` | 172 | 1989 |
 | `fabrication-thermoplastic-laser-cutting` | 9 | 2002 |
 | `fabrication-thin-film-amorphous-silicon` | 1 | 2010 |
 | `fabrication-user-assembled-capillary-array` | 1 | 2003 |

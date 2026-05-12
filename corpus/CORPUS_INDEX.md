@@ -1,6 +1,6 @@
 # Corpus Index
 
-2021 entries total. Generated from corpus.jsonl.
+2024 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | 10x Genomics Chromium controller and Next GEM chip | `10x-genomics-chromium-controller` | 2016 | private | patented |  |
 | 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family | `tenx-genomics-chromium-gem-patent-family` | 2014 | private | patented |  |
 | 10x Genomics Visium HD + CytAssist 2.0 - 2024 update | `tenx-visium-hd-cytassist-2` | 2024 | private | patented |  |
+| 10x Genomics Visium HD spatial gene expression (2024) | `tenx-genomics-visium-hd` | 2024 | private | patented |  |
 | 10x Genomics Visium HD spatial transcriptomics slide | `10x-genomics-visium-hd` | 2023 | private | patented |  |
 | 10x Genomics Visium HD with CytAssist | `10x-visium-hd-cytassist` | 2023 | private | patented |  |
 | 10x Genomics Visium Spatial Transcriptomics Patent Family | `tenx-genomics-visium-spatial-patent-family` | 2010 | private | patented |  |
@@ -376,6 +377,7 @@
 | Catalog Technologies Shannon DNA Storage Platform | `catalog-technologies-shannon-dna-storage` | 2019 | private | patented |  |
 | Catalog Technologies Shannon DNA Storage Write/Read System | `catalog-technologies-dna-storage` | 2019 | private | patented |  |
 | CDC National Wastewater Surveillance System (NWSS) standardized prep | `cdc-nwss-wastewater-prep` | 2020 | private | public-domain |  |
+| Cell Painting high-throughput morphological profiling (Bray 2016) | `cell-painting-bray-2016` | 2016 | academic | open-permissive |  |
 | Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend | `cellares-cell-shuttle-2-0` | 2024 | private | patented |  |
 | Cellares Cell Shuttle CAR-T manufacturing platform | `cellares-cell-shuttle` | 2022 | private | patented |  |
 | Cellares Cell Shuttle iPSC Manufacturing Variant | `cellares-cell-shuttle-ipsc-variant` | 2023 | private | patented |  |
@@ -389,6 +391,7 @@
 | Cellix Vena8 Biochip with Magnetofluidic Bead Capture | `cellix-vena8-magnetofluidics-chip` | 2009 | private | patented |  |
 | Cellix VenaPlus Microfluidic Multi-Channel Bioplate | `cellix-venaplus` | 2017 | private | patented |  |
 | CellSearch CTC isolation system | `kapur-2013-cellsearch-ctc-system` | 2003 | academic | patented |  |
+| Cellular Research microwell-array single-cell barcoding (Fan 2015) | `fan-2015-cellular-research-microwell` | 2015 | academic | patented |  |
 | Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection | `lab-on-disc-caries-detection-2018` | 2018 | academic | unknown |  |
 | Cepheid GeneXpert cartridge | `cepheid-genexpert-cartridge` | 2004 | private | patented |  |
 | Cepheid Xpress (rapid GeneXpert) cartridge | `cepheid-xpress-cartridge` | 2017 | private | patented |  |
