@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**26 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -204,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Burton SA et al. Pharm Res 28(1):31-40 2011 doi:10.1007/s11095-010-0177-8; 3M Drug Delivery Systems patent family
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated hollow microneedle array with reservoir and applicator-driven actuation pushing milliliter-scale liquid drug intradermally through hundreds of microneedle bores in parallel. The polymer microneedle array is fabricated by injection molding. Anticipates: hollow-microneedle intradermal infusion systems with on-board reservoir and spring-actuated dispensing; the architectural pattern of trading single hypodermic needle bore for parallel-bore micro-array.
+
+## FluidVision Accommodating Intraocular Lens (PowerVision / Alcon) (2008)
+
+- **id**: `powervision-fluidvision-accommodating-iol`
+- **corpus**: private
+- **device class**: other
+- **creator**: PowerVision Inc. (acquired by Alcon)
+- **disclosure**: PowerVision Inc. patent family; FluidVision presented at ASCRS; PowerVision acquired by Alcon 2019.
+- **ip status**: patented
+- **prior art notes**: Anticipates: an implantable microfluidic actuator in which a biological force (ciliary muscle) drives a sub-microliter fluid volume through internal micro-channels between a peripheral reservoir and a central deformable chamber to change an optical surface; index-matched silicone-oil working fluid in a sealed intraocular microfluidic loop; haptic-as-reservoir architecture. A foundational disclosure for fluid-actuated accommodating IOLs.
 
 ## Eclipse Phase synthmorph internal fluid-skeleton and lubricant systems (2009)
 

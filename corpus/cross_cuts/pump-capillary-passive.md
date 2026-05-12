@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**94 corpus entries disclose this subsystem.**
+**97 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -104,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Washburn, E. W. (1921). 'The dynamics of capillary flow.' Physical Review 17(3): 273-283. doi:10.1103/PhysRev.17.273
 - **ip status**: public-domain
 - **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
+
+## Paper partition chromatography (1944)
+
+- **id**: `consden-gordon-martin-1944-paper-chromatography`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Raphael Consden, Archer Gordon, Archer Martin (Wool Industries Research Association / Lister Institute)
+- **disclosure**: Consden, R.; Gordon, A. H.; Martin, A. J. P. Qualitative analysis of proteins: a partition chromatographic method using paper. Biochem. J. 1944, 38, 224-232. DOI: 10.1042/bj0380224
+- **ip status**: public-domain
+- **prior art notes**: The direct ancestor of paper microfluidics. Discloses capillary-wicking transport of sample through a cellulose paper matrix as the engine of an analytical separation, including two-dimensional development. Anticipates: passive capillary-driven flow in paper as a microfluidic transport mechanism, paper as a substrate for multi-step analysis, and spot-detection readout. Every microPAD (microfluidic paper-based analytical device), lateral-flow strip, and wax-printed paper assay descends from this 1944 method; the use of paper capillarity as a fluid-handling primitive cannot be claimed as novel over it.
 
 ## Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test) (1959-06-01)
 
@@ -214,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott BinaxNOW product family (originally Binax Inc., acquired by Inverness/Alere then Abbott). FDA EUA December 2020 for COVID-19 antigen.
 - **ip status**: patented
 - **prior art notes**: Lateral-flow rapid antigen cartridge with cassette housing, swab application port, buffer well, and double-line readout. Architecturally a follow-on to OraSure-class lateral-flow cassettes; commercially the dominant US over-the-counter COVID-19 home test 2020–2023. Anticipates: integrated cassette-housing + buffer-well + swab-port form factor that defined the COVID-era rapid-antigen test category.
+
+## Genomma Lab consumer-health and rapid-test portfolio (1996)
+
+- **id**: `genomma-lab-mexico-otc-and-ivd-portfolio`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Genomma Lab Internacional, Mexico City
+- **disclosure**: Genomma Lab Internacional S.A.B. de C.V., Mexico City; Genomma Lab product registry (consumer health plus distributed rapid diagnostic tests); COFEPRIS registrations
+- **ip status**: trade-secret
+- **prior art notes**: Estate / distribution entry. Genomma markets lateral-flow immunochromatographic tests and electrochemical glucose strips at retail scale. The underlying devices implement standard capillary-driven lateral-flow (Consden-Gordon-Martin paper-chromatography lineage) and enzymatic-strip electrochemistry; the entry is mostly a regional estate/distribution anchor rather than a novel device disclosure.
 
 ## Stargate Atlantis Wraith feeding hand and stunner extraction biology (2004)
 
@@ -694,6 +714,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GraphWear Technologies pitch & product disclosures (Y Combinator W17 batch); company website disclosures
 - **ip status**: patented
 - **prior art notes**: Discloses a wearable patch using a graphene-functionalized electrode to detect glucose in sweat or interstitial fluid that reaches the skin surface, without piercing skin. Limited primary clinical validation; company has been in development for years. Anticipates: graphene-affinity-electrode wearable biosensor architectures.
+
+## Hilab (Hi Technologies) point-of-care blood-test platform (2017)
+
+- **id**: `hi-technologies-hilab-poc-blood-test-platform`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Hi Technologies S.A., Curitiba
+- **disclosure**: Hi Technologies S.A. (Curitiba, Brazil) Hilab platform; ANVISA registrations and Hi Technologies technical literature; coverage in The Lancet Digital Health and WHO Compendium of innovative health technologies for low-resource settings circa 2019-2022
+- **ip status**: patented
+- **prior art notes**: A telemedicine-coupled point-of-care microfluidic blood-test system: a disposable capillary cartridge metering finger-stick blood into reagent zones, read optically and electrochemically on a battery-powered portable analyzer, with results validated remotely by AI plus human analysts in a cloud lab. Discloses: integrated finger-stick-to-result cartridge architecture for multiple analyte classes on one platform, cloud-connected remote validation as part of the diagnostic loop, and image-based machine-learning interpretation of microfluidic assay readouts. Relevant prior art against claims to (a) connected portable multi-analyte POC analyzers, (b) remote-expert-in-the-loop diagnostic workflows for microfluidic cartridges, and (c) AI interpretation of cartridge images. Builds on lateral-flow / paper-microfluidic (Consden-Gordon-Martin lineage) and capillary-metering cartridge prior art.
 
 ## Kenzen ECHO H2 Smart Patch (2017-01-05)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**44 corpus entries disclose this subsystem.**
+**45 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manning, G. S. (1972). 'Polyelectrolyte solutions. II. The osmotic pressure.' Annu. Rev. Phys. Chem. 23: 117-140.
 - **ip status**: public-domain
 - **prior art notes**: Manning 1972 extends the 1969 counterion-condensation theory into systematic predictions for osmotic pressure, electrophoretic mobility, and viscosity of polyelectrolyte solutions. Anticipates nanofluidic DNA-handling claims that recite mobility plateaus, ionic-strength-tuned separation, or condensation-controlled DNA conformation in nanochannels. Companion to Manning 1969.
+
+## Sanger dideoxy chain-termination DNA sequencing (1977)
+
+- **id**: `sanger-1977-dideoxy-sequencing`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Frederick Sanger, Steve Nicklen, Alan Coulson (MRC Laboratory of Molecular Biology, Cambridge)
+- **disclosure**: Sanger, F.; Nicklen, S.; Coulson, A. R. DNA sequencing with chain-terminating inhibitors. Proc. Natl. Acad. Sci. USA 1977, 74, 5463-5467. DOI: 10.1073/pnas.74.12.5463
+- **ip status**: public-domain
+- **prior art notes**: The dideoxy chain-termination method that all microfluidic and capillary-array DNA sequencing implements as the underlying chemistry. Anticipates: enzymatic primer extension with chain-terminating analogs, electrophoretic size-separation readout of the resulting ladder, and (in capillary form) the multiplexed-capillary sequencer architecture. Microfluidic sequencing-library-prep devices and lab-on-chip electrophoretic readers descend from this method; they cannot claim the sequencing chemistry as novel. Together with Mullis PCR 1985 it anchors the entire nucleic-acid-analysis branch of the corpus.
 
 ## Probstein 1989 — Physicochemical Hydrodynamics (Textbook, 1st ed.) (1989)
 

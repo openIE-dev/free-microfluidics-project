@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-check`
 
-**27 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1972-08-01
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: A canonical early integrated silicon microvalve: a bulk-micromachined silicon diaphragm seals a valve seat in the normally-closed state and is lifted by thermopneumatic actuation (a sealed cavity of fluid heated by an integrated resistor expands and deflects the membrane) to open the flow path. Discloses: a normally-closed (fail-safe) micromachined valve architecture; thermopneumatic membrane actuation with an integrated heater; a micromachined valve seat and corrugated diaphragm for low leakage and large stroke; and integration of the valve with silicon flow channels. Anticipates claims to: normally-closed micromachined valves; thermopneumatic-actuated microfluidic valves; resistor-heated sealed-cavity membrane drives; and corrugated-diaphragm low-leakage valve seats. Companion to the silicon-micropump lineage (van-lintel-1988-silicon-piezo-pump, esashi-1989-silicon-piezo-pump, smits-1989-piezo-peristaltic-pump) and an ancestor of integrated microvalve technology preceding the Quake pneumatic-membrane valve (unger-2000-quake-monolithic-membrane-valve).
 
+## Codman Hakim Programmable CSF Shunt Valve (1991)
+
+- **id**: `codman-hakim-programmable-csf-shunt-valve`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Codman and Shurtleff (Johnson and Johnson) / Integra LifeSciences
+- **disclosure**: Hakim S. Hydraulic and mechanical mis-matching of valve shunts. Surg Neurol 1973; Codman Hakim Programmable Valve System product literature 1990s; FDA 510(k).
+- **ip status**: patented
+- **prior art notes**: Anticipates: an implantable magnetically-reprogrammable flow-control valve in which a calibrated spring biases a precision ball against a jeweled micro-seat to set a cracking pressure; stepper-rotor adjustment of valve preload by an external rotating magnetic field; gem-bearing low-wear micro-valve seat for chronic biological-fluid throttling. Foundational for programmable hydrocephalus valves.
+
 ## A bidirectional silicon micropump (Zengerle, Richter, Sandmaier, 1992) (1992)
 
 - **id**: `zengerle-1992-bidirectional-silicon-micropump`
@@ -104,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ho, C.-M., Tai, Y.-C. (1998). 'Micro-electro-mechanical-systems (MEMS) and fluid flows.' Annu. Rev. Fluid Mech. 30: 579-612. doi:10.1146/annurev.fluid.30.1.579
 - **ip status**: public-domain
 - **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
+
+## Medtronic Strata II / Strata NSC Adjustable CSF Shunt Valve (1998)
+
+- **id**: `medtronic-strata-adjustable-csf-valve`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Medtronic (PS Medical / Medtronic Neurosurgery)
+- **disclosure**: Medtronic PS Medical Strata Valve product literature; FDA 510(k).
+- **ip status**: patented
+- **prior art notes**: Anticipates: a passive implantable CSF micro-valve combining a magnetically-stepped ball-cone cracking-pressure element with a flexible-diaphragm gravitational siphon-control element; multi-level externally-readable pressure indicator. Co-occurs with codman-hakim-programmable-csf-shunt-valve.
 
 ## Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module (1998-11-10)
 

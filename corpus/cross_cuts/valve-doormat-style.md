@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-doormat-style`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979-12
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Gravesen, P., Branebjerg, J., Jensen, O. S. (1993). 'Microfluidics — a review.' Journal of Micromechanics and Microengineering 3(4): 168-182. doi:10.1088/0960-1317/3/4/002
 - **ip status**: public-domain
 - **prior art notes**: Gravesen 1993 is one of the first explicit uses of 'microfluidics' as a field designator. Catalogs the state of the art in 1993: silicon piezoelectric pumps (van Lintel 1988, Esashi 1988-90), silicon membrane valves, silicon flow sensors, and silicon micromixers. Anticipates: (a) any post-1993 patent claim that recites a generic 'microfluidic system comprising pump, valve, mixer, sensor' integration (the integration architecture was reviewed and disclosed by 1993); (b) specific component claims to silicon piezoelectric pumps or membrane valves that fail to disclose a non-obvious geometric or functional feature beyond Gravesen's catalog. Critical anchor for invalidating broad silicon-microfluidic-system claims filed in the mid-1990s.
+
+## Medtronic Strata II / Strata NSC Adjustable CSF Shunt Valve (1998)
+
+- **id**: `medtronic-strata-adjustable-csf-valve`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Medtronic (PS Medical / Medtronic Neurosurgery)
+- **disclosure**: Medtronic PS Medical Strata Valve product literature; FDA 510(k).
+- **ip status**: patented
+- **prior art notes**: Anticipates: a passive implantable CSF micro-valve combining a magnetically-stepped ball-cone cracking-pressure element with a flexible-diaphragm gravitational siphon-control element; multi-level externally-readable pressure indicator. Co-occurs with codman-hakim-programmable-csf-shunt-valve.
 
 ## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
 

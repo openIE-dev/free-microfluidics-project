@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-laser-cutting`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ALine Inc. integrated multilayer microfluidic flow cells. https://alineinc.com/. ALine Inc. founded 2002 as a contract designer / manufacturer for laminate-based microfluidic devices.
 - **ip status**: patented
 - **prior art notes**: Lamination-based microfluidic manufacturing: stacked laser-cut PMMA / COC layers with pressure-sensitive-adhesive interlayers form integrated flow cells, including embedded blister reagent pouches and burst valves. Anticipates: PSA-laminate manufacturing as a third major microfluidic fabrication process category alongside soft lithography and thermoplastic injection molding; the architectural pattern of a CRO/CDMO providing both prototyping and production-scale runs of laminate flow cells. Many commercial diagnostic cartridges (including OEM cards inside larger systems) are ALine-built or ALine-architected.
+
+## INTI microfluidics and bioanalytical metrology programs (2010)
+
+- **id**: `inti-argentina-microfluidics-and-metrology-lab`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Instituto Nacional de Tecnologia Industrial (INTI), Buenos Aires
+- **disclosure**: Instituto Nacional de Tecnologia Industrial (INTI), Argentina; INTI micro- and nanotechnology and bioanalytical-metrology program reports; collaborations with CONICET and Argentine universities on microfluidic device prototyping
+- **ip status**: unknown
+- **prior art notes**: Institute-estate entry. INTI prototypes microfluidic devices and develops the metrology underpinning Argentine diagnostics manufacturing. Background prior art for soft-lithography and laser-cut thermoplastic microfluidic prototyping in a national-metrology-institute context. Estate anchor for the Argentine microfluidics ecosystem.
 
 ## Pearce Lab MOST Open Scientific Hardware Suite (2012)
 

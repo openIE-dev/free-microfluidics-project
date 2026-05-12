@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-capillary-stop`
 
-**20 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -135,6 +135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The definitive modern textbook on capillarity and wetting, by three Nobel-class authors. Anticipates microfluidic claims involving contact-line dynamics in microchannels, wetting of patterned surfaces, droplet spreading and pinning, superhydrophobic-surface microfluidics, capillary-pumping designs, and electrowetting at the Young/Lippmann level. Any patent claim reciting 'contact-angle controlled flow', 'wetting hysteresis exploited for directional flow', or 'superhydrophobic surface for droplet handling' must clear dGBWQ 2004.
 
+## Glaukos iStent Trabecular Micro-Bypass Stent (2004)
+
+- **id**: `glaukos-istent-trabecular-micro-bypass`
+- **corpus**: private
+- **device class**: other
+- **creator**: Glaukos Corporation
+- **disclosure**: Spiegel D, Kobuch K. Trabecular meshwork bypass tube shunt: initial case series. Adv Ther 2007; Glaukos FDA PMA P080030 (2012).
+- **ip status**: patented
+- **prior art notes**: Anticipates claims to: micro-scale implantable fluidic shunt with bore in the 50-150 um range bridging two ocular fluid compartments; passive pressure-driven aqueous drainage through a sub-millimeter lumen; snorkel/anchor geometry for trans-trabecular fixation; heparin or anti-thrombogenic surface coating on a microfluidic ocular implant. The lumen is a genuine microchannel operating at physiologic pressure differentials of a few mmHg. Could anticipate later MIGS stent claims.
+
 ## ASML TWINSCAN immersion lithography water-handling hood (2004-11-25)
 
 - **id**: `asml-twinscan-immersion-hood-water-handling`
@@ -194,6 +204,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bonn, D., Eggers, J., Indekeu, J., Meunier, J., Rolley, E. (2009). 'Wetting and spreading.' Rev. Mod. Phys. 81(2): 739-805. doi:10.1103/RevModPhys.81.739
 - **ip status**: public-domain
 - **prior art notes**: Bonn et al. 2009 is the canonical Reviews of Modern Physics article on wetting and spreading. Anticipates dynamic-wetting microfluidic claims, contact-line-pinning-based valves, contact-angle-hysteresis-driven flow rectifiers. Any patent asserting novelty around 'novel wetting dynamics' in microfluidics is anticipated by this review.
+
+## Hydrus Microstent (Ivantis / Alcon) (2011)
+
+- **id**: `ivantis-hydrus-microstent`
+- **corpus**: private
+- **device class**: other
+- **creator**: Ivantis Inc. (acquired by Alcon)
+- **disclosure**: Camras LJ et al. A novel Schlemms canal scaffold. Invest Ophthalmol Vis Sci 2012; FDA PMA P170034 (2018).
+- **ip status**: patented
+- **prior art notes**: Anticipates: microfluidic intraluminal scaffold that mechanically holds open a collapsed biological micro-conduit (Schlemms canal, about 200-350 um); shape-memory-alloy expansion of a sub-millimeter physiologic flow channel; crescent open-cell stent geometry preserving radial collector-channel flow. Related to glaukos-istent-trabecular-micro-bypass.
+
+## XEN Gel Stent (Allergan / AbbVie) (2014)
+
+- **id**: `abbvie-xen-gel-stent`
+- **corpus**: private
+- **device class**: other
+- **creator**: Aquesys Inc. / Allergan / AbbVie
+- **disclosure**: Sheybani A et al. Fluid dynamics of a novel micro-fistula implant for the surgical treatment of glaucoma. Invest Ophthalmol Vis Sci 2015; FDA clearance 2016.
+- **ip status**: patented
+- **prior art notes**: Anticipates: a microfluidic implant whose lumen diameter (about 45 um) is deliberately chosen using laminar-flow resistance calculations to set a target physiologic flow rate at known pressure drop; crosslinked-gelatin hydrogel as a swellable biocompatible microtube material; ab-interno trans-scleral micro-fistula. Companion to glaukos-istent and santen-preserflo-microshunt.
+
+## PreserFlo MicroShunt (Santen / InnFocus) (2014)
+
+- **id**: `santen-preserflo-microshunt`
+- **corpus**: private
+- **device class**: other
+- **creator**: InnFocus Inc. (Santen Pharmaceutical)
+- **disclosure**: Pinchuk L et al. The use of poly(styrene-block-isobutylene-block-styrene) as a microshunt to treat glaucoma. Regen Biomater 2016.
+- **ip status**: patented
+- **prior art notes**: Anticipates: precise selection of micro-lumen bore (about 70 um) using laminar pipe-flow equations to bound flow rate at physiologic pressure; thermoplastic-elastomer SIBS microtube with integral planar anchoring fin; ab-externo glaucoma micro-shunt. Co-occurs with abbvie-xen-gel-stent and glaukos-istent.
 
 ## Centrifugal Lab-on-a-Disc for Salivary Caries-Risk Biomarker Detection (2018)
 

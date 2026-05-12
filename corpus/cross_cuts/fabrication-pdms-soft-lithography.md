@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**103 corpus entries disclose this subsystem.**
+**104 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1898-05-12
 
@@ -644,6 +644,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iqbal M et al., IEEE J Sel Top Quantum Electron 16:654-661 (2010); doi:10.1109/JSTQE.2009.2032510; Genalyte Maverick product literature; FDA 510(k) K183052
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon-photonic microring biosensor array integrated with a PDMS microfluidic flow cell for multiplex label-free serology. Anticipates: silicon-photonic POC diagnostic cartridges; multiplex microring-resonator serology architectures; integration of silicon-photonic biosensors with disposable polymer fluidic flow cells.
+
+## INTI microfluidics and bioanalytical metrology programs (2010)
+
+- **id**: `inti-argentina-microfluidics-and-metrology-lab`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Instituto Nacional de Tecnologia Industrial (INTI), Buenos Aires
+- **disclosure**: Instituto Nacional de Tecnologia Industrial (INTI), Argentina; INTI micro- and nanotechnology and bioanalytical-metrology program reports; collaborations with CONICET and Argentine universities on microfluidic device prototyping
+- **ip status**: unknown
+- **prior art notes**: Institute-estate entry. INTI prototypes microfluidic devices and develops the metrology underpinning Argentine diagnostics manufacturing. Background prior art for soft-lithography and laser-cut thermoplastic microfluidic prototyping in a national-metrology-institute context. Estate anchor for the Argentine microfluidics ecosystem.
 
 ## Soft lithography for micro- and nanoscale patterning (Qin, Xia & Whitesides, Nature Protocols, 2010) (2010-03)
 

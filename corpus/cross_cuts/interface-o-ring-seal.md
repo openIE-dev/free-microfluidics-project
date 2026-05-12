@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**18 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1825
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Air-displacement multi-channel pipettor with the proprietary CO-RE (compressed O-ring expansion) tip-locking mechanism: a tapered steel mandrel expands an internal O-ring inside a disposable tip to form a leak-free seal without forceful press-fit. Anticipates: air-displacement liquid handlers with sealing-mandrel disposable tips; integration of pressure-sensor monitoring (MAD) for liquid-level and clog detection; the integration of microfluidic add-on modules (for example Hamilton's NIMBUS / STAR with chip-based options) on a 96/384-channel automation backbone. Foundational prior art for any 'air-displacement multi-channel head with monitored aspiration' claim post-2003.
 
+## Glaukos iStent Trabecular Micro-Bypass Stent (2004)
+
+- **id**: `glaukos-istent-trabecular-micro-bypass`
+- **corpus**: private
+- **device class**: other
+- **creator**: Glaukos Corporation
+- **disclosure**: Spiegel D, Kobuch K. Trabecular meshwork bypass tube shunt: initial case series. Adv Ther 2007; Glaukos FDA PMA P080030 (2012).
+- **ip status**: patented
+- **prior art notes**: Anticipates claims to: micro-scale implantable fluidic shunt with bore in the 50-150 um range bridging two ocular fluid compartments; passive pressure-driven aqueous drainage through a sub-millimeter lumen; snorkel/anchor geometry for trans-trabecular fixation; heparin or anti-thrombogenic surface coating on a microfluidic ocular implant. The lumen is a genuine microchannel operating at physiologic pressure differentials of a few mmHg. Could anticipate later MIGS stent claims.
+
 ## Metrohm 851 Titrando / 899 Coulometer Karl Fischer Water Determination (2005)
 
 - **id**: `metrohm-851-titrando-karl-fischer`
@@ -104,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Intarcia Therapeutics 10-K filings; clinical trial NCT01455896 (FREEDOM-1) 2012; FDA CRL 2017 / 2020
 - **ip status**: patented
 - **prior art notes**: Discloses a fully implantable osmotic micropump in titanium alloy housing where water osmotically infuses through a controlled-permeability membrane into an osmotic-engine compartment, the engine swells and pushes a piston advancing concentrated peptide formulation through a delivery orifice at sub-microliter-per-day rates for 6-12 months. Anticipates: long-term implantable osmotic mini-pumps for peptide drug delivery; the entire DUROS architecture pattern of titanium tube + semipermeable membrane + osmotic engine + piston + orifice; constant-rate sub-microliter dispensing without electronics or batteries.
+
+## FluidVision Accommodating Intraocular Lens (PowerVision / Alcon) (2008)
+
+- **id**: `powervision-fluidvision-accommodating-iol`
+- **corpus**: private
+- **device class**: other
+- **creator**: PowerVision Inc. (acquired by Alcon)
+- **disclosure**: PowerVision Inc. patent family; FluidVision presented at ASCRS; PowerVision acquired by Alcon 2019.
+- **ip status**: patented
+- **prior art notes**: Anticipates: an implantable microfluidic actuator in which a biological force (ciliary muscle) drives a sub-microliter fluid volume through internal micro-channels between a peripheral reservoir and a central deformable chamber to change an optical surface; index-matched silicone-oil working fluid in a sealed intraocular microfluidic loop; haptic-as-reservoir architecture. A foundational disclosure for fluid-actuated accommodating IOLs.
 
 ## Chemtrix Labtrix S1 (2009)
 
@@ -174,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bierhaus EB et al., 'The OSIRIS-REx Spacecraft and the Touch-and-Go Sample Acquisition Mechanism (TAGSAM),' Space Science Reviews 214:107 (2018), doi:10.1007/s11214-018-0521-6; Lauretta DS et al., 'Asteroid (101955) Bennu in the laboratory: Properties of the sample collected by OSIRIS-REx,' Meteoritics & Planetary Science 59:2453 (2024)
 - **ip status**: patented
 - **prior art notes**: The TAGSAM head is a gas-fluidized sample acquisition cartridge — relevant to the microfluidics corpus as a non-canonical fluidic system: pressurized N2 jets fluidize asteroid regolith into the collection chamber, then the chamber is sealed with an O-ring against contamination. Element-by-element prior art for: (a) gas-fluidized loose-particulate sampling cartridges with sealed return architecture (anticipates terrestrial industrial fluid-bed dry-sample collectors and bio-aerosol capture cartridges); (b) the integration of multiple sample-capture methods on one head (gas jets + Velcro contact pads) anticipates patents claiming hybrid dry-sampling cartridges; (c) the curation chain from in-flight sealed canister -> Earth-return capsule -> JSC nitrogen glove-box curation establishes a published cleanroom protocol for friable carbonaceous samples that anticipates Mars Sample Return curation patents. Patent citation is for the Lockheed-developed sample capture architecture.
+
+## Juvene Modular Fluid-Optic Accommodating IOL (LensGen) (2017)
+
+- **id**: `lensgen-juvene-modular-iol`
+- **corpus**: private
+- **device class**: other
+- **creator**: LensGen Inc.
+- **disclosure**: LensGen Inc. presentations at ASCRS 2017-2019; GRAIL clinical study.
+- **ip status**: patented
+- **prior art notes**: Anticipates: a sealed fluid-filled deformable optic that changes refractive power by redistribution of an internal sub-microliter fluid volume under capsular compression; modular base-plus-fluid-optic IOL architecture. Closely related to powervision-fluidvision-accommodating-iol.
 
 ## 10x Genomics Visium HD with CytAssist (2023-10)
 

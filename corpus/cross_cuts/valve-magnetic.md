@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-magnetic`
 
-**25 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1996
+Earliest disclosure: 1991
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Codman Hakim Programmable CSF Shunt Valve (1991)
+
+- **id**: `codman-hakim-programmable-csf-shunt-valve`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Codman and Shurtleff (Johnson and Johnson) / Integra LifeSciences
+- **disclosure**: Hakim S. Hydraulic and mechanical mis-matching of valve shunts. Surg Neurol 1973; Codman Hakim Programmable Valve System product literature 1990s; FDA 510(k).
+- **ip status**: patented
+- **prior art notes**: Anticipates: an implantable magnetically-reprogrammable flow-control valve in which a calibrated spring biases a precision ball against a jeweled micro-seat to set a cracking pressure; stepper-rotor adjustment of valve preload by an external rotating magnetic field; gem-bearing low-wear micro-valve seat for chronic biological-fluid throttling. Foundational for programmable hydrocephalus valves.
 
 ## Roche Elecsys Electrochemiluminescence Reagent Cassette (1996)
 
@@ -24,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roche/Boehringer Mannheim Elecsys 2010 immunoassay analyzer launch 1996; J. Clin. Lab. Anal. 1998 evaluation; US patents 5,238,808 and 5,310,687 (Boehringer Mannheim ECL cell)
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
+
+## Medtronic Strata II / Strata NSC Adjustable CSF Shunt Valve (1998)
+
+- **id**: `medtronic-strata-adjustable-csf-valve`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: Medtronic (PS Medical / Medtronic Neurosurgery)
+- **disclosure**: Medtronic PS Medical Strata Valve product literature; FDA 510(k).
+- **ip status**: patented
+- **prior art notes**: Anticipates: a passive implantable CSF micro-valve combining a magnetically-stepped ball-cone cracking-pressure element with a flexible-diaphragm gravitational siphon-control element; multi-level externally-readable pressure indicator. Co-occurs with codman-hakim-programmable-csf-shunt-valve.
 
 ## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
 

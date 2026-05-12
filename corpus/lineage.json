@@ -253,6 +253,16 @@
       "descendants": []
     },
     {
+      "id": "behrens-1894-microchemical-analysis",
+      "name": "Microchemical analysis (Behrens crystal-test method)",
+      "year": "1894",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "emich-1900-microchemistry"
+      ]
+    },
+    {
       "id": "hele-shaw-1898-flow-of-water",
       "name": "Hele-Shaw 1898 — The Flow of Water (Hele-Shaw Cell)",
       "year": "1898",
@@ -261,11 +271,34 @@
       "descendants": []
     },
     {
+      "id": "emich-1900-microchemistry",
+      "name": "Quantitative microchemical analysis (Emich method)",
+      "year": "1900",
+      "corpus": "academic",
+      "ancestors": [
+        "behrens-1894-microchemical-analysis"
+      ],
+      "descendants": [
+        "pregl-1911-quantitative-organic-microanalysis"
+      ]
+    },
+    {
       "id": "forchheimer-1901-high-velocity-porous-flow",
       "name": "Forchheimer 1901 - Wasserbewegung durch Boden (high-velocity porous flow)",
       "year": "1901",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "instituto-butantan-vaccine-and-serum-process-line",
+      "name": "Instituto Butantan vaccine and antivenom process line",
+      "year": "1901",
+      "corpus": "academic",
+      "ancestors": [
+        "engvall-perlmann-1971-elisa",
+        "tswett-1906-adsorption-chromatography"
+      ],
       "descendants": []
     },
     {
@@ -301,6 +334,19 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "tswett-1906-adsorption-chromatography",
+      "name": "Adsorption column chromatography (Tsvet)",
+      "year": "1906",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "biosidus-argentina-recombinant-protein-process-platform",
+        "hemobras-blood-derivative-fractionation-plant",
+        "instituto-butantan-vaccine-and-serum-process-line",
+        "martin-synge-1941-partition-chromatography"
+      ]
     },
     {
       "id": "wilcoxon-1907-thermal-capillary-flow",
@@ -345,6 +391,19 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "pregl-1911-quantitative-organic-microanalysis",
+      "name": "Quantitative organic microanalysis",
+      "year": "1911",
+      "corpus": "academic",
+      "ancestors": [
+        "emich-1900-microchemistry"
+      ],
+      "descendants": [
+        "manz-1990-mu-tas-concept",
+        "wiener-lab-clinical-chemistry-reagent-and-analyzer-line"
+      ]
     },
     {
       "id": "chapman-1913-double-layer-extension",
@@ -404,6 +463,14 @@
     {
       "id": "stern-1924-stern-layer-theory",
       "name": "Stern 1924 — Stern Layer Theory",
+      "year": "1924",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "svedberg-1924-analytical-ultracentrifuge",
+      "name": "Analytical ultracentrifuge",
       "year": "1924",
       "corpus": "academic",
       "ancestors": [],
@@ -502,12 +569,58 @@
       "descendants": []
     },
     {
+      "id": "tiselius-1937-moving-boundary-electrophoresis",
+      "name": "Moving-boundary electrophoresis (Tiselius apparatus)",
+      "year": "1937",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "harrison-1992-cap-electrophoresis-on-chip"
+      ]
+    },
+    {
+      "id": "coons-1941-immunofluorescence",
+      "name": "Immunofluorescence (fluorescent antibody method)",
+      "year": "1941",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "yalow-berson-1960-radioimmunoassay"
+      ]
+    },
+    {
       "id": "derjaguin-landau-1941-colloid-stability",
       "name": "Derjaguin & Landau 1941 - Theory of the stability of strongly charged lyophobic sols",
       "year": "1941",
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "martin-synge-1941-partition-chromatography",
+      "name": "Partition chromatography",
+      "year": "1941",
+      "corpus": "academic",
+      "ancestors": [
+        "tswett-1906-adsorption-chromatography"
+      ],
+      "descendants": [
+        "consden-gordon-martin-1944-paper-chromatography"
+      ]
+    },
+    {
+      "id": "consden-gordon-martin-1944-paper-chromatography",
+      "name": "Paper partition chromatography",
+      "year": "1944",
+      "corpus": "academic",
+      "ancestors": [
+        "martin-synge-1941-partition-chromatography"
+      ],
+      "descendants": [
+        "fiocruz-bio-manguinhos-ivd-reagent-cartridge-programs",
+        "genomma-lab-mexico-otc-and-ivd-portfolio",
+        "hi-technologies-hilab-poc-blood-test-platform"
+      ]
     },
     {
       "id": "van-vogt-null-a-gosseyn-restoration",
@@ -696,6 +809,16 @@
       "descendants": []
     },
     {
+      "id": "wiener-lab-clinical-chemistry-reagent-and-analyzer-line",
+      "name": "Wiener Lab clinical-chemistry reagents and analyzers",
+      "year": "1959",
+      "corpus": "private",
+      "ancestors": [
+        "pregl-1911-quantitative-organic-microanalysis"
+      ],
+      "descendants": []
+    },
+    {
       "id": "gunshot-residue-colorimetric-field-test-kit",
       "name": "Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test)",
       "year": "1959",
@@ -728,6 +851,19 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "yalow-berson-1960-radioimmunoassay",
+      "name": "Radioimmunoassay (RIA)",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [
+        "coons-1941-immunofluorescence"
+      ],
+      "descendants": [
+        "cigb-suma-ultramicroanalytical-system",
+        "engvall-perlmann-1971-elisa"
+      ]
     },
     {
       "id": "bretherton-1961-bubble-in-tube",
@@ -1242,6 +1378,24 @@
       "descendants": []
     },
     {
+      "id": "engvall-perlmann-1971-elisa",
+      "name": "Enzyme-linked immunosorbent assay (ELISA)",
+      "year": "1971",
+      "corpus": "academic",
+      "ancestors": [
+        "yalow-berson-1960-radioimmunoassay"
+      ],
+      "descendants": [
+        "biosidus-argentina-recombinant-protein-process-platform",
+        "cigb-suma-ultramicroanalytical-system",
+        "fiocruz-bio-manguinhos-ivd-reagent-cartridge-programs",
+        "genomma-lab-mexico-otc-and-ivd-portfolio",
+        "hemobras-blood-derivative-fractionation-plant",
+        "hi-technologies-hilab-poc-blood-test-platform",
+        "instituto-butantan-vaccine-and-serum-process-line"
+      ]
+    },
+    {
       "id": "dc-lazarus-pit-resurrection-chemistry",
       "name": "Lazarus Pit resurrection chemistry (Ra's al Ghul, DC Comics)",
       "year": "1971",
@@ -1414,6 +1568,24 @@
       "descendants": []
     },
     {
+      "id": "kohler-milstein-1975-hybridoma",
+      "name": "Hybridoma technology for monoclonal antibody production",
+      "year": "1975",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "centro-inmunologia-molecular-mab-process-platform"
+      ]
+    },
+    {
+      "id": "southern-1975-blot",
+      "name": "Southern blot (DNA transfer and hybridization)",
+      "year": "1975",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "niven-borderland-of-sol-autodoc",
       "name": "Niven 'Borderland of Sol' Field Autodoc",
       "year": "1975",
@@ -1455,6 +1627,18 @@
       "year": "1976",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fiocruz-bio-manguinhos-ivd-reagent-cartridge-programs",
+      "name": "Fiocruz Bio-Manguinhos IVD reagent and cartridge programs",
+      "year": "1976",
+      "corpus": "academic",
+      "ancestors": [
+        "consden-gordon-martin-1944-paper-chromatography",
+        "engvall-perlmann-1971-elisa",
+        "mullis-cetus-pcr-1985-foundational-anchor"
+      ],
       "descendants": []
     },
     {
@@ -1535,8 +1719,24 @@
       "descendants": []
     },
     {
+      "id": "maxam-gilbert-1977-chemical-sequencing",
+      "name": "Maxam-Gilbert chemical DNA sequencing",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "purcell-1977-life-at-low-reynolds",
       "name": "Life at low Reynolds number",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sanger-1977-dideoxy-sequencing",
+      "name": "Sanger dideoxy chain-termination DNA sequencing",
       "year": "1977",
       "corpus": "academic",
       "ancestors": [],
@@ -2212,7 +2412,9 @@
       "year": "1985",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "fiocruz-bio-manguinhos-ivd-reagent-cartridge-programs"
+      ]
     },
     {
       "id": "biomerieux-patent-estate",
@@ -2333,6 +2535,19 @@
       "ancestors": [],
       "descendants": [
         "banks-surface-detail-sense-made-common-reconstitution"
+      ]
+    },
+    {
+      "id": "cigb-suma-ultramicroanalytical-system",
+      "name": "SUMA Ultramicroanalytical System",
+      "year": "1987",
+      "corpus": "private",
+      "ancestors": [
+        "engvall-perlmann-1971-elisa",
+        "yalow-berson-1960-radioimmunoassay"
+      ],
+      "descendants": [
+        "finlay-institute-soberana-conjugate-vaccine-fill-finish"
       ]
     },
     {
@@ -2487,6 +2702,17 @@
       "year": "1989",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "biosidus-argentina-recombinant-protein-process-platform",
+      "name": "Biosidus recombinant-protein bioprocess platform",
+      "year": "1989",
+      "corpus": "private",
+      "ancestors": [
+        "engvall-perlmann-1971-elisa",
+        "tswett-1906-adsorption-chromatography"
+      ],
       "descendants": []
     },
     {
@@ -2726,6 +2952,7 @@
       "year": "1990",
       "corpus": "academic",
       "ancestors": [
+        "pregl-1911-quantitative-organic-microanalysis",
         "terry-jerman-angell-1979-silicon-gas-chromatograph-ieee"
       ],
       "descendants": [
@@ -2733,7 +2960,9 @@
         "effenhauser-1993-glass-microchip-electrophoresis",
         "harrison-1992-cap-electrophoresis-on-chip",
         "harrison-1993-science-mu-tas-chip",
-        "kopp-1998-continuous-flow-pcr-on-chip"
+        "inti-argentina-microfluidics-and-metrology-lab",
+        "kopp-1998-continuous-flow-pcr-on-chip",
+        "mobius-life-science-brazil-microfluidics-startup"
       ]
     },
     {
@@ -2838,6 +3067,16 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "codman-hakim-programmable-csf-shunt-valve",
+      "name": "Codman Hakim Programmable CSF Shunt Valve",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "medtronic-strata-adjustable-csf-valve"
+      ]
     },
     {
       "id": "daikyo-crystal-zenith-vials",
@@ -2982,7 +3221,8 @@
       "corpus": "academic",
       "ancestors": [
         "manz-1990-mu-tas-concept",
-        "terry-jerman-angell-1979-silicon-gas-chromatograph-ieee"
+        "terry-jerman-angell-1979-silicon-gas-chromatograph-ieee",
+        "tiselius-1937-moving-boundary-electrophoresis"
       ],
       "descendants": [
         "agilent-technologies-patent-estate",
@@ -3313,6 +3553,16 @@
       "year": "1994",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "centro-inmunologia-molecular-mab-process-platform",
+      "name": "Centro de Inmunologia Molecular monoclonal-antibody process platform",
+      "year": "1994",
+      "corpus": "private",
+      "ancestors": [
+        "kohler-milstein-1975-hybridoma"
+      ],
       "descendants": []
     },
     {
@@ -3891,6 +4141,17 @@
       "descendants": []
     },
     {
+      "id": "genomma-lab-mexico-otc-and-ivd-portfolio",
+      "name": "Genomma Lab consumer-health and rapid-test portfolio",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [
+        "consden-gordon-martin-1944-paper-chromatography",
+        "engvall-perlmann-1971-elisa"
+      ],
+      "descendants": []
+    },
+    {
       "id": "gurps-bio-tech-sourcebook",
       "name": "GURPS Bio-Tech sourcebook (Steve Jackson Games 1996)",
       "year": "1996",
@@ -4273,6 +4534,16 @@
       ]
     },
     {
+      "id": "ottobock-c-leg-hydraulic-knee",
+      "name": "Ottobock C-Leg Microprocessor-Controlled Hydraulic Knee",
+      "year": "1997",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "ottobock-genium-microprocessor-knee"
+      ]
+    },
+    {
       "id": "stargate-goauld-sarcophagus",
       "name": "Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device)",
       "year": "1997",
@@ -4383,7 +4654,9 @@
       "descendants": [
         "dertinger-2001-christmas-tree-gradient",
         "huh-2010-lung-on-chip",
+        "inti-argentina-microfluidics-and-metrology-lab",
         "mcdonald-whitesides-2002-pdms-review",
+        "mobius-life-science-brazil-microfluidics-startup",
         "thorsen-2002-droplet-microfluidics-flow-focusing",
         "unger-2000-quake-monolithic-membrane-valve",
         "whitesides-2010-nature-protocols-pdms-fabrication"
@@ -4435,6 +4708,16 @@
       "year": "1998",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "medtronic-strata-adjustable-csf-valve",
+      "name": "Medtronic Strata II / Strata NSC Adjustable CSF Shunt Valve",
+      "year": "1998",
+      "corpus": "private",
+      "ancestors": [
+        "codman-hakim-programmable-csf-shunt-valve"
+      ],
       "descendants": []
     },
     {
@@ -6571,6 +6854,18 @@
       "descendants": []
     },
     {
+      "id": "glaukos-istent-trabecular-micro-bypass",
+      "name": "Glaukos iStent Trabecular Micro-Bypass Stent",
+      "year": "2004",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "abbvie-xen-gel-stent",
+        "ivantis-hydrus-microstent",
+        "santen-preserflo-microshunt"
+      ]
+    },
+    {
       "id": "grayson-2004-bioMEMS-survey",
       "name": "A BioMEMS review: MEMS technology for physiologically integrated devices",
       "year": "2004",
@@ -6600,6 +6895,17 @@
       "year": "2004",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hemobras-blood-derivative-fractionation-plant",
+      "name": "Hemobras plasma fractionation plant",
+      "year": "2004",
+      "corpus": "private",
+      "ancestors": [
+        "engvall-perlmann-1971-elisa",
+        "tswett-1906-adsorption-chromatography"
+      ],
       "descendants": []
     },
     {
@@ -8770,6 +9076,16 @@
       ]
     },
     {
+      "id": "powervision-fluidvision-accommodating-iol",
+      "name": "FluidVision Accommodating Intraocular Lens (PowerVision / Alcon)",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "lensgen-juvene-modular-iol"
+      ]
+    },
+    {
       "id": "psaltis-epfl-optofluidic-platform",
       "name": "Psaltis Group EPFL Optofluidic Microscope and Sensor Platform",
       "year": "2008",
@@ -10140,6 +10456,17 @@
       ]
     },
     {
+      "id": "inti-argentina-microfluidics-and-metrology-lab",
+      "name": "INTI microfluidics and bioanalytical metrology programs",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "duffy-1998-pdms-soft-lithography-microfluidics",
+        "manz-1990-mu-tas-concept"
+      ],
+      "descendants": []
+    },
+    {
       "id": "iron-man-bleeding-edge-armor",
       "name": "Iron Man Bleeding Edge armor (subdermal nanofluidic suit storage)",
       "year": "2010",
@@ -10914,6 +11241,16 @@
       "descendants": []
     },
     {
+      "id": "ivantis-hydrus-microstent",
+      "name": "Hydrus Microstent (Ivantis / Alcon)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [
+        "glaukos-istent-trabecular-micro-bypass"
+      ],
+      "descendants": []
+    },
+    {
       "id": "la-paillasse-community-lab",
       "name": "La Paillasse Paris community biology lab",
       "year": "2011",
@@ -10945,6 +11282,16 @@
       "year": "2011",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ottobock-genium-microprocessor-knee",
+      "name": "Ottobock Genium / Genium X3 Microprocessor Knee",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [
+        "ottobock-c-leg-hydraulic-knee"
+      ],
       "descendants": []
     },
     {
@@ -12313,6 +12660,16 @@
       ]
     },
     {
+      "id": "abbvie-xen-gel-stent",
+      "name": "XEN Gel Stent (Allergan / AbbVie)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "glaukos-istent-trabecular-micro-bypass"
+      ],
+      "descendants": []
+    },
+    {
       "id": "advanced-solutions-bioassemblybot",
       "name": "Advanced Solutions BioAssemblyBot 6-Axis Bioprinter",
       "year": "2014",
@@ -13200,6 +13557,16 @@
       "year": "2014",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "santen-preserflo-microshunt",
+      "name": "PreserFlo MicroShunt (Santen / InnFocus)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "glaukos-istent-trabecular-micro-bypass"
+      ],
       "descendants": []
     },
     {
@@ -15374,6 +15741,17 @@
       "descendants": []
     },
     {
+      "id": "hi-technologies-hilab-poc-blood-test-platform",
+      "name": "Hilab (Hi Technologies) point-of-care blood-test platform",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "consden-gordon-martin-1944-paper-chromatography",
+        "engvall-perlmann-1971-elisa"
+      ],
+      "descendants": []
+    },
+    {
       "id": "hitachi-himac-cp100nx",
       "name": "Hitachi himac CP100NX preparative ultracentrifuge",
       "year": "2017",
@@ -15467,6 +15845,16 @@
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lensgen-juvene-modular-iol",
+      "name": "Juvene Modular Fluid-Optic Accommodating IOL (LensGen)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "powervision-fluidvision-accommodating-iol"
+      ],
       "descendants": []
     },
     {
@@ -16565,6 +16953,17 @@
       "descendants": [
         "mission-bio-tapestri-prim-2024"
       ]
+    },
+    {
+      "id": "mobius-life-science-brazil-microfluidics-startup",
+      "name": "Mobius Life Science microfluidic device development",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "duffy-1998-pdms-soft-lithography-microfluidics",
+        "manz-1990-mu-tas-concept"
+      ],
+      "descendants": []
     },
     {
       "id": "molecular-assemblies-fams-synthesis",
@@ -18874,6 +19273,16 @@
       "year": "2021",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "finlay-institute-soberana-conjugate-vaccine-fill-finish",
+      "name": "Finlay Vaccine Institute Soberana conjugate-vaccine process line",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "cigb-suma-ultramicroanalytical-system"
+      ],
       "descendants": []
     },
     {

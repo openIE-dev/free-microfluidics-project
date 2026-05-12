@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**45 corpus entries disclose this subsystem.**
+**46 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1856
 
@@ -74,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Carman, P. C. (1937). 'Fluid flow through granular beds.' Trans. IChemE 15: 150-166. Companion: Carman, P. C. (1939). J. Agric. Sci. 29: 263.
 - **ip status**: public-domain
 - **prior art notes**: Combines Kozeny's geometric capillary-bundle model with Carman's empirical permeability data into the Carman-Kozeny equation, the standard relation for permeability of granular and fibrous porous media. Anticipates microfluidic disclosures claiming packed-bead immunoassay columns with predicted flow rates, on-chip solid-phase extraction columns sized to a target pressure drop, cell-trap arrays modeled as porous media. Any patent claim that derives an on-chip permeability or pressure-drop from bead-diameter and packing fraction is anticipated by Carman-Kozeny.
+
+## Paper partition chromatography (1944)
+
+- **id**: `consden-gordon-martin-1944-paper-chromatography`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Raphael Consden, Archer Gordon, Archer Martin (Wool Industries Research Association / Lister Institute)
+- **disclosure**: Consden, R.; Gordon, A. H.; Martin, A. J. P. Qualitative analysis of proteins: a partition chromatographic method using paper. Biochem. J. 1944, 38, 224-232. DOI: 10.1042/bj0380224
+- **ip status**: public-domain
+- **prior art notes**: The direct ancestor of paper microfluidics. Discloses capillary-wicking transport of sample through a cellulose paper matrix as the engine of an analytical separation, including two-dimensional development. Anticipates: passive capillary-driven flow in paper as a microfluidic transport mechanism, paper as a substrate for multi-step analysis, and spot-detection readout. Every microPAD (microfluidic paper-based analytical device), lateral-flow strip, and wax-printed paper assay descends from this 1944 method; the use of paper capillarity as a fluid-handling primitive cannot be claimed as novel over it.
 
 ## Brinkman 1947 - A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles (1947)
 
