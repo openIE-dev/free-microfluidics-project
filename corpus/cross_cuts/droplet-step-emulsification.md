@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-step-emulsification`
 
-**4 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -54,3 +54,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bond, W. N. (1928). 'The use of dimensionless equations.' Proc. Phys. Soc. London 41(1): 1-16; named by Taylor in subsequent capillary-flow literature. Implicit in Tate 1864, Plateau 1873, Rayleigh 1879 work on droplet break-up.
 - **ip status**: public-domain
 - **prior art notes**: Capillary number is the controlling parameter for every droplet generator. The dripping-to-jetting transition, the squeezing-to-shearing transition in T-junctions, and the droplet-size scaling laws in flow-focusing devices are all functions of Ca. Anchors: (a) all droplet-generator patents that recite a flow-rate-to-droplet-size scaling (Anna 2003, Thorsen 2002, Garstecki 2006); (b) co-flow droplet sizing claims; (c) step-emulsification regime maps. Any patent claim that recites operating conditions in terms of viscosity, velocity, and surface tension is anticipated by the capillary-number scaling.
+
+## Microfluidic / micro-channel solvent-extraction contactor for nuclear reprocessing (PUREX and minor-actinide separation studies) (2007-06-15)
+
+- **id**: `purex-microfluidic-solvent-extraction-contactor`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: academic and national-lab research (Kitamori group, Univ. of Tokyo; Japan Atomic Energy Agency; Argonne National Laboratory; Idaho National Laboratory; ORNL; Savannah River National Laboratory; CEA/Marcoule)
+- **disclosure**: Tsukahara, Hibara, Kim & Kitamori, Microfluidic chemical processing for nuclear fuel reprocessing - solvent extraction in microchannels; see Hotokezaka et al., Development of the innovative nuclide separation system for high-level radioactive waste using microchannel chip extraction, Prog. Nucl. Energy 47, 439 (2005); also Argonne/SRNL/INL microchannel-contactor reports.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel liquid-liquid extraction contactors (parallel-laminar and slug-flow) with downstream microfluidic phase separation applied to actinide/lanthanide separations in nuclear reprocessing, with low radioactive holdup and numbering-up scalability. Anticipates claims to (a) microchannel solvent-extraction contactor for U/Pu (PUREX) or minor-actinide separation; (b) slug-flow microfluidic liquid-liquid extraction with integrated phase separator; (c) numbered-up parallel microchannel contactor for low-inventory radiochemical processing; (d) on-chip extractant screening for reprocessing flowsheets. Prior art for academic, JAEA, PNNL/Battelle and national-lab microchannel-contactor patents; extends the wave-2/3 radiochemistry lineage.
+
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
+
+## Pattern Bioscience Rapid Antibiotic Susceptibility Test (Single-Cell Digital Microfluidics) (2018)
+
+- **id**: `pattern-bioscience-rapid-ast-digital-microfluidics`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Pattern Bioscience
+- **disclosure**: Pattern Bioscience (Austin, Texas) rapid phenotypic AST platform disclosures and patents on partitioning single bacterial cells into thousands of nanoliter reactors with antibiotics and machine-learning metabolic-fingerprint readout; FDA-cleared rapid AST system
+- **ip status**: patented
+- **prior art notes**: Discloses partitioning a bacterial sample into thousands of nanoliter compartments each containing a defined antibiotic, then reading per-compartment metabolic-reporter kinetics and classifying susceptibility with a machine-learning model on single-cell fingerprints. Anticipates: digital/partition-microfluidic phenotypic AST; single-cell metabolic-fingerprint susceptibility calling; ML-interpreted nanowell antibiotic arrays. A genuinely novel AST architecture and a high-priority anchor; recently FDA-cleared.

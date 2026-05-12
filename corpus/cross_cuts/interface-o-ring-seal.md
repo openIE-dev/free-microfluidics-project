@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-o-ring-seal`
 
-**16 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1825
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bormioli Rocco company founding 1825; pharma vial product line documented post-1960; corporate split as Bormioli Pharma 2017.
 - **ip status**: patented
 - **prior art notes**: Discloses standard Type I-III borosilicate vial primary packaging at industrial scale, with documented child-safe closure mechanisms. Anticipates routine packaging claims around multilayer borosilicate primary container with elastomeric stopper and crimp ring.
+
+## Passive-diffusion organic-vapor dosimeter badge (SKC / Assay Technology / 3M class) (1976-11-09)
+
+- **id**: `passive-diffusion-organic-vapor-dosimeter-badge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3M (Organic Vapor Monitor), SKC Inc. (UMEx/575 series), Assay Technology, Gradko, Radiello (Sigma-Aldrich)
+- **disclosure**: US3992156A Diffusional dosimeter (Donald W. Underhill / 3M-style passive diffusion sampler), 1976; see also Palmes & Gunnison, Personal monitoring device for gaseous contaminants, Am. Ind. Hyg. Assoc. J. 34, 78 (1973).
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable passive sampler whose precisely defined diffusion gap/aperture geometry sets a known sampling rate so accumulated mass on a sorbent gives a time-weighted-average exposure - a controlled micro-gas-transport dosimetry device. Anticipates claims to (a) badge-format diffusive sampler with a defined diffusion gap/aperture array setting a calibrated sampling rate; (b) derivatizing-reagent sorbent in a passive badge for aldehyde/isocyanate dosimetry; (c) pump-free time-weighted-average personal exposure monitor; (d) tube-and-badge diffusive ambient-air samplers. Foundational prior art for passive-sampler patents (3M, SKC, Assay Technology, Radiello).
 
 ## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
 
@@ -54,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hamilton Company Microlab STAR product literature. https://www.hamiltoncompany.com/automated-liquid-handling/platforms/microlab-star. Hamilton STAR family launched ~2003.
 - **ip status**: patented
 - **prior art notes**: Air-displacement multi-channel pipettor with the proprietary CO-RE (compressed O-ring expansion) tip-locking mechanism: a tapered steel mandrel expands an internal O-ring inside a disposable tip to form a leak-free seal without forceful press-fit. Anticipates: air-displacement liquid handlers with sealing-mandrel disposable tips; integration of pressure-sensor monitoring (MAD) for liquid-level and clog detection; the integration of microfluidic add-on modules (for example Hamilton's NIMBUS / STAR with chip-based options) on a 96/384-channel automation backbone. Foundational prior art for any 'air-displacement multi-channel head with monitored aspiration' claim post-2003.
+
+## Metrohm 851 Titrando / 899 Coulometer Karl Fischer Water Determination (2005)
+
+- **id**: `metrohm-851-titrando-karl-fischer`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Metrohm
+- **disclosure**: Metrohm AG 851 Titrando and 899 Coulometer Karl Fischer titrator manuals; USP <921> Water Determination (Method I, Karl Fischer)
+- **ip status**: patented
+- **prior art notes**: Discloses a precision burette delivering microliter-scale reagent increments under feedback control into a sealed stirred microreaction vessel, plus a diaphragm-separated electrochemical generator cell. Anticipates: feedback-controlled microliter reagent dosing for endpoint titration; diaphragm-separated dual-compartment electrochemical reaction cells. The microliter dosing unit and the small electrochemical generator cell are the microfluidic-relevant subsystems.
 
 ## SCHOTT TopLyo / FIOLAX / Type I Plus - Lyophilization-optimized vials (2007)
 

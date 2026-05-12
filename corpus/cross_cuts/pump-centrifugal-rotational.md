@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-centrifugal-rotational`
 
-**10 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Comprehensive review and synthesis of centrifugal microfluidics: pumping by spin-rate-controlled centrifugal force, valving by capillary-burst pressure thresholds, mixing by Coriolis-aided shaking, and assay sequencing by sequential burst-frequency design. Anticipates: lab-on-disc architecture, capillary-burst valves with threshold rotational frequencies, pumping-as-rotation as a substitute for external pressure, and the commercial pathway commercialized by Gyros (immunoassays), Samsung (Genio), Roche (cobas Liat traces architectural lineage). Among the few papers covering an entire substantive class of microfluidic device.
 
+## Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications (2007-08-08)
+
+- **id**: `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roland Zengerle group, IMTEK, University of Freiburg / HSG-IMIT
+- **disclosure**: Haeberle, S.; Zengerle, R. Microfluidic platforms for lab-on-a-chip applications. Lab Chip 2007, 7, 1094-1110. DOI: 10.1039/b706364b
+- **ip status**: public-domain
+- **prior art notes**: The Lab on a Chip review that organized the field into microfluidic platforms by liquid-propulsion principle - capillary, pressure-driven, centrifugal (lab-on-a-disc), electrokinetic, droplet/segmented-flow, and electrowetting digital microfluidics - and compared them by the unit operations each supports and their state of commercialization. As a prior-art survey it anticipates claims framing combinations of these propulsion principles and unit operations as integrated lab-on-chip systems, and documents the centrifugal microfluidic / lab-on-a-disc architecture in detail. Companion to and precursor of mark-2010-microfluidic-platforms-review. From the Zengerle group (Freiburg/HSG-IMIT), a major centrifugal-microfluidics center.
+
 ## Foldscope Microfluidic Accessory (Foldscope + Paperfuge ecosystem) (2014-06-16)
 
 - **id**: `foldscope-paperfuge-microfluidic-add-on`
@@ -94,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
 - **ip status**: unknown
 - **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
+
+## Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) (2018)
+
+- **id**: `truvian-health-desktop-blood-analyzer-disc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Truvian Health
+- **disclosure**: Truvian Health (formerly Truvian Sciences, San Diego) desktop blood-testing system disclosures and patents on a centrifugal microfluidic cartridge integrating chemistry, immunoassay and hematology from a small whole-blood sample
+- **ip status**: patented
+- **prior art notes**: Discloses a centrifugal microfluidic cartridge that meters and separates plasma from a small whole-blood sample and routes it to multiplexed chemistry, immunoassay and cell-count subassays read optically in a benchtop instrument with dried on-cartridge reagents. Anticipates: integrated centrifugal cartridges combining chemistry/immunoassay/hematology; benchtop full-panel blood analyzers from a fingerstick-scale sample. Companions: abbott-piccolo-xpress (centrifugal chemistry, already covered), sight-diagnostics-olo (POC CBC), babson-diagnostics-ac-workcell.
 
 ## Ultima Genomics UG 100 wafer-format flow cell (2022-05-31)
 

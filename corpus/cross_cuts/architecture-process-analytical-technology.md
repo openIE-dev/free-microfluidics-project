@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `architecture-process-analytical-technology`
 
-**85 corpus entries disclose this subsystem.**
+**104 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1994
+Earliest disclosure: 1977-11-15
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Atomic-layer-deposition precursor pulse valve and vapor-draw delivery system (1977-11-15)
+
+- **id**: `ald-precursor-pulse-valve-delivery-system`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: ASM International, Picosun (Applied Materials), Beneq, Veeco/CNT, Forge Nano; pulse valves by Swagelok/Nupro, Fujikin, Parker, Ultra Clean Holdings
+- **disclosure**: US4058430A Method for producing compound thin films (Suntola & Antson, atomic layer epitaxy); see also US6539891B1 chemical deposition reactor and US8202575B2 vapor deposition reactor pulsing system.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic vapor-dosing architecture: millisecond pulse valves metering self-limiting precursor micro-doses from heated ampoules into a low-pressure reactor with purge separation, plus pressure-decay dose verification and spatial-ALD microchannel injector heads. Anticipates claims to (a) fast diaphragm pulse-valve sequencing for self-limiting vapor dosing; (b) vapor-draw delivery of low-vapor-pressure precursors; (c) closed-loop dose verification by line-pressure transient; (d) spatial ALD by translating a substrate past adjacent precursor/purge slit microchannels. Prior art for Picosun, Beneq, Forge Nano and ASM precursor-delivery patents.
 
 ## Nova Biomedical BioProfile FLEX2 / 100 / 200 bioprocess analyzers (1994)
 
@@ -35,6 +45,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses two architectures: the InPro 6800 implements a Clark-cell polarographic DO measurement (Pt cathode, Ag/AgCl anode, electrolyte-filled chamber, PTFE gas-permeable membrane); the InPro 6850 implements a luminescence-lifetime optical DO measurement (luminophore in polymer matrix, LED excitation, photodiode detection of fluorescence-decay phase shift). Anticipates: paired polarographic and optical DO architectures with shared probe-body form factor and digital ISM interface, allowing process-development to validate either sensor type in interchangeable ports. Element-by-element: probe body + sensing element (membrane + electrolyte / optical spot) + signal-processing electronics + digital interface.
 
+## Froth flotation reagent (collector/frother/depressant) point-of-addition microdosing system (1996-04-30)
+
+- **id**: `froth-flotation-reagent-microdosing-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: mineral-processing equipment vendors (Metso Outotec, FLSmidth, Eriez) and reagent/dosing-system suppliers (ProMinent, Watson-Marlow, Grundfos metering pumps; reagents from Solvay, Clariant, Nasaco, Cytec/Solvay)
+- **disclosure**: US5511669A Method and apparatus for the flotation of minerals (reagent-addition control); mineral-processing texts e.g. Wills & Finch, Wills Mineral Processing Technology, 8th ed., Elsevier 2016 (flotation reagents and conditioning); equipment from Metso Outotec, FLSmidth, ProMinent/Watson-Marlow metering pumps.
+- **ip status**: patented
+- **prior art notes**: Discloses positive-displacement microdosing of flotation reagents at staged addition points with inline dilution, micromixing, and closed-loop assay/froth-image feedback control. Anticipates claims to (a) staged point-of-addition reagent microdosing along a flotation bank; (b) closed-loop flotation-reagent dose control from online XRF/froth-image feedback; (c) inline dilution-and-micromixing of dilute collector/frother into mineral slurry. Prior art for Metso Outotec, FLSmidth, Eriez and reagent-supplier flotation-dosing patents.
+
+## Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) (1997-04-08)
+
+- **id**: `bosch-ngk-ceramic-lambda-nox-sensor`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Robert Bosch GmbH (LSU/LSF), NGK Spark Plug / NTK, Denso, Continental
+- **disclosure**: US5616825A Exhaust gas sensor and a process for producing the same (NGK Spark Plug); see also US5288374A (Bosch) limiting-current oxygen sensor and Riegel, Neumann & Wiedenmann, Exhaust gas sensors for automotive emission control, Solid State Ionics 152-153, 783 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses a ceramic element with a controlled-porosity micro-diffusion-barrier channel feeding a sub-microliter measurement cavity bounded by pumping/Nernst electrodes, plus multi-chamber successive-barrier architectures and an integrated heater - a solid-state gas microfluidic/diffusion device. Anticipates claims to (a) diffusion-barrier-limited amperometric oxygen sensing with a defined micro-gas-channel; (b) multi-cavity successive-diffusion-barrier NOx sensor with O2 pre-removal; (c) co-fired heater integration in a planar zirconia sensing element. Prior art for Bosch, NGK/NTK, Denso lambda- and NOx-sensor patents.
+
 ## Aldevron Plasmid Manufacturing Platform (Danaher subsidiary) (1998)
 
 - **id**: `aldevron-plasmid-extend`
@@ -44,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aldevron company founding 1998; Aldevron patent US10,975,374B2 (Methods for plasmid DNA manufacturing); Aldevron acquired by Danaher 2021 for $9.6B (SEC 8-K)
 - **ip status**: patented
 - **prior art notes**: Process disclosure (extending wave 1 generic plasmid coverage): Aldevron's GMP plasmid train comprises fed-batch E. coli fermentation → in-line continuous static-mixer alkaline lysis (microfluidic laminar mixing of cell paste with NaOH/SDS lysis buffer) → flocculation neutralization → centrifugal/depth clarification → TFF concentration → AEX (Q-Sepharose / Capto-class) → HIC polishing → final TFF + 0.2 µm sterile filtration. Anticipates: standardized GMP plasmid manufacturing chain optimized for CGT and mRNA-vaccine-template supply, where the in-line static-mixer lysis step is the microfluidic-relevant unit operation (controls shear-induced plasmid degradation by setting mixing residence time and Reynolds regime). Element-by-element: fermenter outlet + static-mixer lysis + neutralizer junction + centrifuge → bag → AEX column → HIC column → TFF → sterile fill.
+
+## Chemical-mechanical planarization slurry point-of-use blending and delivery system (1999-06-08)
+
+- **id**: `cmp-slurry-point-of-use-blending-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cabot Microelectronics (CMC Materials), DuPont Electronics, Fujimi Inc., Versum/Air Liquide; slurry delivery hardware by CT Associates, Entegris, Mega Fluid Systems
+- **disclosure**: US5950675A Means and apparatus for chemical mechanical polishing slurry distribution; see also US6280300B1 point-of-use blending of CMP slurry.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic blending and metering train that combines a nanoparticle abrasive concentrate with DI water and reactive additives in-line at the polishing tool, with closed-loop conductivity/density control and large-particle gating. Anticipates claims to (a) on-tool dilution of CMP slurry concentrate by inline static micromixer with ratio control; (b) low-shear positive-displacement metering of colloidal abrasive to prevent agglomeration; (c) inline particle-count interlock that diverts slurry exceeding a large-particle threshold. Prior art for slurry-delivery-module patents asserted by Entegris, Mega Fluid Systems, CT Associates.
 
 ## Velocys microchannel Fischer-Tropsch reactor for GTL/PTL/BTL (2001)
 
@@ -55,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Canonical industrial deployment of microchannel chemistry to a multi-thousand-kilogram-per-day production application. Discloses (a) diffusion-bonded stainless-steel laminate microchannel reactor with alternating reaction and coolant layers — the architectural pattern that made plant-scale microchannel reactors economically viable; (b) catalyst-coated structured washcoat within sub-millimeter channels for highly exothermic Fischer-Tropsch synthesis; (c) the 'numbering-up at scale' execution of stacking thousands of identical channels in parallel inside a single reactor block; (d) commercial demonstration at ENVIA Energy Oklahoma City. Anticipates patent claims to laminated metal microchannel reactors for highly exothermic gas-to-liquids chemistry, and to catalyst-coated microchannel architecture for compact GTL plants.
 
+## Copper-interconnect electroplating bath chemistry point-of-use dosing system (2001-03-27)
+
+- **id**: `copper-electroplating-bath-point-of-use-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Lam Research (Novellus SABRE), Applied Materials (Raider/Slim Cell), ASMPT/Semsysco; bath chemistry by DuPont (MacDermot/Enthone), Atotech (MKS), Dow
+- **disclosure**: US6207049B1 / US6258220B1 Electro-chemical deposition system and method of electroplating on substrates (Novellus / Lam); accelerator/suppressor dosing per Andricacos et al., Damascene copper electroplating for chip interconnections, IBM J. Res. Dev. 1998.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic chemistry-management module for damascene copper plating: metering-pump dosing of microliter additive shots with CVS-feedback replenishment, inline micromixing, and microchannel flow conditioning. Anticipates claims to (a) closed-loop organic-additive replenishment of an electroplating bath by voltammetric feedback; (b) point-of-use blending of accelerator/suppressor/leveler immediately upstream of a plating cell; (c) microchannel diffuser conditioning of cross-wafer flow uniformity. Prior art for Atotech/MKS, DuPont and tool-OEM plating-chemistry-control patents.
+
 ## Ehrfeld Mikrotechnik BTS CYTOS College and Caterpillar microreactors (2002)
 
 - **id**: `ehrfeld-cytos-college-caterpillar`
@@ -64,6 +114,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ehrfeld, W.; Hessel, V.; Löwe, H. Microreactors: New Technology for Modern Chemistry, Wiley-VCH, 2000, ISBN 978-3-527-29590-6; CPC Systems / Ehrfeld Mikrotechnik BTS CYTOS College brochure 2002; US patent 6,221,226; Bayer Technology Services acquisition of Ehrfeld 2009
 - **ip status**: patented
 - **prior art notes**: Discloses (a) the Caterpillar mixer geometry — a cascade of asymmetric ramps that repeatedly splits and laminates the flow at the sub-millimeter scale, predating most heart-shape literature in the production-microreactor context; (b) the CYTOS College modular cassette pattern of swappable mixer/residence/heat-exchanger units sharing a common manifold and electronic/pneumatic backbone, anticipating the modular cassette pattern later popularized by Vapourtec, Syrris, Future Chemistry; (c) industrial deployment by Bayer (parent company) for hazardous chemistries. Should be cited against later patent claims directed to 'cascade ramp split-recombine mixer' and 'modular cassette flow-chemistry platform with shared backbone'.
+
+## Single-wafer wet-clean chemistry delivery and megasonic nozzle (SCREEN FREXION / TEL CELLESTA class) (2002-09-19)
+
+- **id**: `screen-frexion-tel-cellesta-single-wafer-clean`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: SCREEN Semiconductor Solutions (SCREEN FREXION/SU-3200), Tokyo Electron (CELLESTA), Lam Research (DV-Prime/EOS), SEMES
+- **disclosure**: US20020134408A1 / US6488037B1 Programmable based dilute chemistry process and apparatus (SCREEN/DNS, point-of-use dilution single-wafer cleaning); see also Kern, The Evolution of Silicon Wafer Cleaning Technology, J. Electrochem. Soc. 1990.
+- **ip status**: patented
+- **prior art notes**: Discloses on-tool microfluidic blending of concentrated cleaning chemicals with hot DI water to make dilute SC-1/SC-2/HF at the point of use, dispensed through scanning or megasonic nozzles onto a spinning wafer. Anticipates claims to (a) point-of-use dilution blending of semiconductor cleaning chemistry with closed-loop concentration control; (b) megasonic energy delivered through a controlled sub-millimeter fluid film/nozzle gap; (c) single-wafer sequential-chemistry processing by programmed microfluidic dispense. Prior art for SCREEN, TEL, Lam and SEMES single-wafer-clean chemistry-module patents.
 
 ## ThalesNano H-Cube continuous-flow hydrogenation reactor (2003)
 
@@ -115,6 +175,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a digital sensor architecture with inductive (transformer-coupled) connector that eliminates wetted electrical contacts: the probe head contains a transformer half-coil and the cable contains the matching half-coil; communication and power transfer occur inductively across the boundary. Calibration data is resident in the probe, allowing the probe to be moved between transmitters or recalibrated off-line then re-installed. Anticipates: inductive-coupled digital sensor connector as alternative to galvanic connector (eliminates contact corrosion and ground-loop issues in process plants); resident-calibration probe architecture for hot-swap workflows. Closely related to Hamilton Arc; differentiated by the inductive coupler vs Hamilton's galvanic digital connector.
 
+## Bosch Denoxtronic urea/DEF (AdBlue) SCR dosing system (2004-05-20)
+
+- **id**: `bosch-denoxtronic-urea-scr-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (Denoxtronic); also Continental/Vitesco, Cummins, Albonair, Tenneco DEF dosing systems
+- **disclosure**: US20040093856A1 / US6928807B2 Method and device for the metered introduction of a reducing agent into an exhaust gas (Robert Bosch GmbH); Denoxtronic technical disclosures circa 2004-2006.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic dosing system: pump pressurization, metering valve, and multi-hole/air-assisted micro-orifice injector delivering microliter urea micro-doses into exhaust gas under NOx-feedback control, with line heating and purge-back. Anticipates claims to (a) closed-loop NOx-proportional urea micro-dosing for SCR; (b) air-assisted micro-orifice urea atomizer; (c) freeze-protection purge-back of a DEF dosing line; (d) urea-quality-sensor-corrected reductant metering. Prior art for Bosch, Continental, Cummins, Albonair DEF-dosing patents.
+
+## Hall-effect thruster xenon proportional flow controller (Bronkhorst/MOOG/VACCO XFC, Busek BHT feed) (2004-07-11)
+
+- **id**: `hall-thruster-xenon-flow-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Moog Inc., VACCO Industries, Bronkhorst, Marotta; thruster makers Busek (BHT), Aerojet Rocketdyne / NASA (HERMeS, AEPS), Safran (PPS), SITAEL
+- **disclosure**: Hofer & Randolph, Mass flow control for Hall thrusters, JANNAF / AIAA Joint Propulsion Conference 2004; see also US7757987B2 Proportional flow control valve (Vacco / Moog-style) and the NASA HERMeS/AEPS xenon feed description in Kamhawi et al., Performance characterization of the 12.5 kW HERMeS Hall thruster, AIAA 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses precise gas mass-flow control by a thermally-throttled viscous-flow micro-restrictor (heated capillary/porous element) plus a proportional valve, with integrated micro-filtration and pressure sensing, split to multiple thruster ports. Anticipates claims to (a) thermal-throttle micro-restrictor xenon flow control for a Hall thruster; (b) split anode/cathode propellant metering module; (c) regulator-plus-restrictor architecture giving tank-pressure-insensitive flow; (d) integrated micro-filter/pressure-sensor flow-control module for electric propulsion. Prior art for Moog, VACCO, Bronkhorst and thruster-OEM xenon-feed patents.
+
 ## optek-Danulat AF26 Absorption / Turbidity Sensor (2005)
 
 - **id**: `optek-af26-turbidity`
@@ -124,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: optek-Danulat GmbH AF26 product literature; sensor introduced ~2005; product datasheet rev 2018
 - **ip status**: patented
 - **prior art notes**: Discloses an inline turbidity / absorption sensor with sapphire windows in a stainless flow cell, NIR LED + photodiode pair across the optical path, signal proportional to cell-density-times-pathlength. Used as in-line PAT for fermentation cell-density measurement and downstream chromatography elution monitoring. Anticipates: inline sapphire-windowed turbidity probe architecture for high-temperature/high-pH-tolerant PAT; combined absorption + scattering measurement in a single flow cell. Element-by-element: stainless flow body + sapphire windows + LED source + photodiode detector + transmitter electronics.
+
+## Maselli Misure Inline CO2 / Brix / Inversion Beverage Process Analyzer (2005)
+
+- **id**: `maselli-uc4sa-inline-co2-brix-soft-drink-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Maselli Misure S.p.A.
+- **disclosure**: Maselli Misure S.p.A. (Parma, Italy) inline beverage analyzer datasheets (UC4-SA carbonation/Brix, IBA series)
+- **ip status**: patented
+- **prior art notes**: Discloses a compact inline sampling/measuring cell on a beverage pipe combining critical-angle refractometry and CO2 sensing with valve-controlled product slug handling and closed-loop carbonator/proportioner feedback. Anticipates: inline microscale beverage measuring cells for Brix and carbonation; valve-gated slug sampling from a process pipe; closed-loop beverage-blend control. Mettler-Toledo InPro probes (covered) are a parallel inline-sensor family.
 
 ## Avantium Flowrence high-throughput parallel microreactor system (2006)
 
@@ -195,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses engineered S. cerevisiae harboring rebuilt mevalonate pathway producing farnesene, and an industrial cane-sugar fermentation plant at Brotas. Anticipates industrial yeast farnesene fermentation with downstream cosmetic squalene claims.
 
+## Microfluidic / micro-channel solvent-extraction contactor for nuclear reprocessing (PUREX and minor-actinide separation studies) (2007-06-15)
+
+- **id**: `purex-microfluidic-solvent-extraction-contactor`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: academic and national-lab research (Kitamori group, Univ. of Tokyo; Japan Atomic Energy Agency; Argonne National Laboratory; Idaho National Laboratory; ORNL; Savannah River National Laboratory; CEA/Marcoule)
+- **disclosure**: Tsukahara, Hibara, Kim & Kitamori, Microfluidic chemical processing for nuclear fuel reprocessing - solvent extraction in microchannels; see Hotokezaka et al., Development of the innovative nuclide separation system for high-level radioactive waste using microchannel chip extraction, Prog. Nucl. Energy 47, 439 (2005); also Argonne/SRNL/INL microchannel-contactor reports.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel liquid-liquid extraction contactors (parallel-laminar and slug-flow) with downstream microfluidic phase separation applied to actinide/lanthanide separations in nuclear reprocessing, with low radioactive holdup and numbering-up scalability. Anticipates claims to (a) microchannel solvent-extraction contactor for U/Pu (PUREX) or minor-actinide separation; (b) slug-flow microfluidic liquid-liquid extraction with integrated phase separator; (c) numbered-up parallel microchannel contactor for low-inventory radiochemical processing; (d) on-chip extractant screening for reprocessing flowsheets. Prior art for academic, JAEA, PNNL/Battelle and national-lab microchannel-contactor patents; extends the wave-2/3 radiochemistry lineage.
+
 ## ThalesNano X-Cube, Phoenix Flow Reactor, Ice-Cube, and Gas Module (2008)
 
 - **id**: `thalesnano-x-cube-phoenix-icecube-gasmodule`
@@ -244,6 +344,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BlueSens gas sensor GmbH BlueInOne product launch 2008; BlueInOne Cell datasheet rev 2018; US patent US8,691,143B2 (BlueSens, off-gas analysis)
 - **ip status**: patented
 - **prior art notes**: Discloses a compact off-gas analyzer combining electrochemical O2 measurement and NDIR (non-dispersive infrared) CO2 measurement in a single rack-mount unit, with sample-conditioning (gas drier, particulate filter) integrated; sample gas is drawn from bioreactor exhaust at low flow; OUR/CER calculated from inlet vs outlet partial-pressure difference. Anticipates: combined O2/CO2 off-gas analyzer in a compact form factor suitable for distributed deployment at each bioreactor (vs centralized mass spec); sample-conditioning train integration. Element-by-element: gas inlet + drier + filter + electrochemical O2 cell + NDIR CO2 cell + outlet to atmosphere + RS485/Profibus output.
+
+## EV traction-inverter power-module microchannel cold plate (pin-fin / ShowerPower-class) (2008-06-12)
+
+- **id**: `ev-power-electronics-microchannel-cold-plate`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Danfoss Silicon Power (ShowerPower), Semikron, Infineon (HybridPACK), Wolfspeed, Hitachi, Toyota/Denso power-control units; cold plates by Wieland, Mersen
+- **disclosure**: US20080144291A1 / US7393226B2 Power module assembly with integrated micro/mini-channel cooler (Semikron / DenmarkPower-class disclosures); see also Schulz-Harder, Efficient cooling of power electronics, 2008 PCIM; Danfoss ShowerPower cooling concept.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel/pin-fin liquid cooling integrated with a power-semiconductor baseplate or substrate, including distributed-jet architectures for uniform coolant temperature. Anticipates claims to (a) pin-fin baseplate microchannel cooler for an IGBT/SiC module; (b) direct-substrate (baseplate-less) microchannel cooling of power dies; (c) distributed parallel-jet (ShowerPower-type) cooler for uniform die temperature; (d) shared-manifold multi-module inverter cooler. Prior art for Danfoss, Semikron, Infineon, Toyota/Denso power-module cooling patents.
+
+## Automotive PEM fuel-cell bipolar-plate microchannel flow field (Toyota Mirai / Hyundai NEXO class) (2008-12-23)
+
+- **id**: `toyota-mirai-fuel-cell-bipolar-plate-flow-field`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Toyota Motor Corporation (Mirai), Hyundai/Kia (NEXO), Honda, Ballard, Plug Power/Hydrogenics; plate forming by Dana, Borit, Gräbener
+- **disclosure**: US7470483B2 / US20090029235A1 Fuel cell separator and fuel cell (Toyota Motor Corp.); see also Yoshida & Kojima, Toyota MIRAI fuel cell vehicle and progress toward a future hydrogen society, Electrochem. Soc. Interface 24(2), 45 (2015).
+- **ip status**: patented
+- **prior art notes**: Discloses bipolar plates bearing sub-millimeter reactant and coolant microchannel networks, including 3D lattice cathode flow fields for oxygen transport and water removal, stacked in series - microchannel fluid distribution at stack scale. Anticipates claims to (a) microchannel flow-field bipolar plate for a PEM fuel cell; (b) 3D mesh/lattice cathode flow field for enhanced O2 transport and water management; (c) interleaved coolant microchannel network in a stamped metal bipolar plate. Prior art for Toyota, Hyundai, Honda, GM, Ballard fuel-cell-plate patents.
 
 ## Sartorius ambr 15 microbioreactor system (2009)
 
@@ -385,6 +505,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the BlueSens BlueInOne FERM off-gas analyzer combining zirconia O2 and NDIR CO2 sensors in a compact bioreactor-mounted unit. Anticipates: (a) compact dual-sensor (O2+CO2) off-gas analyzer architecture replacing rack-mount mass spectrometers for bioreactor exhaust monitoring; (b) integrated OUR/CER/RQ calculation in the analyzer firmware; (c) the same analyzer architecture scaling from shake-flask to production bioreactor. Cite against later patents claiming compact dual-sensor zirconia-NDIR off-gas analyzers with on-board OUR/CER/RQ calculation.
 
+## PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) (2010-03-25)
+
+- **id**: `pet-cyclotron-target-dissolution-ion-exchange-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: radiopharmacy equipment makers (Trasis, IBA, GE Healthcare, Sumitomo, Comecer) and academic groups (UCLA Crump Institute, ETH/PSI, Univ. of Wisconsin) developing microfluidic radiometal processing
+- **disclosure**: US20100074825A1 / WO2010/032083 Microfluidic apparatus for radiopharmaceutical synthesis (Trasis-style); see also Lin et al., Microfluidic purification of cyclotron-produced radiometals, and Rensch et al., Microfluidics: a groundbreaking technology for PET tracer production?, Molecules 18, 7930 (2013).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated shielded microfluidic train - dissolution, micro-column ion-exchange/extraction-chromatography purification, metered elution - for processing cyclotron-irradiated radiometal targets into radiolabeling-ready fractions with small reagent/resin volumes and in-line radiation monitoring. Anticipates claims to (a) microfluidic micro-column purification of a cyclotron-produced radiometal; (b) automated cassette-based target dissolution and ion-exchange processing module; (c) sequential multi-column microfluidic separation of an actinide/radiometal from its target matrix and daughters; (d) low-volume high-specific-activity radiometal elution for chelator labeling. Prior art for Trasis, IBA, GE, Siemens radiopharmacy-module patents; extends the wave-2 Trasis radiosynthesis lineage.
+
 ## GSK / CMAC Strathclyde continuous-flow API manufacturing platform (2011)
 
 - **id**: `gsk-strathclyde-cmac-continuous-api`
@@ -394,6 +524,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Florence, A. J.; Johnston, A.; Price, S. L.; Nowell, H.; Kennedy, A. R.; Shankland, K. EPSRC Centre for Innovative Manufacturing in Continuous Manufacturing and Crystallisation (CMAC) launch, University of Strathclyde, 2011; Cole, K. P. et al. 'Kilogram-scale prexasertib monolactate monohydrate synthesis under continuous-flow CGMP conditions' Science 2017, 356, 1144–1150 (Eli Lilly + CMAC collaboration); CMAC Hub annual report 2015–2020
 - **ip status**: patented
 - **prior art notes**: CMAC is the principal UK academic-industrial vehicle for continuous-API process development. Discloses (a) the canonical 'continuous-from-step-1-to-API' process map for small-molecule drug substance manufacturing; (b) continuous MSMPR cascade crystallization with PAT-driven control; (c) kg-scale CGMP-grade continuous flow demonstrated in the published Lilly prexasertib paper (Science 2017); (d) the consortium model in which 7 pharma companies share IP and process methods through the CMAC framework. Anticipates many process-method claims directed to 'continuous synthesis-crystallization-isolation of [small molecule API]' that have begun to appear in pharma patent literature 2018–2024.
+
+## Lithium-ion battery cell electrolyte filling and wetting station (2011-06-30)
+
+- **id**: `ev-battery-electrolyte-filling-station`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: battery-cell makers (Tesla/Panasonic, CATL, LG Energy Solution, SK On, Samsung SDI) and equipment OEMs (Manz, Dürr Megtec, Wuxi Lead, Hirano Tecseed, Schuler/AIDA)
+- **disclosure**: US20110162202A1 / DE102009060800A1 Method and device for filling electrochemical cells (battery cell electrolyte filling under vacuum); see also Knoche, Surm & Reinhart, A process model for the electrolyte filling of lithium-ion batteries, Procedia CIRP 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic-dosing process: positive-displacement metering of a volatile electrolyte through a fine fill port into an evacuated cell, with vacuum/pressure-cycle wetting and closed-loop dose/seal verification. Anticipates claims to (a) vacuum-assisted metered electrolyte injection into a sealed cell; (b) pressure-cycle wetting protocol for a porous electrode stack; (c) gravimetric closed-loop dose verification with under/overfill rejection; (d) inert-environment fine-needle electrolyte fill of a pouch/prismatic cell. Prior art for cell-maker and equipment-OEM electrolyte-filling patents.
+
+## Tritium permeation and extraction microfluidic cell (fusion fuel cycle / breeding-blanket processing) (2011-10-01)
+
+- **id**: `tritium-permeation-microfluidic-cell-fusion-fuel-cycle`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: fusion-research institutions (Idaho National Laboratory; CIEMAT, Spain; KIT, Germany; ENEA, Italy; UKAEA; ITER Organization)
+- **disclosure**: Humrickhouse & Merrill, Vacuum permeator analysis for extraction of tritium from DCLL blankets, Fusion Sci. Technol.; see also Garcinuno et al., Design of a permeator-against-vacuum mockup for tritium extraction from lead-lithium, Fusion Eng. Des.; ITER tritium plant design reports.
+- **ip status**: patented
+- **prior art notes**: Discloses thin-membrane microchannel/capillary permeator and stripper units for extracting tritium from helium purge gas or liquid lithium-lead under a vacuum sink, with high surface-area-to-volume contacting and numbering-up. Anticipates claims to (a) microchannel membrane permeator for tritium extraction from a fusion-blanket purge stream; (b) microchannel/capillary contactor stripping tritium from flowing PbLi; (c) numbered-up small permeator array for a fusion fuel-cycle tritium plant; (d) microchannel test cell for membrane-material screening for hydrogen-isotope permeation. Prior art for fusion-research and tritium-plant permeator patents.
 
 ## Continuus Pharmaceuticals Integrated Continuous Manufacturing (ICM) platform (2012)
 
@@ -424,6 +574,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: HEL Group FlexFermentor product literature ~2012; HEL Group company website; sister product to HEL FlowCAT (already in corpus)
 - **ip status**: trade-secret
 - **prior art notes**: Process-development scale parallel bioreactor system with 4-8 independently-controlled small-volume vessels; addresses the DOE-throughput gap between single shake flask and single bench bioreactor. Anticipates: parallel small-scale bioreactor architecture for fermentation DOE (overlapping with Sartorius ambr 250 and Eppendorf DASGIP, distinguishable by glass-vessel format and HEL's WinISO control system). Trade-secret heavy on the controls; entry strength rests on product literature.
+
+## VIAVI MicroNIR PAT-W / Onsite-W Handheld Near-Infrared Spectrometer (2012)
+
+- **id**: `viavi-micronir-pat-spectrometer`
+- **corpus**: private
+- **device class**: other
+- **creator**: VIAVI Solutions
+- **disclosure**: JDSU / VIAVI Solutions MicroNIR product literature; linear-variable-filter handheld near-infrared spectrometer datasheets
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated linear-variable-filter dispersive element integrated directly onto a detector array, packaged as a handheld PAT spectrometer for pharmaceutical solid-dosage process monitoring. Anticipates: LVF-on-detector miniature spectrometers; handheld NIR for continuous-manufacturing real-time release. Borderline for a microfluidics corpus (no fluid path) but included because PAT spectrometers are tightly coupled to microfluidic continuous-manufacturing trains and the LVF is a microfabricated optical component. Marked draft.
 
 ## Continuous flow chemistry review (Ley 2013) (2013)
 
@@ -464,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GE Healthcare Life Sciences AKTA PCC 75 product release announcement, 2013.
 - **ip status**: patented
 - **prior art notes**: Discloses 3-column protein A PCC with delta-UV trigger algorithm. Anticipates claims to breakthrough-driven column rotation in N>=3 column continuous capture and UV inline difference signal as column switching trigger.
+
+## Accion Systems TILE ionic-liquid electrospray thruster (2013-09-03)
+
+- **id**: `accion-tile-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Accion Systems, Inc. (technology from the MIT Space Propulsion Laboratory, Lozano group)
+- **disclosure**: US8324593B2 Iodine-compatible hall effect... (no) - use US8324593 placeholder removed; primary: Lozano & Martinez-Sanchez, Ionic liquid ion sources, J. Colloid Interface Sci. 282, 415 (2005) and US9194379B1 Field emission/ionic liquid electrospray emitter array (Massachusetts Institute of Technology / Accion Systems).
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated electrospray emitter array fed by passive capillary/porous-media wicking of an ionic-liquid propellant from a reservoir, with an extractor grid emitting ions/droplets and bipolar operation - a passive microfluidic propellant-feed thruster. Anticipates claims to (a) passive capillary feed of an ionic-liquid propellant to an emitter array (no pump/valve/pressurant); (b) porous-tip electrospray emitter array on a microfabricated chip; (c) tiled/modular electrospray thruster scaled by emitter count; (d) bipolar ionic-liquid electrospray operation. Foundational small-satellite electrospray-propulsion prior art.
 
 ## Sartorius Flexsafe RM single-use rocking bag and BIOSTAT RM (2014)
 
@@ -645,6 +815,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the Vaisala Viewpoint humidity-monitoring infrastructure widely deployed in pharmaceutical tableting and continuous-manufacturing facilities. Anticipates: (a) wireless 21 CFR Part 11-compliant humidity-monitoring infrastructure for clean-rooms; (b) HMT330 in-process humidity probes for fluid-bed dryer outlet monitoring as a PAT-adjacent measurement; (c) centralized cloud-aware monitoring of pharmaceutical environmental conditions. Cite against later patents claiming 21 CFR Part 11-compliant wireless humidity monitoring for pharmaceutical environments.
 
+## Perfect Day Precision-Fermentation Animal-Free Whey Protein Bioprocess (2015)
+
+- **id**: `perfect-day-precision-fermentation-dairy-protein`
+- **corpus**: private
+- **device class**: other
+- **creator**: Perfect Day Inc.
+- **disclosure**: Perfect Day Inc. (Berkeley, California) precision-fermentation whey-protein process disclosures and patents on producing milk proteins in microbial culture
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial precision-fermentation bioprocess whose control depends on microliter-resolution feed/titrant dosing skids, inline microsampling, and at-line microfluidic analytics feeding a model-based controller. Anticipates: precision micro-dosing and microanalytics in food-protein fermentation; closed-loop fermentation control via at-line microfluidic product-quality measurement. General ag/food precision-fermentation prior-art anchor; companions: The EVERY Company (egg protein), Motif FoodWorks, Nature Fynd.
+
 ## Continuous-flow pharmaceutical manufacturing on chip (Jensen 2016 MIT spinout-driven) (2016)
 
 - **id**: `adamo-2016-continuous-pharma-mit`
@@ -784,6 +964,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Keith et al., A process for capturing CO2 from the atmosphere, Joule 2 (2018) 1573-1594.
 - **ip status**: patented
 - **prior art notes**: Discloses cross-flow KOH absorber column followed by Ca-cycle solid regeneration and calcination producing pure CO2. Anticipates liquid-alkali air-contactor with calcium-cycle solid loop DAC claims.
+
+## ThrustMe NPT30-I2 iodine electric propulsion system (2018-10-15)
+
+- **id**: `thrustme-npt30-i2-iodine-electrothermal-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ThrustMe (spun out of Ecole Polytechnique / LPP-CNRS)
+- **disclosure**: Rafalskyi et al., In-orbit demonstration of an iodine electric propulsion system, Nature 599, 411 (2021); patent family WO2019/030035A1 / EP3650351 Propulsion system using a solid propellant (ThrustMe).
+- **ip status**: patented
+- **prior art notes**: Discloses a vapor-microfluidic propellant feed: a heated solid-iodine reservoir whose sublimated vapor is metered to a thruster purely by temperature control of small-bore heated channels and a thermal restrictor/valve. Anticipates claims to (a) solid-propellant (iodine) electric thruster with a heated-reservoir sublimation feed; (b) thermally-throttled vapor mass-flow control via heated micro-channel conductance; (c) tankless, regulator-free propellant feed for a small-satellite thruster; (d) shared iodine-vapor feed serving both gridded-ion and cold-gas modes. Prior art for ThrustMe and other iodine-propulsion patents.
 
 ## IMA Lynx - Continuous freeze-drying for biopharma (2019)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-impedance-cytometry`
 
-**29 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abbott Cell-Dyn Sapphire 510(k) K022428 (cleared 2003-04); peer-reviewed evaluation Bruegel et al., Clin Lab Haematol 2004
 - **ip status**: patented
 - **prior art notes**: Discloses Multi-Angle Polarized Scatter Separation (MAPSS) optical flow cytometry for white-blood-cell five-part differentiation: hydrodynamically focused single-cell stream illuminated at four angles (intermediate-angle scatter, polarized side scatter, depolarized side scatter, axial light loss) plus 488 nm laser fluorescence channel for retic/NRBC. The fluidic architecture pairs a sheath-focused optical flow cell for WBC/diff/retic with a Coulter-principle sapphire impedance aperture for RBC/PLT in parallel, with shared sample dilution stages. Anticipates: hybrid optical-impedance hematology fluidic stages sharing sample dilution; depolarized side-scatter eosinophil identification via crystalline content; sapphire as orifice material for impedance counting (durability against erosion vs ruby/glass).
+
+## FLIR IBAC bioaerosol identifier and particulate-collector unit (2004-08-26)
+
+- **id**: `flir-ibac-bioaerosol-trigger-collector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / BioVigilant); related fielded units include the US JBPDS triggers
+- **disclosure**: US20040159799A1 / US7126687B2 Method and instrument for detecting biological agents in aerosol (Hairston/Ho-style UV laser-induced fluorescence; ICx BioVigilant / FLIR lineage); see also Ho, Future of biological aerosol detection, Anal. Chim. Acta 457, 125 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses an aerodynamic micro-nozzle/virtual-impactor concentrator feeding a single-particle UV-LIF interrogation cell, plus an integrated aerosol-to-liquid microfluidic collector for confirmatory assays - a trigger-and-collect bioaerosol microfluidic system. Anticipates claims to (a) aerodynamic-focusing micro-nozzle into a single-particle UV-fluorescence/scatter bioaerosol cell; (b) intrinsic-fluorophore (tryptophan/NADH) single-particle bio-trigger; (c) integrated aerosol-to-liquid collector capturing trigger-flagged particles for PCR/immunoassay confirmation; (d) networked bioaerosol warning sensor with on-board collection. Prior art for FLIR/ICx/BioVigilant and competing UV-LIF bioaerosol-detector patents.
 
 ## Stago STA R Max Coagulation Analyzer Cuvette Ball Mixer (2007)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-optical-window-borofloat`
 
-**13 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1996
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Iddan G, Meron G, Glukhovsky A, Swain P, Nature 405:417 (2000); FDA 510(k) K010312 (2001-08-01); doi:10.1038/35013140
 - **ip status**: patented
 - **prior art notes**: Discloses a swallowable optical-imaging capsule with a passive optical-dome window that interfaces with luminal fluid as both an immersion medium and as the analyte itself (mucus, blood). Anticipates: ingestible imaging capsules; the ingestible-architecture pattern of dome-window + sensor + radio + battery in a 26 mm form factor; established the FDA pathway via K010312 that all subsequent ingestible microfluidic capsules followed.
+
+## LIGHTHOUSE Instruments FMS / VeriPac Laser Headspace Analysis (Container-Closure Integrity) (2004)
+
+- **id**: `lighthouse-instruments-fms-laser-headspace-cci`
+- **corpus**: private
+- **device class**: other
+- **creator**: LIGHTHOUSE Instruments
+- **disclosure**: LIGHTHOUSE Instruments FMS series headspace analyzer datasheets; USP <1207> Container-Closure Integrity, deterministic headspace methods
+- **ip status**: patented
+- **prior art notes**: Discloses interrogating the gas volume inside a sealed pharmaceutical container as the optical absorption cell, using tunable-diode-laser spectroscopy to read O2/CO2/H2O/pressure without breaching the container. Anticipates: non-contact headspace gas analysis as a leak/integrity test; using a sealed product container as an in-situ spectroscopic cell. Adjacent prior art to other CCI methods (vacuum decay, helium leak) listed in notes.
 
 ## optek-Danulat AF26 Absorption / Turbidity Sensor (2005)
 
@@ -64,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bang S, Park JY, Jeong S, Kim YH, Shim HC, Kim TS, Lee DH, Song SY, Gastrointest Endosc 69:253-259 (2009); doi:10.1016/j.gie.2008.04.033; KFDA approval 2007
 - **ip status**: patented
 - **prior art notes**: Discloses a capsule endoscope using galvanic Human Body Communication for telemetry, eliminating the RF antenna and reducing power. Anticipates: HBC-based ingestible telemetry; capsule designs using body-conductive modulation; alternative to PillCam RF architecture for any future microfluidic ingestible.
+
+## Pion Rainbow Dynamic Dissolution Monitor (in-situ fiber-optic UV) (2008)
+
+- **id**: `pion-rainbow-insitu-dissolution-fiber-optic`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Pion Inc.
+- **disclosure**: Pion Inc. Rainbow Dynamic Dissolution Monitor and AuPRO probe datasheets; Pion fiber-optic dip-probe in-situ dissolution literature
+- **ip status**: patented
+- **prior art notes**: Discloses an immersed fixed-short-pathlength optical interrogation gap (effectively a microfluidic optical cell with no enclosing channel) that measures analyte concentration in situ without withdrawing or pumping sample. Anticipates: probe-format fixed-pathlength absorbance cells for in-process concentration monitoring; the elimination of a sampling fluid path in favor of an in-vessel optical micro-gap. Relevant prior art to fiber-coupled microfluidic absorbance detectors.
 
 ## Foldscope Microfluidic Accessory (Foldscope + Paperfuge ecosystem) (2014-06-16)
 

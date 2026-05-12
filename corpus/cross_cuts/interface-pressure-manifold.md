@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-pressure-manifold`
 
-**90 corpus entries disclose this subsystem.**
+**135 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Lord of Light depicts a planet-wide reincarnation industry: consciousness-transfer apparatus + body-cloning vats + scheduled reincarnation pipeline. The 'Masters of Karma' control access via reagent-and-substrate quality control. Reads as foundational sci-fi prior art for: integrated consciousness-transfer + body-cloning architectures; the architectural pattern of an industrial reincarnation pipeline with quality-tier selection. Important early reference predating most cloning-vat sci-fi tropes.
 
+## Satellite hydrazine monopropellant attitude-control thruster and propellant feed (Aerojet Rocketdyne MR-103/MR-111, ArianeGroup CHT class) (1972-08-01)
+
+- **id**: `satellite-hydrazine-monopropellant-feed-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Aerojet Rocketdyne (Rocket Research), ArianeGroup (formerly Astrium / DASA), Northrop Grumman, Moog ISP; catalyst (Shell 405 / Aerojet S-405 iridium-on-alumina)
+- **disclosure**: Schmidt, Hydrazine and Its Derivatives, Wiley 1984/2001 (monopropellant thruster chapter); Aerojet (formerly Rocket Research / TRW / Hamilton) MR-series thruster heritage; US3854287A Self-pressurized rocket propellant feed and related catalyst-bed disclosures, early 1970s.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic propellant feed of hydrazine through filtered small-bore lines and a fast solenoid valve to a fine injector onto a packed catalyst microbed with a bed heater, in pulse and continuous modes. Anticipates claims to (a) monopropellant attitude thruster with fine injector spraying onto a granular catalyst bed; (b) fast-pulse solenoid flow-control valve for impulse-bit attitude control; (c) catalyst-bed pre-heat for cold-start of a monopropellant thruster; (d) electrothermally augmented hydrazine thruster. Foundational prior art for monopropellant-thruster feed-system patents - and the prior art the green-monopropellant systems were designed to displace.
+
 ## Zoltan/Clevite Squeeze-Tube Drop-on-Demand Piezo Inkjet (1972-08-08)
 
 - **id**: `zoltan-1972-clevite-squeeze-tube-inkjet`
@@ -55,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Forever War medical pods depicted as limb-regrowth chambers integrating cellular-bath suspension, controlled reagent infusion, and cooled stasis pre-treatment. Anticipates: limb-regrowth chambers integrating cellular-bath suspension with stage-controlled reagent infusion and pre-treatment cryogenic conditioning; one of the foundational limb-regrowth-tank tropes in sci-fi. Useful prior art for any 'tissue-regrowth chamber with multi-stage reagent and temperature program' claim.
 
+## Atomic-layer-deposition precursor pulse valve and vapor-draw delivery system (1977-11-15)
+
+- **id**: `ald-precursor-pulse-valve-delivery-system`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: ASM International, Picosun (Applied Materials), Beneq, Veeco/CNT, Forge Nano; pulse valves by Swagelok/Nupro, Fujikin, Parker, Ultra Clean Holdings
+- **disclosure**: US4058430A Method for producing compound thin films (Suntola & Antson, atomic layer epitaxy); see also US6539891B1 chemical deposition reactor and US8202575B2 vapor deposition reactor pulsing system.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic vapor-dosing architecture: millisecond pulse valves metering self-limiting precursor micro-doses from heated ampoules into a low-pressure reactor with purge separation, plus pressure-decay dose verification and spatial-ALD microchannel injector heads. Anticipates claims to (a) fast diaphragm pulse-valve sequencing for self-limiting vapor dosing; (b) vapor-draw delivery of low-vapor-pressure precursors; (c) closed-loop dose verification by line-pressure transient; (d) spatial ALD by translating a substrate past adjacent precursor/purge slit microchannels. Prior art for Picosun, Beneq, Forge Nano and ASM precursor-delivery patents.
+
 ## Domino Amjet (Domino Printing Sciences) Continuous Inkjet Coding Printer (1978)
 
 - **id**: `domino-amjet-cij-1978-coding-printer`
@@ -64,6 +84,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Domino Printing Sciences founding by Graeme Minto, 1978, to commercialize CIJ for industrial coding; first product circa 1978–1980; encyclopedia.com 'Domino Printing Sciences PLC' company history
 - **ip status**: patented
 - **prior art notes**: Founded specifically to commercialize Sweet-style binary deflected CIJ for industrial product coding (date codes, lot numbers, batch identifiers). Discloses: (a) a closed-loop ink/solvent recirculation system with gutter recovery, viscosity sensing, and make-up addition essential for unattended industrial operation, (b) factory-hardened CIJ printhead with stainless-steel ink path and remote ink/electronics cabinet, (c) binary deflection with charge-electrode addressing per drop. Predicate to the entire industrial CIJ coding industry; concrete prior art against later 'sealed-cartridge CIJ' and 'cartridge-based ink-recovery CIJ' claims.
+
+## Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) (1979-05-08)
+
+- **id**: `forensic-postmortem-headspace-gc-autosampler`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Agilent Technologies (7697A), PerkinElmer (TurboMatrix), Teledyne Tekmar, CTC Analytics (PAL); methods established in forensic toxicology labs
+- **disclosure**: US4153434A Apparatus for sampling the gas phase of a liquid (Hewlett-Packard / static-headspace autosampler concept); see also Kolb & Ettre, Static Headspace-Gas Chromatography: Theory and Practice, Wiley 1997; ANSI/ASB and SOFT/AAFS forensic blood-alcohol HS-GC methods.
+- **ip status**: patented
+- **prior art notes**: Discloses an automated headspace autosampler: thermostatted vial equilibration, heated-needle vapor extraction, heated transfer line, and loop/pressure-balanced micro-sampling onto a GC column with internal standardization. Anticipates claims to (a) automated thermostatted headspace vapor micro-sampling of a biological aliquot for GC; (b) heated-needle/transfer-line path preventing volatile condensation and carry-over; (c) pressure-balanced headspace injection for forensic-grade quantitation; (d) high-throughput tray-automated headspace volatiles screen. Prior art for Agilent, PerkinElmer, Tekmar and CTC headspace-sampler patents; the confirmatory counterpart to the fuel-cell breathalyzer.
+
+## Intoximeter EC/IR II and Alco-Sensor electrochemical-fuel-cell evidential breath alcohol analyzer (1981-03-31)
+
+- **id**: `intoximeter-ecir-fuel-cell-evidential-breathalyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Intoximeters, Inc. (Alco-Sensor, EC/IR); also Draeger (Alcotest), Lifeloc (FC series), Lion Laboratories
+- **disclosure**: US4209300A Hand-held portable breathalyzer testing device and method of testing (Intoximeters, Inc., late 1970s); fuel-cell breath-alcohol sensing per US4279142A and the established literature (Dubowski, Breath-alcohol analyzers, J. Forensic Sci.).
+- **ip status**: patented
+- **prior art notes**: Discloses a fixed-aliquot breath-capture micro-gas-flow path feeding an electrochemical fuel-cell micro-chamber for ethanol-selective amperometric blood-alcohol estimation, optionally in series with an infrared cell. Anticipates claims to (a) end-exhalation fixed-aliquot breath sampling into a fuel-cell alcohol sensor; (b) acetone-immune fuel-cell breath-alcohol analyzer; (c) dual-principle (electrochemical plus infrared) evidential breath analyzer; (d) flow/pressure-gated mouthpiece path ensuring deep-lung air capture. Prior art for Intoximeters, Draeger, Lifeloc and Lion breath-alcohol-analyzer patents; extends the wave-2 oral-fluid drug-screening lineage.
 
 ## Spectra Inc. Drop-on-Demand Piezo Printhead (Lebanon, NH) (1984)
 
@@ -145,6 +185,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an immersion-tank procedure that infuses a metal onto a living skeleton under continuous life support and vitals monitoring, requiring a regenerating substrate. Extends halo-spartan-ii-eight-procedures-detail (intra-osseous infusion of a skeletal-hardening agent) into the immersion-tank format. Anticipates generic claims to immersion-tank skeletal-infusion procedures with real-time life support and vitals feedback. Pairs with halo-spartan-ii-eight-procedures-detail and warhammer-40k-magos-biologis-vat-servitor.
 
+## Automotive A/C microchannel (parallel-flow) condenser and evaporator (1991-09-24)
+
+- **id**: `automotive-microchannel-condenser-evaporator`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Denso (Nippondenso), Modine Manufacturing, Mahle (Behr), Valeo, Hanon Systems; multiport-tube extruders incl. Sapa/Hydro
+- **disclosure**: US5048602A Condenser for automotive air conditioning systems (Nippondenso); see also US5172761A (Showa Aluminum) heat exchanger with multiport flat tubes; SAE technical papers on parallel-flow automotive condensers, early 1990s.
+- **ip status**: patented
+- **prior art notes**: Discloses arrays of sub-millimeter parallel microchannels in extruded flat tubes, with louvered fins and baffled headers for multi-pass refrigerant flow, brazed monolithically - the canonical automotive microchannel heat exchanger. Anticipates claims to (a) multiport flat-tube microchannel condenser/evaporator; (b) header-baffle multi-pass routing through a microchannel tube bank; (c) brazed-aluminum microchannel HX for mobile refrigeration; (d) low-charge microchannel A/C with R-1234yf. Prior art for Modine, Mahle/Behr, Valeo, Hanon microchannel-HX patents and a relative of EV battery cold-plate designs.
+
+## ICP-OES/MS microfluidic nebulizer and sample-introduction system (mining/metallurgy assay labs) (1992-06-23)
+
+- **id**: `icp-oes-ms-microfluidic-nebulizer-sample-introduction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: nebulizer/sample-introduction makers (Meinhard/Elemental Scientific, Glass Expansion, CETAC/Teledyne, Burgener) for ICP instruments by Agilent, PerkinElmer, Thermo Fisher; used in mineral assay/geochemistry labs (ALS, SGS, Bureau Veritas)
+- **disclosure**: US5124127A Apparatus for the analysis of a sample by inductively coupled plasma (concentric/micro nebulizer for ICP); see also Browner & Boorn, Sample introduction: the Achilles heel of atomic spectroscopy?, Anal. Chem. 56, 786A (1984); Meinhard nebulizer literature.
+- **ip status**: patented
+- **prior art notes**: Discloses a microflow concentric/PFA nebulizer (fine sample capillary in an argon gas annulus) plus a droplet-selecting Scott/cyclonic spray chamber and optional desolvating membrane for generating a transport-efficient fine aerosol into an ICP. Anticipates claims to (a) microflow concentric nebulizer with sub-250-micron sample capillary for ICP sample introduction; (b) droplet-selecting double-pass/cyclonic spray chamber conditioning a nebulized aerosol; (c) membrane/heated desolvating accessory upstream of an ICP torch; (d) low-uptake PFA microflow nebulizer for difficult matrices. Prior art for Meinhard/Elemental Scientific, Glass Expansion, CETAC nebulizer patents; extends the wave-4 jet-fuel ICP-OES inlet lineage to mining assay.
+
 ## Babylon 5 Vorlon encounter suit biological life-support (1993)
 
 - **id**: `babylon5-vorlon-encounter-suit`
@@ -184,6 +244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Spectra/Dimatix product datasheets; SG-1024 introduced at drupa 2012 (PIWorld 'Fujifilm Dimatix to Introduce the SG-1024 Industrial Single-Pass Inkjet Printhead at drupa'); Polaris PQ-512 datasheet
 - **ip status**: patented
 - **prior art notes**: Discloses the workhorse industrial piezo printhead families that bridge the Spectra-laminate era and the Dimatix MEMS era: Galaxy/Polaris with stainless-steel laminate ink-path bodies and bonded PZT stacks (one-piezo-per-channel bend-mode actuation), and StarFire SG-1024 with through-die ink recirculation, dual-row nozzle layout, and silicon-nozzle-plate construction. Anticipates: (a) productization patterns for industrial DOD heads spanning 256–1024 nozzles, (b) recirculating-ink-path SG-1024 as the canonical 'high-pigment-load + reliability' single-pass primitive, (c) variable-drop multi-tone industrial firing across material-deposition applications (printed electronics, displays, ceramics).
+
+## Froth flotation reagent (collector/frother/depressant) point-of-addition microdosing system (1996-04-30)
+
+- **id**: `froth-flotation-reagent-microdosing-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: mineral-processing equipment vendors (Metso Outotec, FLSmidth, Eriez) and reagent/dosing-system suppliers (ProMinent, Watson-Marlow, Grundfos metering pumps; reagents from Solvay, Clariant, Nasaco, Cytec/Solvay)
+- **disclosure**: US5511669A Method and apparatus for the flotation of minerals (reagent-addition control); mineral-processing texts e.g. Wills & Finch, Wills Mineral Processing Technology, 8th ed., Elsevier 2016 (flotation reagents and conditioning); equipment from Metso Outotec, FLSmidth, ProMinent/Watson-Marlow metering pumps.
+- **ip status**: patented
+- **prior art notes**: Discloses positive-displacement microdosing of flotation reagents at staged addition points with inline dilution, micromixing, and closed-loop assay/froth-image feedback control. Anticipates claims to (a) staged point-of-addition reagent microdosing along a flotation bank; (b) closed-loop flotation-reagent dose control from online XRF/froth-image feedback; (c) inline dilution-and-micromixing of dilute collector/frother into mineral slurry. Prior art for Metso Outotec, FLSmidth, Eriez and reagent-supplier flotation-dosing patents.
 
 ## Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device) (1997)
 
@@ -225,6 +295,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: SOLDIER program enhancement depicted as a Mako-immersion chamber; candidates suspended in Mako-saturated bath with controlled flow rate, exposure duration determining tier. Crisis Core depicts the chamber as a vertical cylinder with circulation, oxygenation, and continuous reagent flow. Anticipates: tiered-exposure-duration augmentation chambers with continuous reagent circulation; the architectural pattern of dose-by-time augmentation in a flow-through chamber; immersion bioreactors with subject-suspension and continuous reagent perfusion.
 
+## Bosch common-rail diesel fuel injector (CRI / CRIN) (1997-12-09)
+
+- **id**: `bosch-common-rail-diesel-injector`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (also Denso, Delphi/BorgWarner, Continental/Vitesco common-rail systems)
+- **disclosure**: US5697554A Metering valve for metering a fluid (Robert Bosch GmbH, common-rail injector control valve); see also Stumpp & Ricco, Common rail - an attractive fuel injection system for passenger car DI diesel engines, SAE 960870 (1996).
+- **ip status**: patented
+- **prior art notes**: Discloses a high-pressure microfluidic metering injector: hydraulic-servo needle control via a calibrated control-chamber leak orifice plus a multi-hole micro-orifice spray tip, delivering sub-microliter-to-microliter diesel doses in programmable multi-injection sequences. Anticipates claims to (a) servo-controlled needle lift by metered control-chamber depressurization; (b) multi-hole hydro-eroded micro-orifice diesel nozzle; (c) multi-event micro-injection scheduling; (d) piezo-actuated common-rail injector with hydraulic coupler. Foundational prior art for common-rail injector patents (Bosch, Denso, Delphi, Continental).
+
 ## Warhammer 40K Death Korps of Krieg cloning vats (1998)
 
 - **id**: `warhammer-40k-krieg-cloning-vats`
@@ -235,6 +315,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
 
+## Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module (1998-11-10)
+
+- **id**: `tel-clean-track-resist-dispense-nozzle`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tokyo Electron Limited (also SCREEN SOKUDO, Lam Research / SEZ track systems); dispense pumps by CKD, Saint-Gobain Furon, Entegris IntelliGen / NT International
+- **disclosure**: US5985039A Apparatus and method for coating substrate with film of liquid (Tokyo Electron); see also US6471782B1 resist coating apparatus and method.
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic dispense head: positive-displacement resist pump with sub-microliter repeatability, suck-back anti-drip nozzle, inline degas/filter, and programmed dispense profiling onto a spinning substrate. Anticipates claims to (a) anti-drip suck-back nozzle for photochemical dispense; (b) closed-loop volumetric verification of a sub-microliter dispense; (c) point-of-use degassing of a viscous resist immediately before the dispense orifice. Prior art for Entegris IntelliGen / NT International pump patents and for any low-consumption resist dispense claim.
+
 ## The Matrix human battery pod fluid-immersion + Tetris IV feed (1999)
 
 - **id**: `matrix-pod-fluid-immersion`
@@ -244,6 +334,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Matrix (Warner Bros, 1999); The Matrix Reloaded (2003); The Matrix Revolutions (2003).
 - **ip status**: fictional
 - **prior art notes**: The Matrix's iconic 'human battery field' depicts millions of humans in individual gel-filled pods with integrated breathing tubes, nutrient feeds, waste removal, and neural-interface jacks. The pod scene (Neo's awakening) shows pump systems flushing umbilical-style nutrient lines and the body extraction process. Defensive prior art for: long-duration human-immersion life-support pods with integrated nutrient + waste + neural-interface fluidics, and industrial-scale automated maintenance of pod arrays. Plus the on-screen Tetris-IV (intravenous Tetris-style nutrient delivery system).
+
+## Chemical-mechanical planarization slurry point-of-use blending and delivery system (1999-06-08)
+
+- **id**: `cmp-slurry-point-of-use-blending-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cabot Microelectronics (CMC Materials), DuPont Electronics, Fujimi Inc., Versum/Air Liquide; slurry delivery hardware by CT Associates, Entegris, Mega Fluid Systems
+- **disclosure**: US5950675A Means and apparatus for chemical mechanical polishing slurry distribution; see also US6280300B1 point-of-use blending of CMP slurry.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic blending and metering train that combines a nanoparticle abrasive concentrate with DI water and reactive additives in-line at the polishing tool, with closed-loop conductivity/density control and large-particle gating. Anticipates claims to (a) on-tool dilution of CMP slurry concentrate by inline static micromixer with ratio control; (b) low-shear positive-displacement metering of colloidal abrasive to prevent agglomeration; (c) inline particle-count interlock that diverts slurry exceeding a large-particle threshold. Prior art for slurry-delivery-module patents asserted by Entegris, Mega Fluid Systems, CT Associates.
+
+## Bosch HDEV gasoline direct-injection fuel injector (1999-06-22)
+
+- **id**: `bosch-hdev-gdi-fuel-injector`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (also Continental/Vitesco XL3, Denso, Delphi/BorgWarner DI injectors)
+- **disclosure**: US5915626A Fuel injector (Robert Bosch GmbH); see also US6357676B1 (Bosch) fuel injection valve and the GDI overview in Zhao, Lai & Harrington, Automotive spark-ignited direct-injection gasoline engines, Prog. Energy Combust. Sci. 25, 437 (1999).
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic metering device: an actuated needle valve and a multi-hole micro-orifice nozzle plate delivering microliter-resolution, sub-millisecond fuel doses at high pressure with shaped atomized sprays. Anticipates claims to (a) multi-hole micro-orifice spray plate for direct-injection fuel atomization; (b) multi-pulse micro-injection scheduling per combustion cycle; (c) laser/EDM-drilled stepped-orifice geometry for spray-pattern control; (d) piezo-actuated needle for linear micro-dose metering. Foundational prior art for GDI/common-rail injector patents (Bosch, Continental, Denso, Delphi).
+
+## Rifter deep-sea bio-modification and the Beebe Station med-bay (Peter Watts, Rifters trilogy) (1999-07-01)
+
+- **id**: `watts-rifters-deep-sea-tweaked-biology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter Watts
+- **disclosure**: Peter Watts, Starfish (Tor, 1999, ISBN 978-0312867041), Maelstrom (2001), Behemoth (2004); rifters are surgically and biochemically modified for abyssal work (a machine-lung implant replacing one lung, photophores, oxygenation tweaks), maintained at the deep-sea Beebe Station med-bay; ßehemoth is a primordial nanobe pathogen studied in containment.
+- **ip status**: fictional
+- **prior art notes**: Discloses surgical implantation of a fluid/gas-handling lung-replacement implant for pressure adaptation, biochemical modification of oxygen metabolism, a perfusion-equipped station med-bay, and BSL pathogen containment. Cited aspects: the implanted fluid/gas-handling lung-cavity device and the surgical-plus-biochemical environment-adaptation workflow. Anticipates generic claims to implantable fluid/gas-management respiratory devices and to combined surgical/biochemical physiological-adaptation procedures. Pairs with watts-blindsight-theseus-medbay-vampire-revival and abyss-style fictional entries.
 
 ## Inca Digital Onset / Onset X Flatbed Industrial UV Inkjet Press (2000)
 
@@ -294,6 +414,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Eric Nylund, Halo: The Fall of Reach (Del Rey 2001); Halo: Ghosts of Onyx (Del Rey 2006) ISBN 978-0-7653-5470-4 — Castle Base ONI lab description; Halo Encyclopedia (DK 2009/2022).
 - **ip status**: fictional
 - **prior art notes**: ONI Section III biolabs are repeatedly described as a multi-tier bio-containment facility supporting the augmentation pipeline (Project ORION, SPARTAN-II, SPARTAN-III) and Forerunner artifact analysis. Reads as a fictional analog to a high-containment government research microfluidics facility, with discrete reagent supply, reagent QC, batch genealogy tracking, and per-subject dose tailoring. Defensive prior art for: secure facility-scale reagent provenance tracking integrated with subject medical records; per-subject dose tailoring driven by genomic compatibility QC; multi-tier bio-containment architectures with shared reagent banks.
+
+## Copper-interconnect electroplating bath chemistry point-of-use dosing system (2001-03-27)
+
+- **id**: `copper-electroplating-bath-point-of-use-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Lam Research (Novellus SABRE), Applied Materials (Raider/Slim Cell), ASMPT/Semsysco; bath chemistry by DuPont (MacDermot/Enthone), Atotech (MKS), Dow
+- **disclosure**: US6207049B1 / US6258220B1 Electro-chemical deposition system and method of electroplating on substrates (Novellus / Lam); accelerator/suppressor dosing per Andricacos et al., Damascene copper electroplating for chip interconnections, IBM J. Res. Dev. 1998.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic chemistry-management module for damascene copper plating: metering-pump dosing of microliter additive shots with CVS-feedback replenishment, inline micromixing, and microchannel flow conditioning. Anticipates claims to (a) closed-loop organic-additive replenishment of an electroplating bath by voltammetric feedback; (b) point-of-use blending of accelerator/suppressor/leveler immediately upstream of a plating cell; (c) microchannel diffuser conditioning of cross-wafer flow uniformity. Prior art for Atotech/MKS, DuPont and tool-OEM plating-chemistry-control patents.
 
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
@@ -355,6 +485,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Pluto depicts robot body restoration in a fluid-filled chamber: cooled polymer bath, multi-channel reagent supply, memory-stack preservation throughout. Anticipates: robot/synthetic body restoration in fluid-filled chambers with polymer-substrate cooling and integrated memory-preservation; useful prior art for 'synthetic-body restoration chamber with cooled polymer bath and memory-stack preservation' claims.
 
+## FIB-SEM and TEM-lamella semiconductor failure-analysis sample-prep fluidic handling (KLA / Onto / Thermo Fisher class) (2003-07-08)
+
+- **id**: `semiconductor-fib-sem-cross-section-sample-prep-fluidics`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Thermo Fisher Scientific (FEI Helios), KLA (former 4D / ICOS metrology), Onto Innovation, Hitachi High-Tech, Carl Zeiss; chemistry/etchant cells by Oxford Instruments, SELA
+- **disclosure**: US6589709B1 / US6926935B2 Gas injection system for FIB / charged-particle-beam deposition and etching (FEI, now Thermo Fisher); see also Giannuzzi & Stevie, Introduction to Focused Ion Beams, Springer 2005.
+- **ip status**: patented
+- **prior art notes**: Discloses capillary-needle vapor-dosing microfluidics and localized liquid wet-etch microcells used in semiconductor failure analysis: metered precursor/etchant delivery to a sub-micron working point, plus microliter acid decapsulation. Anticipates claims to (a) capillary gas-injection metering of precursor/etchant to a charged-particle-beam target; (b) gas-assisted selective etching/deposition with imaging endpoint feedback; (c) localized acid microcell decapsulation of a packaged die. Prior art for FEI/Thermo Fisher, Zeiss and Oxford Instruments GIS patents.
+
+## Hong and Quake 2003 integrated nanoliter systems (2003-10-01)
+
+- **id**: `hong-quake-2003-integrated-nanoliter-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hong, J. W.; Quake, S. R. Integrated nanoliter systems. Nat. Biotechnol. 2003, 21, 1179-1183. DOI: 10.1038/nbt871
+- **ip status**: public-domain
+- **prior art notes**: The canonical mid-period statement of microfluidic large-scale integration: assembling thousands of monolithic-membrane valves into multiplexers, peristaltic pumps, rotary mixers, on-chip columns and addressable chamber arrays for nanoliter-scale biochemistry and genomics. Discloses (in a unified review form) the multiplexer scheme that addresses N independent fluidic lines with order log2(N) control inputs, the integration of metering/mixing/incubation/separation modules on a single PDMS chip, and the architecture later commercialized as the Fluidigm dynamic-array / Stanford Microfluidics Foundry platform (cf. fluidigm-patent-family-biomark-dynamic-array, quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates claims to: combinatorial multiplexer addressing of valve arrays; integrated nanoliter reaction-array chips; and chip-scale automation of multi-step biochemical workflows.
+
 ## Battlestar Galactica Cylon resurrection tank (re-imagined series) (2004)
 
 - **id**: `bsg-cylon-resurrection-tank`
@@ -364,6 +514,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Battlestar Galactica miniseries (Sci Fi Channel 2003); resurrection tank introduced in 'Resistance' (2005); detailed in 'Downloaded' (2006) and 'Hero' (2006).
 - **ip status**: fictional
 - **prior art notes**: Iconic explicit fluid-cloning depiction. The resurrection tank is depicted as a translucent vat filled with viscous nutrient/regenerative fluid, in which a Cylon's downloaded consciousness manifests in a freshly-grown body. The 'Downloaded' episode (S2E18, 2006) provides extensive on-screen depictions: vat geometry, fluid-perfusion lines, environmental control, and medical attendants extracting the newly-downloaded Cylon. The 'Hero' (S3E8) episode details the Resurrection Ship infrastructure as an industrialized network of tanks. Architecturally anticipates: closed-vat whole-body biological grow-tank with integrated upload/download interface, mass-resurrection facility with networked tanks, and biological-template + electronic-mind merge facility. Strong fictional prior art for whole-body cloning vats, tied to detailed visual depictions across 4 seasons (2003-2009).
+
+## Studer 2004 scaling properties of a low-actuation-pressure microfluidic valve (2004-01-01)
+
+- **id**: `studer-2004-low-actuation-pressure-microfluidic-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Studer, V.; Hang, G.; Pandolfi, A.; Ortiz, M.; Anderson, W. F.; Quake, S. R. Scaling properties of a low-actuation-pressure microfluidic valve. J. Appl. Phys. 2004, 95, 393-398. DOI: 10.1063/1.1629781
+- **ip status**: public-domain
+- **prior art notes**: Establishes the quantitative design rules for monolithic-membrane (Quake/MLSI) microvalves and introduces the push-up valve geometry that achieves valve closure at sub-1-psi actuation pressures. Discloses: the mechanical model (membrane bending, contact mechanics) relating closure pressure to membrane thickness and channel width; the push-up vs push-down configuration trade-off; and the scaling that makes large valve arrays driven by modest pressure feasible. Anticipates claims to: low-actuation-pressure elastomeric membrane valves; push-up valve geometry; and parametric design methodologies for membrane-deflection microvalves. Core reference for the Stanford Microfluidics Foundry MLSI design-rule documents (cf. hong-studer-quake-2004-nanoliter-nucleic-acid-processor, unger-2000-quake-monolithic-membrane-valve).
+
+## Bosch Denoxtronic urea/DEF (AdBlue) SCR dosing system (2004-05-20)
+
+- **id**: `bosch-denoxtronic-urea-scr-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (Denoxtronic); also Continental/Vitesco, Cummins, Albonair, Tenneco DEF dosing systems
+- **disclosure**: US20040093856A1 / US6928807B2 Method and device for the metered introduction of a reducing agent into an exhaust gas (Robert Bosch GmbH); Denoxtronic technical disclosures circa 2004-2006.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic dosing system: pump pressurization, metering valve, and multi-hole/air-assisted micro-orifice injector delivering microliter urea micro-doses into exhaust gas under NOx-feedback control, with line heating and purge-back. Anticipates claims to (a) closed-loop NOx-proportional urea micro-dosing for SCR; (b) air-assisted micro-orifice urea atomizer; (c) freeze-protection purge-back of a DEF dosing line; (d) urea-quality-sensor-corrected reductant metering. Prior art for Bosch, Continental, Cummins, Albonair DEF-dosing patents.
+
+## Hall-effect thruster xenon proportional flow controller (Bronkhorst/MOOG/VACCO XFC, Busek BHT feed) (2004-07-11)
+
+- **id**: `hall-thruster-xenon-flow-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Moog Inc., VACCO Industries, Bronkhorst, Marotta; thruster makers Busek (BHT), Aerojet Rocketdyne / NASA (HERMeS, AEPS), Safran (PPS), SITAEL
+- **disclosure**: Hofer & Randolph, Mass flow control for Hall thrusters, JANNAF / AIAA Joint Propulsion Conference 2004; see also US7757987B2 Proportional flow control valve (Vacco / Moog-style) and the NASA HERMeS/AEPS xenon feed description in Kamhawi et al., Performance characterization of the 12.5 kW HERMeS Hall thruster, AIAA 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses precise gas mass-flow control by a thermally-throttled viscous-flow micro-restrictor (heated capillary/porous element) plus a proportional valve, with integrated micro-filtration and pressure sensing, split to multiple thruster ports. Anticipates claims to (a) thermal-throttle micro-restrictor xenon flow control for a Hall thruster; (b) split anode/cathode propellant metering module; (c) regulator-plus-restrictor architecture giving tank-pressure-insensitive flow; (d) integrated micro-filter/pressure-sensor flow-control module for electric propulsion. Prior art for Moog, VACCO, Bronkhorst and thruster-OEM xenon-feed patents.
+
+## Combine Overwatch transhuman-conversion surgical line (Half-Life 2) (2004-11-16)
+
+- **id**: `half-life-2-combine-overwatch-transhuman-conversion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Valve Corporation
+- **disclosure**: Half-Life 2 (Valve Corporation, 2004-11-16) and Half-Life 2: Episode One (2006); the Nova Prospekt and Citadel conversion sequences depicting Combine transhuman and stalker surgical processing; IMDB tt0386938.
+- **ip status**: fictional
+- **prior art notes**: Discloses an automated surgical processing line performing serial organ explant and synthetic-implant on a living subject with continuous perfusion and body-fluid exchange to keep the subject viable through the procedure. Cited aspects: the perfusion-during-surgery loop and the assembly-line throughput model; anticipates systems-level claims to automated multi-station surgical platforms with intra-operative fluid management and to throughput-oriented body-modification lines. Pairs with half-life-2-combine-citadel-ration-vat and cyberpunk ripperdoc fictional entries.
+
+## ASML TWINSCAN immersion lithography water-handling hood (2004-11-25)
+
+- **id**: `asml-twinscan-immersion-hood-water-handling`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ASML Holding N.V.
+- **disclosure**: US20040263808A1 / US7193232B2 Lithographic apparatus and device manufacturing method (ASML, immersion lithography liquid supply system); see also Owa & Nagasaka, Immersion lithography: its potential performance and issues, SPIE 2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic meniscus-management hood: an annular supply/extraction microchannel ring delivering and recovering a degassed temperature-controlled liquid film in a sub-millimeter gap, with gas-knife and capillary edge features that pin a moving meniscus. Anticipates claims to (a) confined-meniscus liquid handling between a scanning substrate and an optic; (b) gas-knife/capillary-stop edge sealing of a moving liquid film; (c) point-of-use degassing of an immersion liquid to suppress bubbles; (d) millikelvin thermal conditioning of a thin liquid film for index control. Foundational immersion-fluid-handling prior art; ASML own families build on it but external claims to confined moving menisci are anticipated.
 
 ## ExOne X1-Series Industrial Metal Binder-Jet System (2005)
 
@@ -395,6 +595,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Solid State Society features a child-care network where children's cyberbrains are coupled in a shared fluidic-and-network configuration. Care facility depicted with combined cyberbrain-maintenance reagent supply and shared neural network. Anticipates: multi-subject coupled cyberbrain maintenance facilities with shared reagent reservoirs and shared neural-network coupling; useful prior art for 'multi-subject coupled neural-implant maintenance facility' claims.
 
+## Theseus medbay regeneration pods and the vampire-revival protocol (Peter Watts, Blindsight / Echopraxia) (2006-10-03)
+
+- **id**: `watts-blindsight-theseus-medbay-vampire-revival`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter Watts
+- **disclosure**: Peter Watts, Blindsight (Tor, 2006-10-03, ISBN 978-0765312181) and Echopraxia (Tor, 2014, ISBN 978-0765328021); the starship Theseus medbay regeneration/recovery pods, the resurrection of an extinct predatory hominid subspecies (vampires) and the anti-Crucifix-Glitch drug regimen, and the Bicameral Orders bioengineering facilities.
+- **ip status**: fictional
+- **prior art notes**: Discloses fluid-immersion regeneration pods with perfusion and tissue-repair support, a de-extinction bioprocessing line, and a chronic implant/infusion drug regimen suppressing a physiological glitch. Cited aspects: the fluid-immersion regeneration-pod with perfusion and the chronic-implant-infusion regimen with onset telemetry. Anticipates generic claims to fluid-immersion regenerative-recovery pods and to chronic implantable-infusion-with-monitoring regimens. Pairs with red-rising recovery vats, prometheus-medpod-style entries, and ray-nayler de-extinction-style entries.
+
 ## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
 
 - **id**: `roche-cobas-6000-modular-fluidics`
@@ -425,6 +635,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Stalker games depict Zone scientists collecting anomaly fluids in shielded containment vessels and processing artifact-derived reagents in mobile labs. Stalker medkits use foil-burst single-shot vials. Anticipates: shielded anomaly-fluid collection vessels with handle-and-vacuum operator interface; mobile field-lab artifact reagent extraction equipment; useful prior art for 'shielded hazardous-fluid collection vessel with operator-handle and remote-vacuum interface' claims.
 
+## MEMS cold-gas micro-thruster module for CubeSats (GomSpace/NanoSpace, VACCO ChEMS, Marotta class) (2007-06-01)
+
+- **id**: `cubesat-mems-cold-gas-microthruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: NanoSpace AB (now part of GomSpace), VACCO Industries (ChEMS / Palm-Sized propulsion), Marotta, Bradford; MEMS valves/nozzles fabricated in silicon
+- **disclosure**: Kohler et al., A hybrid cold gas microthruster system for spacecraft, Sensors and Actuators A 97-98, 587 (2002); Gronland et al., Miniaturization of components and systems for space using MEMS technology, Acta Astronautica 61, 228 (2007); see also VACCO/NanoSpace product disclosures.
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-MEMS fluidic chip integrating microvalves, micro-nozzles, micro-filters, micro-heaters and pressure sensors for cold-gas micro-propulsion with proportional throttling and liquefied-propellant vaporization. Anticipates claims to (a) integrated silicon-MEMS cold-gas thruster chip with micro-nozzle and micro-valve; (b) proportional MEMS microvalve for throttleable spacecraft thrust; (c) integrated micro-heater vaporizing a stored liquefied propellant; (d) micro-newton-second impulse-bit cold-gas attitude control. Prior art for NanoSpace/GomSpace, VACCO, Marotta MEMS-propulsion patents.
+
+## Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation (2007-06-01)
+
+- **id**: `melin-quake-2007-microfluidic-large-scale-integration-design-rules`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Stanford
+- **disclosure**: Melin, J.; Quake, S. R. Microfluidic large-scale integration: the evolution of design rules for biological automation. Annu. Rev. Biophys. Biomol. Struct. 2007, 36, 213-231. DOI: 10.1146/annurev.biophys.36.040306.132646
+- **ip status**: public-domain
+- **prior art notes**: The review that explicitly frames microfluidic large-scale integration as having design rules analogous to VLSI: minimum valve dimensions, multiplexer fan-out limits, channel-rounding requirements, push-up vs push-down valve choices, manifold pressure budgets, and the composition rules for assembling valves into pumps, mixers, rotary reactors, micro-columns, addressable chamber arrays, cell traps and MITOMI button cells. As a unified prior-art statement it anticipates claims to: parametric/rule-based design methodologies for elastomeric valve arrays; the standard MLSI primitive library; and software-assisted layout of multilayer soft-lithography chips. Core reference document for the Stanford Microfluidics Foundry (companion to hong-quake-2003-integrated-nanoliter-systems and studer-2004-low-actuation-pressure-microfluidic-valve).
+
+## Smiths Detection LCD 3.3 lightweight chemical-warfare-agent detector (2007-06-12)
+
+- **id**: `smiths-detection-lcd-3-3-chemical-agent-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection LCD 3.3 / JCAD product disclosures and US DoD JCAD program documentation, mid-2000s; underlying ion-mobility CWA-detection patents incl. US7045776B2 (Smiths) ion mobility spectrometer with planar electrodes and US6822226B2 (Smiths) portable ion mobility detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a miniaturized recirculating-purified-drift-gas ion-mobility (and differential-mobility) micro-gas-flow cell with a dryer membrane and millisecond ion gating for continuous CWA detection in a worn package. Anticipates claims to (a) portable recirculating-drift-gas IMS/DMS chemical-agent detector; (b) membrane-dryer-conditioned air inlet to a miniature IMS cell; (c) dual-polarity continuous CWA monitoring with on-board library; (d) FAIMS/DMS micro-channel chemical-warfare-agent sensor. Prior art for Smiths, Bruker (RAID), Environics and competing CWA-detector patents.
+
 ## Durst Rho with Quadro Array Printheads (2008)
 
 - **id**: `durst-quadro-array-rho-printer`
@@ -444,6 +684,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Forge World Imperial Armour Volume 1 (2nd Edition) (Forge World 2012); Black Library Horus Heresy: Mechanicum (Graham McNeill 2008) ISBN 978-1-84416-655-3; Adeptus Titanicus rulebook (Games Workshop 2018).
 - **ip status**: fictional
 - **prior art notes**: Princeps amniotic tanks depicted in canon as full-body immersion vessels with continuous oxygenated-amniotic perfusion, MIU neural interface, and waste-removal manifold for long-duration titan-piloting (days to weeks). Forge World Imperial Armour cross-sections show pump rooms, reservoir tanks, and reagent-cycling architecture. Anticipates: long-duration full-body human-immersion bioreactor with neural-interface coupling; pilot-life-support architecture combining circulation, oxygenation, waste filtration, and reagent supply over multi-day timescales; useful prior art for any 'multi-day human-immersion life-support bioreactor with neural interface' claim.
+
+## EV traction-inverter power-module microchannel cold plate (pin-fin / ShowerPower-class) (2008-06-12)
+
+- **id**: `ev-power-electronics-microchannel-cold-plate`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Danfoss Silicon Power (ShowerPower), Semikron, Infineon (HybridPACK), Wolfspeed, Hitachi, Toyota/Denso power-control units; cold plates by Wieland, Mersen
+- **disclosure**: US20080144291A1 / US7393226B2 Power module assembly with integrated micro/mini-channel cooler (Semikron / DenmarkPower-class disclosures); see also Schulz-Harder, Efficient cooling of power electronics, 2008 PCIM; Danfoss ShowerPower cooling concept.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel/pin-fin liquid cooling integrated with a power-semiconductor baseplate or substrate, including distributed-jet architectures for uniform coolant temperature. Anticipates claims to (a) pin-fin baseplate microchannel cooler for an IGBT/SiC module; (b) direct-substrate (baseplate-less) microchannel cooling of power dies; (c) distributed parallel-jet (ShowerPower-type) cooler for uniform die temperature; (d) shared-manifold multi-module inverter cooler. Prior art for Danfoss, Semikron, Infineon, Toyota/Denso power-module cooling patents.
+
+## Automotive PEM fuel-cell bipolar-plate microchannel flow field (Toyota Mirai / Hyundai NEXO class) (2008-12-23)
+
+- **id**: `toyota-mirai-fuel-cell-bipolar-plate-flow-field`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Toyota Motor Corporation (Mirai), Hyundai/Kia (NEXO), Honda, Ballard, Plug Power/Hydrogenics; plate forming by Dana, Borit, Gräbener
+- **disclosure**: US7470483B2 / US20090029235A1 Fuel cell separator and fuel cell (Toyota Motor Corp.); see also Yoshida & Kojima, Toyota MIRAI fuel cell vehicle and progress toward a future hydrogen society, Electrochem. Soc. Interface 24(2), 45 (2015).
+- **ip status**: patented
+- **prior art notes**: Discloses bipolar plates bearing sub-millimeter reactant and coolant microchannel networks, including 3D lattice cathode flow fields for oxygen transport and water removal, stacked in series - microchannel fluid distribution at stack scale. Anticipates claims to (a) microchannel flow-field bipolar plate for a PEM fuel cell; (b) 3D mesh/lattice cathode flow field for enhanced O2 transport and water management; (c) interleaved coolant microchannel network in a stamped metal bipolar plate. Prior art for Toyota, Hyundai, Honda, GM, Ballard fuel-cell-plate patents.
 
 ## Roche Cobas u 411 Urine Test Strip Reflectance Fluidic Path (2009)
 
@@ -495,6 +755,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses (a) a subdermal/intra-osseous nanofluid reservoir that stores a deployable structure and extrudes it on command, and (b) an injected nano-agent that rewrites a body to a stored schematic via its own repair pathways over a documented timed reconfiguration. Anticipates generic claims to subdermal nanofluid reservoirs with on-demand extrusion and to schematic-driven somatic-reconfiguration injectables with timed reconfiguration. Extends the existing iron-man-extremis-injection entry with the Bleeding Edge subdermal-storage subsystem and the explicit injection-sequence detail. Pairs with iron-man-extremis-injection, doctor-who-empty-child-nanogene-rewrite, and bioshock-plasmid-injection.
 
+## Green monopropellant feed and microcatalyst-bed thruster (ECAPS LMP-103S High Performance Green Propulsion; NASA/Aerojet AF-M315E / ASCENT) (2010-05-04)
+
+- **id**: `green-monopropellant-feed-lmp103s-afm315e`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ECAPS / Bradford Space (LMP-103S HPGP thrusters), NASA Glenn / Air Force Research Laboratory and Aerojet Rocketdyne (AF-M315E / ASCENT, GPIM mission)
+- **disclosure**: Anflo & Crowe, In-space demonstration of an ADN-based propulsion system on the PRISMA satellite, AIAA 2011; patent SE527942C2 / US7757476B2 Method and device for a propulsion system (ECAPS / Swedish Space Corp.); NASA GPIM AF-M315E thruster: Spores et al., GPIM AF-M315E propulsion system, AIAA 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic feed of an ionic-liquid green monopropellant through a fast flow-control valve and fine injector into a heated microcatalyst reaction bed, with bed pre-heating, in pulse and continuous modes - flight-demonstrated. Anticipates claims to (a) ADN- or HAN-based ionic-liquid monopropellant thruster with a heated catalyst microbed; (b) drop-in green replacement for a hydrazine attitude-control feed system; (c) catalyst-bed pre-heat for cold-start of an ionic-liquid monopropellant thruster; (d) pulse-mode micro-impulse operation of a green-monopropellant thruster. Prior art for ECAPS/Bradford and Aerojet/AFRL green-propulsion patents.
+
+## Kateeva YIELDjet inkjet OLED thin-film deposition system (2010-06-10)
+
+- **id**: `kateeva-yieldjet-inkjet-oled-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Kateeva, Inc.
+- **disclosure**: US20100143581A1 / US8235487B2 Method and apparatus for load-locked printing (Kateeva, Inc.); see also Madigan et al., Advancements in inkjet printing for OLED mass production, SID Symposium Digest 2014.
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial drop-on-demand microfluidic printhead system depositing functional organic semiconductor and barrier inks into patterned banks under inert atmosphere with vision-feedback drop control. Anticipates claims to (a) inkjet deposition of OLED emissive layers into sub-pixel banks; (b) load-locked inert-atmosphere inkjet printing of moisture-sensitive films; (c) closed-loop per-nozzle drop-volume compensation guided by inline film-thickness metrology; (d) inkjet-printed thin-film encapsulation of an OLED. Prior art for TCL/CSOT, JOLED, Samsung Display and Tianma inkjet-OLED process patents.
+
 ## Beckman Coulter AU5800 Clinical Chemistry Analyzer Cuvette Wheel (2011)
 
 - **id**: `beckman-coulter-au5800-cuvette-wheel`
@@ -524,6 +804,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011); recurring through all 9 novels and 6 TV seasons. Notable scenes: Naomi decompression treatment S5E8 'Hard Vacuum' (Amazon 2021-01-13); Bobbie Draper post-combat triage S6E2 'Azure Dragon' (2021-12-17).
 - **ip status**: fictional
 - **prior art notes**: Depicts a small-crew vessel medbay as an integrated patient bed with overhead reagent reservoirs, IV manifolds, automated injection ports, and continuous biometric monitoring closing dose decisions in software. The Naomi decompression-recovery scene specifically shows oxygenated-saline perfusion delivered automatically. Anticipates: self-contained shipboard auto-doc bays with reservoir + manifold + closed-loop biometric dose control; modular reagent cartridges that snap into a manifold; software-titrated continuous infusion driven by physiological sensors. Useful prior art for any 'reagent-cartridge driven autonomous medical bed' patent claim.
+
+## Lithium-ion battery cell electrolyte filling and wetting station (2011-06-30)
+
+- **id**: `ev-battery-electrolyte-filling-station`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: battery-cell makers (Tesla/Panasonic, CATL, LG Energy Solution, SK On, Samsung SDI) and equipment OEMs (Manz, Dürr Megtec, Wuxi Lead, Hirano Tecseed, Schuler/AIDA)
+- **disclosure**: US20110162202A1 / DE102009060800A1 Method and device for filling electrochemical cells (battery cell electrolyte filling under vacuum); see also Knoche, Surm & Reinhart, A process model for the electrolyte filling of lithium-ion batteries, Procedia CIRP 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic-dosing process: positive-displacement metering of a volatile electrolyte through a fine fill port into an evacuated cell, with vacuum/pressure-cycle wetting and closed-loop dose/seal verification. Anticipates claims to (a) vacuum-assisted metered electrolyte injection into a sealed cell; (b) pressure-cycle wetting protocol for a porous electrode stack; (c) gravimetric closed-loop dose verification with under/overfill rejection; (d) inert-environment fine-needle electrolyte fill of a pouch/prismatic cell. Prior art for cell-maker and equipment-OEM electrolyte-filling patents.
+
+## Tritium permeation and extraction microfluidic cell (fusion fuel cycle / breeding-blanket processing) (2011-10-01)
+
+- **id**: `tritium-permeation-microfluidic-cell-fusion-fuel-cycle`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: fusion-research institutions (Idaho National Laboratory; CIEMAT, Spain; KIT, Germany; ENEA, Italy; UKAEA; ITER Organization)
+- **disclosure**: Humrickhouse & Merrill, Vacuum permeator analysis for extraction of tritium from DCLL blankets, Fusion Sci. Technol.; see also Garcinuno et al., Design of a permeator-against-vacuum mockup for tritium extraction from lead-lithium, Fusion Eng. Des.; ITER tritium plant design reports.
+- **ip status**: patented
+- **prior art notes**: Discloses thin-membrane microchannel/capillary permeator and stripper units for extracting tritium from helium purge gas or liquid lithium-lead under a vacuum sink, with high surface-area-to-volume contacting and numbering-up. Anticipates claims to (a) microchannel membrane permeator for tritium extraction from a fusion-blanket purge stream; (b) microchannel/capillary contactor stripping tritium from flowing PbLi; (c) numbered-up small permeator array for a fusion fuel-cycle tritium plant; (d) microchannel test cell for membrane-material screening for hydrogen-isotope permeation. Prior art for fusion-research and tritium-plant permeator patents.
 
 ## FUJIFILM Dimatix Samba G3L Single-Pass MEMS Printhead (2012)
 
@@ -615,6 +915,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Talos Principle's underlying simulation infrastructure depicted as a planet-scale datacenter with AI-host life-support fluidics: liquid cooling, datacenter-grade flow systems supporting the AI hosts. Anticipates: planet-scale datacenter cooling and life-support fluid systems for hosted-mind / brain-emulation infrastructure; useful prior art for 'datacenter-scale fluid management for hosted brain-emulation infrastructure' claims.
 
+## The Carving bio-augmentation surgery and Color-engineering resurrection vats (Pierce Brown, Red Rising) (2014-01-28)
+
+- **id**: `pierce-brown-red-rising-carving-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Pierce Brown
+- **disclosure**: Pierce Brown, Red Rising (Del Rey, 2014-01-28, ISBN 978-0345539786) and sequels (Golden Son 2015, Morning Star 2016, Iron Gold 2018, Dark Age 2019, Light Bringer 2023); the Carvers surgically and genetically re-engineer a person between Colors (notably Darrows transformation from a Red to a Gold) and operate resurrection/recovery vats.
+- **ip status**: fictional
+- **prior art notes**: Discloses a surgical suite performing whole-body remodeling under perfusion plus injectable/electroporated somatic gene-rewrite payloads plus fluid-filled recovery vats for reconstruction and revival. Cited aspects: the perfusion-supported whole-body remodeling suite and the fluid-filled recovery-vat for post-procedure sustainment/revival. Anticipates generic claims to perfusion-supported whole-body surgical-remodeling platforms and to fluid-immersion recovery/revival vats. HIGH 102 value: the Carving is a central, named, mechanically detailed element. Pairs with poor-things-godwin-baxter-surgical-lab, half-life-2-combine-overwatch-transhuman-conversion, and prometheus-medpod-style entries.
+
 ## 10x Genomics Chromium GEM-X Bead-Barcoding Patent Family (2014-04-10)
 
 - **id**: `tenx-genomics-chromium-gem-patent-family`
@@ -624,6 +934,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US10221442 priority 2012-04-10 (Broad-licensed); 10x-internal: US9694361; US9701957; US10357771; US10752950; US11248267 (10x Genomics)
 - **ip status**: patented
 - **prior art notes**: 10x Genomics Chromium / GEM (Gel-bead-in-Emulsion) patent family. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded gel bead and lysis reagents in an aqueous droplet within fluorinated oil; (b) gel-bead chemistry releasing barcoded primers in-droplet; (c) cell-barcode + UMI + capture-sequence architecture; (d) recovery of barcoded cDNA for bulk library construction; (e) Chromium chip and Chromium X instrument hardware. Several family members (notably US10221442) trace to Broad Institute Macosko / Drop-seq priority that 10x licensed. Anticipates and is anticipated by Quake/Stanford bead-droplet single-cell family (quake-patent-family-bead-droplet-single-cell). Companion existing entries: 10x-genomics-chromium-controller, macosko-2015-drop-seq.
+
+## Haden syndrome neural-network implant and threep maintenance/medical infrastructure (John Scalzi, Lock In / Head On) (2014-08-26)
+
+- **id**: `scalzi-lock-in-haden-syndrome-threep-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John Scalzi
+- **disclosure**: John Scalzi, Lock In (Tor, 2014-08-26, ISBN 978-0765375865) and Head On (Tor, 2018, ISBN 978-0765388896); Haden-syndrome survivors are locked into immobile bodies and operate robotic Personal Transports (threeps) via an implanted neural network; the books depict the implant surgery, the locked-in bodys life-support/perfusion care, threep maintenance bays, and Integrator (human-host) medical setups.
+- **ip status**: fictional
+- **prior art notes**: Discloses a cortex-distributed neural-network implant for robotic-body teleoperation plus chronic life-support care of the immobilized body (perfusion, feeding, ventilation, waste management) plus robotic-body maintenance bays. Cited aspects: the chronic multi-line life-support care setup for a locked-in body and the cortex-distributed implant for teleoperation. Anticipates generic claims to integrated chronic life-support care platforms and to distributed-cortical-implant body-teleoperation interfaces. HIGH 102 value: the syndrome/implant is the central premise. Pairs with possessor-neural-implant-assassination-rig, naam-nexus-trilogy-implant, and after-yang-techno-sapien-repair-shop.
+
+## Smiths Detection IONSCAN 600 explosives and narcotics trace detector (2014-09-23)
+
+- **id**: `smiths-detection-ionscan-600-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection IONSCAN 600 product release / FCC and TSA qualification, 2014; underlying ion-mobility-spectrometry trace-detection patents incl. US7397026B2 (Smiths) ion mobility spectrometer and US8217341B2 (Smiths) sample swab and trace detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a thermal-desorption swab inlet feeding a controlled drift-gas/dopant micro-gas-flow ion-mobility drift cell with millisecond ion gating and a recirculating sieve-pack gas purifier - a micro-gas-flow analytical architecture. Anticipates claims to (a) swab thermal-desorption inlet to an ion-mobility trace detector; (b) recirculating purified-drift-gas IMS cell needing no external gas; (c) dual-polarity single-run IMS trace detection of explosives and narcotics; (d) non-radioactive ionization in a portable IMS detector. Prior art for Smiths, Bruker, MorphoTrak/Idemia and L3 explosives-trace-detector patents.
+
+## Citadel Aqua-Cola dispensing and Mothers Milk extraction apparatus (Furiosa / Mad Max: Fury Road) (2015-05-15)
+
+- **id**: `furiosa-citadel-aqua-cola-mothers-milk-extraction`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: George Miller / Warner Bros.
+- **disclosure**: Mad Max: Fury Road (George Miller; Warner Bros., 2015-05-15) and Furiosa: A Mad Max Saga (2024); the Citadels Aqua-Cola release valves and the Mothers Milk extraction operation where captive women are mechanically milked into collection vessels; IMDB tt1392190, tt12037194.
+- **ip status**: fictional
+- **prior art notes**: Discloses metered high-pressure fluid-dispensing valves, mechanical suction-milking extraction rigs feeding bulk collection tanks, and direct line-and-bag blood-transfusion rigs. Cited aspects: the multi-station mechanical suction-extraction rig with bulk collection and the direct donor-to-recipient line-and-bag transfusion. Anticipates generic claims to multi-station suction-milking/extraction apparatus with pooled collection and to point-of-use direct-transfusion line sets. Borderline (macro-scale post-apocalyptic gear), but the extraction-and-collection and transfusion-line archetypes are concrete. Pairs with promare-burnish-promare-flame-research (confine-and-extract archetype).
 
 ## Heidelberg Primefire 106 B1 Sheetfed Inkjet Press (2016)
 
@@ -644,6 +984,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aerosint SA founding 2016 (Herstal, Belgium); patent EP3393689B1 / US patents on selective powder deposition; aerosint.com/about/
 - **ip status**: patented
 - **prior art notes**: Discloses a recoater architecture for additive manufacturing in which one or more rotating drums each carry a single powder material and selectively release particles in a programmed pattern as the drum traverses the build area, enabling multiple powder materials to be co-deposited in a single layer. Anticipates: (a) the SPD class of multi-powder recoaters as an upstream partner to binder-jet and L-PBF systems, (b) drum-based programmable powder release as an alternative to per-feed-line powder switching, (c) line-by-line patterning rates compatible with industrial AM process windows. Predicate to subsequent multi-material binder-jet machines and to Schaeffler's industrial powder-bed multi-material systems.
+
+## Green Poison (Dollar Bill) virus research and JTF decontamination labs (Tom Clancys The Division) (2016-03-08)
+
+- **id**: `the-division-green-poison-cdc-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Massive Entertainment / Ubisoft
+- **disclosure**: Tom Clancys The Division (Massive Entertainment / Ubisoft, 2016-03-08); the CDC/research-wing missions, the antiviral-research labs, and the Dark Zone decontamination airlocks; IMDB tt3636822.
+- **ip status**: fictional
+- **prior art notes**: Discloses a biocontainment-research environment with bench sample-handling for an engineered pathogen, an antiviral-development workflow, automated decontamination airlocks with spray manifolds, and metered single-dose field injectors. Cited aspects: the automated multi-stage decon-airlock spray manifold and the metered single-dose field injector. Anticipates generic claims to automated decontamination spray chambers with staged cycles and to compact metered-dose emergency injectors. Pairs with andromeda-strain-isolation-chamber and resident-evil-style fictional bio-lab entries; the field injector pairs with fallout-stimpak-autoinjector.
 
 ## Toshiba TEC CF3/CF3R Recirculating Piezo Industrial Printhead (2017)
 
@@ -735,6 +1085,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Starfinder rules detail starship medical bays as a class of modular ship modifications: reagent rack, biotech bed, trauma kit add-ons. Anticipates: modular ship-medical-bay components with standardized reagent supply interfaces; tiered medbay capability mapped to module count; useful prior art for 'modular medbay with standardized reagent interface for cross-platform retrofit' claims.
 
+## Charles River Endosafe nexgen-MCS Multi-Cartridge System (2018)
+
+- **id**: `charles-river-endosafe-nexgen-mcs`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe nexgen-MCS product datasheet and 21 CFR Part 11 software documentation (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses an instrument that drives multiple Endosafe LAL endotoxin cartridges in parallel, each with its own pump and temperature-controlled optical bay, for higher-throughput pharmacopeial bacterial endotoxin testing. Anticipates: multi-bay readers for disposable optical-read assay cartridges with independent fluid actuation per bay; the productized scale-up of a single-cartridge stat assay to a small parallel array. Relies on the same cartridge prior art as charles-river-endosafe-nexgen-pts-lal-cartridge.
+
+## ThrustMe NPT30-I2 iodine electric propulsion system (2018-10-15)
+
+- **id**: `thrustme-npt30-i2-iodine-electrothermal-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ThrustMe (spun out of Ecole Polytechnique / LPP-CNRS)
+- **disclosure**: Rafalskyi et al., In-orbit demonstration of an iodine electric propulsion system, Nature 599, 411 (2021); patent family WO2019/030035A1 / EP3650351 Propulsion system using a solid propellant (ThrustMe).
+- **ip status**: patented
+- **prior art notes**: Discloses a vapor-microfluidic propellant feed: a heated solid-iodine reservoir whose sublimated vapor is metered to a thruster purely by temperature control of small-bore heated channels and a thermal restrictor/valve. Anticipates claims to (a) solid-propellant (iodine) electric thruster with a heated-reservoir sublimation feed; (b) thermally-throttled vapor mass-flow control via heated micro-channel conductance; (c) tankless, regulator-free propellant feed for a small-satellite thruster; (d) shared iodine-vapor feed serving both gridded-ion and cold-gas modes. Prior art for ThrustMe and other iodine-propulsion patents.
+
+## APX03 bunker embryo-bank and ectogenesis nursery (I Am Mother, 2019) (2019-01-25)
+
+- **id**: `i-am-mother-apx03-ectogenesis-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Grant Sputore / Netflix
+- **disclosure**: I Am Mother (Grant Sputore; premiered Sundance 2019-01-25; Netflix 2019); the APX03 bunker stores thousands of human embryos and an automated caretaker robot (Mother) gestates them in a chamber, raising the child from an artificial-womb growth process; IMDB tt6292852.
+- **ip status**: fictional
+- **prior art notes**: Discloses an automated facility coupling a cryogenic embryo bank to a perfused robot-operated gestation chamber and a monitored incubator/nursery stage, end-to-end. Cited aspects: the cryo-bank-to-perfused-gestation-chamber-to-incubator pipeline and the robot-operated select-implant-gestate-rear automation. Anticipates generic claims to integrated embryo-bank-plus-ectogenesis pipelines and to automated gestation-chamber control architectures. HIGHEST 102 value: the entire film is built around this facility. Pairs with the-pod-generation-womb-center-ectogenesis-pod, battletech-clan-iron-womb-medical, and brave-new-world-bokanovsky-process.
+
+## Foresight Foundation Promare/Burnish-energy research and Parnassus combustion apparatus (Promare) (2019-05-24)
+
+- **id**: `promare-burnish-promare-flame-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Studio Trigger
+- **disclosure**: Promare (Studio Trigger / XFLAG, 2019-05-24); the Foresight Foundations research into Burnish biology and the Promare flame-life, the energy-extraction apparatus, and the Burnish-restraint facilities; IMDB tt8694138.
+- **ip status**: fictional
+- **prior art notes**: Discloses restraint cells coupled to apparatus that extracts and concentrates a biological energy output from confined subjects, feeding a downstream engine. Cited aspect: the confine-subject-then-extract-and-concentrate-its-output-to-a-downstream-process archetype. Anticipates generic claims to biological-output harvesting with confinement-and-extraction coupling. Borderline (the output is fantastical flame), but the harvest-from-confined-organism archetype is concrete. Pairs with furiosa-style Mothers-Milk extraction fictional entries and warframe-helminth-infested-biology-system.
+
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 
 - **id**: `mars2020-pixl-fluidic-flush`
@@ -784,6 +1174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vizgen MERSCOPE product launch press release 2021-05-19. https://vizgen.com/. Chen, K. H. et al. Spatially resolved, highly multiplexed RNA profiling in single cells. Science 2015, 348, aaa6090. DOI: 10.1126/science.aaa6090.
 - **ip status**: patented
 - **prior art notes**: Commercial MERFISH (Multiplexed Error-Robust FISH) platform from the Zhuang lab spinout. A perfusion flow cell over the tissue cycles fluorescent readout probes; combinatorial barcodes encoded across N rounds yield 2^N - error-corrected transcript identities. Anticipates: error-robust combinatorial in-situ hybridization-cycle architectures distinct from CosMx (which uses encoded probe pools differently); the architectural pattern of an open-top perfusion chamber clamped over a slide for many-cycle in-situ fluorescence.
+
+## Reminiscence memory-immersion sensory-deprivation tank (Reminiscence, 2021) (2021-08-20)
+
+- **id**: `reminiscence-memory-immersion-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lisa Joy / Warner Bros.
+- **disclosure**: Reminiscence (Lisa Joy; Warner Bros. / HBO Max, released 2021-08-20); Nick Bannister operates a fluid-filled sensory-deprivation immersion tank wired to a console that lets a client (or interrogation subject) relive recorded memories, projected holographically; IMDB tt2724064.
+- **ip status**: fictional
+- **prior art notes**: Discloses a fluid-filled sensory-deprivation immersion chamber with a closed-loop bath-temperature/level life-support system and an integrated head-mounted neural interface to an external console. Cited aspects: the warmed buoyant immersion bath with closed-loop fluid maintenance and the immersion-chamber-plus-neural-interface integration. Anticipates generic claims to temperature/level-regulated immersion-bath enclosures and to immersion-tank-coupled neural-interface workstations. Pairs with the-matrix-bio-pod-style and recursion-pharma-extend fictional entries.
 
 ## Star Wars Andor Narkina-5 detention medical and Eye-of-Niamos medical (2022)
 
@@ -845,6 +1245,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Successor flow cell generation to R9.4.1, with the R10.4.1 pore (a dual-reader CsgG-derived protein pore) integrated into the same MinION/GridION/PromethION housing. The fluidic and electronic architecture - lipid bilayer over a MEMS sensor array, ASIC-based real-time current readout - is unchanged; the innovation is the pore itself plus ATP-driven motor changes. Anticipates: per-pore accuracy improvements via dual-reader pores; the architectural pattern of in-place pore upgrades within the same flow cell housing across multiple kit generations.
 
+## Sark autopsy/surgery beds, OrchidBed, and BreakFaster chair (Crimes of the Future, 2022) (2022-05-23)
+
+- **id**: `crimes-of-the-future-sark-surgical-units`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Cronenberg / Neon
+- **disclosure**: Crimes of the Future (David Cronenberg; Neon, premiered Cannes 2022-05-23, theatrical 2022); the Sark surgical/autopsy module, the OrchidBed sleep-pod, the BreakFaster eating chair, and the National Organ Registry tattoo-and-catalog of new organs; IMDB tt14549466.
+- **ip status**: fictional
+- **prior art notes**: Discloses a remote-operated multi-arm surgical/autopsy module with intra-operative perfusion/fluid management, a body-monitoring adaptive sleep-pod, and a tattoo-and-catalog organ-registry workflow. Cited aspects: the remote multi-arm surgical module with intra-operative fluid management and the adaptive body-monitoring pod. Anticipates generic claims to remote-operated multi-arm surgical platforms with integrated perfusion and to occupant-adaptive monitoring pods. Pairs with poor-things-godwin-baxter-surgical-lab and prometheus-medpod-style fictional entries.
+
+## MobiPak wearable microfluidic drug-dispenser backpack (Spiderhead, 2022) (2022-06-17)
+
+- **id**: `spiderhead-mobipak-drug-dispenser-backpack`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Joseph Kosinski / Netflix
+- **disclosure**: Spiderhead (Joseph Kosinski; Netflix, released 2022-06-17; based on George Saunders short story Escape from Spiderhead, The New Yorker 2010-12-13); the MobiPak, a small surgically attached backpack of drug reservoirs that doses the wearer on remote command via a phone-controlled valve manifold; IMDB tt9783600.
+- **ip status**: fictional
+- **prior art notes**: Discloses a wearable, body-attached multi-reservoir microfluidic drug-delivery pack with a multiport valve manifold, individually addressable reservoirs, remote dose/rate command over a wireless link, an indwelling delivery cannula, and a consent-acknowledgement release gate. Cited aspects: the body-worn multi-reservoir addressable-dispenser form factor, the remote dose-and-rate command architecture, and the consent-gated release interlock. Anticipates generic claims to wearable programmable multi-drug infusion packs, to remotely commanded individually-addressable-reservoir dosing systems, and to consent-interlocked drug-release devices. HIGHEST 102 value: the entire film centers on this wearable microfluidic dispenser; the 2010 Saunders story is the dated literary antecedent. Pairs with abbott-freestyle-libre-cgm and insulin-patch-pump prior art and with fictional auto-injector entries.
+
 ## Star Wars IG-12 droid suit medical capabilities (2023)
 
 - **id**: `star-wars-ig-12-medical-mode`
@@ -864,6 +1284,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Final Fantasy XVI (Square Enix 2023-06-22), Mothercrystal arc and Drake's Spine sequence.
 - **ip status**: fictional
 - **prior art notes**: Mothercrystals are immense crystalline reservoirs that store and dispense aether (fluid energy substrate). Industrial extraction pipelines visualized in Drake's Spine. Anticipates: crystalline reservoir + industrial extraction pipeline architectures for energy-fluid harvesting; useful prior art for 'large-volume crystalline reservoir with metered industrial extraction' claims.
+
+## Womb Center detachable artificial-womb pod (The Pod Generation, 2023) (2023-01-19)
+
+- **id**: `the-pod-generation-womb-center-ectogenesis-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sophie Barthes
+- **disclosure**: The Pod Generation (Sophie Barthes; premiered Sundance 2023-01-19; theatrical 2023); the Womb Center provides a portable egg-shaped artificial-womb pod that gestates a fetus with a nutrient/perfusion system, a status display, and home-or-clinic docking; IMDB tt15384502.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable, detachable artificial-womb pod: a sealed vessel with a recirculated amniotic-like perfusion loop (nutrient delivery, oxygenation, waste removal), an umbilical feed, fetal-vitals telemetry, clinic docking, and embryo implant/term extraction. Cited aspects: the portable detachable ectogenesis pod with recirculated perfusion and the implant-gestate-extract workflow. Anticipates generic claims to portable artificial-womb perfusion systems and to detachable gestation-pod docking/monitoring architectures. HIGHEST 102 value: the entire film is built around this pod. Pairs with i-am-mother-apx03-ectogenesis-facility, battletech-clan-iron-womb-medical, and emulate-organ-on-chip-platform (as the bench-scale analogue).
+
+## Facility 3826 Polymer synthesis and robot-manufacture vats (Atomic Heart) (2023-02-21)
+
+- **id**: `atomic-heart-polymer-robot-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Mundfish
+- **disclosure**: Atomic Heart (Mundfish / Focus Entertainment, 2023-02-21); the Polymer production facilities, the robot-assembly vats, and the Polymer-based healing/upgrade stations; IMDB tt9847512.
+- **ip status**: fictional
+- **prior art notes**: Discloses a campus-scale process plant synthesizing a programmable liquid feedstock and distributing it to (a) automated assembly cells and (b) a network of point-of-use metered-dispense stations performing repair/upgrade/crafting. Cited aspects: the feedstock-to-assembly distribution architecture and the networked metered-dispense station model with per-use aliquoting. Anticipates systems-level claims to integrated feedstock-synthesis-plus-distributed-dispense manufacturing and to point-of-use metered fluid stations driven from a central reservoir. Pairs with half-life Black Mesa and Combine ration-vat fictional entries.
+
+## Godwin Baxters surgical laboratory and brain-transplant reanimation apparatus (Poor Things, 2023) (2023-09-01)
+
+- **id**: `poor-things-godwin-baxter-surgical-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Yorgos Lanthimos / Searchlight
+- **disclosure**: Poor Things (Yorgos Lanthimos; Searchlight Pictures, premiered Venice 2023-09-01, theatrical 2023-12; based on Alasdair Grays 1992 novel Poor Things, ISBN 978-0747551126); Godwin Baxters home surgical lab reanimates a drowned woman by transplanting an infant brain into her, and produces chimeric animals; IMDB tt14230388.
+- **ip status**: fictional
+- **prior art notes**: Discloses an external perfusion/circulation-support rig sustaining a whole body through reanimation and brain transplant, plus chimeric-organ-grafting surgery. Cited aspects: the external whole-body perfusion-support rig for prolonged surgery and the multi-tissue chimeric-graft surgical workflow. Anticipates generic claims to extracorporeal whole-body perfusion-support systems for surgery and to multi-donor tissue-grafting procedures. The 1992 Gray novel is the dated literary antecedent. Pairs with crimes-of-the-future-sark-units and half-life-2-combine-overwatch-transhuman-conversion.
 
 ## 10x Genomics Visium HD with CytAssist (2023-10)
 

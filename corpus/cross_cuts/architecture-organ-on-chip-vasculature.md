@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-organ-on-chip-vasculature`
 
-**25 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1947
 
@@ -195,6 +195,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses speculative-design works depicting fictional reproductive microfluidic devices: an artificial human placenta capable of gestating non-human species, and a fictional same-sex-couple genome-merging cartridge whose inputs are saliva collection kits. Anticipates: speculative reproductive microfluidic cartridges; consumer-facing depictions of organ-on-chip placental devices; speculative design language for in-vitro gametogenesis cartridges.
 
+## Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) (2013-10-10)
+
+- **id**: `huh-2013-organ-chip-nature-protocols`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald E. Ingber group, Wyss Institute, Harvard
+- **disclosure**: Huh, D.; Kim, H. J.; Fraser, J. P.; Shea, D. E.; Khan, M.; Bahinski, A.; Hamilton, G. A.; Ingber, D. E. Microfabrication of human organs-on-chips. Nat. Protoc. 2013, 8, 2135-2157. DOI: 10.1038/nprot.2013.137
+- **ip status**: public-domain
+- **prior art notes**: The published fabrication protocol for the Wyss Institute organ-on-chip: how to mold the two parallel microchannels, cast and handle the thin porous PDMS membrane, plasma-bond the layers in alignment, etch the flanking side chambers, and apply cyclic vacuum to mechanically strain the cell-bearing membrane - the canonical recipe behind the lung/gut/etc. chips. As a public disclosure it anticipates fabrication-method claims to: a microfluidic organ device made by bonding two channel layers around a microfabricated thin porous elastomer membrane; vacuum-actuated side chambers for cyclic membrane stretch; and the specific layer-alignment/bonding workflow for such devices. Companion to huh-2010-lung-on-chip and bhatia-ingber-2014-microfluidic-organs-on-chips; this is the Wyss Microfluidics Core / Emulate reference protocol.
+
 ## Emulate Inc. Organ-Chip platform (2014)
 
 - **id**: `emulate-organ-on-chip-platform`
@@ -205,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Commercial organ-on-chip platform deriving from the Huh 2010 lung-on-chip disclosure. The Zoë instrument provides perfusion and stretch actuation to standard 'Bio-Kit' organ chips. Anticipates: standardized commercial organ-chip cartridge with paired perfusion + cyclic-stretch instrument, and the organ-chip-as-a-product category.
 
+## Bhatia and Ingber 2014 microfluidic organs-on-chips (2014-08-05)
+
+- **id**: `bhatia-ingber-2014-microfluidic-organs-on-chips`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Sangeeta N. Bhatia (MIT) and Donald E. Ingber (Wyss Institute, Harvard)
+- **disclosure**: Bhatia, S. N.; Ingber, D. E. Microfluidic organs-on-chips. Nat. Biotechnol. 2014, 32, 760-772. DOI: 10.1038/nbt.2989
+- **ip status**: public-domain
+- **prior art notes**: The seminal organ-on-chip review: it codifies the two-channel porous-membrane microdevice architecture with cyclic mechanical actuation that reconstitutes organ-level structure and function (lung, gut, liver, kidney, heart, blood-brain barrier, bone marrow), the perfusion schemes that mimic vascular and interstitial flow, and the linked-organ / body-on-chip concept for systemic pharmacokinetic-pharmacodynamic studies. As a unified prior-art statement it anticipates claims to: microfluidic organ models built from cell-lined channels separated by a flexible porous membrane under cyclic strain; multi-organ chips fluidically coupled to model systemic drug distribution; and the use of such devices for toxicity and efficacy testing. HIGH-PRIORITY anchor for the organ-on-chip industry (Emulate, TissUse, CN Bio, etc.). Companion to huh-2010-lung-on-chip, huh-2013-organ-chip-protocol, huh-bhatia-2018-mps-roadmap, sackmann-2014-microfluidics-medicine-review. From Bhatia (MIT) and Ingber (Wyss).
+
 ## FRESH: freeform reversible embedding of suspended hydrogels (2015)
 
 - **id**: `hinton-2015-fresh-printing`
@@ -214,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hinton, T. J.; Jallerat, Q.; Palchesko, R. N.; Park, J. H.; Grodzicki, M. S.; Shue, H.-J.; Ramadan, M. H.; Hudson, A. R.; Feinberg, A. W. Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels. Sci. Adv. 2015, 1, e1500758. DOI: 10.1126/sciadv.1500758
 - **ip status**: patented
 - **prior art notes**: Disclosed FRESH: extrusion 3D printing of soft hydrogel structures into a thixotropic gelatin support bath that holds the soft material until thermal release. Anticipates: support-bath-stabilized soft-material 3D printing, biocompatible scaffold printing for tissue engineering, and the FluidForm commercial bioprinting platform. Architecturally adjacent to organ-on-chip vasculature manufacturing.
+
+## Esch 2015 organs-on-chips at the frontiers of drug discovery (2015-03-13)
+
+- **id**: `esch-2015-organs-on-chips-drug-discovery`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Dongeun (Dan) Huh group, University of Pennsylvania (with A. Bahinski)
+- **disclosure**: Esch, E. W.; Bahinski, A.; Huh, D. Organs-on-chips at the frontiers of drug discovery. Nat. Rev. Drug Discov. 2015, 14, 248-260. DOI: 10.1038/nrd4539
+- **ip status**: public-domain
+- **prior art notes**: The Nature Reviews Drug Discovery survey of organ-on-chip / microphysiological systems specifically as drug-discovery tools: where in the pipeline (target validation, lead optimization, ADME-Tox, surrogate clinical trials) chip models add predictive value over animals and static culture, how multi-organ chips model systemic pharmacokinetics, and the technical and regulatory hurdles to adoption. As a unified prior-art statement it anticipates claims to: use of microfluidic organ models in defined drug-development workflows; coupled multi-organ chips for PK/PD prediction; and integration of organ chips with pharmacokinetic effluent sampling. Companion to bhatia-ingber-2014-microfluidic-organs-on-chips and huh-bhatia-2018-mps-roadmap. From the Huh group (Penn).
 
 ## Horizon Zero Dawn Cradle facility (genetic ark + Elisabet Sobeck reconstruction) (2017)
 

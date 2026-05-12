@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-merging-electrocoalescence`
 
-**6 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cho, S. K.; Moon, H.; Kim, C.-J. Creating, transporting, cutting, and merging liquid droplets by electrowetting-based actuation for digital microfluidic circuits. J. Microelectromech. Syst. 2003, 12, 70–80. DOI: 10.1109/JMEMS.2002.807467
 - **ip status**: patented
 - **prior art notes**: Companion foundational paper to Pollack 2000, expanding the primitive set of EWOD operations from transport to creation, cutting, and merging — i.e., the full droplet-circuit calculus. Anticipates: complete DMF instruction set (dispense, transport, split, merge), and the framing of DMF as 'digital microfluidic circuits' analogous to digital electronic circuits.
+
+## Song 2003 microfluidic system for controlling reaction networks in time (plug-based) (2003-02-10)
+
+- **id**: `song-ismagilov-2003-plug-based-reaction-networks`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Song, H.; Tice, J. D.; Ismagilov, R. F. A microfluidic system for controlling reaction networks in time. Angew. Chem. Int. Ed. 2003, 42, 768-772. DOI: 10.1002/anie.200390203
+- **ip status**: public-domain
+- **prior art notes**: Establishes plug-based (segmented-flow droplet) microfluidics for controlled reaction kinetics: aqueous reagents are compartmentalized into nanoliter plugs by an immiscible carrier fluid, internally mixed within milliseconds by chaotic advection in winding channels, and transported so that downstream position maps directly to reaction time - eliminating Taylor dispersion and enabling time-resolved chemistry/kinetics in a microchannel. Anticipates claims to: segmented-flow plug reactors for kinetic measurement with time encoded by channel length; rapid intra-plug mixing by serpentine-channel chaotic advection; and merging of distinct reagent plugs to trigger reactions. Foundational for the Ismagilov plug-microfluidics lineage (cf. du-ismagilov-2009-slipchip) and for droplet-based screening/crystallization generally.
 
 ## RainDance Technologies droplet platform (acquired by Bio-Rad) (2008)
 
@@ -45,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Established droplet microfluidics for single-cell HTS by combining flow-focusing droplet generation, on-droplet barcoding, fluorescence-activated droplet sorting (FADS), and downstream analysis. Anticipates: barcoded droplet libraries for combinatorial screening, droplet sorting at kHz rates with electrocoalescence, and the directed-evolution / single-cell-screen workflows commercialized by RainDance and absorbed into Bio-Rad's portfolio.
 
+## Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets (2009-04-21)
+
+- **id**: `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Daniel T. Chiu group, University of Washington
+- **disclosure**: Chiu, D. T.; Lorenz, R. M. Chemistry and biology in femtoliter and picoliter volume droplets. Acc. Chem. Res. 2009, 42, 649-658. DOI: 10.1021/ar8002464
+- **ip status**: public-domain
+- **prior art notes**: An authoritative account of using femtoliter-to-picoliter droplets as reaction vessels for single-molecule and single-cell chemistry and biology: methods to generate, transport, trap (optical tweezers), fuse, and split ultrasmall aqueous droplets in immiscible carrier fluids, and the concentration-enhancement and stochastic-confinement effects that make single-molecule kinetics, digital enzyme assays, and rare-event detection possible. As prior art it anticipates claims to: confinement of single molecules or cells in fL-pL droplets for digital/single-molecule assays; optical-trap and electric-field manipulation of individual microfluidic droplets; and concentration enhancement by ultrasmall-volume compartmentalization. Companion to song-ismagilov-2003-plug-based-reaction-networks and theberge-2010-microdroplets-in-microfluidics. From the Chiu group (UW).
+
 ## TTP Mirus / Sphere Fluidics droplet picoinjector (2010)
 
 - **id**: `ttp-mirus`
@@ -54,6 +74,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Abate, A. R.; Hung, T.; Mary, P.; Agresti, J. J.; Weitz, D. A. High-throughput injection with microfluidics using picoinjectors. Proc. Natl. Acad. Sci. USA 2010, 107, 19163–19166. DOI: 10.1073/pnas.1006888107
 - **ip status**: patented
 - **prior art notes**: Microfluidic picoinjector: introduces a precise volume of reagent into pre-formed droplets at >10 kHz rates by combining electrocoalescence with a side-channel injection orifice. Anticipates: post-formation droplet reagent injection as a primitive, and the multi-step droplet workflow architectures used in commercial directed-evolution and single-cell screening platforms.
+
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
 
 ## CARMEN Combinatorial Arrayed Reactions for Multiplexed Evaluation Patent Family (2020-04-29)
 

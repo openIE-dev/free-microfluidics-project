@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-serpentine`
 
-**18 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -125,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Tanner engineering-rheology textbook is the bridge between viscoelastic constitutive theory and practical channel/pipe-flow predictions. Anticipates microfluidic claims around viscoelastic flow in canonical geometries (contractions, expansions, serpentine channels) and engineering use of non-Newtonian fluids in microscale separations. Required reading for any microfluidic-rheology novelty assertion.
 
+## Song 2003 microfluidic system for controlling reaction networks in time (plug-based) (2003-02-10)
+
+- **id**: `song-ismagilov-2003-plug-based-reaction-networks`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Song, H.; Tice, J. D.; Ismagilov, R. F. A microfluidic system for controlling reaction networks in time. Angew. Chem. Int. Ed. 2003, 42, 768-772. DOI: 10.1002/anie.200390203
+- **ip status**: public-domain
+- **prior art notes**: Establishes plug-based (segmented-flow droplet) microfluidics for controlled reaction kinetics: aqueous reagents are compartmentalized into nanoliter plugs by an immiscible carrier fluid, internally mixed within milliseconds by chaotic advection in winding channels, and transported so that downstream position maps directly to reaction time - eliminating Taylor dispersion and enabling time-resolved chemistry/kinetics in a microchannel. Anticipates claims to: segmented-flow plug reactors for kinetic measurement with time encoded by channel length; rapid intra-plug mixing by serpentine-channel chaotic advection; and merging of distinct reagent plugs to trigger reactions. Foundational for the Ismagilov plug-microfluidics lineage (cf. du-ismagilov-2009-slipchip) and for droplet-based screening/crystallization generally.
+
 ## Fogler 2006 - Elements of Chemical Reaction Engineering (4th ed.) (2006)
 
 - **id**: `fogler-2006-elements-reaction-engineering-4e`
@@ -194,3 +204,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex CN-series product launch (Sysmex Corp 2018); JP/US/EP filings via espacenet (assignee: Sysmex)
 - **ip status**: patented
 - **prior art notes**: CN-series patent family extends sysmex-cn-3000-coag-analyzer existing entry with detailed disclosure of integrated coag/chromogenic/immuno fluidic subsystem. Anticipates claims that recite integrated multi-modality coagulation fluidic cartridges with on-cartridge calibration wells.
+
+## Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System (2021)
+
+- **id**: `babson-diagnostics-ac-workcell-microfluidic`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Babson Diagnostics
+- **disclosure**: Babson Diagnostics (Austin, Texas) aC Workcell / BetterWay disclosures and patents on automated preparation of small capillary-blood samples for routine clinical chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a fingerstick collection device plus a microfluidic sample-prep cartridge that meters, anticoagulates, mixes and separates plasma from microliter-scale capillary blood so it can be run on standard automated analyzers. Anticipates: capillary-blood microfluidic sample-prep cartridges decoupling tiny samples from standard lab instruments; retail-pharmacy workcell architectures. Companion to truvian-health-desktop-blood-analyzer-disc and sight-diagnostics-olo (POC CBC).

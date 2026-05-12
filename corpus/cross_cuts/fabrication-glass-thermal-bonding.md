@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-thermal-bonding`
 
-**30 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992
 
@@ -54,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Woolley, A. T.; Mathies, R. A. Ultra-high-speed DNA fragment separations using microfabricated capillary array electrophoresis chips. Proc. Natl. Acad. Sci. U.S.A. 1994, 91 (24), 11348-11352. DOI: 10.1073/pnas.91.24.11348.
 - **ip status**: public-domain
 - **prior art notes**: Demonstrated DNA-fragment electrophoretic separations on a glass microchip with a sieving polymer matrix achieving separations in seconds-to-minutes, and laid the groundwork for microfabricated capillary-array electrophoresis (CAE) for high-throughput DNA sizing and sequencing. Discloses: HF-etched glass channels filled with replaceable polymer sieving matrices for size separation of dsDNA; high-field ultra-fast electrophoresis enabled by efficient Joule-heat dissipation in shallow channels; on-chip LIF detection; and the scaling toward parallel channel arrays read by a scanning confocal detector. Anticipates claims to: polymer-sieving DNA separations in microchannels; high-field rapid microchip electrophoresis; capillary-array electrophoresis on a single substrate; and confocal-scanner readout of parallel separation channels. Distinct companion to existing mathies-1995-radial-cap-array; cross-referenced. Ancestor of microchip DNA-sequencing and high-throughput-genotyping platforms.
+
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
 
 ## microfluidic ChipShop standard glass and thermoplastic chips (2002)
 
@@ -104,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wiklund, M.; Hertz, H. M. Ultrasonic enhancement of bead-based bioaffinity assays. Lab Chip 2006, 6, 1279. Related: Wiklund, M.; Toivonen, J.; Tirri, M.; Hanninen, P.; Hertz, H. M. Ultrasonic enrichment of microspheres for ultrasensitive biomedical analysis in confocal laser-scanning fluorescence detection. J. Appl. Phys. 2004, 96, 1242. Hertz, H. M. Standing-wave acoustic trap for nonintrusive positioning of microparticles. J. Appl. Phys. 1995, 78, 4845.
 - **ip status**: public-domain
 - **prior art notes**: Establishes how to choose the ultrasonic drive frequency for half-wavelength (and multi-node) standing-wave resonances in glass/silicon microchannels so that the acoustic radiation force concentrates particles or cells at pressure nodes - the design rule behind essentially all bulk-acoustic-wave acoustophoresis chips. Discloses: matching the channel width to an integer number of acoustic half-wavelengths in the fluid for a chosen transducer frequency; the resulting node positions and the dependence of trapping strength on frequency, channel resonance Q, and acoustic contrast factor; and integration of standing-wave trapping with confocal fluorescence detection for bead-based bioaffinity assays. Anticipates claims to frequency-tuned acoustophoretic microchannel separators, half-wavelength-resonator chip dimensioning, and acoustically enriched on-chip immunoassays. Companion to laurell-2007-acoustophoresis and the King 1934 / Yosioka-Kawasima 1955 / Gorkov 1962 acoustic-radiation-force lineage.
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
 
 ## Singulex Erenna single-molecule counting immunoassay (2006)
 

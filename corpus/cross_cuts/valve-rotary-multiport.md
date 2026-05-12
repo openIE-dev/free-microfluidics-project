@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-rotary-multiport`
 
-**28 corpus entries disclose this subsystem.**
+**36 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1976
 
@@ -24,6 +24,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biemann K et al., 'Search for organic and volatile inorganic compounds in two surface samples from the Chryse Planitia region of Mars,' Science 194(4260):72-76 (1976), doi:10.1126/science.194.4260.72; Klein HP, 'The Viking biological investigation: General aspects,' J. Geophys. Res. 82(28):4677-4680 (1977)
 - **ip status**: public-domain
 - **prior art notes**: Discloses the architectural pattern of a planetary lander instrument that ingests bulk regolith, partitions it across multiple sealed reaction chambers, perfuses each with a different reagent (water/14C-labeled organics/13CO2 + light), and reads out via three orthogonal detection chains (mass spectrometer, beta scintillator, gas chromatograph thermal conductivity). For 102/103 anticipation purposes this is the founding flight precedent for: (a) integrated regolith-to-GCMS pyrolyzer with sealed sample magazines and oven-thermal-cycling, (b) a multi-modal life detection cartridge concept where one physical sample is interrogated by metabolic, isotope-labeling, and gas-evolution assays in parallel, and (c) the use of Curie-point pyrolysis to volatilize organics for downstream chromatographic separation. Anticipates virtually any later 'in-situ astrobiology cartridge' claim that recites multiple parallel reaction wells with independent reagent injection and orthogonal readouts (e.g., contemporary ELSAH/HOLD/MICA concepts). The Labeled Release positive (chiral-asymmetric heat-killable signal) remains a touchstone for any patent claiming life-detection by metabolic 14C release.
+
+## Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) (1979-05-08)
+
+- **id**: `forensic-postmortem-headspace-gc-autosampler`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Agilent Technologies (7697A), PerkinElmer (TurboMatrix), Teledyne Tekmar, CTC Analytics (PAL); methods established in forensic toxicology labs
+- **disclosure**: US4153434A Apparatus for sampling the gas phase of a liquid (Hewlett-Packard / static-headspace autosampler concept); see also Kolb & Ettre, Static Headspace-Gas Chromatography: Theory and Practice, Wiley 1997; ANSI/ASB and SOFT/AAFS forensic blood-alcohol HS-GC methods.
+- **ip status**: patented
+- **prior art notes**: Discloses an automated headspace autosampler: thermostatted vial equilibration, heated-needle vapor extraction, heated transfer line, and loop/pressure-balanced micro-sampling onto a GC column with internal standardization. Anticipates claims to (a) automated thermostatted headspace vapor micro-sampling of a biological aliquot for GC; (b) heated-needle/transfer-line path preventing volatile condensation and carry-over; (c) pressure-balanced headspace injection for forensic-grade quantitation; (d) high-throughput tray-automated headspace volatiles screen. Prior art for Agilent, PerkinElmer, Tekmar and CTC headspace-sampler patents; the confirmatory counterpart to the fuel-cell breathalyzer.
+
+## Froth flotation reagent (collector/frother/depressant) point-of-addition microdosing system (1996-04-30)
+
+- **id**: `froth-flotation-reagent-microdosing-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: mineral-processing equipment vendors (Metso Outotec, FLSmidth, Eriez) and reagent/dosing-system suppliers (ProMinent, Watson-Marlow, Grundfos metering pumps; reagents from Solvay, Clariant, Nasaco, Cytec/Solvay)
+- **disclosure**: US5511669A Method and apparatus for the flotation of minerals (reagent-addition control); mineral-processing texts e.g. Wills & Finch, Wills Mineral Processing Technology, 8th ed., Elsevier 2016 (flotation reagents and conditioning); equipment from Metso Outotec, FLSmidth, ProMinent/Watson-Marlow metering pumps.
+- **ip status**: patented
+- **prior art notes**: Discloses positive-displacement microdosing of flotation reagents at staged addition points with inline dilution, micromixing, and closed-loop assay/froth-image feedback control. Anticipates claims to (a) staged point-of-addition reagent microdosing along a flotation bank; (b) closed-loop flotation-reagent dose control from online XRF/froth-image feedback; (c) inline dilution-and-micromixing of dilute collector/frother into mineral slurry. Prior art for Metso Outotec, FLSmidth, Eriez and reagent-supplier flotation-dosing patents.
+
+## Chemical-mechanical planarization slurry point-of-use blending and delivery system (1999-06-08)
+
+- **id**: `cmp-slurry-point-of-use-blending-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cabot Microelectronics (CMC Materials), DuPont Electronics, Fujimi Inc., Versum/Air Liquide; slurry delivery hardware by CT Associates, Entegris, Mega Fluid Systems
+- **disclosure**: US5950675A Means and apparatus for chemical mechanical polishing slurry distribution; see also US6280300B1 point-of-use blending of CMP slurry.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic blending and metering train that combines a nanoparticle abrasive concentrate with DI water and reactive additives in-line at the polishing tool, with closed-loop conductivity/density control and large-particle gating. Anticipates claims to (a) on-tool dilution of CMP slurry concentrate by inline static micromixer with ratio control; (b) low-shear positive-displacement metering of colloidal abrasive to prevent agglomeration; (c) inline particle-count interlock that diverts slurry exceeding a large-particle threshold. Prior art for slurry-delivery-module patents asserted by Entegris, Mega Fluid Systems, CT Associates.
+
+## Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) (1999-09-14)
+
+- **id**: `wellsite-mud-gas-microfluidic-chromatograph`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Geolog International, Halliburton (Sperry Drilling FLAIR/GasView), SLB/Schlumberger, Baker Hughes; micro-GC modules from Agilent (490 Micro GC, formerly Varian/Chrompack CP-4900), INFICON
+- **disclosure**: US5952556A Method for determining the type of fluid in a well by analyzing gas composition (mud-gas analysis); MEMS/micro-GC lineage from US5611846A (Microsensor Technology) miniature gas chromatograph; mud-logging practice per Whittaker, Mud Logging Handbook, PennWell.
+- **ip status**: patented
+- **prior art notes**: Discloses a fast wellsite gas chromatograph (often a silicon-MEMS injector/column/detector chip) with a sub-microliter sample loop continuously analyzing mud-extracted gas into C1-C5 components for fluid typing. Anticipates claims to (a) MEMS micro-GC for continuous wellsite mud-gas analysis; (b) sub-microliter-sample-loop fast chromatography of drilling-fluid-extracted gas; (c) on-chip thermal-conductivity detection of hydrocarbon components in a mud-logging system; (d) automated chromatographic fluid-typing while drilling. Prior art for Geolog, Halliburton, Schlumberger and micro-GC-vendor wellsite-analyzer patents.
 
 ## Inpeco FlexLab Pre-Analytical Sample Transport Track (2003)
 
@@ -55,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable cartridge with a rotary valve sequencing reagents through a sample preparation pathway into an optical reaction tube for real-time PCR. Anticipates: rotary-valve / multi-port selector architecture for multi-reagent cartridges, optically interrogated reaction chamber within a closed disposable, and the GeneXpert-style sample-prep + amplification + detection integration that underlies most Cepheid POC products including the Xpert MTB/RIF tuberculosis test.
 
+## Maselli Misure Inline CO2 / Brix / Inversion Beverage Process Analyzer (2005)
+
+- **id**: `maselli-uc4sa-inline-co2-brix-soft-drink-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Maselli Misure S.p.A.
+- **disclosure**: Maselli Misure S.p.A. (Parma, Italy) inline beverage analyzer datasheets (UC4-SA carbonation/Brix, IBA series)
+- **ip status**: patented
+- **prior art notes**: Discloses a compact inline sampling/measuring cell on a beverage pipe combining critical-angle refractometry and CO2 sensing with valve-controlled product slug handling and closed-loop carbonator/proportioner feedback. Anticipates: inline microscale beverage measuring cells for Brix and carbonation; valve-gated slug sampling from a process pipe; closed-loop beverage-blend control. Mettler-Toledo InPro probes (covered) are a parallel inline-sensor family.
+
 ## ChromaCon Contichrom CUBE / MCSGP - Twin-column continuous chromatography (2007)
 
 - **id**: `chromacon-contichrom-mcsgp-continuous`
@@ -75,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-use chromatography skid in which the entire wetted flow path (tubing, valves, sensors, filters) is supplied as a pre-assembled gamma-irradiated disposable, eliminating clean-in-place validation between batches. Anticipates: (a) fully single-use chromatography skids as a category, including for CGT viral-vector downstream processing; (b) integration of disposable in-line UV, conductivity, and pH sensors into the chromatography flow path; (c) modular interchangeability between disposable flow paths and pre-packed chromatography columns. The single-use skid pattern is the dominant downstream bioprocessing architecture for new-build AAV and lentivirus manufacturing facilities.
 
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
+
 ## Sartorius BioSMB continuous multi-column chromatography (2010)
 
 - **id**: `sartorius-biosmb-continuous-chromatography`
@@ -94,6 +154,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tecan Cavro MagniFlex product launch 2010; Cavro Centris syringe pump 2015; widely OEM'd into clinical analyzers and life-science liquid handlers
 - **ip status**: patented
 - **prior art notes**: Discloses a modular multi-channel precision syringe pipettor block — the OEM fluidic primitive embedded in dozens of commercial clinical and life-science analyzers (including many entries in this corpus expansion: Atellica, Alinity, ACL TOP, Phadia, etc.). The pipettor block integrates: stepper-motor-driven plunger arrays with closed-loop encoder feedback; ceramic rotary distribution valves switching between aspirate/dispense ports; on-board pressure-sensor liquid-level detection; modular 8/12/16/24/96 channel scaling. Anticipates: the standard architecture for sub-µL clinical-grade pipetting that underlies the central-lab analyzer ecosystem; the ceramic-valve + stainless-syringe + stepper-leadscrew triplet as the durability-and-precision tradeoff for high-cycle (>10^7 cycle lifetime) analyzer service. Important commons disclosure because most published analyzer patents discuss assay flow but elide the metering subsystem; this entry establishes the metering primitive as prior art so that downstream synthetic-biology / open-microfluidics platforms can adopt equivalent designs without infringement risk.
+
+## PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) (2010-03-25)
+
+- **id**: `pet-cyclotron-target-dissolution-ion-exchange-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: radiopharmacy equipment makers (Trasis, IBA, GE Healthcare, Sumitomo, Comecer) and academic groups (UCLA Crump Institute, ETH/PSI, Univ. of Wisconsin) developing microfluidic radiometal processing
+- **disclosure**: US20100074825A1 / WO2010/032083 Microfluidic apparatus for radiopharmaceutical synthesis (Trasis-style); see also Lin et al., Microfluidic purification of cyclotron-produced radiometals, and Rensch et al., Microfluidics: a groundbreaking technology for PET tracer production?, Molecules 18, 7930 (2013).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated shielded microfluidic train - dissolution, micro-column ion-exchange/extraction-chromatography purification, metered elution - for processing cyclotron-irradiated radiometal targets into radiolabeling-ready fractions with small reagent/resin volumes and in-line radiation monitoring. Anticipates claims to (a) microfluidic micro-column purification of a cyclotron-produced radiometal; (b) automated cassette-based target dissolution and ion-exchange processing module; (c) sequential multi-column microfluidic separation of an actinide/radiometal from its target matrix and daughters; (d) low-volume high-specific-activity radiometal elution for chelator labeling. Prior art for Trasis, IBA, GE, Siemens radiopharmacy-module patents; extends the wave-2 Trasis radiosynthesis lineage.
 
 ## MSL Sample Analysis at Mars (SAM) Wet Chemistry Cell with MTBSTFA Derivatization (2012)
 
@@ -214,6 +284,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## MobiPak wearable microfluidic drug-dispenser backpack (Spiderhead, 2022) (2022-06-17)
+
+- **id**: `spiderhead-mobipak-drug-dispenser-backpack`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Joseph Kosinski / Netflix
+- **disclosure**: Spiderhead (Joseph Kosinski; Netflix, released 2022-06-17; based on George Saunders short story Escape from Spiderhead, The New Yorker 2010-12-13); the MobiPak, a small surgically attached backpack of drug reservoirs that doses the wearer on remote command via a phone-controlled valve manifold; IMDB tt9783600.
+- **ip status**: fictional
+- **prior art notes**: Discloses a wearable, body-attached multi-reservoir microfluidic drug-delivery pack with a multiport valve manifold, individually addressable reservoirs, remote dose/rate command over a wireless link, an indwelling delivery cannula, and a consent-acknowledgement release gate. Cited aspects: the body-worn multi-reservoir addressable-dispenser form factor, the remote dose-and-rate command architecture, and the consent-gated release interlock. Anticipates generic claims to wearable programmable multi-drug infusion packs, to remotely commanded individually-addressable-reservoir dosing systems, and to consent-interlocked drug-release devices. HIGHEST 102 value: the entire film centers on this wearable microfluidic dispenser; the 2010 Saunders story is the dated literary antecedent. Pairs with abbott-freestyle-libre-cgm and insulin-patch-pump prior art and with fictional auto-injector entries.
 
 ## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
 

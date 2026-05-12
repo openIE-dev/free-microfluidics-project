@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-pcr-cycling`
 
-**65 corpus entries disclose this subsystem.**
+**82 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -95,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: NEB patent family covers Q5 high-fidelity polymerase, NEBNext NGS library prep kits, and restriction enzyme manufacturing IP. Complements existing neb-gmp-t7-rnap entry with broader portfolio. Anticipates claims directed to high-fidelity polymerase fluidic cartridges and to NGS library prep kit cartridges.
 
+## Cheng 1996 Chip PCR II: PCR amplification in microfabricated silicon-glass chips (1996-01-15)
+
+- **id**: `cheng-1996-chip-pcr-ii-silicon-glass`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Wilding / Kricka group, University of Pennsylvania
+- **disclosure**: Cheng, J.; Shoffner, M. A.; Hvichia, G. E.; Kricka, L. J.; Wilding, P. Chip PCR. II. Investigation of different PCR amplification systems in microfabricated silicon-glass chips. Nucleic Acids Res. 1996, 24, 380-385. DOI: 10.1093/nar/24.2.380
+- **ip status**: public-domain
+- **prior art notes**: One of the foundational chip-PCR papers (the Chip PCR II of the Wilding/Kricka Penn series; Chip PCR I is Wilding 1994). Discloses PCR thermal cycling of clinically relevant single-copy human gene targets in microfabricated silicon-glass chambers, with systematic study of silicon-surface passivation chemistries needed to make silicon PCR-compatible, plus demonstration of nested and multiplex PCR architectures on chip. Anticipates claims to: PCR amplification in a micromachined silicon reaction cavity with a glass optical lid; silicon-surface bio-passivation (oxide / silanization / dynamic protein coating) to suppress polymerase inhibition; and on-chip nested/multiplex amplification protocols. Together with Wilding 1994 and Northrup 1993 it establishes the chip-PCR prior art baseline that all later integrated PCR-LOC devices build on.
+
 ## LightCycler real-time rapid PCR (Wittwer 1997) (1997)
 
 - **id**: `wittwer-1997-rapid-cycler`
@@ -125,6 +135,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Introduced continuous-flow (flow-through) PCR: instead of cycling the temperature of a static chamber, the reaction mixture is pumped through a serpentine microchannel that repeatedly traverses three zones held at fixed denaturation, annealing, and extension temperatures, so the time-domain thermal protocol becomes a spatial one - removing thermal-ramp limits and enabling very fast amplification. Discloses: spatially-multiplexed isothermal-zone architecture for thermal cycling; cycle number set by channel geometry (number of passes); cycle time set by flow rate and zone-segment lengths; and the elimination of bulk-heater thermal mass as the rate limit. Anticipates claims to: continuous-flow / flow-through nucleic-acid amplification microdevices; fixed-temperature-zone serpentine PCR chips; flow-rate-controlled cycling kinetics; and spatial-domain implementations of any cyclic thermal protocol. Companion to wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures and northrup-1993-silicon-pcr-microreactor (static-chamber predecessors); ancestor of droplet-PCR and microfluidic digital-PCR throughput architectures.
 
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
+
 ## Fluidigm Integrated Fluidic Circuit Controller Patent Family (2002)
 
 - **id**: `fluidigm-patent-family-ifc-controller`
@@ -134,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7307802; US7195670; US7691333; US7906072; US8163492 (Fluidigm Corporation, now Standard BioTools)
 - **ip status**: patented
 - **prior art notes**: Fluidigm patent family covering the IFC controller (the workhorse benchtop instrument for all Fluidigm chip products). Anchors claims around: (a) pneumatic manifold delivering individually-addressable pressurized control lines to a multilayer PDMS chip seated on a holder; (b) integrated thermal cycling stage; (c) optical readout integration with chip alignment; (d) sequential-loading protocols leveraging MLSI multiplexer trees. Built on the Caltech-licensed Quake MLSI valve patent family (quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates pneumatically-actuated chip-controller benchtop instruments for elastomeric microfluidic chips. Expiry: 2022-2030 across family.
+
+## Liu 2002 nanoliter rotary device for polymerase chain reaction (2002-06-01)
+
+- **id**: `liu-quake-2002-nanoliter-rotary-pcr-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Liu, J.; Enzelberger, M.; Quake, S. A nanoliter rotary device for polymerase chain reaction. Electrophoresis 2002, 23, 1531-1536. DOI: 10.1002/1522-2683(200205)23:10<1531::AID-ELPS1531>3.0.CO;2-D
+- **ip status**: public-domain
+- **prior art notes**: Discloses the rotary PCR architecture: a closed-loop nanoliter channel in PDMS with three integrated peristaltic Quake (MLSI) micropumps that convect the reaction mixture around a circuit passing three fixed-temperature zones - thermal cycling in the spatial domain at constant heater temperatures, avoiding the thermal mass and ramp limits of cycling the whole chip. Anticipates claims to: continuous-flow PCR in a recirculating loop driven by an on-chip pump; spatial-domain thermal cycling by transporting reagent past stationary heaters; integration of a closed-loop reactor with monolithic pneumatic peristaltic pumping; and nanoliter-scale recirculating reaction networks generally. Foundational for later continuous-flow / recirculating-loop PCR chips and droplet-recirculation reactors. Quake-lab MLSI lineage (unger-2000-quake-monolithic-membrane-valve).
 
 ## Fluidigm Dynamic Array Integrated Fluidic Circuit (2003)
 
@@ -235,6 +275,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed a flexible-tube cartridge format with sequential compartments separated by external pinch valves, allowing reagent staging and PCR thermal cycling without rigid microfluidic channels. Anticipates: flex-tube-as-microfluidic-substrate, external-pinch-valve actuation as substitute for on-chip valves, and the architectural simplification of POC molecular diagnostics by eliminating injection-molded fluidic complexity.
 
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
+
+## BioFire FilmArray BioThreat-E and BT panel pouch (defense biothreat cartridge) (2009-11-19)
+
+- **id**: `biofire-filmarray-biothreat-e-panel-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BioFire Defense (BioFire Diagnostics, a bioMerieux company; formerly Idaho Technology)
+- **disclosure**: US20090275014A1 / US8895295B2 Microfluidic devices and methods of use (Idaho Technology / BioFire); FilmArray BioThreat panel and BioThreat-E EUA documentation, 2010s.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a sealed microfluidic pouch integrating bead-beating extraction, blister reagent storage, nested multiplex/singleplex PCR with an array of nanoliter second-stage wells dispensed by film pumps/valves, and melt-curve readout. Anticipates claims to (a) closed-pouch sample-to-answer multiplex PCR cartridge for biothreat detection; (b) array of nanoliter second-stage singleplex PCR wells fed from a first-stage multiplex reaction; (c) film-pump/pinch-valve fluidic actuation in a sealed diagnostic pouch; (d) freeze-dried-reagent biothreat panel requiring no reagent cold chain. Prior art (along with the existing generic FilmArray entry) for closed-cartridge multiplex-PCR patents - the BioThreat configuration specifically.
+
 ## OpenPCR open-source thermal cycler (2010)
 
 - **id**: `openpcr-thermal-cycler`
@@ -314,6 +374,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluidigm Corp. C1 Single-Cell Auto Prep System product launch 2012. Pollen, A. A. et al. Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex. Nat. Biotechnol. 2014, 32, 1053-1058. DOI: 10.1038/nbt.2967.
 - **ip status**: patented
 - **prior art notes**: Pre-droplet commercial single-cell platform: a multilayer PDMS IFC with hydrodynamic capture sites and Quake-valve-controlled reagent chambers performs lysis, reverse transcription, and pre-amplification for 96 (or 800) single cells in parallel. Anticipates: integrated-valve-array single-cell prep architectures; the predecessor approach to droplet-based single-cell prep, with much lower throughput but full-length cDNA. The Pollen 2014 paper (and dozens of similar single-cell papers in 2013-2016) all use the C1; this is the architectural anchor for any 'integrated single-cell mRNA prep on chip' claim before droplets dominated.
+
+## Lucas Clinic celebrity-virus harvesting, attenuation, and injection apparatus (Antiviral, 2012) (2012-05-19)
+
+- **id**: `antiviral-lucas-clinic-celebrity-virus-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg
+- **disclosure**: Antiviral (Brandon Cronenberg; theatrical release 2012, premiered Cannes Un Certain Regard 2012-05-19); the Lucas Clinic harvests viruses from celebrities, runs them through a copy-protection/attenuation machine, and injects paying clients; also the celebrity-cell-tissue butchery; IMDB tt1772264.
+- **ip status**: fictional
+- **prior art notes**: Discloses a harvest-process-attenuate-inject pipeline: donor pathogen sampling, a benchtop processing machine applying an attenuation/copy-protection step, single-dose syringe loading, and client injection, plus a parallel donor-cell tissue-culture line. Cited aspects: the harvest-then-attenuate-then-single-dose-inject workflow and the benchtop pathogen-processing-to-dose-unit machine. Anticipates generic claims to integrated pathogen-harvest-and-attenuation-to-dose-unit pipelines and to bench instruments converting harvested biological material into single-dose injectables. HIGHEST 102 value: the entire film is about this microfluidic clinic pipeline. Pairs with theranos-promised-cartridge, antiviral-adjacent fictional entries, and the-substance-cell-division-serum.
 
 ## Standard BioTools (formerly Fluidigm) C1 single-cell genomics IFC (2013)
 
@@ -435,6 +505,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Burning Rock patent family covers cfDNA tumor profiling library prep cartridges with NGS-coupled companion diagnostic readout. Anticipates claims directed to cfDNA library prep cartridges with downstream NGS companion diagnostic specification.
 
+## GeneFirst Multiplex PCR Cartridge (MeltArray Respiratory and Oncology Panels) (2016)
+
+- **id**: `genefirst-multiplex-pcr-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: GeneFirst Ltd
+- **disclosure**: GeneFirst Ltd (Oxford / Wallingford, UK) MeltArray multiplex-PCR technology disclosures and PointLink cartridge / respiratory and EGFR oncology panel literature; patents on a melt-curve-multiplexed PCR assay
+- **ip status**: patented
+- **prior art notes**: Discloses a PCR cartridge whose multiplexing is achieved by probe-melting-temperature encoding (MeltArray) so a large target panel reads out from a small number of microfluidic reaction wells per optical channel. Anticipates: melt-temperature-multiplexed PCR cartridges; reducing microfluidic chamber count for large panels via melt encoding. Companion to biofire-filmarray-multiplex-pcr-cartridge (spatial multiplexing) -- GeneFirst multiplexes in melt-temperature space instead.
+
+## Green Poison (Dollar Bill) virus research and JTF decontamination labs (Tom Clancys The Division) (2016-03-08)
+
+- **id**: `the-division-green-poison-cdc-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Massive Entertainment / Ubisoft
+- **disclosure**: Tom Clancys The Division (Massive Entertainment / Ubisoft, 2016-03-08); the CDC/research-wing missions, the antiviral-research labs, and the Dark Zone decontamination airlocks; IMDB tt3636822.
+- **ip status**: fictional
+- **prior art notes**: Discloses a biocontainment-research environment with bench sample-handling for an engineered pathogen, an antiviral-development workflow, automated decontamination airlocks with spray manifolds, and metered single-dose field injectors. Cited aspects: the automated multi-stage decon-airlock spray manifold and the metered single-dose field injector. Anticipates generic claims to automated decontamination spray chambers with staged cycles and to compact metered-dose emergency injectors. Pairs with andromeda-strain-isolation-chamber and resident-evil-style fictional bio-lab entries; the field injector pairs with fallout-stimpak-autoinjector.
+
 ## Bento Lab Portable PCR + Centrifuge + Gel Workstation (2016-04)
 
 - **id**: `bento-lab-portable-pcr-bento-bio`
@@ -515,6 +605,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Discloses sewer-shed-scale composite sampling combined with RT-qPCR and LC-MS/MS analytical pipelines for sub-population public-health surveillance. Anticipates municipal wastewater epidemiology cartridge with RT-qPCR + LC-MS/MS dual-analyte readout claims.
 
+## binx health io Point-of-Care Molecular Cartridge (Chlamydia / Gonorrhea) (2017)
+
+- **id**: `binx-health-io-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: binx health
+- **disclosure**: binx health (formerly Atlas Genetics, Bath, UK / Boston, US) io platform disclosures and FDA-cleared CT/NG point-of-care molecular test; patents on an electrochemical-detection PCR cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a sample-to-answer molecular-diagnostic cartridge integrating lysis, PCR, and electrochemical amplicon detection at on-cartridge screen-printed electrodes with blister-pack reagents and valving. Anticipates: electrochemical-readout PCR cartridges for POC; integrated lysis-amplify-detect consumables using non-optical detection. Companion to cepheid-genexpert-cartridge and visby-medical entries (optical or strip readout) -- binx uses electrochemistry instead.
+
+## Thermo Fisher Accula (Mesa Biotech) Dock-and-Go Molecular POC Cartridge (2017)
+
+- **id**: `thermo-fisher-accula-mesa-biotech-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Thermo Fisher Scientific (Mesa Biotech)
+- **disclosure**: Mesa Biotech (San Diego; acquired by Thermo Fisher Scientific 2021) Accula System disclosures and FDA-cleared/EUA molecular POC tests; patents on a lateral-flow-readout RT-PCR cartridge with a reusable dock
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized RT-PCR cassette in which on-cassette amplification (heated by a reusable dock) is followed by lateral-flow amplicon detection with visual lines, achieving PCR sensitivity without reader optics. Anticipates: PCR-then-lateral-flow integrated POC cassettes; reusable-dock + disposable-amplification-cassette architectures. Companion to lucira-check-it-flu-covid-test and other strip-readout molecular POC entries.
+
+## Black-market embryonic gene-editing rig and adult phenotype-rewrite kit (Daniel Suarez, Change Agent) (2017-04-18)
+
+- **id**: `suarez-change-agent-black-market-gene-editing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Daniel Suarez
+- **disclosure**: Daniel Suarez, Change Agent (Dutton, 2017-04-18, ISBN 978-1101984666); near-future Singapore, illegal labs perform embryonic CRISPR-class edits and a black-market adult phenotype-rewrite (reflexive genetic editing) that remodels a living persons body to match another genome.
+- **ip status**: fictional
+- **prior art notes**: Discloses a bench gene-editing platform (microfluidic embryo handling + payload synthesis + electroporation/injection) and an injectable self-propagating adult-edit payload remodeling tissues toward a target genome, with sequencing QC. Cited aspects: the integrated embryo-handling-plus-payload-delivery bench and the injectable progressive-phenotype-rewrite payload. Anticipates generic claims to integrated gene-editing benches with microfluidic embryo handling and to systemic progressive-editing therapeutic payloads. HIGH 102 value: the work centers on the editing device/process. Pairs with gattaca-instant-genome-readout, naam-nexus-trilogy-implant, and rajaniemi-darkome-diy-synthetic-biology.
+
 ## Visby Medical PCR cartridge (2018)
 
 - **id**: `visby-medical-cartridge`
@@ -585,6 +705,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses flexible-tube fluidic-cartridge architecture for point-of-care NAAT with CLIA waiver. Anticipates flexible-tube point-of-care NAAT cartridge for Strep A claims.
 
+## BforCure Chronos Dx Ultra-Fast PCR Microfluidic Chip (2019)
+
+- **id**: `bforcure-chronos-dx-ultrafast-pcr-chip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BforCure SAS
+- **disclosure**: BforCure SAS (Paris, France) Chronos Dx ultra-fast PCR platform disclosures and patents on a thin-film microfluidic cartridge enabling extremely rapid thermal cycling
+- **ip status**: patented
+- **prior art notes**: Discloses a flexible thin-polymer-film microfluidic PCR cartridge whose low thermal mass enables thermal-cycling ramp rates far above conventional block cyclers, with multiplexed fluorescence detection in a portable reader. Anticipates: thin-film low-thermal-mass PCR cartridges for ultra-fast amplification; flexible-substrate molecular-diagnostic consumables. Companion to abbott-id-now-isothermal-cartridge and other rapid-molecular-POC entries (different speed mechanism).
+
 ## CDC National Wastewater Surveillance System (NWSS) standardized prep (2020)
 
 - **id**: `cdc-nwss-wastewater-prep`
@@ -625,6 +755,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a palm-sized disposable PCR cartridge integrating sample lysis, thermocycling, fluorescent detection, and visible result indication entirely within the consumable, with battery-powered electronics and no separate reader instrument. Anticipates: instrument-free PCR cartridges for STI detection where the disposable contains all hardware including LEDs, photodiodes, microcontroller, and battery; OTC molecular diagnostic form factors that fit the consumer-test point-of-purchase model. Anticipates claims to single-cartridge molecular tests where the consumable itself implements thermocycling and optical detection.
 
+## REACT Chimera/Archaean parasite research and containment-extraction lab (Rainbow Six Extraction) (2022-01-20)
+
+- **id**: `rainbow-six-extraction-chimera-parasite-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ubisoft Montreal
+- **disclosure**: Tom Clancys Rainbow Six Extraction (Ubisoft Montreal, 2022-01-20); the REACT research facility, the parasite-sample collection objectives, and the Archaean-biology lore; IMDB tt13314558.
+- **ip status**: fictional
+- **prior art notes**: Discloses a field-to-lab biosample chain: sealed extraction canisters, a containment lab culturing/sequencing the sample, cryogenic stasis pods for compromised subjects, and field spray-foam applicators. Cited aspects: the sealed in-the-field live-tissue extraction-and-preservation canister and the cryogenic single-occupant stasis pod with biosign monitoring. Anticipates generic claims to sealed field biosample collection-and-stabilization cartridges and to monitored cryostasis enclosures. Pairs with the-division-green-poison-cdc-research and andromeda-strain-isolation-chamber.
+
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 
 - **id**: `telesis-bioxp-9600-benchtop-synthesis`
@@ -634,6 +774,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Telesis Bio (formerly Codex DNA) BioXp 9600 launch 2022-02-15; US10632445B2
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop fully-integrated cartridge that performs oligo pooling, Gibson assembly, error correction, amplification, and cloning entirely within a sealed disposable cartridge with on-board thermal cycling and fluidic delivery. Anticipates: end-to-end benchtop gene synthesis as a sealed-cartridge product; integration of complete Gibson-assembly workflow within a single point-of-use disposable; user-friendly DNA-on-demand platform architectures distinct from service bureau model. Anticipates claims to benchtop gene synthesizers that combine sealed reagent storage with multi-step enzymatic assembly inside a single cartridge.
+
+## Vesper seeds bioengineering and the Jugs Citadel synthetic-biology labs (Vesper, 2022) (2022-09-23)
+
+- **id**: `vesper-jugs-citadel-seed-bioengineering-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kristina Buozyte / Bruno Samper
+- **disclosure**: Vesper (Kristina Buozyte and Bruno Samper; theatrical 2022-09-23, premiered Karlovy Vary 2022); after an ecological collapse the oligarchs Citadels engineer single-use locked seeds traded for blood; the protagonist Vesper runs a makeshift bench engineering self-replicating seeds; IMDB tt15314262.
+- **ip status**: fictional
+- **prior art notes**: Discloses industrial production of genetically locked single-use seeds, a bench workflow editing seeds to remove the lock and self-replicate, and blood-collection-and-assay gating stations. Cited aspects: the genetic-use-restriction (locked-seed) production workflow and the bench gene-editing-to-defeat-lock workflow. Anticipates generic claims to genetic-use-restriction biofabrication and to bench gene-editing pipelines. Pairs with gattaca-instant-genome-readout and change-agent-style gene-editing fictional entries.
 
 ## Environmental microbiome sample-to-sequencing cartridges (2024 academic) (2024)
 
@@ -664,3 +814,23 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pearce Lab MOST suite 2024 update on appropedia.org and journal Open Hardware 2024.
 - **ip status**: open-permissive
 - **prior art notes**: Discloses expanded MOST open-hardware laboratory-instrument ecosystem with RepRap-frame substrate and economic-impact validation. Anticipates open-hardware unified RepRap-frame lab-instrument ecosystem with documented order-of-magnitude cost reduction claims.
+
+## Renaissance station Z-01 black-goo (Prometheus pathogen) research and cryo bay (Alien: Romulus, 2024) (2024-08-16)
+
+- **id**: `alien-romulus-renaissance-station-prometheus-pathogen-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Fede Alvarez / 20th Century Studios
+- **disclosure**: Alien: Romulus (Fede Alvarez; 20th Century Studios / Disney, theatrical 2024-08-16); the derelict Weyland-Yutani Renaissance research station studies a black-goo pathogen (the Prometheus mutagen, here Z-01 / Compound 26-Draco), with sample-handling apparatus, injectable compound vials, hypersleep cryo pods, and the synthetic Rook; IMDB tt18412256.
+- **ip status**: fictional
+- **prior art notes**: Discloses BSL-class handling of a mutagenic pathogen, derivation of a single-dose injectable compound from it, and hypersleep cryo pods with perfusion/temperature life support. Cited aspects: the pathogen-to-single-dose-injectable derivation workflow and the perfusion/temperature-regulated hypersleep pod. Anticipates generic claims to pathogen-derivative single-dose compound workflows and to perfusion-and-temperature-regulated cryostasis pods. Extends the Alien/Weyland-Yutani fictional medbay map; pairs with the-division-green-poison-cdc-research and prometheus-medpod-style entries.
+
+## DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) (2024-10-01)
+
+- **id**: `rajaniemi-darkome-diy-synthetic-biology-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hannu Rajaniemi
+- **disclosure**: Hannu Rajaniemi, Darkome (Gollancz, 2024; ISBN 978-1399610483); a near-future biohacker thriller in which DIY-bio collectives use home synthetic-biology rigs to design, print, and test self-administered immune-modulating constructs and personalized therapeutics outside the regulated medical system.
+- **ip status**: fictional
+- **prior art notes**: Discloses a benchtop synthetic-biology rig integrating nucleic-acid synthesis, microfluidic cell-free expression cartridges, automated wet-lab steps, on-rig sequencing/assay feedback, and a self-administration injector, in a closed design-build-test loop. Cited aspects: the integrated bench DBT rig with microfluidic cartridges and the rig-output-to-self-administration-injector coupling. Anticipates generic claims to integrated benchtop design-build-test synthetic-biology platforms and to point-of-use biologic synthesis-then-self-administer systems. HIGH 102 value: the work centers on the DIY-bio device/process. Pairs with suarez-change-agent-black-market-gene-editing, metafluidics-platform, and naam-nexus-trilogy-implant.

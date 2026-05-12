@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dmf-addressable-electrode-array`
 
-**9 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pollack, M. G.; Fair, R. B.; Shenderov, A. D. Electrowetting-based actuation of liquid droplets for microfluidic applications. Appl. Phys. Lett. 2000, 77, 1725–1726. DOI: 10.1063/1.1308534
 - **ip status**: patented
 - **prior art notes**: The foundational disclosure of electrowetting-on-dielectric (EWOD) for digital microfluidics. Demonstrated discrete water-droplet transport across an addressable electrode array under voltage control. Anticipates: addressable-electrode array DMF architecture, DC + AC EWOD actuation modes, droplet-merge / droplet-split / droplet-dispense as primitives, and the Advanced Liquid Logic / Illumina commercial DMF lineage. Together with Cho 2003 it defines the EWOD field.
+
+## SiPix microcup electronic-ink array (E Ink microcup architecture) (2002-10-31)
+
+- **id**: `eink-sipix-microcup-electrowetting-array`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: SiPix Imaging, Inc. (acquired by E Ink Holdings)
+- **disclosure**: US20020163624A1 / US6788452B2 Process for manufacture of improved color displays / Electrophoretic display and novel process for its manufacture (Liang et al., SiPix Imaging); SiPix later acquired by E Ink.
+- **ip status**: patented
+- **prior art notes**: Discloses roll-to-roll microembossing of an array of open microcups and continuous fill-and-seal of each with a display fluid - a web-manufactured microfluidic micro-reservoir array. Anticipates claims to (a) microembossed open-microcup display cell array; (b) roll-to-roll fill-and-seal of microcells with electro-optic fluid; (c) mechanically isolated fluid pixels on a flexible substrate; (d) microcup as a confinement cell for electrowetting/electrofluidic media. Sibling architecture to E Ink microcapsule encapsulation; prior art for microcell-confined e-paper and electrofluidic-display patents.
 
 ## Creating, transporting, cutting, and merging liquid droplets by electrowetting-based actuation (2003)
 
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Illumina NeoPrep launch press release 2014-09-30; product withdrawn 2017. Pamula, V. K. et al. Advanced Liquid Logic digital microfluidic platform for sample prep. https://www.illumina.com (archived).
 - **ip status**: patented
 - **prior art notes**: First commercial DMF-based NGS library prep instrument: Illumina productized the Advanced Liquid Logic EWOD platform to perform end-to-end TruSeq-style library prep on 16 samples in parallel using ~700 nL droplets. Discontinued 2017 due to library-quality issues, but the disclosed architecture remains useful prior art for any later DMF-based NGS library prep claim. Anticipates: large-cohort DMF library prep on a PCB-substrate EWOD array; the 'cartridge-top + reusable electrode-bottom' architecture for DMF.
+
+## Pattern Bioscience Rapid Antibiotic Susceptibility Test (Single-Cell Digital Microfluidics) (2018)
+
+- **id**: `pattern-bioscience-rapid-ast-digital-microfluidics`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Pattern Bioscience
+- **disclosure**: Pattern Bioscience (Austin, Texas) rapid phenotypic AST platform disclosures and patents on partitioning single bacterial cells into thousands of nanoliter reactors with antibiotics and machine-learning metabolic-fingerprint readout; FDA-cleared rapid AST system
+- **ip status**: patented
+- **prior art notes**: Discloses partitioning a bacterial sample into thousands of nanoliter compartments each containing a defined antibiotic, then reading per-compartment metabolic-reporter kinetics and classifying susceptibility with a machine-learning model on single-cell fingerprints. Anticipates: digital/partition-microfluidic phenotypic AST; single-cell metabolic-fingerprint susceptibility calling; ML-interpreted nanowell antibiotic arrays. A genuinely novel AST architecture and a high-priority anchor; recently FDA-cleared.
 
 ## Nuclera eProtein Discovery Platform (2022-09-01)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-luer-lock-port`
 
-**54 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Frank Herbert, Dune (Chilton 1965) ISBN 0-441-17266-0; pages 110-112 'Manual of Muad'dib' detailing stillsuit construction.
 - **ip status**: fictional
 - **prior art notes**: Original 1965 published description of a wearable, closed-loop body-fluid reclamation suit. Herbert's text gives unusually engineering-grade specifics: 'a high-efficiency filter and heat-exchange system. The skin-contact layer's perspiration passes through it, having cooled the body, and is reclaimed... your motions in the suit, especially of breathing and some osmotic action, provide the pumping force. Reclaimed water circulates to catchpockets from which you draw it through this tube...'. Architecturally anticipates: wearable closed-loop microfluidic body-water reclamation, breath/perspiration capture and recycling, body-motion-driven peristaltic pumping, and integrated drinking-tube delivery. The 1965 first publication date is one of the strongest fictional anchors for wearable microfluidic body-fluid reclamation as a concept (~60-year defensive prior art window).
+
+## Millipore Steritest / Sartorius Sterisart Closed Membrane-Filtration Sterility Funnel (1985)
+
+- **id**: `millipore-steritest-sterisart-membrane-filtration-funnel`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Merck Millipore / Sartorius
+- **disclosure**: Merck Millipore Steritest and Sartorius Sterisart sterility testing system manuals; USP <71> Sterility Tests / Ph. Eur. 2.6.1 membrane filtration method
+- **ip status**: patented
+- **prior art notes**: Discloses a closed pre-sterilized fluidic consumable: flexible-tubing-fed canisters each enclosing a membrane filter, through which product and rinse solutions are pumped and into which culture medium is then injected for incubation, all without breaching the fluid path. Anticipates: closed membrane-filtration consumables with integrated culture chambers; peristaltic-pumped pre-sterilized fluidic kits; the architecture of a contamination-controlled filtration-then-incubation cartridge. An explicitly fluidic pharmacopeial consumable in near-universal use for sterility testing.
 
 ## Star Trek TNG/DS9/VOY surgical biobed (1987)
 
@@ -94,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Battlestar Galactica miniseries (Sci Fi 2003); Caprica (2010) shows Centurion construction.
 - **ip status**: fictional
 - **prior art notes**: Cylon Centurions are part-organic and depicted with internal fluid-circulation systems (visible during damage scenes). Caprica's Greystone Industries factory shows Centurion fluid-fill stations during manufacture. Defensive prior art for hybrid mechanical-biological robots with integrated fluid-circulation maintenance and assembly-line fluid-fill stations.
+
+## Sia and Whitesides 2003 microfluidic devices fabricated in PDMS for biological studies (2003-11-01)
+
+- **id**: `sia-whitesides-2003-pdms-microfluidic-devices-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard
+- **disclosure**: Sia, S. K.; Whitesides, G. M. Microfluidic devices fabricated in poly(dimethylsiloxane) for biological studies. Electrophoresis 2003, 24, 3563-3576. DOI: 10.1002/elps.200305584
+- **ip status**: public-domain
+- **prior art notes**: The practical handbook-style review of PDMS microfluidics for biology: rapid prototyping by soft lithography, plasma bonding, world-to-chip interconnects, surface modification and passivation strategies, and a catalog of biological uses (heterogeneous immunoassays, cell capture and culture, on-chip protein crystallization, surface and solution-gradient generators) plus a frank treatment of PDMS limitations. As prior art it anticipates claims to: standard PDMS device fabrication and bonding workflows; common PDMS-chip surface-treatment recipes for biocompatibility; and the general designs of PDMS gradient generators and cell-handling chips. Companion to mcdonald-whitesides-2002-pdms-review and whitesides-2001-soft-lithography-in-biology.
 
 ## Stargate Atlantis Wraith feeding hand and stunner extraction biology (2004)
 
@@ -544,6 +564,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lunaphore COMET product launch 2021; Migliozzi et al., Microsystems & Nanoengineering 5:59 (2019), doi:10.1038/s41378-019-0104-z (precursor LabSat technology); US10761093B2
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic tissue processor that places a thin laminar-flow chamber directly over a glass slide, enabling rapid antibody delivery, washing, and fluorophore quenching cycles in situ on FFPE tissue. Anticipates: microfluidic acceleration of multiplex immunofluorescence by replacing diffusion-limited static incubation with convective laminar exchange; integration of buffer-storage, switching valves, and waste handling for unattended multi-day cycling. Anticipates claims to spatial proteomics systems that combine off-chip imaging with on-chip microfluidic staining/elution cycles, distinguishing from CODEX/PhenoCycler (DNA-barcoded antibody pool) and MIBI (mass-spectrometry imaging) approaches.
+
+## Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System (2021)
+
+- **id**: `babson-diagnostics-ac-workcell-microfluidic`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Babson Diagnostics
+- **disclosure**: Babson Diagnostics (Austin, Texas) aC Workcell / BetterWay disclosures and patents on automated preparation of small capillary-blood samples for routine clinical chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a fingerstick collection device plus a microfluidic sample-prep cartridge that meters, anticoagulates, mixes and separates plasma from microliter-scale capillary blood so it can be run on standard automated analyzers. Anticipates: capillary-blood microfluidic sample-prep cartridges decoupling tiny samples from standard lab instruments; retail-pharmacy workcell architectures. Companion to truvian-health-desktop-blood-analyzer-disc and sight-diagnostics-olo (POC CBC).
 
 ## Temperature-controlled chip holder with integrated electrodes for NSS (2026-01-19)
 

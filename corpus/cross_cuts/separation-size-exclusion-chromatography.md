@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-size-exclusion-chromatography`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1901
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Tremere chantry alchemy laboratory depicted with multi-vessel blood distillation rigs, brewing apparatus for blood bonds, and assay equipment for thaumaturgical reagents. Clanbook: Tremere details specific apparatus. Anticipates: multi-vessel blood-product distillation and characterization rigs; combined-vessel reagent-blood-substrate assay platforms; useful prior art for 'multi-vessel blood-substrate distillation with on-line characterization' claims.
 
+## Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) (1999-09-14)
+
+- **id**: `wellsite-mud-gas-microfluidic-chromatograph`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Geolog International, Halliburton (Sperry Drilling FLAIR/GasView), SLB/Schlumberger, Baker Hughes; micro-GC modules from Agilent (490 Micro GC, formerly Varian/Chrompack CP-4900), INFICON
+- **disclosure**: US5952556A Method for determining the type of fluid in a well by analyzing gas composition (mud-gas analysis); MEMS/micro-GC lineage from US5611846A (Microsensor Technology) miniature gas chromatograph; mud-logging practice per Whittaker, Mud Logging Handbook, PennWell.
+- **ip status**: patented
+- **prior art notes**: Discloses a fast wellsite gas chromatograph (often a silicon-MEMS injector/column/detector chip) with a sub-microliter sample loop continuously analyzing mud-extracted gas into C1-C5 components for fluid typing. Anticipates claims to (a) MEMS micro-GC for continuous wellsite mud-gas analysis; (b) sub-microliter-sample-loop fast chromatography of drilling-fluid-extracted gas; (c) on-chip thermal-conductivity detection of hydrocarbon components in a mud-logging system; (d) automated chromatographic fluid-typing while drilling. Prior art for Geolog, Halliburton, Schlumberger and micro-GC-vendor wellsite-analyzer patents.
+
 ## Geankoplis - Transport Processes and Separation Process Principles (4th ed.) (2003)
 
 - **id**: `geankoplis-transport-processes-textbook`
@@ -74,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Geankoplis, C. J. (2003). 'Transport Processes and Separation Process Principles' (4th ed.). Prentice Hall. ISBN 978-0-13-101367-4.
 - **ip status**: public-domain
 - **prior art notes**: Geankoplis covers both transport phenomena and chemical-engineering separations. Anticipates microfluidic separation claims that adapt classical macroscale separations (membrane filtration, adsorption, ion exchange, leaching, crystallization) onto chip - all reduce to Geankoplis-textbook unit operations at smaller length scale. Particularly load-bearing for on-chip ion-exchange and on-chip crystallization patents.
+
+## Craighead 2006 future lab-on-a-chip technologies for interrogating individual molecules (2006-07-27)
+
+- **id**: `craighead-2006-lab-on-chip-single-molecule`
+- **corpus**: academic
+- **device class**: nanofluidic-chip
+- **creator**: Harold G. Craighead group, Cornell University
+- **disclosure**: Craighead, H. Future lab-on-a-chip technologies for interrogating individual molecules. Nature 2006, 442, 387-393. DOI: 10.1038/nature05061
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of nanofluidic and single-molecule lab-on-chip technologies: fabrication and use of sub-100-nm channels, nanopores, zero-mode waveguides, entropic traps and nanoslit confinement to stretch, sort, sequence and optically interrogate individual DNA and protein molecules. As prior art it anticipates claims to: DNA elongation/mapping by electrokinetic transport through a nanofluidic channel; zero-mode-waveguide optical confinement for single-molecule enzymatic observation; entropic-trap nanostructure arrays for size separation; and the integration of such nanostructures into a chip for single-molecule genomics. Anchors the nanofluidics-meets-single-molecule-sequencing prior art. From the Cornell Craighead group.
 
 ## Charles River Laboratories Cobra Plasmid Manufacturing Platform (2010)
 

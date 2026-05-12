@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-disc`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1982-05
 
@@ -75,6 +75,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Ho-Tai 1998 is the canonical Annual Review of Fluid Mechanics survey of MEMS-based microfluidics as of the late 1990s. Catalogs pre-2000 micro-pumps, micro-valves, micro-channels, micro-mixers, and micro-flow sensors - establishing all these subsystems as prior art before 2000. Particularly load-bearing for invalidating broad post-2000 micro-pump/micro-valve patents.
 
+## LCD polyimide alignment-layer inkjet/microdispense system (2003-12-25)
+
+- **id**: `lcd-polyimide-alignment-layer-microdispense`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: LG Display, Samsung Display, BOE, Sharp; inkjet PI tools by Toppan/Tokyo Ohka, Nakan, ULVAC, Kateeva-class platforms; PI inks by Nissan Chemical (SUNEVER), JSR, Toray
+- **disclosure**: US20030235648A1 / US7022380B2 Apparatus and method for printing a liquid crystal display alignment layer (LG.Philips LCD); see also Sakai et al., Inkjet printing of polyimide alignment film, IDW proceedings 2004.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of polyimide-precursor alignment-layer ink onto large-area display glass with drop-volume control and film-uniformity engineering. Anticipates claims to (a) inkjet-printed polyimide alignment layer for LCD; (b) pattern-selective alignment-film deposition avoiding edge build-up; (c) PI ink formulated to suppress mura/coffee-ring in a sub-100 nm film. Prior art for LG Display, Samsung, BOE alignment-inkjet patents.
+
 ## Lee Company / TTP Ventus Disc Pump (2009)
 
 - **id**: `lee-company-disc-pump-piezoelectric`
@@ -84,6 +94,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: TTP Ventus disc pump technology, originally disclosed via TTP plc / Cambridge UK; commercialized; acquired by The Lee Company. See https://www.theleeco.com/disc-pumps/ and product datasheets.
 - **ip status**: patented
 - **prior art notes**: Discloses a small-form-factor piezoelectrically driven disc pump generating pressure or vacuum with pulsation-free output and infinite turndown ratio. Standard 'air-over-liquid' actuation pattern: pump moves gas, gas indirectly displaces liquid in tubing or chip. Anticipates: 29-mm-class piezoelectric pneumatic micropumps for diagnostics, infinite-turndown pneumatic actuation, and the air-over-liquid architectural pattern as a substitute for direct liquid pumping in microfluidic instrument design.
+
+## Kateeva YIELDjet inkjet OLED thin-film deposition system (2010-06-10)
+
+- **id**: `kateeva-yieldjet-inkjet-oled-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Kateeva, Inc.
+- **disclosure**: US20100143581A1 / US8235487B2 Method and apparatus for load-locked printing (Kateeva, Inc.); see also Madigan et al., Advancements in inkjet printing for OLED mass production, SID Symposium Digest 2014.
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial drop-on-demand microfluidic printhead system depositing functional organic semiconductor and barrier inks into patterned banks under inert atmosphere with vision-feedback drop control. Anticipates claims to (a) inkjet deposition of OLED emissive layers into sub-pixel banks; (b) load-locked inert-atmosphere inkjet printing of moisture-sensitive films; (c) closed-loop per-nozzle drop-volume compensation guided by inline film-thickness metrology; (d) inkjet-printed thin-film encapsulation of an OLED. Prior art for TCL/CSOT, JOLED, Samsung Display and Tianma inkjet-OLED process patents.
+
+## Quantum-dot inkjet color-conversion layer deposition (Nanosys / Samsung QD-OLED, Nanoco class) (2011-09-15)
+
+- **id**: `quantum-dot-inkjet-display-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Nanosys (now Shoei Chemical), Samsung Display (QD-OLED color-conversion layer), Nanoco Technologies, TCL/CSOT, BOE; printheads by Fujifilm Dimatix / Kateeva platforms
+- **disclosure**: US20110233483A1 / US8618528B2 Quantum dot films, lighting devices, and lighting methods (Nanosys / QD Vision lineage); see also Kim et al., Inkjet-printed quantum-dot light-emitting diodes, Nano Letters 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of nanocrystal quantum-dot inks into patterned display sub-pixels for color conversion or electroluminescence, with volumetric metering and film-flatness control. Anticipates claims to (a) inkjet-printed QD color-conversion layer in a sub-pixel bank; (b) inkjet-printed QD electroluminescent emitter layer; (c) solvent-blend QD ink formulated to suppress coffee-ring drying; (d) Cd-free InP QD inkjet ink for displays. Prior art for Samsung, TCL/CSOT, BOE and Nanoco QD-display process patents.
 
 ## Cytena C.SIGHT and B.SIGHT single-cell printers (2014)
 

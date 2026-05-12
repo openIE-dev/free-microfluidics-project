@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-staggered-herringbone`
 
-**9 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -44,6 +44,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stroock, A. D.; Dertinger, S. K. W.; Ajdari, A.; Mezic, I.; Stone, H. A.; Whitesides, G. M. Chaotic mixer for microchannels. Science 2002, 295, 647–651. DOI: 10.1126/science.1066238
 - **ip status**: public-domain
 - **prior art notes**: The canonical disclosure of passive chaotic mixing in microchannels via patterned grooves on the channel floor. Anticipates: staggered herringbone topology, the principle of using transverse flow patterns to fold fluid layers and shorten diffusion paths in laminar regimes. Any patent claiming novelty over 'patterned floor structures producing transverse flow for mixing' must contend with this disclosure.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
+
+## Microfluidic Continuous Synthesis of ZnO / TiO2 Sunscreen Nanoparticle Dispersions (2008)
+
+- **id**: `microfluidic-sunscreen-nanoparticle-synthesis`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Various academic and industrial groups
+- **disclosure**: Peer-reviewed reports on continuous-flow microreactor synthesis of ZnO and TiO2 nanoparticles for UV-filter / sunscreen use (e.g. Lab on a Chip and Chem. Eng. J. articles, 2008-2020) and related microreactor patents
+- **ip status**: unknown
+- **prior art notes**: Discloses continuous-flow micromixer/microreactor synthesis of inorganic UV-filter nanoparticles with millisecond mixing for size control, inline size monitoring, and numbering-up for production. Anticipates: microreactor synthesis of cosmetic/UV-filter nanoparticles; herringbone/interdigital micromixers as nucleation-control elements for metal-oxide precipitation; closed-loop control of particle size via flow/temperature in a microreactor. General prior-art anchor for the personal-care nanomaterial-synthesis space.
 
 ## BiAffin patent family extensions (2015)
 

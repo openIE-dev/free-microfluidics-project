@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-membrane-filtration-on-chip`
 
-**61 corpus entries disclose this subsystem.**
+**74 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1856
 
@@ -94,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Asahi Kasei Microza commercial introduction (1980s); https://www.asahi-kasei.com/separation/microza/; JP4500411B2.
 - **ip status**: patented
 - **prior art notes**: Discloses polyacrylonitrile and PVDF hollow-fiber tangential-flow-filtration modules across UF (MWCO 6-150 kDa) and MF (0.1-0.65 µm) pore sizes, with module geometries from 0.05 m² lab modules to 60 m² process modules; the Microza family is one of the longest-running commercial hollow-fiber pharmaceutical TFF product lines, predating most Western competitors. Anticipates: hollow-fiber TFF for biotech downstream including viral-vector concentration, perfusion cell retention, and water-for-injection prefiltration; specifically the pattern of polyacrylonitrile fibers being chosen for low protein binding in plasma fractionation and biologics applications.
+
+## Millipore Steritest / Sartorius Sterisart Closed Membrane-Filtration Sterility Funnel (1985)
+
+- **id**: `millipore-steritest-sterisart-membrane-filtration-funnel`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Merck Millipore / Sartorius
+- **disclosure**: Merck Millipore Steritest and Sartorius Sterisart sterility testing system manuals; USP <71> Sterility Tests / Ph. Eur. 2.6.1 membrane filtration method
+- **ip status**: patented
+- **prior art notes**: Discloses a closed pre-sterilized fluidic consumable: flexible-tubing-fed canisters each enclosing a membrane filter, through which product and rinse solutions are pumped and into which culture medium is then injected for incubation, all without breaching the fluid path. Anticipates: closed membrane-filtration consumables with integrated culture chambers; peristaltic-pumped pre-sterilized fluidic kits; the architecture of a contamination-controlled filtration-then-incubation cartridge. An explicitly fluidic pharmacopeial consumable in near-universal use for sterility testing.
 
 ## Macosko 1994 - Rheology: Principles, Measurements, and Applications (1994)
 
@@ -225,6 +235,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses tangential-flow-filtration platform built around hollow-fiber filter cartridges, with automated TFF process control for buffer exchange, concentration, and clarification across the bioprocess scale spectrum. Anticipates: hollow-fiber TFF as a CGT downstream processing modality, including for viral-vector concentration and exosome/EV isolation; automated TFF instruments with permeate-flux and TMP feedback control loops.
 
+## Yager 2006 microfluidic diagnostic technologies for global public health (2006-07-27)
+
+- **id**: `yager-2006-microfluidic-diagnostics-global-health`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Paul Yager group, University of Washington (with PATH / Micronics)
+- **disclosure**: Yager, P.; Edwards, T.; Fu, E.; Helton, K.; Nelson, K.; Tam, M. R.; Weigl, B. H. Microfluidic diagnostic technologies for global public health. Nature 2006, 442, 412-418. DOI: 10.1038/nature05064
+- **ip status**: public-domain
+- **prior art notes**: The seminal review of microfluidic diagnostics for the developing world: it lays out the design constraints for instrument-free, low-power, low-cost point-of-care testing (the ASSURED criteria), surveys laminate, paper, and capillary-driven cartridge architectures, and presents diffusion-based assay primitives (H-filter, T-sensor) suited to field use. As prior art it anticipates claims to: instrument-free capillary/laminate microfluidic diagnostic cartridges; integration of sample prep, reaction and colorimetric readout in a disposable card without external pumps; and the general system requirements of resource-limited-setting point-of-care microfluidics. HIGH-PRIORITY anchor - this paper essentially defined the low-cost-diagnostics microfluidics field and anchors paper-microfluidics, lateral-flow-plus-microfluidics, and instrument-light cartridge industries. Companion to brody-yager-1997-h-filter and whitesides-2010-mu-pads-systematic.
+
 ## Bird, Stewart & Lightfoot 2007 - Transport Phenomena (revised 2nd ed.) (2007)
 
 - **id**: `bird-stewart-lightfoot-2007-transport-phenomena-2e`
@@ -254,6 +274,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: NEEM community members, Eemian interglacial reconstructed from a Greenland folded ice core, Nature 493 (2013) 489-494.
 - **ip status**: public-domain
 - **prior art notes**: Discloses Continuous Flow Analysis microfluidic train: melt-front decontamination, parallel branching microchannels, and inline laser water-isotope spectroscopy at 1 mm depth resolution. Anticipates microfluidic CFA train for paleoclimate ice-core analysis with simultaneous chemistry and isotope readouts claims.
+
+## Rapid Micro Biosystems Growth Direct System (2008)
+
+- **id**: `rapid-micro-biosystems-growth-direct`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Rapid Micro Biosystems
+- **disclosure**: Rapid Micro Biosystems Growth Direct System product literature and validation guides; FDA-cleared rapid microbial enumeration platform
+- **ip status**: patented
+- **prior art notes**: Discloses a membrane-filtration consumable cassette in which captured microbes form micro-colonies on agar that are detected by automated auto-fluorescence imaging at the ~100-cell stage, with robotic handling through incubator and imager. Anticipates: filter-on-agar cassettes for automated rapid colony imaging; label-free auto-fluorescence colony detection; cassette-format rapid microbiology consumables. The filtration step and cassette are the microfluidic-relevant subsystems.
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
 
 ## Sigma-Aldrich (Merck) Flow Chemistry product kits and reagent supports (2009)
 
@@ -335,6 +375,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses large-scale hollow-fiber tangential-flow-filtration cartridges with low-shear flow geometries suitable for viral-vector and live-cell perfusion applications, spanning UF MWCO 3-750 kDa and MF pore sizes 0.1-0.65 µm, scalable to 28 m² per cartridge. Anticipates: hollow-fiber TFF cartridge families optimized for shear-sensitive species including AAV and lentivirus particles; specifically the architectural pattern of geometric scaling of fiber length, lumen diameter, and packing density across cartridge sizes while preserving shear and TMP behavior.
 
+## Agilent 708-DS / 280-DS Dissolution Apparatus with Online UV Flow Cell (2010)
+
+- **id**: `agilent-708-ds-dissolution-apparatus`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Agilent Technologies
+- **disclosure**: Agilent Technologies 708-DS Dissolution Apparatus and 280-DS automated sampling station datasheets; USP <711> Dissolution, Apparatus 1 (basket) and 2 (paddle) with online UV flow-cell detection
+- **ip status**: patented
+- **prior art notes**: Discloses an automated dissolution sampling station that withdraws metered timepoint aliquots through inline cannula filters and routes them through a short-pathlength quartz flow cell for online UV absorbance. Anticipates: short-pathlength flow-through optical cells for dissolution readback; automated timepoint metering with inline filtration; the architecture of a sampling-station + flow-cell dissolution analyzer. Companion to sotax-ce7smart-flow-through-dissolution-cell (Apparatus 4) and pion-rainbow-insitu-dissolution-fiber-optic (in-situ).
+
 ## GSK / CMAC Strathclyde continuous-flow API manufacturing platform (2011)
 
 - **id**: `gsk-strathclyde-cmac-continuous-api`
@@ -354,6 +404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: James S. A. Corey, Leviathan Wakes (Orbit 2011) ISBN 978-0-316-12908-4, chapters describing Ceres Station infrastructure and the Belter dependency on water/air reclaim; reinforced across The Expanse TV series Seasons 1-3 (Syfy/Amazon 2015-2018), notably S1E1 'Dulcinea' Ceres scenes and S2 'Static' Tycho engineering scenes.
 - **ip status**: fictional
 - **prior art notes**: Depicts Belter habitats sustained by closed-loop life-support infrastructure that recovers potable water from urine, sweat, and atmospheric humidity, and recovers breathable air through CO2 scrubbing and humidity capture. Scenes describe stage-wise filtration banks, ion-exchange polishing, and station-scale evaporator/condenser loops with on-line conductivity and contaminant sensing. Prior-art coverage for: serially-staged water reclaim cartridges (filtration -> ion exchange -> polishing -> chemical disinfection -> conductivity QC) sized for habitat-scale flows; humidity-condensate microchannel collectors integrated into ventilation manifolds; the architectural pattern of Belter-style scarcity-driven 99%+ closed loops on a continuously-perfused station network. Anticipates claims to integrated cartridge stacks combining multiple water-treatment microfluidic primitives in a serial card format with on-line in-line monitoring.
+
+## Tritium permeation and extraction microfluidic cell (fusion fuel cycle / breeding-blanket processing) (2011-10-01)
+
+- **id**: `tritium-permeation-microfluidic-cell-fusion-fuel-cycle`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: fusion-research institutions (Idaho National Laboratory; CIEMAT, Spain; KIT, Germany; ENEA, Italy; UKAEA; ITER Organization)
+- **disclosure**: Humrickhouse & Merrill, Vacuum permeator analysis for extraction of tritium from DCLL blankets, Fusion Sci. Technol.; see also Garcinuno et al., Design of a permeator-against-vacuum mockup for tritium extraction from lead-lithium, Fusion Eng. Des.; ITER tritium plant design reports.
+- **ip status**: patented
+- **prior art notes**: Discloses thin-membrane microchannel/capillary permeator and stripper units for extracting tritium from helium purge gas or liquid lithium-lead under a vacuum sink, with high surface-area-to-volume contacting and numbering-up. Anticipates claims to (a) microchannel membrane permeator for tritium extraction from a fusion-blanket purge stream; (b) microchannel/capillary contactor stripping tritium from flowing PbLi; (c) numbered-up small permeator array for a fusion fuel-cycle tritium plant; (d) microchannel test cell for membrane-material screening for hydrogen-isotope permeation. Prior art for fusion-research and tritium-plant permeator patents.
 
 ## Continuus Pharmaceuticals Integrated Continuous Manufacturing (ICM) platform (2012)
 
@@ -394,6 +454,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: QIAGEN QIAcube HT product launch 2013; user manual HB-1297-002
 - **ip status**: patented
 - **prior art notes**: Discloses a dual-chemistry 96-well NA extraction processor that supports both silica-membrane spin-equivalent and magnetic-bead workflows using shared pipette-tip plumbing. Anticipates: high-throughput sample-prep platforms that allow chemistry-agnostic protocol switching at the 96-well scale; hybrid silica-membrane-plus-magnetic-bead automated extraction.
+
+## Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) (2013-10-10)
+
+- **id**: `huh-2013-organ-chip-nature-protocols`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald E. Ingber group, Wyss Institute, Harvard
+- **disclosure**: Huh, D.; Kim, H. J.; Fraser, J. P.; Shea, D. E.; Khan, M.; Bahinski, A.; Hamilton, G. A.; Ingber, D. E. Microfabrication of human organs-on-chips. Nat. Protoc. 2013, 8, 2135-2157. DOI: 10.1038/nprot.2013.137
+- **ip status**: public-domain
+- **prior art notes**: The published fabrication protocol for the Wyss Institute organ-on-chip: how to mold the two parallel microchannels, cast and handle the thin porous PDMS membrane, plasma-bond the layers in alignment, etch the flanking side chambers, and apply cyclic vacuum to mechanically strain the cell-bearing membrane - the canonical recipe behind the lung/gut/etc. chips. As a public disclosure it anticipates fabrication-method claims to: a microfluidic organ device made by bonding two channel layers around a microfabricated thin porous elastomer membrane; vacuum-actuated side chambers for cyclic membrane stretch; and the specific layer-alignment/bonding workflow for such devices. Companion to huh-2010-lung-on-chip and bhatia-ingber-2014-microfluidic-organs-on-chips; this is the Wyss Microfluidics Core / Emulate reference protocol.
 
 ## WISSARD / SALSA Subglacial Antarctic Microbial Samplers (2014)
 
@@ -445,6 +515,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop laboratory TFF system that shares UNICORN control and method-editor architecture with the ÄKTA chromatography family, supporting both hollow-fiber and flat-sheet cassettes, with feed-pump, retentate-valve, and permeate-pump control plus inline UV-Vis and conductivity monitoring. Anticipates: lab-scale TFF systems unified with chromatography skid control software for end-to-end process automation in development; specifically the architectural pattern of single-vendor unified control across orthogonal unit operations enabling integrated downstream development workflows.
 
+## Bhatia and Ingber 2014 microfluidic organs-on-chips (2014-08-05)
+
+- **id**: `bhatia-ingber-2014-microfluidic-organs-on-chips`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Sangeeta N. Bhatia (MIT) and Donald E. Ingber (Wyss Institute, Harvard)
+- **disclosure**: Bhatia, S. N.; Ingber, D. E. Microfluidic organs-on-chips. Nat. Biotechnol. 2014, 32, 760-772. DOI: 10.1038/nbt.2989
+- **ip status**: public-domain
+- **prior art notes**: The seminal organ-on-chip review: it codifies the two-channel porous-membrane microdevice architecture with cyclic mechanical actuation that reconstitutes organ-level structure and function (lung, gut, liver, kidney, heart, blood-brain barrier, bone marrow), the perfusion schemes that mimic vascular and interstitial flow, and the linked-organ / body-on-chip concept for systemic pharmacokinetic-pharmacodynamic studies. As a unified prior-art statement it anticipates claims to: microfluidic organ models built from cell-lined channels separated by a flexible porous membrane under cyclic strain; multi-organ chips fluidically coupled to model systemic drug distribution; and the use of such devices for toxicity and efficacy testing. HIGH-PRIORITY anchor for the organ-on-chip industry (Emulate, TissUse, CN Bio, etc.). Companion to huh-2010-lung-on-chip, huh-2013-organ-chip-protocol, huh-bhatia-2018-mps-roadmap, sackmann-2014-microfluidics-medicine-review. From Bhatia (MIT) and Ingber (Wyss).
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -454,6 +534,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cytiva (formerly GE Healthcare; technology originally from Biosafe SA, acquired 2016). Sefia S-2000 product launch 2015. https://www.cytivalifesciences.com/en/us/shop/cell-therapy/instruments/sefia-s-2000-cell-processing-system. Underlying Sepax patent family: US7311849B2 (Biosafe SA; priority 2002).
 - **ip status**: patented
 - **prior art notes**: Discloses an automated closed-system cell-processing platform built around a single-use centrifugal separation chamber. The chamber spins on a vertical axis while inlet/outlet ports remain stationary via a rotary fluidic interface; cells are concentrated, washed, and reformulated in successive scripted cycles. Anticipates: (a) closed centrifugal-bowl architecture for CGT washing and formulation steps, especially as an interoperable upstream-downstream module in mixed-vendor CAR-T workflows; (b) rotary fluidic-interface valving for connecting stationary tubing to a spinning processing chamber; (c) script-driven multi-step cell processing in a barcode-tracked single-use kit. The Sefia kit is the de facto standard wash/concentrate step in many academic and commercial CAR-T lines including Kymriah and Yescarta.
+
+## Perfect Day Precision-Fermentation Animal-Free Whey Protein Bioprocess (2015)
+
+- **id**: `perfect-day-precision-fermentation-dairy-protein`
+- **corpus**: private
+- **device class**: other
+- **creator**: Perfect Day Inc.
+- **disclosure**: Perfect Day Inc. (Berkeley, California) precision-fermentation whey-protein process disclosures and patents on producing milk proteins in microbial culture
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial precision-fermentation bioprocess whose control depends on microliter-resolution feed/titrant dosing skids, inline microsampling, and at-line microfluidic analytics feeding a model-based controller. Anticipates: precision micro-dosing and microanalytics in food-protein fermentation; closed-loop fermentation control via at-line microfluidic product-quality measurement. General ag/food precision-fermentation prior-art anchor; companions: The EVERY Company (egg protein), Motif FoodWorks, Nature Fynd.
+
+## Esch 2015 organs-on-chips at the frontiers of drug discovery (2015-03-13)
+
+- **id**: `esch-2015-organs-on-chips-drug-discovery`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Dongeun (Dan) Huh group, University of Pennsylvania (with A. Bahinski)
+- **disclosure**: Esch, E. W.; Bahinski, A.; Huh, D. Organs-on-chips at the frontiers of drug discovery. Nat. Rev. Drug Discov. 2015, 14, 248-260. DOI: 10.1038/nrd4539
+- **ip status**: public-domain
+- **prior art notes**: The Nature Reviews Drug Discovery survey of organ-on-chip / microphysiological systems specifically as drug-discovery tools: where in the pipeline (target validation, lead optimization, ADME-Tox, surrogate clinical trials) chip models add predictive value over animals and static culture, how multi-organ chips model systemic pharmacokinetics, and the technical and regulatory hurdles to adoption. As a unified prior-art statement it anticipates claims to: use of microfluidic organ models in defined drug-development workflows; coupled multi-organ chips for PK/PD prediction; and integration of organ chips with pharmacokinetic effluent sampling. Companion to bhatia-ingber-2014-microfluidic-organs-on-chips and huh-bhatia-2018-mps-roadmap. From the Huh group (Penn).
 
 ## SQZ AAC (Activating Antigen Carrier) platform (2017)
 
@@ -515,6 +615,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: unknown
 - **prior art notes**: Discloses eDNA-based qPCR quantification of L. salmonis larvae in cage-water samples as regulatory monitoring tool. Anticipates eDNA-based parasitic-louse qPCR monitoring cartridge for aquaculture regulatory compliance claims.
 
+## Thermo Fisher Accula (Mesa Biotech) Dock-and-Go Molecular POC Cartridge (2017)
+
+- **id**: `thermo-fisher-accula-mesa-biotech-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Thermo Fisher Scientific (Mesa Biotech)
+- **disclosure**: Mesa Biotech (San Diego; acquired by Thermo Fisher Scientific 2021) Accula System disclosures and FDA-cleared/EUA molecular POC tests; patents on a lateral-flow-readout RT-PCR cartridge with a reusable dock
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized RT-PCR cassette in which on-cassette amplification (heated by a reusable dock) is followed by lateral-flow amplicon detection with visual lines, achieving PCR sensitivity without reader optics. Anticipates: PCR-then-lateral-flow integrated POC cassettes; reusable-dock + disposable-amplification-cassette architectures. Companion to lucira-check-it-flu-covid-test and other strip-readout molecular POC entries.
+
 ## Asahi Kasei Planova S20N continuous virus filter (2018)
 
 - **id**: `asahi-kasei-planova-s20n`
@@ -544,6 +654,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sartorius Sartoflow Smart product launch 2018; https://www.sartorius.com/en/products/process-filtration/tangential-flow-filtration/sartoflow-smart; product datasheet rev 2020.
 - **ip status**: patented
 - **prior art notes**: Discloses a benchtop tangential-flow-filtration skid with single-use cassette compatibility, integrated transmembrane-pressure and crossflow-rate feedback control, recipe-driven automation, and an SCADA-style HMI; the skid handles process volumes from 50 mL through 5 L. Anticipates: benchtop development-scale TFF systems with closed-loop TMP/permeate-flux control and recipe automation; specifically the architectural pattern for late-process-development and clinical-scale mRNA, AAV, and mAb buffer-exchange / concentration steps where benchtop scale must mirror manufacturing-scale TFF behavior.
+
+## Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) (2018)
+
+- **id**: `truvian-health-desktop-blood-analyzer-disc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Truvian Health
+- **disclosure**: Truvian Health (formerly Truvian Sciences, San Diego) desktop blood-testing system disclosures and patents on a centrifugal microfluidic cartridge integrating chemistry, immunoassay and hematology from a small whole-blood sample
+- **ip status**: patented
+- **prior art notes**: Discloses a centrifugal microfluidic cartridge that meters and separates plasma from a small whole-blood sample and routes it to multiplexed chemistry, immunoassay and cell-count subassays read optically in a benchtop instrument with dried on-cartridge reagents. Anticipates: integrated centrifugal cartridges combining chemistry/immunoassay/hematology; benchtop full-panel blood analyzers from a fingerstick-scale sample. Companions: abbott-piccolo-xpress (centrifugal chemistry, already covered), sight-diagnostics-olo (POC CBC), babson-diagnostics-ac-workcell.
 
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
@@ -614,6 +734,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kraken Sense Inc. product literature; krakensense.com; CES 2022 disclosure
 - **ip status**: patented
 - **prior art notes**: Discloses an automated industrial water-pathogen monitoring cartridge that performs concentration, lysis, LAMP amplification, and detection from large-volume water samples. Anticipates: automated industrial-water pathogen monitoring cartridges; LAMP-on-cartridge with upstream filtration concentration; IoT-connected food-safety monitoring with disposable cartridges.
+
+## Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System (2021)
+
+- **id**: `babson-diagnostics-ac-workcell-microfluidic`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Babson Diagnostics
+- **disclosure**: Babson Diagnostics (Austin, Texas) aC Workcell / BetterWay disclosures and patents on automated preparation of small capillary-blood samples for routine clinical chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a fingerstick collection device plus a microfluidic sample-prep cartridge that meters, anticoagulates, mixes and separates plasma from microliter-scale capillary blood so it can be run on standard automated analyzers. Anticipates: capillary-blood microfluidic sample-prep cartridges decoupling tiny samples from standard lab instruments; retail-pharmacy workcell architectures. Companion to truvian-health-desktop-blood-analyzer-disc and sight-diagnostics-olo (POC CBC).
 
 ## Curio Trekker - Pooled-screen spatial barcoding 2024 extend (2024)
 

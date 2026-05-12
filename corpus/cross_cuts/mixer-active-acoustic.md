@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-active-acoustic`
 
-**7 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1890
 
@@ -35,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Adaptive Focused Acoustics (AFA): a high-intensity focused-ultrasonic transducer is positioned beneath a glass microTUBE in a degassed water bath; acoustic cavitation in the focal zone shears DNA reproducibly to programmable size. Anticipates: focused-acoustic-cavitation as a non-contact, isothermal DNA-shearing primitive in a disposable glass tube; the architectural pattern of an instrument-side acoustic transducer coupled through a fluid bath to a disposable. The Covaris AFA architecture has been extended to cell lysis, FFPE deparaffinization, and chromatin shearing - a broad prior-art umbrella.
 
+## Single-wafer wet-clean chemistry delivery and megasonic nozzle (SCREEN FREXION / TEL CELLESTA class) (2002-09-19)
+
+- **id**: `screen-frexion-tel-cellesta-single-wafer-clean`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: SCREEN Semiconductor Solutions (SCREEN FREXION/SU-3200), Tokyo Electron (CELLESTA), Lam Research (DV-Prime/EOS), SEMES
+- **disclosure**: US20020134408A1 / US6488037B1 Programmable based dilute chemistry process and apparatus (SCREEN/DNS, point-of-use dilution single-wafer cleaning); see also Kern, The Evolution of Silicon Wafer Cleaning Technology, J. Electrochem. Soc. 1990.
+- **ip status**: patented
+- **prior art notes**: Discloses on-tool microfluidic blending of concentrated cleaning chemicals with hot DI water to make dilute SC-1/SC-2/HF at the point of use, dispensed through scanning or megasonic nozzles onto a spinning wafer. Anticipates claims to (a) point-of-use dilution blending of semiconductor cleaning chemistry with closed-loop concentration control; (b) megasonic energy delivered through a controlled sub-millimeter fluid film/nozzle gap; (c) single-wafer sequential-chemistry processing by programmed microfluidic dispense. Prior art for SCREEN, TEL, Lam and SEMES single-wafer-clean chemistry-module patents.
+
 ## Nguyen & Wereley 2006 — Fundamentals and Applications of Microfluidics (2nd ed) (textbook) (2006-08-31)
 
 - **id**: `nguyen-wereley-2006-fundamentals-microfluidics-textbook`
@@ -44,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ISBN 978-1580539722; Artech House, 2nd edition, 2006 (1st ed 2002)
 - **ip status**: public-domain
 - **prior art notes**: Engineering textbook with extensive device-level coverage: micropumps (electrokinetic, piezo, peristaltic, thermopneumatic, MHD), microvalves (active and passive, check, pinch, ball), micromixers (passive lamination, chaotic advection, active acoustic and electrokinetic), and detection. Each device class is described in enough engineering detail to enable an undergraduate to build it. Anticipates: device-level patent claims on microfluidic pumps, valves, and mixers in any of the listed taxonomies — they are obvious in view of this textbook's catalog. Particularly load-bearing: catalog of 'pump architectures usable on chip' defeats narrow novelty for any post-2002 micropump claim.
+
+## FOSS MilkoScan FT3 / CombiScan FT-IR Flow-Cell Milk Analyzer (2008)
+
+- **id**: `foss-milkoscan-ftir-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FOSS Analytical A/S
+- **disclosure**: FOSS Analytical A/S MilkoScan FT3 / CombiScan datasheets and manuals; IDF/ISO FT-IR milk analysis reference methods
+- **ip status**: patented
+- **prior art notes**: Discloses a thin-path CaF2-windowed mid-IR transmission flow cell fed by an integrated homogenizer and pump for rapid composition analysis of an opaque emulsion, with automatic rinse and thermostatting. Anticipates: sub-50-micron-path IR flow cells for turbid samples; integrated homogenizer-then-flow-cell architectures; FT-IR flow-cell food/beverage analyzers. Same FOSS FT-IR flow-cell lineage as the WineScan and BeerScan analyzers.
 
 ## AMTechnology Coflore ATR oscillatory baffled flow reactor (2010)
 
@@ -74,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Friend, J., Yeo, L. Y. (2011). 'Microscale acoustofluidics: Microfluidics driven via acoustics and ultrasonics.' Rev. Mod. Phys. 83(2): 647-704. doi:10.1103/RevModPhys.83.647
 - **ip status**: public-domain
 - **prior art notes**: Friend-Yeo 2011 is the definitive RMP-level review of microscale acoustofluidics, covering surface-acoustic-wave microfluidics, bulk-acoustic-wave standing-wave devices, acoustic streaming microfluidics, atomization and ejection via acoustics, and acoustic-tweezers and acoustofluidic separation. Anticipates any patent claim around SAW-driven, BAW-driven, or acoustic-streaming microfluidic devices. Required clearance for the entire acoustofluidic patent ecosystem.
+
+## Malvern Panalytical Mastersizer 3000 Hydro Wet Dispersion Cell (2011)
+
+- **id**: `malvern-mastersizer-3000-wet-dispersion-cell`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Malvern Panalytical
+- **disclosure**: Malvern Instruments (Malvern Panalytical) Mastersizer 3000 with Hydro dispersion units brochure and user manual (2011)
+- **ip status**: patented
+- **prior art notes**: Discloses a recirculating fluidic loop that carries a particle suspension through a windowed optical measurement cell for laser-diffraction sizing, with integrated pump, stirrer, sonicator and a small-volume stirred micro-cuvette option. Anticipates: flow-through optical sizing cells with a defined short optical path; small-volume recirculating dispersion loops for scarce samples. The wet-dispersion cell is a genuine fluidic subsystem (windowed flow cell + recirculation).
 
 ## Snapdragon Chemistry continuous-manufacturing platform (acquired by Cambrex 2021) (2014)
 

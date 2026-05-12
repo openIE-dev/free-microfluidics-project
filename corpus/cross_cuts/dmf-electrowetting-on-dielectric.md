@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `dmf-electrowetting-on-dielectric`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Advanced Liquid Logic (acquired by Illumina 2013). NeoPrep system launched 2014.
 - **ip status**: patented
 - **prior art notes**: Commercial implementation of EWOD digital microfluidics for nucleic acid library preparation, automating a previously manual NGS sample-prep workflow on a disposable EWOD cartridge. The platform was discontinued by Illumina in 2017 but the IP position survives. Anticipates: EWOD as commercial NGS sample-prep automation, and the disposable-cartridge form factor for DMF.
+
+## Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications (2007-08-08)
+
+- **id**: `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roland Zengerle group, IMTEK, University of Freiburg / HSG-IMIT
+- **disclosure**: Haeberle, S.; Zengerle, R. Microfluidic platforms for lab-on-a-chip applications. Lab Chip 2007, 7, 1094-1110. DOI: 10.1039/b706364b
+- **ip status**: public-domain
+- **prior art notes**: The Lab on a Chip review that organized the field into microfluidic platforms by liquid-propulsion principle - capillary, pressure-driven, centrifugal (lab-on-a-disc), electrokinetic, droplet/segmented-flow, and electrowetting digital microfluidics - and compared them by the unit operations each supports and their state of commercialization. As a prior-art survey it anticipates claims framing combinations of these propulsion principles and unit operations as integrated lab-on-chip systems, and documents the centrifugal microfluidic / lab-on-a-disc architecture in detail. Companion to and precursor of mark-2010-microfluidic-platforms-review. From the Zengerle group (Freiburg/HSG-IMIT), a major centrifugal-microfluidics center.
 
 ## DropBot open-source digital microfluidics platform (2013)
 

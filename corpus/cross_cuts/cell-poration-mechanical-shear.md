@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-poration-mechanical-shear`
 
-**13 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1986
 
@@ -65,6 +65,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an aerosolized population of sub-micron medical machines that perform in-vivo, in-situ remodeling of tissue against a stored template, with contact-propagation and template-correction. Anticipates broad claims to aerosol-delivered cell-scale therapeutic agents that edit tissue toward a reference state and to template-driven autonomous in-body repair. Borderline for a microfluidics corpus (no chip), but the in-body fluidic distribution and sub-cellular dosing is the cited aspect; pairs with Iron Man Extremis-style virus entries.
 
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
+## El-Ali 2006 cells on chips (2006-07-27)
+
+- **id**: `el-ali-2006-cells-on-chips`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Klavs F. Jensen and Peter K. Sorger groups, MIT
+- **disclosure**: El-Ali, J.; Sorger, P. K.; Jensen, K. F. Cells on chips. Nature 2006, 442, 403-411. DOI: 10.1038/nature05063
+- **ip status**: public-domain
+- **prior art notes**: The canonical Nature-insight review of cell biology on microfluidic chips: single-cell hydrodynamic and other trapping, perfusion culture with controlled microenvironments, microfluidic concentration-gradient generators, dynamic-stimulus delivery, on-chip lysis, and integration with downstream nucleic-acid/protein assays for systems-biology-grade single-cell measurements. As a unified prior-art statement it anticipates claims to: microfluidic perfusion culture with programmable soluble-factor gradients; integrated trap-stimulate-lyse-analyze workflows for single cells; and the broad concept of using microfluidics to make time-resolved, quantitative single-cell biology routine. Companion to di-carlo-2006-cell-trap-array and voldman-2002-cell-trap-dep-array. From the MIT Jensen/Sorger labs.
+
 ## NUS Mechano-Biology Institute microfluidic patent family (2010)
 
 - **id**: `nus-mechano-biology-institute-patent-family`
@@ -104,6 +124,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sharei et al., 'A vector-free microfluidic platform for intracellular delivery,' PNAS 110(6):2082-2087 (2013), doi:10.1073/pnas.1218705110; US patent US9,950,049B2 (Compositions and methods for intracellular delivery; priority 2013); SQZ Biotechnologies S-1 (2020)
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon microfluidic chip containing parallel arrays of constrictions narrower than the cell diameter; cells flow through under pressure, transient membrane discontinuities form by mechanical shear, allowing diffusive uptake of co-flowing cargo before membrane reseals. Anticipates: (a) cell-poration by passive geometric constriction without external field; (b) parallel scale-out of constriction channels for clinical-throughput delivery; (c) using the same chip architecture for B/T-cell antigen loading (SQZ APC product); (d) closed disposable cartridge format coupled to the chip for sterile fill of patient-derived cells. Distinguishable from electroporation (no field), from sonoporation (no acoustic), and from viral transduction (no biologic vector). Element-by-element: parallel constrictions + pressure drive + cargo co-flow + downstream collection chamber.
+
+## Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) (2013-10-10)
+
+- **id**: `huh-2013-organ-chip-nature-protocols`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald E. Ingber group, Wyss Institute, Harvard
+- **disclosure**: Huh, D.; Kim, H. J.; Fraser, J. P.; Shea, D. E.; Khan, M.; Bahinski, A.; Hamilton, G. A.; Ingber, D. E. Microfabrication of human organs-on-chips. Nat. Protoc. 2013, 8, 2135-2157. DOI: 10.1038/nprot.2013.137
+- **ip status**: public-domain
+- **prior art notes**: The published fabrication protocol for the Wyss Institute organ-on-chip: how to mold the two parallel microchannels, cast and handle the thin porous PDMS membrane, plasma-bond the layers in alignment, etch the flanking side chambers, and apply cyclic vacuum to mechanically strain the cell-bearing membrane - the canonical recipe behind the lung/gut/etc. chips. As a public disclosure it anticipates fabrication-method claims to: a microfluidic organ device made by bonding two channel layers around a microfabricated thin porous elastomer membrane; vacuum-actuated side chambers for cyclic membrane stretch; and the specific layer-alignment/bonding workflow for such devices. Companion to huh-2010-lung-on-chip and bhatia-ingber-2014-microfluidic-organs-on-chips; this is the Wyss Microfluidics Core / Emulate reference protocol.
+
+## Bhatia and Ingber 2014 microfluidic organs-on-chips (2014-08-05)
+
+- **id**: `bhatia-ingber-2014-microfluidic-organs-on-chips`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Sangeeta N. Bhatia (MIT) and Donald E. Ingber (Wyss Institute, Harvard)
+- **disclosure**: Bhatia, S. N.; Ingber, D. E. Microfluidic organs-on-chips. Nat. Biotechnol. 2014, 32, 760-772. DOI: 10.1038/nbt.2989
+- **ip status**: public-domain
+- **prior art notes**: The seminal organ-on-chip review: it codifies the two-channel porous-membrane microdevice architecture with cyclic mechanical actuation that reconstitutes organ-level structure and function (lung, gut, liver, kidney, heart, blood-brain barrier, bone marrow), the perfusion schemes that mimic vascular and interstitial flow, and the linked-organ / body-on-chip concept for systemic pharmacokinetic-pharmacodynamic studies. As a unified prior-art statement it anticipates claims to: microfluidic organ models built from cell-lined channels separated by a flexible porous membrane under cyclic strain; multi-organ chips fluidically coupled to model systemic drug distribution; and the use of such devices for toxicity and efficacy testing. HIGH-PRIORITY anchor for the organ-on-chip industry (Emulate, TissUse, CN Bio, etc.). Companion to huh-2010-lung-on-chip, huh-2013-organ-chip-protocol, huh-bhatia-2018-mps-roadmap, sackmann-2014-microfluidics-medicine-review. From Bhatia (MIT) and Ingber (Wyss).
+
+## Titan-shifter serum and Marleyan injection apparatus (Attack on Titan) (2014-09-13)
+
+- **id**: `attack-on-titan-titan-serum-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hajime Isayama / Kodansha
+- **disclosure**: Attack on Titan (Hajime Isayama, Kodansha; manga 2009- ; anime Wit Studio/MAPPA 2013-2023). The Titan-serum and injection apparatus appear across the Clash of the Titans / Return to Shiganshina / Marley arcs (anime second-fourth seasons, e.g. ep. broadcast 2017-09-13 onward); IMDB tt2560140.
+- **ip status**: fictional
+- **prior art notes**: Discloses a standardized single-dose biological serum delivered by injection or covert ingestion that effects a programmed transformation in the recipient, with variants carrying specific traits, plus a remote-trigger activation across all dosed recipients. Cited aspects: the dose-unit transformation serum and the covert-ingestion delivery vector with deferred remote activation. Anticipates generic claims to single-dose programmable-effect biologics and to delayed-action prodrug/vector systems with external triggering. High 102 value (the serum is a central plot device). Pairs with my-hero-academia Nomu and one-punch-man-doctor-genus fictional entries.
 
 ## SQZ AAC (Activating Antigen Carrier) platform (2017)
 

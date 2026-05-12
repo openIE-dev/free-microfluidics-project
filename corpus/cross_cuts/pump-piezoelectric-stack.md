@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-piezoelectric-stack`
 
-**40 corpus entries disclose this subsystem.**
+**41 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -274,6 +274,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OKI Data ColorPainter product datasheets (oki.com/printers); OKI ColorPainter H-104s and W-64s product specifications; Seiko I Infotech ColorPainter as predecessor brand
 - **ip status**: patented
 - **prior art notes**: OKI/Seiko I Infotech ColorPainter product family captures the pattern of OEM-head + Japanese integrator wide-format solvent printers, complementary to Roland and Mimaki entries. Discloses: (a) carriage architecture for SII RC1536-class heads driven from a host integrator's electronics, (b) eco-solvent ink-system integration with on-machine recirculation and capping, (c) wide-format productization at print widths above 64". Concrete prior art for the OEM-piezo + integrator-machine architectural class outside of the Roland/Mimaki/Mutoh trio.
+
+## Busek BET ionic-liquid electrospray micro-thruster (BET-MAX / BET-100) (2006-07-09)
+
+- **id**: `busek-bet-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Busek Co. Inc.
+- **disclosure**: Ziemer et al., Colloid micro-newton thrust development for the LISA Pathfinder mission, AIAA 2006 / Joint Propulsion Conference; see also US7872848B2 Method of operating a colloid thruster (Busek Co. Inc.).
+- **ip status**: patented
+- **prior art notes**: Discloses precision microfluidic propellant metering (porous restrictor / piezo / pressure feed) delivering sub-microliter/s ionic-liquid flow to capillary emitter arrays for finely throttleable electrospray thrust, flight-proven for drag-free control. Anticipates claims to (a) micro-newton-resolution colloid/electrospray thrust by controlled sub-microliter/s propellant feed; (b) porous flow-restrictor metering to an electrospray emitter array; (c) externally-wetted needle electrospray emitter array; (d) ionic-liquid propellant feed system with extractor/accelerator electrodes. Prior art for Busek, Accion and Enpulsion electrospray-propulsion patents.
 
 ## Toshiba TEC inkjet/fluidic patent family (2007)
 

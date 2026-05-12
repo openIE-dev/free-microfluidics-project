@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-poration-electric`
 
-**14 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2001
 
@@ -54,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MaxCyte GTx CE-mark and 510(k) clearance documentation 2014; MaxCyte Inc. SEC S-1 (2021); US patent US7,029,916B2 (parent flow-electroporation chamber)
 - **ip status**: patented
 - **prior art notes**: GMP-grade variant of the STX flow-electroporation chamber, packaged with traceable single-use assembly and 21 CFR Part 11 control electronics. Anticipates: closed-system clinical electroporation of patient-derived cells where the entire fluid path is single-use, sterile-welded to upstream apheresis bag and downstream wash/formulation, controlled by a regulated audit-trail electronics stack. Element-by-element: weldable inlet + disposable parallel-plate chamber + sterile collection bag + GMP audit-trail SCADA. Distinguishable from MaxCyte STX (research-grade) by the GMP cartridge and software, not the underlying electrochemistry.
+
+## The Carving bio-augmentation surgery and Color-engineering resurrection vats (Pierce Brown, Red Rising) (2014-01-28)
+
+- **id**: `pierce-brown-red-rising-carving-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Pierce Brown
+- **disclosure**: Pierce Brown, Red Rising (Del Rey, 2014-01-28, ISBN 978-0345539786) and sequels (Golden Son 2015, Morning Star 2016, Iron Gold 2018, Dark Age 2019, Light Bringer 2023); the Carvers surgically and genetically re-engineer a person between Colors (notably Darrows transformation from a Red to a Gold) and operate resurrection/recovery vats.
+- **ip status**: fictional
+- **prior art notes**: Discloses a surgical suite performing whole-body remodeling under perfusion plus injectable/electroporated somatic gene-rewrite payloads plus fluid-filled recovery vats for reconstruction and revival. Cited aspects: the perfusion-supported whole-body remodeling suite and the fluid-filled recovery-vat for post-procedure sustainment/revival. Anticipates generic claims to perfusion-supported whole-body surgical-remodeling platforms and to fluid-immersion recovery/revival vats. HIGH 102 value: the Carving is a central, named, mechanically detailed element. Pairs with poor-things-godwin-baxter-surgical-lab, half-life-2-combine-overwatch-transhuman-conversion, and prometheus-medpod-style entries.
+
+## Black-market embryonic gene-editing rig and adult phenotype-rewrite kit (Daniel Suarez, Change Agent) (2017-04-18)
+
+- **id**: `suarez-change-agent-black-market-gene-editing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Daniel Suarez
+- **disclosure**: Daniel Suarez, Change Agent (Dutton, 2017-04-18, ISBN 978-1101984666); near-future Singapore, illegal labs perform embryonic CRISPR-class edits and a black-market adult phenotype-rewrite (reflexive genetic editing) that remodels a living persons body to match another genome.
+- **ip status**: fictional
+- **prior art notes**: Discloses a bench gene-editing platform (microfluidic embryo handling + payload synthesis + electroporation/injection) and an injectable self-propagating adult-edit payload remodeling tissues toward a target genome, with sequencing QC. Cited aspects: the integrated embryo-handling-plus-payload-delivery bench and the injectable progressive-phenotype-rewrite payload. Anticipates generic claims to integrated gene-editing benches with microfluidic embryo handling and to systemic progressive-editing therapeutic payloads. HIGH 102 value: the work centers on the editing device/process. Pairs with gattaca-instant-genome-readout, naam-nexus-trilogy-implant, and rajaniemi-darkome-diy-synthetic-biology.
 
 ## MaxCyte ATx Flow Electroporation System (2018)
 
@@ -144,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Miltenyi Biotec CliniMACS Prodigy Adapt product launch. https://www.miltenyibiotec.com/global/en/products/clinimacs-prodigy-adapt.html (announced 2023; references parent CliniMACS Prodigy patent family).
 - **ip status**: patented
 - **prior art notes**: Extension module to the CliniMACS Prodigy closed-cartridge platform that adds higher-throughput and adaptable process steps for allogeneic cell therapies (gene-edited NK, iPSC-derived, off-the-shelf CAR-T). Architecturally significant as the first commercial closed cartridge to integrate selection, activation, transduction/electroporation, expansion, formulation, and fill-finish for allogeneic products in a single disposable. Anticipates: closed-cartridge architectures supporting multi-modal gene delivery (lentiviral, electroporation, chemical) and continuous selection across multiple cell types within one disposable; modular extensions to GMP cartridge platforms.
+
+## DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) (2024-10-01)
+
+- **id**: `rajaniemi-darkome-diy-synthetic-biology-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hannu Rajaniemi
+- **disclosure**: Hannu Rajaniemi, Darkome (Gollancz, 2024; ISBN 978-1399610483); a near-future biohacker thriller in which DIY-bio collectives use home synthetic-biology rigs to design, print, and test self-administered immune-modulating constructs and personalized therapeutics outside the regulated medical system.
+- **ip status**: fictional
+- **prior art notes**: Discloses a benchtop synthetic-biology rig integrating nucleic-acid synthesis, microfluidic cell-free expression cartridges, automated wet-lab steps, on-rig sequencing/assay feedback, and a self-administration injector, in a closed design-build-test loop. Cited aspects: the integrated bench DBT rig with microfluidic cartridges and the rig-output-to-self-administration-injector coupling. Anticipates generic claims to integrated benchtop design-build-test synthetic-biology platforms and to point-of-use biologic synthesis-then-self-administer systems. HIGH 102 value: the work centers on the DIY-bio device/process. Pairs with suarez-change-agent-black-market-gene-editing, metafluidics-platform, and naam-nexus-trilogy-implant.
 
 ## AESOP: acoustic-electric shear orbiting poration (2026-04-09)
 

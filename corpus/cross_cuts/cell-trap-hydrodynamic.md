@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-hydrodynamic`
 
-**21 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1890
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an automated Trypan Blue dye-exclusion cell viability instrument with a flow-cell-capillary image-based discrimination architecture: peristaltic pump aspirates sample from cup, mixes 1:1 with Trypan Blue, transports plug into a 100-µm-deep glass flow capillary positioned in the focal plane of a 10x microscope objective with CCD imaging, and applies image-based discrimination (membrane-intact cells exclude dye and appear bright; membrane-compromised cells absorb dye and appear dark blue). The instrument autoflushes between samples. Anticipates: image-based Trypan Blue cell viability automation for bioreactor monitoring; CHO/Sf9/HEK QC use as a pharmacopeial method; the architectural choice of flow-cell + brightfield imaging vs flow cytometry + propidium iodide for the same endpoint.
 
+## FLIR IBAC bioaerosol identifier and particulate-collector unit (2004-08-26)
+
+- **id**: `flir-ibac-bioaerosol-trigger-collector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / BioVigilant); related fielded units include the US JBPDS triggers
+- **disclosure**: US20040159799A1 / US7126687B2 Method and instrument for detecting biological agents in aerosol (Hairston/Ho-style UV laser-induced fluorescence; ICx BioVigilant / FLIR lineage); see also Ho, Future of biological aerosol detection, Anal. Chim. Acta 457, 125 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses an aerodynamic micro-nozzle/virtual-impactor concentrator feeding a single-particle UV-LIF interrogation cell, plus an integrated aerosol-to-liquid microfluidic collector for confirmatory assays - a trigger-and-collect bioaerosol microfluidic system. Anticipates claims to (a) aerodynamic-focusing micro-nozzle into a single-particle UV-fluorescence/scatter bioaerosol cell; (b) intrinsic-fluorophore (tryptophan/NADH) single-particle bio-trigger; (c) integrated aerosol-to-liquid collector capturing trigger-flagged particles for PCR/immunoassay confirmation; (d) networked bioaerosol warning sensor with on-board collection. Prior art for FLIR/ICx/BioVigilant and competing UV-LIF bioaerosol-detector patents.
+
 ## Microfluidic cell-trap array for single-cell analysis (2006)
 
 - **id**: `di-carlo-2006-cell-trap-array`
@@ -74,6 +84,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Di Carlo, D.; Aghdam, N.; Lee, L. P. Single-cell enzyme concentrations, kinetics, and inhibition analysis using high-density hydrodynamic cell isolation arrays. Anal. Chem. 2006, 78, 4925–4930. DOI: 10.1021/ac060541s
 - **ip status**: patented
 - **prior art notes**: Disclosed high-density hydrodynamic cell trap array: PDMS chip with serial-arranged U-shaped cup traps, each capturing exactly one cell from flowing suspension by streamline-following. Anticipates: U-cup hydrodynamic single-cell trap as a primitive, addressable single-cell observation arrays, and the architectural pattern subsequently elaborated by Tay-group and others for time-resolved single-cell measurement.
+
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
+## El-Ali 2006 cells on chips (2006-07-27)
+
+- **id**: `el-ali-2006-cells-on-chips`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Klavs F. Jensen and Peter K. Sorger groups, MIT
+- **disclosure**: El-Ali, J.; Sorger, P. K.; Jensen, K. F. Cells on chips. Nature 2006, 442, 403-411. DOI: 10.1038/nature05063
+- **ip status**: public-domain
+- **prior art notes**: The canonical Nature-insight review of cell biology on microfluidic chips: single-cell hydrodynamic and other trapping, perfusion culture with controlled microenvironments, microfluidic concentration-gradient generators, dynamic-stimulus delivery, on-chip lysis, and integration with downstream nucleic-acid/protein assays for systems-biology-grade single-cell measurements. As a unified prior-art statement it anticipates claims to: microfluidic perfusion culture with programmable soluble-factor gradients; integrated trap-stimulate-lyse-analyze workflows for single cells; and the broad concept of using microfluidics to make time-resolved, quantitative single-cell biology routine. Companion to di-carlo-2006-cell-trap-array and voldman-2002-cell-trap-dep-array. From the MIT Jensen/Sorger labs.
 
 ## DVS Sciences / Fluidigm CyTOF Mass Cytometry Patent Family (2007)
 
@@ -94,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Conant CG et al., J Lab Autom 16:148-152 (2011); doi:10.1016/j.jala.2010.10.001; Fluxion Biosciences product literature; fluxionbio.com
 - **ip status**: patented
 - **prior art notes**: Discloses a microwell-plate-format microfluidic cell-adhesion assay system with parallel pneumatic pressure control across 24-48 channels. Anticipates: multiwell-plate-format shear-stress adhesion screening platforms; pneumatic-manifold-coupled microfluidic well plates; the architectural pattern of well-plate-compatible perfusion for high-throughput mechanobiology. Distinct from existing fluxion-bioflux-platform entry by specifying the 1000z generation and adhesion-assay specialization.
+
+## Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) (2007-12-20)
+
+- **id**: `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Mehmet Toner group, Massachusetts General Hospital / Harvard (with Haber, Maheswaran)
+- **disclosure**: Nagrath, S.; Sequist, L. V.; Maheswaran, S.; Bell, D. W.; Irimia, D.; Ulkus, L.; Smith, M. R.; Kwak, E. L.; Digumarthy, S.; Muzikansky, A.; Ryan, P.; Balis, U. J.; Tompkins, R. G.; Haber, D. A.; Toner, M. Isolation of rare circulating tumour cells in cancer patients by microchip technology. Nature 2007, 450, 1235-1239. DOI: 10.1038/nature06385
+- **ip status**: public-domain
+- **prior art notes**: The founding circulating-tumor-cell microchip: a flow chamber packed with tens of thousands of antibody (anti-EpCAM)-functionalized microposts whose geometry and spacing are optimized so that cells in unprocessed whole blood collide with post surfaces frequently enough to be affinity-captured while shear stays below the threshold for cell loss - isolating CTCs at frequencies of a few cells per milliliter at high purity for enumeration and downstream genotyping. Anticipates claims to: affinity capture of rare cells from unprocessed whole blood on an array of antibody-coated microstructures; micropost-array geometry designed via streamline/collision-probability analysis to trade capture efficiency against shear; and integrated rare-cell capture plus on-chip immunostaining and molecular analysis. HIGH-PRIORITY anchor for the liquid-biopsy / CTC industry (CTC-iChip, CellSearch alternatives). Toner-lab MGH lineage; descendant work includes ozkumur-2013-ctc-iChip. Companion to toner-irimia-2005-blood-on-chip.
 
 ## Microfluidic cell-pairing trap arrays for cell fusion (2009)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-syringe-driven`
 
-**53 corpus entries disclose this subsystem.**
+**65 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1960
 
@@ -115,6 +115,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Olympus endoscope fluidic patent family covers integrated irrigation/aspiration fluidic manifold with cross-patient isolation. Anticipates claims directed to endoscope-channel multi-channel fluidic manifolds with cross-patient sterile isolation.
 
+## Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module (1998-11-10)
+
+- **id**: `tel-clean-track-resist-dispense-nozzle`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tokyo Electron Limited (also SCREEN SOKUDO, Lam Research / SEZ track systems); dispense pumps by CKD, Saint-Gobain Furon, Entegris IntelliGen / NT International
+- **disclosure**: US5985039A Apparatus and method for coating substrate with film of liquid (Tokyo Electron); see also US6471782B1 resist coating apparatus and method.
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic dispense head: positive-displacement resist pump with sub-microliter repeatability, suck-back anti-drip nozzle, inline degas/filter, and programmed dispense profiling onto a spinning substrate. Anticipates claims to (a) anti-drip suck-back nozzle for photochemical dispense; (b) closed-loop volumetric verification of a sub-microliter dispense; (c) point-of-use degassing of a viscous resist immediately before the dispense orifice. Prior art for Entegris IntelliGen / NT International pump patents and for any low-consumption resist dispense claim.
+
+## Yokogawa Fluid Imaging Technologies FlowCam Flow Imaging Microscope (1999)
+
+- **id**: `fluid-imaging-flowcam-flow-imaging-microscopy`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Yokogawa Fluid Imaging Technologies
+- **disclosure**: Fluid Imaging Technologies (now Yokogawa Fluid Imaging) FlowCam product literature; Sieracki et al. 1998 imaging-in-flow particle analyzer publications; US patents on flow imaging microscopy
+- **ip status**: patented
+- **prior art notes**: Discloses a defined-geometry rectangular flow cell through which a focused particle suspension passes a strobed-illumination microscope objective so that every particle is individually imaged and morphologically classified. Anticipates: flow imaging microscopy / imaging flow cytometry for non-biological and protein particulate; morphology-based discrimination of particle classes in a microfluidic flow cell; the architecture of an imaging detector built around a precision micro-channel optical cell. A genuinely microfluidic instrument central to biologics QC.
+
 ## Deus Ex (2000) - nano-augmentation chamber (2000-06-22)
 
 - **id**: `deus-ex-2000-nano-augmentation-chamber`
@@ -165,6 +185,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Canonical commercialization of (a) in-situ electrolytic hydrogen generation coupled to a heated packed-bed flow reactor — eliminating compressed H2 cylinders and enabling lab-bench hydrogenation; (b) the disposable prepacked catalyst cartridge ('CatCart') as standardized sub-component, swappable in <30 s, with 500+ pre-loaded catalyst SKUs (Pd/C, Pt/C, Raney Ni, chiral hydrogenation catalysts); (c) integrated PAT and pressure control sealed in a benchtop appliance form factor. Anticipates patent claims directed to combined-electrolyzer-and-flow-hydrogenation reactors and to disposable prepacked catalyst cartridges within continuous-flow chemistry rigs.
 
+## Lonza PyroGene / PyroTec Recombinant Factor C Endotoxin Test (2003)
+
+- **id**: `lonza-pyrogene-recombinant-factor-c-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lonza
+- **disclosure**: Lonza Walkersville PyroGene Recombinant Factor C Endotoxin Detection Assay protocol; later PyroTec PRO cartridge and Nebula reader datasheets (2018-2021)
+- **ip status**: patented
+- **prior art notes**: Discloses recombinant Factor C endotoxin detection in microplate and single-use cartridge fluidic formats with dried fluorogenic reagents and on-board controls. Anticipates: animal-free endotoxin cartridges; fluorogenic-readout disposable BET assays; the substitution of LAL with recombinant cascade enzymes in a cartridge architecture. Sister to charles-river-endosafe-nexgen-pts-lal-cartridge (chromogenic LAL) and biomerieux-endonext-recombinant-factor-c.
+
+## SOTAX CE 7smart USP Apparatus 4 Flow-Through Dissolution Cell (2003)
+
+- **id**: `sotax-ce7smart-flow-through-dissolution-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SOTAX
+- **disclosure**: SOTAX AG CE 7smart Flow-Through Cell Apparatus brochure and operator manual; USP <711> Dissolution, Apparatus 4 (flow-through cell) compendial method
+- **ip status**: patented
+- **prior art notes**: Discloses a small-bore glass flow-through chamber with a packed laminar-flow inlet that continuously perfuses fresh dissolution medium past a dosage form, with piston-pump flow control and inline UV detection. Anticipates: small-volume perfusion chambers for controlled dissolution/release kinetics; bead-packed laminar-flow inlet sections as flow conditioners; the architecture of a compendial dissolution test implemented as a continuously perfused micro-chamber. The flow-through cell is the most microfluidic of the USP dissolution apparatuses.
+
+## Anton Paar Alcolyzer (NIR Alcohol Flow Cell) with DMA Density Meter (2003)
+
+- **id**: `anton-paar-alcolyzer-beer-wine-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH Alcolyzer Wine / Beer ME and DMA density meter datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses an oscillating microbore U-tube density transducer in series with a narrow NIR optical flow cell, both perfused by a few-mL beverage sample, for simultaneous density and selective ethanol measurement. Anticipates: U-tube resonant density cells as microfluidic transducers; serial flow-cell + densitometer beverage analyzers; selective-NIR ethanol determination in a flow cell. Companion to foss-winescan-so2-ftir and anton-paar-dma-wine-density-flow-cell.
+
 ## Reynolds - Pushing Ice Rockhopper autodoc (2005)
 
 - **id**: `reynolds-pushing-ice-rockhopper-autodoc`
@@ -194,6 +244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pérez-Ramírez, J.; Abelló, S.; van der Pers, N. M. 'Memory effect of activated Mg-Al hydrotalcite' Chem. Eur. J. 2007, 13, 870–878 (uses Avantium Flowrence); Avantium press release Flowrence launch 2006; Avantium Flowrence brochure rev 2014; Lange, J.-P. (Shell, Avantium customer) 'Don't forget product recovery in catalysis research' Catal. Today 2010, 159, 23–26
 - **ip status**: patented
 - **prior art notes**: Discloses (a) the canonical high-throughput parallel-flow-microreactor architecture for industrial-catalyst screening — N reactors sharing a single feed manifold with passive capillary flow restrictors (eliminating per-reactor mass-flow controllers and equalizing residence time across the array); (b) automated inline-GC sampling time-multiplexed across all reactors; (c) the integrated catalyst-development workflow from early-stage screening (Flowrence) through process design (Avantium pilot rigs); (d) Shell origin: Avantium was spun out of Royal Dutch Shell in 2000 with the Flowrence platform as its first product. Anticipates patent claims directed to N-fold parallel microreactor arrays with passive flow-equalization manifolds.
+
+## Charles River Endosafe nexgen-PTS LAL Endotoxin Cartridge (2006)
+
+- **id**: `charles-river-endosafe-nexgen-pts-lal-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe-PTS / nexgen-PTS product literature and operator manual; FDA-licensed kinetic-chromogenic LAL cartridge assay
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use injection-molded fluidic cartridge that performs a complete kinetic-chromogenic Limulus amebocyte lysate endotoxin assay: a sample is drawn by an instrument pump through parallel channels onto dried LAL+chromogen reagent pads, incubated at controlled temperature, and read optically, with dedicated spiked-sample channels providing the regulatory positive product control and a 2D barcode encoding the reagent lot archived standard curve. Anticipates: (a) dried-reagent endotoxin/pyrogen cartridges with on-board spike-recovery controls; (b) barcode-encoded lot calibration substituting for in-run standard curves on a disposable cartridge; (c) the general architecture of a multi-channel optical-read disposable performing a pharmacopeial release assay at point of use. One of the most widely deployed pharmaceutical QC microfluidic consumables worldwide.
 
 ## Syrris Asia and Africa flow-chemistry platform (2007)
 
@@ -255,6 +315,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses the canonical 'engineering integrator' role for industrial microreactor deployments — a service+hardware vendor that takes Corning AFR or Chemtrix Plantrix plates and packages them with PLC, PAT, ATEX-rated electricals, and CIP/SIP utilities into a deployable plant skid. Anticipates patent claims directed to integrated continuous-flow chemical-process skid architectures with ATEX-zoned containment and SCADA-controlled microreactor plates.
 
+## Anton Paar PBA-S Packaged Beverage Analyzer (Beer) (2009)
+
+- **id**: `anton-paar-pba-s-beer-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH PBA-S / PBA-B Packaged Beverage Analyzer datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses a chained fluidic train through a packaged beverage automatically pierced, degassed, and routed in series through resonant density, NIR-alcohol, CO2 and turbidity cells with auto-rinse. Anticipates: integrated multi-cell beverage-analysis trains fed from sealed packages; the architecture of chaining microfluidic sensing cells on a single conditioned sample stream. Builds on anton-paar-alcolyzer-beer-wine-flow-cell.
+
 ## Tecan Cavro MagniFlex Multi-Channel Pipettor Block (2010)
 
 - **id**: `tecan-cavro-magni-flex-pipettor-block`
@@ -295,6 +365,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of fluidic conditioning chamber for inter-individual neuro-bonding via biofluid exchange, with pheromone-like signal biofluid. Anticipates claims directed to conditioning chambers for inter-individual neurobonding via biofluid signal exchange.
 
+## PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) (2010-03-25)
+
+- **id**: `pet-cyclotron-target-dissolution-ion-exchange-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: radiopharmacy equipment makers (Trasis, IBA, GE Healthcare, Sumitomo, Comecer) and academic groups (UCLA Crump Institute, ETH/PSI, Univ. of Wisconsin) developing microfluidic radiometal processing
+- **disclosure**: US20100074825A1 / WO2010/032083 Microfluidic apparatus for radiopharmaceutical synthesis (Trasis-style); see also Lin et al., Microfluidic purification of cyclotron-produced radiometals, and Rensch et al., Microfluidics: a groundbreaking technology for PET tracer production?, Molecules 18, 7930 (2013).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated shielded microfluidic train - dissolution, micro-column ion-exchange/extraction-chromatography purification, metered elution - for processing cyclotron-irradiated radiometal targets into radiolabeling-ready fractions with small reagent/resin volumes and in-line radiation monitoring. Anticipates claims to (a) microfluidic micro-column purification of a cyclotron-produced radiometal; (b) automated cassette-based target dissolution and ion-exchange processing module; (c) sequential multi-column microfluidic separation of an actinide/radiometal from its target matrix and daughters; (d) low-volume high-specific-activity radiometal elution for chelator labeling. Prior art for Trasis, IBA, GE, Siemens radiopharmacy-module patents; extends the wave-2 Trasis radiosynthesis lineage.
+
 ## GSK / CMAC Strathclyde continuous-flow API manufacturing platform (2011)
 
 - **id**: `gsk-strathclyde-cmac-continuous-api`
@@ -324,6 +404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Weir, A., 'The Martian' (self-published 2011, Crown 2014, ISBN 978-0-8041-3902-1)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of standard astronaut medical kit SKU contents with documented improvisation for blood monitoring and self-suture. Anticipates claims directed to standard SKU astronaut medical cartridges with documented improvisation pathways and pressure-dressing application.
+
+## Lithium-ion battery cell electrolyte filling and wetting station (2011-06-30)
+
+- **id**: `ev-battery-electrolyte-filling-station`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: battery-cell makers (Tesla/Panasonic, CATL, LG Energy Solution, SK On, Samsung SDI) and equipment OEMs (Manz, Dürr Megtec, Wuxi Lead, Hirano Tecseed, Schuler/AIDA)
+- **disclosure**: US20110162202A1 / DE102009060800A1 Method and device for filling electrochemical cells (battery cell electrolyte filling under vacuum); see also Knoche, Surm & Reinhart, A process model for the electrolyte filling of lithium-ion batteries, Procedia CIRP 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic-dosing process: positive-displacement metering of a volatile electrolyte through a fine fill port into an evacuated cell, with vacuum/pressure-cycle wetting and closed-loop dose/seal verification. Anticipates claims to (a) vacuum-assisted metered electrolyte injection into a sealed cell; (b) pressure-cycle wetting protocol for a porous electrode stack; (c) gravimetric closed-loop dose verification with under/overfill rejection; (d) inert-environment fine-needle electrolyte fill of a pouch/prismatic cell. Prior art for cell-maker and equipment-OEM electrolyte-filling patents.
 
 ## Continuus Pharmaceuticals Integrated Continuous Manufacturing (ICM) platform (2012)
 
@@ -414,6 +504,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Curology (formerly PocketDerm) launch, 2014; telemedicine prescription skincare delivery.
 - **ip status**: trade-secret
 - **prior art notes**: Discloses centralized robotic compounding of Rx topical actives per telemedicine prescription. Anticipates telemedicine-driven personalized Rx topical compounding workflow claims.
+
+## Beckman Coulter HIAC 9703+ Liquid Particle Counting System (2014)
+
+- **id**: `hiac-9703-plus-liquid-particle-counter`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Beckman Coulter
+- **disclosure**: Beckman Coulter HIAC 9703+ liquid particle counting system datasheet; USP <788> Particulate Matter in Injections (light obscuration method, Apparatus 1)
+- **ip status**: patented
+- **prior art notes**: Discloses a precision capillary flow cell illuminated by a collimated beam in which each passing particle produces a sizeable obscuration pulse, fed by a metered syringe sampler. Anticipates: light-obscuration particle sizing in a defined-geometry micro-channel; syringe-metered sample introduction to an optical sensing cell; the compendial particulate test implemented as flow through a micro optical cell. Companion subvisible-particle prior art to fluid-imaging-flowcam-flow-imaging-microscopy.
+
+## VICAM Vertu / Vertu TOUCH Fluorometric Mycotoxin Test (Immunoaffinity Column + Reader) (2014)
+
+- **id**: `vicam-vertu-fluorometric-mycotoxin-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: VICAM (Waters Corporation)
+- **disclosure**: VICAM (a Waters business) Vertu / Vertu TOUCH and AflaTest / OchraTest / FumoniTest immunoaffinity column system datasheets and methods (AOAC-adopted)
+- **ip status**: patented
+- **prior art notes**: Discloses a packed antibody-bead affinity micro-column for selective capture of mycotoxins from a grain-extract flow, with elution into a fluorometric readout. Anticipates: immunoaffinity micro-column cleanup integrated to a portable fluorometer; affinity-capture-then-elute sample-prep cartridges for food contaminants. Companion to romer-labs-fluoroquant-mycotoxin-quant and neogen-reveal mycotoxin tests (already covered).
+
+## Quotient MosaiQ Microarray Blood-Typing and Disease-Screening Platform (2014)
+
+- **id**: `quotient-mosaiq-microarray-blood-typing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Quotient Limited
+- **disclosure**: Quotient Limited (Eysins, Switzerland / Edinburgh, UK) MosaiQ platform disclosures and patents on a microarray-based consumable for simultaneous blood grouping, antibody screening and infectious-disease serology
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic consumable carrying a printed antigen/antibody microarray over which a small plasma sample is metered, processed and imaged to yield blood-group phenotype, antibody screening and infectious-disease serology together. Anticipates: microarray-in-microfluidic-flow-path consumables for immunohematology; consolidated multi-modal transfusion testing on one chip. Companion to bio-rad-ih-1000-immunohematology (gel-card automation) -- MosaiQ uses a microarray instead of columns.
 
 ## Wolfenstein: The New Order - Daat Yichud medical fluidics (2014-05-20)
 

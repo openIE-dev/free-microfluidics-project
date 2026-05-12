@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-paper-microfluidics`
 
-**43 corpus entries disclose this subsystem.**
+**45 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1856
 
@@ -84,6 +84,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Brinkman, H. C. (1947). 'A calculation of the viscous force exerted by a flowing fluid on a dense swarm of particles.' Appl. Sci. Res. A1: 27-34. doi:10.1007/BF02120313
 - **ip status**: public-domain
 - **prior art notes**: Discloses the Brinkman equation: a modified Darcy law that includes a viscous diffusion term, valid for porous media of moderate-to-high permeability and at the interface between a porous region and a free-fluid channel. Anticipates patent claims involving microfluidic chambers with porous inserts (membranes, hydrogels, paper sections) bonded to open channels - the boundary condition at the interface is governed by Brinkman 1947. Load-bearing for organ-on-chip designs that pair hydrogel matrices with perfusion channels, and for membrane-on-chip immunoassays with adjacent open channels.
+
+## Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test) (1959-06-01)
+
+- **id**: `gunshot-residue-colorimetric-field-test-kit`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: forensic-science community (Harrison, Gilroy; FBI Laboratory); commercial kits by Sirchie, BVDA, Tri-Tech Forensics, Lynn Peavey
+- **disclosure**: Harrison & Gilroy, Firearms discharge residues, J. Forensic Sci. 4, 184 (1959); modified Griess test for nitrites and sodium-rhodizonate test for lead, as standardized in ASTM E1588 and the FBI/forensic GSR literature; commercial kits e.g. Sirchie GSR collection/test kits.
+- **ip status**: public-domain
+- **prior art notes**: Discloses reagent-impregnated capillary paper used to transfer and colorimetrically map the spatial pattern of propellant- and primer-derived residue around a firearm-discharge hole. Anticipates claims to (a) reagent-paper transfer test for spatially mapping nitrite/lead gunshot residue; (b) sequential Griess-then-rhodizonate development for two-analyte GSR confirmation; (c) colorimetric paper-based shooting-distance determination. Public-domain prior art limiting later patents on paper-based residue-mapping field tests.
 
 ## 3M (now Neogen) Petrifilm food microbiology plates (1980)
 
@@ -184,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nova Biomedical StatStrip Glucose 510(k) K061893 cleared 2006-12; first FDA-cleared glucose strip for critically ill patients (2014 K140509)
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-electrode glucose test strip with on-strip interferent correction electrodes: in addition to the main GDH-mediator amperometric working electrode, additional working electrodes detect Hct (impedance), oxidizable interferents (acetaminophen, urate, ascorbate, dopamine), and reducing sugars (maltose, galactose, xylose), with the meter algorithm subtracting interferent contribution from glucose readout. Anticipates: multi-channel POC glucose strips with on-strip interferent correction; Hct compensation electrodes integrated into the same capillary chamber; FDA-clearable strip-based POC glucose for critically ill (where interfering substances and abnormal Hct break older single-electrode strips). Foundational to the Nova approach extending to lactate, ketone, and creatinine strips.
+
+## Yager 2006 microfluidic diagnostic technologies for global public health (2006-07-27)
+
+- **id**: `yager-2006-microfluidic-diagnostics-global-health`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Paul Yager group, University of Washington (with PATH / Micronics)
+- **disclosure**: Yager, P.; Edwards, T.; Fu, E.; Helton, K.; Nelson, K.; Tam, M. R.; Weigl, B. H. Microfluidic diagnostic technologies for global public health. Nature 2006, 442, 412-418. DOI: 10.1038/nature05064
+- **ip status**: public-domain
+- **prior art notes**: The seminal review of microfluidic diagnostics for the developing world: it lays out the design constraints for instrument-free, low-power, low-cost point-of-care testing (the ASSURED criteria), surveys laminate, paper, and capillary-driven cartridge architectures, and presents diffusion-based assay primitives (H-filter, T-sensor) suited to field use. As prior art it anticipates claims to: instrument-free capillary/laminate microfluidic diagnostic cartridges; integration of sample prep, reaction and colorimetric readout in a disposable card without external pumps; and the general system requirements of resource-limited-setting point-of-care microfluidics. HIGH-PRIORITY anchor - this paper essentially defined the low-cost-diagnostics microfluidics field and anchors paper-microfluidics, lateral-flow-plus-microfluidics, and instrument-light cartridge industries. Companion to brody-yager-1997-h-filter and whitesides-2010-mu-pads-systematic.
 
 ## Paper-based microfluidic devices for distributed point-of-care diagnostics (2007)
 

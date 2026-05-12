@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-silicon-drie`
 
-**53 corpus entries disclose this subsystem.**
+**60 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Petersen, K. E. (1982). 'Silicon as a mechanical material.' Proceedings of the IEEE 70(5): 420-457. doi:10.1109/PROC.1982.12331
 - **ip status**: public-domain
 - **prior art notes**: Petersen 1982 is the most-cited MEMS review of all time and explicitly catalogs silicon ink-jet nozzles, silicon valves, silicon pressure sensors, silicon gas chromatographs (Terry 1979) and silicon micropumps already demonstrated by 1982. Anticipates: (a) all silicon-microfluidic device patents from 1982-1995 that claim silicon-bulk-micromachined channels, KOH-etched chambers, or anodic-bonded glass-on-silicon stacks; (b) silicon ink-jet printhead patents that fail to recite a non-obvious feature beyond silicon micromachining; (c) silicon-membrane valve and pump patents whose only novel feature is silicon as the structural material. Petersen 1982 is the canonical 102 reference for silicon-MEMS-as-microfluidic-substrate prior art. Note: a paper anchor exists in the corpus (petersen-1982-silicon-mechanical-material) — this entry is an extended companion that focuses specifically on the catalog of microfluidic devices it discloses.
+
+## Reservoir-on-chip etched-glass micromodel for enhanced oil recovery and pore-scale flow (1983-08-01)
+
+- **id**: `reservoir-on-chip-etched-glass-micromodel`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: academic and oil-industry research (Lenormand at IFP/CNRS; Mattax & Kyte at Humble Oil; later Stanford, Univ. of Texas, Imperial College, Shell/Total/BP/ExxonMobil micromodel labs; commercialized via Micronit, Dolomite, Stratum Reservoir)
+- **disclosure**: Lenormand, Touboul & Zarcone, Numerical models and experiments on immiscible displacements in porous media, J. Fluid Mech. 189, 165 (1988); earlier etched-glass micromodel work by Mattax & Kyte (1961) Ever see a waterflood?, Oil & Gas J., and Lenormand et al. (1983); modern lab-on-chip micromodels reviewed in Lifton, Microfluidics: an enabling screening technology for enhanced oil recovery, Lab Chip 16, 1777 (2016).
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an etched two-dimensional pore-throat network chip with controllable geometry and wettability for visualizing pore-scale multiphase displacement and screening EOR fluids. Anticipates claims to (a) etched-glass/silicon micromodel reproducing reservoir-rock pore topology for multiphase-flow imaging; (b) microfluidic screening of enhanced-oil-recovery chemical formulations by direct observation of incremental recovery; (c) wettability-patterned pore-network chip for capillary-trapping studies; (d) micromodel-based validation of pore-network/DNS reservoir-flow simulations. Foundational and prior-art-rich; limits later patents claiming generic reservoir-on-chip devices.
 
 ## Silicon piezoelectric micropump (Van Lintel 1988) (1988)
 
@@ -115,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a family of thermal inkjet heater chips with: (a) offset (laterally staggered) heater resistors to interleave nozzles for higher effective resolution, (b) asymmetric ink-feed vias to reduce silicon die area, (c) on-chip ESD protection via grounded-gate MOSFET integrated above the dielectric/resistor stack, (d) tri-color heater layouts that pack three independent ink colors into a single heater die for cartridge integration. Anticipates: TIJ heater-chip art beyond Canon/HP foundational disclosures, particularly the chip-level integration of color separation, redundancy, and ESD protection on a single silicon die. Lexmark exited inkjet in 2013 but the patent estate is broad and forms cited prior art in modern TIJ litigation.
 
+## Cheng 1996 Chip PCR II: PCR amplification in microfabricated silicon-glass chips (1996-01-15)
+
+- **id**: `cheng-1996-chip-pcr-ii-silicon-glass`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Wilding / Kricka group, University of Pennsylvania
+- **disclosure**: Cheng, J.; Shoffner, M. A.; Hvichia, G. E.; Kricka, L. J.; Wilding, P. Chip PCR. II. Investigation of different PCR amplification systems in microfabricated silicon-glass chips. Nucleic Acids Res. 1996, 24, 380-385. DOI: 10.1093/nar/24.2.380
+- **ip status**: public-domain
+- **prior art notes**: One of the foundational chip-PCR papers (the Chip PCR II of the Wilding/Kricka Penn series; Chip PCR I is Wilding 1994). Discloses PCR thermal cycling of clinically relevant single-copy human gene targets in microfabricated silicon-glass chambers, with systematic study of silicon-surface passivation chemistries needed to make silicon PCR-compatible, plus demonstration of nested and multiplex PCR architectures on chip. Anticipates claims to: PCR amplification in a micromachined silicon reaction cavity with a glass optical lid; silicon-surface bio-passivation (oxide / silanization / dynamic protein coating) to suppress polymerase inhibition; and on-chip nested/multiplex amplification protocols. Together with Wilding 1994 and Northrup 1993 it establishes the chip-PCR prior art baseline that all later integrated PCR-LOC devices build on.
+
 ## Microfabricated ESI emitter (Figeys 1997) (1997)
 
 - **id**: `figeys-1997-microfabricated-esi`
@@ -154,6 +174,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Santini JT, Cima MJ, Langer R Nature 397:335-338 1999 doi:10.1038/16898; first-in-human Farra R et al. Sci Transl Med 4(122):122ra21 2012 doi:10.1126/scitranslmed.3003276
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
+
+## Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) (1999-09-14)
+
+- **id**: `wellsite-mud-gas-microfluidic-chromatograph`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Geolog International, Halliburton (Sperry Drilling FLAIR/GasView), SLB/Schlumberger, Baker Hughes; micro-GC modules from Agilent (490 Micro GC, formerly Varian/Chrompack CP-4900), INFICON
+- **disclosure**: US5952556A Method for determining the type of fluid in a well by analyzing gas composition (mud-gas analysis); MEMS/micro-GC lineage from US5611846A (Microsensor Technology) miniature gas chromatograph; mud-logging practice per Whittaker, Mud Logging Handbook, PennWell.
+- **ip status**: patented
+- **prior art notes**: Discloses a fast wellsite gas chromatograph (often a silicon-MEMS injector/column/detector chip) with a sub-microliter sample loop continuously analyzing mud-extracted gas into C1-C5 components for fluid typing. Anticipates claims to (a) MEMS micro-GC for continuous wellsite mud-gas analysis; (b) sub-microliter-sample-loop fast chromatography of drilling-fluid-extracted gas; (c) on-chip thermal-conductivity detection of hydrocarbon components in a mud-logging system; (d) automated chromatographic fluid-typing while drilling. Prior art for Geolog, Halliburton, Schlumberger and micro-GC-vendor wellsite-analyzer patents.
 
 ## Microfabricated dielectrophoretic single-cell trap arrays (2002)
 
@@ -195,6 +225,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed antiresonant reflecting optical waveguide (ARROW) with a hollow core that can be filled with sample fluid: a liquid-core waveguide enabling guided light through the analyte itself. Anticipates: liquid-core integrated waveguides, on-chip absorbance/fluorescence in-line analysis without external optical components, and ultra-sensitive single-molecule detection by guided-mode interaction. Foundational architecture for chip-integrated optical detection.
 
+## Craighead 2006 future lab-on-a-chip technologies for interrogating individual molecules (2006-07-27)
+
+- **id**: `craighead-2006-lab-on-chip-single-molecule`
+- **corpus**: academic
+- **device class**: nanofluidic-chip
+- **creator**: Harold G. Craighead group, Cornell University
+- **disclosure**: Craighead, H. Future lab-on-a-chip technologies for interrogating individual molecules. Nature 2006, 442, 387-393. DOI: 10.1038/nature05061
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of nanofluidic and single-molecule lab-on-chip technologies: fabrication and use of sub-100-nm channels, nanopores, zero-mode waveguides, entropic traps and nanoslit confinement to stretch, sort, sequence and optically interrogate individual DNA and protein molecules. As prior art it anticipates claims to: DNA elongation/mapping by electrokinetic transport through a nanofluidic channel; zero-mode-waveguide optical confinement for single-molecule enzymatic observation; entropic-trap nanostructure arrays for size separation; and the integration of such nanostructures into a chip for single-molecule genomics. Anchors the nanofluidics-meets-single-molecule-sequencing prior art. From the Cornell Craighead group.
+
 ## Free-flow acoustophoresis for cell separation (2007)
 
 - **id**: `laurell-2007-acoustophoresis`
@@ -214,6 +254,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Silverbrook Research / Memjet pagewide printer disclosure; e.g. US Patent 6,443,555 'Pagewidth wide format printer'; Memjet press releases; Wiley Handbook of Industrial Inkjet Printing ch.17 (2018)
 - **ip status**: patented
 - **prior art notes**: Note: existing memjet-printhead corpus entry covers Memjet broadly; this entry pins specific 'Waterfall' MEMS architecture. Discloses a single ~8.77-inch silicon MEMS pagewide bar with 70,400 thermal-bubble nozzles arranged in stitched dies, with massively parallel addressing electronics and per-color array organization, achieving pagewide single-pass color at 1600 dpi without scanning carriages. Anticipates: (a) single-bar pagewide thermal MEMS array as the industrial alternative to scanning-carriage printers and to Epson/Dimatix piezo single-pass arrays, (b) per-die redundant nozzle banks for compensation of failed nozzles in single-pass printing, (c) tightly-coupled CMOS drive logic on the same MEMS die. Predicate to Memjet-licensed machines from Canon (Océ ColorWave/ImagePROGRAF), HP-derived label presses, and Colordyne, AstroNova, and Afinia label printers.
+
+## MEMS cold-gas micro-thruster module for CubeSats (GomSpace/NanoSpace, VACCO ChEMS, Marotta class) (2007-06-01)
+
+- **id**: `cubesat-mems-cold-gas-microthruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: NanoSpace AB (now part of GomSpace), VACCO Industries (ChEMS / Palm-Sized propulsion), Marotta, Bradford; MEMS valves/nozzles fabricated in silicon
+- **disclosure**: Kohler et al., A hybrid cold gas microthruster system for spacecraft, Sensors and Actuators A 97-98, 587 (2002); Gronland et al., Miniaturization of components and systems for space using MEMS technology, Acta Astronautica 61, 228 (2007); see also VACCO/NanoSpace product disclosures.
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-MEMS fluidic chip integrating microvalves, micro-nozzles, micro-filters, micro-heaters and pressure sensors for cold-gas micro-propulsion with proportional throttling and liquefied-propellant vaporization. Anticipates claims to (a) integrated silicon-MEMS cold-gas thruster chip with micro-nozzle and micro-valve; (b) proportional MEMS microvalve for throttleable spacecraft thrust; (c) integrated micro-heater vaporizing a stored liquefied propellant; (d) micro-newton-second impulse-bit cold-gas attitude control. Prior art for NanoSpace/GomSpace, VACCO, Marotta MEMS-propulsion patents.
+
+## Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) (2007-12-20)
+
+- **id**: `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Mehmet Toner group, Massachusetts General Hospital / Harvard (with Haber, Maheswaran)
+- **disclosure**: Nagrath, S.; Sequist, L. V.; Maheswaran, S.; Bell, D. W.; Irimia, D.; Ulkus, L.; Smith, M. R.; Kwak, E. L.; Digumarthy, S.; Muzikansky, A.; Ryan, P.; Balis, U. J.; Tompkins, R. G.; Haber, D. A.; Toner, M. Isolation of rare circulating tumour cells in cancer patients by microchip technology. Nature 2007, 450, 1235-1239. DOI: 10.1038/nature06385
+- **ip status**: public-domain
+- **prior art notes**: The founding circulating-tumor-cell microchip: a flow chamber packed with tens of thousands of antibody (anti-EpCAM)-functionalized microposts whose geometry and spacing are optimized so that cells in unprocessed whole blood collide with post surfaces frequently enough to be affinity-captured while shear stays below the threshold for cell loss - isolating CTCs at frequencies of a few cells per milliliter at high purity for enumeration and downstream genotyping. Anticipates claims to: affinity capture of rare cells from unprocessed whole blood on an array of antibody-coated microstructures; micropost-array geometry designed via streamline/collision-probability analysis to trade capture efficiency against shear; and integrated rare-cell capture plus on-chip immunostaining and molecular analysis. HIGH-PRIORITY anchor for the liquid-biopsy / CTC industry (CTC-iChip, CellSearch alternatives). Toner-lab MGH lineage; descendant work includes ozkumur-2013-ctc-iChip. Companion to toner-irimia-2005-blood-on-chip.
 
 ## A*STAR Institute of Microelectronics microfluidic patent family (2008)
 
@@ -344,6 +404,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sharei et al., 'A vector-free microfluidic platform for intracellular delivery,' PNAS 110(6):2082-2087 (2013), doi:10.1073/pnas.1218705110; US patent US9,950,049B2 (Compositions and methods for intracellular delivery; priority 2013); SQZ Biotechnologies S-1 (2020)
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon microfluidic chip containing parallel arrays of constrictions narrower than the cell diameter; cells flow through under pressure, transient membrane discontinuities form by mechanical shear, allowing diffusive uptake of co-flowing cargo before membrane reseals. Anticipates: (a) cell-poration by passive geometric constriction without external field; (b) parallel scale-out of constriction channels for clinical-throughput delivery; (c) using the same chip architecture for B/T-cell antigen loading (SQZ APC product); (d) closed disposable cartridge format coupled to the chip for sterile fill of patient-derived cells. Distinguishable from electroporation (no field), from sonoporation (no acoustic), and from viral transduction (no biologic vector). Element-by-element: parallel constrictions + pressure drive + cargo co-flow + downstream collection chamber.
+
+## Accion Systems TILE ionic-liquid electrospray thruster (2013-09-03)
+
+- **id**: `accion-tile-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Accion Systems, Inc. (technology from the MIT Space Propulsion Laboratory, Lozano group)
+- **disclosure**: US8324593B2 Iodine-compatible hall effect... (no) - use US8324593 placeholder removed; primary: Lozano & Martinez-Sanchez, Ionic liquid ion sources, J. Colloid Interface Sci. 282, 415 (2005) and US9194379B1 Field emission/ionic liquid electrospray emitter array (Massachusetts Institute of Technology / Accion Systems).
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated electrospray emitter array fed by passive capillary/porous-media wicking of an ionic-liquid propellant from a reservoir, with an extractor grid emitting ions/droplets and bipolar operation - a passive microfluidic propellant-feed thruster. Anticipates claims to (a) passive capillary feed of an ionic-liquid propellant to an emitter array (no pump/valve/pressurant); (b) porous-tip electrospray emitter array on a microfabricated chip; (c) tiled/modular electrospray thruster scaled by emitter count; (d) bipolar ionic-liquid electrospray operation. Foundational small-satellite electrospray-propulsion prior art.
 
 ## HP Multi Jet Fusion Thermal-Agent Inkjet Array (2014)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-flow-focusing-generation`
 
-**49 corpus entries disclose this subsystem.**
+**55 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1806
 
@@ -105,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses three independent atomization architectures - two-fluid nozzle (B-290), piezo vibrating-mesh (B-90 Nano), and Rayleigh-disturbed co-axial jet (Encapsulator B-390) - each used for biopharma powder formation or microcapsule production. Anticipates vibrating-mesh sub-micron spray dryer and piezo-modulated co-axial alginate microbead encapsulator claims.
 
+## E Ink electrophoretic display microcapsule encapsulation process (1998-08-04)
+
+- **id**: `eink-electrophoretic-microcapsule-encapsulation`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: E Ink Corporation (spun out of the MIT Media Lab; majority owned by E Ink Holdings / Yuen Foong Yu)
+- **disclosure**: US5961804A Microencapsulated electrophoretic display (Jacobson et al., MIT / E Ink Corporation), filed 1997, granted 1998; see also Comiskey, Albert, Yoshizawa & Jacobson, An electrophoretic ink for all-printed reflective electronic displays, Nature 394, 253 (1998).
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic emulsification-and-coacervation encapsulation of a charged-pigment electrophoretic fluid into uniform tens-of-micron microcapsules and their monolayer web coating - a literal industrial microfluidic encapsulation process. Anticipates broad claims to (a) microencapsulated electrophoretic display media; (b) emulsion/coacervation encapsulation of a dispersion of oppositely charged pigments in a nonpolar fluid; (c) bistable reflective display by monolayer-coated microcapsules; (d) multi-pigment color electrophoretic capsules. Foundational e-paper prior art; the SiPix microcup architecture is the principal alternative and a lineage descendant of the same problem statement.
+
 ## RainDance Technologies DropMaker Patent Family (2002-06-28)
 
 - **id**: `raindance-dropmaker-patent-family`
@@ -144,6 +154,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7268167 priority 2003-09-15; US7375085; both assigned originally to President and Fellows of Harvard College
 - **ip status**: patented
 - **prior art notes**: Harvard-anchored patent family covering hydrodynamic flow-focusing droplet generation. Anchors claims around: (a) a microfluidic device with an inner phase channel meeting two outer continuous-phase channels at an orifice; (b) generation of monodisperse droplets via Rayleigh-Plateau breakup at the orifice; (c) independent control of droplet diameter via continuous-phase flow rate while inner-phase flow rate sets generation frequency; (d) chip geometry compatible with PDMS soft lithography. Anticipates flow-focusing droplet-generator chips in microfluidic context. Underlying Anna 2003 paper (anna-2003-flow-focusing-droplet) is the published companion. The patent family was a precursor for the licensing chains that fed RainDance, QuantaLife, and 10x Genomics droplet platforms. Expiry: ~2023-2024 for earliest members, but continuations may extend coverage on specific geometries.
+
+## Tan 2004 design of microfluidic channel geometries for control of droplet volume (2004-06-21)
+
+- **id**: `tan-2004-microfluidic-droplet-volume-channel-geometry`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Abraham P. Lee group, UC Irvine (with Cristini, UCI math)
+- **disclosure**: Tan, Y.-C.; Fisher, J. S.; Lee, A. I.; Cristini, V.; Lee, A. P. Design of microfluidic channel geometries for the control of droplet volume, chemical concentration, and sorting. Lab Chip 2004, 4, 292-298. DOI: 10.1039/b403280m
+- **ip status**: public-domain
+- **prior art notes**: Discloses use of downstream channel geometry (expansions, contractions, T- and Y-bifurcations) to passively control droplet volume, to split a mother droplet into daughter droplets of designed volume ratio, to build on-chip dilution series, and to sort droplets by size at asymmetric bifurcations - all without active actuators. Anticipates claims to: passive geometric splitting of microfluidic droplets at channel branches with volume ratio set by branch hydrodynamic resistance; downstream-geometry control of droplet size from a single upstream generator; and passive bifurcation-based droplet sorting. Foundational droplet-handling-primitive paper from the A. P. Lee group, predating and complementing the Link 2004 geometric-breakup analysis.
+
+## Utada 2005 monodisperse double emulsions generated from a microcapillary device (2005-04-22)
+
+- **id**: `utada-2005-monodisperse-double-emulsions-microcapillary`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: David A. Weitz group, Harvard (with H. A. Stone)
+- **disclosure**: Utada, A. S.; Lorenceau, E.; Link, D. R.; Kaplan, P. D.; Stone, H. A.; Weitz, D. A. Monodisperse double emulsions generated from a microcapillary device. Science 2005, 308, 537-541. DOI: 10.1126/science.1109164
+- **ip status**: public-domain
+- **prior art notes**: The seminal one-step monodisperse double-emulsion device: nested coaxial glass capillaries combining co-flow and flow-focusing so a core fluid is enveloped by a middle fluid and pinched into a continuous outer phase, producing core-shell drops with controllable shell thickness and a defined number of inner drops per shell. Anticipates claims to: glass-microcapillary co-flow/flow-focusing devices for single-step double (and higher-order) emulsion generation; monodisperse double emulsions as templates for microcapsules and controlled-release particles; and the dripping/jetting control of capillary droplet generators. Foundational for the entire structured-emulsion / microcapsule field and for double-emulsion single-cell assays (cf. brouzes-2009-droplet-screening). Weitz/Stone capillary-droplet lineage.
 
 ## Microfluidic alginate microbead generation (2007)
 
@@ -185,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Established droplet microfluidics for single-cell HTS by combining flow-focusing droplet generation, on-droplet barcoding, fluorescence-activated droplet sorting (FADS), and downstream analysis. Anticipates: barcoded droplet libraries for combinatorial screening, droplet sorting at kHz rates with electrocoalescence, and the directed-evolution / single-cell-screen workflows commercialized by RainDance and absorbed into Bio-Rad's portfolio.
 
+## Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets (2009-04-21)
+
+- **id**: `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Daniel T. Chiu group, University of Washington
+- **disclosure**: Chiu, D. T.; Lorenz, R. M. Chemistry and biology in femtoliter and picoliter volume droplets. Acc. Chem. Res. 2009, 42, 649-658. DOI: 10.1021/ar8002464
+- **ip status**: public-domain
+- **prior art notes**: An authoritative account of using femtoliter-to-picoliter droplets as reaction vessels for single-molecule and single-cell chemistry and biology: methods to generate, transport, trap (optical tweezers), fuse, and split ultrasmall aqueous droplets in immiscible carrier fluids, and the concentration-enhancement and stochastic-confinement effects that make single-molecule kinetics, digital enzyme assays, and rare-event detection possible. As prior art it anticipates claims to: confinement of single molecules or cells in fL-pL droplets for digital/single-molecule assays; optical-trap and electric-field manipulation of individual microfluidic droplets; and concentration enhancement by ultrasmall-volume compartmentalization. Companion to song-ismagilov-2003-plug-based-reaction-networks and theberge-2010-microdroplets-in-microfluidics. From the Chiu group (UW).
+
 ## Quake/Stanford Bead-in-Droplet Single-Cell Encapsulation Patent Family (2010)
 
 - **id**: `quake-patent-family-bead-droplet-single-cell`
@@ -194,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US8748094; US9695468; US9856530 and continuations (Stanford / co-assigned with collaborators)
 - **ip status**: patented
 - **prior art notes**: Stanford/Quake-group patent family on bead-in-droplet single-cell barcoding. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded primer-bearing bead in an oil-in-water droplet; (b) bead-bound oligonucleotide barcodes with cell-barcode + UMI + capture-sequence regions; (c) in-droplet lysis followed by mRNA capture on the bead; (d) bulk recovery of beads for downstream pooled library construction. Macosko 2015 Drop-seq (macosko-2015-drop-seq) is the publication-disclosure analog using the Broad/McCarroll lineage; this entry maps the licensable Stanford patent estate that 10x Genomics used as one input for the Chromium platform. Anticipates single-cell sequencing prep cartridges that use co-encapsulation of cell+bead in droplets.
+
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
 
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
@@ -214,6 +264,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bio-Rad press release 2011-09-06; deal value $162M cash plus $35M earnout; QuantaLife technology became QX100/QX200 product line
 - **ip status**: patented
 - **prior art notes**: Consolidation event. Documents Bio-Rad's 2011-09-06 acquisition of QuantaLife (initial $162M plus $35M earnout). The QuantaLife technology, originally developed by Bill Colston and team (formerly Lawrence Livermore), became the Bio-Rad QX100 and QX200 droplet-digital PCR product line (existing entry: bio-rad-qx-ddpcr-system). Six years later, Bio-Rad's 2017 acquisition of RainDance (raindance-bio-rad-acquisition, $72M) consolidated the second major ddPCR patent estate. The combined QuantaLife + RainDance IP gave Bio-Rad a dominant ddPCR market position, which became the basis for Bio-Rad's litigation against 10x Genomics. Defensive value: maps the patent-assignment chain.
+
+## Hindson 2011 high-throughput droplet digital PCR system for absolute quantitation of DNA copy number (2011-10-28)
+
+- **id**: `hindson-2011-droplet-digital-pcr-system-paper`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: QuantaLife, Inc. (Bill Colston / Ben Hindson; spun out of Lawrence Livermore National Laboratory; acquired by Bio-Rad)
+- **disclosure**: Hindson, B. J.; Ness, K. D.; Masquelier, D. A.; Belgrader, P.; Heredia, N. J.; Makarewicz, A. J.; Bright, I. J.; Stevens, M. Y.; Ortega, B. L.; Karlin-Neumann, G. A.; Bava, A.; Bright, J.-M.; Colston, B. W. High-throughput droplet digital PCR system for absolute quantitation of DNA copy number. Anal. Chem. 2011, 83, 8604-8610. DOI: 10.1021/ac202028g
+- **ip status**: public-domain
+- **prior art notes**: The foundational droplet-digital-PCR system paper: a disposable microfluidic cartridge partitions a single PCR reaction into ~20,000 monodisperse ~1-nL water-in-fluorinated-oil droplets (stabilized by a fluorosurfactant through thermal cycling), the droplets are endpoint-amplified and then streamed single-file past a two-color fluorescence reader, and Poisson statistics on the positive/negative droplet counts give the absolute target concentration with no standard curve - enabling precise copy-number-variation and rare-allele quantification. Anticipates claims to: absolute nucleic-acid quantification by partitioning into thousands of nanoliter droplets, endpoint amplification, droplet-by-droplet fluorescence counting, and Poisson correction; fluorosurfactant-stabilized droplet emulsions that survive PCR thermal cycling; and droplet-flow-cytometry readout of digital assays. HIGH-PRIORITY anchor - the entire droplet-digital-PCR product category (Bio-Rad QX series, etc.) descends from this; related to bio-rad-qx-ddpcr-system and bio-rad-laboratories-patent-estate. QuantaLife / LLNL lineage.
 
 ## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
 

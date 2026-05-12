@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-blister-pack-reagent-storage`
 
-**116 corpus entries disclose this subsystem.**
+**147 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1945
 
@@ -44,6 +44,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Polaroid Corporation instant-photography pod IP estate; US filings 1970-1990s
 - **ip status**: patented
 - **prior art notes**: Polaroid blister-pod chemistry patent family covers blister-pod reagent storage with frangible-seal roller-burst metering across substrate, and multi-stage sequential pod chemistry. Extends existing polaroid-sx-70-fluid-pod-1972 and polaroid-spectra-1986 entries. Anticipates claims directed to blister-pod cartridges with roller-burst metering and multi-stage layered reactive substrates. Foundational disclosure for downstream POC diagnostic blister-pod cartridge prior art.
+
+## Crushable-ampoule colorimetric presumptive drug-test pouch (NIK Public Safety / Sirchie NARK II / NARK 20) (1973-04-17)
+
+- **id**: `nik-sirchie-crushable-ampoule-drug-test-pouch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: NIK Public Safety (formerly Becton Dickinson NIK), Sirchie Finger Print Laboratories, ODV, MMC International
+- **disclosure**: US3728080A Disposable apparatus for analyzing a fluid sample (multiple-reagent crushable-ampoule field test, early 1970s); NIK Public Safety / Becton Dickinson field-test-kit literature; see also UNODC Recommended Methods for the Identification and Analysis of Controlled Substances.
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed pouch with frangible reagent ampoules released in sequence by manual crush to mix with a sample and develop a colorimetric presumptive result - a sequential micro-reagent-release reaction-vessel device. Anticipates claims to (a) crushable-ampoule colorimetric field test pouch with sequential reagent release; (b) reagent isolation in frangible ampoules within a leak-proof analysis pouch; (c) color-and-sequence-keyed presumptive identification of controlled substances; (d) instrument-free field reagent test with operator-protected corrosive reagents. Foundational prior art for NIK, Sirchie, ODV and competing crushable-ampoule field-test patents; also relevant to colorimetric water/explosive field-test pouches.
+
+## Espers research lab, drug-suppression regimen, and Akira cryogenic preservation (Akira) (1982-12-20)
+
+- **id**: `akira-tetsuo-espers-lab-akira-cryo`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Katsuhiro Otomo / Kodansha
+- **disclosure**: Akira (Katsuhiro Otomo, Kodansha; manga from 1982-12-20; film 1988-07-16). The espers research lab, the drug regimen suppressing/managing psychic subjects, and Akiras dismembered cryogenic storage are established in the manga and the 1988 film; IMDB tt0094625.
+- **ip status**: fictional
+- **prior art notes**: Discloses cryogenic specimen storage in numbered sample vessels with staged biopsy/analysis, plus a scheduled drug-regimen delivery managing test subjects with biomonitoring. Cited aspects: the numbered-cryo-specimen-vessel-with-staged-sampling archetype and the scheduled-dose regimen with cohort biomonitoring. Anticipates generic claims to cryogenic biospecimen banking with subsampling and to scheduled-dosing-with-monitoring research workflows. Extends akira-tetsuo-mutation-chamber. Pairs with spy-x-family-apple-project-anya-experiment.
 
 ## Walter Jon Williams Hardwired biotech (1986)
 
@@ -195,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of slot-loaded augmentation cartridges containing nanomachine-bearing biofluid, integrated with a pod-form patient interface and energy-cell-coupled activation. Anticipates claims directed to slot-loaded nanoparticle-bearing biofluidic cartridges with patient-pod interface and external energy-coupled activation.
 
+## Research International RAPTOR portable fluidic immunoassay analyzer (2000-09-12)
+
+- **id**: `research-international-raptor-fluidic-immunoassay-analyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Research International, Inc. (technology lineage from the Naval Research Laboratory fiber-optic biosensor program)
+- **disclosure**: US6118126A Method for enhancing fluorescence (Research International, evanescent-wave fiber-optic biosensor); see also Anderson et al., A fiber-optic biosensor: combination tapered fibers designed for improved signal acquisition, Biosens. Bioelectron. 8, 249 (1993); RAPTOR product disclosures circa 2000-2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable microfluidic immunoassay coupon with integrated pump, valves and reagent storage running an automated multiplexed sandwich fluoroimmunoassay over antibody-coated fiber waveguides with evanescent-wave readout. Anticipates claims to (a) disposable fluidic coupon with on-board pump/valves for an automated sandwich immunoassay; (b) multi-fiber evanescent-wave fluoroimmunoassay biosensor for biothreats; (c) reusable-analyzer-plus-single-use-cartridge architecture for field immunoassay; (d) on-coupon reagent blister and waste containment for a portable assay. Prior art for Research International, MesoScale, and competing portable-immunoassay-cartridge patents; orthogonal-confirmation partner to UV-LIF bioaerosol triggers.
+
 ## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
 
 - **id**: `halo-mjolnir-biofoam-injection`
@@ -255,6 +285,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of biofluid tank holding distinct personality-state with reinstantiation interface to compatible body. Anticipates claims directed to cryogel-matrix biofluid storage cartridges holding distinct personality-state markers with reinstantiation interface.
 
+## SiPix microcup electronic-ink array (E Ink microcup architecture) (2002-10-31)
+
+- **id**: `eink-sipix-microcup-electrowetting-array`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: SiPix Imaging, Inc. (acquired by E Ink Holdings)
+- **disclosure**: US20020163624A1 / US6788452B2 Process for manufacture of improved color displays / Electrophoretic display and novel process for its manufacture (Liang et al., SiPix Imaging); SiPix later acquired by E Ink.
+- **ip status**: patented
+- **prior art notes**: Discloses roll-to-roll microembossing of an array of open microcups and continuous fill-and-seal of each with a display fluid - a web-manufactured microfluidic micro-reservoir array. Anticipates claims to (a) microembossed open-microcup display cell array; (b) roll-to-roll fill-and-seal of microcells with electro-optic fluid; (c) mechanically isolated fluid pixels on a flexible substrate; (d) microcup as a confinement cell for electrowetting/electrofluidic media. Sibling architecture to E Ink microcapsule encapsulation; prior art for microcell-confined e-paper and electrofluidic-display patents.
+
 ## MBARI Environmental Sample Processor (ESP) (2003)
 
 - **id**: `mbari-esp-environmental-sample-processor`
@@ -284,6 +324,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: HiMedia Laboratories Pvt Ltd (Mumbai) IP estate; IN/PCT filings 2005-present
 - **ip status**: patented
 - **prior art notes**: HiMedia patent family covers reagent supply for Indian POC fluidic platforms with low-cost optimization. Anticipates claims directed to Indian-market POC reagent kits with low-cost cartridge format constraints.
+
+## Charles River Endosafe nexgen-PTS LAL Endotoxin Cartridge (2006)
+
+- **id**: `charles-river-endosafe-nexgen-pts-lal-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe-PTS / nexgen-PTS product literature and operator manual; FDA-licensed kinetic-chromogenic LAL cartridge assay
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use injection-molded fluidic cartridge that performs a complete kinetic-chromogenic Limulus amebocyte lysate endotoxin assay: a sample is drawn by an instrument pump through parallel channels onto dried LAL+chromogen reagent pads, incubated at controlled temperature, and read optically, with dedicated spiked-sample channels providing the regulatory positive product control and a 2D barcode encoding the reagent lot archived standard curve. Anticipates: (a) dried-reagent endotoxin/pyrogen cartridges with on-board spike-recovery controls; (b) barcode-encoded lot calibration substituting for in-run standard curves on a disposable cartridge; (c) the general architecture of a multi-channel optical-read disposable performing a pharmacopeial release assay at point of use. One of the most widely deployed pharmaceutical QC microfluidic consumables worldwide.
+
+## Theseus medbay regeneration pods and the vampire-revival protocol (Peter Watts, Blindsight / Echopraxia) (2006-10-03)
+
+- **id**: `watts-blindsight-theseus-medbay-vampire-revival`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter Watts
+- **disclosure**: Peter Watts, Blindsight (Tor, 2006-10-03, ISBN 978-0765312181) and Echopraxia (Tor, 2014, ISBN 978-0765328021); the starship Theseus medbay regeneration/recovery pods, the resurrection of an extinct predatory hominid subspecies (vampires) and the anti-Crucifix-Glitch drug regimen, and the Bicameral Orders bioengineering facilities.
+- **ip status**: fictional
+- **prior art notes**: Discloses fluid-immersion regeneration pods with perfusion and tissue-repair support, a de-extinction bioprocessing line, and a chronic implant/infusion drug regimen suppressing a physiological glitch. Cited aspects: the fluid-immersion regeneration-pod with perfusion and the chronic-implant-infusion regimen with onset telemetry. Anticipates generic claims to fluid-immersion regenerative-recovery pods and to chronic implantable-infusion-with-monitoring regimens. Pairs with red-rising recovery vats, prometheus-medpod-style entries, and ray-nayler de-extinction-style entries.
+
+## Geass Directorate Code/Geass research apparatus and C.C.s immortality study (Code Geass) (2006-10-06)
+
+- **id**: `code-geass-geass-code-research-directorate`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sunrise
+- **disclosure**: Code Geass: Lelouch of the Rebellion (Sunrise, broadcast 2006-10-06 to 2007-07-29; R2 2008). The Geass Directorate and its research into Code and Geass biology, including experiments on children and on the immortal C.C., feature in R1/R2; IMDB tt0994314.
+- **ip status**: fictional
+- **prior art notes**: Discloses a research facility studying and inducing a biological capability in subjects with biomonitoring, plus a transfer mechanism moving a capability-conferring biological factor between bearers. Cited aspects: the induction-with-biomonitoring research loop and the bearer-to-bearer factor-transfer. Anticipates generic claims to capability-induction research workflows with subject monitoring and to transfer-of-biological-factor-between-hosts procedures. Borderline (mechanism is magical), but the research-loop and transfer archetypes are concrete. Pairs with made-in-abyss-bondrewd-cradle-of-desire and spy-x-family-apple-project-anya-experiment.
 
 ## ISS Lab-on-Chip Application Development Portable Test System (LOCAD-PTS) (2007)
 
@@ -485,6 +555,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a label-free CD4 counting cartridge: capture-then-lyse-then-impedance-count CD4+ cells in whole blood. Anticipates: cell-capture-then-lyse-then-count microfluidic architectures; label-free POC immunophenotyping cartridges; integrated blister-pack reagent storage in disposable HIV cartridges. Defunct status does not invalidate the disclosures, which remain citable via patents and Sci Transl Med publication.
 
+## BioFire FilmArray BioThreat-E and BT panel pouch (defense biothreat cartridge) (2009-11-19)
+
+- **id**: `biofire-filmarray-biothreat-e-panel-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BioFire Defense (BioFire Diagnostics, a bioMerieux company; formerly Idaho Technology)
+- **disclosure**: US20090275014A1 / US8895295B2 Microfluidic devices and methods of use (Idaho Technology / BioFire); FilmArray BioThreat panel and BioThreat-E EUA documentation, 2010s.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a sealed microfluidic pouch integrating bead-beating extraction, blister reagent storage, nested multiplex/singleplex PCR with an array of nanoliter second-stage wells dispensed by film pumps/valves, and melt-curve readout. Anticipates claims to (a) closed-pouch sample-to-answer multiplex PCR cartridge for biothreat detection; (b) array of nanoliter second-stage singleplex PCR wells fed from a first-stage multiplex reaction; (c) film-pump/pinch-valve fluidic actuation in a sealed diagnostic pouch; (d) freeze-dried-reagent biothreat panel requiring no reagent cold chain. Prior art (along with the existing generic FilmArray entry) for closed-cartridge multiplex-PCR patents - the BioThreat configuration specifically.
+
 ## Pall Allegro STR / single-use fluidic train (2010)
 
 - **id**: `pall-allegro-stt`
@@ -625,6 +705,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sister entry to 23andMe collection tube (same DNA Genotek architecture). Listed for completeness of the consumer-shipped microfluidic neighborhood.
 
+## Lucas Clinic celebrity-virus harvesting, attenuation, and injection apparatus (Antiviral, 2012) (2012-05-19)
+
+- **id**: `antiviral-lucas-clinic-celebrity-virus-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg
+- **disclosure**: Antiviral (Brandon Cronenberg; theatrical release 2012, premiered Cannes Un Certain Regard 2012-05-19); the Lucas Clinic harvests viruses from celebrities, runs them through a copy-protection/attenuation machine, and injects paying clients; also the celebrity-cell-tissue butchery; IMDB tt1772264.
+- **ip status**: fictional
+- **prior art notes**: Discloses a harvest-process-attenuate-inject pipeline: donor pathogen sampling, a benchtop processing machine applying an attenuation/copy-protection step, single-dose syringe loading, and client injection, plus a parallel donor-cell tissue-culture line. Cited aspects: the harvest-then-attenuate-then-single-dose-inject workflow and the benchtop pathogen-processing-to-dose-unit machine. Anticipates generic claims to integrated pathogen-harvest-and-attenuation-to-dose-unit pipelines and to bench instruments converting harvested biological material into single-dose injectables. HIGHEST 102 value: the entire film is about this microfluidic clinic pipeline. Pairs with theranos-promised-cartridge, antiviral-adjacent fictional entries, and the-substance-cell-division-serum.
+
 ## Paternoster Gang Victorian-era surgical and revival kit (Madame Vastra / Strax) (2012-09-22)
 
 - **id**: `doctor-who-paternoster-gang-victorian-medical`
@@ -755,6 +845,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a consumer at-home stool sample collection vessel pre-filled with proprietary stabilization buffer that preserves nucleic acid integrity through ambient-temperature shipping. The stabilizer is the microfluidic primitive (large-volume sample homogenized in stabilizer for downstream microfluidic processing at the central lab). Anticipates: consumer at-home stool collection with on-board stabilizer; the entire prep architecture for stool methylation testing.
 
+## Titan-shifter serum and Marleyan injection apparatus (Attack on Titan) (2014-09-13)
+
+- **id**: `attack-on-titan-titan-serum-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hajime Isayama / Kodansha
+- **disclosure**: Attack on Titan (Hajime Isayama, Kodansha; manga 2009- ; anime Wit Studio/MAPPA 2013-2023). The Titan-serum and injection apparatus appear across the Clash of the Titans / Return to Shiganshina / Marley arcs (anime second-fourth seasons, e.g. ep. broadcast 2017-09-13 onward); IMDB tt2560140.
+- **ip status**: fictional
+- **prior art notes**: Discloses a standardized single-dose biological serum delivered by injection or covert ingestion that effects a programmed transformation in the recipient, with variants carrying specific traits, plus a remote-trigger activation across all dosed recipients. Cited aspects: the dose-unit transformation serum and the covert-ingestion delivery vector with deferred remote activation. Anticipates generic claims to single-dose programmable-effect biologics and to delayed-action prodrug/vector systems with external triggering. High 102 value (the serum is a central plot device). Pairs with my-hero-academia Nomu and one-punch-man-doctor-genus fictional entries.
+
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
 - **id**: `werfen-gem-premier-5000-cartridge`
@@ -784,6 +884,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bloodborne (FromSoftware / Sony Computer Entertainment, released 2015-03-24); the opening blood-ministration scene, the Healing Church lore, and the blood-vial healing item shown throughout; The Old Hunters DLC (2015).
 - **ip status**: fictional
 - **prior art notes**: Discloses a medicine built on blood transfusion: a clinical blood-ministration procedure, portable self-injected blood preparations, a hierarchy of blood potencies including a near-universal cure with a documented severe adverse outcome, and an institution for harvesting and refining the preparations. Anticipates generic claims to transfusion-based therapeutic platforms with portable self-administered formats and potency stratification. Pairs with bioshock-plasmid-injection and the Lazarus-Pit / vampire-blood entries.
+
+## Healing Church Research Hall and Iosefka Clinic blood-experiment apparatus (Bloodborne) (2015-03-24)
+
+- **id**: `bloodborne-research-hall-iosefka-clinic`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FromSoftware
+- **disclosure**: Bloodborne (FromSoftware / Sony Computer Entertainment, 2015-03-24); the Research Hall and Iosefka Clinic environments, the blood-vial healing items, and the blood-ministration lore; IMDB tt3702996.
+- **ip status**: fictional
+- **prior art notes**: Discloses a blood-therapy clinic with (a) standardized single-dose injectable blood vials, (b) bedside infusion/extraction lines on restrained subjects, and (c) a research ward performing serial blood-handling experiments. Cited aspects: the dose-unit blood vial and the bedside coupled infusion-and-extraction loop. Anticipates generic claims to standardized single-dose blood-product injectors and to integrated bedside extract-process-reinfuse apparatus. Extends bloodborne-healing-church-blood-ministration; pairs with vampire-the-masquerade blood-magic fictional entries.
 
 ## Witcher 3 in-game alchemy station crafting interface (2015-05-19)
 
@@ -825,6 +935,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-sample parallel magnetic-bead extraction processor using sealed pre-loaded plastic cartridges that ship with reagents pre-aliquoted in foil-sealed wells, eliminating user reagent handling. Anticipates: reagent-pre-loaded cartridge-tape format for clinical NA extraction; 48-sample magnetic-bead processor architectures distinct from the 96-format paradigm. Useful prior art against pre-aliquoted sealed-cartridge extraction claims.
 
+## Green Poison (Dollar Bill) virus research and JTF decontamination labs (Tom Clancys The Division) (2016-03-08)
+
+- **id**: `the-division-green-poison-cdc-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Massive Entertainment / Ubisoft
+- **disclosure**: Tom Clancys The Division (Massive Entertainment / Ubisoft, 2016-03-08); the CDC/research-wing missions, the antiviral-research labs, and the Dark Zone decontamination airlocks; IMDB tt3636822.
+- **ip status**: fictional
+- **prior art notes**: Discloses a biocontainment-research environment with bench sample-handling for an engineered pathogen, an antiviral-development workflow, automated decontamination airlocks with spray manifolds, and metered single-dose field injectors. Cited aspects: the automated multi-stage decon-airlock spray manifold and the metered single-dose field injector. Anticipates generic claims to automated decontamination spray chambers with staged cycles and to compact metered-dose emergency injectors. Pairs with andromeda-strain-isolation-chamber and resident-evil-style fictional bio-lab entries; the field injector pairs with fallout-stimpak-autoinjector.
+
+## Dr. Garaki/Ujiko Nomu-manufacture vats and Quirk-handling apparatus (My Hero Academia) (2016-04-03)
+
+- **id**: `my-hero-academia-nomu-manufacture-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kohei Horikoshi / Shueisha
+- **disclosure**: My Hero Academia (Kohei Horikoshi, Shueisha; manga from 2014; anime Bones from 2016-04-03); the Nomu and the Garaki/Ujiko laboratory appear from the League of Villains arc onward (anime first season 2016, expanded in later seasons); IMDB tt5626028.
+- **ip status**: fictional
+- **prior art notes**: Discloses vat gestation of bioengineered soldier bodies plus a bench workflow extracting/banking/grafting biological capability-factors between individuals plus an injectable amplifier. Cited aspects: the perfused soldier-body vat line and the extract-bank-graft capability-transfer workflow. Anticipates generic claims to perfused organism-production bioreactors and to fluidic extract-and-transfer-of-biological-factors workflows. Pairs with attack-on-titan-titan-serum-injection, one-punch-man-doctor-genus, and appleseed-bioroid-production-facility.
+
+## Claws ultimate-weapon psychic-power amplification research apparatus (Mob Psycho 100) (2016-07-12)
+
+- **id**: `mob-psycho-100-claw-ultimate-weapon-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: ONE / Shogakukan
+- **disclosure**: Mob Psycho 100 (ONE, Shogakukan webcomic from 2012; anime Bones from 2016-07-11). Claws research toward an ultimate-weapon esper and its associated facility appear in the Claw arc (anime first/second seasons); IMDB tt5897304.
+- **ip status**: fictional
+- **prior art notes**: Discloses a research facility administering injectable amplifiers to subjects with biomonitoring across escalating doses. Cited aspect: the dosed-amplifier administration with subject biomonitoring loop. Anticipates generic claims to dose-escalation administration with integrated subject-biosample monitoring. Borderline (mechanism unspecified). Pairs with spy-x-family-apple-project-anya-experiment and one-punch-man-doctor-genus.
+
 ## Deus Ex: Mankind Divided - augmentation chambers (2016-08-23)
 
 - **id**: `deus-ex-md-augmentation-chambers`
@@ -834,6 +974,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Deus Ex: Mankind Divided (Eidos Montreal / Square Enix, 2016)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of segregated augmentation facility with screening biofluid sampling and in vivo upgrade biomarker monitoring. Anticipates claims directed to cartridge-form factor in vivo upgrade modules with integrated rejection-event biomarker monitoring.
+
+## The skein electrostatic organ and its clinical/research apparatus (Naomi Alderman, The Power) (2016-10-27)
+
+- **id**: `alderman-the-power-skein-organ-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Naomi Alderman
+- **disclosure**: Naomi Alderman, The Power (Viking, 2016-10-27, ISBN 978-0670919963; Curtis Brown / Penguin); women develop a striated electric organ (the skein) along the collarbone capable of discharging electricity; the novel depicts clinical imaging, surgical sampling, a suppressant drug (NeuroBlocker), and skein-transfer between individuals.
+- **ip status**: fictional
+- **prior art notes**: Discloses clinical imaging and biopsy of a novel bioelectric organ, a pharmacological suppressant delivered by pill/injection, bench culture and electrical-output measurement of the organs tissue, and a transfer/induction procedure. Cited aspects: the bench culture-and-bioelectric-output-measurement of excised tissue and the suppressant-delivery-plus-organ-imaging clinical workflow. Anticipates generic claims to ex-vivo bioelectric-tissue culture/measurement platforms and to organ-imaging-plus-pharmacological-modulation workflows. HIGH 102 value: the skein is the central element. Pairs with abbott-freestyle-libre-cgm (bioelectric sensing analogue) and warframe-helminth-infested-biology-system (transfer-of-biological-factor archetype).
 
 ## Abbott Alinity i Immunoassay Analyzer Fluidic Subsystem (2017)
 
@@ -885,6 +1035,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a hybrid pyrolysis/derivatization/laser-desorption mass-spec instrument with a 32-cell sealed-cup carousel architecture as in-situ sample prep. Element-by-element disclosure: (a) the dual-front-end design (thermal pyrolysis path + UV-LDI path sharing a single ion trap) anticipates patents claiming dual-mode MS sample introduction for planetary life detection; (b) the chiral-column GC train specifically targeting amino-acid enantiomer ratios as a life-detection signature anticipates terrestrial commercial chiral-LC/GC cartridges marketed for biosignature discrimination; (c) the 2-meter subsurface drill aliquot pathway with sealed transfer to a sample carousel anticipates concepts for Europa Lander / Enceladus subsurface sample acquisition; (d) the perchlorate-bypassing LDI ionization mode anticipates any patent claiming non-thermal direct laser ionization for Mars/icy-moon refractory organics. MOMA is the European/American sister architecture to SAM and the most current public-domain disclosure of an integrated pyr-GCMS-LDMS planetary cartridge.
 
+## binx health io Point-of-Care Molecular Cartridge (Chlamydia / Gonorrhea) (2017)
+
+- **id**: `binx-health-io-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: binx health
+- **disclosure**: binx health (formerly Atlas Genetics, Bath, UK / Boston, US) io platform disclosures and FDA-cleared CT/NG point-of-care molecular test; patents on an electrochemical-detection PCR cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a sample-to-answer molecular-diagnostic cartridge integrating lysis, PCR, and electrochemical amplicon detection at on-cartridge screen-printed electrodes with blister-pack reagents and valving. Anticipates: electrochemical-readout PCR cartridges for POC; integrated lysis-amplify-detect consumables using non-optical detection. Companion to cepheid-genexpert-cartridge and visby-medical entries (optical or strip readout) -- binx uses electrochemistry instead.
+
 ## Dr. Stone petrification cure / revival fluid (nital-acid revival formula) (2017-03-06)
 
 - **id**: `dr-stone-petrification-revival-fluid`
@@ -895,6 +1055,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an improvised wet-chemistry reagent for reversing a whole-body mineralization, derived from primitive feedstocks, applied topically/by immersion, with empirical dose-response titration and arbitrary scale-up. Anticipates generic claims to topical de-mineralization reagents and to scalable immersion-revival formulations. Borderline for a microfluidics corpus (no chip) but the formulated-reagent-plus-titration workflow is the cited element. Pairs with star-trek-genesis-device-matrix and bioshock-plasmid-bottling-plant.
 
+## Black-market embryonic gene-editing rig and adult phenotype-rewrite kit (Daniel Suarez, Change Agent) (2017-04-18)
+
+- **id**: `suarez-change-agent-black-market-gene-editing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Daniel Suarez
+- **disclosure**: Daniel Suarez, Change Agent (Dutton, 2017-04-18, ISBN 978-1101984666); near-future Singapore, illegal labs perform embryonic CRISPR-class edits and a black-market adult phenotype-rewrite (reflexive genetic editing) that remodels a living persons body to match another genome.
+- **ip status**: fictional
+- **prior art notes**: Discloses a bench gene-editing platform (microfluidic embryo handling + payload synthesis + electroporation/injection) and an injectable self-propagating adult-edit payload remodeling tissues toward a target genome, with sequencing QC. Cited aspects: the integrated embryo-handling-plus-payload-delivery bench and the injectable progressive-phenotype-rewrite payload. Anticipates generic claims to integrated gene-editing benches with microfluidic embryo handling and to systemic progressive-editing therapeutic payloads. HIGH 102 value: the work centers on the editing device/process. Pairs with gattaca-instant-genome-readout, naam-nexus-trilogy-implant, and rajaniemi-darkome-diy-synthetic-biology.
+
+## TranStar Neuromod Division injection device and reverse-engineering rig (Prey, 2017) (2017-05-05)
+
+- **id**: `prey-2017-transtar-neuromod-division`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Arkane Studios / Bethesda
+- **disclosure**: Prey (Arkane Studios / Bethesda Softworks, 2017-05-05); the Neuromod Division chapter, the eye-socket Neuromod injector, the Typhon-organ extraction and neuromod-fabrication lab, and the neuromod-removal chair; IMDB tt5670152.
+- **ip status**: fictional
+- **prior art notes**: Discloses a single-use cartridge-based neural-injection device (fine transorbital cannula, metered dose, status indication) plus an upstream extract-and-formulate bench process turning a biological feedstock into discrete therapeutic cartridges, plus a reversal procedure. Cited aspects: the metered single-dose injector-cartridge form factor for CNS delivery, and the feedstock-to-cartridge fluidic manufacturing chain. Anticipates generic claims to disposable metered CNS-delivery injectors and to closed bench workflows producing dose-unit cartridges from harvested biological material. High 102 value because the device is central to the work. Pairs with Iron Man Extremis-style fictional entries.
+
 ## EOFlow EOPatch Insulin Pump (2017-06)
 
 - **id**: `eoflow-eopatch-insulin`
@@ -904,6 +1084,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: EOFlow Co. Ltd. press release 2017; KFDA approval 2017; Lee SH et al. clinical reports
 - **ip status**: patented
 - **prior art notes**: Discloses tubeless patch insulin pump using an electroosmotic micropump element to drive insulin through a cannula into subcutaneous tissue. Distinct from the spring/motor-driven syringe pumping in Omnipod. Anticipates: electroosmotic micropumping in implantable/wearable insulin delivery; alternative architectures to spring-driven syringe pumps in patch-pumps.
+
+## Bondrewds Idofront laboratory, Cradle of Desire chamber, and hollow-conversion apparatus (Made in Abyss) (2017-07-07)
+
+- **id**: `made-in-abyss-bondrewd-cradle-of-desire`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Akihito Tsukushi / Takeshobo
+- **disclosure**: Made in Abyss (Akihito Tsukushi, Takeshobo; manga from 2012; anime Kinema Citrus 2017; film Dawn of the Deep Soul 2020). Bondrewds Idofront laboratory and the Cradle of Desire feature in the Idofront arc (anime first season finale 2017 and the 2020 film); IMDB tt7222086.
+- **ip status**: fictional
+- **prior art notes**: Discloses a sealed processing chamber that extracts a transferable biological property from a living subject under controlled load, plus cartridge vessels that store and deliver that property to a recipient, plus a conversion apparatus producing stabilized modified subjects. Cited aspects: the extract-into-cartridge-then-deliver-to-recipient transfer workflow and the sealed-chamber load-driven extraction. Anticipates generic claims to fluidic extract-store-deliver transfer-of-biological-factor systems. Extends made-in-abyss-curse-bearing-fluid. Pairs with warframe-helminth-infested-biology-system and made-in-abyss-crimson-splitjaw-fluid-effects.
 
 ## Natera Signatera ctDNA Collection Tube (2017-10)
 
@@ -945,6 +1135,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a sealed plastic cartridge that performs deparaffinization, lysis, magnetic-bead RNA capture, and elution of FFPE biopsy samples in an automated system. Anticipates: integrated FFPE-input molecular diagnostic cartridge with on-cartridge organic-solvent paraffin removal followed by aqueous magnetic-bead capture, eliminating manual deparaffinization steps. Useful as prior art against claims to single-cartridge FFPE-to-microarray sample prep architectures.
 
+## Shiseido Optune AI-Personalized Skincare Cartridge Dispenser (2018)
+
+- **id**: `shiseido-optune-personalized-skincare-cartridge`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Shiseido
+- **disclosure**: Shiseido Company Optune service launch press materials (2018-2019); Shiseido IoT skincare-dispenser patents
+- **ip status**: patented
+- **prior art notes**: Discloses a countertop multi-cartridge fluid dispenser with per-cartridge micro-metering pumps that blend a personalized cosmetic dose on demand under cloud/AI control informed by skin imaging and environmental data. Anticipates: point-of-use multi-stream cosmetic blending dispensers; cloud-directed micro-dosing recipes; the architecture of a consumer fluidic compounding appliance. Companion to LOreal Perso and D.O.S.E. cosmetic-personalization prior art.
+
+## LOreal SkinCeuticals Custom D.O.S.E Bespoke Serum Compounding System (2018)
+
+- **id**: `loreal-skinceuticals-custom-dose`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: LOreal (SkinCeuticals / Modiface)
+- **disclosure**: LOreal / SkinCeuticals Custom D.O.S.E launch materials (2018); LOreal in-store cosmetic-compounding device patents
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fluidic compounding station that meters multiple cosmetic active and base liquids from identified cartridges, mixes them, and dispenses a single finished personalized bottle under metering feedback. Anticipates: in-store/in-clinic precision cosmetic compounding appliances; cartridge-fed metered blending with per-dose volume verification; the architecture of a point-of-sale fluidic formulation device. Companion to loreal-perso-skincare and shiseido-optune-personalized-skincare-cartridge.
+
 ## Dexcom G6 Continuous Glucose Monitor (2018-03-27)
 
 - **id**: `dexcom-g6-cgm`
@@ -975,6 +1185,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Spacer's Choice / Auntie Cleo medical kiosks depicted as standalone vending-machine medical units providing diagnostic scan + injectable dispensing. Defensive prior art for retail-style medical kiosks with combined diagnostic + drug-vending interfaces.
 
+## Procter and Gamble Opte Precision Skincare System (Handheld Inkjet Pigment Wand) (2019)
+
+- **id**: `pg-opte-precision-skincare-wand`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Procter and Gamble
+- **disclosure**: Procter and Gamble Opte Precision Skincare System product literature and CES 2019 press materials; P&G patents on a handheld optical-scanning inkjet skin-treatment device
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld device combining a MEMS inkjet printhead, a replaceable serum cartridge, an imaging camera, and a closed-loop controller that fires individual nozzles only over camera-detected skin features as the device is swept across skin. Anticipates: camera-guided closed-loop inkjet deposition of fluids onto biological surfaces; handheld microprinthead drug/cosmetic dosing; pixel-resolved on-skin fluid application. A genuinely handheld microfluidic device and a high-priority anchor; discontinued by P&G in 2022 but extensively disclosed.
+
+## Project Apple psychic-induction experiment apparatus (Spy x Family) (2019-03-25)
+
+- **id**: `spy-x-family-apple-project-anya-experiment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tatsuya Endo / Shueisha
+- **disclosure**: Spy x Family (Tatsuya Endo, Shueisha; manga from 2019-03-25; anime Wit Studio/CloverWorks 2022). Anyas origin as the escaped Subject 007 of an organizations experiment (Project Apple) that gave her telepathy is established in the early manga chapters; IMDB tt12343534.
+- **ip status**: fictional
+- **prior art notes**: Discloses a clandestine research facility administering injectable agents to subjects to induce a new capability, with biomonitoring across a cohort. Cited aspects: the injectable-agent administration with subject biomonitoring loop. Anticipates generic claims to dosed-agent administration with integrated subject-biosample monitoring in a research workflow. Borderline (the mechanism is unspecified), but the inject-and-monitor loop is concrete. Pairs with mob-psycho-100 and one-punch-man-doctor-genus fictional entries (psychic-power research labs).
+
 ## Becky Chambers - To Be Taught If Fortunate xenobiology fluidics (2019-09-03)
 
 - **id**: `chambers-to-be-taught-xenobiology-fluidics`
@@ -1004,6 +1234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BillionToOne UNITY product launch 2020; Tsao et al., Genet Med 24:545 (2022) doi:10.1016/j.gim.2021.10.014; US10968494B2
 - **ip status**: patented
 - **prior art notes**: Discloses cfDNA prep that integrates synthetic Quantitative Counting Templates (QCTs) at the extraction stage to provide internal calibration of allelic dosage during downstream sequencing. Anticipates: cfDNA cartridge architectures that introduce molecular controls during nucleic-acid capture rather than during library prep, enabling single-gene NIPT through quantitative allelic balance. Useful prior art against claims to cfDNA prep cartridges that bake in calibration-bead spike-in chemistry.
+
+## Yves Saint Laurent Rouge Sur Mesure (Perso) AI Custom Lipstick Device (2020)
+
+- **id**: `ysl-rouge-sur-mesure-lipstick-device`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: LOreal (Yves Saint Laurent Beaute)
+- **disclosure**: Yves Saint Laurent Beaute / LOreal Rouge Sur Mesure launch press materials (CES 2020, retail 2021); LOreal Perso device patents
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld battery-powered device that meters and blends multiple viscous cosmetic pigment pastes from replaceable cartridges into a single custom-shade dose under app/AI control. Anticipates: handheld multi-cartridge viscous-fluid blending dispensers; color-recipe-driven micro-metering of pigment pastes; consumer fluidic mixing appliances for cosmetics. Sibling device to the Perso skincare module (loreal-perso-skincare) and conceptually adjacent to pg-opte-precision-skincare-wand.
 
 ## DnaNudge / NudgeBox Rapid Cartridge PCR System (2020-03)
 
@@ -1075,6 +1315,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an AI-directed automated medbay (holographic advisor plus biobed plus hypospray delivery) sized for a small vessel with limited supplies. Anticipates generic claims to AI-supervised automated point-of-care medical bays. Extends star-trek-voy-emh-emergency-kit and star-trek-autodoc-tos-tng into the small-crew context. Draft.
 
+## REACT Chimera/Archaean parasite research and containment-extraction lab (Rainbow Six Extraction) (2022-01-20)
+
+- **id**: `rainbow-six-extraction-chimera-parasite-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ubisoft Montreal
+- **disclosure**: Tom Clancys Rainbow Six Extraction (Ubisoft Montreal, 2022-01-20); the REACT research facility, the parasite-sample collection objectives, and the Archaean-biology lore; IMDB tt13314558.
+- **ip status**: fictional
+- **prior art notes**: Discloses a field-to-lab biosample chain: sealed extraction canisters, a containment lab culturing/sequencing the sample, cryogenic stasis pods for compromised subjects, and field spray-foam applicators. Cited aspects: the sealed in-the-field live-tissue extraction-and-preservation canister and the cryogenic single-occupant stasis pod with biosign monitoring. Anticipates generic claims to sealed field biosample collection-and-stabilization cartridges and to monitored cryostasis enclosures. Pairs with the-division-green-poison-cdc-research and andromeda-strain-isolation-chamber.
+
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 
 - **id**: `telesis-bioxp-9600-benchtop-synthesis`
@@ -1095,6 +1345,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an isothermal amplification + Cas12a / Cas14a collateral-cleavage diagnostic cartridge with both lateral-flow and fluorescence readout options, including a multiplexed respiratory-panel variant with parallel target chambers per cartridge. Anticipates: instrument-free or minimal-instrument CRISPR diagnostic cartridges using Cas12a or smaller Cas14a effectors with lateral-flow readout; multiplexed CRISPR cartridge architectures with parallel cleavage chambers per single sample input. Anticipates claims to multiplexed CRISPR-based POC cartridges combining isothermal amplification with multi-target cleavage detection.
 
+## MobiPak wearable microfluidic drug-dispenser backpack (Spiderhead, 2022) (2022-06-17)
+
+- **id**: `spiderhead-mobipak-drug-dispenser-backpack`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Joseph Kosinski / Netflix
+- **disclosure**: Spiderhead (Joseph Kosinski; Netflix, released 2022-06-17; based on George Saunders short story Escape from Spiderhead, The New Yorker 2010-12-13); the MobiPak, a small surgically attached backpack of drug reservoirs that doses the wearer on remote command via a phone-controlled valve manifold; IMDB tt9783600.
+- **ip status**: fictional
+- **prior art notes**: Discloses a wearable, body-attached multi-reservoir microfluidic drug-delivery pack with a multiport valve manifold, individually addressable reservoirs, remote dose/rate command over a wireless link, an indwelling delivery cannula, and a consent-acknowledgement release gate. Cited aspects: the body-worn multi-reservoir addressable-dispenser form factor, the remote dose-and-rate command architecture, and the consent-gated release interlock. Anticipates generic claims to wearable programmable multi-drug infusion packs, to remotely commanded individually-addressable-reservoir dosing systems, and to consent-interlocked drug-release devices. HIGHEST 102 value: the entire film centers on this wearable microfluidic dispenser; the 2010 Saunders story is the dated literary antecedent. Pairs with abbott-freestyle-libre-cgm and insulin-patch-pump prior art and with fictional auto-injector entries.
+
+## Vesper seeds bioengineering and the Jugs Citadel synthetic-biology labs (Vesper, 2022) (2022-09-23)
+
+- **id**: `vesper-jugs-citadel-seed-bioengineering-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kristina Buozyte / Bruno Samper
+- **disclosure**: Vesper (Kristina Buozyte and Bruno Samper; theatrical 2022-09-23, premiered Karlovy Vary 2022); after an ecological collapse the oligarchs Citadels engineer single-use locked seeds traded for blood; the protagonist Vesper runs a makeshift bench engineering self-replicating seeds; IMDB tt15314262.
+- **ip status**: fictional
+- **prior art notes**: Discloses industrial production of genetically locked single-use seeds, a bench workflow editing seeds to remove the lock and self-replicate, and blood-collection-and-assay gating stations. Cited aspects: the genetic-use-restriction (locked-seed) production workflow and the bench gene-editing-to-defeat-lock workflow. Anticipates generic claims to genetic-use-restriction biofabrication and to bench gene-editing pipelines. Pairs with gattaca-instant-genome-readout and change-agent-style gene-editing fictional entries.
+
 ## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
 
 - **id**: `withings-u-scan`
@@ -1114,6 +1384,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lucira Health FDA EUA 2023-02-24 first OTC home test for both Flu and COVID-19; US10864522B2
 - **ip status**: patented
 - **prior art notes**: Discloses an extension of the Lucira self-contained RT-LAMP cartridge architecture to multiplex (Flu A/B + COVID-19) detection within the single OTC disposable. Anticipates: multiplexed RT-LAMP at-home OTC POC molecular tests within fully-self-contained battery-powered consumable cartridges; the regulatory pathway demonstration (first OTC dual-pathogen molecular test cleared by FDA under EUA).
+
+## The Glen underground cloning lab and Glen-powder distribution chemistry (They Cloned Tyrone, 2023) (2023-07-21)
+
+- **id**: `they-cloned-tyrone-underground-clone-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Juel Taylor / Netflix
+- **disclosure**: They Cloned Tyrone (Juel Taylor; Netflix, released 2023-07-21); a covert underground government facility clones residents in fluid-filled vats and distributes mind-altering agents through everyday products (the Glen powder, hair relaxer, grape drink, fried chicken); IMDB tt9054744.
+- **ip status**: fictional
+- **prior art notes**: Discloses fluid-filled adult-clone gestation vats under perfusion plus a chemical-processing line that synthesizes an agent and meters it into consumer products via injection/blending. Cited aspects: the perfused adult-clone vat array and the synthesize-then-meter-into-product covert-dosing line. Anticipates generic claims to perfused organism-gestation vat arrays and to metered-agent-into-product blending lines. Pairs with evangelion-eva-cloning-dummy-plug-tanks, swan-song-style cloning entries, and the-substance-cell-division-serum.
 
 ## Medtronic Simplera Disposable CGM (2023-09-21)
 
@@ -1165,6 +1445,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Extends MERSCOPE platform with larger flowcell footprint and improved encoding chemistry that reduces total fluidic cycles. Anticipates: scaling of MERFISH-based spatial transcriptomics to >0.5 cm^2 tissue per slide using on-instrument microfluidic delivery, and reduced-round encoding schemes compatible with the same imaging hardware. Anticipates claims to high-throughput in-situ-hybridization platforms that combine optical multiplexing with progressively longer panel sizes through chemistry rather than instrument changes.
 
+## Renaissance station Z-01 black-goo (Prometheus pathogen) research and cryo bay (Alien: Romulus, 2024) (2024-08-16)
+
+- **id**: `alien-romulus-renaissance-station-prometheus-pathogen-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Fede Alvarez / 20th Century Studios
+- **disclosure**: Alien: Romulus (Fede Alvarez; 20th Century Studios / Disney, theatrical 2024-08-16); the derelict Weyland-Yutani Renaissance research station studies a black-goo pathogen (the Prometheus mutagen, here Z-01 / Compound 26-Draco), with sample-handling apparatus, injectable compound vials, hypersleep cryo pods, and the synthetic Rook; IMDB tt18412256.
+- **ip status**: fictional
+- **prior art notes**: Discloses BSL-class handling of a mutagenic pathogen, derivation of a single-dose injectable compound from it, and hypersleep cryo pods with perfusion/temperature life support. Cited aspects: the pathogen-to-single-dose-injectable derivation workflow and the perfusion/temperature-regulated hypersleep pod. Anticipates generic claims to pathogen-derivative single-dose compound workflows and to perfusion-and-temperature-regulated cryostasis pods. Extends the Alien/Weyland-Yutani fictional medbay map; pairs with the-division-green-poison-cdc-research and prometheus-medpod-style entries.
+
+## The Substance activator/stabilizer cell-division serum and spinal-fluid switch system (The Substance, 2024) (2024-09-20)
+
+- **id**: `the-substance-cell-division-serum`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Coralie Fargeat / MUBI
+- **disclosure**: The Substance (Coralie Fargeat; MUBI / Working Title, theatrical release 2024-09-20; premiered Cannes 2024-05-19); the home-delivered kit of color-coded serum vials, the activator injection that spawns a younger body, the daily stabilizer dose drawn as spinal fluid, and the switch-day fluid exchange; IMDB tt17526714.
+- **ip status**: fictional
+- **prior art notes**: Discloses, with unusual specificity, a self-contained kit-based regimen: (a) a single-dose injectable that induces controlled cell division to grow a whole duplicate organism from autologous cells, (b) a recurring stabilizer dose harvested by spinal-fluid aspiration from one body and infused into the other, (c) a feeding/perfusion line maintaining the dormant body, and (d) a color-coded single-use vial/injector/extractor consumable set. Cited aspects: the autologous-cell-division-to-whole-duplicate-body workflow, the harvest-CSF-from-one-body-infuse-into-another transfer loop, and the color-coded single-use kit form factor. Anticipates generic claims to autologous-cell-expansion organism-generation regimens, to recurring biofluid-transfer-between-paired-bodies protocols, and to color-coded single-dose consumable injection/extraction kits. HIGHEST 102 value: the entire film is built around this microfluidic regimen. Pairs with the-pod-generation-artificial-womb-pod and i-am-mother-style fictional entries.
+
 ## 10x Genomics Xenium Prime 5K (2024-10)
 
 - **id**: `10x-xenium-prime-5k`
@@ -1174,3 +1474,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 10x Genomics Xenium Prime launch 2024-10-23; Xenium Prime user guide CG000760
 - **ip status**: patented
 - **prior art notes**: Discloses scaling of in-situ sequencing-by-ligation spatial transcriptomics to ~5000-gene panels through extended encoding (more bits per cycle, more cycles) on the unchanged Xenium Analyzer microfluidic platform. Anticipates: panel-scaling-by-chemistry on rolling-circle-amplification ISS platforms; combinatorial barcoding schemes spanning ~5000 targets within practical optical-cycle counts; integration of optional add-on probe panels delivered through the same microfluidic cartridge. Useful as prior art against claims that conflate panel size with hardware redesign.
+
+## DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) (2024-10-01)
+
+- **id**: `rajaniemi-darkome-diy-synthetic-biology-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hannu Rajaniemi
+- **disclosure**: Hannu Rajaniemi, Darkome (Gollancz, 2024; ISBN 978-1399610483); a near-future biohacker thriller in which DIY-bio collectives use home synthetic-biology rigs to design, print, and test self-administered immune-modulating constructs and personalized therapeutics outside the regulated medical system.
+- **ip status**: fictional
+- **prior art notes**: Discloses a benchtop synthetic-biology rig integrating nucleic-acid synthesis, microfluidic cell-free expression cartridges, automated wet-lab steps, on-rig sequencing/assay feedback, and a self-administration injector, in a closed design-build-test loop. Cited aspects: the integrated bench DBT rig with microfluidic cartridges and the rig-output-to-self-administration-injector coupling. Anticipates generic claims to integrated benchtop design-build-test synthetic-biology platforms and to point-of-use biologic synthesis-then-self-administer systems. HIGH 102 value: the work centers on the DIY-bio device/process. Pairs with suarez-change-agent-black-market-gene-editing, metafluidics-platform, and naam-nexus-trilogy-implant.

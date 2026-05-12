@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-membrane-pneumatic`
 
-**20 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1965
 
@@ -105,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an alternating tangential flow (ATF) cell-retention device: a hollow-fiber filter is operated with periodic reversal of axial flow (driven by a diaphragm pump on one end of the filter) so that filter-cake buildup is repeatedly disrupted and the filter sustains long-term operation at high cell densities. Anticipates: (a) ATF cell retention as the standard perfusion-bioreactor cell-retention modality; (b) hollow-fiber-with-periodic-flow-reversal architectures broadly; (c) integration of ATF cell retention with single-use bioreactors (Sartorius BIOSTAT, Cytiva Xcellerex) for high-density perfusion CGT processes.
 
+## Hansen 2002 robust scalable microfluidic metering for protein crystallization by free interface diffusion (2002-12-24)
+
+- **id**: `hansen-2002-microfluidic-protein-crystallization-metering`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hansen, C. L.; Skordalakes, E.; Berger, J. M.; Quake, S. R. A robust and scalable microfluidic metering method that allows protein crystal growth by free interface diffusion. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 16531-16536. DOI: 10.1073/pnas.262485199
+- **ip status**: public-domain
+- **prior art notes**: Discloses the microfluidic metering method underlying chip-format protein crystallization: paired nanoliter chambers loaded by dead-end filling, isolated by monolithic membrane valves, then connected through an interface valve so the two reagents mix only by free-interface diffusion - reproducibly sampling a crystallization trajectory through supersaturation space that is impractical to set up by hand at nanoliter scale. Anticipates claims to: dead-volume-free metering of defined nanoliter aliquots by valve-bounded chamber filling; free-interface-diffusion crystallization in a microfluidic chamber array; and high-throughput crystallization screening from microgram protein quantities. Commercialized as Fluidigm Topaz. Companion to quake-2003-microfluidic-protein-crystallization. Quake-lab MLSI lineage.
+
 ## Battlestar Galactica Cylon Centurion organic-fluid circulation system (2003)
 
 - **id**: `bsg-cylon-centurion-fluid-circulation`
@@ -115,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cylon Centurions are part-organic and depicted with internal fluid-circulation systems (visible during damage scenes). Caprica's Greystone Industries factory shows Centurion fluid-fill stations during manufacture. Defensive prior art for hybrid mechanical-biological robots with integrated fluid-circulation maintenance and assembly-line fluid-fill stations.
 
+## Studer 2004 scaling properties of a low-actuation-pressure microfluidic valve (2004-01-01)
+
+- **id**: `studer-2004-low-actuation-pressure-microfluidic-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Studer, V.; Hang, G.; Pandolfi, A.; Ortiz, M.; Anderson, W. F.; Quake, S. R. Scaling properties of a low-actuation-pressure microfluidic valve. J. Appl. Phys. 2004, 95, 393-398. DOI: 10.1063/1.1629781
+- **ip status**: public-domain
+- **prior art notes**: Establishes the quantitative design rules for monolithic-membrane (Quake/MLSI) microvalves and introduces the push-up valve geometry that achieves valve closure at sub-1-psi actuation pressures. Discloses: the mechanical model (membrane bending, contact mechanics) relating closure pressure to membrane thickness and channel width; the push-up vs push-down configuration trade-off; and the scaling that makes large valve arrays driven by modest pressure feasible. Anticipates claims to: low-actuation-pressure elastomeric membrane valves; push-up valve geometry; and parametric design methodologies for membrane-deflection microvalves. Core reference for the Stanford Microfluidics Foundry MLSI design-rule documents (cf. hong-studer-quake-2004-nanoliter-nucleic-acid-processor, unger-2000-quake-monolithic-membrane-valve).
+
 ## Repligen KrosFlo tangential flow filtration system (2005)
 
 - **id**: `repligen-krosflo-tff`
@@ -124,6 +144,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Spectrum Laboratories (acquired by Repligen 2017) KrosFlo line. https://www.repligen.com/products/krosflo. Patent family: US8231788B2 (Spectrum Laboratories; priority 2007).
 - **ip status**: patented
 - **prior art notes**: Discloses tangential-flow-filtration platform built around hollow-fiber filter cartridges, with automated TFF process control for buffer exchange, concentration, and clarification across the bioprocess scale spectrum. Anticipates: hollow-fiber TFF as a CGT downstream processing modality, including for viral-vector concentration and exosome/EV isolation; automated TFF instruments with permeate-flux and TMP feedback control loops.
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
+
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
+## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
+
+- **id**: `maerkl-quake-2007-mitomi-transcription-factor-binding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Stanford / Caltech
+- **disclosure**: Maerkl, S. J.; Quake, S. R. A systems approach to measuring the binding energy landscapes of transcription factors. Science 2007, 315, 233-237. DOI: 10.1126/science.1131007
+- **ip status**: public-domain
+- **prior art notes**: Discloses the MITOMI architecture: a dense array of PDMS unit cells where a circular button membrane valve is lowered onto a functionalized surface to mechanically trap surface-bound molecular complexes at the instant of measurement, defeating dissociation during washing and enabling thousands of true equilibrium-affinity measurements in parallel - here used to map the complete binding-energy landscape of transcription factors against every DNA sequence variant. Anticipates claims to: a button/doormat membrane valve used to capture and protect a surface-immobilized binding complex during washout; massively parallel on-chip equilibrium binding-constant arrays with in-situ-expressed protein; and microfluidic measurement of full sequence-resolved binding landscapes. The MITOMI button-valve trick is widely reused; this is its origin. Quake-lab MLSI lineage.
+
+## Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation (2007-06-01)
+
+- **id**: `melin-quake-2007-microfluidic-large-scale-integration-design-rules`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Stanford
+- **disclosure**: Melin, J.; Quake, S. R. Microfluidic large-scale integration: the evolution of design rules for biological automation. Annu. Rev. Biophys. Biomol. Struct. 2007, 36, 213-231. DOI: 10.1146/annurev.biophys.36.040306.132646
+- **ip status**: public-domain
+- **prior art notes**: The review that explicitly frames microfluidic large-scale integration as having design rules analogous to VLSI: minimum valve dimensions, multiplexer fan-out limits, channel-rounding requirements, push-up vs push-down valve choices, manifold pressure budgets, and the composition rules for assembling valves into pumps, mixers, rotary reactors, micro-columns, addressable chamber arrays, cell traps and MITOMI button cells. As a unified prior-art statement it anticipates claims to: parametric/rule-based design methodologies for elastomeric valve arrays; the standard MLSI primitive library; and software-assisted layout of multilayer soft-lithography chips. Core reference document for the Stanford Microfluidics Foundry (companion to hong-quake-2003-integrated-nanoliter-systems and studer-2004-low-actuation-pressure-microfluidic-valve).
 
 ## Replenish Inc. Ophthalmic MEMS Drug Delivery Micropump (2008)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-thermoplastic-injection-molding`
 
-**172 corpus entries disclose this subsystem.**
+**174 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -344,6 +344,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Conant CG et al., J Lab Autom 16:148-152 (2011); doi:10.1016/j.jala.2010.10.001; Fluxion Biosciences product literature; fluxionbio.com
 - **ip status**: patented
 - **prior art notes**: Discloses a microwell-plate-format microfluidic cell-adhesion assay system with parallel pneumatic pressure control across 24-48 channels. Anticipates: multiwell-plate-format shear-stress adhesion screening platforms; pneumatic-manifold-coupled microfluidic well plates; the architectural pattern of well-plate-compatible perfusion for high-throughput mechanobiology. Distinct from existing fluxion-bioflux-platform entry by specifying the 1000z generation and adhesion-assay specialization.
+
+## Berthier and Beebe 2007 flow rate analysis of a surface-tension-driven passive micropump (2007-10-08)
+
+- **id**: `berthier-beebe-2007-surface-tension-passive-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: David J. Beebe group, University of Wisconsin-Madison
+- **disclosure**: Berthier, E.; Beebe, D. J. Flow rate analysis of a surface tension driven passive micropump. Lab Chip 2007, 7, 1475-1478. DOI: 10.1039/b707637a
+- **ip status**: public-domain
+- **prior art notes**: Provides the quantitative theory of surface-tension-driven passive pumping: placing a small drop on the inlet and a larger drop on the outlet of a microchannel creates a Laplace-pressure difference (smaller drop has higher internal pressure) that pumps fluid from small to large drop, with the paper deriving the flow-rate-versus-drop-radii relationship and channel-resistance dependence. Anticipates claims to: pumpless microfluidic flow driven by the curvature/Laplace-pressure difference between two unequal sessile drops on inlet and outlet ports; pipette-actuated microchannel perfusion without tubing or instruments; and design rules sizing inlet/outlet drops to set flow rate. Foundational for open-microfluidics, suspended-microfluidics, and pipette-format high-throughput cell assays. From the Beebe lab (Wisconsin), with Glennys Mensing / Glenn Walker antecedents (Walker & Beebe 2002).
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -684,6 +694,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quanterix Simoa HD-1 launch 2014-02 (commercial); HD-X launch 2017-09; founding paper Rissin et al. Nat. Biotechnol. 2010 (already in corpus as rissin-2010-quanterix-simoa); FDA 510(k) K181616 (Simoa Nf-Light)
 - **ip status**: patented
 - **prior art notes**: Discloses the commercial Simoa fluidic platform: capture beads functionalized with antibody capture single-molecule analyte; bead suspension is loaded onto an injection-molded cyclic-olefin-polymer femtoliter microwell array disc (each array contains ~216,000 50 fL wells, sized to seat exactly one bead per well); fluorocarbon oil seals each well, isolating it as a digital reaction chamber; β-galactosidase-mediated cleavage of RGP in 'on' wells produces resorufin fluorescence detectable by CCD imaging — enabling binary single-molecule counting (digital ELISA). Anticipates: commercial-scale single-molecule immunoassay cartridges with sealed femtoliter wells; 24-array disposable disc format; the architectural pattern of bead-as-capture + microwell-as-digital-counter + oil-seal-as-isolation that defines digital immunoassay. Companion (Sherman et al. patent family) covers the 24-array disc geometry and bead-loading pipettor sequence not detailed in the academic Rissin 2010 paper.
+
+## Hindson 2011 high-throughput droplet digital PCR system for absolute quantitation of DNA copy number (2011-10-28)
+
+- **id**: `hindson-2011-droplet-digital-pcr-system-paper`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: QuantaLife, Inc. (Bill Colston / Ben Hindson; spun out of Lawrence Livermore National Laboratory; acquired by Bio-Rad)
+- **disclosure**: Hindson, B. J.; Ness, K. D.; Masquelier, D. A.; Belgrader, P.; Heredia, N. J.; Makarewicz, A. J.; Bright, I. J.; Stevens, M. Y.; Ortega, B. L.; Karlin-Neumann, G. A.; Bava, A.; Bright, J.-M.; Colston, B. W. High-throughput droplet digital PCR system for absolute quantitation of DNA copy number. Anal. Chem. 2011, 83, 8604-8610. DOI: 10.1021/ac202028g
+- **ip status**: public-domain
+- **prior art notes**: The foundational droplet-digital-PCR system paper: a disposable microfluidic cartridge partitions a single PCR reaction into ~20,000 monodisperse ~1-nL water-in-fluorinated-oil droplets (stabilized by a fluorosurfactant through thermal cycling), the droplets are endpoint-amplified and then streamed single-file past a two-color fluorescence reader, and Poisson statistics on the positive/negative droplet counts give the absolute target concentration with no standard curve - enabling precise copy-number-variation and rare-allele quantification. Anticipates claims to: absolute nucleic-acid quantification by partitioning into thousands of nanoliter droplets, endpoint amplification, droplet-by-droplet fluorescence counting, and Poisson correction; fluorosurfactant-stabilized droplet emulsions that survive PCR thermal cycling; and droplet-flow-cytometry readout of digital assays. HIGH-PRIORITY anchor - the entire droplet-digital-PCR product category (Bio-Rad QX series, etc.) descends from this; related to bio-rad-qx-ddpcr-system and bio-rad-laboratories-patent-estate. QuantaLife / LLNL lineage.
 
 ## Tandem Diabetes t:slim X2 insulin pump cartridge (2012)
 

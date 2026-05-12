@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-capillary-stop`
 
-**17 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Bond number explains why microfluidics works at all: at L ~ 100 microns, Bo ~ 10^-3 for water, so gravity is irrelevant and surface tension dominates. This is THE physical foundation for the microfluidic regime; anchors every patent claim that recites 'gravity-independent operation', 'orientation-independent chip', or 'surface-tension-driven liquid handling'. Eoetvoes 1886 (the equivalent group) predates the entire modern microfluidic field by more than a century.
 
+## Passive-diffusion organic-vapor dosimeter badge (SKC / Assay Technology / 3M class) (1976-11-09)
+
+- **id**: `passive-diffusion-organic-vapor-dosimeter-badge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3M (Organic Vapor Monitor), SKC Inc. (UMEx/575 series), Assay Technology, Gradko, Radiello (Sigma-Aldrich)
+- **disclosure**: US3992156A Diffusional dosimeter (Donald W. Underhill / 3M-style passive diffusion sampler), 1976; see also Palmes & Gunnison, Personal monitoring device for gaseous contaminants, Am. Ind. Hyg. Assoc. J. 34, 78 (1973).
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable passive sampler whose precisely defined diffusion gap/aperture geometry sets a known sampling rate so accumulated mass on a sorbent gives a time-weighted-average exposure - a controlled micro-gas-transport dosimetry device. Anticipates claims to (a) badge-format diffusive sampler with a defined diffusion gap/aperture array setting a calibrated sampling rate; (b) derivatizing-reagent sorbent in a passive badge for aldehyde/isocyanate dosimetry; (c) pump-free time-weighted-average personal exposure monitor; (d) tube-and-badge diffusive ambient-air samplers. Foundational prior art for passive-sampler patents (3M, SKC, Assay Technology, Radiello).
+
 ## de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827) (1985)
 
 - **id**: `de-gennes-1985-wetting-statics-dynamics-rmp`
@@ -95,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Pioneering centrifugal microfluidic platform from the late 1990s — predates most academic centrifugal-LoD work. Burstein's CD-format chemistry analyzer used spinning-disc-driven flow, capillary-burst valves, and integrated optical detection in a benchtop reader. Anticipates: many subsequent commercial centrifugal-LoD systems by demonstrating commercial feasibility 5–10 years before the academic literature peaked.
 
+## Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) (1997-04-08)
+
+- **id**: `bosch-ngk-ceramic-lambda-nox-sensor`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Robert Bosch GmbH (LSU/LSF), NGK Spark Plug / NTK, Denso, Continental
+- **disclosure**: US5616825A Exhaust gas sensor and a process for producing the same (NGK Spark Plug); see also US5288374A (Bosch) limiting-current oxygen sensor and Riegel, Neumann & Wiedenmann, Exhaust gas sensors for automotive emission control, Solid State Ionics 152-153, 783 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses a ceramic element with a controlled-porosity micro-diffusion-barrier channel feeding a sub-microliter measurement cavity bounded by pumping/Nernst electrodes, plus multi-chamber successive-barrier architectures and an integrated heater - a solid-state gas microfluidic/diffusion device. Anticipates claims to (a) diffusion-barrier-limited amperometric oxygen sensing with a defined micro-gas-channel; (b) multi-cavity successive-diffusion-barrier NOx sensor with O2 pre-removal; (c) co-fired heater integration in a planar zirconia sensing element. Prior art for Bosch, NGK/NTK, Denso lambda- and NOx-sensor patents.
+
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
 - **id**: `gyros-bioaffy-cd`
@@ -114,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: de Gennes, P.-G., Brochard-Wyart, F., Quere, D. (2004). 'Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves.' Springer-Verlag, New York. ISBN 978-0-387-00592-1.
 - **ip status**: public-domain
 - **prior art notes**: The definitive modern textbook on capillarity and wetting, by three Nobel-class authors. Anticipates microfluidic claims involving contact-line dynamics in microchannels, wetting of patterned surfaces, droplet spreading and pinning, superhydrophobic-surface microfluidics, capillary-pumping designs, and electrowetting at the Young/Lippmann level. Any patent claim reciting 'contact-angle controlled flow', 'wetting hysteresis exploited for directional flow', or 'superhydrophobic surface for droplet handling' must clear dGBWQ 2004.
+
+## ASML TWINSCAN immersion lithography water-handling hood (2004-11-25)
+
+- **id**: `asml-twinscan-immersion-hood-water-handling`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ASML Holding N.V.
+- **disclosure**: US20040263808A1 / US7193232B2 Lithographic apparatus and device manufacturing method (ASML, immersion lithography liquid supply system); see also Owa & Nagasaka, Immersion lithography: its potential performance and issues, SPIE 2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic meniscus-management hood: an annular supply/extraction microchannel ring delivering and recovering a degassed temperature-controlled liquid film in a sub-millimeter gap, with gas-knife and capillary edge features that pin a moving meniscus. Anticipates claims to (a) confined-meniscus liquid handling between a scanning substrate and an optic; (b) gas-knife/capillary-stop edge sealing of a moving liquid film; (c) point-of-use degassing of an immersion liquid to suppress bubbles; (d) millikelvin thermal conditioning of a thin liquid film for index control. Foundational immersion-fluid-handling prior art; ASML own families build on it but external claims to confined moving menisci are anticipated.
 
 ## Lab-on-a-CD: centrifugal microfluidics platform (2006)
 

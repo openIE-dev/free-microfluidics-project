@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `thermal-on-chip-resistive-heater`
 
-**69 corpus entries disclose this subsystem.**
+**101 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1976
+Earliest disclosure: 1972-08-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Satellite hydrazine monopropellant attitude-control thruster and propellant feed (Aerojet Rocketdyne MR-103/MR-111, ArianeGroup CHT class) (1972-08-01)
+
+- **id**: `satellite-hydrazine-monopropellant-feed-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Aerojet Rocketdyne (Rocket Research), ArianeGroup (formerly Astrium / DASA), Northrop Grumman, Moog ISP; catalyst (Shell 405 / Aerojet S-405 iridium-on-alumina)
+- **disclosure**: Schmidt, Hydrazine and Its Derivatives, Wiley 1984/2001 (monopropellant thruster chapter); Aerojet (formerly Rocket Research / TRW / Hamilton) MR-series thruster heritage; US3854287A Self-pressurized rocket propellant feed and related catalyst-bed disclosures, early 1970s.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic propellant feed of hydrazine through filtered small-bore lines and a fast solenoid valve to a fine injector onto a packed catalyst microbed with a bed heater, in pulse and continuous modes. Anticipates claims to (a) monopropellant attitude thruster with fine injector spraying onto a granular catalyst bed; (b) fast-pulse solenoid flow-control valve for impulse-bit attitude control; (c) catalyst-bed pre-heat for cold-start of a monopropellant thruster; (d) electrothermally augmented hydrazine thruster. Foundational prior art for monopropellant-thruster feed-system patents - and the prior art the green-monopropellant systems were designed to displace.
 
 ## Viking 1/2 GCMS and Biology Package (1976)
 
@@ -24,6 +34,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biemann K et al., 'Search for organic and volatile inorganic compounds in two surface samples from the Chryse Planitia region of Mars,' Science 194(4260):72-76 (1976), doi:10.1126/science.194.4260.72; Klein HP, 'The Viking biological investigation: General aspects,' J. Geophys. Res. 82(28):4677-4680 (1977)
 - **ip status**: public-domain
 - **prior art notes**: Discloses the architectural pattern of a planetary lander instrument that ingests bulk regolith, partitions it across multiple sealed reaction chambers, perfuses each with a different reagent (water/14C-labeled organics/13CO2 + light), and reads out via three orthogonal detection chains (mass spectrometer, beta scintillator, gas chromatograph thermal conductivity). For 102/103 anticipation purposes this is the founding flight precedent for: (a) integrated regolith-to-GCMS pyrolyzer with sealed sample magazines and oven-thermal-cycling, (b) a multi-modal life detection cartridge concept where one physical sample is interrogated by metabolic, isotope-labeling, and gas-evolution assays in parallel, and (c) the use of Curie-point pyrolysis to volatilize organics for downstream chromatographic separation. Anticipates virtually any later 'in-situ astrobiology cartridge' claim that recites multiple parallel reaction wells with independent reagent injection and orthogonal readouts (e.g., contemporary ELSAH/HOLD/MICA concepts). The Labeled Release positive (chiral-asymmetric heat-killable signal) remains a touchstone for any patent claiming life-detection by metabolic 14C release.
+
+## Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) (1979-05-08)
+
+- **id**: `forensic-postmortem-headspace-gc-autosampler`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Agilent Technologies (7697A), PerkinElmer (TurboMatrix), Teledyne Tekmar, CTC Analytics (PAL); methods established in forensic toxicology labs
+- **disclosure**: US4153434A Apparatus for sampling the gas phase of a liquid (Hewlett-Packard / static-headspace autosampler concept); see also Kolb & Ettre, Static Headspace-Gas Chromatography: Theory and Practice, Wiley 1997; ANSI/ASB and SOFT/AAFS forensic blood-alcohol HS-GC methods.
+- **ip status**: patented
+- **prior art notes**: Discloses an automated headspace autosampler: thermostatted vial equilibration, heated-needle vapor extraction, heated transfer line, and loop/pressure-balanced micro-sampling onto a GC column with internal standardization. Anticipates claims to (a) automated thermostatted headspace vapor micro-sampling of a biological aliquot for GC; (b) heated-needle/transfer-line path preventing volatile condensation and carry-over; (c) pressure-balanced headspace injection for forensic-grade quantitation; (d) high-throughput tray-automated headspace volatiles screen. Prior art for Agilent, PerkinElmer, Tekmar and CTC headspace-sampler patents; the confirmatory counterpart to the fuel-cell breathalyzer.
+
+## Intoximeter EC/IR II and Alco-Sensor electrochemical-fuel-cell evidential breath alcohol analyzer (1981-03-31)
+
+- **id**: `intoximeter-ecir-fuel-cell-evidential-breathalyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Intoximeters, Inc. (Alco-Sensor, EC/IR); also Draeger (Alcotest), Lifeloc (FC series), Lion Laboratories
+- **disclosure**: US4209300A Hand-held portable breathalyzer testing device and method of testing (Intoximeters, Inc., late 1970s); fuel-cell breath-alcohol sensing per US4279142A and the established literature (Dubowski, Breath-alcohol analyzers, J. Forensic Sci.).
+- **ip status**: patented
+- **prior art notes**: Discloses a fixed-aliquot breath-capture micro-gas-flow path feeding an electrochemical fuel-cell micro-chamber for ethanol-selective amperometric blood-alcohol estimation, optionally in series with an infrared cell. Anticipates claims to (a) end-exhalation fixed-aliquot breath sampling into a fuel-cell alcohol sensor; (b) acetone-immune fuel-cell breath-alcohol analyzer; (c) dual-principle (electrochemical plus infrared) evidential breath analyzer; (d) flow/pressure-gated mouthpiece path ensuring deep-lung air capture. Prior art for Intoximeters, Draeger, Lifeloc and Lion breath-alcohol-analyzer patents; extends the wave-2 oral-fluid drug-screening lineage.
 
 ## Vaught/Cloutier HP Thermal-Bubble Inkjet Patent (US4490728) (1981-08-14)
 
@@ -115,6 +145,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of a temperature-staged fluid extraction protocol from biological substrate, used for both medicinal preparation and identity-compatibility verification. Anticipates claims directed to staged-temperature solvent extraction cartridges with downstream identity-marker analysis.
 
+## Burns 1996 microfabricated structures for integrated DNA analysis (1996-05-28)
+
+- **id**: `burns-1996-microfabricated-dna-analysis-pnas`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Burns / Burke / Mastrangelo group, University of Michigan
+- **disclosure**: Burns, M. A.; Mastrangelo, C. H.; Sammarco, T. S.; Man, F. P.; Webster, J. R.; Johnsons, B. N.; Foerster, B.; Jones, D.; Fields, Y.; Kaiser, A. R.; Burke, D. T. Microfabricated structures for integrated DNA analysis. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 5556-5561. DOI: 10.1073/pnas.93.11.5556
+- **ip status**: public-domain
+- **prior art notes**: The direct precursor to the famous Burns 1998 Science integrated DNA analysis device (burns-1998-integrated-dna-analysis-device). Discloses microfabricated silicon-glass structures combining nanoliter drop metering by hydrophobic surface patterning, thermal-pneumatic (air-bubble) pumping driven by integrated resistive heaters, on-chip mixing of metered drops, a temperature-controlled reaction chamber, and an integrated capillary electrophoresis channel for product size analysis - all on a single wafer. Anticipates claims to: monolithic integration of metering+reaction+separation on a microfabricated substrate; thermal/gas-expansion actuation of discrete aqueous plugs in hydrophilic channels bounded by hydrophobic regions; on-chip drop merging by channel geometry; and end-to-end DNA assay automation in a chip-scale device. Predates the 1998 Science paper by two years.
+
 ## Final Fantasy VII SOLDIER program enhancement procedure (1997)
 
 - **id**: `ff7-soldier-program-enhancement`
@@ -124,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Final Fantasy VII (Square 1997); Crisis Core: Final Fantasy VII (Square Enix 2007-09-13); Final Fantasy VII Remake (2020) Cloud backstory.
 - **ip status**: fictional
 - **prior art notes**: SOLDIER program enhancement depicted as a Mako-immersion chamber; candidates suspended in Mako-saturated bath with controlled flow rate, exposure duration determining tier. Crisis Core depicts the chamber as a vertical cylinder with circulation, oxygenation, and continuous reagent flow. Anticipates: tiered-exposure-duration augmentation chambers with continuous reagent circulation; the architectural pattern of dose-by-time augmentation in a flow-through chamber; immersion bioreactors with subject-suspension and continuous reagent perfusion.
+
+## Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) (1997-04-08)
+
+- **id**: `bosch-ngk-ceramic-lambda-nox-sensor`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Robert Bosch GmbH (LSU/LSF), NGK Spark Plug / NTK, Denso, Continental
+- **disclosure**: US5616825A Exhaust gas sensor and a process for producing the same (NGK Spark Plug); see also US5288374A (Bosch) limiting-current oxygen sensor and Riegel, Neumann & Wiedenmann, Exhaust gas sensors for automotive emission control, Solid State Ionics 152-153, 783 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses a ceramic element with a controlled-porosity micro-diffusion-barrier channel feeding a sub-microliter measurement cavity bounded by pumping/Nernst electrodes, plus multi-chamber successive-barrier architectures and an integrated heater - a solid-state gas microfluidic/diffusion device. Anticipates claims to (a) diffusion-barrier-limited amperometric oxygen sensing with a defined micro-gas-channel; (b) multi-cavity successive-diffusion-barrier NOx sensor with O2 pre-removal; (c) co-fired heater integration in a planar zirconia sensing element. Prior art for Bosch, NGK/NTK, Denso lambda- and NOx-sensor patents.
 
 ## Warhammer 40K Death Korps of Krieg cloning vats (1998)
 
@@ -135,6 +185,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
 
+## Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) (1999-09-14)
+
+- **id**: `wellsite-mud-gas-microfluidic-chromatograph`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Geolog International, Halliburton (Sperry Drilling FLAIR/GasView), SLB/Schlumberger, Baker Hughes; micro-GC modules from Agilent (490 Micro GC, formerly Varian/Chrompack CP-4900), INFICON
+- **disclosure**: US5952556A Method for determining the type of fluid in a well by analyzing gas composition (mud-gas analysis); MEMS/micro-GC lineage from US5611846A (Microsensor Technology) miniature gas chromatograph; mud-logging practice per Whittaker, Mud Logging Handbook, PennWell.
+- **ip status**: patented
+- **prior art notes**: Discloses a fast wellsite gas chromatograph (often a silicon-MEMS injector/column/detector chip) with a sub-microliter sample loop continuously analyzing mud-extracted gas into C1-C5 components for fluid typing. Anticipates claims to (a) MEMS micro-GC for continuous wellsite mud-gas analysis; (b) sub-microliter-sample-loop fast chromatography of drilling-fluid-extracted gas; (c) on-chip thermal-conductivity detection of hydrocarbon components in a mud-logging system; (d) automated chromatographic fluid-typing while drilling. Prior art for Geolog, Halliburton, Schlumberger and micro-GC-vendor wellsite-analyzer patents.
+
 ## Liu Cixin - The Wandering Earth Underground City medical (2000)
 
 - **id**: `liu-cixin-wandering-earth-underground-medical`
@@ -145,6 +205,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of population-scale subterranean refuge medical infrastructure with standardized cartridge SKUs and tightly coupled atmospheric/biofluidic recycling. Anticipates claims directed to population-scale refuge medical cartridge SKUs with integrated atmospheric/fluidic recycling.
 
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
+
 ## bioMérieux VITEK 2 Microbial ID/AST Test Card Fluidic Wells (2002)
 
 - **id**: `biomerieux-vitek-2-card-fluidics`
@@ -154,6 +234,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: bioMérieux VITEK 2 launch 1999; VITEK 2 Compact 2002; FDA 510(k) K022366; VITEK 2 XL launch 2009
 - **ip status**: patented
 - **prior art notes**: Discloses an automated microbial ID/AST card-based fluidic system: a credit-card-sized polystyrene cassette containing 64 isolated microwells, each pre-loaded with a different lyophilized substrate (sugars, amino acids, antibiotic dilutions); the card mates with a transfer tube dipped into the bacterial inoculum suspension, and the analyzer's vacuum chamber draws inoculum into all wells simultaneously; the card is then sealed and continuously incubated at 35.5 °C with kinetic optical readout (turbidity at 660 nm + colorimetric pH/redox indicators). Anticipates: vacuum-loaded multi-well microbiology cards as a fluidic primitive for parallel substrate testing; the 'transfer tube + manifold + sealed card' architecture distinguishing VITEK from microtiter plate ID systems. Foundational disclosure for automated clinical microbiology workflows.
+
+## Liu 2002 nanoliter rotary device for polymerase chain reaction (2002-06-01)
+
+- **id**: `liu-quake-2002-nanoliter-rotary-pcr-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Liu, J.; Enzelberger, M.; Quake, S. A nanoliter rotary device for polymerase chain reaction. Electrophoresis 2002, 23, 1531-1536. DOI: 10.1002/1522-2683(200205)23:10<1531::AID-ELPS1531>3.0.CO;2-D
+- **ip status**: public-domain
+- **prior art notes**: Discloses the rotary PCR architecture: a closed-loop nanoliter channel in PDMS with three integrated peristaltic Quake (MLSI) micropumps that convect the reaction mixture around a circuit passing three fixed-temperature zones - thermal cycling in the spatial domain at constant heater temperatures, avoiding the thermal mass and ramp limits of cycling the whole chip. Anticipates claims to: continuous-flow PCR in a recirculating loop driven by an on-chip pump; spatial-domain thermal cycling by transporting reagent past stationary heaters; integration of a closed-loop reactor with monolithic pneumatic peristaltic pumping; and nanoliter-scale recirculating reaction networks generally. Foundational for later continuous-flow / recirculating-loop PCR chips and droplet-recirculation reactors. Quake-lab MLSI lineage (unger-2000-quake-monolithic-membrane-valve).
+
+## Single-wafer wet-clean chemistry delivery and megasonic nozzle (SCREEN FREXION / TEL CELLESTA class) (2002-09-19)
+
+- **id**: `screen-frexion-tel-cellesta-single-wafer-clean`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: SCREEN Semiconductor Solutions (SCREEN FREXION/SU-3200), Tokyo Electron (CELLESTA), Lam Research (DV-Prime/EOS), SEMES
+- **disclosure**: US20020134408A1 / US6488037B1 Programmable based dilute chemistry process and apparatus (SCREEN/DNS, point-of-use dilution single-wafer cleaning); see also Kern, The Evolution of Silicon Wafer Cleaning Technology, J. Electrochem. Soc. 1990.
+- **ip status**: patented
+- **prior art notes**: Discloses on-tool microfluidic blending of concentrated cleaning chemicals with hot DI water to make dilute SC-1/SC-2/HF at the point of use, dispensed through scanning or megasonic nozzles onto a spinning wafer. Anticipates claims to (a) point-of-use dilution blending of semiconductor cleaning chemistry with closed-loop concentration control; (b) megasonic energy delivered through a controlled sub-millimeter fluid film/nozzle gap; (c) single-wafer sequential-chemistry processing by programmed microfluidic dispense. Prior art for SCREEN, TEL, Lam and SEMES single-wafer-clean chemistry-module patents.
 
 ## ThalesNano H-Cube continuous-flow hydrogenation reactor (2003)
 
@@ -174,6 +274,86 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tow Ubukata, Mardock Scramble (Hayakawa Publishing 2003) — Japanese SF Award winner; anime trilogy (GoHands 2010-2012).
 - **ip status**: fictional
 - **prior art notes**: Mardock Scramble depicts Rune Balot's resurrection in a sealed cellular-reconstruction chamber: full-body bath with multi-channel reagent infusion, ML-driven cell-pattern reconstruction, and integrated nanocomposite (Oeufcoque) substrate. Anticipates: full-body cellular reconstruction chambers combining multi-channel reagent infusion, computational cell-pattern guidance, and integrated nanocomposite substrate. Useful prior art for 'computationally-guided multi-channel reagent reconstruction in a full-body bath chamber' claims.
+
+## SOTAX CE 7smart USP Apparatus 4 Flow-Through Dissolution Cell (2003)
+
+- **id**: `sotax-ce7smart-flow-through-dissolution-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SOTAX
+- **disclosure**: SOTAX AG CE 7smart Flow-Through Cell Apparatus brochure and operator manual; USP <711> Dissolution, Apparatus 4 (flow-through cell) compendial method
+- **ip status**: patented
+- **prior art notes**: Discloses a small-bore glass flow-through chamber with a packed laminar-flow inlet that continuously perfuses fresh dissolution medium past a dosage form, with piston-pump flow control and inline UV detection. Anticipates: small-volume perfusion chambers for controlled dissolution/release kinetics; bead-packed laminar-flow inlet sections as flow conditioners; the architecture of a compendial dissolution test implemented as a continuously perfused micro-chamber. The flow-through cell is the most microfluidic of the USP dissolution apparatuses.
+
+## Anton Paar Alcolyzer (NIR Alcohol Flow Cell) with DMA Density Meter (2003)
+
+- **id**: `anton-paar-alcolyzer-beer-wine-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH Alcolyzer Wine / Beer ME and DMA density meter datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses an oscillating microbore U-tube density transducer in series with a narrow NIR optical flow cell, both perfused by a few-mL beverage sample, for simultaneous density and selective ethanol measurement. Anticipates: U-tube resonant density cells as microfluidic transducers; serial flow-cell + densitometer beverage analyzers; selective-NIR ethanol determination in a flow cell. Companion to foss-winescan-so2-ftir and anton-paar-dma-wine-density-flow-cell.
+
+## FLIR Fido X-series handheld explosives trace detector (amplifying-fluorescent-polymer sensing) (2003-05-13)
+
+- **id**: `flir-fido-x-handheld-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / Nomadics; amplifying-fluorescent-polymer chemistry from the Swager group at MIT)
+- **disclosure**: Yang & Swager, Fluorescent porous polymer films as TNT chemosensors, J. Am. Chem. Soc. 120, 11864 (1998); US6558626B1 / US6589731B1 Detection of nitro-containing compounds using amplifying fluorescent polymers (Massachusetts Institute of Technology / Nomadics); Fido product line from Nomadics -> ICx -> FLIR.
+- **ip status**: patented
+- **prior art notes**: Discloses an air-sampling micro-flow cell over an amplifying fluorescent polymer film with optical quenching readout, plus a thermal sample-trap concentrator - a microfluidic/micro-gas-flow chemical sensor. Anticipates claims to (a) air-flow cell over an amplifying fluorescent conjugated-polymer film for trace nitro-compound vapor detection; (b) molecular-wire-amplified fluorescence-quenching explosives sensor; (c) thermal sample-trap card concentrating swiped residue into a vapor-detection flow cell; (d) multi-channel polymer-array explosives detector. Prior art for FLIR/ICx/Nomadics and competing fluorescent-polymer trace-detector patents.
+
+## Bosch Denoxtronic urea/DEF (AdBlue) SCR dosing system (2004-05-20)
+
+- **id**: `bosch-denoxtronic-urea-scr-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (Denoxtronic); also Continental/Vitesco, Cummins, Albonair, Tenneco DEF dosing systems
+- **disclosure**: US20040093856A1 / US6928807B2 Method and device for the metered introduction of a reducing agent into an exhaust gas (Robert Bosch GmbH); Denoxtronic technical disclosures circa 2004-2006.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic dosing system: pump pressurization, metering valve, and multi-hole/air-assisted micro-orifice injector delivering microliter urea micro-doses into exhaust gas under NOx-feedback control, with line heating and purge-back. Anticipates claims to (a) closed-loop NOx-proportional urea micro-dosing for SCR; (b) air-assisted micro-orifice urea atomizer; (c) freeze-protection purge-back of a DEF dosing line; (d) urea-quality-sensor-corrected reductant metering. Prior art for Bosch, Continental, Cummins, Albonair DEF-dosing patents.
+
+## Hall-effect thruster xenon proportional flow controller (Bronkhorst/MOOG/VACCO XFC, Busek BHT feed) (2004-07-11)
+
+- **id**: `hall-thruster-xenon-flow-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Moog Inc., VACCO Industries, Bronkhorst, Marotta; thruster makers Busek (BHT), Aerojet Rocketdyne / NASA (HERMeS, AEPS), Safran (PPS), SITAEL
+- **disclosure**: Hofer & Randolph, Mass flow control for Hall thrusters, JANNAF / AIAA Joint Propulsion Conference 2004; see also US7757987B2 Proportional flow control valve (Vacco / Moog-style) and the NASA HERMeS/AEPS xenon feed description in Kamhawi et al., Performance characterization of the 12.5 kW HERMeS Hall thruster, AIAA 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses precise gas mass-flow control by a thermally-throttled viscous-flow micro-restrictor (heated capillary/porous element) plus a proportional valve, with integrated micro-filtration and pressure sensing, split to multiple thruster ports. Anticipates claims to (a) thermal-throttle micro-restrictor xenon flow control for a Hall thruster; (b) split anode/cathode propellant metering module; (c) regulator-plus-restrictor architecture giving tank-pressure-insensitive flow; (d) integrated micro-filter/pressure-sensor flow-control module for electric propulsion. Prior art for Moog, VACCO, Bronkhorst and thruster-OEM xenon-feed patents.
+
+## ASML TWINSCAN immersion lithography water-handling hood (2004-11-25)
+
+- **id**: `asml-twinscan-immersion-hood-water-handling`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ASML Holding N.V.
+- **disclosure**: US20040263808A1 / US7193232B2 Lithographic apparatus and device manufacturing method (ASML, immersion lithography liquid supply system); see also Owa & Nagasaka, Immersion lithography: its potential performance and issues, SPIE 2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic meniscus-management hood: an annular supply/extraction microchannel ring delivering and recovering a degassed temperature-controlled liquid film in a sub-millimeter gap, with gas-knife and capillary edge features that pin a moving meniscus. Anticipates claims to (a) confined-meniscus liquid handling between a scanning substrate and an optic; (b) gas-knife/capillary-stop edge sealing of a moving liquid film; (c) point-of-use degassing of an immersion liquid to suppress bubbles; (d) millikelvin thermal conditioning of a thin liquid film for index control. Foundational immersion-fluid-handling prior art; ASML own families build on it but external claims to confined moving menisci are anticipated.
+
+## Maselli Misure Inline CO2 / Brix / Inversion Beverage Process Analyzer (2005)
+
+- **id**: `maselli-uc4sa-inline-co2-brix-soft-drink-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Maselli Misure S.p.A.
+- **disclosure**: Maselli Misure S.p.A. (Parma, Italy) inline beverage analyzer datasheets (UC4-SA carbonation/Brix, IBA series)
+- **ip status**: patented
+- **prior art notes**: Discloses a compact inline sampling/measuring cell on a beverage pipe combining critical-angle refractometry and CO2 sensing with valve-controlled product slug handling and closed-loop carbonator/proportioner feedback. Anticipates: inline microscale beverage measuring cells for Brix and carbonation; valve-gated slug sampling from a process pipe; closed-loop beverage-blend control. Mettler-Toledo InPro probes (covered) are a parallel inline-sensor family.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
 
 ## Memjet Waterfall MEMS Pagewide Printhead (2007)
 
@@ -215,6 +395,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated benchtop flow chemistry workstation distinct from Vapourtec/Syrris by virtue of (a) integrated dual HPLC pumps + heated reactor + BPR + collection in single sealed unit (one box rather than rack of cassettes); (b) standardized swappable reactor cartridges spanning coil and chip designs; (c) compatibility with the Polar Bear (separate Cambridge Reactor Design product, distributed by Uniqsis) for cryogenic operation. Useful prior-art entry showing third independent UK commercial flow chemistry rig (alongside Vapourtec, Syrris) demonstrating the integrated-benchtop architecture.
 
+## MEMS cold-gas micro-thruster module for CubeSats (GomSpace/NanoSpace, VACCO ChEMS, Marotta class) (2007-06-01)
+
+- **id**: `cubesat-mems-cold-gas-microthruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: NanoSpace AB (now part of GomSpace), VACCO Industries (ChEMS / Palm-Sized propulsion), Marotta, Bradford; MEMS valves/nozzles fabricated in silicon
+- **disclosure**: Kohler et al., A hybrid cold gas microthruster system for spacecraft, Sensors and Actuators A 97-98, 587 (2002); Gronland et al., Miniaturization of components and systems for space using MEMS technology, Acta Astronautica 61, 228 (2007); see also VACCO/NanoSpace product disclosures.
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-MEMS fluidic chip integrating microvalves, micro-nozzles, micro-filters, micro-heaters and pressure sensors for cold-gas micro-propulsion with proportional throttling and liquefied-propellant vaporization. Anticipates claims to (a) integrated silicon-MEMS cold-gas thruster chip with micro-nozzle and micro-valve; (b) proportional MEMS microvalve for throttleable spacecraft thrust; (c) integrated micro-heater vaporizing a stored liquefied propellant; (d) micro-newton-second impulse-bit cold-gas attitude control. Prior art for NanoSpace/GomSpace, VACCO, Marotta MEMS-propulsion patents.
+
+## Smiths Detection LCD 3.3 lightweight chemical-warfare-agent detector (2007-06-12)
+
+- **id**: `smiths-detection-lcd-3-3-chemical-agent-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection LCD 3.3 / JCAD product disclosures and US DoD JCAD program documentation, mid-2000s; underlying ion-mobility CWA-detection patents incl. US7045776B2 (Smiths) ion mobility spectrometer with planar electrodes and US6822226B2 (Smiths) portable ion mobility detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a miniaturized recirculating-purified-drift-gas ion-mobility (and differential-mobility) micro-gas-flow cell with a dryer membrane and millisecond ion gating for continuous CWA detection in a worn package. Anticipates claims to (a) portable recirculating-drift-gas IMS/DMS chemical-agent detector; (b) membrane-dryer-conditioned air inlet to a miniature IMS cell; (c) dual-polarity continuous CWA monitoring with on-board library; (d) FAIMS/DMS micro-channel chemical-warfare-agent sensor. Prior art for Smiths, Bruker (RAID), Environics and competing CWA-detector patents.
+
 ## BD BACTEC FX Blood Culture Bottle Fluorescence Detection (referenced; predominantly BD product) (2008)
 
 - **id**: `biomerieux-bactec-fx-bottle-fluorescence`
@@ -244,6 +444,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Forge World Imperial Armour Volume 1 (2nd Edition) (Forge World 2012); Black Library Horus Heresy: Mechanicum (Graham McNeill 2008) ISBN 978-1-84416-655-3; Adeptus Titanicus rulebook (Games Workshop 2018).
 - **ip status**: fictional
 - **prior art notes**: Princeps amniotic tanks depicted in canon as full-body immersion vessels with continuous oxygenated-amniotic perfusion, MIU neural interface, and waste-removal manifold for long-duration titan-piloting (days to weeks). Forge World Imperial Armour cross-sections show pump rooms, reservoir tanks, and reagent-cycling architecture. Anticipates: long-duration full-body human-immersion bioreactor with neural-interface coupling; pilot-life-support architecture combining circulation, oxygenation, waste filtration, and reagent supply over multi-day timescales; useful prior art for any 'multi-day human-immersion life-support bioreactor with neural interface' claim.
+
+## Microfluidic Continuous Synthesis of ZnO / TiO2 Sunscreen Nanoparticle Dispersions (2008)
+
+- **id**: `microfluidic-sunscreen-nanoparticle-synthesis`
+- **corpus**: academic
+- **device class**: mixer-component
+- **creator**: Various academic and industrial groups
+- **disclosure**: Peer-reviewed reports on continuous-flow microreactor synthesis of ZnO and TiO2 nanoparticles for UV-filter / sunscreen use (e.g. Lab on a Chip and Chem. Eng. J. articles, 2008-2020) and related microreactor patents
+- **ip status**: unknown
+- **prior art notes**: Discloses continuous-flow micromixer/microreactor synthesis of inorganic UV-filter nanoparticles with millisecond mixing for size control, inline size monitoring, and numbering-up for production. Anticipates: microreactor synthesis of cosmetic/UV-filter nanoparticles; herringbone/interdigital micromixers as nucleation-control elements for metal-oxide precipitation; closed-loop control of particle size via flow/temperature in a microreactor. General prior-art anchor for the personal-care nanomaterial-synthesis space.
+
+## FOSS MilkoScan FT3 / CombiScan FT-IR Flow-Cell Milk Analyzer (2008)
+
+- **id**: `foss-milkoscan-ftir-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FOSS Analytical A/S
+- **disclosure**: FOSS Analytical A/S MilkoScan FT3 / CombiScan datasheets and manuals; IDF/ISO FT-IR milk analysis reference methods
+- **ip status**: patented
+- **prior art notes**: Discloses a thin-path CaF2-windowed mid-IR transmission flow cell fed by an integrated homogenizer and pump for rapid composition analysis of an opaque emulsion, with automatic rinse and thermostatting. Anticipates: sub-50-micron-path IR flow cells for turbid samples; integrated homogenizer-then-flow-cell architectures; FT-IR flow-cell food/beverage analyzers. Same FOSS FT-IR flow-cell lineage as the WineScan and BeerScan analyzers.
 
 ## Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette (2009)
 
@@ -275,6 +495,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic gas inlet manifold (capillary, pressure regulator, optical cavity) coupled to cavity ring-down spectroscopy for trace gas analysis. The capillary-into-cavity architecture is a microfluidic sample-prep stage. Anticipates: gas-microfluidic inlet systems for cavity-enhanced spectroscopy; pressure-regulated capillary inlets for high-finesse optical detection; field-deployable trace-gas microfluidic analyzers.
 
+## Wyatt Technology DynaPro Plate Reader III (Microwell Dynamic Light Scattering) (2009)
+
+- **id**: `wyatt-dynapro-plate-reader-dls`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Wyatt Technology
+- **disclosure**: Wyatt Technology (now part of Waters) DynaPro Plate Reader datasheet and DYNAMICS software documentation
+- **ip status**: patented
+- **prior art notes**: Discloses performing dynamic and static light scattering in situ in the microliter liquid column of standard microwell plates via a fiber-coupled focused laser, with temperature control, for protein aggregation screening. Anticipates: microwell-format DLS aggregation screening; in-well optical interrogation of microliter biologic samples without transfer; the architecture of a plate-reader DLS instrument. Companion biologics-aggregation prior art to unchained-labs-uncle-protein-stability.
+
+## Anton Paar PBA-S Packaged Beverage Analyzer (Beer) (2009)
+
+- **id**: `anton-paar-pba-s-beer-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH PBA-S / PBA-B Packaged Beverage Analyzer datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses a chained fluidic train through a packaged beverage automatically pierced, degassed, and routed in series through resonant density, NIR-alcohol, CO2 and turbidity cells with auto-rinse. Anticipates: integrated multi-cell beverage-analysis trains fed from sealed packages; the architecture of chaining microfluidic sensing cells on a single conditioned sample stream. Builds on anton-paar-alcolyzer-beer-wine-flow-cell.
+
 ## Werfen ACL TOP 750 Coagulation Analyzer Optical Cuvette Train (2010)
 
 - **id**: `werfen-acl-top-750-coag-optical`
@@ -285,6 +525,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an optical-detection coagulation analyzer with a four-wavelength LED illumination + photodiode receiver per cuvette: 405 nm for clot turbidity (PT/aPTT) and chromogenic substrate absorbance (e.g., antithrombin); 575 nm correction wavelength for hemoglobin/icterus interference; 671 nm for immunoturbidimetric (D-dimer); 810 nm for HIL flagging and longer-wavelength immunoturbidimetric. The fluid handler integrates automated cap piercing, primary-tube sampling, automated dilutions, and on-board reagent reconstitution. Anticipates: multi-wavelength optical coag detection consolidating clot/chromogenic/immunoturbidimetric assays in a single-cuvette format; HIL flagging by absorbance ratiometry. Direct competitor architecture to Stago (mechanical) and Sysmex CS series.
 
+## CDR WineLab / BeerLab / FoodLab Cartridge-Based Multiparameter Photometer (2010)
+
+- **id**: `cdr-winelab-beerlab-microfluidic-photometer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. (Ginestra Fiorentina, Italy) WineLab / BeerLab / FoodLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dispensed disposable optical-cuvette reagent cartridges that serve simultaneously as reagent reservoir and photometric reaction cell, read in a thermostatted block after microliter sample addition. Anticipates: pre-dosed single-test photometric cuvettes for food/beverage QC; the architecture of a cartridge-reagent multiparameter photometer; minimal-instrument enzymatic assay kits for beverages. Companion to foss-winescan-so2-ftir and to enzymatic-assay beverage cartridges.
+
+## Agilent 708-DS / 280-DS Dissolution Apparatus with Online UV Flow Cell (2010)
+
+- **id**: `agilent-708-ds-dissolution-apparatus`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Agilent Technologies
+- **disclosure**: Agilent Technologies 708-DS Dissolution Apparatus and 280-DS automated sampling station datasheets; USP <711> Dissolution, Apparatus 1 (basket) and 2 (paddle) with online UV flow-cell detection
+- **ip status**: patented
+- **prior art notes**: Discloses an automated dissolution sampling station that withdraws metered timepoint aliquots through inline cannula filters and routes them through a short-pathlength quartz flow cell for online UV absorbance. Anticipates: short-pathlength flow-through optical cells for dissolution readback; automated timepoint metering with inline filtration; the architecture of a sampling-station + flow-cell dissolution analyzer. Companion to sotax-ce7smart-flow-through-dissolution-cell (Apparatus 4) and pion-rainbow-insitu-dissolution-fiber-optic (in-situ).
+
+## Green monopropellant feed and microcatalyst-bed thruster (ECAPS LMP-103S High Performance Green Propulsion; NASA/Aerojet AF-M315E / ASCENT) (2010-05-04)
+
+- **id**: `green-monopropellant-feed-lmp103s-afm315e`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ECAPS / Bradford Space (LMP-103S HPGP thrusters), NASA Glenn / Air Force Research Laboratory and Aerojet Rocketdyne (AF-M315E / ASCENT, GPIM mission)
+- **disclosure**: Anflo & Crowe, In-space demonstration of an ADN-based propulsion system on the PRISMA satellite, AIAA 2011; patent SE527942C2 / US7757476B2 Method and device for a propulsion system (ECAPS / Swedish Space Corp.); NASA GPIM AF-M315E thruster: Spores et al., GPIM AF-M315E propulsion system, AIAA 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic feed of an ionic-liquid green monopropellant through a fast flow-control valve and fine injector into a heated microcatalyst reaction bed, with bed pre-heating, in pulse and continuous modes - flight-demonstrated. Anticipates claims to (a) ADN- or HAN-based ionic-liquid monopropellant thruster with a heated catalyst microbed; (b) drop-in green replacement for a hydrazine attitude-control feed system; (c) catalyst-bed pre-heat for cold-start of an ionic-liquid monopropellant thruster; (d) pulse-mode micro-impulse operation of a green-monopropellant thruster. Prior art for ECAPS/Bradford and Aerojet/AFRL green-propulsion patents.
+
 ## Beckman Coulter AU5800 Clinical Chemistry Analyzer Cuvette Wheel (2011)
 
 - **id**: `beckman-coulter-au5800-cuvette-wheel`
@@ -294,6 +564,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter AU5800 product launch 2011-07; legacy: Olympus AU640/2700 since mid-1990s; FDA 510(k) K112094
 - **ip status**: patented
 - **prior art notes**: Discloses the canonical Olympus-AU clinical chemistry fluidics: a 165-cuvette permanent fused-quartz wheel in a 37 °C water bath, indexed past a multi-channel pipettor and a 13-wavelength photometer (340-800 nm); each cuvette is washed and air-dried in a programmed wash station between assay cycles. The fluid handler uses ceramic-piston syringes for sub-microliter dispense precision (1 µL reagent metering uncertainty < 1%); per-cuvette mixing is via paddle stirrer that descends, oscillates, and is washed in a separate station. Anticipates: the dominant 'permanent cuvette wheel + multi-pipettor + multi-wavelength photometer' fluidics architecture for >50% of central-lab clinical chemistry installations globally. Element-by-element: wash/dry station, cuvette indexing, ceramic-piston metering, paddle-stirrer mixing, in-cuvette photometric kinetics. Distinct from Roche c-series (cuvette material/wash) and Abbott Alinity c (wheel size, throughput).
+
+## Tritium permeation and extraction microfluidic cell (fusion fuel cycle / breeding-blanket processing) (2011-10-01)
+
+- **id**: `tritium-permeation-microfluidic-cell-fusion-fuel-cycle`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: fusion-research institutions (Idaho National Laboratory; CIEMAT, Spain; KIT, Germany; ENEA, Italy; UKAEA; ITER Organization)
+- **disclosure**: Humrickhouse & Merrill, Vacuum permeator analysis for extraction of tritium from DCLL blankets, Fusion Sci. Technol.; see also Garcinuno et al., Design of a permeator-against-vacuum mockup for tritium extraction from lead-lithium, Fusion Eng. Des.; ITER tritium plant design reports.
+- **ip status**: patented
+- **prior art notes**: Discloses thin-membrane microchannel/capillary permeator and stripper units for extracting tritium from helium purge gas or liquid lithium-lead under a vacuum sink, with high surface-area-to-volume contacting and numbering-up. Anticipates claims to (a) microchannel membrane permeator for tritium extraction from a fusion-blanket purge stream; (b) microchannel/capillary contactor stripping tritium from flowing PbLi; (c) numbered-up small permeator array for a fusion fuel-cycle tritium plant; (d) microchannel test cell for membrane-material screening for hydrogen-isotope permeation. Prior art for fusion-research and tritium-plant permeator patents.
 
 ## HP PageWide A50/A53 HDNA Pagewide Thermal Inkjet Array (2012)
 
@@ -324,6 +604,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mahaffy PR et al., 'The Sample Analysis at Mars Investigation and Instrument Suite,' Space Science Reviews 170:401-478 (2012), doi:10.1007/s11214-012-9879-z; Glavin DP et al., 'Evidence for perchlorates and the origin of chlorinated hydrocarbons detected by SAM at the Rocknest aeolian deposit in Gale Crater,' JGR Planets 118:1955-1973 (2013)
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
+
+## CDR OxiTester Olive-Oil Quality Cartridge Photometer (2012)
+
+- **id**: `cdr-oxitester-olive-oil-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. OxiTester / OliveOilLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dosed disposable optical-cuvette reagent cartridges for olive-oil quality parameters, read in a thermostatted photometer after microliter sample addition. Anticipates: pre-dispensed photometric cuvette cartridges for edible-oil QC; minimal-instrument colorimetric assays for food authenticity. Same cuvette-cartridge platform as cdr-winelab-beerlab-microfluidic-photometer.
 
 ## Dishonored - Sokolovs alchemical laboratory (2012-10-09)
 
@@ -394,6 +684,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Walters et al., Nucleic Acids Res 42:e10 (2014) doi:10.1093/nar/gkt1101 (foundational dbDNA paper); EP2820164B1 priority 2012
 - **ip status**: patented
 - **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
+
+## Smiths Detection IONSCAN 600 explosives and narcotics trace detector (2014-09-23)
+
+- **id**: `smiths-detection-ionscan-600-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection IONSCAN 600 product release / FCC and TSA qualification, 2014; underlying ion-mobility-spectrometry trace-detection patents incl. US7397026B2 (Smiths) ion mobility spectrometer and US8217341B2 (Smiths) sample swab and trace detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a thermal-desorption swab inlet feeding a controlled drift-gas/dopant micro-gas-flow ion-mobility drift cell with millisecond ion gating and a recirculating sieve-pack gas purifier - a micro-gas-flow analytical architecture. Anticipates claims to (a) swab thermal-desorption inlet to an ion-mobility trace detector; (b) recirculating purified-drift-gas IMS cell needing no external gas; (c) dual-polarity single-run IMS trace detection of explosives and narcotics; (d) non-radioactive ionization in a portable IMS detector. Prior art for Smiths, Bruker, MorphoTrak/Idemia and L3 explosives-trace-detector patents.
 
 ## Amino Labs DNA Playground (and Engineer-It Kit) (2015)
 
@@ -525,6 +825,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses GMP-grade synthetic psilocybin polymorph A with documented PXRD/DSC signatures, plus the flow-chemistry synthesis route used at scale. Anticipates GMP synthetic psilocybin polymorph A composition-of-matter claims and continuous-flow psilocybin synthesis claims.
 
+## Charles River Endosafe nexgen-MCS Multi-Cartridge System (2018)
+
+- **id**: `charles-river-endosafe-nexgen-mcs`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe nexgen-MCS product datasheet and 21 CFR Part 11 software documentation (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses an instrument that drives multiple Endosafe LAL endotoxin cartridges in parallel, each with its own pump and temperature-controlled optical bay, for higher-throughput pharmacopeial bacterial endotoxin testing. Anticipates: multi-bay readers for disposable optical-read assay cartridges with independent fluid actuation per bay; the productized scale-up of a single-cartridge stat assay to a small parallel array. Relies on the same cartridge prior art as charles-river-endosafe-nexgen-pts-lal-cartridge.
+
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
 - **id**: `atmo-biosciences-gas-sensing-capsule`
@@ -534,6 +844,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kalantar-zadeh K et al., Nature Electronics 1:79-87 (2018); doi:10.1038/s41928-017-0004-x; Atmo Biosciences corporate disclosures
 - **ip status**: patented
 - **prior art notes**: Discloses an ingestible capsule whose sample-prep stage is a gas-permeable membrane window that selectively admits gut gases into a heated MOX sensor chamber for real-time speciation. Anticipates: ingestible gas-sensing capsules with semi-permeable membrane sample-prep; in-vivo gut fermentation biomarker capsules; capsule architectures decoupling biological inlet (membrane) from analytical chamber (heated sensors). Specifically anticipates downstream consumer microbiome capsules and IBD diagnostic ingestibles.
+
+## ThrustMe NPT30-I2 iodine electric propulsion system (2018-10-15)
+
+- **id**: `thrustme-npt30-i2-iodine-electrothermal-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ThrustMe (spun out of Ecole Polytechnique / LPP-CNRS)
+- **disclosure**: Rafalskyi et al., In-orbit demonstration of an iodine electric propulsion system, Nature 599, 411 (2021); patent family WO2019/030035A1 / EP3650351 Propulsion system using a solid propellant (ThrustMe).
+- **ip status**: patented
+- **prior art notes**: Discloses a vapor-microfluidic propellant feed: a heated solid-iodine reservoir whose sublimated vapor is metered to a thruster purely by temperature control of small-bore heated channels and a thermal restrictor/valve. Anticipates claims to (a) solid-propellant (iodine) electric thruster with a heated-reservoir sublimation feed; (b) thermally-throttled vapor mass-flow control via heated micro-channel conductance; (c) tankless, regulator-free propellant feed for a small-satellite thruster; (d) shared iodine-vapor feed serving both gridded-ion and cold-gas modes. Prior art for ThrustMe and other iodine-propulsion patents.
 
 ## ThermoFisher KingFisher Apex Magnetic Particle Processor (2019)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-mass-spec-electrospray-coupled`
 
-**17 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964
 
@@ -55,6 +55,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses delta-13C IRMS protocol distinguishing C3 (honey from bee-collected nectar) from C4 (corn syrup) carbon. Anticipates honey adulteration cartridge with paired protein-vs-bulk delta-13C reading claims.
 
+## Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) (1979-05-08)
+
+- **id**: `forensic-postmortem-headspace-gc-autosampler`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Agilent Technologies (7697A), PerkinElmer (TurboMatrix), Teledyne Tekmar, CTC Analytics (PAL); methods established in forensic toxicology labs
+- **disclosure**: US4153434A Apparatus for sampling the gas phase of a liquid (Hewlett-Packard / static-headspace autosampler concept); see also Kolb & Ettre, Static Headspace-Gas Chromatography: Theory and Practice, Wiley 1997; ANSI/ASB and SOFT/AAFS forensic blood-alcohol HS-GC methods.
+- **ip status**: patented
+- **prior art notes**: Discloses an automated headspace autosampler: thermostatted vial equilibration, heated-needle vapor extraction, heated transfer line, and loop/pressure-balanced micro-sampling onto a GC column with internal standardization. Anticipates claims to (a) automated thermostatted headspace vapor micro-sampling of a biological aliquot for GC; (b) heated-needle/transfer-line path preventing volatile condensation and carry-over; (c) pressure-balanced headspace injection for forensic-grade quantitation; (d) high-throughput tray-automated headspace volatiles screen. Prior art for Agilent, PerkinElmer, Tekmar and CTC headspace-sampler patents; the confirmatory counterpart to the fuel-cell breathalyzer.
+
+## ICP-OES/MS microfluidic nebulizer and sample-introduction system (mining/metallurgy assay labs) (1992-06-23)
+
+- **id**: `icp-oes-ms-microfluidic-nebulizer-sample-introduction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: nebulizer/sample-introduction makers (Meinhard/Elemental Scientific, Glass Expansion, CETAC/Teledyne, Burgener) for ICP instruments by Agilent, PerkinElmer, Thermo Fisher; used in mineral assay/geochemistry labs (ALS, SGS, Bureau Veritas)
+- **disclosure**: US5124127A Apparatus for the analysis of a sample by inductively coupled plasma (concentric/micro nebulizer for ICP); see also Browner & Boorn, Sample introduction: the Achilles heel of atomic spectroscopy?, Anal. Chem. 56, 786A (1984); Meinhard nebulizer literature.
+- **ip status**: patented
+- **prior art notes**: Discloses a microflow concentric/PFA nebulizer (fine sample capillary in an argon gas annulus) plus a droplet-selecting Scott/cyclonic spray chamber and optional desolvating membrane for generating a transport-efficient fine aerosol into an ICP. Anticipates claims to (a) microflow concentric nebulizer with sub-250-micron sample capillary for ICP sample introduction; (b) droplet-selecting double-pass/cyclonic spray chamber conditioning a nebulized aerosol; (c) membrane/heated desolvating accessory upstream of an ICP torch; (d) low-uptake PFA microflow nebulizer for difficult matrices. Prior art for Meinhard/Elemental Scientific, Glass Expansion, CETAC nebulizer patents; extends the wave-4 jet-fuel ICP-OES inlet lineage to mining assay.
+
 ## Vostok ice-core gas-trap mass-spec coupling (1999)
 
 - **id**: `vostok-ice-core`
@@ -75,6 +95,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Founding flight precedent for in-situ icy-moon plume composition analysis. Element-by-element prior art for: (a) hypervelocity impact + plasma plume + ToF-MS for compositional analysis of micron-scale ice grains in flyby geometry; (b) the dual-mode operation (charge-pulse for particle counting + mass spectrum for composition) on a single sensing area; (c) the post-mission discovery that Enceladus plume material contains complex organics and salts is itself open prior art that any future Enceladus mission cartridge claiming biosignature detection will need to overcome. CDA is the citation grandparent for all icy-moon life-detection cartridges.
 
+## Busek BET ionic-liquid electrospray micro-thruster (BET-MAX / BET-100) (2006-07-09)
+
+- **id**: `busek-bet-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Busek Co. Inc.
+- **disclosure**: Ziemer et al., Colloid micro-newton thrust development for the LISA Pathfinder mission, AIAA 2006 / Joint Propulsion Conference; see also US7872848B2 Method of operating a colloid thruster (Busek Co. Inc.).
+- **ip status**: patented
+- **prior art notes**: Discloses precision microfluidic propellant metering (porous restrictor / piezo / pressure feed) delivering sub-microliter/s ionic-liquid flow to capillary emitter arrays for finely throttleable electrospray thrust, flight-proven for drag-free control. Anticipates claims to (a) micro-newton-resolution colloid/electrospray thrust by controlled sub-microliter/s propellant feed; (b) porous flow-restrictor metering to an electrospray emitter array; (c) externally-wetted needle electrospray emitter array; (d) ionic-liquid propellant feed system with extractor/accelerator electrodes. Prior art for Busek, Accion and Enpulsion electrospray-propulsion patents.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
+
 ## DVS Sciences / Fluidigm CyTOF Mass Cytometry Patent Family (2007)
 
 - **id**: `fluidigm-cytof-mass-cytometry-patent-family`
@@ -84,6 +124,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US8525107; US8101368; US8278116; US8679858 originally assigned to DVS Sciences (Bandura, Tanner et al.), acquired by Fluidigm 2014-02-13 for $207.5M
 - **ip status**: patented
 - **prior art notes**: DVS-originated, Fluidigm-acquired patent family covering mass cytometry (CyTOF). Anchors claims around: (a) labeling antibodies with chelated lanthanide isotopes for mass-spectrometric readout; (b) introducing single cells in suspension via a nebulizer-microfluidic interface to ICP-TOF-MS; (c) per-cell isotope counting yielding multi-parametric protein-expression vectors; (d) data analytics for high-dimensional mass-cytometry data. Companion entries already in corpus: fluidigm-helios-mass-cytometry, standard-biotools-mass-cytometry-cytof. This entry maps the licensable patent estate that anchored the $207.5M DVS acquisition. Expiry: 2027-2031.
+
+## Smiths Detection LCD 3.3 lightweight chemical-warfare-agent detector (2007-06-12)
+
+- **id**: `smiths-detection-lcd-3-3-chemical-agent-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection LCD 3.3 / JCAD product disclosures and US DoD JCAD program documentation, mid-2000s; underlying ion-mobility CWA-detection patents incl. US7045776B2 (Smiths) ion mobility spectrometer with planar electrodes and US6822226B2 (Smiths) portable ion mobility detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a miniaturized recirculating-purified-drift-gas ion-mobility (and differential-mobility) micro-gas-flow cell with a dryer membrane and millisecond ion gating for continuous CWA detection in a worn package. Anticipates claims to (a) portable recirculating-drift-gas IMS/DMS chemical-agent detector; (b) membrane-dryer-conditioned air inlet to a miniature IMS cell; (c) dual-polarity continuous CWA monitoring with on-board library; (d) FAIMS/DMS micro-channel chemical-warfare-agent sensor. Prior art for Smiths, Bruker (RAID), Environics and competing CWA-detector patents.
+
+## Electrohydrodynamic (EHD) jet printing for fine-pitch electronics (2007-09-30)
+
+- **id**: `electrohydrodynamic-jet-printing-fine-pitch`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: academic origin (Rogers / Alleyne, University of Illinois Urbana-Champaign; Poulikakos, ETH Zurich nanodripping); commercial: Scrona, XTPL, Enjet, Optomec NanoJet, Nano Ops
+- **disclosure**: Park, Hardy, Kang et al., High-resolution electrohydrodynamic jet printing, Nature Materials 6, 782 (2007); see also US8333874B2 Flexible high-resolution near-field and far-field electrohydrodynamic jet printing (Rogers et al., University of Illinois).
+- **ip status**: patented
+- **prior art notes**: Discloses field-driven microfluidic ejection producing sub-nozzle droplets/jets for sub-micron direct-write deposition of functional inks. Anticipates claims to (a) EHD/e-jet printing of conductive or nanoparticle inks at sub-micron resolution; (b) cone-jet vs pulsating vs electrospray mode selection by field/flow; (c) closed-loop standoff/jet-current control for EHD line writing; (d) EHD repair of display/conductor defects. Prior art for Scrona, XTPL, Enjet, Optomec NanoJet EHD-printing patents.
 
 ## NEEM Greenland ice-core drilling and microfluidic CFA (2008)
 
@@ -105,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses a sealed reagent-cup architecture for in-situ wet chemistry on a planetary surface: a metal cup with crimped foil seal containing premixed MTBSTFA/DMF derivatization reagent at flight-storage temperature; the cup is mechanically pierced (foil-pierce actuation analogous to terrestrial blister-pack diagnostics), the regolith aliquot is dropped in, and the cup is heated stepwise to release derivatized analytes into the GCMS gas train. For 102/103 anticipation: (a) the foil-pierce + sealed-reagent + thermal-release architecture anticipates any patent claiming a single-use derivatization cartridge for sample-prep before MS, (b) the use of MTBSTFA specifically for in-situ silylation of amino acids/carboxylic acids in the presence of perchlorate oxidizers anticipates Mars/Europa/Enceladus life-detection cartridges that propose perchlorate-tolerant derivatization, and (c) the carousel architecture with mixed wet-chem and pyrolysis-only cups anticipates multi-modal sample-prep cartridges. The post-flight realization that perchlorate combustion was destroying organics during pyrolysis (Glavin 2013) is itself prior art against any claim that perchlorate-mitigation derivatization is novel for astrobiology applications.
 
+## Accion Systems TILE ionic-liquid electrospray thruster (2013-09-03)
+
+- **id**: `accion-tile-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Accion Systems, Inc. (technology from the MIT Space Propulsion Laboratory, Lozano group)
+- **disclosure**: US8324593B2 Iodine-compatible hall effect... (no) - use US8324593 placeholder removed; primary: Lozano & Martinez-Sanchez, Ionic liquid ion sources, J. Colloid Interface Sci. 282, 415 (2005) and US9194379B1 Field emission/ionic liquid electrospray emitter array (Massachusetts Institute of Technology / Accion Systems).
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated electrospray emitter array fed by passive capillary/porous-media wicking of an ionic-liquid propellant from a reservoir, with an extractor grid emitting ions/droplets and bipolar operation - a passive microfluidic propellant-feed thruster. Anticipates claims to (a) passive capillary feed of an ionic-liquid propellant to an emitter array (no pump/valve/pressurant); (b) porous-tip electrospray emitter array on a microfabricated chip; (c) tiled/modular electrospray thruster scaled by emitter count; (d) bipolar ionic-liquid electrospray operation. Foundational small-satellite electrospray-propulsion prior art.
+
 ## Shimadzu LCMS-8060 / Nexera UC patent family (2014)
 
 - **id**: `shimadzu-lcms-8060-nexera-uc-patent-family`
@@ -124,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fluidigm 8-K filed 2014-01-29; closing announced 2014-02-13; total consideration approximately $207.5M cash plus stock
 - **ip status**: patented
 - **prior art notes**: Consolidation event entry. Defensive purpose: documents the date and structure of Fluidigm's acquisition of DVS Sciences (US$207.5M), which transferred ownership of the CyTOF mass-cytometry patent family (see fluidigm-cytof-mass-cytometry-patent-family) to Fluidigm. After the 2022 rebranding to Standard BioTools (csg-fluidigm), all DVS-originated patents are asserted under the Standard BioTools umbrella. Useful as a citation in any IP-due-diligence or invalidity-contention research that needs to trace assignments. The 8-K filing is the SEC-anchored primary record.
+
+## Smiths Detection IONSCAN 600 explosives and narcotics trace detector (2014-09-23)
+
+- **id**: `smiths-detection-ionscan-600-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection IONSCAN 600 product release / FCC and TSA qualification, 2014; underlying ion-mobility-spectrometry trace-detection patents incl. US7397026B2 (Smiths) ion mobility spectrometer and US8217341B2 (Smiths) sample swab and trace detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a thermal-desorption swab inlet feeding a controlled drift-gas/dopant micro-gas-flow ion-mobility drift cell with millisecond ion gating and a recirculating sieve-pack gas purifier - a micro-gas-flow analytical architecture. Anticipates claims to (a) swab thermal-desorption inlet to an ion-mobility trace detector; (b) recirculating purified-drift-gas IMS cell needing no external gas; (c) dual-polarity single-run IMS trace detection of explosives and narcotics; (d) non-radioactive ionization in a portable IMS detector. Prior art for Smiths, Bruker, MorphoTrak/Idemia and L3 explosives-trace-detector patents.
 
 ## ExoMars Rosalind Franklin MOMA (Mars Organic Molecule Analyser) (2017)
 

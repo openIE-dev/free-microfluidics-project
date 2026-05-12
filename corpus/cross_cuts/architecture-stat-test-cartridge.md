@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-stat-test-cartridge`
 
-**229 corpus entries disclose this subsystem.**
+**252 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1870
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bradbury, R. 'There Will Come Soft Rains', Collier's, May 6 1950. Republished in The Martian Chronicles (1950).
 - **ip status**: fictional
 - **prior art notes**: Bradbury's 1950 short story depicts in detail an automated household with scheduled multi-step fluidic dispensing (breakfast preparation: juice, coffee, milk, water, syrup; clean-up sequences). Architectural category disclosure of 'scheduled multi-step automated household fluidic dispensing platform'. As a 1950 disclosure, this predates commercial automated kitchens by decades and represents an early §102 category disclosure of scripted multi-step domestic fluidic dispensing.
+
+## Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test) (1959-06-01)
+
+- **id**: `gunshot-residue-colorimetric-field-test-kit`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: forensic-science community (Harrison, Gilroy; FBI Laboratory); commercial kits by Sirchie, BVDA, Tri-Tech Forensics, Lynn Peavey
+- **disclosure**: Harrison & Gilroy, Firearms discharge residues, J. Forensic Sci. 4, 184 (1959); modified Griess test for nitrites and sodium-rhodizonate test for lead, as standardized in ASTM E1588 and the FBI/forensic GSR literature; commercial kits e.g. Sirchie GSR collection/test kits.
+- **ip status**: public-domain
+- **prior art notes**: Discloses reagent-impregnated capillary paper used to transfer and colorimetrically map the spatial pattern of propellant- and primer-derived residue around a firearm-discharge hole. Anticipates claims to (a) reagent-paper transfer test for spatially mapping nitrite/lead gunshot residue; (b) sequential Griess-then-rhodizonate development for two-analyte GSR confirmation; (c) colorimetric paper-based shooting-distance determination. Public-domain prior art limiting later patents on paper-based residue-mapping field tests.
 
 ## Robert A. Heinlein Stranger in a Strange Land medical units (1961)
 
@@ -75,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Niven's Ringworld novels (1970-2004) and broader Known Space corpus describe 'autodocs' as autonomous bedside surgical platforms capable of full-body trauma reconstruction, organ regeneration, and integration with the boostspice longevity treatment. Among the earliest extensively-narrated depictions of an autonomous bedside trauma platform in published SF (predating Banks's Culture autodoc by 17 years). Architectural disclosure of 'autonomous all-in-one trauma-care platform combining surgery, pharmaceutical infusion, and longevity intervention'.
 
+## Crushable-ampoule colorimetric presumptive drug-test pouch (NIK Public Safety / Sirchie NARK II / NARK 20) (1973-04-17)
+
+- **id**: `nik-sirchie-crushable-ampoule-drug-test-pouch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: NIK Public Safety (formerly Becton Dickinson NIK), Sirchie Finger Print Laboratories, ODV, MMC International
+- **disclosure**: US3728080A Disposable apparatus for analyzing a fluid sample (multiple-reagent crushable-ampoule field test, early 1970s); NIK Public Safety / Becton Dickinson field-test-kit literature; see also UNODC Recommended Methods for the Identification and Analysis of Controlled Substances.
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed pouch with frangible reagent ampoules released in sequence by manual crush to mix with a sample and develop a colorimetric presumptive result - a sequential micro-reagent-release reaction-vessel device. Anticipates claims to (a) crushable-ampoule colorimetric field test pouch with sequential reagent release; (b) reagent isolation in frangible ampoules within a leak-proof analysis pouch; (c) color-and-sequence-keyed presumptive identification of controlled substances; (d) instrument-free field reagent test with operator-protected corrosive reagents. Foundational prior art for NIK, Sirchie, ODV and competing crushable-ampoule field-test patents; also relevant to colorimetric water/explosive field-test pouches.
+
 ## Viking 1/2 GCMS and Biology Package (1976)
 
 - **id**: `viking-1976-gcms-biology-experiment`
@@ -84,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biemann K et al., 'Search for organic and volatile inorganic compounds in two surface samples from the Chryse Planitia region of Mars,' Science 194(4260):72-76 (1976), doi:10.1126/science.194.4260.72; Klein HP, 'The Viking biological investigation: General aspects,' J. Geophys. Res. 82(28):4677-4680 (1977)
 - **ip status**: public-domain
 - **prior art notes**: Discloses the architectural pattern of a planetary lander instrument that ingests bulk regolith, partitions it across multiple sealed reaction chambers, perfuses each with a different reagent (water/14C-labeled organics/13CO2 + light), and reads out via three orthogonal detection chains (mass spectrometer, beta scintillator, gas chromatograph thermal conductivity). For 102/103 anticipation purposes this is the founding flight precedent for: (a) integrated regolith-to-GCMS pyrolyzer with sealed sample magazines and oven-thermal-cycling, (b) a multi-modal life detection cartridge concept where one physical sample is interrogated by metabolic, isotope-labeling, and gas-evolution assays in parallel, and (c) the use of Curie-point pyrolysis to volatilize organics for downstream chromatographic separation. Anticipates virtually any later 'in-situ astrobiology cartridge' claim that recites multiple parallel reaction wells with independent reagent injection and orthogonal readouts (e.g., contemporary ELSAH/HOLD/MICA concepts). The Labeled Release positive (chiral-asymmetric heat-killable signal) remains a touchstone for any patent claiming life-detection by metabolic 14C release.
+
+## Passive-diffusion organic-vapor dosimeter badge (SKC / Assay Technology / 3M class) (1976-11-09)
+
+- **id**: `passive-diffusion-organic-vapor-dosimeter-badge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3M (Organic Vapor Monitor), SKC Inc. (UMEx/575 series), Assay Technology, Gradko, Radiello (Sigma-Aldrich)
+- **disclosure**: US3992156A Diffusional dosimeter (Donald W. Underhill / 3M-style passive diffusion sampler), 1976; see also Palmes & Gunnison, Personal monitoring device for gaseous contaminants, Am. Ind. Hyg. Assoc. J. 34, 78 (1973).
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable passive sampler whose precisely defined diffusion gap/aperture geometry sets a known sampling rate so accumulated mass on a sorbent gives a time-weighted-average exposure - a controlled micro-gas-transport dosimetry device. Anticipates claims to (a) badge-format diffusive sampler with a defined diffusion gap/aperture array setting a calibrated sampling rate; (b) derivatizing-reagent sorbent in a passive badge for aldehyde/isocyanate dosimetry; (c) pump-free time-weighted-average personal exposure monitor; (d) tube-and-badge diffusive ambient-air samplers. Foundational prior art for passive-sampler patents (3M, SKC, Assay Technology, Radiello).
 
 ## Traveller (Classic) medical autodoc / low berth (1977)
 
@@ -114,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Wars: Episode V — The Empire Strikes Back, dir. Irvin Kershner, Lucasfilm, 1980. IMDB tt0080684. Bacta tank visible in opening Echo Base sequence treating Luke Skywalker.
 - **ip status**: fictional
 - **prior art notes**: Star Wars (1980 onward) depicts the bacta tank as a full-body immersion-therapy platform combining respiratory support, continuous bacta-fluid circulation, and trauma reconstruction. The Empire Strikes Back's bacta tank sequence (Hoth, Luke Skywalker) is the canonical first depiction. Architectural disclosure of 'full-body immersion therapeutic-fluid circulation platform with respiratory support and trauma reconstruction'. Predates real-world commercial liquid-ventilation research (which has not produced an analogous deployed product); §102 category disclosure of immersion-fluid trauma platform.
+
+## Intoximeter EC/IR II and Alco-Sensor electrochemical-fuel-cell evidential breath alcohol analyzer (1981-03-31)
+
+- **id**: `intoximeter-ecir-fuel-cell-evidential-breathalyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Intoximeters, Inc. (Alco-Sensor, EC/IR); also Draeger (Alcotest), Lifeloc (FC series), Lion Laboratories
+- **disclosure**: US4209300A Hand-held portable breathalyzer testing device and method of testing (Intoximeters, Inc., late 1970s); fuel-cell breath-alcohol sensing per US4279142A and the established literature (Dubowski, Breath-alcohol analyzers, J. Forensic Sci.).
+- **ip status**: patented
+- **prior art notes**: Discloses a fixed-aliquot breath-capture micro-gas-flow path feeding an electrochemical fuel-cell micro-chamber for ethanol-selective amperometric blood-alcohol estimation, optionally in series with an infrared cell. Anticipates claims to (a) end-exhalation fixed-aliquot breath sampling into a fuel-cell alcohol sensor; (b) acetone-immune fuel-cell breath-alcohol analyzer; (c) dual-principle (electrochemical plus infrared) evidential breath analyzer; (d) flow/pressure-gated mouthpiece path ensuring deep-lung air capture. Prior art for Intoximeters, Draeger, Lifeloc and Lion breath-alcohol-analyzer patents; extends the wave-2 oral-fluid drug-screening lineage.
 
 ## Akira Tetsuo mutation containment chamber (1982)
 
@@ -445,6 +485,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Half-Life (1998) depicts the Mark V Hazardous Environment (HEV) suit as a wearable medical platform performing continuous in-suit biometric monitoring with automated morphine, analgesic, and antidote injection. The suit's voice-announced status reporting (e.g., 'Morphine administered', 'Antitoxin administered') is a particularly explicit category disclosure of audio-feedback medical monitoring. Architectural category disclosure of 'wearable integrated medical platform with automated targeted pharmaceutical injection and voice-announced status'. Relevant prior art for wearable autoinjector patents and for voice-feedback medical-monitor interfaces.
 
+## FUJIFILM Wako Limulus Color KY / ES-II Endotoxin Microplate Assay (1998)
+
+- **id**: `wako-limulus-color-ky-endotoxin`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FUJIFILM Wako Pure Chemical
+- **disclosure**: FUJIFILM Wako Pure Chemical (formerly Wako) Limulus Color KY and Limulus ES-II Single Test instructions for use
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dispensed single-use cuvette and microwell fluidic formats for compendial LAL endotoxin assay with dried chromogenic reagents. Anticipates: pre-filled single-test endotoxin vessels; the broader pattern of pre-dosed disposable reaction vessels for pharmacopeial QC. Predecessor architecture to the multi-channel Endosafe cartridge.
+
 ## Cytiva Xuri W25 / Wave 25 single-use rocking bioreactor (1999)
 
 - **id**: `cytiva-xuri-wave-bioreactor`
@@ -575,6 +625,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an automated Trypan Blue dye-exclusion cell viability instrument with a flow-cell-capillary image-based discrimination architecture: peristaltic pump aspirates sample from cup, mixes 1:1 with Trypan Blue, transports plug into a 100-µm-deep glass flow capillary positioned in the focal plane of a 10x microscope objective with CCD imaging, and applies image-based discrimination (membrane-intact cells exclude dye and appear bright; membrane-compromised cells absorb dye and appear dark blue). The instrument autoflushes between samples. Anticipates: image-based Trypan Blue cell viability automation for bioreactor monitoring; CHO/Sf9/HEK QC use as a pharmacopeial method; the architectural choice of flow-cell + brightfield imaging vs flow cytometry + propidium iodide for the same endpoint.
 
+## Lonza PyroGene / PyroTec Recombinant Factor C Endotoxin Test (2003)
+
+- **id**: `lonza-pyrogene-recombinant-factor-c-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lonza
+- **disclosure**: Lonza Walkersville PyroGene Recombinant Factor C Endotoxin Detection Assay protocol; later PyroTec PRO cartridge and Nebula reader datasheets (2018-2021)
+- **ip status**: patented
+- **prior art notes**: Discloses recombinant Factor C endotoxin detection in microplate and single-use cartridge fluidic formats with dried fluorogenic reagents and on-board controls. Anticipates: animal-free endotoxin cartridges; fluorogenic-readout disposable BET assays; the substitution of LAL with recombinant cascade enzymes in a cartridge architecture. Sister to charles-river-endosafe-nexgen-pts-lal-cartridge (chromogenic LAL) and biomerieux-endonext-recombinant-factor-c.
+
+## FLIR Fido X-series handheld explosives trace detector (amplifying-fluorescent-polymer sensing) (2003-05-13)
+
+- **id**: `flir-fido-x-handheld-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / Nomadics; amplifying-fluorescent-polymer chemistry from the Swager group at MIT)
+- **disclosure**: Yang & Swager, Fluorescent porous polymer films as TNT chemosensors, J. Am. Chem. Soc. 120, 11864 (1998); US6558626B1 / US6589731B1 Detection of nitro-containing compounds using amplifying fluorescent polymers (Massachusetts Institute of Technology / Nomadics); Fido product line from Nomadics -> ICx -> FLIR.
+- **ip status**: patented
+- **prior art notes**: Discloses an air-sampling micro-flow cell over an amplifying fluorescent polymer film with optical quenching readout, plus a thermal sample-trap concentrator - a microfluidic/micro-gas-flow chemical sensor. Anticipates claims to (a) air-flow cell over an amplifying fluorescent conjugated-polymer film for trace nitro-compound vapor detection; (b) molecular-wire-amplified fluorescence-quenching explosives sensor; (c) thermal sample-trap card concentrating swiped residue into a vapor-detection flow cell; (d) multi-channel polymer-array explosives detector. Prior art for FLIR/ICx/Nomadics and competing fluorescent-polymer trace-detector patents.
+
 ## Cepheid GeneXpert cartridge (2004)
 
 - **id**: `cepheid-genexpert-cartridge`
@@ -604,6 +674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Peter F. Hamilton, Pandora's Star (Macmillan 2004); Judas Unchained (2005).
 - **ip status**: fictional
 - **prior art notes**: Highmotive medical pods are described as autonomous closed-system trauma-care units with full diagnostic, surgical, and pharmacy synthesis on board. Used in field hospitals during the Starflyer War. Defensive prior art for autonomous trauma-care pods with integrated multi-modal medical-fluid handling.
+
+## FLIR IBAC bioaerosol identifier and particulate-collector unit (2004-08-26)
+
+- **id**: `flir-ibac-bioaerosol-trigger-collector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / BioVigilant); related fielded units include the US JBPDS triggers
+- **disclosure**: US20040159799A1 / US7126687B2 Method and instrument for detecting biological agents in aerosol (Hairston/Ho-style UV laser-induced fluorescence; ICx BioVigilant / FLIR lineage); see also Ho, Future of biological aerosol detection, Anal. Chim. Acta 457, 125 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses an aerodynamic micro-nozzle/virtual-impactor concentrator feeding a single-particle UV-LIF interrogation cell, plus an integrated aerosol-to-liquid microfluidic collector for confirmatory assays - a trigger-and-collect bioaerosol microfluidic system. Anticipates claims to (a) aerodynamic-focusing micro-nozzle into a single-particle UV-fluorescence/scatter bioaerosol cell; (b) intrinsic-fluorophore (tryptophan/NADH) single-particle bio-trigger; (c) integrated aerosol-to-liquid collector capturing trigger-flagged particles for PCR/immunoassay confirmation; (d) networked bioaerosol warning sensor with on-board collection. Prior art for FLIR/ICx/BioVigilant and competing UV-LIF bioaerosol-detector patents.
 
 ## Field-deployable agricultural pathogen detection cartridges (Cady 2003 lineage) (2005)
 
@@ -694,6 +774,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Maule, J. et al. 'Rapid Culture-Independent Microbial Analysis Aboard the International Space Station.' Astrobiology 9(8), 759-775 (2009), doi:10.1089/ast.2008.0319; BioServe Space Technologies, University of Colorado, ISS-LOCAD cartridge use protocol Expedition 14-15 (2006-2007)
 - **ip status**: unknown
 - **prior art notes**: Discloses a manually-operated microfluidic cartridge designed to perform a horseshoe-crab amebocyte lysate (LAL) endotoxin/microbial-marker assay on board the ISS without active pumps or valves. The cartridge integrates: dry reagent immobilization in microchannels, gas-bubble venting via a hydrophobic membrane, a foam-actuated fluid pouch that crew compresses to drive fluid metering, and an optical readout window aligned to the LOCAD-PTS handheld photometer. Anticipates: (a) microgravity-compatible cartridge architectures relying on capillarity and crew compression rather than active pumping; (b) sample-to-answer endotoxin and 1,3-beta-D-glucan immobilized-enzyme cartridges; (c) the design pattern of a host-instrument plus disposable cartridge for environmental monitoring inside crewed habitats; (d) bubble-handling strategies (hydrophobic vent membranes, anti-wicking dam features) specific to surface-tension-dominated flow in microgravity. Should be cited against any later cartridge claiming microgravity-tolerant manual-pump operation.
+
+## Charles River Endosafe nexgen-PTS LAL Endotoxin Cartridge (2006)
+
+- **id**: `charles-river-endosafe-nexgen-pts-lal-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe-PTS / nexgen-PTS product literature and operator manual; FDA-licensed kinetic-chromogenic LAL cartridge assay
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use injection-molded fluidic cartridge that performs a complete kinetic-chromogenic Limulus amebocyte lysate endotoxin assay: a sample is drawn by an instrument pump through parallel channels onto dried LAL+chromogen reagent pads, incubated at controlled temperature, and read optically, with dedicated spiked-sample channels providing the regulatory positive product control and a 2D barcode encoding the reagent lot archived standard curve. Anticipates: (a) dried-reagent endotoxin/pyrogen cartridges with on-board spike-recovery controls; (b) barcode-encoded lot calibration substituting for in-run standard curves on a disposable cartridge; (c) the general architecture of a multi-channel optical-read disposable performing a pharmacopeial release assay at point of use. One of the most widely deployed pharmaceutical QC microfluidic consumables worldwide.
 
 ## BioShock plasmid / EVE injection vials and Gene Banks (2007)
 
@@ -1005,6 +1095,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Berthier-Silberzan 2010 is one of the few textbooks focused specifically on microfluidics for biotechnology. Anticipates PCR-on-chip claims, biosensor-integrated lab-on-chip claims, on-chip DNA-handling claims, and capillary/electrokinetic/droplet biotech microfluidic applications. Any 'biotech-microfluidic device' patent must clear this textbook.
 
+## CDR WineLab / BeerLab / FoodLab Cartridge-Based Multiparameter Photometer (2010)
+
+- **id**: `cdr-winelab-beerlab-microfluidic-photometer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. (Ginestra Fiorentina, Italy) WineLab / BeerLab / FoodLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dispensed disposable optical-cuvette reagent cartridges that serve simultaneously as reagent reservoir and photometric reaction cell, read in a thermostatted block after microliter sample addition. Anticipates: pre-dosed single-test photometric cuvettes for food/beverage QC; the architecture of a cartridge-reagent multiparameter photometer; minimal-instrument enzymatic assay kits for beverages. Companion to foss-winescan-so2-ftir and to enzymatic-assay beverage cartridges.
+
+## Neogen Igenity Livestock Genomic Profiling (Sample Collection and Genotyping Prep) (2010)
+
+- **id**: `neogen-igenity-livestock-genotyping-prep`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Neogen Corporation
+- **disclosure**: Neogen Corporation / GeneSeek Igenity genomic-profiling product literature; Neogen DNA-collection devices and SNP-array genotyping workflow documentation
+- **ip status**: patented
+- **prior art notes**: Discloses a standardized field tissue-collection device feeding a barcoded, microplate-scale automated DNA-extraction and SNP-genotyping workflow for livestock genomic profiling. Anticipates: barcoded fixed-volume tissue-collection consumables; integrated field-collection-to-microplate-genotyping ag workflows. Companion to embark-veterinary-genetic-test-kit (already covered) and to Zoetis CLARIFIDE.
+
 ## Charles Stross Rule 34 pharma printer / domestic compounder (2011)
 
 - **id**: `stross-rule-34-pharma-printer`
@@ -1144,6 +1254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo 4 (343 Industries / Microsoft 2012-11-06); Halo: Initiation comic (Dark Horse 2013) ISBN 978-1-61655-292-8; Halo Encyclopedia (DK 2022) ISBN 978-0-7440-5689-8 SPARTAN-IV chapter.
 - **ip status**: fictional
 - **prior art notes**: SPARTAN-IV protocol depicted as a less invasive augmentation suite for adult volunteers. Multiple sequential injections: bone-density compound (carbonate/phosphate matrix infusion), muscular catalyst, neural bridge fluid for MJOLNIR Gen 2 interface. Performed in an outpatient-style clinic with single-shift recovery rather than the SPARTAN-II surgical operating theater. Anticipates: outpatient adult-augmentation protocols using a multi-bolus injection bed with sequenced reagent cartridges; bone-density-augmentation pharmaceutical cartridges; the architectural pattern of reduced-invasiveness sequenced-reagent augmentation.
+
+## CDR OxiTester Olive-Oil Quality Cartridge Photometer (2012)
+
+- **id**: `cdr-oxitester-olive-oil-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. OxiTester / OliveOilLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dosed disposable optical-cuvette reagent cartridges for olive-oil quality parameters, read in a thermostatted photometer after microliter sample addition. Anticipates: pre-dispensed photometric cuvette cartridges for edible-oil QC; minimal-instrument colorimetric assays for food authenticity. Same cuvette-cartridge platform as cdr-winelab-beerlab-microfluidic-photometer.
 
 ## ThermoFisher RapidHIT 200 Human DNA Identification System (2012-09)
 
@@ -1365,6 +1485,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated single-use finger-stick blood-collection device incorporating a lancet, capillary blood transfer channel, lateral-flow buffer reservoir, and lateral-flow HIV antibody test strip in a single sealed cartridge. Anticipates: integrated lancet + capillary + lateral-flow assay devices that eliminate the user step of pipetting blood from finger to test. Distinguishable from OraQuick HIV (oral-fluid based) and from Determine HIV (separate lancet + dropper) by full integration of all blood-handling steps in one device.
 
+## Agdia AmplifyRP / AmplifyRP XRT Recombinase Polymerase Amplification Plant-Pathogen Test (2014)
+
+- **id**: `agdia-amplifyrp-rpa-plant-pathogen-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Agdia Inc.
+- **disclosure**: Agdia Inc. (Elkhart, Indiana) AmplifyRP and AmplifyRP XRT product literature; recombinase polymerase amplification (TwistDx/Abbott) licensed isothermal chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained isothermal RPA reaction device for crude plant-extract samples with either portable fluorescence readout or a sealed-cassette lateral-flow amplicon detection format. Anticipates: closed-cassette isothermal-amplification plant-pathogen tests; lateral-flow amplicon readout integrated to prevent carryover; field-portable molecular ag diagnostics. Companion to abbott-id-now-isothermal-cartridge (clinical RPA/NEAR) and to envirologix-dnable plant-pathogen tests.
+
+## Smiths Detection IONSCAN 600 explosives and narcotics trace detector (2014-09-23)
+
+- **id**: `smiths-detection-ionscan-600-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection IONSCAN 600 product release / FCC and TSA qualification, 2014; underlying ion-mobility-spectrometry trace-detection patents incl. US7397026B2 (Smiths) ion mobility spectrometer and US8217341B2 (Smiths) sample swab and trace detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a thermal-desorption swab inlet feeding a controlled drift-gas/dopant micro-gas-flow ion-mobility drift cell with millisecond ion gating and a recirculating sieve-pack gas purifier - a micro-gas-flow analytical architecture. Anticipates claims to (a) swab thermal-desorption inlet to an ion-mobility trace detector; (b) recirculating purified-drift-gas IMS cell needing no external gas; (c) dual-polarity single-run IMS trace detection of explosives and narcotics; (d) non-radioactive ionization in a portable IMS detector. Prior art for Smiths, Bruker, MorphoTrak/Idemia and L3 explosives-trace-detector patents.
+
 ## Cytiva Sefia S-2000 cell processing system (2015)
 
 - **id**: `cytiva-sefia`
@@ -1475,6 +1615,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a desktop DIY-bio station with sealed pre-loaded reagent cartridges ('cookies') sized for one transformation each. Anticipates: child-safe consumer molecular-biology kits with disposable reagent cartridges; cartridge-based DIY transformation kits; the architectural pattern of consumer DIY-bio kits with locked-down reagent inventory.
 
+## EnviroLogix DNAble / QuickComb Isothermal Plant-Pathogen and GMO Cartridges (2015)
+
+- **id**: `envirologix-dnable-isothermal-plant-pathogen`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EnviroLogix Inc.
+- **disclosure**: EnviroLogix Inc. (Portland, Maine) DNAble and QuickComb product literature; nicking-enzyme-amplification-reaction isothermal molecular assays for ag
+- **ip status**: patented
+- **prior art notes**: Discloses sealed isothermal nicking-enzyme-amplification reaction devices for crude agricultural samples with portable fluorescence readout, plus comb-format multi-strip lateral-flow immunoassay housings. Anticipates: nicking-enzyme-amplification field cartridges for ag; comb/array lateral-flow strip housings for multiplex ag screening. Sibling to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
+
 ## Passengers (2016) Avalon autodoc medical pod (2016)
 
 - **id**: `passengers-2016-medbay`
@@ -1524,6 +1674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: WO2017046257A1 (Stilla Technologies, priority 2015-09-15); US10744506B2 'Method and apparatus for performing digital assays using polydisperse droplets'; Stilla Naica System product launch 2016
 - **ip status**: patented
 - **prior art notes**: Discloses a chamber-free 'crystal' digital PCR architecture in which an aqueous sample is partitioned into a 2D monolayer of monodisperse droplets confined between two parallel surfaces inside a microfluidic chip. The chip integrates a flow-focusing droplet generator with an immobilization chamber whose gap height is matched to droplet diameter so that droplets self-organize into a hexagonally close-packed 2D crystal. Anticipates: (a) any digital PCR architecture relying on geometrically constrained 2D droplet arrays for thermal cycling and image-based digital readout; (b) integrated single-chip dPCR cartridges with on-chip droplet generation, thermal cycling, and multi-color fluorescence imaging without an external droplet reader; (c) the use of close-packing density rather than addressed wells for partitioning. Material relevant to claims of Bio-Rad QX-series patents asserting required chambered/well architectures.
+
+## Bee-Health Field Diagnostic Cartridges (Nosema / Varroa-Virus / Foulbrood) (2016)
+
+- **id**: `vita-bee-health-nosema-varroa-diagnostic-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Vita (Europe) Ltd and academic groups
+- **disclosure**: Vita (Europe) Ltd European Foulbrood / American Foulbrood lateral-flow diagnostic kit literature; published field-deployable LAMP/PCR assays for Nosema ceranae and honeybee viruses; BeeOdiversity and academic bee-pathogen test reports
+- **ip status**: patented
+- **prior art notes**: Discloses field-portable lateral-flow and sealed isothermal-amplification cartridges for honeybee pathogens (foulbrood bacteria, Nosema microsporidia, bee RNA viruses) run from crushed-bee or hive-debris samples. Anticipates: apiary-side immunoassay and isothermal molecular cartridges for pollinator-health diagnostics; the extension of closed-cassette ag diagnostics to insect-disease surveillance. Sibling architecture to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
 
 ## Senseonics Eversense Implantable Continuous Glucose Monitor (2016-05)
 
@@ -1695,6 +1855,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a sealed thermoplastic cartridge integrating FFPE tissue lysis, magnetic-bead nucleic-acid extraction, multiplex real-time PCR, and on-cartridge fluorescence detection for EGFR mutation profiling in non-small-cell lung cancer biopsies. Anticipates: integrated FFPE-to-result oncology cartridges with on-board mutation detection by allele-specific PCR. Distinguishable from Cepheid Xpert (sample-prep + PCR but not FFPE-tissue-input) and from earlier wave-1 Idylla generic platform entry by FFPE tissue-input capability and oncology-specific assay menu.
 
+## binx health io Point-of-Care Molecular Cartridge (Chlamydia / Gonorrhea) (2017)
+
+- **id**: `binx-health-io-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: binx health
+- **disclosure**: binx health (formerly Atlas Genetics, Bath, UK / Boston, US) io platform disclosures and FDA-cleared CT/NG point-of-care molecular test; patents on an electrochemical-detection PCR cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a sample-to-answer molecular-diagnostic cartridge integrating lysis, PCR, and electrochemical amplicon detection at on-cartridge screen-printed electrodes with blister-pack reagents and valving. Anticipates: electrochemical-readout PCR cartridges for POC; integrated lysis-amplify-detect consumables using non-optical detection. Companion to cepheid-genexpert-cartridge and visby-medical entries (optical or strip readout) -- binx uses electrochemistry instead.
+
+## Thermo Fisher Accula (Mesa Biotech) Dock-and-Go Molecular POC Cartridge (2017)
+
+- **id**: `thermo-fisher-accula-mesa-biotech-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Thermo Fisher Scientific (Mesa Biotech)
+- **disclosure**: Mesa Biotech (San Diego; acquired by Thermo Fisher Scientific 2021) Accula System disclosures and FDA-cleared/EUA molecular POC tests; patents on a lateral-flow-readout RT-PCR cartridge with a reusable dock
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized RT-PCR cassette in which on-cassette amplification (heated by a reusable dock) is followed by lateral-flow amplicon detection with visual lines, achieving PCR sensitivity without reader optics. Anticipates: PCR-then-lateral-flow integrated POC cassettes; reusable-dock + disposable-amplification-cassette architectures. Companion to lucira-check-it-flu-covid-test and other strip-readout molecular POC entries.
+
 ## ThermoFisher RapidHIT ID DNA Booking System (2017-09)
 
 - **id**: `thermofisher-rapidhit-id`
@@ -1794,6 +1974,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Adaptive Biotechnologies clonoSEQ Assay product literature (2018); FDA 510(k) DEN170080 (clonoSEQ MRD assay clearance, 2018); companion publications
 - **ip status**: patented
 - **prior art notes**: Discloses a sample-prep cartridge integrating multiplex PCR amplification of immune-receptor loci (IGH, IGK, IGL, TRB, TRG) from bone-marrow or blood, followed by NGS library prep for downstream sequencing on Illumina platforms. Anticipates: cartridge-based multiplex immune-receptor amplicon NGS prep for minimal residual disease monitoring. Sister to other Adaptive immunoSEQ entries; this is specifically the clonoSEQ MRD prep cartridge — the FDA-cleared in vitro diagnostic configuration.
+
+## Charles River Endosafe nexgen-MCS Multi-Cartridge System (2018)
+
+- **id**: `charles-river-endosafe-nexgen-mcs`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe nexgen-MCS product datasheet and 21 CFR Part 11 software documentation (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses an instrument that drives multiple Endosafe LAL endotoxin cartridges in parallel, each with its own pump and temperature-controlled optical bay, for higher-throughput pharmacopeial bacterial endotoxin testing. Anticipates: multi-bay readers for disposable optical-read assay cartridges with independent fluid actuation per bay; the productized scale-up of a single-cartridge stat assay to a small parallel array. Relies on the same cartridge prior art as charles-river-endosafe-nexgen-pts-lal-cartridge.
 
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
@@ -2065,6 +2255,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Vault preserves Hari Seldon's neural pattern in a fluid-suspension substrate, with a scheduled auto-revival cycle. Reads as prior art for: long-term cryogenic neural-pattern preservation with scheduled-revival fluidic logic; cooled neural-substrate fluid-bath maintained over multi-decade timescales with calibrated reagent supply for periodic reactivation.
 
+## Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System (2021)
+
+- **id**: `babson-diagnostics-ac-workcell-microfluidic`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Babson Diagnostics
+- **disclosure**: Babson Diagnostics (Austin, Texas) aC Workcell / BetterWay disclosures and patents on automated preparation of small capillary-blood samples for routine clinical chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a fingerstick collection device plus a microfluidic sample-prep cartridge that meters, anticoagulates, mixes and separates plasma from microliter-scale capillary blood so it can be run on standard automated analyzers. Anticipates: capillary-blood microfluidic sample-prep cartridges decoupling tiny samples from standard lab instruments; retail-pharmacy workcell architectures. Companion to truvian-health-desktop-blood-analyzer-disc and sight-diagnostics-olo (POC CBC).
+
 ## Talis One COVID-19 Test Cartridge (2021-02)
 
 - **id**: `talis-one-covid-19-cartridge`
@@ -2155,6 +2355,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a FFPE-input cartridge integrating tissue lysis, RNA extraction, microarray hybridization, and expression-classifier scoring for genitourinary (GU) oncology risk-stratification. Sister to wave-2 generic veracyte-decipher-prep-cartridge entry; this entry is specifically the GU oncology variant covering bladder and prostate cancer prognostic classifiers. Anticipates: FFPE-to-classifier oncology cartridges combining microfluidic RNA extraction with downstream microarray expression profiling for genitourinary malignancies.
 
+## Aptitude Medical Systems Metrix COVID-19 Molecular At-Home Test (2022)
+
+- **id**: `aptitude-medical-metrix-covid-molecular-poc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aptitude Medical Systems
+- **disclosure**: Aptitude Medical Systems (Santa Barbara, California) Metrix COVID-19 Test disclosures and FDA-authorized over-the-counter molecular test; patents on a small isothermal-amplification cartridge with a reusable reader
+- **ip status**: patented
+- **prior art notes**: Discloses a low-step single-use isothermal-amplification cartridge with lyophilized reagents read by a small reusable heater/reader for OTC molecular respiratory testing. Anticipates: consumer-grade isothermal molecular cartridges with reusable readers; minimal-user-step swab-in-cup molecular formats. Companion to lucira-check-it-flu-covid-test and detect-inc-covid-19-rt-lamp-cartridge.
+
 ## Telesis Bio BioXp 9600 Benchtop DNA Synthesis (2022-02)
 
 - **id**: `telesis-bioxp-9600-benchtop-synthesis`
@@ -2224,6 +2434,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Mandalorian S3E4 'The Foundling' (Disney+ 2023-03-22); S3E6 'Guns for Hire' (2023-04-05) — Grogu pilots IG-12 with embedded life-support and reagent dispensing.
 - **ip status**: fictional
 - **prior art notes**: IG-12 rebuilt as a piloted droid-suit for Grogu includes integrated life-support: atmosphere reservoir, temperature regulation, and reagent dispensing tied to pilot interface controls. Anticipates: piloted-suit life-support architectures combining a sealed atmosphere reservoir, microfluidic dosing of supplemental reagents, and haptic-control interfaces for dose titration. Useful prior art for any 'pilot-controlled mech-suit life-support' patent claim.
+
+## 3EO Health Low-Cost Molecular Point-of-Care Test (COVID-19 / Respiratory) (2023)
+
+- **id**: `3eo-health-low-cost-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3EO Health
+- **disclosure**: 3EO Health (Cambridge, Massachusetts) disclosures of a low-cost molecular POC test and FDA-cleared/authorized COVID-19 test; patents on an electrochemical-readout isothermal-amplification cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a low-cost single-use isothermal-amplification cartridge with on-cartridge screen-printed electrodes for electrochemical amplicon detection read by an inexpensive reusable reader. Anticipates: cost-optimized electrochemical-readout molecular cartridges; antigen-test-economics molecular POC. Companion to binx-health-io-molecular-poc-cartridge (also electrochemical) and to other low-cost-molecular-POC entries.
 
 ## Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) (2023-01-04)
 
@@ -2304,3 +2524,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA De Novo DEN230071 March 5 2024 (first OTC CGM clearance); Dexcom press release 2024-03-05
 - **ip status**: patented
 - **prior art notes**: OTC variant of Dexcom G7 sensor stack with extended wear time and consumer-grade alerting (no high/low alarms). Same enzymatic membrane architecture as G6/G7. Anticipates: OTC regulatory pathway for amperometric subcutaneous biosensors; consumer wellness positioning for CGMs without diabetes label.
+
+## DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) (2024-10-01)
+
+- **id**: `rajaniemi-darkome-diy-synthetic-biology-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hannu Rajaniemi
+- **disclosure**: Hannu Rajaniemi, Darkome (Gollancz, 2024; ISBN 978-1399610483); a near-future biohacker thriller in which DIY-bio collectives use home synthetic-biology rigs to design, print, and test self-administered immune-modulating constructs and personalized therapeutics outside the regulated medical system.
+- **ip status**: fictional
+- **prior art notes**: Discloses a benchtop synthetic-biology rig integrating nucleic-acid synthesis, microfluidic cell-free expression cartridges, automated wet-lab steps, on-rig sequencing/assay feedback, and a self-administration injector, in a closed design-build-test loop. Cited aspects: the integrated bench DBT rig with microfluidic cartridges and the rig-output-to-self-administration-injector coupling. Anticipates generic claims to integrated benchtop design-build-test synthetic-biology platforms and to point-of-use biologic synthesis-then-self-administer systems. HIGH 102 value: the work centers on the DIY-bio device/process. Pairs with suarez-change-agent-black-market-gene-editing, metafluidics-platform, and naam-nexus-trilogy-implant.

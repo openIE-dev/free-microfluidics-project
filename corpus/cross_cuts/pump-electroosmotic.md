@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-electroosmotic`
 
-**25 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -204,6 +204,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ISBN 978-1580539722; Artech House, 2nd edition, 2006 (1st ed 2002)
 - **ip status**: public-domain
 - **prior art notes**: Engineering textbook with extensive device-level coverage: micropumps (electrokinetic, piezo, peristaltic, thermopneumatic, MHD), microvalves (active and passive, check, pinch, ball), micromixers (passive lamination, chaotic advection, active acoustic and electrokinetic), and detection. Each device class is described in enough engineering detail to enable an undergraduate to build it. Anticipates: device-level patent claims on microfluidic pumps, valves, and mixers in any of the listed taxonomies — they are obvious in view of this textbook's catalog. Particularly load-bearing: catalog of 'pump architectures usable on chip' defeats narrow novelty for any post-2002 micropump claim.
+
+## Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications (2007-08-08)
+
+- **id**: `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roland Zengerle group, IMTEK, University of Freiburg / HSG-IMIT
+- **disclosure**: Haeberle, S.; Zengerle, R. Microfluidic platforms for lab-on-a-chip applications. Lab Chip 2007, 7, 1094-1110. DOI: 10.1039/b706364b
+- **ip status**: public-domain
+- **prior art notes**: The Lab on a Chip review that organized the field into microfluidic platforms by liquid-propulsion principle - capillary, pressure-driven, centrifugal (lab-on-a-disc), electrokinetic, droplet/segmented-flow, and electrowetting digital microfluidics - and compared them by the unit operations each supports and their state of commercialization. As a prior-art survey it anticipates claims framing combinations of these propulsion principles and unit operations as integrated lab-on-chip systems, and documents the centrifugal microfluidic / lab-on-a-disc architecture in detail. Companion to and precursor of mark-2010-microfluidic-platforms-review. From the Zengerle group (Freiburg/HSG-IMIT), a major centrifugal-microfluidics center.
 
 ## Intarcia ITCA 650 Implantable Osmotic Mini-Pump (Exenatide) (2008)
 

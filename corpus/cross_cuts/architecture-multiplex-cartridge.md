@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `architecture-multiplex-cartridge`
 
-**158 corpus entries disclose this subsystem.**
+**167 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964
 
@@ -325,6 +325,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
 
+## Research International RAPTOR portable fluidic immunoassay analyzer (2000-09-12)
+
+- **id**: `research-international-raptor-fluidic-immunoassay-analyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Research International, Inc. (technology lineage from the Naval Research Laboratory fiber-optic biosensor program)
+- **disclosure**: US6118126A Method for enhancing fluorescence (Research International, evanescent-wave fiber-optic biosensor); see also Anderson et al., A fiber-optic biosensor: combination tapered fibers designed for improved signal acquisition, Biosens. Bioelectron. 8, 249 (1993); RAPTOR product disclosures circa 2000-2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable microfluidic immunoassay coupon with integrated pump, valves and reagent storage running an automated multiplexed sandwich fluoroimmunoassay over antibody-coated fiber waveguides with evanescent-wave readout. Anticipates claims to (a) disposable fluidic coupon with on-board pump/valves for an automated sandwich immunoassay; (b) multi-fiber evanescent-wave fluoroimmunoassay biosensor for biothreats; (c) reusable-analyzer-plus-single-use-cartridge architecture for field immunoassay; (d) on-coupon reagent blister and waste containment for a portable assay. Prior art for Research International, MesoScale, and competing portable-immunoassay-cartridge patents; orthogonal-confirmation partner to UV-LIF bioaerosol triggers.
+
 ## Halo CASTLE Base biological augmentation laboratories (2001)
 
 - **id**: `halo-castle-base-biolabs`
@@ -374,6 +384,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7170050; US7476503; US7906284; US10208329; US7820983 (Pacific Biosciences)
 - **ip status**: patented
 - **prior art notes**: Pacific Biosciences SMRT Cell patent family. Anchors claims around: (a) array of sub-wavelength (~70 nm) zero-mode waveguides on a fused-silica substrate clad with aluminum; (b) single-molecule polymerase tethered at the bottom of each ZMW; (c) phospholinked nucleotides emitting wavelength-distinct fluorescence on incorporation; (d) total-internal-reflection-style illumination with confocal-zone selectivity per ZMW; (e) Revio (existing entry pacbio-revio-smrt-cell) and Sequel II form factors. Companion existing entry: eid-2009-pacbio-smrt. Anticipates ZMW-based single-molecule sequencing chips and any nanofluidic chip with a sub-wavelength aperture array for single-molecule confinement.
+
+## Hansen 2002 robust scalable microfluidic metering for protein crystallization by free interface diffusion (2002-12-24)
+
+- **id**: `hansen-2002-microfluidic-protein-crystallization-metering`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hansen, C. L.; Skordalakes, E.; Berger, J. M.; Quake, S. R. A robust and scalable microfluidic metering method that allows protein crystal growth by free interface diffusion. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 16531-16536. DOI: 10.1073/pnas.262485199
+- **ip status**: public-domain
+- **prior art notes**: Discloses the microfluidic metering method underlying chip-format protein crystallization: paired nanoliter chambers loaded by dead-end filling, isolated by monolithic membrane valves, then connected through an interface valve so the two reagents mix only by free-interface diffusion - reproducibly sampling a crystallization trajectory through supersaturation space that is impractical to set up by hand at nanoliter scale. Anticipates claims to: dead-volume-free metering of defined nanoliter aliquots by valve-bounded chamber filling; free-interface-diffusion crystallization in a microfluidic chamber array; and high-throughput crystallization screening from microgram protein quantities. Commercialized as Fluidigm Topaz. Companion to quake-2003-microfluidic-protein-crystallization. Quake-lab MLSI lineage.
 
 ## Theranos Edison / miniLab cartridge (claimed) (2003)
 
@@ -644,6 +664,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo Encyclopedia (DK Publishing 2009) ISBN 978-0-7566-5549-7; Halo: Glasslands (Karen Traviss, Tor 2011).
 - **ip status**: fictional
 - **prior art notes**: Mobile orbital hospital ship class with multi-thousand-bed surgical/medical capacity, autonomous trauma triage, on-board pharmaceutical synthesis, and biological waste handling. Defensive prior art for: integrated mobile mass-casualty surgical platforms; on-board pharma synthesis loops; modular bed-cluster fluidic infrastructure.
+
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
+
+## BioFire FilmArray BioThreat-E and BT panel pouch (defense biothreat cartridge) (2009-11-19)
+
+- **id**: `biofire-filmarray-biothreat-e-panel-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BioFire Defense (BioFire Diagnostics, a bioMerieux company; formerly Idaho Technology)
+- **disclosure**: US20090275014A1 / US8895295B2 Microfluidic devices and methods of use (Idaho Technology / BioFire); FilmArray BioThreat panel and BioThreat-E EUA documentation, 2010s.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a sealed microfluidic pouch integrating bead-beating extraction, blister reagent storage, nested multiplex/singleplex PCR with an array of nanoliter second-stage wells dispensed by film pumps/valves, and melt-curve readout. Anticipates claims to (a) closed-pouch sample-to-answer multiplex PCR cartridge for biothreat detection; (b) array of nanoliter second-stage singleplex PCR wells fed from a first-stage multiplex reaction; (c) film-pump/pinch-valve fluidic actuation in a sealed diagnostic pouch; (d) freeze-dried-reagent biothreat panel requiring no reagent cold chain. Prior art (along with the existing generic FilmArray entry) for closed-cartridge multiplex-PCR patents - the BioThreat configuration specifically.
 
 ## Ventana DISCOVERY ULTRA automated IHC stainer (2010)
 
@@ -925,6 +965,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Talos Principle's underlying simulation infrastructure depicted as a planet-scale datacenter with AI-host life-support fluidics: liquid cooling, datacenter-grade flow systems supporting the AI hosts. Anticipates: planet-scale datacenter cooling and life-support fluid systems for hosted-mind / brain-emulation infrastructure; useful prior art for 'datacenter-scale fluid management for hosted brain-emulation infrastructure' claims.
 
+## Quotient MosaiQ Microarray Blood-Typing and Disease-Screening Platform (2014)
+
+- **id**: `quotient-mosaiq-microarray-blood-typing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Quotient Limited
+- **disclosure**: Quotient Limited (Eysins, Switzerland / Edinburgh, UK) MosaiQ platform disclosures and patents on a microarray-based consumable for simultaneous blood grouping, antibody screening and infectious-disease serology
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic consumable carrying a printed antigen/antibody microarray over which a small plasma sample is metered, processed and imaged to yield blood-group phenotype, antibody screening and infectious-disease serology together. Anticipates: microarray-in-microfluidic-flow-path consumables for immunohematology; consolidated multi-modal transfusion testing on one chip. Companion to bio-rad-ih-1000-immunohematology (gel-card automation) -- MosaiQ uses a microarray instead of columns.
+
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
 - **id**: `werfen-gem-premier-5000-cartridge`
@@ -954,6 +1004,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Twist Bioscience S-1 SEC filing 2018; Twist silicon DNA synthesis patent estate US10,384,189B2 (Methods for nucleic acid assembly and high throughput sequencing, priority 2014)
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon substrate with parallel addressable reaction wells in which phosphoramidite DNA synthesis runs at scale; reagents are routed by integrated microfluidic distribution and printhead-style deposition; output oligos are pooled or selectively retrieved. The Cellomics extension packages synthesized variant libraries with downstream cell-line generation services. Anticipates: silicon-substrate massively-parallel DNA synthesis (distinct from Agilent inkjet-on-glass and from solid-phase column synthesis); subsequent integration of synthesis with cell-line variant manufacturing as a single offering. Element-by-element: silicon reaction-well array + reagent printhead + deprotection/washing fluidics + library retrieval + downstream cell engineering.
+
+## GeneFirst Multiplex PCR Cartridge (MeltArray Respiratory and Oncology Panels) (2016)
+
+- **id**: `genefirst-multiplex-pcr-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: GeneFirst Ltd
+- **disclosure**: GeneFirst Ltd (Oxford / Wallingford, UK) MeltArray multiplex-PCR technology disclosures and PointLink cartridge / respiratory and EGFR oncology panel literature; patents on a melt-curve-multiplexed PCR assay
+- **ip status**: patented
+- **prior art notes**: Discloses a PCR cartridge whose multiplexing is achieved by probe-melting-temperature encoding (MeltArray) so a large target panel reads out from a small number of microfluidic reaction wells per optical channel. Anticipates: melt-temperature-multiplexed PCR cartridges; reducing microfluidic chamber count for large panels via melt encoding. Companion to biofire-filmarray-multiplex-pcr-cartridge (spatial multiplexing) -- GeneFirst multiplexes in melt-temperature space instead.
 
 ## Epicore Biosystems Microfluidic Sweat Sensor Patch (2016-11-23)
 
@@ -1075,6 +1135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Starfinder rules detail starship medical bays as a class of modular ship modifications: reagent rack, biotech bed, trauma kit add-ons. Anticipates: modular ship-medical-bay components with standardized reagent supply interfaces; tiered medbay capability mapped to module count; useful prior art for 'modular medbay with standardized reagent interface for cross-platform retrofit' claims.
 
+## SeLux Diagnostics Next-Generation Phenotyping (NGP) Rapid AST System (2017)
+
+- **id**: `selux-diagnostics-rapid-ast-phenotyping`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SeLux Diagnostics
+- **disclosure**: SeLux Diagnostics (Charlestown, Massachusetts) Next-Generation Phenotyping rapid AST disclosures and patents on a surface-area-expansion amplification assay measuring bacterial response to antibiotics in microplate format
+- **ip status**: patented
+- **prior art notes**: Discloses a rapid phenotypic AST in high-density microplate format using a surface-area-expansion amplification reagent system to read viable bacterial biomass per antibiotic-containing well. Anticipates: amplification-based (non-turbidimetric) phenotypic AST; very-broad-panel automated microplate susceptibility testing. Companion to pattern-bioscience-rapid-ast-digital-microfluidics; both displace growth-turbidity AST with alternative readouts.
+
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 
 - **id**: `heska-element-ht5-veterinary-imaging`
@@ -1125,6 +1195,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: unknown
 - **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
 
+## Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) (2018)
+
+- **id**: `truvian-health-desktop-blood-analyzer-disc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Truvian Health
+- **disclosure**: Truvian Health (formerly Truvian Sciences, San Diego) desktop blood-testing system disclosures and patents on a centrifugal microfluidic cartridge integrating chemistry, immunoassay and hematology from a small whole-blood sample
+- **ip status**: patented
+- **prior art notes**: Discloses a centrifugal microfluidic cartridge that meters and separates plasma from a small whole-blood sample and routes it to multiplexed chemistry, immunoassay and cell-count subassays read optically in a benchtop instrument with dried on-cartridge reagents. Anticipates: integrated centrifugal cartridges combining chemistry/immunoassay/hematology; benchtop full-panel blood analyzers from a fingerstick-scale sample. Companions: abbott-piccolo-xpress (centrifugal chemistry, already covered), sight-diagnostics-olo (POC CBC), babson-diagnostics-ac-workcell.
+
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
 - **id**: `parse-biosciences-evercode`
@@ -1174,6 +1254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Inscripta Onyx product launch 2019; Inscripta MAD7 nuclease publication: Garst et al., 'Genome-wide engineering of E. coli using CREATE,' Nat Biotechnol 35:48 (2017); Inscripta SEC filings; US patent US10,808,254B2 (Inscripta nucleic acid engineering systems)
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated cassette that runs the full CREATE (CRISPR-Enabled Trackable genome Engineering) workflow: cells and editing oligo libraries loaded; on-cassette electroporation delivers libraries; outgrowth chambers with media routing; downstream selection and collection. Anticipates: closed-cassette automated bacterial/yeast genome-engineering workflows; on-cartridge electroporation followed by on-cartridge cell-growth in shared fluid path; the broader 'design-build-test in one box' microbial editing factory architecture. Element-by-element: oligo input + cell input + on-cassette electroporation + outgrowth chamber with feed/bleed + selection chamber + collection bag.
+
+## BforCure Chronos Dx Ultra-Fast PCR Microfluidic Chip (2019)
+
+- **id**: `bforcure-chronos-dx-ultrafast-pcr-chip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BforCure SAS
+- **disclosure**: BforCure SAS (Paris, France) Chronos Dx ultra-fast PCR platform disclosures and patents on a thin-film microfluidic cartridge enabling extremely rapid thermal cycling
+- **ip status**: patented
+- **prior art notes**: Discloses a flexible thin-polymer-film microfluidic PCR cartridge whose low thermal mass enables thermal-cycling ramp rates far above conventional block cyclers, with multiplexed fluorescence detection in a portable reader. Anticipates: thin-film low-thermal-mass PCR cartridges for ultra-fast amplification; flexible-substrate molecular-diagnostic consumables. Companion to abbott-id-now-isothermal-cartridge and other rapid-molecular-POC entries (different speed mechanism).
 
 ## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
 

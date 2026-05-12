@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-electrode-integration`
 
-**67 corpus entries disclose this subsystem.**
+**83 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -165,6 +165,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
 
+## Burns 1996 microfabricated structures for integrated DNA analysis (1996-05-28)
+
+- **id**: `burns-1996-microfabricated-dna-analysis-pnas`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Burns / Burke / Mastrangelo group, University of Michigan
+- **disclosure**: Burns, M. A.; Mastrangelo, C. H.; Sammarco, T. S.; Man, F. P.; Webster, J. R.; Johnsons, B. N.; Foerster, B.; Jones, D.; Fields, Y.; Kaiser, A. R.; Burke, D. T. Microfabricated structures for integrated DNA analysis. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 5556-5561. DOI: 10.1073/pnas.93.11.5556
+- **ip status**: public-domain
+- **prior art notes**: The direct precursor to the famous Burns 1998 Science integrated DNA analysis device (burns-1998-integrated-dna-analysis-device). Discloses microfabricated silicon-glass structures combining nanoliter drop metering by hydrophobic surface patterning, thermal-pneumatic (air-bubble) pumping driven by integrated resistive heaters, on-chip mixing of metered drops, a temperature-controlled reaction chamber, and an integrated capillary electrophoresis channel for product size analysis - all on a single wafer. Anticipates claims to: monolithic integration of metering+reaction+separation on a microfabricated substrate; thermal/gas-expansion actuation of discrete aqueous plugs in hydrophilic channels bounded by hydrophobic regions; on-chip drop merging by channel geometry; and end-to-end DNA assay automation in a chip-scale device. Predates the 1998 Science paper by two years.
+
 ## Joe Haldeman Forever Peace neural jacks (jacking) (1997)
 
 - **id**: `haldeman-forever-peace-neural-jacks`
@@ -174,6 +184,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Joe Haldeman, Forever Peace (Ace 1997) ISBN 978-0-441-00566-5 — Hugo Award winner 1998.
 - **ip status**: fictional
 - **prior art notes**: Forever Peace depicts neural jacks as cranial ports physically interfacing operator nervous systems with mech-pilot soldierboy units; the jack maintains an active fluidic environment around the implanted electrode array. Anticipates: cranial-port neural interfaces with active fluidic maintenance loops, multi-operator coupled neural-fluidic networks, and the architectural pattern of mech-pilot jack-and-fluid coupling. Useful prior art for 'multi-operator coupled neural-fluidic interface' patent claims.
+
+## Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) (1997-04-08)
+
+- **id**: `bosch-ngk-ceramic-lambda-nox-sensor`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Robert Bosch GmbH (LSU/LSF), NGK Spark Plug / NTK, Denso, Continental
+- **disclosure**: US5616825A Exhaust gas sensor and a process for producing the same (NGK Spark Plug); see also US5288374A (Bosch) limiting-current oxygen sensor and Riegel, Neumann & Wiedenmann, Exhaust gas sensors for automotive emission control, Solid State Ionics 152-153, 783 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses a ceramic element with a controlled-porosity micro-diffusion-barrier channel feeding a sub-microliter measurement cavity bounded by pumping/Nernst electrodes, plus multi-chamber successive-barrier architectures and an integrated heater - a solid-state gas microfluidic/diffusion device. Anticipates claims to (a) diffusion-barrier-limited amperometric oxygen sensing with a defined micro-gas-channel; (b) multi-cavity successive-diffusion-barrier NOx sensor with O2 pre-removal; (c) co-fired heater integration in a planar zirconia sensing element. Prior art for Bosch, NGK/NTK, Denso lambda- and NOx-sensor patents.
 
 ## Seven of Nine Borg-implant maintenance and dermal regenerator (Star Trek: Voyager) (1997-09-03)
 
@@ -234,6 +254,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Eric Nylund, Halo: The Fall of Reach (Del Rey 2001) ISBN 978-0-345-45132-3, Spartan neural-interface implantation chapter; Halo Encyclopedia (DK 2009) and (DK 2022).
 - **ip status**: fictional
 - **prior art notes**: MJOLNIR helmet contains a neural-lace docking port that physically interfaces with surgically-implanted cranial pins on Spartans. The helmet circulates a coolant fluid through the brain-side neural lace to maintain operational temperature when an AI is loaded into the wearer's neural interface. Anticipates: helmet-integrated active-cooling microfluidic loops servicing brain-implant electrodes; closed-circulation coolant manifolds in head-worn hardware; integrated thermal management for neuroprosthetic AI co-processor docking. Strong prior art for any 'helmet-integrated brain-implant cooling loop' claim.
+
+## Texhnolyze prosthetic-limb integration surgery and Class research lab (Texhnolyze) (2003-04-17)
+
+- **id**: `texhnolyze-class-prosthetic-integration-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Madhouse
+- **disclosure**: Texhnolyze (Madhouse, broadcast 2003-04-17 to 2003-09-25); the Texhnolyze prosthetic-integration surgery (Docs clinic) and the Class organizations augmentation research; IMDB tt0364737.
+- **ip status**: fictional
+- **prior art notes**: Discloses surgical neural-integration of prosthetic limbs under perfusion plus tuning of the body-device interface plus use of a biologically sourced integration material. Cited aspects: the perfusion-supported prosthetic-neural-integration surgery and the interface-tuning workflow. Anticipates generic claims to perfusion-assisted neuroprosthetic implantation and to post-implant interface-calibration procedures. Pairs with gundam-witch-from-mercury-permet-gund-arm and 86-eighty-six-style prosthetic fictional entries.
 
 ## Cassini Cosmic Dust Analyzer (CDA) — Enceladus Plume Mass Spectra (2004)
 
@@ -314,6 +344,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: White Wolf Publishing, 'Promethean: The Created' core book 2006, ISBN 978-1-58846-415-8
 - **ip status**: fictional
 - **prior art notes**: Disclosure of galvanic-fluid-bath corpse-to-being transformation tank with subsequent staged refinement biofluid regimen. Anticipates claims directed to corpse-to-being electrochemical-fluidic reanimation cartridges with staged post-creation biofluid regimens.
+
+## Busek BET ionic-liquid electrospray micro-thruster (BET-MAX / BET-100) (2006-07-09)
+
+- **id**: `busek-bet-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Busek Co. Inc.
+- **disclosure**: Ziemer et al., Colloid micro-newton thrust development for the LISA Pathfinder mission, AIAA 2006 / Joint Propulsion Conference; see also US7872848B2 Method of operating a colloid thruster (Busek Co. Inc.).
+- **ip status**: patented
+- **prior art notes**: Discloses precision microfluidic propellant metering (porous restrictor / piezo / pressure feed) delivering sub-microliter/s ionic-liquid flow to capillary emitter arrays for finely throttleable electrospray thrust, flight-proven for drag-free control. Anticipates claims to (a) micro-newton-resolution colloid/electrospray thrust by controlled sub-microliter/s propellant feed; (b) porous flow-restrictor metering to an electrospray emitter array; (c) externally-wetted needle electrospray emitter array; (d) ionic-liquid propellant feed system with extractor/accelerator electrodes. Prior art for Busek, Accion and Enpulsion electrospray-propulsion patents.
 
 ## MaxCyte STX Scalable Transfection System (2007)
 
@@ -485,6 +525,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of crowd-aggregation of wearable biofluidic patch data with AR overlay for clinical encounter. Anticipates claims directed to wearable diagnostic cartridges that aggregate biofluidic biomarker readouts across users with cloud-aggregation and AR overlay.
 
+## Accion Systems TILE ionic-liquid electrospray thruster (2013-09-03)
+
+- **id**: `accion-tile-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Accion Systems, Inc. (technology from the MIT Space Propulsion Laboratory, Lozano group)
+- **disclosure**: US8324593B2 Iodine-compatible hall effect... (no) - use US8324593 placeholder removed; primary: Lozano & Martinez-Sanchez, Ionic liquid ion sources, J. Colloid Interface Sci. 282, 415 (2005) and US9194379B1 Field emission/ionic liquid electrospray emitter array (Massachusetts Institute of Technology / Accion Systems).
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated electrospray emitter array fed by passive capillary/porous-media wicking of an ionic-liquid propellant from a reservoir, with an extractor grid emitting ions/droplets and bipolar operation - a passive microfluidic propellant-feed thruster. Anticipates claims to (a) passive capillary feed of an ionic-liquid propellant to an emitter array (no pump/valve/pressurant); (b) porous-tip electrospray emitter array on a microfabricated chip; (c) tiled/modular electrospray thruster scaled by emitter count; (d) bipolar ionic-liquid electrospray operation. Foundational small-satellite electrospray-propulsion prior art.
+
 ## MaxCyte GTx Flow Electroporation System (2014)
 
 - **id**: `maxcyte-gtx-gmp-electroporator`
@@ -505,6 +555,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
+## Haden syndrome neural-network implant and threep maintenance/medical infrastructure (John Scalzi, Lock In / Head On) (2014-08-26)
+
+- **id**: `scalzi-lock-in-haden-syndrome-threep-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John Scalzi
+- **disclosure**: John Scalzi, Lock In (Tor, 2014-08-26, ISBN 978-0765375865) and Head On (Tor, 2018, ISBN 978-0765388896); Haden-syndrome survivors are locked into immobile bodies and operate robotic Personal Transports (threeps) via an implanted neural network; the books depict the implant surgery, the locked-in bodys life-support/perfusion care, threep maintenance bays, and Integrator (human-host) medical setups.
+- **ip status**: fictional
+- **prior art notes**: Discloses a cortex-distributed neural-network implant for robotic-body teleoperation plus chronic life-support care of the immobilized body (perfusion, feeding, ventilation, waste management) plus robotic-body maintenance bays. Cited aspects: the chronic multi-line life-support care setup for a locked-in body and the cortex-distributed implant for teleoperation. Anticipates generic claims to integrated chronic life-support care platforms and to distributed-cortical-implant body-teleoperation interfaces. HIGH 102 value: the syndrome/implant is the central premise. Pairs with possessor-neural-implant-assassination-rig, naam-nexus-trilogy-implant, and after-yang-techno-sapien-repair-shop.
+
 ## ISS Biomolecule Sequencer (Oxford Nanopore MinION on ISS) (2016)
 
 - **id**: `iss-biomolecule-sequencer-minion`
@@ -524,6 +584,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Twist Bioscience S-1 SEC filing 2018; Twist silicon DNA synthesis patent estate US10,384,189B2 (Methods for nucleic acid assembly and high throughput sequencing, priority 2014)
 - **ip status**: patented
 - **prior art notes**: Discloses a silicon substrate with parallel addressable reaction wells in which phosphoramidite DNA synthesis runs at scale; reagents are routed by integrated microfluidic distribution and printhead-style deposition; output oligos are pooled or selectively retrieved. The Cellomics extension packages synthesized variant libraries with downstream cell-line generation services. Anticipates: silicon-substrate massively-parallel DNA synthesis (distinct from Agilent inkjet-on-glass and from solid-phase column synthesis); subsequent integration of synthesis with cell-line variant manufacturing as a single offering. Element-by-element: silicon reaction-well array + reagent printhead + deprotection/washing fluidics + library retrieval + downstream cell engineering.
+
+## The skein electrostatic organ and its clinical/research apparatus (Naomi Alderman, The Power) (2016-10-27)
+
+- **id**: `alderman-the-power-skein-organ-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Naomi Alderman
+- **disclosure**: Naomi Alderman, The Power (Viking, 2016-10-27, ISBN 978-0670919963; Curtis Brown / Penguin); women develop a striated electric organ (the skein) along the collarbone capable of discharging electricity; the novel depicts clinical imaging, surgical sampling, a suppressant drug (NeuroBlocker), and skein-transfer between individuals.
+- **ip status**: fictional
+- **prior art notes**: Discloses clinical imaging and biopsy of a novel bioelectric organ, a pharmacological suppressant delivered by pill/injection, bench culture and electrical-output measurement of the organs tissue, and a transfer/induction procedure. Cited aspects: the bench culture-and-bioelectric-output-measurement of excised tissue and the suppressant-delivery-plus-organ-imaging clinical workflow. Anticipates generic claims to ex-vivo bioelectric-tissue culture/measurement platforms and to organ-imaging-plus-pharmacological-modulation workflows. HIGH 102 value: the skein is the central element. Pairs with abbott-freestyle-libre-cgm (bioelectric sensing analogue) and warframe-helminth-infested-biology-system (transfer-of-biological-factor archetype).
 
 ## MaxCyte ATx Flow Electroporation System (2018)
 
@@ -605,6 +675,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a CMOS-fabricated DNA storage chip in which each cell is independently addressable for single-molecule DNA synthesis and read-out via integrated nanopore. Anticipates: integration of DNA-storage write and read on the same CMOS substrate; per-cell electronic addressing of nanopore-and-synthesis sites at >10^6 site density; nanofluidic single-molecule chemistries pairing on-chip electronics with enzymatic write. Anticipates claims to DNA-storage devices that combine CMOS electronics with nanopore-coupled per-cell synthesis.
 
+## Possessor brain-implant body-hijack rig and Tasya Vos calibration bay (Possessor, 2020) (2020-01-25)
+
+- **id**: `possessor-neural-implant-assassination-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg / Neon
+- **disclosure**: Possessor (Brandon Cronenberg; premiered Sundance 2020-01-25; Neon/Elevation 2020); a corporate assassin uses a neural implant placed in a targets brain that lets a remote operator (Tasya Vos), wired into a calibration chair, pilot the targets body to commit a killing; IMDB tt5918982.
+- **ip status**: fictional
+- **prior art notes**: Discloses a surgically implanted neural device for remote body takeover plus an operator calibration chair with a head-cradle electrode array and fluid life-support, plus identity-state monitoring and a recalibration procedure. Cited aspects: the implanted-device-plus-operator-chair teleoperation architecture and the operator life-support/fluid-line chair. Anticipates generic claims to implanted-neural-interface teleoperation systems and to operator immersion chairs with integrated life support. Pairs with reminiscence-memory-immersion-tank, possessor-adjacent fictional entries, and naam-nexus-trilogy-implant.
+
 ## Relic biochip implantation and engram-substrate fusion (Cyberpunk 2077) (2020-12-10)
 
 - **id**: `cyberpunk-2077-relic-biochip-fusion`
@@ -624,6 +704,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Foundation S1E1 'The Emperor's Peace' (Apple TV+ 2021-09-24) and recurring through S1-S2; specifically S2E3 'King and Commoner' (2023-07-28) Brother Day post-attack treatment.
 - **ip status**: fictional
 - **prior art notes**: Imperial palace medical wing depicted with a robotic surgeon coupled to a reagent reservoir stack, real-time neural-imprint backup before any procedure, and Imperial-grade reagent QC. Anticipates: robotic-surgeon + reagent-cartridge-stack integration; preoperative neural-imprint backup as part of the procedural flow tied to fluidic dosing decisions; high-stakes imperial-grade reagent provenance and chain-of-custody.
+
+## Techno-sapien repair shop and memory-bank extraction rig (After Yang, 2021) (2021-07-08)
+
+- **id**: `after-yang-techno-sapien-repair-shop`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kogonada / A24
+- **disclosure**: After Yang (Kogonada; premiered Cannes 2021-07-08; A24/Showtime 2022; based on Alexander Weinsteins short story Saying Goodbye to Yang); a household android (techno-sapien) malfunctions and is taken to repair shops; a technician extracts Yangs internal memory bank, a tiny device storing seconds-long daily memory clips; IMDB tt9263256.
+- **ip status**: fictional
+- **prior art notes**: Discloses a service bench with coolant/fluid-line maintenance for an artificial body plus extraction and readout of a tiny implanted memory module. Cited aspects: the coolant/fluid-line servicing of an artificial body and the implanted-module extract-and-read workflow. Anticipates generic claims to fluidic-serviced artificial-body maintenance and to implanted-data-module extraction/readout. Pairs with wells-murderbot-medsystem, descender-tim-21-android-child-fabrication, and electric-state-style android entries.
+
+## Reminiscence memory-immersion sensory-deprivation tank (Reminiscence, 2021) (2021-08-20)
+
+- **id**: `reminiscence-memory-immersion-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lisa Joy / Warner Bros.
+- **disclosure**: Reminiscence (Lisa Joy; Warner Bros. / HBO Max, released 2021-08-20); Nick Bannister operates a fluid-filled sensory-deprivation immersion tank wired to a console that lets a client (or interrogation subject) relive recorded memories, projected holographically; IMDB tt2724064.
+- **ip status**: fictional
+- **prior art notes**: Discloses a fluid-filled sensory-deprivation immersion chamber with a closed-loop bath-temperature/level life-support system and an integrated head-mounted neural interface to an external console. Cited aspects: the warmed buoyant immersion bath with closed-loop fluid maintenance and the immersion-chamber-plus-neural-interface integration. Anticipates generic claims to temperature/level-regulated immersion-bath enclosures and to immersion-tank-coupled neural-interface workstations. Pairs with the-matrix-bio-pod-style and recursion-pharma-extend fictional entries.
+
+## Arra Labs body-double cloning, memory-transcription, and growth-tank apparatus (Swan Song, 2021) (2021-12-17)
+
+- **id**: `swan-song-arra-labs-body-double-cloning`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Benjamin Cleary / Apple TV+
+- **disclosure**: Swan Song (Benjamin Cleary; Apple TV+, released 2021-12-17); Arra Labs offers a terminally ill client a cloned body grown in a tank and imprinted with the clients memories via a neural-transcription chair, to replace the client without the family knowing; IMDB tt12879368.
+- **ip status**: fictional
+- **prior art notes**: Discloses a perfused adult-body growth tank fed from autologous cells, plus a neural-transcription chair that acquires and imprints a memory set into the grown body. Cited aspects: the perfused autologous-cell adult-body growth tank and the acquire-then-imprint memory-transcription rig. Anticipates generic claims to perfused autologous-cell organism-growth tanks and to memory-acquisition-and-imprint workstations. Pairs with they-cloned-tyrone-underground-clone-facility, jung-e-style brain-cloning entries, and the-substance-cell-division-serum.
 
 ## Thermo Fisher Neon NxT Electroporator (2022)
 
@@ -645,6 +755,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: David's escalating cyberware stack requires continuous immunosuppressant and psychosis-prevention reagent supply maintained by a chest-implanted reservoir-and-pump assembly. The Sandevistan specifically requires high-volume reagent throughput during activation. Anticipates: chest-implanted continuous-infusion reservoirs servicing multiple body-distributed implants; useful prior art for 'chest-implanted multi-implant reagent reservoir with on-demand high-throughput delivery' claims.
 
+## Sark autopsy/surgery beds, OrchidBed, and BreakFaster chair (Crimes of the Future, 2022) (2022-05-23)
+
+- **id**: `crimes-of-the-future-sark-surgical-units`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Cronenberg / Neon
+- **disclosure**: Crimes of the Future (David Cronenberg; Neon, premiered Cannes 2022-05-23, theatrical 2022); the Sark surgical/autopsy module, the OrchidBed sleep-pod, the BreakFaster eating chair, and the National Organ Registry tattoo-and-catalog of new organs; IMDB tt14549466.
+- **ip status**: fictional
+- **prior art notes**: Discloses a remote-operated multi-arm surgical/autopsy module with intra-operative perfusion/fluid management, a body-monitoring adaptive sleep-pod, and a tattoo-and-catalog organ-registry workflow. Cited aspects: the remote multi-arm surgical module with intra-operative fluid management and the adaptive body-monitoring pod. Anticipates generic claims to remote-operated multi-arm surgical platforms with integrated perfusion and to occupant-adaptive monitoring pods. Pairs with poor-things-godwin-baxter-surgical-lab and prometheus-medpod-style fictional entries.
+
 ## Nuclera eProtein Discovery Platform (2022-09-01)
 
 - **id**: `nuclera-eprotein-platform`
@@ -655,6 +775,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a commercial EWOD cartridge benchtop instrument that combines cell-free protein synthesis with on-chip bead-based affinity purification. Builds on Wheeler-lab EWOD prior art. Anticipates: EWOD cartridges integrating cell-free protein synthesis; benchtop bead-purification on digital microfluidic platforms; the architectural pattern of disposable PCB-electrode cartridges for protein-engineering workflows.
 
+## GUND format prosthetics, Permet nanofluid medium, and consciousness-transfer rig (Gundam: The Witch from Mercury) (2022-10-02)
+
+- **id**: `gundam-witch-from-mercury-permet-gund-arm`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sunrise / Bandai Namco
+- **disclosure**: Mobile Suit Gundam: The Witch from Mercury (Bandai Namco / Sunrise, broadcast from 2022-10-02 to 2023-07-02); the GUND format prosthetics, the Permet medium, and Eri Samayas consciousness transfer (Prologue and main series); IMDB tt15355594.
+- **ip status**: fictional
+- **prior art notes**: Discloses a nanoparticle-fluid medium circulated through both a prosthetic device and the patients body to form the neural-integration interface, plus a transcription procedure copying consciousness into that medium, plus a dose-response (link-level) harm model. Cited aspects: the circulated-nanofluid-as-neural-interface-medium and the device-and-body shared-fluid-loop architecture. Anticipates generic claims to nanoparticle-suspension-mediated bioelectronic interfaces and to shared circulating-medium prosthetic integration. High 102 value (Permet is a central, named, mechanically detailed element). Pairs with naam-nexus-trilogy-implant and akira-tetsuo-mutation-chamber.
+
+## Funki labs M3GAN prototype-fabrication and diagnostics bay (M3GAN, 2022 / M3GAN 2.0, 2025) (2022-12-28)
+
+- **id**: `m3gan-funki-labs-prototype-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gerard Johnstone / Blumhouse
+- **disclosure**: M3GAN (Gerard Johnstone; Universal/Blumhouse, theatrical 2022-12-28) and M3GAN 2.0 (2025); Funki Co.s R&D lab fabricates and services the M3GAN companion android, with 3D-printed structural shells, a silicone skin-application process, internal diagnostic/coolant lines, and a calibration/test bay; IMDB tt8760708.
+- **ip status**: fictional
+- **prior art notes**: Discloses a companion-android prototyping line combining 3D-printed structure with a silicone skin-overmold step and internal coolant/fluid lines, plus a diagnostics/calibration bay. Cited aspects: the print-then-skin-overmold fabrication sequence and the internal-coolant-line artificial-body architecture. Anticipates generic claims to combined-process android fabrication lines and to fluid-cooled artificial-body designs. Pairs with after-yang-techno-sapien-repair-shop, companion-robot-style fictional entries, and electric-state entries.
+
 ## Cyberpunk 2077 Phantom Liberty Songbird Blackwall fluidics (2023)
 
 - **id**: `cyberpunk-2077-songbird-blackwall-fluidics`
@@ -664,6 +804,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cyberpunk 2077: Phantom Liberty (CD Projekt Red 2023-09-26) — Songbird character arc and final-act treatment scenes.
 - **ip status**: fictional
 - **prior art notes**: Songbird's Blackwall netrunning is supported by an integrated cooling-and-reagent loop that maintains her neural-implant fluidics during AI-bridging. Phantom Liberty depicts the apparatus as a head-mounted reservoir + cooling manifold with active flow control. Anticipates: neural-implant active-cooling loops integrated with reagent-supply manifolds for AI-bridging operations; useful prior art for 'head-mounted active-cooling reagent-supply manifold for neural implant operation' claims.
+
+## Kronoid AI brain-cloning lab and combat-AI body-fabrication line (Jung_E, 2023) (2023-01-20)
+
+- **id**: `jung-e-aibrain-cloning-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Yeon Sang-ho / Netflix
+- **disclosure**: Jung_E (Yeon Sang-ho; Netflix, released 2023-01-20); the Kronoid company extracts and replicates the brain of a legendary soldier (Jung_E) to mass-produce a combat AI, with brain-scanning, neural-pattern replication, and android-body assembly lines; IMDB tt15310452.
+- **ip status**: fictional
+- **prior art notes**: Discloses a brain-extraction-and-perfusion rig sustaining a donor brain through repeated scans, a neural-pattern replication pipeline, and an android-body assembly line. Cited aspects: the perfusion-maintained donor-brain scanning rig and the scan-replicate-assemble production pipeline. Anticipates generic claims to extracorporeal brain-perfusion-and-scanning systems and to scan-driven neural-replica fabrication lines. Pairs with swan-song-arra-labs-body-double-cloning, psycho-pass-sibyl-brain-immersion, and ray-nayler connectome-mapping-style entries.
+
+## Nirmatas New Asia AI-biology lab and simulant-fabrication line (The Creator, 2023) (2023-09-29)
+
+- **id**: `the-creator-nirmata-ai-biology-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gareth Edwards / 20th Century Studios
+- **disclosure**: The Creator (Gareth Edwards; 20th Century Studios / Disney, theatrical 2023-09-29); Nirmatas hidden labs in New Asia fabricate simulants (AI beings with organic-looking bodies) and the child-weapon Alpha-O, with growth tanks, neural-core implantation, and organic-shell assembly; IMDB tt11858890.
+- **ip status**: fictional
+- **prior art notes**: Discloses perfused growth tanks gestating organic-looking artificial bodies plus neural-core implantation plus organic-shell assembly stations. Cited aspects: the perfused organic-body growth tank and the grow-then-implant-core-then-finish assembly pipeline. Anticipates generic claims to perfused organic-body growth tanks and to bioandroid assembly pipelines. Pairs with the-creator-adjacent, expelled-from-paradise-deva-body-printing, and electric-state-style entries.
 
 ## Death Stranding 2 Q-pid and BB-1 successor pod (2025)
 

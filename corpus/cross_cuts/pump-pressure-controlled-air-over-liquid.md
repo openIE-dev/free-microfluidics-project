@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-pressure-controlled-air-over-liquid`
 
-**44 corpus entries disclose this subsystem.**
+**55 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -24,6 +24,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coulter, W.H. US patent application filed 1949-10-20, US2656508A issued 1953-10-20, 'Means for counting particles suspended in a fluid'; Coulter, W.H. 'High speed automatic blood cell counter and cell size analyzer,' Proc. National Electronics Conference vol. 12 pp. 1034-1042 (1956)
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
+
+## Satellite hydrazine monopropellant attitude-control thruster and propellant feed (Aerojet Rocketdyne MR-103/MR-111, ArianeGroup CHT class) (1972-08-01)
+
+- **id**: `satellite-hydrazine-monopropellant-feed-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Aerojet Rocketdyne (Rocket Research), ArianeGroup (formerly Astrium / DASA), Northrop Grumman, Moog ISP; catalyst (Shell 405 / Aerojet S-405 iridium-on-alumina)
+- **disclosure**: Schmidt, Hydrazine and Its Derivatives, Wiley 1984/2001 (monopropellant thruster chapter); Aerojet (formerly Rocket Research / TRW / Hamilton) MR-series thruster heritage; US3854287A Self-pressurized rocket propellant feed and related catalyst-bed disclosures, early 1970s.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic propellant feed of hydrazine through filtered small-bore lines and a fast solenoid valve to a fine injector onto a packed catalyst microbed with a bed heater, in pulse and continuous modes. Anticipates claims to (a) monopropellant attitude thruster with fine injector spraying onto a granular catalyst bed; (b) fast-pulse solenoid flow-control valve for impulse-bit attitude control; (c) catalyst-bed pre-heat for cold-start of a monopropellant thruster; (d) electrothermally augmented hydrazine thruster. Foundational prior art for monopropellant-thruster feed-system patents - and the prior art the green-monopropellant systems were designed to displace.
+
+## Atomic-layer-deposition precursor pulse valve and vapor-draw delivery system (1977-11-15)
+
+- **id**: `ald-precursor-pulse-valve-delivery-system`
+- **corpus**: private
+- **device class**: valve-component
+- **creator**: ASM International, Picosun (Applied Materials), Beneq, Veeco/CNT, Forge Nano; pulse valves by Swagelok/Nupro, Fujikin, Parker, Ultra Clean Holdings
+- **disclosure**: US4058430A Method for producing compound thin films (Suntola & Antson, atomic layer epitaxy); see also US6539891B1 chemical deposition reactor and US8202575B2 vapor deposition reactor pulsing system.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic vapor-dosing architecture: millisecond pulse valves metering self-limiting precursor micro-doses from heated ampoules into a low-pressure reactor with purge separation, plus pressure-decay dose verification and spatial-ALD microchannel injector heads. Anticipates claims to (a) fast diaphragm pulse-valve sequencing for self-limiting vapor dosing; (b) vapor-draw delivery of low-vapor-pressure precursors; (c) closed-loop dose verification by line-pressure transient; (d) spatial ALD by translating a substrate past adjacent precursor/purge slit microchannels. Prior art for Picosun, Beneq, Forge Nano and ASM precursor-delivery patents.
+
+## Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) (1979-05-08)
+
+- **id**: `forensic-postmortem-headspace-gc-autosampler`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Agilent Technologies (7697A), PerkinElmer (TurboMatrix), Teledyne Tekmar, CTC Analytics (PAL); methods established in forensic toxicology labs
+- **disclosure**: US4153434A Apparatus for sampling the gas phase of a liquid (Hewlett-Packard / static-headspace autosampler concept); see also Kolb & Ettre, Static Headspace-Gas Chromatography: Theory and Practice, Wiley 1997; ANSI/ASB and SOFT/AAFS forensic blood-alcohol HS-GC methods.
+- **ip status**: patented
+- **prior art notes**: Discloses an automated headspace autosampler: thermostatted vial equilibration, heated-needle vapor extraction, heated transfer line, and loop/pressure-balanced micro-sampling onto a GC column with internal standardization. Anticipates claims to (a) automated thermostatted headspace vapor micro-sampling of a biological aliquot for GC; (b) heated-needle/transfer-line path preventing volatile condensation and carry-over; (c) pressure-balanced headspace injection for forensic-grade quantitation; (d) high-throughput tray-automated headspace volatiles screen. Prior art for Agilent, PerkinElmer, Tekmar and CTC headspace-sampler patents; the confirmatory counterpart to the fuel-cell breathalyzer.
 
 ## Dune - Bene Tleilax Master breeding floor (1981)
 
@@ -95,6 +125,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an automated microbial ID/AST card-based fluidic system: a credit-card-sized polystyrene cassette containing 64 isolated microwells, each pre-loaded with a different lyophilized substrate (sugars, amino acids, antibiotic dilutions); the card mates with a transfer tube dipped into the bacterial inoculum suspension, and the analyzer's vacuum chamber draws inoculum into all wells simultaneously; the card is then sealed and continuously incubated at 35.5 °C with kinetic optical readout (turbidity at 660 nm + colorimetric pH/redox indicators). Anticipates: vacuum-loaded multi-well microbiology cards as a fluidic primitive for parallel substrate testing; the 'transfer tube + manifold + sealed card' architecture distinguishing VITEK from microtiter plate ID systems. Foundational disclosure for automated clinical microbiology workflows.
 
+## FIB-SEM and TEM-lamella semiconductor failure-analysis sample-prep fluidic handling (KLA / Onto / Thermo Fisher class) (2003-07-08)
+
+- **id**: `semiconductor-fib-sem-cross-section-sample-prep-fluidics`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Thermo Fisher Scientific (FEI Helios), KLA (former 4D / ICOS metrology), Onto Innovation, Hitachi High-Tech, Carl Zeiss; chemistry/etchant cells by Oxford Instruments, SELA
+- **disclosure**: US6589709B1 / US6926935B2 Gas injection system for FIB / charged-particle-beam deposition and etching (FEI, now Thermo Fisher); see also Giannuzzi & Stevie, Introduction to Focused Ion Beams, Springer 2005.
+- **ip status**: patented
+- **prior art notes**: Discloses capillary-needle vapor-dosing microfluidics and localized liquid wet-etch microcells used in semiconductor failure analysis: metered precursor/etchant delivery to a sub-micron working point, plus microliter acid decapsulation. Anticipates claims to (a) capillary gas-injection metering of precursor/etchant to a charged-particle-beam target; (b) gas-assisted selective etching/deposition with imaging endpoint feedback; (c) localized acid microcell decapsulation of a packaged die. Prior art for FEI/Thermo Fisher, Zeiss and Oxford Instruments GIS patents.
+
+## Hall-effect thruster xenon proportional flow controller (Bronkhorst/MOOG/VACCO XFC, Busek BHT feed) (2004-07-11)
+
+- **id**: `hall-thruster-xenon-flow-controller`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Moog Inc., VACCO Industries, Bronkhorst, Marotta; thruster makers Busek (BHT), Aerojet Rocketdyne / NASA (HERMeS, AEPS), Safran (PPS), SITAEL
+- **disclosure**: Hofer & Randolph, Mass flow control for Hall thrusters, JANNAF / AIAA Joint Propulsion Conference 2004; see also US7757987B2 Proportional flow control valve (Vacco / Moog-style) and the NASA HERMeS/AEPS xenon feed description in Kamhawi et al., Performance characterization of the 12.5 kW HERMeS Hall thruster, AIAA 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses precise gas mass-flow control by a thermally-throttled viscous-flow micro-restrictor (heated capillary/porous element) plus a proportional valve, with integrated micro-filtration and pressure sensing, split to multiple thruster ports. Anticipates claims to (a) thermal-throttle micro-restrictor xenon flow control for a Hall thruster; (b) split anode/cathode propellant metering module; (c) regulator-plus-restrictor architecture giving tank-pressure-insensitive flow; (d) integrated micro-filter/pressure-sensor flow-control module for electric propulsion. Prior art for Moog, VACCO, Bronkhorst and thruster-OEM xenon-feed patents.
+
+## ASML TWINSCAN immersion lithography water-handling hood (2004-11-25)
+
+- **id**: `asml-twinscan-immersion-hood-water-handling`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ASML Holding N.V.
+- **disclosure**: US20040263808A1 / US7193232B2 Lithographic apparatus and device manufacturing method (ASML, immersion lithography liquid supply system); see also Owa & Nagasaka, Immersion lithography: its potential performance and issues, SPIE 2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic meniscus-management hood: an annular supply/extraction microchannel ring delivering and recovering a degassed temperature-controlled liquid film in a sub-millimeter gap, with gas-knife and capillary edge features that pin a moving meniscus. Anticipates claims to (a) confined-meniscus liquid handling between a scanning substrate and an optic; (b) gas-knife/capillary-stop edge sealing of a moving liquid film; (c) point-of-use degassing of an immersion liquid to suppress bubbles; (d) millikelvin thermal conditioning of a thin liquid film for index control. Foundational immersion-fluid-handling prior art; ASML own families build on it but external claims to confined moving menisci are anticipated.
+
 ## Quake 4 - Strogg conversion line (2005-10-18)
 
 - **id**: `quake-4-strogg-conversion-line`
@@ -104,6 +164,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quake 4 (Raven Software / id Software / Activision, 2005)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of forced parallel-station industrial bioprocessing line for human-to-cyborg conversion, with per-station fluidic exchange. Anticipates claims directed to forced-throughput parallel-station bioprocessing cartridge lines with per-station fluid exchange protocols. The Strogg conversion line is a particularly extreme prior art anchor for industrial cyborg production claims.
+
+## MEMS cold-gas micro-thruster module for CubeSats (GomSpace/NanoSpace, VACCO ChEMS, Marotta class) (2007-06-01)
+
+- **id**: `cubesat-mems-cold-gas-microthruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: NanoSpace AB (now part of GomSpace), VACCO Industries (ChEMS / Palm-Sized propulsion), Marotta, Bradford; MEMS valves/nozzles fabricated in silicon
+- **disclosure**: Kohler et al., A hybrid cold gas microthruster system for spacecraft, Sensors and Actuators A 97-98, 587 (2002); Gronland et al., Miniaturization of components and systems for space using MEMS technology, Acta Astronautica 61, 228 (2007); see also VACCO/NanoSpace product disclosures.
+- **ip status**: patented
+- **prior art notes**: Discloses a silicon-MEMS fluidic chip integrating microvalves, micro-nozzles, micro-filters, micro-heaters and pressure sensors for cold-gas micro-propulsion with proportional throttling and liquefied-propellant vaporization. Anticipates claims to (a) integrated silicon-MEMS cold-gas thruster chip with micro-nozzle and micro-valve; (b) proportional MEMS microvalve for throttleable spacecraft thrust; (c) integrated micro-heater vaporizing a stored liquefied propellant; (d) micro-newton-second impulse-bit cold-gas attitude control. Prior art for NanoSpace/GomSpace, VACCO, Marotta MEMS-propulsion patents.
+
+## Berthier and Beebe 2007 flow rate analysis of a surface-tension-driven passive micropump (2007-10-08)
+
+- **id**: `berthier-beebe-2007-surface-tension-passive-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: David J. Beebe group, University of Wisconsin-Madison
+- **disclosure**: Berthier, E.; Beebe, D. J. Flow rate analysis of a surface tension driven passive micropump. Lab Chip 2007, 7, 1475-1478. DOI: 10.1039/b707637a
+- **ip status**: public-domain
+- **prior art notes**: Provides the quantitative theory of surface-tension-driven passive pumping: placing a small drop on the inlet and a larger drop on the outlet of a microchannel creates a Laplace-pressure difference (smaller drop has higher internal pressure) that pumps fluid from small to large drop, with the paper deriving the flow-rate-versus-drop-radii relationship and channel-resistance dependence. Anticipates claims to: pumpless microfluidic flow driven by the curvature/Laplace-pressure difference between two unequal sessile drops on inlet and outlet ports; pipette-actuated microchannel perfusion without tubing or instruments; and design rules sizing inlet/outlet drops to set flow rate. Foundational for open-microfluidics, suspended-microfluidics, and pipette-format high-throughput cell assays. From the Beebe lab (Wisconsin), with Glennys Mensing / Glenn Walker antecedents (Walker & Beebe 2002).
 
 ## Crysis Nanosuit fluidic actuation (2007-11-13)
 
@@ -144,6 +224,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: A*STAR Bioprocessing Technology Institute (Singapore) IP estate; SG/US/PCT filings
 - **ip status**: patented
 - **prior art notes**: A*STAR BTI patent family covers continuous perfusion bioreactor cartridges and CHO process patents. Anticipates claims directed to continuous-perfusion biologic-manufacturing fluidic cartridges.
+
+## Green monopropellant feed and microcatalyst-bed thruster (ECAPS LMP-103S High Performance Green Propulsion; NASA/Aerojet AF-M315E / ASCENT) (2010-05-04)
+
+- **id**: `green-monopropellant-feed-lmp103s-afm315e`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ECAPS / Bradford Space (LMP-103S HPGP thrusters), NASA Glenn / Air Force Research Laboratory and Aerojet Rocketdyne (AF-M315E / ASCENT, GPIM mission)
+- **disclosure**: Anflo & Crowe, In-space demonstration of an ADN-based propulsion system on the PRISMA satellite, AIAA 2011; patent SE527942C2 / US7757476B2 Method and device for a propulsion system (ECAPS / Swedish Space Corp.); NASA GPIM AF-M315E thruster: Spores et al., GPIM AF-M315E propulsion system, AIAA 2013.
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic feed of an ionic-liquid green monopropellant through a fast flow-control valve and fine injector into a heated microcatalyst reaction bed, with bed pre-heating, in pulse and continuous modes - flight-demonstrated. Anticipates claims to (a) ADN- or HAN-based ionic-liquid monopropellant thruster with a heated catalyst microbed; (b) drop-in green replacement for a hydrazine attitude-control feed system; (c) catalyst-bed pre-heat for cold-start of an ionic-liquid monopropellant thruster; (d) pulse-mode micro-impulse operation of a green-monopropellant thruster. Prior art for ECAPS/Bradford and Aerojet/AFRL green-propulsion patents.
 
 ## QIAGEN QIAcube HT Sample Prep (2013)
 
@@ -254,6 +344,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Molecular Assemblies press release 2018; US10683537B2 priority 2017; Hyman & Efcavitch foundational publications
 - **ip status**: patented
 - **prior art notes**: Discloses an aqueous enzymatic DNA synthesis system designed around modular fluidic cassettes and a cleavable-terminator nucleotide chemistry distinct from DNA Script and Ansa approaches. Anticipates: variant enzymatic-synthesis chemistries deployed via modular fluidic cartridges with vendor-independent reagent delivery; positioning for DNA-data-storage industrial throughput. Useful as 102 art against claims that conflate cassette modularity with chemistry-specific architecture.
+
+## ThrustMe NPT30-I2 iodine electric propulsion system (2018-10-15)
+
+- **id**: `thrustme-npt30-i2-iodine-electrothermal-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ThrustMe (spun out of Ecole Polytechnique / LPP-CNRS)
+- **disclosure**: Rafalskyi et al., In-orbit demonstration of an iodine electric propulsion system, Nature 599, 411 (2021); patent family WO2019/030035A1 / EP3650351 Propulsion system using a solid propellant (ThrustMe).
+- **ip status**: patented
+- **prior art notes**: Discloses a vapor-microfluidic propellant feed: a heated solid-iodine reservoir whose sublimated vapor is metered to a thruster purely by temperature control of small-bore heated channels and a thermal restrictor/valve. Anticipates claims to (a) solid-propellant (iodine) electric thruster with a heated-reservoir sublimation feed; (b) thermally-throttled vapor mass-flow control via heated micro-channel conductance; (c) tankless, regulator-free propellant feed for a small-satellite thruster; (d) shared iodine-vapor feed serving both gridded-ion and cold-gas modes. Prior art for ThrustMe and other iodine-propulsion patents.
 
 ## Microsoft Project Silica + DNA Storage Research Devices (2019-03)
 
@@ -374,6 +474,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open OB1 GitHub project release 2023; community fork from earlier Wijnen Pearce pressure controller.
 - **ip status**: open-copyleft
 - **prior art notes**: Discloses 4-channel open-hardware pressure flow controller with PID-based pressure regulation as an open clone of the Elveflow OB1 architecture. Anticipates open-hardware multi-channel pressure-driven flow controller with PID feedback claims.
+
+## Facility 3826 Polymer synthesis and robot-manufacture vats (Atomic Heart) (2023-02-21)
+
+- **id**: `atomic-heart-polymer-robot-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Mundfish
+- **disclosure**: Atomic Heart (Mundfish / Focus Entertainment, 2023-02-21); the Polymer production facilities, the robot-assembly vats, and the Polymer-based healing/upgrade stations; IMDB tt9847512.
+- **ip status**: fictional
+- **prior art notes**: Discloses a campus-scale process plant synthesizing a programmable liquid feedstock and distributing it to (a) automated assembly cells and (b) a network of point-of-use metered-dispense stations performing repair/upgrade/crafting. Cited aspects: the feedstock-to-assembly distribution architecture and the networked metered-dispense station model with per-use aliquoting. Anticipates systems-level claims to integrated feedstock-synthesis-plus-distributed-dispense manufacturing and to point-of-use metered fluid stations driven from a central reservoir. Pairs with half-life Black Mesa and Combine ration-vat fictional entries.
 
 ## Ansa Biotechnologies Enzymatic DNA Synthesis Platform (2023-06)
 

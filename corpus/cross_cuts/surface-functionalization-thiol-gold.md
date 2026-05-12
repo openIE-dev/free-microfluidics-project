@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `surface-functionalization-thiol-gold`
 
-**9 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1996-12-12
+Earliest disclosure: 1984-10-23
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Screen-printed electrode (SPE) fabrication for biosensors and glucose strips (1984-10-23)
+
+- **id**: `screen-printed-biosensor-electrode-deposition`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: MediSense (now Abbott), Genetics International; ink suppliers DuPont (silver/silver-chloride and carbon pastes), Sun Chemical/Gwent Group, Acheson/Henkel; screen printers DEK, EKRA, Asys
+- **disclosure**: US4545382A Sensor for components of a liquid mixture (Higgins, Hill & Plotkin, Genetics International / MediSense - the foundational screen-printed enzyme-electrode glucose strip); see also Cass et al., Ferrocene-mediated enzyme electrode for amperometric determination of glucose, Anal. Chem. 56, 667 (1984).
+- **ip status**: patented
+- **prior art notes**: Discloses screen-mesh thick-film deposition used to fabricate patterned electrochemical electrodes plus a laminated sub-5-microliter capillary reaction chamber - the canonical screen-printed biosensor strip. Anticipates claims to (a) screen-printed working/counter/reference electrode set on a flexible substrate for amperometric biosensing; (b) overprinted dried enzyme-mediator reagent layer on a screen-printed working electrode; (c) laminated spacer/cover defining a capillary-fill blood chamber over screen-printed electrodes. Foundational prior art for glucose-strip and screen-printed-immunosensor patents (Abbott, Roche, LifeScan, Bayer/Ascensia).
 
 ## Whitesides Soft Lithography Patent Family (1996-12-12)
 
@@ -25,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Harvard/Whitesides foundational soft-lithography patent family. Anchors claims around: (a) replica molding of an elastomeric stamp from a master patterned by photolithography; (b) microcontact printing of a self-assembled monolayer using the stamp; (c) use of PDMS as the elastomer; (d) fabrication of microfluidic structures by sealing a molded PDMS slab against a flat substrate. Companion academic disclosures already in corpus: duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, kumar-whitesides-1993-microcontact-printing. Expiry: 2016-2018 for earliest members; the bulk of the technique is now public domain. Defensive: any entity asserting against PDMS replica molding faces 25+ years of public-domain prior art.
 
+## Whitesides 2001 soft lithography in biology and biochemistry (2001-08-01)
+
+- **id**: `whitesides-2001-soft-lithography-in-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard (with Ingber, Wyss precursor)
+- **disclosure**: Whitesides, G. M.; Ostuni, E.; Takayama, S.; Jiang, X.; Ingber, D. E. Soft lithography in biology and biochemistry. Annu. Rev. Biomed. Eng. 2001, 3, 335-373. DOI: 10.1146/annurev.bioeng.3.1.335
+- **ip status**: public-domain
+- **prior art notes**: The canonical review of soft lithography applied to cell biology and biochemistry: microcontact printing of self-assembled monolayers, replica molding of PDMS, microfluidic and stencil patterning of cells and proteins, laminar-flow (multi-stream) patterning to address subcellular regions, and the use of these to build patterned co-cultures and surface gradients. As prior art it anticipates claims to: patterning adherent cells or biomolecules on a substrate by PDMS stamp / stencil / microfluidic channel; laminar co-flow delivery of distinct fluids to selected portions of a cell or surface; and the general toolkit of PDMS-based bio-patterning. Companion to xia-whitesides-1998-soft-lithography-review and the Ingber organ-chip lineage (huh-2010-lung-on-chip). One of the most-cited microfluidics-in-biology references.
+
 ## Abbott FreeStyle Navigator Continuous Glucose Monitor (2008-03-12)
 
 - **id**: `abbott-freestyle-navigator-cgm`
@@ -34,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA PMA P050020 March 12 2008; Abbott press release 2008
 - **ip status**: patented
 - **prior art notes**: Discloses Heller's wired-enzyme (osmium polymer) electrode architecture in a wearable subcutaneous filament for continuous glucose monitoring. Anticipates: redox-polymer-mediator electrode chemistry as alternative to peroxide-detection glucose-oxidase systems; the entire architectural pattern of insertable filament + on-skin transmitter that defined the Libre and Navigator lines.
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
 
 ## Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) (2009)
 

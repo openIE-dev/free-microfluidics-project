@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-droplet-pcr-cycling`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bio-Rad press release 2011-09-06; deal value $162M cash plus $35M earnout; QuantaLife technology became QX100/QX200 product line
 - **ip status**: patented
 - **prior art notes**: Consolidation event. Documents Bio-Rad's 2011-09-06 acquisition of QuantaLife (initial $162M plus $35M earnout). The QuantaLife technology, originally developed by Bill Colston and team (formerly Lawrence Livermore), became the Bio-Rad QX100 and QX200 droplet-digital PCR product line (existing entry: bio-rad-qx-ddpcr-system). Six years later, Bio-Rad's 2017 acquisition of RainDance (raindance-bio-rad-acquisition, $72M) consolidated the second major ddPCR patent estate. The combined QuantaLife + RainDance IP gave Bio-Rad a dominant ddPCR market position, which became the basis for Bio-Rad's litigation against 10x Genomics. Defensive value: maps the patent-assignment chain.
+
+## Hindson 2011 high-throughput droplet digital PCR system for absolute quantitation of DNA copy number (2011-10-28)
+
+- **id**: `hindson-2011-droplet-digital-pcr-system-paper`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: QuantaLife, Inc. (Bill Colston / Ben Hindson; spun out of Lawrence Livermore National Laboratory; acquired by Bio-Rad)
+- **disclosure**: Hindson, B. J.; Ness, K. D.; Masquelier, D. A.; Belgrader, P.; Heredia, N. J.; Makarewicz, A. J.; Bright, I. J.; Stevens, M. Y.; Ortega, B. L.; Karlin-Neumann, G. A.; Bava, A.; Bright, J.-M.; Colston, B. W. High-throughput droplet digital PCR system for absolute quantitation of DNA copy number. Anal. Chem. 2011, 83, 8604-8610. DOI: 10.1021/ac202028g
+- **ip status**: public-domain
+- **prior art notes**: The foundational droplet-digital-PCR system paper: a disposable microfluidic cartridge partitions a single PCR reaction into ~20,000 monodisperse ~1-nL water-in-fluorinated-oil droplets (stabilized by a fluorosurfactant through thermal cycling), the droplets are endpoint-amplified and then streamed single-file past a two-color fluorescence reader, and Poisson statistics on the positive/negative droplet counts give the absolute target concentration with no standard curve - enabling precise copy-number-variation and rare-allele quantification. Anticipates claims to: absolute nucleic-acid quantification by partitioning into thousands of nanoliter droplets, endpoint amplification, droplet-by-droplet fluorescence counting, and Poisson correction; fluorosurfactant-stabilized droplet emulsions that survive PCR thermal cycling; and droplet-flow-cytometry readout of digital assays. HIGH-PRIORITY anchor - the entire droplet-digital-PCR product category (Bio-Rad QX series, etc.) descends from this; related to bio-rad-qx-ddpcr-system and bio-rad-laboratories-patent-estate. QuantaLife / LLNL lineage.
 
 ## 10x Genomics vs Bio-Rad Patent Litigation (RainDance basis) (2015-02-12)
 

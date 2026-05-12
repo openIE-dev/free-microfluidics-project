@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-capillary-passive`
 
-**85 corpus entries disclose this subsystem.**
+**94 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -105,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses the canonical Washburn equation governing capillary-driven liquid penetration into porous media and small-bore tubes. This is THE prior-art anchor for paper-based microfluidics: every commercial lateral-flow assay (pregnancy tests, COVID antigen tests, etc.) operates in the Washburn regime and any patent that claims 'control of assay timing by paper geometry and surface tension' or 'reagent zone metering by Washburn flow' is anticipated. Specifically anticipates: (a) flow-rate control by channel-width modulation in paper devices (Martinez 2007 and descendants); (b) timed reagent release via fluidic-resistance shaping; (c) multi-zone paper devices that rely on predictable wicking front arrival times. Washburn 1921 is uniformly cited by all paper-microfluidic invalidity contentions.
 
+## Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test) (1959-06-01)
+
+- **id**: `gunshot-residue-colorimetric-field-test-kit`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: forensic-science community (Harrison, Gilroy; FBI Laboratory); commercial kits by Sirchie, BVDA, Tri-Tech Forensics, Lynn Peavey
+- **disclosure**: Harrison & Gilroy, Firearms discharge residues, J. Forensic Sci. 4, 184 (1959); modified Griess test for nitrites and sodium-rhodizonate test for lead, as standardized in ASTM E1588 and the FBI/forensic GSR literature; commercial kits e.g. Sirchie GSR collection/test kits.
+- **ip status**: public-domain
+- **prior art notes**: Discloses reagent-impregnated capillary paper used to transfer and colorimetrically map the spatial pattern of propellant- and primer-derived residue around a firearm-discharge hole. Anticipates claims to (a) reagent-paper transfer test for spatially mapping nitrite/lead gunshot residue; (b) sequential Griess-then-rhodizonate development for two-analyte GSR confirmation; (c) colorimetric paper-based shooting-distance determination. Public-domain prior art limiting later patents on paper-based residue-mapping field tests.
+
 ## Dune stillsuit body-fluid reclamation (Frank Herbert original 1965) (1965)
 
 - **id**: `dune-stillsuit-1965-original`
@@ -134,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: LifeScan Inc. (Johnson & Johnson) OneTouch product family. Original 1981 disclosure by Newman.
 - **ip status**: patented
 - **prior art notes**: Foundational disposable glucose test strip with capillary-fill sample chamber, glucose oxidase enzyme layer, and electrochemical detection electrodes. The highest-cumulative-volume microfluidic-equivalent product in history (>10B units shipped since 1980s). Architectural ancestor of every modern blood-glucose test strip and many other electrochemical-detection POC strips.
+
+## Screen-printed electrode (SPE) fabrication for biosensors and glucose strips (1984-10-23)
+
+- **id**: `screen-printed-biosensor-electrode-deposition`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: MediSense (now Abbott), Genetics International; ink suppliers DuPont (silver/silver-chloride and carbon pastes), Sun Chemical/Gwent Group, Acheson/Henkel; screen printers DEK, EKRA, Asys
+- **disclosure**: US4545382A Sensor for components of a liquid mixture (Higgins, Hill & Plotkin, Genetics International / MediSense - the foundational screen-printed enzyme-electrode glucose strip); see also Cass et al., Ferrocene-mediated enzyme electrode for amperometric determination of glucose, Anal. Chem. 56, 667 (1984).
+- **ip status**: patented
+- **prior art notes**: Discloses screen-mesh thick-film deposition used to fabricate patterned electrochemical electrodes plus a laminated sub-5-microliter capillary reaction chamber - the canonical screen-printed biosensor strip. Anticipates claims to (a) screen-printed working/counter/reference electrode set on a flexible substrate for amperometric biosensing; (b) overprinted dried enzyme-mediator reagent layer on a screen-printed working electrode; (c) laminated spacer/cover defining a capillary-fill blood chamber over screen-printed electrodes. Foundational prior art for glucose-strip and screen-printed-immunosensor patents (Abbott, Roche, LifeScan, Bayer/Ascensia).
 
 ## de Gennes 1985 - Wetting: statics and dynamics (Rev. Mod. Phys. 57, 827) (1985)
 
@@ -225,6 +245,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-electrode glucose test strip with on-strip interferent correction electrodes: in addition to the main GDH-mediator amperometric working electrode, additional working electrodes detect Hct (impedance), oxidizable interferents (acetaminophen, urate, ascorbate, dopamine), and reducing sugars (maltose, galactose, xylose), with the meter algorithm subtracting interferent contribution from glucose readout. Anticipates: multi-channel POC glucose strips with on-strip interferent correction; Hct compensation electrodes integrated into the same capillary chamber; FDA-clearable strip-based POC glucose for critically ill (where interfering substances and abnormal Hct break older single-electrode strips). Foundational to the Nova approach extending to lactate, ketone, and creatinine strips.
 
+## Busek BET ionic-liquid electrospray micro-thruster (BET-MAX / BET-100) (2006-07-09)
+
+- **id**: `busek-bet-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Busek Co. Inc.
+- **disclosure**: Ziemer et al., Colloid micro-newton thrust development for the LISA Pathfinder mission, AIAA 2006 / Joint Propulsion Conference; see also US7872848B2 Method of operating a colloid thruster (Busek Co. Inc.).
+- **ip status**: patented
+- **prior art notes**: Discloses precision microfluidic propellant metering (porous restrictor / piezo / pressure feed) delivering sub-microliter/s ionic-liquid flow to capillary emitter arrays for finely throttleable electrospray thrust, flight-proven for drag-free control. Anticipates claims to (a) micro-newton-resolution colloid/electrospray thrust by controlled sub-microliter/s propellant feed; (b) porous flow-restrictor metering to an electrospray emitter array; (c) externally-wetted needle electrospray emitter array; (d) ionic-liquid propellant feed system with extractor/accelerator electrodes. Prior art for Busek, Accion and Enpulsion electrospray-propulsion patents.
+
+## Yager 2006 microfluidic diagnostic technologies for global public health (2006-07-27)
+
+- **id**: `yager-2006-microfluidic-diagnostics-global-health`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Paul Yager group, University of Washington (with PATH / Micronics)
+- **disclosure**: Yager, P.; Edwards, T.; Fu, E.; Helton, K.; Nelson, K.; Tam, M. R.; Weigl, B. H. Microfluidic diagnostic technologies for global public health. Nature 2006, 442, 412-418. DOI: 10.1038/nature05064
+- **ip status**: public-domain
+- **prior art notes**: The seminal review of microfluidic diagnostics for the developing world: it lays out the design constraints for instrument-free, low-power, low-cost point-of-care testing (the ASSURED criteria), surveys laminate, paper, and capillary-driven cartridge architectures, and presents diffusion-based assay primitives (H-filter, T-sensor) suited to field use. As prior art it anticipates claims to: instrument-free capillary/laminate microfluidic diagnostic cartridges; integration of sample prep, reaction and colorimetric readout in a disposable card without external pumps; and the general system requirements of resource-limited-setting point-of-care microfluidics. HIGH-PRIORITY anchor - this paper essentially defined the low-cost-diagnostics microfluidics field and anchors paper-microfluidics, lateral-flow-plus-microfluidics, and instrument-light cartridge industries. Companion to brody-yager-1997-h-filter and whitesides-2010-mu-pads-systematic.
+
 ## Paper-based microfluidic devices for distributed point-of-care diagnostics (2007)
 
 - **id**: `martinez-2007-paper-microfluidics`
@@ -255,6 +295,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an oral fluid collection cartridge that combines a sponge-style absorbent collector with a calibrated reservoir and an integrated lateral-flow detection strip in the same disposable. The volume-adequate indicator (a colored window that triggers when the absorbent has reached threshold saturation) anticipates downstream POC saliva cartridges that need to confirm sufficient sample without active sensing. Anticipates: integrated saliva-collection-plus-detection cartridges for drugs of abuse, infectious disease serology, and hormone screening; the 'sample adequacy window' UI pattern; injection-molded saliva collection housings with assay strip in same enclosure.
 
+## Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications (2007-08-08)
+
+- **id**: `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roland Zengerle group, IMTEK, University of Freiburg / HSG-IMIT
+- **disclosure**: Haeberle, S.; Zengerle, R. Microfluidic platforms for lab-on-a-chip applications. Lab Chip 2007, 7, 1094-1110. DOI: 10.1039/b706364b
+- **ip status**: public-domain
+- **prior art notes**: The Lab on a Chip review that organized the field into microfluidic platforms by liquid-propulsion principle - capillary, pressure-driven, centrifugal (lab-on-a-disc), electrokinetic, droplet/segmented-flow, and electrowetting digital microfluidics - and compared them by the unit operations each supports and their state of commercialization. As a prior-art survey it anticipates claims framing combinations of these propulsion principles and unit operations as integrated lab-on-chip systems, and documents the centrifugal microfluidic / lab-on-a-disc architecture in detail. Companion to and precursor of mark-2010-microfluidic-platforms-review. From the Zengerle group (Freiburg/HSG-IMIT), a major centrifugal-microfluidics center.
+
+## Berthier and Beebe 2007 flow rate analysis of a surface-tension-driven passive micropump (2007-10-08)
+
+- **id**: `berthier-beebe-2007-surface-tension-passive-micropump`
+- **corpus**: academic
+- **device class**: pump-component
+- **creator**: David J. Beebe group, University of Wisconsin-Madison
+- **disclosure**: Berthier, E.; Beebe, D. J. Flow rate analysis of a surface tension driven passive micropump. Lab Chip 2007, 7, 1475-1478. DOI: 10.1039/b707637a
+- **ip status**: public-domain
+- **prior art notes**: Provides the quantitative theory of surface-tension-driven passive pumping: placing a small drop on the inlet and a larger drop on the outlet of a microchannel creates a Laplace-pressure difference (smaller drop has higher internal pressure) that pumps fluid from small to large drop, with the paper deriving the flow-rate-versus-drop-radii relationship and channel-resistance dependence. Anticipates claims to: pumpless microfluidic flow driven by the curvature/Laplace-pressure difference between two unequal sessile drops on inlet and outlet ports; pipette-actuated microchannel perfusion without tubing or instruments; and design rules sizing inlet/outlet drops to set flow rate. Foundational for open-microfluidics, suspended-microfluidics, and pipette-format high-throughput cell assays. From the Beebe lab (Wisconsin), with Glennys Mensing / Glenn Walker antecedents (Walker & Beebe 2002).
+
 ## Whitesides Paper Microfluidics Patent Family (2007-10-12)
 
 - **id**: `whitesides-patent-family-paper-microfluidics`
@@ -274,6 +334,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA PMA P050020 March 12 2008; Abbott press release 2008
 - **ip status**: patented
 - **prior art notes**: Discloses Heller's wired-enzyme (osmium polymer) electrode architecture in a wearable subcutaneous filament for continuous glucose monitoring. Anticipates: redox-polymer-mediator electrode chemistry as alternative to peroxide-detection glucose-oxidase systems; the entire architectural pattern of insertable filament + on-skin transmitter that defined the Libre and Navigator lines.
+
+## Roll-to-roll gravure printing ink-cell and doctor-blade metering for printed electronics (2008-04-17)
+
+- **id**: `roll-to-roll-gravure-printed-electronics-ink-metering`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: academic and industrial (UC Berkeley Subramanian group; Bobst, Windmöller & Hölscher, Schepers/BST gravure lines; VTT, Holst Centre printed-electronics pilot lines)
+- **disclosure**: Sung, de la Fuente Vornbrock & Subramanian, Scaling and optimization of gravure-printed silver nanoparticle lines for printed electronics, IEEE Trans. CPMT 30(4), 2008; see also Kang et al., Direct gravure printing of source/drain electrodes, IEEE EDL 2010.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses microscale-cell volumetric ink metering plus doctor-blade wiping applied to functional electronic inks at web scale - a self-metering microreservoir-array fluidic process. Anticipates claims to (a) gravure deposition of nanoparticle-conductor inks via engraved microcells; (b) cell-geometry control of transferred functional-ink volume and printed line width; (c) roll-to-roll gravure printing of OTFT/sensor/antenna layers with inline sintering. Prior art that limits later patents claiming generic gravure-printed-electronics processes.
 
 ## Theranos Capillary Blood Microsampling Patent (2008-09-16)
 
@@ -434,6 +504,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shanghai Ruiyu (Alit) CountStar BioMed cell counter product launch, 2013; Sysmex distribution partnership 2015.
 - **ip status**: patented
 - **prior art notes**: Discloses a disposable plastic slide with capillary fill and imaging window for automated brightfield cell counting. Anticipates capillary-fill cell-counting slide with paired AO/PI fluorescence claims.
+
+## Accion Systems TILE ionic-liquid electrospray thruster (2013-09-03)
+
+- **id**: `accion-tile-ionic-liquid-electrospray-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Accion Systems, Inc. (technology from the MIT Space Propulsion Laboratory, Lozano group)
+- **disclosure**: US8324593B2 Iodine-compatible hall effect... (no) - use US8324593 placeholder removed; primary: Lozano & Martinez-Sanchez, Ionic liquid ion sources, J. Colloid Interface Sci. 282, 415 (2005) and US9194379B1 Field emission/ionic liquid electrospray emitter array (Massachusetts Institute of Technology / Accion Systems).
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated electrospray emitter array fed by passive capillary/porous-media wicking of an ionic-liquid propellant from a reservoir, with an extractor grid emitting ions/droplets and bipolar operation - a passive microfluidic propellant-feed thruster. Anticipates claims to (a) passive capillary feed of an ionic-liquid propellant to an emitter array (no pump/valve/pressurant); (b) porous-tip electrospray emitter array on a microfabricated chip; (c) tiled/modular electrospray thruster scaled by emitter count; (d) bipolar ionic-liquid electrospray operation. Foundational small-satellite electrospray-propulsion prior art.
 
 ## Abbott FreeStyle Libre continuous glucose monitor (2014)
 
@@ -704,6 +784,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Olive Diagnostics Ltd. product launch 2021; olivedx.com; CE mark 2022
 - **ip status**: patented
 - **prior art notes**: Discloses a passive in-toilet optical urine analyzer that monitors a free-flowing urine stream rather than collecting a discrete sample. Anticipates: passive in-toilet urinalysis architectures; consumable-free continuous urinalysis using optical interrogation of free flow; the architectural pattern of clip-on bathroom-fixture biosensors for continuous biomarker monitoring.
+
+## Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System (2021)
+
+- **id**: `babson-diagnostics-ac-workcell-microfluidic`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Babson Diagnostics
+- **disclosure**: Babson Diagnostics (Austin, Texas) aC Workcell / BetterWay disclosures and patents on automated preparation of small capillary-blood samples for routine clinical chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a fingerstick collection device plus a microfluidic sample-prep cartridge that meters, anticoagulates, mixes and separates plasma from microliter-scale capillary blood so it can be run on standard automated analyzers. Anticipates: capillary-blood microfluidic sample-prep cartridges decoupling tiny samples from standard lab instruments; retail-pharmacy workcell architectures. Companion to truvian-health-desktop-blood-analyzer-disc and sight-diagnostics-olo (POC CBC).
 
 ## Abbott BinaxNOW COVID-19 Antigen Self Test (OTC) (2021-03)
 

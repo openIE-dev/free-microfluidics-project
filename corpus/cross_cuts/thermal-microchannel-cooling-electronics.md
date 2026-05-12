@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-microchannel-cooling-electronics`
 
-**32 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1960
 
@@ -44,6 +44,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dan Simmons, Hyperion (Doubleday 1989) ISBN 978-0-385-24949-4; The Fall of Hyperion (1990) ISBN 978-0-385-26747-4 — Brawne Lamia, John Keats persona, Severn arcs.
 - **ip status**: fictional
 - **prior art notes**: Brawne Lamia and the Keats/Severn personas depicted as AI personalities resident in biological substrates with fluidic neural interfaces. Architectural prior art for: AI-persona biological-substrate hosts maintained by continuous fluidic neural-interface perfusion; useful for 'AI-on-biology hybrid host with continuous reagent maintenance' speculative claims.
+
+## Automotive A/C microchannel (parallel-flow) condenser and evaporator (1991-09-24)
+
+- **id**: `automotive-microchannel-condenser-evaporator`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Denso (Nippondenso), Modine Manufacturing, Mahle (Behr), Valeo, Hanon Systems; multiport-tube extruders incl. Sapa/Hydro
+- **disclosure**: US5048602A Condenser for automotive air conditioning systems (Nippondenso); see also US5172761A (Showa Aluminum) heat exchanger with multiport flat tubes; SAE technical papers on parallel-flow automotive condensers, early 1990s.
+- **ip status**: patented
+- **prior art notes**: Discloses arrays of sub-millimeter parallel microchannels in extruded flat tubes, with louvered fins and baffled headers for multi-pass refrigerant flow, brazed monolithically - the canonical automotive microchannel heat exchanger. Anticipates claims to (a) multiport flat-tube microchannel condenser/evaporator; (b) header-baffle multi-pass routing through a microchannel tube bank; (c) brazed-aluminum microchannel HX for mobile refrigeration; (d) low-charge microchannel A/C with R-1234yf. Prior art for Modine, Mahle/Behr, Valeo, Hanon microchannel-HX patents and a relative of EV battery cold-plate designs.
 
 ## Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks (1994)
 
@@ -204,6 +214,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PowerCell Sweden AB founding 2008 (Volvo SOFC spinout); Karlsson, P.; Lundberg, J.; Sjöstrand, M. 'Diesel-fueled SOFC APU using a microchannel reformer' SAE Technical Paper 2011-01-2271, 2011; PowerCell datasheet rev 2018; Volvo Powertrain microchannel reformer prior art DE19712114A1 1997
 - **ip status**: patented
 - **prior art notes**: Discloses a diffusion-bonded stainless-steel microchannel autothermal reformer with catalyst-coated reaction channels and parallel combustion channels for in-situ heating, sized for vehicle-APU SOFC integration. Anticipates patent claims directed to integrated microchannel reformer-combustor architectures for distributed hydrogen production. Pairs with Velocys (FT side) and Air Products (steam reforming) to broadly cover the microchannel-reformer prior art.
+
+## EV traction-inverter power-module microchannel cold plate (pin-fin / ShowerPower-class) (2008-06-12)
+
+- **id**: `ev-power-electronics-microchannel-cold-plate`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Danfoss Silicon Power (ShowerPower), Semikron, Infineon (HybridPACK), Wolfspeed, Hitachi, Toyota/Denso power-control units; cold plates by Wieland, Mersen
+- **disclosure**: US20080144291A1 / US7393226B2 Power module assembly with integrated micro/mini-channel cooler (Semikron / DenmarkPower-class disclosures); see also Schulz-Harder, Efficient cooling of power electronics, 2008 PCIM; Danfoss ShowerPower cooling concept.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel/pin-fin liquid cooling integrated with a power-semiconductor baseplate or substrate, including distributed-jet architectures for uniform coolant temperature. Anticipates claims to (a) pin-fin baseplate microchannel cooler for an IGBT/SiC module; (b) direct-substrate (baseplate-less) microchannel cooling of power dies; (c) distributed parallel-jet (ShowerPower-type) cooler for uniform die temperature; (d) shared-manifold multi-module inverter cooler. Prior art for Danfoss, Semikron, Infineon, Toyota/Denso power-module cooling patents.
+
+## Automotive PEM fuel-cell bipolar-plate microchannel flow field (Toyota Mirai / Hyundai NEXO class) (2008-12-23)
+
+- **id**: `toyota-mirai-fuel-cell-bipolar-plate-flow-field`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Toyota Motor Corporation (Mirai), Hyundai/Kia (NEXO), Honda, Ballard, Plug Power/Hydrogenics; plate forming by Dana, Borit, Gräbener
+- **disclosure**: US7470483B2 / US20090029235A1 Fuel cell separator and fuel cell (Toyota Motor Corp.); see also Yoshida & Kojima, Toyota MIRAI fuel cell vehicle and progress toward a future hydrogen society, Electrochem. Soc. Interface 24(2), 45 (2015).
+- **ip status**: patented
+- **prior art notes**: Discloses bipolar plates bearing sub-millimeter reactant and coolant microchannel networks, including 3D lattice cathode flow fields for oxygen transport and water removal, stacked in series - microchannel fluid distribution at stack scale. Anticipates claims to (a) microchannel flow-field bipolar plate for a PEM fuel cell; (b) 3D mesh/lattice cathode flow field for enhanced O2 transport and water management; (c) interleaved coolant microchannel network in a stamped metal bipolar plate. Prior art for Toyota, Hyundai, Honda, GM, Ballard fuel-cell-plate patents.
 
 ## Eclipse Phase synthmorph internal fluid-skeleton and lubricant systems (2009)
 

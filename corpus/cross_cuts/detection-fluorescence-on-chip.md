@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-fluorescence-on-chip`
 
-**187 corpus entries disclose this subsystem.**
+**233 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex Corporation hematology analyzer family (XN-1000, XN-2000, etc.). https://www.sysmex.com
 - **ip status**: patented
 - **prior art notes**: Microfluidic flow-cell architecture for clinical hematology counting (CBC differential): Coulter-impedance counting + flow cytometry + reagent mixing on integrated cartridge. Sysmex is the dominant global hematology analyzer vendor with a long history of flow-cell innovation predating the µTAS era. The flow-cell architectures used in modern Sysmex XN-series instruments are direct descendants of 1970s-era Coulter Counter and Technicon SMA designs but at substantially smaller scale.
+
+## Reservoir-on-chip etched-glass micromodel for enhanced oil recovery and pore-scale flow (1983-08-01)
+
+- **id**: `reservoir-on-chip-etched-glass-micromodel`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: academic and oil-industry research (Lenormand at IFP/CNRS; Mattax & Kyte at Humble Oil; later Stanford, Univ. of Texas, Imperial College, Shell/Total/BP/ExxonMobil micromodel labs; commercialized via Micronit, Dolomite, Stratum Reservoir)
+- **disclosure**: Lenormand, Touboul & Zarcone, Numerical models and experiments on immiscible displacements in porous media, J. Fluid Mech. 189, 165 (1988); earlier etched-glass micromodel work by Mattax & Kyte (1961) Ever see a waterflood?, Oil & Gas J., and Lenormand et al. (1983); modern lab-on-chip micromodels reviewed in Lifton, Microfluidics: an enabling screening technology for enhanced oil recovery, Lab Chip 16, 1777 (2016).
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an etched two-dimensional pore-throat network chip with controllable geometry and wettability for visualizing pore-scale multiphase displacement and screening EOR fluids. Anticipates claims to (a) etched-glass/silicon micromodel reproducing reservoir-rock pore topology for multiphase-flow imaging; (b) microfluidic screening of enhanced-oil-recovery chemical formulations by direct observation of incremental recovery; (c) wettability-patterned pore-network chip for capillary-trapping studies; (d) micromodel-based validation of pore-network/DNS reservoir-flow simulations. Foundational and prior-art-rich; limits later patents claiming generic reservoir-on-chip devices.
 
 ## AquaBounty AquAdvantage transgenic Atlantic salmon genotyping (1989)
 
@@ -135,6 +145,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Lockhart 1996 US5556752 patent covers multi-color fluorescent labeling on photolithographic high-density GeneChip arrays with integrated fluidic hybridization. Foundational disclosure for downstream microarray and even sequencing IP. Anticipates claims directed to multi-color fluorescent hybridization assays on high-density photolithographic substrates.
 
+## Burns 1996 microfabricated structures for integrated DNA analysis (1996-05-28)
+
+- **id**: `burns-1996-microfabricated-dna-analysis-pnas`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Burns / Burke / Mastrangelo group, University of Michigan
+- **disclosure**: Burns, M. A.; Mastrangelo, C. H.; Sammarco, T. S.; Man, F. P.; Webster, J. R.; Johnsons, B. N.; Foerster, B.; Jones, D.; Fields, Y.; Kaiser, A. R.; Burke, D. T. Microfabricated structures for integrated DNA analysis. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 5556-5561. DOI: 10.1073/pnas.93.11.5556
+- **ip status**: public-domain
+- **prior art notes**: The direct precursor to the famous Burns 1998 Science integrated DNA analysis device (burns-1998-integrated-dna-analysis-device). Discloses microfabricated silicon-glass structures combining nanoliter drop metering by hydrophobic surface patterning, thermal-pneumatic (air-bubble) pumping driven by integrated resistive heaters, on-chip mixing of metered drops, a temperature-controlled reaction chamber, and an integrated capillary electrophoresis channel for product size analysis - all on a single wafer. Anticipates claims to: monolithic integration of metering+reaction+separation on a microfabricated substrate; thermal/gas-expansion actuation of discrete aqueous plugs in hydrophilic channels bounded by hydrophobic regions; on-chip drop merging by channel geometry; and end-to-end DNA assay automation in a chip-scale device. Predates the 1998 Science paper by two years.
+
 ## LightCycler real-time rapid PCR (Wittwer 1997) (1997)
 
 - **id**: `wittwer-1997-rapid-cycler`
@@ -165,6 +185,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses a multi-week pediatric in-vivo gene-resequencing therapy with a known distribution of outcomes (enhanced; destabilized) and an aftercare institution. Anticipates generic claims to staged in-vivo somatic resequencing protocols and to outcome-stratified post-therapy care pathways. Pairs with gattaca-instant-genome-readout and star-trek-tng-masterpiece-society (below).
 
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Research International RAPTOR portable fluidic immunoassay analyzer (2000-09-12)
+
+- **id**: `research-international-raptor-fluidic-immunoassay-analyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Research International, Inc. (technology lineage from the Naval Research Laboratory fiber-optic biosensor program)
+- **disclosure**: US6118126A Method for enhancing fluorescence (Research International, evanescent-wave fiber-optic biosensor); see also Anderson et al., A fiber-optic biosensor: combination tapered fibers designed for improved signal acquisition, Biosens. Bioelectron. 8, 249 (1993); RAPTOR product disclosures circa 2000-2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable microfluidic immunoassay coupon with integrated pump, valves and reagent storage running an automated multiplexed sandwich fluoroimmunoassay over antibody-coated fiber waveguides with evanescent-wave readout. Anticipates claims to (a) disposable fluidic coupon with on-board pump/valves for an automated sandwich immunoassay; (b) multi-fiber evanescent-wave fluoroimmunoassay biosensor for biothreats; (c) reusable-analyzer-plus-single-use-cartridge architecture for field immunoassay; (d) on-coupon reagent blister and waste containment for a portable assay. Prior art for Research International, MesoScale, and competing portable-immunoassay-cartridge patents; orthogonal-confirmation partner to UV-LIF bioaerosol triggers.
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
+
 ## Microfluidic flow cytometer architectures (academic) (2002)
 
 - **id**: `berkeley-cellium-flow-cytometer-2009`
@@ -194,6 +244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7170050; US7476503; US7906284; US10208329; US7820983 (Pacific Biosciences)
 - **ip status**: patented
 - **prior art notes**: Pacific Biosciences SMRT Cell patent family. Anchors claims around: (a) array of sub-wavelength (~70 nm) zero-mode waveguides on a fused-silica substrate clad with aluminum; (b) single-molecule polymerase tethered at the bottom of each ZMW; (c) phospholinked nucleotides emitting wavelength-distinct fluorescence on incorporation; (d) total-internal-reflection-style illumination with confocal-zone selectivity per ZMW; (e) Revio (existing entry pacbio-revio-smrt-cell) and Sequel II form factors. Companion existing entry: eid-2009-pacbio-smrt. Anticipates ZMW-based single-molecule sequencing chips and any nanofluidic chip with a sub-wavelength aperture array for single-molecule confinement.
+
+## Charles River Celsis Rapid Microbial Detection (ATP Bioluminescence) System (2002)
+
+- **id**: `charles-river-celsis-atp-bioluminescence-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Charles River Laboratories (Celsis)
+- **disclosure**: Celsis International (acquired by Charles River 2015) Celsis Advance / Accel rapid microbial detection system literature; AMPiScreen ATP bioluminescence reagent kits
+- **ip status**: patented
+- **prior art notes**: Discloses a microplate-format assay with on-instrument precision injectors that sequentially dose lysis and luciferin/luciferase reagents into each well followed by per-well photon counting, used as a rapid microbiology release screen. Anticipates: automated reagent-injection luminometry in disposable microwell format; the architecture of a rapid-micro screen built on dispensed-reagent bioluminescence. The reagent-injection fluidics and sealed per-well optics are the microfluidic-relevant subsystems.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 
@@ -245,6 +305,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: CapitalBio patent family covers microarray-on-cartridge POC infectious-disease platforms, with hybridization and detection integrated. Anticipates claims directed to integrated microarray-fluidic POC cartridges for infectious-disease panel detection.
 
+## Lonza PyroGene / PyroTec Recombinant Factor C Endotoxin Test (2003)
+
+- **id**: `lonza-pyrogene-recombinant-factor-c-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Lonza
+- **disclosure**: Lonza Walkersville PyroGene Recombinant Factor C Endotoxin Detection Assay protocol; later PyroTec PRO cartridge and Nebula reader datasheets (2018-2021)
+- **ip status**: patented
+- **prior art notes**: Discloses recombinant Factor C endotoxin detection in microplate and single-use cartridge fluidic formats with dried fluorogenic reagents and on-board controls. Anticipates: animal-free endotoxin cartridges; fluorogenic-readout disposable BET assays; the substitution of LAL with recombinant cascade enzymes in a cartridge architecture. Sister to charles-river-endosafe-nexgen-pts-lal-cartridge (chromogenic LAL) and biomerieux-endonext-recombinant-factor-c.
+
+## SOTAX CE 7smart USP Apparatus 4 Flow-Through Dissolution Cell (2003)
+
+- **id**: `sotax-ce7smart-flow-through-dissolution-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SOTAX
+- **disclosure**: SOTAX AG CE 7smart Flow-Through Cell Apparatus brochure and operator manual; USP <711> Dissolution, Apparatus 4 (flow-through cell) compendial method
+- **ip status**: patented
+- **prior art notes**: Discloses a small-bore glass flow-through chamber with a packed laminar-flow inlet that continuously perfuses fresh dissolution medium past a dosage form, with piston-pump flow control and inline UV detection. Anticipates: small-volume perfusion chambers for controlled dissolution/release kinetics; bead-packed laminar-flow inlet sections as flow conditioners; the architecture of a compendial dissolution test implemented as a continuously perfused micro-chamber. The flow-through cell is the most microfluidic of the USP dissolution apparatuses.
+
+## Anton Paar Alcolyzer (NIR Alcohol Flow Cell) with DMA Density Meter (2003)
+
+- **id**: `anton-paar-alcolyzer-beer-wine-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH Alcolyzer Wine / Beer ME and DMA density meter datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses an oscillating microbore U-tube density transducer in series with a narrow NIR optical flow cell, both perfused by a few-mL beverage sample, for simultaneous density and selective ethanol measurement. Anticipates: U-tube resonant density cells as microfluidic transducers; serial flow-cell + densitometer beverage analyzers; selective-NIR ethanol determination in a flow cell. Companion to foss-winescan-so2-ftir and anton-paar-dma-wine-density-flow-cell.
+
+## Song 2003 microfluidic system for controlling reaction networks in time (plug-based) (2003-02-10)
+
+- **id**: `song-ismagilov-2003-plug-based-reaction-networks`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Song, H.; Tice, J. D.; Ismagilov, R. F. A microfluidic system for controlling reaction networks in time. Angew. Chem. Int. Ed. 2003, 42, 768-772. DOI: 10.1002/anie.200390203
+- **ip status**: public-domain
+- **prior art notes**: Establishes plug-based (segmented-flow droplet) microfluidics for controlled reaction kinetics: aqueous reagents are compartmentalized into nanoliter plugs by an immiscible carrier fluid, internally mixed within milliseconds by chaotic advection in winding channels, and transported so that downstream position maps directly to reaction time - eliminating Taylor dispersion and enabling time-resolved chemistry/kinetics in a microchannel. Anticipates claims to: segmented-flow plug reactors for kinetic measurement with time encoded by channel length; rapid intra-plug mixing by serpentine-channel chaotic advection; and merging of distinct reagent plugs to trigger reactions. Foundational for the Ismagilov plug-microfluidics lineage (cf. du-ismagilov-2009-slipchip) and for droplet-based screening/crystallization generally.
+
 ## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
 
 - **id**: `quake-patent-family-digital-pcr-on-chip`
@@ -254,6 +354,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7459315 priority 2003-04-03; US8124032; US8252539 (Caltech / Stanford-derived inventors)
 - **ip status**: patented
 - **prior art notes**: Quake-group digital-PCR patent family covering on-chip partitioning of a nucleic-acid sample into a large array of independent reactors followed by amplification and Poisson-statistical absolute quantification. Anchors claims around: (a) MLSI valve isolation of an array of nL/pL reaction chambers; (b) loading dilute template such that chambers contain 0 or 1 target by Poisson distribution; (c) thermal cycling and end-point fluorescence readout per chamber; (d) absolute quantification by counting positive partitions. Different family from droplet-based ddPCR (RainDance/QuantaLife/Bio-Rad lineage) but co-anticipates the absolute-quantification claim space. Vogelstein-Kinzler 1999 (vogelstein-kinzler-1999-digital-pcr) is the conceptual prior art. This patent family fed Fluidigm BioMark digital-array chemistry. Expiry: family members 2023-2026.
+
+## FLIR Fido X-series handheld explosives trace detector (amplifying-fluorescent-polymer sensing) (2003-05-13)
+
+- **id**: `flir-fido-x-handheld-explosives-trace-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / Nomadics; amplifying-fluorescent-polymer chemistry from the Swager group at MIT)
+- **disclosure**: Yang & Swager, Fluorescent porous polymer films as TNT chemosensors, J. Am. Chem. Soc. 120, 11864 (1998); US6558626B1 / US6589731B1 Detection of nitro-containing compounds using amplifying fluorescent polymers (Massachusetts Institute of Technology / Nomadics); Fido product line from Nomadics -> ICx -> FLIR.
+- **ip status**: patented
+- **prior art notes**: Discloses an air-sampling micro-flow cell over an amplifying fluorescent polymer film with optical quenching readout, plus a thermal sample-trap concentrator - a microfluidic/micro-gas-flow chemical sensor. Anticipates claims to (a) air-flow cell over an amplifying fluorescent conjugated-polymer film for trace nitro-compound vapor detection; (b) molecular-wire-amplified fluorescence-quenching explosives sensor; (c) thermal sample-trap card concentrating swiped residue into a vapor-detection flow cell; (d) multi-channel polymer-array explosives detector. Prior art for FLIR/ICx/Nomadics and competing fluorescent-polymer trace-detector patents.
 
 ## Cepheid GeneXpert cartridge (2004)
 
@@ -284,6 +394,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: US7820427; US8420017; US8475743; US9663819 (Fluidigm Corporation)
 - **ip status**: patented
 - **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
+
+## LIGHTHOUSE Instruments FMS / VeriPac Laser Headspace Analysis (Container-Closure Integrity) (2004)
+
+- **id**: `lighthouse-instruments-fms-laser-headspace-cci`
+- **corpus**: private
+- **device class**: other
+- **creator**: LIGHTHOUSE Instruments
+- **disclosure**: LIGHTHOUSE Instruments FMS series headspace analyzer datasheets; USP <1207> Container-Closure Integrity, deterministic headspace methods
+- **ip status**: patented
+- **prior art notes**: Discloses interrogating the gas volume inside a sealed pharmaceutical container as the optical absorption cell, using tunable-diode-laser spectroscopy to read O2/CO2/H2O/pressure without breaching the container. Anticipates: non-contact headspace gas analysis as a leak/integrity test; using a sealed product container as an in-situ spectroscopic cell. Adjacent prior art to other CCI methods (vacuum decay, helium leak) listed in notes.
+
+## FLIR IBAC bioaerosol identifier and particulate-collector unit (2004-08-26)
+
+- **id**: `flir-ibac-bioaerosol-trigger-collector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: FLIR Systems (via ICx Technologies / BioVigilant); related fielded units include the US JBPDS triggers
+- **disclosure**: US20040159799A1 / US7126687B2 Method and instrument for detecting biological agents in aerosol (Hairston/Ho-style UV laser-induced fluorescence; ICx BioVigilant / FLIR lineage); see also Ho, Future of biological aerosol detection, Anal. Chim. Acta 457, 125 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses an aerodynamic micro-nozzle/virtual-impactor concentrator feeding a single-particle UV-LIF interrogation cell, plus an integrated aerosol-to-liquid microfluidic collector for confirmatory assays - a trigger-and-collect bioaerosol microfluidic system. Anticipates claims to (a) aerodynamic-focusing micro-nozzle into a single-particle UV-fluorescence/scatter bioaerosol cell; (b) intrinsic-fluorophore (tryptophan/NADH) single-particle bio-trigger; (c) integrated aerosol-to-liquid collector capturing trigger-flagged particles for PCR/immunoassay confirmation; (d) networked bioaerosol warning sensor with on-board collection. Prior art for FLIR/ICx/BioVigilant and competing UV-LIF bioaerosol-detector patents.
 
 ## 454 Life Sciences PicoTiterPlate sequencing (2005)
 
@@ -335,6 +465,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Establishes how to choose the ultrasonic drive frequency for half-wavelength (and multi-node) standing-wave resonances in glass/silicon microchannels so that the acoustic radiation force concentrates particles or cells at pressure nodes - the design rule behind essentially all bulk-acoustic-wave acoustophoresis chips. Discloses: matching the channel width to an integer number of acoustic half-wavelengths in the fluid for a chosen transducer frequency; the resulting node positions and the dependence of trapping strength on frequency, channel resonance Q, and acoustic contrast factor; and integration of standing-wave trapping with confocal fluorescence detection for bead-based bioaffinity assays. Anticipates claims to frequency-tuned acoustophoretic microchannel separators, half-wavelength-resonator chip dimensioning, and acoustically enriched on-chip immunoassays. Companion to laurell-2007-acoustophoresis and the King 1934 / Yosioka-Kawasima 1955 / Gorkov 1962 acoustic-radiation-force lineage.
 
+## Maselli Misure Inline CO2 / Brix / Inversion Beverage Process Analyzer (2005)
+
+- **id**: `maselli-uc4sa-inline-co2-brix-soft-drink-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Maselli Misure S.p.A.
+- **disclosure**: Maselli Misure S.p.A. (Parma, Italy) inline beverage analyzer datasheets (UC4-SA carbonation/Brix, IBA series)
+- **ip status**: patented
+- **prior art notes**: Discloses a compact inline sampling/measuring cell on a beverage pipe combining critical-angle refractometry and CO2 sensing with valve-controlled product slug handling and closed-loop carbonator/proportioner feedback. Anticipates: inline microscale beverage measuring cells for Brix and carbonation; valve-gated slug sampling from a process pipe; closed-loop beverage-blend control. Mettler-Toledo InPro probes (covered) are a parallel inline-sensor family.
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
+
 ## Developing optofluidic technology through the fusion of microfluidics and optics (2006)
 
 - **id**: `psaltis-2006-optofluidic-review`
@@ -355,6 +505,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed single-molecule counting immunoassay: fluorescent immunocomplexes flow through a confocal interrogation volume in a microfluidic capillary, generating discrete photon bursts that are individually counted rather than ensemble-integrated. Anticipates: capillary-flow single-molecule counting as immunoassay-detection mode (sub-femtomolar sensitivity), and one of the architectural paths now embodied in Quanterix Simoa (microwell counting) and Singulex (capillary counting). Singulex was acquired by EMD Millipore 2018; the architectural disclosures remain part of the foundational prior-art for ultrasensitive POC immunoassays.
 
+## Yager 2006 microfluidic diagnostic technologies for global public health (2006-07-27)
+
+- **id**: `yager-2006-microfluidic-diagnostics-global-health`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Paul Yager group, University of Washington (with PATH / Micronics)
+- **disclosure**: Yager, P.; Edwards, T.; Fu, E.; Helton, K.; Nelson, K.; Tam, M. R.; Weigl, B. H. Microfluidic diagnostic technologies for global public health. Nature 2006, 442, 412-418. DOI: 10.1038/nature05064
+- **ip status**: public-domain
+- **prior art notes**: The seminal review of microfluidic diagnostics for the developing world: it lays out the design constraints for instrument-free, low-power, low-cost point-of-care testing (the ASSURED criteria), surveys laminate, paper, and capillary-driven cartridge architectures, and presents diffusion-based assay primitives (H-filter, T-sensor) suited to field use. As prior art it anticipates claims to: instrument-free capillary/laminate microfluidic diagnostic cartridges; integration of sample prep, reaction and colorimetric readout in a disposable card without external pumps; and the general system requirements of resource-limited-setting point-of-care microfluidics. HIGH-PRIORITY anchor - this paper essentially defined the low-cost-diagnostics microfluidics field and anchors paper-microfluidics, lateral-flow-plus-microfluidics, and instrument-light cartridge industries. Companion to brody-yager-1997-h-filter and whitesides-2010-mu-pads-systematic.
+
+## El-Ali 2006 cells on chips (2006-07-27)
+
+- **id**: `el-ali-2006-cells-on-chips`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Klavs F. Jensen and Peter K. Sorger groups, MIT
+- **disclosure**: El-Ali, J.; Sorger, P. K.; Jensen, K. F. Cells on chips. Nature 2006, 442, 403-411. DOI: 10.1038/nature05063
+- **ip status**: public-domain
+- **prior art notes**: The canonical Nature-insight review of cell biology on microfluidic chips: single-cell hydrodynamic and other trapping, perfusion culture with controlled microenvironments, microfluidic concentration-gradient generators, dynamic-stimulus delivery, on-chip lysis, and integration with downstream nucleic-acid/protein assays for systems-biology-grade single-cell measurements. As a unified prior-art statement it anticipates claims to: microfluidic perfusion culture with programmable soluble-factor gradients; integrated trap-stimulate-lyse-analyze workflows for single cells; and the broad concept of using microfluidics to make time-resolved, quantitative single-cell biology routine. Companion to di-carlo-2006-cell-trap-array and voldman-2002-cell-trap-dep-array. From the MIT Jensen/Sorger labs.
+
+## Craighead 2006 future lab-on-a-chip technologies for interrogating individual molecules (2006-07-27)
+
+- **id**: `craighead-2006-lab-on-chip-single-molecule`
+- **corpus**: academic
+- **device class**: nanofluidic-chip
+- **creator**: Harold G. Craighead group, Cornell University
+- **disclosure**: Craighead, H. Future lab-on-a-chip technologies for interrogating individual molecules. Nature 2006, 442, 387-393. DOI: 10.1038/nature05061
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of nanofluidic and single-molecule lab-on-chip technologies: fabrication and use of sub-100-nm channels, nanopores, zero-mode waveguides, entropic traps and nanoslit confinement to stretch, sort, sequence and optically interrogate individual DNA and protein molecules. As prior art it anticipates claims to: DNA elongation/mapping by electrokinetic transport through a nanofluidic channel; zero-mode-waveguide optical confinement for single-molecule enzymatic observation; entropic-trap nanostructure arrays for size separation; and the integration of such nanostructures into a chip for single-molecule genomics. Anchors the nanofluidics-meets-single-molecule-sequencing prior art. From the Cornell Craighead group.
+
+## Janasek 2006 scaling and the design of miniaturized chemical-analysis systems (2006-07-27)
+
+- **id**: `janasek-manz-2006-scaling-miniaturized-analysis-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andreas Manz group, ISAS Dortmund
+- **disclosure**: Janasek, D.; Franzke, J.; Manz, A. Scaling and the design of miniaturized chemical-analysis systems. Nature 2006, 442, 374-380. DOI: 10.1038/nature05059
+- **ip status**: public-domain
+- **prior art notes**: The definitive scaling-laws treatment of miniaturized chemical analysis: it works through how separation resolution, mixing time, thermal transport, reaction kinetics and detection limits scale with channel dimensions, showing where miniaturization wins (faster diffusive mixing and equilibration, higher field strengths and efficiency in electrophoresis, lower thermal mass) and where it loses (mass-limited detection). As prior art it anticipates claims to: design methodologies that size microchannel features against target analytical performance via dimensional scaling; and the general principle that electrokinetic separation and diffusion-limited operations benefit from scale reduction. Companion to manz 1990 microTAS and stone-2004-engineering-flows-microfluidics. From the Manz group (ISAS Dortmund), originator of microTAS.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
+
 ## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
 
 - **id**: `roche-cobas-6000-modular-fluidics`
@@ -374,6 +574,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Maule J et al., 'Rapid culture-independent microbial analysis aboard the International Space Station (ISS) Stage Two: Quantifying microbial Burden,' Astrobiology 9(8):759-775 (2009), doi:10.1089/ast.2008.0319; Morris HC et al., 'Lab-on-a-Chip Application Development Portable Test System (LOCAD-PTS) on the International Space Station,' SAE Tech. Paper 2007-01-3142 (2007)
 - **ip status**: patented
 - **prior art notes**: LOCAD-PTS is the spaceflight derivative of the Charles River Endosafe PTS handheld endotoxin tester. Microfluidic prior art disclosed: (a) the 4-channel parallel capillary-driven cartridge with lyophilized LAL/glucan-detection reagents and integrated optical absorbance window is itself prior art for any cartridge claiming similar handheld bioburden / pyrogen testing in resource-constrained environments (spaceflight, military forward operating, deep-sea); (b) the qualification of the cartridge for microgravity operation (no syringe / no positive pressure source — purely capillary wicking) is prior art for capillary-driven point-of-care cartridges that are deliberately pump-free for environments where pumping is failure-prone; (c) the published ISS protocol for swab-elute-load-read in <15 min anticipates cartridge-based environmental microbial monitoring patents for industrial and built-environment applications. The Charles River Endosafe US patents are the IP citations; the spaceflight qualification is open-published.
+
+## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
+
+- **id**: `maerkl-quake-2007-mitomi-transcription-factor-binding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Stanford / Caltech
+- **disclosure**: Maerkl, S. J.; Quake, S. R. A systems approach to measuring the binding energy landscapes of transcription factors. Science 2007, 315, 233-237. DOI: 10.1126/science.1131007
+- **ip status**: public-domain
+- **prior art notes**: Discloses the MITOMI architecture: a dense array of PDMS unit cells where a circular button membrane valve is lowered onto a functionalized surface to mechanically trap surface-bound molecular complexes at the instant of measurement, defeating dissociation during washing and enabling thousands of true equilibrium-affinity measurements in parallel - here used to map the complete binding-energy landscape of transcription factors against every DNA sequence variant. Anticipates claims to: a button/doormat membrane valve used to capture and protect a surface-immobilized binding complex during washout; massively parallel on-chip equilibrium binding-constant arrays with in-situ-expressed protein; and microfluidic measurement of full sequence-resolved binding landscapes. The MITOMI button-valve trick is widely reused; this is its origin. Quake-lab MLSI lineage.
+
+## Microfluidic / micro-channel solvent-extraction contactor for nuclear reprocessing (PUREX and minor-actinide separation studies) (2007-06-15)
+
+- **id**: `purex-microfluidic-solvent-extraction-contactor`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: academic and national-lab research (Kitamori group, Univ. of Tokyo; Japan Atomic Energy Agency; Argonne National Laboratory; Idaho National Laboratory; ORNL; Savannah River National Laboratory; CEA/Marcoule)
+- **disclosure**: Tsukahara, Hibara, Kim & Kitamori, Microfluidic chemical processing for nuclear fuel reprocessing - solvent extraction in microchannels; see Hotokezaka et al., Development of the innovative nuclide separation system for high-level radioactive waste using microchannel chip extraction, Prog. Nucl. Energy 47, 439 (2005); also Argonne/SRNL/INL microchannel-contactor reports.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel liquid-liquid extraction contactors (parallel-laminar and slug-flow) with downstream microfluidic phase separation applied to actinide/lanthanide separations in nuclear reprocessing, with low radioactive holdup and numbering-up scalability. Anticipates claims to (a) microchannel solvent-extraction contactor for U/Pu (PUREX) or minor-actinide separation; (b) slug-flow microfluidic liquid-liquid extraction with integrated phase separator; (c) numbered-up parallel microchannel contactor for low-inventory radiochemical processing; (d) on-chip extractant screening for reprocessing flowsheets. Prior art for academic, JAEA, PNNL/Battelle and national-lab microchannel-contactor patents; extends the wave-2/3 radiochemistry lineage.
 
 ## Illumina Solexa sequencing flow cell (2008)
 
@@ -425,6 +645,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Tosoh AIA-360/1800 patent family covers unit-dose immunoassay cartridges with magnetic-bead separation in fluidic format. Anticipates claims directed to unit-dose immunoassay cartridges with magnetic-bead separation subsystems.
 
+## Pion Rainbow Dynamic Dissolution Monitor (in-situ fiber-optic UV) (2008)
+
+- **id**: `pion-rainbow-insitu-dissolution-fiber-optic`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Pion Inc.
+- **disclosure**: Pion Inc. Rainbow Dynamic Dissolution Monitor and AuPRO probe datasheets; Pion fiber-optic dip-probe in-situ dissolution literature
+- **ip status**: patented
+- **prior art notes**: Discloses an immersed fixed-short-pathlength optical interrogation gap (effectively a microfluidic optical cell with no enclosing channel) that measures analyte concentration in situ without withdrawing or pumping sample. Anticipates: probe-format fixed-pathlength absorbance cells for in-process concentration monitoring; the elimination of a sampling fluid path in favor of an in-vessel optical micro-gap. Relevant prior art to fiber-coupled microfluidic absorbance detectors.
+
+## FOSS MilkoScan FT3 / CombiScan FT-IR Flow-Cell Milk Analyzer (2008)
+
+- **id**: `foss-milkoscan-ftir-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FOSS Analytical A/S
+- **disclosure**: FOSS Analytical A/S MilkoScan FT3 / CombiScan datasheets and manuals; IDF/ISO FT-IR milk analysis reference methods
+- **ip status**: patented
+- **prior art notes**: Discloses a thin-path CaF2-windowed mid-IR transmission flow cell fed by an integrated homogenizer and pump for rapid composition analysis of an opaque emulsion, with automatic rinse and thermostatting. Anticipates: sub-50-micron-path IR flow cells for turbid samples; integrated homogenizer-then-flow-cell architectures; FT-IR flow-cell food/beverage analyzers. Same FOSS FT-IR flow-cell lineage as the WineScan and BeerScan analyzers.
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
+
 ## Real-time DNA sequencing from single polymerase molecules (PacBio SMRT) (2009)
 
 - **id**: `eid-2009-pacbio-smrt`
@@ -434,6 +684,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Eid, J. et al. Real-time DNA sequencing from single polymerase molecules. Science 2009, 323, 133–138. DOI: 10.1126/science.1162986
 - **ip status**: patented
 - **prior art notes**: Disclosed Single-Molecule Real-Time (SMRT) sequencing using zero-mode waveguides (ZMWs) — sub-wavelength metal apertures that confine fluorescence excitation to zeptoliter-scale volumes around individual immobilized polymerases. Anticipates: ZMW-array architecture, single-molecule fluorescence sequencing without amplification, and the long-read sequencing market commercialized by PacBio.
+
+## Anton Paar PBA-S Packaged Beverage Analyzer (Beer) (2009)
+
+- **id**: `anton-paar-pba-s-beer-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH PBA-S / PBA-B Packaged Beverage Analyzer datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses a chained fluidic train through a packaged beverage automatically pierced, degassed, and routed in series through resonant density, NIR-alcohol, CO2 and turbidity cells with auto-rinse. Anticipates: integrated multi-cell beverage-analysis trains fed from sealed packages; the architecture of chaining microfluidic sensing cells on a single conditioned sample stream. Builds on anton-paar-alcolyzer-beer-wine-flow-cell.
+
+## Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets (2009-04-21)
+
+- **id**: `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Daniel T. Chiu group, University of Washington
+- **disclosure**: Chiu, D. T.; Lorenz, R. M. Chemistry and biology in femtoliter and picoliter volume droplets. Acc. Chem. Res. 2009, 42, 649-658. DOI: 10.1021/ar8002464
+- **ip status**: public-domain
+- **prior art notes**: An authoritative account of using femtoliter-to-picoliter droplets as reaction vessels for single-molecule and single-cell chemistry and biology: methods to generate, transport, trap (optical tweezers), fuse, and split ultrasmall aqueous droplets in immiscible carrier fluids, and the concentration-enhancement and stochastic-confinement effects that make single-molecule kinetics, digital enzyme assays, and rare-event detection possible. As prior art it anticipates claims to: confinement of single molecules or cells in fL-pL droplets for digital/single-molecule assays; optical-trap and electric-field manipulation of individual microfluidic droplets; and concentration enhancement by ultrasmall-volume compartmentalization. Companion to song-ismagilov-2003-plug-based-reaction-networks and theberge-2010-microdroplets-in-microfluidics. From the Chiu group (UW).
+
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
+
+## BioFire FilmArray BioThreat-E and BT panel pouch (defense biothreat cartridge) (2009-11-19)
+
+- **id**: `biofire-filmarray-biothreat-e-panel-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BioFire Defense (BioFire Diagnostics, a bioMerieux company; formerly Idaho Technology)
+- **disclosure**: US20090275014A1 / US8895295B2 Microfluidic devices and methods of use (Idaho Technology / BioFire); FilmArray BioThreat panel and BioThreat-E EUA documentation, 2010s.
+- **ip status**: trade-secret
+- **prior art notes**: Discloses a sealed microfluidic pouch integrating bead-beating extraction, blister reagent storage, nested multiplex/singleplex PCR with an array of nanoliter second-stage wells dispensed by film pumps/valves, and melt-curve readout. Anticipates claims to (a) closed-pouch sample-to-answer multiplex PCR cartridge for biothreat detection; (b) array of nanoliter second-stage singleplex PCR wells fed from a first-stage multiplex reaction; (c) film-pump/pinch-valve fluidic actuation in a sealed diagnostic pouch; (d) freeze-dried-reagent biothreat panel requiring no reagent cold chain. Prior art (along with the existing generic FilmArray entry) for closed-cartridge multiplex-PCR patents - the BioThreat configuration specifically.
 
 ## Single molecule arrays (Simoa) for ultrasensitive immunoassay (2010)
 
@@ -585,6 +875,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Discloses genomic-selection-driven salmon broodstock pipeline coupled to qPCR sea-lice surveillance. Anticipates broodstock genomic-selection-plus-pathogen-surveillance integrated aquaculture workflow claims.
 
+## Neogen Igenity Livestock Genomic Profiling (Sample Collection and Genotyping Prep) (2010)
+
+- **id**: `neogen-igenity-livestock-genotyping-prep`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Neogen Corporation
+- **disclosure**: Neogen Corporation / GeneSeek Igenity genomic-profiling product literature; Neogen DNA-collection devices and SNP-array genotyping workflow documentation
+- **ip status**: patented
+- **prior art notes**: Discloses a standardized field tissue-collection device feeding a barcoded, microplate-scale automated DNA-extraction and SNP-genotyping workflow for livestock genomic profiling. Anticipates: barcoded fixed-volume tissue-collection consumables; integrated field-collection-to-microplate-genotyping ag workflows. Companion to embark-veterinary-genetic-test-kit (already covered) and to Zoetis CLARIFIDE.
+
+## Agilent 708-DS / 280-DS Dissolution Apparatus with Online UV Flow Cell (2010)
+
+- **id**: `agilent-708-ds-dissolution-apparatus`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Agilent Technologies
+- **disclosure**: Agilent Technologies 708-DS Dissolution Apparatus and 280-DS automated sampling station datasheets; USP <711> Dissolution, Apparatus 1 (basket) and 2 (paddle) with online UV flow-cell detection
+- **ip status**: patented
+- **prior art notes**: Discloses an automated dissolution sampling station that withdraws metered timepoint aliquots through inline cannula filters and routes them through a short-pathlength quartz flow cell for online UV absorbance. Anticipates: short-pathlength flow-through optical cells for dissolution readback; automated timepoint metering with inline filtration; the architecture of a sampling-station + flow-cell dissolution analyzer. Companion to sotax-ce7smart-flow-through-dissolution-cell (Apparatus 4) and pion-rainbow-insitu-dissolution-fiber-optic (in-situ).
+
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
+
 ## Bio-Rad QX Droplet Digital PCR system (2011)
 
 - **id**: `bio-rad-qx-ddpcr-system`
@@ -655,6 +975,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sysmex XN-series patent estate covers integrated multi-parameter hematology fluidic cartridges with fluorescence-flow-cytometric subsystem. References sysmex-xn-9000-track-hematology existing entry. Anticipates claims that recite multi-parameter integrated hematology cartridges with fluorescence-flow-cytometric platelet subsystem.
 
+## Hindson 2011 high-throughput droplet digital PCR system for absolute quantitation of DNA copy number (2011-10-28)
+
+- **id**: `hindson-2011-droplet-digital-pcr-system-paper`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: QuantaLife, Inc. (Bill Colston / Ben Hindson; spun out of Lawrence Livermore National Laboratory; acquired by Bio-Rad)
+- **disclosure**: Hindson, B. J.; Ness, K. D.; Masquelier, D. A.; Belgrader, P.; Heredia, N. J.; Makarewicz, A. J.; Bright, I. J.; Stevens, M. Y.; Ortega, B. L.; Karlin-Neumann, G. A.; Bava, A.; Bright, J.-M.; Colston, B. W. High-throughput droplet digital PCR system for absolute quantitation of DNA copy number. Anal. Chem. 2011, 83, 8604-8610. DOI: 10.1021/ac202028g
+- **ip status**: public-domain
+- **prior art notes**: The foundational droplet-digital-PCR system paper: a disposable microfluidic cartridge partitions a single PCR reaction into ~20,000 monodisperse ~1-nL water-in-fluorinated-oil droplets (stabilized by a fluorosurfactant through thermal cycling), the droplets are endpoint-amplified and then streamed single-file past a two-color fluorescence reader, and Poisson statistics on the positive/negative droplet counts give the absolute target concentration with no standard curve - enabling precise copy-number-variation and rare-allele quantification. Anticipates claims to: absolute nucleic-acid quantification by partitioning into thousands of nanoliter droplets, endpoint amplification, droplet-by-droplet fluorescence counting, and Poisson correction; fluorosurfactant-stabilized droplet emulsions that survive PCR thermal cycling; and droplet-flow-cytometry readout of digital assays. HIGH-PRIORITY anchor - the entire droplet-digital-PCR product category (Bio-Rad QX series, etc.) descends from this; related to bio-rad-qx-ddpcr-system and bio-rad-laboratories-patent-estate. QuantaLife / LLNL lineage.
+
 ## The Grain memory-recorder implant and the Black Museum consciousness-transfer tech (Black Mirror) (2011-12-18)
 
 - **id**: `black-mirror-grain-implant-and-black-museum`
@@ -695,6 +1025,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Bioptic patent family covers compact multi-channel CE cartridges for nucleic acid sizing. Anticipates claims directed to multi-channel disposable CE cartridges with gel-replacement matrix.
 
+## VIAVI MicroNIR PAT-W / Onsite-W Handheld Near-Infrared Spectrometer (2012)
+
+- **id**: `viavi-micronir-pat-spectrometer`
+- **corpus**: private
+- **device class**: other
+- **creator**: VIAVI Solutions
+- **disclosure**: JDSU / VIAVI Solutions MicroNIR product literature; linear-variable-filter handheld near-infrared spectrometer datasheets
+- **ip status**: patented
+- **prior art notes**: Discloses a microfabricated linear-variable-filter dispersive element integrated directly onto a detector array, packaged as a handheld PAT spectrometer for pharmaceutical solid-dosage process monitoring. Anticipates: LVF-on-detector miniature spectrometers; handheld NIR for continuous-manufacturing real-time release. Borderline for a microfluidics corpus (no fluid path) but included because PAT spectrometers are tightly coupled to microfluidic continuous-manufacturing trains and the LVF is a microfabricated optical component. Marked draft.
+
 ## Paternoster Gang Victorian-era surgical and revival kit (Madame Vastra / Strax) (2012-09-22)
 
 - **id**: `doctor-who-paternoster-gang-victorian-medical`
@@ -734,6 +1074,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Recursion Pharmaceuticals founding 2013; Phenom-Beta foundation model release 2024.
 - **ip status**: patented
 - **prior art notes**: Discloses massively-parallel Cell Painting fluorescence microscopy on standard 384-well plates with embedding-based AI hit calling. Anticipates large-scale Cell-Painting + image-foundation-model phenotypic drug discovery workflow claims.
+
+## bioMerieux ENDONEXT EndoZyme II / ENDOLISA Recombinant Factor C Assay (2013)
+
+- **id**: `biomerieux-endonext-recombinant-factor-c`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: bioMerieux (Hyglos)
+- **disclosure**: Hyglos GmbH (now bioMerieux) EndoZyme II Recombinant Factor C and ENDOLISA endotoxin assay technical notes; bioMerieux ENDONEXT product line (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses recombinant Factor C endotoxin detection in microplate fluidic format including a solid-phase endotoxin-capture variant (ENDOLISA) that immobilizes endotoxin on an EBP-coated surface before enzymatic readout. Anticipates: solid-phase-capture endotoxin assays decoupling sample matrix from the enzymatic step; animal-free BET in disposable microwell format. Companion to lonza-pyrogene-recombinant-factor-c-cartridge.
 
 ## Profusa Lumee implantable hydrogel oxygen sensor (2014)
 
@@ -835,6 +1185,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses integrated automated NA extraction + PCR amplification system in continuous-loader format for high-throughput central-lab molecular diagnostics. Anticipates continuous-loader automated NAAT system with multi-target multiplex PCR claims.
 
+## Agdia AmplifyRP / AmplifyRP XRT Recombinase Polymerase Amplification Plant-Pathogen Test (2014)
+
+- **id**: `agdia-amplifyrp-rpa-plant-pathogen-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Agdia Inc.
+- **disclosure**: Agdia Inc. (Elkhart, Indiana) AmplifyRP and AmplifyRP XRT product literature; recombinase polymerase amplification (TwistDx/Abbott) licensed isothermal chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained isothermal RPA reaction device for crude plant-extract samples with either portable fluorescence readout or a sealed-cassette lateral-flow amplicon detection format. Anticipates: closed-cassette isothermal-amplification plant-pathogen tests; lateral-flow amplicon readout integrated to prevent carryover; field-portable molecular ag diagnostics. Companion to abbott-id-now-isothermal-cartridge (clinical RPA/NEAR) and to envirologix-dnable plant-pathogen tests.
+
+## VICAM Vertu / Vertu TOUCH Fluorometric Mycotoxin Test (Immunoaffinity Column + Reader) (2014)
+
+- **id**: `vicam-vertu-fluorometric-mycotoxin-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: VICAM (Waters Corporation)
+- **disclosure**: VICAM (a Waters business) Vertu / Vertu TOUCH and AflaTest / OchraTest / FumoniTest immunoaffinity column system datasheets and methods (AOAC-adopted)
+- **ip status**: patented
+- **prior art notes**: Discloses a packed antibody-bead affinity micro-column for selective capture of mycotoxins from a grain-extract flow, with elution into a fluorometric readout. Anticipates: immunoaffinity micro-column cleanup integrated to a portable fluorometer; affinity-capture-then-elute sample-prep cartridges for food contaminants. Companion to romer-labs-fluoroquant-mycotoxin-quant and neogen-reveal mycotoxin tests (already covered).
+
 ## WuXi NextCODE / Genuity Science patent family (2015)
 
 - **id**: `wuxi-nextcode-patent-family`
@@ -874,6 +1244,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chr. Hansen FRAGcheck launch announcement 2015.
 - **ip status**: trade-secret
 - **prior art notes**: Discloses cheese-vat bacteriophage qPCR detection cartridge for industrial dairy fermentation. Anticipates field-deployed Lactococcus phage qPCR cartridge for starter rotation decisions claims.
+
+## EnviroLogix DNAble / QuickComb Isothermal Plant-Pathogen and GMO Cartridges (2015)
+
+- **id**: `envirologix-dnable-isothermal-plant-pathogen`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EnviroLogix Inc.
+- **disclosure**: EnviroLogix Inc. (Portland, Maine) DNAble and QuickComb product literature; nicking-enzyme-amplification-reaction isothermal molecular assays for ag
+- **ip status**: patented
+- **prior art notes**: Discloses sealed isothermal nicking-enzyme-amplification reaction devices for crude agricultural samples with portable fluorescence readout, plus comb-format multi-strip lateral-flow immunoassay housings. Anticipates: nicking-enzyme-amplification field cartridges for ag; comb/array lateral-flow strip housings for multiplex ag screening. Sibling to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
 
 ## Berkeley Lights Beacon optofluidic platform (2016)
 
@@ -924,6 +1304,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bray, M. A. et al. Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes. Nat. Protoc. 2016, 11, 1757-1774. DOI: 10.1038/nprot.2016.105.
 - **ip status**: open-permissive
 - **prior art notes**: Discloses the multiplexed six-dye phenotypic staining protocol on 384-well microfluidic-compatible plates, scored by high-content imaging. Anticipates: image-based phenotypic profiling at industrial scale; staining-protocol-as-pipeline. Direct ancestor of Recursion Phenom and AI-driven phenotypic platforms.
+
+## Bio-Techne / ProteinSimple Maurice (Capillary Isoelectric Focusing & CE-SDS) (2016)
+
+- **id**: `proteinsimple-maurice-capillary-isoelectric-focusing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ProteinSimple (Bio-Techne)
+- **disclosure**: ProteinSimple (Bio-Techne) Maurice and Maurice S/C cartridge datasheets; predecessor iCE3 / iCE280 imaged capillary isoelectric focusing literature
+- **ip status**: patented
+- **prior art notes**: Discloses a replaceable cartridge enclosing a coated fused-silica capillary with integrated electrolyte reservoirs, in which proteins are focused along a pH gradient and the entire column is imaged at once by a UV camera, with the same capillary platform reconfigurable for SDS sieving electrophoresis. Anticipates: whole-column-imaging capillary isoelectric focusing in a disposable cartridge; cartridge-format capillary electrophoresis for biologics QC; imaged-detection capillary separations replacing slab-gel methods. A ubiquitous biologics-QC microfluidic-equivalent platform; sister to proteinsimple-westernblot-simple-western.
+
+## Bee-Health Field Diagnostic Cartridges (Nosema / Varroa-Virus / Foulbrood) (2016)
+
+- **id**: `vita-bee-health-nosema-varroa-diagnostic-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Vita (Europe) Ltd and academic groups
+- **disclosure**: Vita (Europe) Ltd European Foulbrood / American Foulbrood lateral-flow diagnostic kit literature; published field-deployable LAMP/PCR assays for Nosema ceranae and honeybee viruses; BeeOdiversity and academic bee-pathogen test reports
+- **ip status**: patented
+- **prior art notes**: Discloses field-portable lateral-flow and sealed isothermal-amplification cartridges for honeybee pathogens (foulbrood bacteria, Nosema microsporidia, bee RNA viruses) run from crushed-bee or hive-debris samples. Anticipates: apiary-side immunoassay and isothermal molecular cartridges for pollinator-health diagnostics; the extension of closed-cassette ag diagnostics to insect-disease surveillance. Sibling architecture to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
+
+## GeneFirst Multiplex PCR Cartridge (MeltArray Respiratory and Oncology Panels) (2016)
+
+- **id**: `genefirst-multiplex-pcr-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: GeneFirst Ltd
+- **disclosure**: GeneFirst Ltd (Oxford / Wallingford, UK) MeltArray multiplex-PCR technology disclosures and PointLink cartridge / respiratory and EGFR oncology panel literature; patents on a melt-curve-multiplexed PCR assay
+- **ip status**: patented
+- **prior art notes**: Discloses a PCR cartridge whose multiplexing is achieved by probe-melting-temperature encoding (MeltArray) so a large target panel reads out from a small number of microfluidic reaction wells per optical channel. Anticipates: melt-temperature-multiplexed PCR cartridges; reducing microfluidic chamber count for large panels via melt encoding. Companion to biofire-filmarray-multiplex-pcr-cartridge (spatial multiplexing) -- GeneFirst multiplexes in melt-temperature space instead.
 
 ## Senseonics Eversense Implantable Continuous Glucose Monitor (2016-05)
 
@@ -1085,6 +1495,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Discloses sewer-shed-scale composite sampling combined with RT-qPCR and LC-MS/MS analytical pipelines for sub-population public-health surveillance. Anticipates municipal wastewater epidemiology cartridge with RT-qPCR + LC-MS/MS dual-analyte readout claims.
 
+## SeLux Diagnostics Next-Generation Phenotyping (NGP) Rapid AST System (2017)
+
+- **id**: `selux-diagnostics-rapid-ast-phenotyping`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: SeLux Diagnostics
+- **disclosure**: SeLux Diagnostics (Charlestown, Massachusetts) Next-Generation Phenotyping rapid AST disclosures and patents on a surface-area-expansion amplification assay measuring bacterial response to antibiotics in microplate format
+- **ip status**: patented
+- **prior art notes**: Discloses a rapid phenotypic AST in high-density microplate format using a surface-area-expansion amplification reagent system to read viable bacterial biomass per antibiotic-containing well. Anticipates: amplification-based (non-turbidimetric) phenotypic AST; very-broad-panel automated microplate susceptibility testing. Companion to pattern-bioscience-rapid-ast-digital-microfluidics; both displace growth-turbidity AST with alternative readouts.
+
 ## Pacific Biosciences vs Oxford Nanopore Patent Litigation 2017-2024 (2017-02-23)
 
 - **id**: `pacbio-vs-oxford-nanopore-litigation`
@@ -1185,6 +1605,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses flexible-tube fluidic-cartridge architecture for point-of-care NAAT with CLIA waiver. Anticipates flexible-tube point-of-care NAAT cartridge for Strep A claims.
 
+## Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) (2018)
+
+- **id**: `truvian-health-desktop-blood-analyzer-disc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Truvian Health
+- **disclosure**: Truvian Health (formerly Truvian Sciences, San Diego) desktop blood-testing system disclosures and patents on a centrifugal microfluidic cartridge integrating chemistry, immunoassay and hematology from a small whole-blood sample
+- **ip status**: patented
+- **prior art notes**: Discloses a centrifugal microfluidic cartridge that meters and separates plasma from a small whole-blood sample and routes it to multiplexed chemistry, immunoassay and cell-count subassays read optically in a benchtop instrument with dried on-cartridge reagents. Anticipates: integrated centrifugal cartridges combining chemistry/immunoassay/hematology; benchtop full-panel blood analyzers from a fingerstick-scale sample. Companions: abbott-piccolo-xpress (centrifugal chemistry, already covered), sight-diagnostics-olo (POC CBC), babson-diagnostics-ac-workcell.
+
+## Pattern Bioscience Rapid Antibiotic Susceptibility Test (Single-Cell Digital Microfluidics) (2018)
+
+- **id**: `pattern-bioscience-rapid-ast-digital-microfluidics`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Pattern Bioscience
+- **disclosure**: Pattern Bioscience (Austin, Texas) rapid phenotypic AST platform disclosures and patents on partitioning single bacterial cells into thousands of nanoliter reactors with antibiotics and machine-learning metabolic-fingerprint readout; FDA-cleared rapid AST system
+- **ip status**: patented
+- **prior art notes**: Discloses partitioning a bacterial sample into thousands of nanoliter compartments each containing a defined antibiotic, then reading per-compartment metabolic-reporter kinetics and classifying susceptibility with a machine-learning model on single-cell fingerprints. Anticipates: digital/partition-microfluidic phenotypic AST; single-cell metabolic-fingerprint susceptibility calling; ML-interpreted nanowell antibiotic arrays. A genuinely novel AST architecture and a high-priority anchor; recently FDA-cleared.
+
 ## MGI DNBSEQ-T7 flow cell (2018-10)
 
 - **id**: `mgi-dnbseq-t7-flow-cell`
@@ -1234,6 +1674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MGI Tech DNBSEQ-T7 (2019), G400 (2020), G99 (2022) launches; CN/US/EP filings
 - **ip status**: patented
 - **prior art notes**: MGI Tech DNBSEQ patent family extends existing mgi-dnbseq-t7-flow-cell and mgi-dnbseq-g400-flow-cell entries with full portfolio coverage. Anticipates claims directed to DNB-patterned high-density sequencing flow cell cartridges.
+
+## BforCure Chronos Dx Ultra-Fast PCR Microfluidic Chip (2019)
+
+- **id**: `bforcure-chronos-dx-ultrafast-pcr-chip`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: BforCure SAS
+- **disclosure**: BforCure SAS (Paris, France) Chronos Dx ultra-fast PCR platform disclosures and patents on a thin-film microfluidic cartridge enabling extremely rapid thermal cycling
+- **ip status**: patented
+- **prior art notes**: Discloses a flexible thin-polymer-film microfluidic PCR cartridge whose low thermal mass enables thermal-cycling ramp rates far above conventional block cyclers, with multiplexed fluorescence detection in a portable reader. Anticipates: thin-film low-thermal-mass PCR cartridges for ultra-fast amplification; flexible-substrate molecular-diagnostic consumables. Companion to abbott-id-now-isothermal-cartridge and other rapid-molecular-POC entries (different speed mechanism).
 
 ## Illumina vs BGI/MGI Patent Litigation 2019-2022 (2019-06-27)
 
@@ -1524,6 +1974,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quantum-Si Platinum system. https://www.quantum-si.com
 - **ip status**: patented
 - **prior art notes**: CMOS chip for single-molecule protein sequencing using time-domain fluorescence lifetime detection on a chip with millions of waveguide-coupled wells. Architectural cousin to PacBio ZMWs but with CMOS readout and a different chemistry (N-terminal aminopeptidase cycling). Anticipates: integrated-CMOS-photonic protein sequencing chip, time-domain detection on integrated photodetectors.
+
+## Aptitude Medical Systems Metrix COVID-19 Molecular At-Home Test (2022)
+
+- **id**: `aptitude-medical-metrix-covid-molecular-poc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aptitude Medical Systems
+- **disclosure**: Aptitude Medical Systems (Santa Barbara, California) Metrix COVID-19 Test disclosures and FDA-authorized over-the-counter molecular test; patents on a small isothermal-amplification cartridge with a reusable reader
+- **ip status**: patented
+- **prior art notes**: Discloses a low-step single-use isothermal-amplification cartridge with lyophilized reagents read by a small reusable heater/reader for OTC molecular respiratory testing. Anticipates: consumer-grade isothermal molecular cartridges with reusable readers; minimal-user-step swab-in-cup molecular formats. Companion to lucira-check-it-flu-covid-test and detect-inc-covid-19-rt-lamp-cartridge.
 
 ## Illumina vs Element Biosciences Patent Litigation (settled 2024) (2022-04-04)
 

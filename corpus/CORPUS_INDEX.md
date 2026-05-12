@@ -1,6 +1,6 @@
 # Corpus Index
 
-2205 entries total. Generated from corpus.jsonl.
+2392 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | 3D Systems MJP / ProJet MultiJet UV/Wax Inkjet 3D Printer | `3d-systems-mjp-projet-multijet` | 2003 | private | patented | ✓ |
 | 3D-printed microfluidic valves and pumps | `kong-2017-3d-printed-microfluidic-valves` | 2017 | academic | open-permissive |  |
 | 3DuF — Interactive Design Environment for Continuous-Flow Microfluidic Devices | `sanka-2019-3duf-interactive-design` | 2019 | open | open-permissive |  |
+| 3EO Health Low-Cost Molecular Point-of-Care Test (COVID-19 / Respiratory) | `3eo-health-low-cost-molecular-poc-cartridge` | 2023 | private | patented | ✓ |
 | 3M (now Neogen) Petrifilm food microbiology plates | `3m-petrifilm-rapid-detect` | 1980 | private | patented |  |
 | 3M / Solventum Hollow Microstructured Transdermal System (hMTS) | `3m-hollow-microneedle-patch` | 2008 | private | patented |  |
 | 3M Petrifilm Plate Reader (Advanced) | `3m-petrifilm-plate-reader-vision` | 2007 | private | patented |  |
@@ -69,6 +70,7 @@
 | Aberrant - Nova quantum-flesh biofluidics | `aberrant-nova-quantum-flesh` | 1999 | fictional | fictional |  |
 | ABI 3130xl Genetic Analyzer | `abi-3130xl-ce` | 2003 | private | patented |  |
 | ABV Atomic Beer Hops Quantification Microfluidic Chip | `abv-atomic-hops-quant-chip` | 2021 | private | trade-secret | ✓ |
+| Accion Systems TILE ionic-liquid electrospray thruster | `accion-tile-ionic-liquid-electrospray-thruster` | 2013 | private | patented |  |
 | Achira Labs paper microfluidics patent family | `achira-labs-paper-microfluidics-patent-family` | 2012 | private | patented |  |
 | Aclima Mobile Air Quality Microfluidic Vehicle Sensor Array | `aclima-mobile-air-quality-sensors` | 2016 | private | trade-secret |  |
 | AcouSort AcouSep | `acousort-acousep-blood-separator` | 2019 | private | patented |  |
@@ -95,8 +97,10 @@
 | AethLabs MicroAeth AE51 Black Carbon Microfluidic Flow Cell | `aethlabs-microaeth-black-carbon` | 2010 | private | patented |  |
 | AfaSci-style Wearable Cortisol Sensor (sweat cortisol aptamer wearable, multi-author) | `afasci-wearable-cortisol` | 2018 | academic | unknown |  |
 | Affymetrix (now Thermo Fisher) GeneChip Patent Estate | `affymetrix-genechip-patent-estate` | 1991 | private | patented |  |
+| Agdia AmplifyRP / AmplifyRP XRT Recombinase Polymerase Amplification Plant-Pathogen Test | `agdia-amplifyrp-rpa-plant-pathogen-cartridge` | 2014 | private | patented |  |
 | Agilent 2100 Bioanalyzer chip-based capillary electrophoresis | `agilent-bioanalyzer-2100` | 1999 | private | patented |  |
 | Agilent 4200 / 4150 / 5200 TapeStation automated electrophoresis | `agilent-tapestation-4200` | 2009 | private | patented |  |
+| Agilent 708-DS / 280-DS Dissolution Apparatus with Online UV Flow Cell | `agilent-708-ds-dissolution-apparatus` | 2010 | private | patented |  |
 | Agilent Bravo NGS Option B sample-prep workstation | `agilent-bravo-ngs-workstation` | 2010 | private | patented |  |
 | Agilent Femto Pulse high-sensitivity capillary electrophoresis | `agilent-femto-pulse` | 2015 | private | patented |  |
 | Agilent HPLC-Chip / MS Chip Cube | `agilent-hplc-chip` | 2005 | private | patented |  |
@@ -146,9 +150,12 @@
 | Annual Review of Fluid Mechanics — microfluidics review series (Squires-Quake, Stone-Stroock-Ajdari, Di Carlo, Anna) | `annual-rev-fluid-mech-microfluidics-series` | 2004 | academic | public-domain |  |
 | Anpac Biomedical CDA patent family | `anpac-biomedical-cda-patent-family` | 2008 | private | patented |  |
 | Ansa Biotechnologies Enzymatic DNA Synthesis Platform | `ansa-biotechnologies-enzymatic-synthesis` | 2023 | private | patented | ✓ |
+| Anton Paar Alcolyzer (NIR Alcohol Flow Cell) with DMA Density Meter | `anton-paar-alcolyzer-beer-wine-flow-cell` | 2003 | private | patented |  |
 | Anton Paar DMA Density Meter U-Tube Microfluidic Flow Cell (Wine Configuration) | `anton-paar-dma-wine-density-flow-cell` | 2003 | private | patented | ✓ |
+| Anton Paar PBA-S Packaged Beverage Analyzer (Beer) | `anton-paar-pba-s-beer-analyzer` | 2009 | private | patented |  |
 | Anzalone–Pearce 2013 Open-Source Colorimeter (Michigan Tech MOST) | `anzalone-pearce-2013-open-colorimeter` | 2013 | open | open-copyleft |  |
 | AOAC SMPR 2019.001 - Cannabis potency standardization method | `aoac-smpr-2019-cannabis-method` | 2019 | academic | public-domain |  |
+| Aperture Science Neurotoxin Generator and Relaxation Vault perfusion (Portal / Portal 2) | `portal-aperture-neurotoxin-generator` | 2007 | fictional | fictional | ✓ |
 | ApoCell ApoStream CTC Capture System | `apocell-apostream-ctc-dep` | 2012 | private | patented |  |
 | Apona biotech - AI-guided antibody drug-discovery microfluidic platform | `apona-biotech-startup` | 2025 | private | unknown | ✓ |
 | Apothecary Reductor (Progenoid Geneseed Extraction Tool) | `warhammer-40k-reductor-progenoid-extraction` | 1995 | fictional | fictional |  |
@@ -157,10 +164,13 @@
 | Applikon ez-Control + my-Control Bioreactor Controllers | `applikon-ez-control-bioreactor` | 2013 | private | patented |  |
 | Aprecia Spritam (3D-Printed Levetiracetam) | `aprecia-spritam-3d-printed-levetiracetam` | 2015 | private | patented |  |
 | Aptar Pharma Plastic and Elastomer Closures | `aptar-pharma-closures` | 2015 | private | patented |  |
+| Aptitude Medical Systems Metrix COVID-19 Molecular At-Home Test | `aptitude-medical-metrix-covid-molecular-poc` | 2022 | private | patented |  |
+| APX03 bunker embryo-bank and ectogenesis nursery (I Am Mother, 2019) | `i-am-mother-apx03-ectogenesis-facility` | 2019 | fictional | fictional | ✓ |
 | AquaBounty AquAdvantage transgenic Atlantic salmon genotyping | `aquabounty-aquadvantage-salmon` | 1989 | private | patented |  |
 | Ariosa Diagnostics against Sequenom (Fed. Cir. 788 F.3d 1371, 2015) - the cell-free fetal DNA NIPT patent struck under Mayo Section 101; cert denied 2016 | `sequenom-vs-ariosa-section-101` | 2012 | private | patented |  |
 | Aris 1956 — On the dispersion of a solute in a fluid flowing through a tube (Aris extension to Taylor dispersion) | `aris-1956-dispersion-extension` | 1956 | academic | public-domain |  |
 | Arkray Spotchem EZ SP-4430 Dry-Chemistry Analyzer | `arkray-spotchem-ez-dry-strip` | 2003 | private | patented |  |
+| Arra Labs body-double cloning, memory-transcription, and growth-tank apparatus (Swan Song, 2021) | `swan-song-arra-labs-body-double-cloning` | 2021 | fictional | fictional | ✓ |
 | ARROW liquid-core optical waveguide on chip | `schmidt-hawkins-arrow-waveguide` | 2004 | academic | patented |  |
 | Arthur C. Clarke 2001 hibernation chamber fluid management | `clarke-2001-hibernation-chamber` | 1968 | fictional | fictional |  |
 | Article One Partners / AOP Connect - crowdsourced prior-art-search marketplace | `article-one-partners-aop-connect` | 2008 | open | open-permissive |  |
@@ -171,6 +181,7 @@
 | Aseptic Technologies Crystal Closed Vial / AT-Closed Vial | `aseptic-technologies-crystal-closed-vial` | 2008 | private | patented |  |
 | Asia-Pacific organ-on-chip programs (Taiwan, Korea, Singapore consortia) | `taiwan-tw-organ-chip-research` | 2018 | academic | patented |  |
 | Asimov Inc. - AI-guided cell line design platform | `asimov-design-cell-engineering` | 2017 | private | patented |  |
+| ASML TWINSCAN immersion lithography water-handling hood | `asml-twinscan-immersion-hood-water-handling` | 2004 | private | patented |  |
 | Aspara CRISPR-based Detection Cartridge | `aspara-crispr-detection-cartridge` | 2022 | private | patented | ✓ |
 | Aspect Biosystems RX1 Lab-on-a-Printer microfluidic bioprinter | `aspect-biosystems-rx1` | 2014 | private | patented |  |
 | Aspect Biosystems RX1 Microfluidic Printhead (head specifically) | `aspect-biosystems-rx1-microfluidic-printhead` | 2015 | private | patented |  |
@@ -183,14 +194,18 @@
 | atai Life Sciences psychedelic platform companies | `atai-life-sciences-platform` | 2018 | private | patented |  |
 | Atelys microfluidics - Multiplexed protein quantification startup | `atelys-microfluidics-startup` | 2025 | private | unknown | ✓ |
 | Atmo Biosciences Gas-Sensing Ingestible Capsule | `atmo-biosciences-gas-sensing-capsule` | 2018 | private | patented |  |
+| Atomic-layer-deposition precursor pulse valve and vapor-draw delivery system | `ald-precursor-pulse-valve-delivery-system` | 1977 | private | patented |  |
 | Atomo Diagnostics HIV finger-stick rapid test | `atomo-diagnostics-hiv-finger-stick` | 2014 | private | patented |  |
 | Aurolab Small-Volume Pharmaceutical Vial Filling Microfluidic Dispenser | `aurolab-vial-filling-microfluidic` | 2010 | private | trade-secret | ✓ |
 | Auroux, Iossifidis, Reyes & Manz 2002 — Micro total analysis systems part 2 (analytical standard operations and applications) | `auroux-2002-utas-review-anal-chem` | 2002 | academic | public-domain |  |
 | Autobio Diagnostics rapid test cartridge family | `autobio-rapid-test` | 2010 | private | patented |  |
+| Automotive A/C microchannel (parallel-flow) condenser and evaporator | `automotive-microchannel-condenser-evaporator` | 1991 | private | patented |  |
+| Automotive PEM fuel-cell bipolar-plate microchannel flow field (Toyota Mirai / Hyundai NEXO class) | `toyota-mirai-fuel-cell-bipolar-plate-flow-field` | 2008 | private | patented |  |
 | Avanti Polar Lipids Mini-Extruder / LIPEX large-volume extruder | `avanti-polar-lipids-mini-extruder` | 1985 | private | patented |  |
 | Avantium Flowrence high-throughput parallel microreactor system | `avantium-flowrence-parallel-microreactor` | 2006 | private | patented |  |
 | Azbil Telstar LyoBeta pilot freeze-dryer | `telstar-lyobeta-pilot-lyo` | 2008 | private | patented |  |
 | Azenta (Brooks) GENEWIZ NGS sample-prep cartridges | `azenta-brooks-cartridges` | 2019 | private | trade-secret | ✓ |
+| Babson Diagnostics aC Workcell / BetterWay Capillary-Blood Testing System | `babson-diagnostics-ac-workcell-microfluidic` | 2021 | private | patented |  |
 | Babylon 5 'Believers' episode pediatric medical (S1E10, 1994) | `babylon5-believers-pediatric-medical` | 1994 | fictional | fictional |  |
 | Babylon 5 Centauri medical sleeper pod | `babylon5-centauri-medical-pods` | 1995 | fictional | fictional | ✓ |
 | Babylon 5 Drazi crystal-vine medical preparation | `babylon5-drazi-crystal-vine-medical` | 1996 | fictional | fictional |  |
@@ -239,6 +254,7 @@
 | Beckman Coulter CytoFLEX SRT Cell Sorter | `beckman-cytoflex-srt-microfluidic-sort` | 2020 | private | patented |  |
 | Beckman Coulter DxH 900 Hematology VCSn Flow Cell | `beckman-coulter-dxh-900-flow-cell` | 2017 | private | patented |  |
 | Beckman Coulter DxI 9000 Access Immunoassay Reaction Vessel Track | `beckman-coulter-dxi-9000-immunoassay` | 2021 | private | patented |  |
+| Beckman Coulter HIAC 9703+ Liquid Particle Counting System | `hiac-9703-plus-liquid-particle-counter` | 2014 | private | patented |  |
 | Beckman Coulter Optima XE-100 preparative ultracentrifuge | `beckman-optima-xe-100` | 2013 | private | patented |  |
 | Beckman Coulter Optima XPN-100 / XPN-90 ultracentrifuge | `beckman-optima-xpn-ultracentrifuge` | 2014 | private | patented |  |
 | Beckman Coulter Vi-CELL BLU Image-Based Cell Viability Counter | `beckman-vi-cell-blu-image-cytometer` | 2018 | private | patented |  |
@@ -246,6 +262,7 @@
 | Becky Chambers - To Be Taught If Fortunate xenobiology fluidics | `chambers-to-be-taught-xenobiology-fluidics` | 2019 | fictional | fictional |  |
 | Becky Chambers Wayfarer medbay | `chambers-wayfarer-medbay` | 2014 | fictional | fictional |  |
 | Becton Dickinson patent estate (FACS / Rhapsody / Veritor chain; CareFusion + C.R. Bard acquisitions) | `becton-dickinson-patent-estate` | 1972 | private | patented |  |
+| Bee-Health Field Diagnostic Cartridges (Nosema / Varroa-Virus / Foulbrood) | `vita-bee-health-nosema-varroa-diagnostic-cartridge` | 2016 | private | patented |  |
 | Beebe, Mensing & Walker 2002 — Physics and applications of microfluidics in biology | `beebe-mensing-walker-2002-physics-applications-review` | 2002 | academic | public-domain |  |
 | BeeFlow honeybee hive monitoring and microbiome cartridge | `beeflow-hive-monitor` | 2017 | private | patented |  |
 | BeeHex Chef 3D pizza printer (NASA spinout) | `beehex-pizza-printer` | 2013 | private | patented |  |
@@ -263,12 +280,15 @@
 | Berkeley Lights NanoPen Chamber Patent Family | `berkeley-lights-nanopen-chamber-patent` | 2014 | private | patented |  |
 | Berkeley Lights Renames to PhenomeX (April 2023) | `berkeley-lights-phenomex-rename-2023` | 2023 | private | patented |  |
 | Berthier & Silberzan 2010 - Microfluidics for Biotechnology (2nd ed.) | `berthier-silberzan-2010-microfluidics-biotech-2e` | 2010 | academic | public-domain |  |
+| Berthier and Beebe 2007 flow rate analysis of a surface-tension-driven passive micropump | `berthier-beebe-2007-surface-tension-passive-micropump` | 2007 | academic | public-domain |  |
 | Beta Bionics iLet Bionic Pancreas | `beta-bionics-ilet-bionic-pancreas` | 2014 | private | patented |  |
 | Beta Colony Genetic Counseling Lab | `bujold-beta-genetic-counseling-lab` | 1986 | fictional | fictional |  |
 | Beyond the Sea remote-piloted replica bodies (Black Mirror) | `black-mirror-beyond-the-sea-replicas` | 2023 | fictional | fictional | ✓ |
+| BforCure Chronos Dx Ultra-Fast PCR Microfluidic Chip | `bforcure-chronos-dx-ultrafast-pcr-chip` | 2019 | private | patented |  |
 | BGI / MGI cartridge product family extensions | `bgi-mgi-cartridge-extensions` | 2017 | private | patented |  |
 | BGI Group patent portfolio overview (10k+ filings) | `bgi-group-patent-portfolio-overview` | 2010 | private | patented |  |
 | BGI MGI DNBSEQ sequencer flow cell | `bgi-mgi-dnbseq-flowcell` | 2010 | private | patented |  |
+| Bhatia and Ingber 2014 microfluidic organs-on-chips | `bhatia-ingber-2014-microfluidic-organs-on-chips` | 2014 | academic | public-domain |  |
 | Bhattacharjee 2016 3D-Printed Microfluidics Toolkit | `bhattacharjee-2016-3d-printed-microfluidics` | 2016 | academic | open-permissive |  |
 | BIA Separations CIM (Convective Interaction Media) Monolithic Column | `sartorius-bia-cim-monolith` | 1998 | private | patented |  |
 | BiAffin LNP Encapsulator | `biaffin-lnp-encapsulator` | 2021 | private | unknown | ✓ |
@@ -278,6 +298,7 @@
 | BICO Group bio-convergence platform portfolio | `bico-group-umbrella` | 2016 | private | patented | ✓ |
 | BICO INKREDIBLE / INKREDIBLE+ Bioprinter (historical) | `bico-inkredible-bioprinter-historical` | 2016 | private | patented |  |
 | BillionToOne UNITY cfDNA Prep Cartridge | `billiontoone-unity-cfdna-prep` | 2020 | private | patented |  |
+| binx health io Point-of-Care Molecular Cartridge (Chlamydia / Gonorrhea) | `binx-health-io-molecular-poc-cartridge` | 2017 | private | patented |  |
 | Bio-Rad Acquisition of QuantaLife 2011 (QX200 ddPCR Origin) | `biorad-quantalife-acquisition-2011` | 2011 | private | patented |  |
 | Bio-Rad BioPlex 2200 multiplex immunoassay analyzer | `bio-rad-bioplex-2200-multiplex` | 2004 | private | patented |  |
 | Bio-Rad ddPCR Patent Consolidation Position (post-RainDance 2017) | `biorad-ddpcr-consolidation-position-2017` | 2017 | private | patented |  |
@@ -287,6 +308,7 @@
 | Bio-Rad QX Droplet Digital PCR system | `bio-rad-qx-ddpcr-system` | 2011 | private | patented |  |
 | Bio-Rad TC20 / TC10 automated cell counter | `biorad-nanocoulter-bead-counter` | 2010 | private | patented |  |
 | Bio-Rad TC20 Automated Cell Counter | `biorad-tc20-cell-counter` | 2013 | private | patented |  |
+| Bio-Techne / ProteinSimple Maurice (Capillary Isoelectric Focusing & CE-SDS) | `proteinsimple-maurice-capillary-isoelectric-focusing` | 2016 | private | patented |  |
 | Bio-Techne / ProteinSimple Simple Western (capillary western) | `proteinsimple-westernblot-simple-western` | 2011 | private | patented |  |
 | Bio-Techne Cultrex Organoid Matrix and Reagents | `biotechne-cultrex-organoid-matrix` | 2010 | private | patented |  |
 | Bio-Techne LigaTrap LT-AAV / LT-Lenti - Synthetic AAV/lentivirus affinity | `bio-techne-ligatrap-lt-aav` | 2019 | private | patented |  |
@@ -296,6 +318,7 @@
 | BioCartis Idylla EGFR mutation cartridge | `biocartis-idylla-egfr-cartridge` | 2017 | private | patented |  |
 | BioCision IceCube Single-Use Freezing Container | `biocision-icecube-single-use-freezer` | 2010 | private | patented |  |
 | BioCurious community biology lab | `biocurious-community-lab` | 2010 | open | open-permissive |  |
+| BioFire FilmArray BioThreat-E and BT panel pouch (defense biothreat cartridge) | `biofire-filmarray-biothreat-e-panel-cartridge` | 2009 | private | trade-secret |  |
 | BioFire FilmArray multiplex PCR cartridge | `biofire-filmarray-multiplex-pcr-cartridge` | 2008 | private | patented |  |
 | BioLife Solutions CryoStor CS5 / CS10 cryopreservation media | `biolife-cryostor-cs10` | 2003 | private | patented |  |
 | BioLife Solutions HypoThermosol FRS hypothermic preservation medium | `biolife-hypothermosol-frs` | 2002 | private | patented |  |
@@ -304,6 +327,7 @@
 | BiologiGaragen (Copenhagen Community Lab) | `biologigaragen-copenhagen` | 2014 | open | open-permissive |  |
 | BioMAKE community biology hardware repository | `biomake-uchicago` | 2018 | open | open-permissive |  |
 | BioMEMS overview (Madou 1997) | `madou-1997-bioMEMS-survey` | 1997 | academic | public-domain |  |
+| bioMerieux ENDONEXT EndoZyme II / ENDOLISA Recombinant Factor C Assay | `biomerieux-endonext-recombinant-factor-c` | 2013 | private | patented |  |
 | bioMerieux IVD patent estate (VIDAS ELFA / VITEK / BioFire FilmArray chain) | `biomerieux-patent-estate` | 1986 | private | patented |  |
 | bioMerieux NucliSENS easyMAG / EMAG | `biomerieux-easymag-emag` | 2007 | private | patented |  |
 | bioMérieux GENE-UP Real-Time PCR Pathogen Detection | `biomerieux-gene-up-pcr-pathogen` | 2014 | private | patented |  |
@@ -330,6 +354,7 @@
 | Bird, Stewart & Lightfoot 2007 - Transport Phenomena (revised 2nd ed.) | `bird-stewart-lightfoot-2007-transport-phenomena-2e` | 2007 | academic | public-domain |  |
 | Black Hole Lab academic microfluidics tooling | `black-hole-lab-foundry` | 2015 | open | open-permissive |  |
 | Black Mirror neural-fluid implant depictions | `black-mirror-blockchain-implant` | 2016 | fictional | fictional |  |
+| Black-market embryonic gene-editing rig and adult phenotype-rewrite kit (Daniel Suarez, Change Agent) | `suarez-change-agent-black-market-gene-editing` | 2017 | fictional | fictional | ✓ |
 | Blackrock Microsystems Utah Intracortical Electrode Array | `blackrock-utah-array` | 1991 | private | patented |  |
 | BLAME! Killy bioassembler / Net Sphere medical apparatus | `blame-net-sphere-bioassembly` | 1997 | fictional | fictional |  |
 | Bleeding Edge subdermal nanofluid armor reservoir and the Extremis injection sequence (Iron Man) | `iron-man-bleeding-edge-subdermal-nanofluid-reservoir` | 2010 | fictional | fictional | ✓ |
@@ -344,10 +369,14 @@
 | Boba Fett Rejuvenation Tank (Sarlacc Recovery Bacta Pod) | `star-wars-boba-fett-rejuvenation-tank` | 2021 | fictional | fictional |  |
 | Boger 1977 - A highly elastic constant-viscosity fluid | `boger-1977-elastic-fluid-definition` | 1977 | academic | public-domain |  |
 | Bond / Eoetvoes Number Bo = rho g L^2 / gamma | `bond-eotvos-number-dimensionless-group` | 1886 | academic | public-domain |  |
+| Bondrewds Idofront laboratory, Cradle of Desire chamber, and hollow-conversion apparatus (Made in Abyss) | `made-in-abyss-bondrewd-cradle-of-desire` | 2017 | fictional | fictional | ✓ |
 | BongoPump Open Liquid-Handling Pump | `open-bioworks-bongo-pump` | 2022 | open | open-permissive | ✓ |
 | Bonn et al. 2009 - Wetting and spreading (Rev. Mod. Phys. 81, 739) | `bonn-2009-wetting-spreading-rmp` | 2009 | academic | public-domain |  |
 | Boom guanidinium-silica nucleic acid extraction | `boom-1990-silica-magnetic-extraction` | 1990 | academic | patented |  |
 | Bormioli Pharma - Glass and plastic primary packaging | `bormioli-rocco-pharma-vials` | 1825 | private | patented |  |
+| Bosch common-rail diesel fuel injector (CRI / CRIN) | `bosch-common-rail-diesel-injector` | 1997 | private | patented |  |
+| Bosch Denoxtronic urea/DEF (AdBlue) SCR dosing system | `bosch-denoxtronic-urea-scr-dosing` | 2004 | private | patented |  |
+| Bosch HDEV gasoline direct-injection fuel injector | `bosch-hdev-gdi-fuel-injector` | 1999 | private | patented |  |
 | Boundary-Layer Theory (Schlichting, 7th ed. 1979; 1st ed. 1955) | `schlichting-1979-boundary-layer-theory` | 1955 | academic | public-domain |  |
 | Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks | `bowers-mudawar-1994-microchannel-cooling` | 1994 | academic | public-domain |  |
 | Boyden chamber chemotaxis assay | `boyden-1962-chamber-chemotaxis` | 1962 | academic | public-domain |  |
@@ -374,8 +403,10 @@
 | Buchi B-290 / B-90 Nano / Encapsulator B-390 - Lab spray and encapsulation | `buchi-b290-b90-encapsulator-spray-line` | 1988 | private | patented |  |
 | Buehner / Hill 1977 IBM Thermal Inkjet Research Disclosure | `buehner-hill-1977-ibm-thermal-inkjet-research` | 1977 | academic | open-permissive |  |
 | Burning Rock Biotech patent family | `burning-rock-biotech-patent-family` | 2016 | private | patented |  |
+| Burns 1996 microfabricated structures for integrated DNA analysis | `burns-1996-microfabricated-dna-analysis-pnas` | 1996 | academic | public-domain |  |
 | Burns, Mastrangelo et al. 1998 — An integrated nanoliter DNA analysis device | `burns-1998-integrated-dna-analysis-device` | 1998 | academic | public-domain |  |
 | Burstein/Tecan LabCD original disc-format platform | `tecan-burstein-labcd` | 1997 | private | patented |  |
+| Busek BET ionic-liquid electrospray micro-thruster (BET-MAX / BET-100) | `busek-bet-ionic-liquid-electrospray-thruster` | 2006 | private | patented |  |
 | C. J. Cherryh Cyteen azi production facility (Reseune azi vats) | `cherryh-cyteen-azi-production` | 1988 | fictional | fictional |  |
 | C2i Genomics (whole-genome ctDNA molecular residual disease) | `c2i-genomics-whole-genome-mrd` | 2021 | private | patented |  |
 | Caliper LabChip / ACLA chip technology (acquired by Ciba-Geigy lineage) | `caliper-acla-chip-1999` | 1996 | private | patented |  |
@@ -405,6 +436,8 @@
 | Catalog Technologies Shannon DNA Storage Platform | `catalog-technologies-shannon-dna-storage` | 2019 | private | patented |  |
 | Catalog Technologies Shannon DNA Storage Write/Read System | `catalog-technologies-dna-storage` | 2019 | private | patented |  |
 | CDC National Wastewater Surveillance System (NWSS) standardized prep | `cdc-nwss-wastewater-prep` | 2020 | private | public-domain |  |
+| CDR OxiTester Olive-Oil Quality Cartridge Photometer | `cdr-oxitester-olive-oil-microfluidic` | 2012 | private | patented |  |
+| CDR WineLab / BeerLab / FoodLab Cartridge-Based Multiparameter Photometer | `cdr-winelab-beerlab-microfluidic-photometer` | 2010 | private | patented |  |
 | Cell Painting high-throughput morphological profiling (Bray 2016) | `cell-painting-bray-2016` | 2016 | academic | open-permissive |  |
 | Cellares Cell Shuttle 2.0 - Industrial CAR-T platform extend | `cellares-cell-shuttle-2-0` | 2024 | private | patented |  |
 | Cellares Cell Shuttle CAR-T manufacturing platform | `cellares-cell-shuttle` | 2022 | private | patented |  |
@@ -433,6 +466,9 @@
 | Chapman 1913 — Diffuse Double Layer Extension | `chapman-1913-double-layer-extension` | 1913 | academic | public-domain |  |
 | ChargePoint AseptiSafe passive aseptic transfer valve | `chargepoint-aseptisafe-rtp` | 2007 | private | patented |  |
 | ChargePoint ChargeBag PE single-use bag transfer | `chargepoint-chargebag-pe` | 2014 | private | patented |  |
+| Charles River Celsis Rapid Microbial Detection (ATP Bioluminescence) System | `charles-river-celsis-atp-bioluminescence-cartridge` | 2002 | private | patented |  |
+| Charles River Endosafe nexgen-MCS Multi-Cartridge System | `charles-river-endosafe-nexgen-mcs` | 2018 | private | patented |  |
+| Charles River Endosafe nexgen-PTS LAL Endotoxin Cartridge | `charles-river-endosafe-nexgen-pts-lal-cartridge` | 2006 | private | patented |  |
 | Charles River Laboratories Cobra Plasmid Manufacturing Platform | `charles-river-cobra-plasmid` | 2010 | private | patented |  |
 | Charles Sheffield McAndrew Chronicles Medical Pod | `sheffield-mcandrew-medical-pod` | 1979 | fictional | fictional |  |
 | Charles Stross Glasshouse cornucopia matter compiler | `stross-glasshouse-cornucopia` | 2005 | fictional | fictional |  |
@@ -443,20 +479,25 @@
 | Charm Sciences ROSA Lateral Flow Reader | `charm-rosa-lateral-flow-reader` | 1998 | private | patented |  |
 | ChemBio Diagnostics DPP (Dual Path Platform) lateral-flow | `chembio-dpp` | 2009 | private | patented |  |
 | Chemical amplification: continuous-flow PCR on a chip (Kopp, de Mello & Manz, 1998) | `kopp-1998-continuous-flow-pcr-on-chip` | 1998 | academic | public-domain |  |
+| Chemical-mechanical planarization slurry point-of-use blending and delivery system | `cmp-slurry-point-of-use-blending-system` | 1999 | private | patented |  |
 | ChemoMetec NucleoCounter NC-200 / NC-3000 Single-Use Cassette | `chemometec-nucleocounter-nc-200-cassette` | 2008 | private | patented |  |
 | Chemometec NucleoCounter NC-202 Cassette | `chemometec-nucleocounter-nc-202` | 2019 | private | patented |  |
 | ChemoMetec NucleoCounter NC-3000 (Image Cytometer) | `chemometec-nucleocounter-nc-3000` | 2010 | private | patented |  |
 | Chemtrix Labtrix S1 | `chemtrix-labtrix-s1` | 2009 | private | patented |  |
 | Chemtrix Plantrix MR-series silicon-carbide microreactor | `chemtrix-plantrix-mr-series` | 2012 | private | patented |  |
+| Cheng 1996 Chip PCR II: PCR amplification in microfabricated silicon-glass chips | `cheng-1996-chip-pcr-ii-silicon-glass` | 1996 | academic | public-domain |  |
 | Chi.Bio open-hardware bioreactor | `chibio-bioreactor` | 2018 | open | open-permissive |  |
 | Chiou & Wu 2005 Optoelectronic Tweezers Academic Anchor (Berkeley UCB) | `chiou-wu-2005-oet-academic-anchor` | 2005 | academic | patented |  |
 | Chiou & Wu Optoelectronic Tweezer (OET) Foundation | `chiou-wu-2005-optoelectronic-tweezer-foundation` | 2005 | academic | patented |  |
+| Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets | `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets` | 2009 | academic | public-domain |  |
 | Chr. Hansen Direct-Vat Frozen Culture Inoculation System | `chr-hansen-frozen-culture-inoculation-system` | 2014 | private | patented | ✓ |
 | Chr. Hansen FRAGcheck phage detection assay | `chr-hansen-fragcheck-phage-assay` | 2015 | private | trade-secret |  |
 | ChromaCon Contichrom CUBE / MCSGP - Twin-column continuous chromatography | `chromacon-contichrom-mcsgp-continuous` | 2007 | private | patented |  |
 | ChromaTan Multimix Continuous Chromatography System | `chromatan-multimix-continuous-chromatography` | 2014 | private | patented | ✓ |
 | Chula nanogene flesh-rewriting cloud (The Empty Child / The Doctor Dances) | `doctor-who-empty-child-nanogene-rewrite` | 2005 | fictional | fictional | ✓ |
+| Citadel Aqua-Cola dispensing and Mothers Milk extraction apparatus (Furiosa / Mad Max: Fury Road) | `furiosa-citadel-aqua-cola-mothers-milk-extraction` | 2015 | fictional | fictional | ✓ |
 | Cixin Liu Ball Lightning experimental fluidics apparatus | `cixin-liu-ball-lightning-fluidics` | 2004 | fictional | fictional |  |
+| Claws ultimate-weapon psychic-power amplification research apparatus (Mob Psycho 100) | `mob-psycho-100-claw-ultimate-weapon-research` | 2016 | fictional | fictional | ✓ |
 | Clearblue Connected Digital Pregnancy Test (Bluetooth) | `clearblue-connected-digital-pregnancy` | 2021 | private | patented |  |
 | CleWin / KLayout microfluidic mask layout tools | `microfluidic-cad-software-clewinwin-cleWin` | 2003 | open | open-permissive |  |
 | Climeworks Direct Air Capture solid-sorbent module | `climeworks-direct-air-capture` | 2017 | private | patented |  |
@@ -468,6 +509,7 @@
 | Colloidal Dispersions (Russel, Saville, Schowalter, 1989) | `russel-saville-schowalter-1989-colloidal-dispersions` | 1989 | academic | public-domain |  |
 | Color Health Genomics Sample Collection Kit | `color-health-genomics-cartridge` | 2015 | private | trade-secret | ✓ |
 | Color-changing diagnostic paper microfluidics (multiple groups) | `psaltis-2014-color-changing-paper-microfluidic` | 2010 | academic | public-domain |  |
+| Combine Overwatch transhuman-conversion surgical line (Half-Life 2) | `half-life-2-combine-overwatch-transhuman-conversion` | 2004 | fictional | fictional | ✓ |
 | CompactGTL Microchannel Gas-to-Liquids Reactor | `compactgtl-microchannel-reactor` | 2008 | private | patented |  |
 | Companion Bot android-child fabrication (Tim-21; Descender / Ascender) | `descender-tim-21-android-child-fabrication` | 2015 | fictional | fictional | ✓ |
 | Compass Pathways COMP360 psilocybin therapy | `compass-pathways-comp360` | 2018 | private | patented |  |
@@ -486,6 +528,7 @@
 | Control (Remedy) Service Weapons fluidic-Hiss containment | `control-game-service-weapons` | 2019 | fictional | fictional | ✓ |
 | Convery & Gadegaard 2019 — 30 years of microfluidics | `convery-gadegaard-2019-30-years-microfluidics` | 2019 | academic | public-domain |  |
 | Coppelius / Daystrom synthetic-body fabrication and golem mind-transfer lab (Star Trek: Picard S1) | `star-trek-picard-soong-synthetics-lab` | 2020 | fictional | fictional | ✓ |
+| Copper-interconnect electroplating bath chemistry point-of-use dosing system | `copper-electroplating-bath-point-of-use-dosing` | 2001 | private | patented |  |
 | Cordwainer Smith Norstrilia Stroon longevity treatment | `cordwainer-smith-stroon-treatment` | 1964 | fictional | fictional |  |
 | Coretest Systems Microfluidic Core Flooding Apparatus | `coretest-systems-microfluidic-core-flooding` | 2012 | private | patented | ✓ |
 | Coriolis: The Third Horizon ship medbay modules | `coriolis-third-horizon-medbay` | 2017 | fictional | fictional | ✓ |
@@ -499,9 +542,11 @@
 | Coulter Principle (1953 Patent) Public Domain Status Analysis | `coulter-1953-patent-public-domain-analysis` | 1953 | academic | public-domain |  |
 | Counter Culture Labs community biology lab Oakland | `counter-culture-labs` | 2013 | open | open-permissive |  |
 | Covaris ME220 / E220 focused-ultrasonic DNA shearing | `covaris-me220-acoustic-shearing` | 2002 | private | patented |  |
+| Craighead 2006 future lab-on-a-chip technologies for interrogating individual molecules | `craighead-2006-lab-on-chip-single-molecule` | 2006 | academic | public-domain |  |
 | Creating, transporting, cutting, and merging liquid droplets by electrowetting-based actuation | `cho-2003-creating-transporting-cutting-merging` | 2003 | academic | patented |  |
 | Crescendo Bioscience Vectra DA Multi-Biomarker Disease Activity Test | `crescendo-vectra-da-test` | 2010 | private | patented |  |
 | CRISPR-Cas9 mechanism (Jinek 2012; Cong/Mali 2013) — context for CRISPR diagnostics | `zhang-jin-2011-cas9-discovery` | 2012 | academic | patented |  |
+| Crushable-ampoule colorimetric presumptive drug-test pouch (NIK Public Safety / Sirchie NARK II / NARK 20) | `nik-sirchie-crushable-ampoule-drug-test-pouch` | 1973 | private | patented |  |
 | Cryoport evo Smart Shipper (evoX) real-time-tracked cryogenic shipper | `evo-smart-shipper-evox` | 2020 | private | patented |  |
 | Cryoport Express LN2-vapor cryogenic shipper | `cryoport-express-shipper` | 2010 | private | patented |  |
 | Crysis - Hargreave-Rasch BioChemical laboratories | `crysis-hargreave-rasch-labs` | 2011 | fictional | fictional |  |
@@ -586,6 +631,7 @@
 | Deep learning for microfluidic imaging diagnostics (Ballard/Ozcan 2020) | `ballard-ozcan-2020-machine-learning-imaging` | 2020 | academic | patented |  |
 | Defensive Patent License (DPL) | `linux-foundation-defensive-patent-license` | 2010 | open | open-copyleft |  |
 | DELFI Diagnostics FirstLook Lung (cfDNA fragmentomics) | `delfi-firstlook-lung-fragmentomics` | 2019 | private | patented |  |
+| deMello 2006 control and detection of chemical reactions in microfluidic systems | `demello-2006-control-detection-chemical-reactions-microfluidic` | 2006 | academic | public-domain |  |
 | Demus DeMark Caffeine Quantification Microfluidic Device | `demus-demark-caffeine-quantifier` | 2019 | private | trade-secret | ✓ |
 | Derjaguin & Landau 1941 - Theory of the stability of strongly charged lyophobic sols | `derjaguin-landau-1941-colloid-stability` | 1941 | academic | public-domain |  |
 | Derwent Innovation Index (Clarivate) patent search tool | `derwent-innovation-index-clarivate` | 1963 | private | trade-secret |  |
@@ -598,6 +644,7 @@
 | Deus Ex (2000) - nano-augmentation chamber | `deus-ex-2000-nano-augmentation-chamber` | 2000 | fictional | fictional |  |
 | Deus Ex: Human Revolution - LIMB clinic | `deus-ex-hr-limb-clinic` | 2011 | fictional | fictional |  |
 | Deus Ex: Mankind Divided - augmentation chambers | `deus-ex-md-augmentation-chambers` | 2016 | fictional | fictional |  |
+| DEVA citizen body-printing / Materialization facility (Expelled from Paradise) | `expelled-from-paradise-deva-body-printing` | 2014 | fictional | fictional | ✓ |
 | Developing optofluidic technology through the fusion of microfluidics and optics | `psaltis-2006-optofluidic-review` | 2006 | academic | public-domain |  |
 | Devs (FX) quantum-computing vacuum / fluidic substrate chamber | `devs-quantum-vacuum-chamber` | 2020 | fictional | fictional |  |
 | Dexcom G5 Mobile Continuous Glucose Monitor | `dexcom-g5-cgm` | 2015 | private | patented |  |
@@ -619,6 +666,7 @@
 | Dishonored - Sokolovs alchemical laboratory | `dishonored-sokolov-laboratory` | 2012 | fictional | fictional |  |
 | Dishonored - Sokolovs Elixir | `dishonored-sokolov-elixir` | 2012 | fictional | fictional |  |
 | Dishonored 2 - Karnaca alchemical fluidics | `dishonored-2-karnaca-alchemical-fluidics` | 2016 | fictional | fictional |  |
+| DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) | `rajaniemi-darkome-diy-synthetic-biology-rig` | 2024 | fictional | fictional | ✓ |
 | DIYbio NYC | `diybio-nyc-genspace-affiliate` | 2008 | open | open-permissive |  |
 | DIYNAFLUOR — $40 Open-Source 3D-Printed DNA Fluorometer | `diynafluor-low-cost-dna-fluorometer` | 2023 | open | open-permissive |  |
 | DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge | `dna-genotek-oracollect-dna-pediatric` | 2010 | private | patented |  |
@@ -636,6 +684,8 @@
 | Doom (2016) - UAC Mars medical bay | `doom-2016-uac-medical-bay` | 2016 | fictional | fictional |  |
 | Doom medkit autonomous trauma stim | `doom-medkit` | 1993 | fictional | fictional |  |
 | Dr. Allison Mann's parthenogenesis / cloning lab and the global sperm-bank crisis (Y: The Last Man) | `y-the-last-man-mann-cloning-lab` | 2002 | fictional | fictional | ✓ |
+| Dr. Garaki/Ujiko Nomu-manufacture vats and Quirk-handling apparatus (My Hero Academia) | `my-hero-academia-nomu-manufacture-vats` | 2016 | fictional | fictional | ✓ |
+| Dr. Kanous half-ghoul transplant surgery and RC-cell research lab (Tokyo Ghoul) | `tokyo-ghoul-kanou-half-ghoul-surgery` | 2014 | fictional | fictional | ✓ |
 | Dr. Stone petrification cure / revival fluid (nital-acid revival formula) | `dr-stone-petrification-revival-fluid` | 2017 | fictional | fictional | ✓ |
 | Dragonfly Mass Spectrometer (DraMS) for Titan | `dragonfly-drams-titan-mass-spec` | 2022 | academic | public-domain |  |
 | Drew Scientific HemaVet 950 / 1500 Veterinary Hematology Analyzer | `drew-scientific-hemavet-veterinary-cbc` | 1996 | private | patented | ✓ |
@@ -647,6 +697,7 @@
 | Dräger DrugTest 5000 Oral Fluid Drug Screen Microfluidic Cartridge | `drager-drugtest-5000-oral-fluid-cartridge` | 2009 | private | patented |  |
 | DSM (now dsm-firmenich) Pro Biolacta lactase + Maxilact | `dsm-pro-biolacta-lactase` | 1978 | private | trade-secret |  |
 | DStat — Open-Source Potentiostat for Electroanalysis and Integration | `dryden-2015-dstat-open-potentiostat` | 2015 | open | open-permissive |  |
+| Du 2009 SlipChip | `du-ismagilov-2009-slipchip` | 2009 | academic | public-domain |  |
 | Duke SAW Single-Cell Acoustic Printer | `wang-duke-2019-saw-single-cell-printer` | 2019 | academic | patented |  |
 | Dune - Bene Tleilax Master breeding floor | `dune-bene-tleilax-master-breeding-floor` | 1981 | fictional | fictional |  |
 | Dune - Brian Herbert/KJA Last Ghola production line | `dune-last-ghola-production-line-brian-herbert` | 2006 | fictional | fictional |  |
@@ -666,6 +717,7 @@
 | Dynamic pattern formation in a vesicle-generating microfluidic device | `thorsen-2002-droplet-microfluidics-flow-focusing` | 2001 | academic | public-domain |  |
 | Dynamics of Polymeric Liquids, Vols 1 and 2 (Bird, Armstrong, Hassager, Curtiss, 2nd ed. 1987) | `bird-curtiss-armstrong-hassager-1987-dynamics-polymeric-liquids` | 1977 | academic | public-domain |  |
 | Dynavax CpG 1018 TLR9-agonist adjuvant | `dynavax-cpg-1018-tlr9-agonist-adjuvant` | 2012 | private | patented |  |
+| E Ink electrophoretic display microcapsule encapsulation process | `eink-electrophoretic-microcapsule-encapsulation` | 1998 | private | patented |  |
 | Eastman Kodak microfluidic patent family (inkjet + photo chemistry crossover) | `eastman-kodak-microfluidic-patent-family` | 1995 | private | patented |  |
 | Eccrine Systems Continuous Sweat Sensor Platform | `eccrine-systems-sweat-platform` | 2014 | private | patented |  |
 | Echo 650 high-throughput acoustic dispenser (Labcyte/Beckman) | `echo-650-acoustic-dispenser-2009` | 2009 | private | patented |  |
@@ -682,7 +734,9 @@
 | Ehrfeld Mikrotechnik BTS CYTOS College and Caterpillar microreactors | `ehrfeld-cytos-college-caterpillar` | 2002 | private | patented |  |
 | Eight Worlds change clinics, medico machines, and cloning banks (John Varley) | `varley-eight-worlds-change-clinics-cloning-banks` | 1977 | fictional | fictional | ✓ |
 | Einstein 1905 — Brownian Motion and Stokes-Einstein Diffusion | `einstein-1905-brownian-motion` | 1905 | academic | public-domain |  |
+| El-Ali 2006 cells on chips | `el-ali-2006-cells-on-chips` | 2006 | academic | public-domain |  |
 | Electrically activated normally-closed silicon diaphragm microvalves (Jerman, 1990) | `jerman-1990-normally-closed-microvalve` | 1990 | academic | public-domain |  |
+| Electrohydrodynamic (EHD) jet printing for fine-pitch electronics | `electrohydrodynamic-jet-printing-fine-pitch` | 2007 | private | patented |  |
 | Electroosmotic injection / pumping on chip CE | `harrison-1993-electroosmotic-cycling` | 1993 | academic | public-domain |  |
 | Electrospray ionization from a microchip CE column | `ramsey-1996-electrospray-on-chip` | 1996 | academic | patented |  |
 | Electrowetting-based actuation of liquid droplets for microfluidic applications | `pollack-2000-electrowetting-droplet` | 2000 | academic | patented |  |
@@ -700,6 +754,7 @@
 | Embark Veterinary Dog DNA Test Kit | `embark-veterinary-genetic-test-kit` | 2016 | private | patented |  |
 | Emerald Cloud Lab (ECL) - User-programmable cloud laboratory | `emerald-cloud-lab-ecl` | 2014 | private | patented |  |
 | Emulate Inc. Organ-Chip platform | `emulate-organ-on-chip-platform` | 2014 | private | patented |  |
+| En-family sorcerer hospital, mushroom-growing chambers, and Hole disposal/cleaning rooms (Dorohedoro) | `dorohedoro-en-family-hospital-mushroom-disposal` | 2000 | fictional | fictional | ✓ |
 | Endo / Saito 1977 Canon Bubble Jet Priority Disclosure | `endo-saito-1977-canon-bubble-jet-priority` | 1977 | private | patented |  |
 | Endress+Hauser Liquiline System CA80 Analyzer | `endress-hauser-liquiline-ca80-wet-chem` | 2015 | private | patented |  |
 | Endress+Hauser Memosens 2.0 Digital Sensor Connector | `endress-hauser-memosens-2-0` | 2018 | private | patented |  |
@@ -709,6 +764,7 @@
 | Engineering flows in small devices: microfluidics toward a lab-on-a-chip | `stone-2004-engineering-flows-microfluidics` | 2004 | academic | public-domain |  |
 | Engineering multi-organ microphysiological systems (multi-organ-on-chip) | `wikswo-2013-multi-organ-chip` | 2013 | academic | patented |  |
 | Enterprise NX-01 decontamination chamber gel application | `star-trek-ent-decon-gel` | 2001 | fictional | fictional | ✓ |
+| EnviroLogix DNAble / QuickComb Isothermal Plant-Pathogen and GMO Cartridges | `envirologix-dnable-isothermal-plant-pathogen` | 2015 | private | patented |  |
 | Environmental microbiome sample-to-sequencing cartridges (2024 academic) | `environmental-microbiome-cartridge-2024` | 2024 | academic | patented |  |
 | EnvisionTEC / ETEC 3D-Bioplotter | `envisiontec-3d-bioplotter` | 2002 | private | patented |  |
 | EOFlow EOPatch Insulin Pump | `eoflow-eopatch-insulin` | 2017 | private | patented |  |
@@ -729,8 +785,12 @@
 | Ergo Proxy Romdo dome citizen-management medical infrastructure | `ergo-proxy-dome-medical` | 2006 | fictional | fictional |  |
 | Erickson Cornell Nanofluidic Optofluidic Platform | `erickson-cornell-2008-nanofluidic-optofluidic` | 2008 | academic | open-permissive |  |
 | Esashi 1989 — Silicon Piezoelectric Micropump | `esashi-1989-silicon-piezo-pump` | 1989 | academic | public-domain |  |
+| Esch 2015 organs-on-chips at the frontiers of drug discovery | `esch-2015-organs-on-chips-drug-discovery` | 2015 | academic | public-domain |  |
+| Espers research lab, drug-suppression regimen, and Akira cryogenic preservation (Akira) | `akira-tetsuo-espers-lab-akira-cryo` | 1982 | fictional | fictional | ✓ |
 | Etched silicon vibrating (resonant) sensor (Greenwood, 1969) | `greenwood-1969-etched-silicon-resonant-sensor` | 1969 | academic | public-domain | ✓ |
 | Europa Clipper SUrface Dust mass Analyzer (SUDA) | `europa-clipper-suda-particle-analyzer` | 2024 | academic | public-domain |  |
+| EV traction-inverter power-module microchannel cold plate (pin-fin / ShowerPower-class) | `ev-power-electronics-microchannel-cold-plate` | 2008 | private | patented |  |
+| Evangelion production tanks, Rei clone vats, and dummy-plug bioprocessor (Neon Genesis Evangelion) | `evangelion-eva-cloning-dummy-plug-tanks` | 1995 | fictional | fictional | ✓ |
 | Everlywell At-Home Sample Collection Kit | `everlywell-home-collection-kit` | 2015 | private | trade-secret | ✓ |
 | eVOLVER multi-bioreactor evolution platform | `evolver-klavins` | 2018 | open | open-permissive |  |
 | eVOLVER Open Multiplexed Continuous-Culture Bioreactor | `wong-2018-evolver-multiplex-bioreactor` | 2018 | open | open-permissive |  |
@@ -739,14 +799,18 @@
 | ExoMars TGO ACS (Atmospheric Chemistry Suite) | `exomars-tgo-acs-atmospheric-chemistry-suite` | 2015 | private | unknown |  |
 | ExoMars TGO NOMAD (Nadir and Occultation for Mars Discovery) Gas Cell | `exomars-tgo-nomad-gas-flow-cell` | 2015 | private | unknown |  |
 | ExOne X1-Series Industrial Metal Binder-Jet System | `exone-binder-jet-x1-25pro` | 2005 | private | patented |  |
+| Expendable human-body reprinting (human printer biofab line) (Mickey 17, 2025) | `mickey-17-expendable-human-reprinting` | 2025 | fictional | fictional | ✓ |
 | Exxon Office Systems Qwip Hot-Melt Inkjet (historical) | `exxon-office-systems-hot-melt-inkjet-historical` | 1980 | private | patented | ✓ |
 | F-35 Lightning II AESA + Avionics Microchannel Liquid Cooling | `f-35-microchannel-cooling` | 2006 | private | patented |  |
 | Fabrication of novel three-dimensional microstructures by anisotropic etching of (100) and (110) silicon (Bassous, 1978) | `bassous-1978-three-dimensional-anisotropic-etching` | 1978 | academic | public-domain |  |
 | FabRx M3DIMAKER Pharmaceutical 3D Printer | `fabrx-m3dimaker-pharmaceutical-printer` | 2020 | private | patented |  |
+| Facility 3826 Polymer synthesis and robot-manufacture vats (Atomic Heart) | `atomic-heart-polymer-robot-vats` | 2023 | fictional | fictional | ✓ |
 | Fallout (Amazon) Vault medbay depictions (2024) | `fallout-tv-vault-medbay-2024` | 2024 | fictional | fictional |  |
 | Fallout series Stimpak autoinjector | `fallout-stimpak-autoinjector` | 1997 | fictional | fictional |  |
+| Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood | `fan-2008-integrated-barcode-chip-blood-protein-analysis` | 2008 | academic | public-domain |  |
 | Features of gold by µCP using PDMS stamps | `kumar-whitesides-1993-microcontact-printing` | 1993 | academic | patented |  |
 | Fette Compacting FE 35 / FE 75 Rotary Tablet Press | `fette-fe-rotary-tablet-press` | 2012 | private | patented |  |
+| FIB-SEM and TEM-lamella semiconductor failure-analysis sample-prep fluidic handling (KLA / Onto / Thermo Fisher class) | `semiconductor-fib-sem-cross-section-sample-prep-fluidics` | 2003 | private | patented |  |
 | Field-deployable agricultural pathogen detection cartridges (Cady 2003 lineage) | `cady-2003-agricultural-pathogen-cartridge` | 2005 | academic | patented |  |
 | Filament-stretching and capillary-thinning extensional rheometry (McKinley & coworkers; Renardy analysis, 2002) | `mckinley-renardy-2002-extensional-rheometry-microfluidic` | 2000 | academic | public-domain |  |
 | Final Fantasy VII Jenova cells injection (Hojo's lab) | `ff7-jenova-cells-injection` | 1997 | fictional | fictional |  |
@@ -759,6 +823,8 @@
 | Firefly Niska's Skyplex interrogation/med table | `firefly-niska-skyplex-medtable` | 2002 | fictional | fictional | ✓ |
 | Firefly River Tam Academy operating tables (neural intervention surgery) | `firefly-river-tam-academy-table` | 2005 | fictional | fictional |  |
 | Firefly Simon Tam handheld medical kit | `firefly-simon-medical-bag` | 2002 | fictional | fictional |  |
+| FLIR Fido X-series handheld explosives trace detector (amplifying-fluorescent-polymer sensing) | `flir-fido-x-handheld-explosives-trace-detector` | 2003 | private | patented |  |
+| FLIR IBAC bioaerosol identifier and particulate-collector unit | `flir-ibac-bioaerosol-trigger-collector` | 2004 | private | patented |  |
 | Flood biomass infection and growth-pod cultivation (Halo) | `halo-flood-infection-growth-pods` | 2001 | fictional | fictional | ✓ |
 | Flow-focusing droplet generation in microfluidic devices | `anna-2003-flow-focusing-droplet` | 2003 | academic | public-domain |  |
 | Fluent BioSciences PIPseq particle-templated emulsification | `fluent-biosciences-pipseq` | 2022 | private | patented |  |
@@ -784,10 +850,12 @@
 | For All Mankind Jamestown lunar medbay | `for-all-mankind-jamestown-medbay` | 2019 | fictional | fictional |  |
 | Forchheimer 1901 - Wasserbewegung durch Boden (high-velocity porous flow) | `forchheimer-1901-high-velocity-porous-flow` | 1901 | academic | public-domain |  |
 | Forerunner Lifeworker biological-conservation archives (the Librarians gene-banks) | `halo-forerunner-lifeworker-conservation-archives` | 2011 | fictional | fictional | ✓ |
+| Foresight Foundation Promare/Burnish-energy research and Parnassus combustion apparatus (Promare) | `promare-burnish-promare-flame-research` | 2019 | fictional | fictional | ✓ |
 | Formulatrix Mantis and Tempest nanoliter dispensers | `formulatrix-mantis-tempest` | 2013 | private | patented |  |
 | Formulatrix Rock Imager / Mantis nanodispenser | `formulatrix-rock-imager-microreactor` | 2008 | private | patented |  |
 | ForSight Vision5 Helios Bimatoprost Insert (Periocular Ring) | `forsight-vision5-helios-ring` | 2014 | private | patented | ✓ |
 | FOSS CoffeeScan FT-NIR Coffee Analyzer | `foss-coffeescan-ftnir` | 2017 | private | patented | ✓ |
+| FOSS MilkoScan FT3 / CombiScan FT-IR Flow-Cell Milk Analyzer | `foss-milkoscan-ftir-flow-cell` | 2008 | private | patented |  |
 | Foss SpiritScan distilled-spirits NIR analyzer | `foss-spiritscan-distilled-qc` | 2019 | private | patented |  |
 | FOSS WineScan Auto Wine Analyzer | `foss-winescan-auto-ftir` | 2008 | private | patented | ✓ |
 | FOSS WineScan SO2 FT-IR Wine Analyzer | `foss-winescan-so2-ftir` | 2012 | private | patented | ✓ |
@@ -807,18 +875,22 @@
 | Friend & Yeo 2011 - Microscale acoustofluidics | `friend-yeo-2011-microscale-acoustofluidics-rmp` | 2011 | academic | public-domain |  |
 | Friend & Yeo SAW Microfluidics Review | `friend-yeo-2011-saw-microfluidics-review` | 2011 | academic | open-permissive |  |
 | Front Range Biosciences clean-stock cannabis tissue culture | `front-range-biosciences-cannabis-tc` | 2018 | private | trade-secret |  |
+| Froth flotation reagent (collector/frother/depressant) point-of-addition microdosing system | `froth-flotation-reagent-microdosing-system` | 1996 | private | patented |  |
 | Fujifilm CN-16 Color Negative Process (Historic Anchor) | `fujifilm-cn-16-process` | 1980 | open | public-domain | ✓ |
 | FUJIFILM Dimatix Galaxy / Polaris / StarFire Industrial Piezo Heads (Spectra lineage) | `fujifilm-dimatix-galaxy-polaris-spectra-line` | 1996 | private | patented |  |
 | FUJIFILM Dimatix Samba G3L Single-Pass MEMS Printhead | `fujifilm-dimatix-samba-g3l-printhead` | 2012 | private | patented |  |
 | Fujifilm Dimatix Samba LFM Life-Sciences Printhead | `fujifilm-dimatix-samba-lfm-life-sciences-printhead` | 2016 | private | patented |  |
 | Fujifilm DRI-CHEM Veterinary Slide System | `fujifilm-dri-chem-vet-slide` | 1981 | private | patented |  |
 | Fujifilm Instax Mini Integral Film Fluid Pod | `fujifilm-instax-fluid-pod` | 1998 | private | patented | ✓ |
+| FUJIFILM Wako Limulus Color KY / ES-II Endotoxin Microplate Assay | `wako-limulus-color-ky-endotoxin` | 1998 | private | patented |  |
 | Fujifilm Wako Pure Chemical reagent patent family | `fujifilm-wako-pure-chemical-patents` | 2003 | private | patented |  |
 | Fulwyler electrostatic cell sorter (foundation of FACS) | `fulwyler-1965-cell-sorter-foundation` | 1965 | academic | public-domain |  |
 | Function of Beauty - Per-customer compounded hair and skin care | `function-of-beauty-personalized` | 2015 | private | trade-secret |  |
 | Fundamental Principles of Heat Transfer (Whitaker, 1977) | `whitaker-1977-fundamental-principles-heat-transfer` | 1977 | academic | public-domain |  |
+| Funki labs M3GAN prototype-fabrication and diagnostics bay (M3GAN, 2022 / M3GAN 2.0, 2025) | `m3gan-funki-labs-prototype-bay` | 2022 | fictional | fictional | ✓ |
 | Future Chemistry FlowStart Evo and FlowSyn (FutureChem BV) | `future-chemistry-flowstart` | 2008 | private | patented |  |
 | Future Chemistry FlowSyn ECs Electrochemistry Reactor | `future-chemistry-flowsyn-electrochemistry` | 2019 | private | patented | ✓ |
+| Garstecki 2006 formation of droplets and bubbles in a microfluidic T-junction | `garstecki-2006-t-junction-droplet-formation` | 2006 | academic | public-domain |  |
 | Gatorade Gx Sweat Patch | `gatorade-gx-sweat-patch` | 2021 | private | patented |  |
 | Gattaca instant genome / blood readout console | `gattaca-instant-genome-readout` | 1997 | fictional | fictional |  |
 | GE Healthcare FASTlab FDG Synthesizer | `ge-fastlab-fdg` | 2008 | private | patented |  |
@@ -827,7 +899,9 @@
 | GEA Lyovac FCM commercial freeze-dryer | `gea-lyovac-fcm` | 2005 | private | patented |  |
 | GEA PSD-1 / PSD-Pro - Pharmaceutical spray dryers | `gea-psd-pro-spray-dryer` | 2003 | private | patented |  |
 | Geankoplis - Transport Processes and Separation Process Principles (4th ed.) | `geankoplis-transport-processes-textbook` | 2003 | academic | public-domain |  |
+| Geass Directorate Code/Geass research apparatus and C.C.s immortality study (Code Geass) | `code-geass-geass-code-research-directorate` | 2006 | fictional | fictional | ✓ |
 | Genalyte Maverick Silicon-Photonic Microring Resonator Diagnostic | `genalyte-maverick-silicon-photonic` | 2010 | private | patented |  |
+| GeneFirst Multiplex PCR Cartridge (MeltArray Respiratory and Oncology Panels) | `genefirst-multiplex-pcr-cartridge` | 2016 | private | patented | ✓ |
 | Genentech recombinant-protein and antibody-manufacturing patent estate | `genentech-patent-estate` | 1983 | private | patented |  |
 | Generation of gradients having complex shapes using microfluidic networks | `dertinger-2001-christmas-tree-gradient` | 2001 | academic | public-domain |  |
 | Genestealer Cult Chimera Hybrid Brood Vat | `warhammer-40k-genestealer-cult-chimera-vat` | 1988 | fictional | fictional |  |
@@ -842,20 +916,25 @@
 | Ghost in the Shell cybernetic-body diagnostic facility | `ghost-in-the-shell-cybernetic-diagnostics` | 1995 | fictional | fictional |  |
 | Ghost in the Shell SAC 2nd GIG Section 9 Medbay | `gits-sac-2nd-gig-section-9-medbay` | 2004 | fictional | fictional |  |
 | Ghost in the Shell SAC: Solid State Society medical fluidics | `ghost-in-the-shell-sac-solid-state-society` | 2006 | fictional | fictional |  |
+| Ghost Light-based resurrection and Cryptarch engram-decryption (Destiny / Destiny 2) | `destiny-ghost-light-resurrection-cryptarch` | 2014 | fictional | fictional | ✓ |
 | Gilead Lenacapavir Long-Acting Subcutaneous Depot (comparator) | `intarcia-medici-comparator-gilead-lenacapavir` | 2020 | private | patented | ✓ |
 | Ginkgo Bioworks Cell-Free IVT Enzyme Foundry | `ginkgo-bioworks-ivt-enzymes` | 2021 | private | patented |  |
 | Ginkgo Bioworks Foundry (deep automation extend) - Bioworks 1-6 | `ginkgo-bioworks-foundry-deep-extend` | 2014 | private | patented |  |
 | Ginkgo Bioworks synthetic biology foundry (microfluidic-equivalent strain engineering) | `ginkgo-bioworks-foundry` | 2014 | private | trade-secret |  |
+| Givaudan / Firmenich Precision Fragrance-Ingredient Microdosing & Robotic Blending | `givaudan-precision-fragrance-microdosing` | 2017 | private | patented |  |
 | Given Imaging PillCam SB Capsule Endoscope | `given-imaging-pillcam-sb` | 2001 | private | patented |  |
 | Glass microchannel electrophoresis with ISFET detection (van den Berg group) | `van-den-berg-1998-glass-channel-electrophoresis` | 1998 | academic | patented |  |
 | Glatt MODCOS / GMG-IIR Continuous Granulation System | `glatt-modcos-continuous-granulation` | 2014 | private | patented |  |
 | Glia Project low-resource microfluidic devices (otoscope, etc.) | `glia-microfluidics-low-resource` | 2015 | open | open-permissive |  |
 | Glitter Band Autosurgeon | `reynolds-glitter-band-autosurgeon` | 2007 | fictional | fictional |  |
+| Godwin Baxters surgical laboratory and brain-transplant reanimation apparatus (Poor Things, 2023) | `poor-things-godwin-baxter-surgical-lab` | 2023 | fictional | fictional | ✓ |
 | Gorkov 1962 - Forces acting on a small particle in an acoustical field in an ideal fluid | `gorkov-1962-acoustic-radiation-force-theory` | 1962 | academic | public-domain |  |
 | Gouy 1910 — Diffuse Double Layer Theory | `gouy-1910-diffuse-double-layer` | 1910 | academic | public-domain |  |
 | GRAIL Galleri (multi-cancer early detection methylation cfDNA test) | `grail-galleri-mced-methylation` | 2020 | private | patented |  |
 | GraphWear Non-Invasive Glucose Monitor | `graphwear-non-invasive-glucose` | 2017 | private | patented | ✓ |
 | Gravesen 1993 — Microfluidics Review | `gravesen-1993-microfluidics-review` | 1993 | academic | public-domain |  |
+| Green monopropellant feed and microcatalyst-bed thruster (ECAPS LMP-103S High Performance Green Propulsion; NASA/Aerojet AF-M315E / ASCENT) | `green-monopropellant-feed-lmp103s-afm315e` | 2010 | private | patented |  |
+| Green Poison (Dollar Bill) virus research and JTF decontamination labs (Tom Clancys The Division) | `the-division-green-poison-cdc-research` | 2016 | fictional | fictional | ✓ |
 | Greg Bear Blood Music intracellular fluidic agents | `bear-blood-music-nanofluidic-infection` | 1985 | fictional | fictional |  |
 | Greg Bear Eon Sphere Medical (Way Medical) | `bear-eon-sphere-medical` | 1985 | fictional | fictional |  |
 | Greg Bear Queen of Angels / Slant Therapy Suite | `bear-queen-of-angels-slant-medical` | 1990 | fictional | fictional |  |
@@ -871,6 +950,8 @@
 | Guardant Health Guardant Reveal (blood-only MRD detection) | `guardant-reveal-mrd-methylation` | 2021 | private | patented |  |
 | Guardant Health Guardant Shield (blood-based colorectal cancer screening) | `guardant-shield-colorectal-blood-test` | 2024 | private | patented |  |
 | Guardant Health Guardant360 CDx (cell-free DNA NGS liquid biopsy) | `guardant360-cdx-cfdna-ngs-panel` | 2014 | private | patented |  |
+| GUND format prosthetics, Permet nanofluid medium, and consciousness-transfer rig (Gundam: The Witch from Mercury) | `gundam-witch-from-mercury-permet-gund-arm` | 2022 | fictional | fictional | ✓ |
+| Gunshot-residue (GSR) colorimetric field-test kit (modified Griess / sodium-rhodizonate spot test) | `gunshot-residue-colorimetric-field-test-kit` | 1959 | private | public-domain |  |
 | GURPS Bio-Tech sourcebook (Steve Jackson Games 1996) | `gurps-bio-tech-sourcebook` | 1996 | fictional | fictional |  |
 | Gut-on-chip with peristalsis-mimicking mechanical strain | `kim-ingber-2012-gut-on-chip` | 2012 | academic | patented |  |
 | Gyros Bioaffy CD immunoassay platform | `gyros-bioaffy-cd` | 2002 | private | patented |  |
@@ -878,6 +959,8 @@
 | Hackteria community microfluidics tutorials | `hackteria-microfluidics` | 2009 | open | open-permissive |  |
 | Hackuarium community DIY-bio lab | `hackuarium-community-lab` | 2014 | open | open-permissive |  |
 | Hackuarium — Citizen-Driven Open Bio Lab (Lausanne) | `hackuarium-living-instruments-2014` | 2014 | open | open-permissive |  |
+| Haden syndrome neural-network implant and threep maintenance/medical infrastructure (John Scalzi, Lock In / Head On) | `scalzi-lock-in-haden-syndrome-threep-medical` | 2014 | fictional | fictional | ✓ |
+| Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications | `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip` | 2007 | academic | public-domain |  |
 | Haemonetics NexSys PCS plasmapheresis system (Persona / PCS2 lineage) | `haemonetics-nexsys-pcs-apheresis` | 2019 | private | patented |  |
 | Haemonetics TEG 6s Thromboelastography Microfluidic Cartridge | `mindray-teg-6s-thromboelastography-cartridge` | 2014 | private | patented |  |
 | Hagen 1839 — On the motion of water in narrow cylindrical tubes (Hagen-Poiseuille flow) | `hagen-1839-pipe-flow-viscosity` | 1839 | academic | public-domain |  |
@@ -885,6 +968,7 @@
 | Half-Life 2 Combine Citadel Ration / Synth Vat | `half-life-2-combine-citadel-ration-vat` | 2004 | fictional | fictional |  |
 | Half-Life HEV suit morphine / analgesic injection | `half-life-hev-suit-injection` | 1998 | fictional | fictional |  |
 | Half-Life: Alyx Northern Star Medical Bay | `half-life-alyx-northern-star-medical` | 2020 | fictional | fictional |  |
+| Hall-effect thruster xenon proportional flow controller (Bronkhorst/MOOG/VACCO XFC, Busek BHT feed) | `hall-thruster-xenon-flow-controller` | 2004 | private | patented |  |
 | Halliburton GeoTap Downhole Fluid Sampler Microfluidic Probe | `halliburton-geotap-sampler` | 2005 | private | patented |  |
 | Halo CASTLE Base biological augmentation laboratories | `halo-castle-base-biolabs` | 2001 | fictional | fictional |  |
 | Halo Forerunner Composer mass-state-conversion array (fluidic interpretation) | `halo-forerunner-composer-fluidic` | 2012 | fictional | fictional | ✓ |
@@ -905,8 +989,10 @@
 | Hamilton Microlab Vantage NA Extraction Workstation | `hamilton-microlab-vantage-na-extraction` | 2017 | private | patented |  |
 | Hamilton VisiPro Single-Use Optical DO / pH Probe | `hamilton-visipro-single-use` | 2014 | private | patented |  |
 | Hannu Rajaniemi gevulot privacy-managed body chemistry | `rajaniemi-quantum-thief-gevulot-biology` | 2010 | fictional | fictional |  |
+| Hansen 2002 robust scalable microfluidic metering for protein crystallization by free interface diffusion | `hansen-2002-microfluidic-protein-crystallization-metering` | 2002 | academic | public-domain |  |
 | Hayabusa-2 MASCOT Lander Sample-Handling Subsystem | `hayabusa2-mascot-lander-sample-handling` | 2017 | private | unknown |  |
 | Healing Church blood ministration and Old Blood transfusion (Bloodborne) | `bloodborne-healing-church-blood-ministration` | 2015 | fictional | fictional | ✓ |
+| Healing Church Research Hall and Iosefka Clinic blood-experiment apparatus (Bloodborne) | `bloodborne-research-hall-iosefka-clinic` | 2015 | fictional | fictional | ✓ |
 | Heart-Shaped Herb extraction and ritual infusion (Black Panther) | `black-panther-heart-shaped-herb-processing` | 1966 | fictional | fictional | ✓ |
 | Heather Dewey-Hagborg — Stranger Visions (DNA-from-trace forensic art) | `dewey-hagborg-stranger-visions` | 2012 | fictional | fictional |  |
 | Heidelberg Primefire 106 B1 Sheetfed Inkjet Press | `heidelberg-primefire-106-b1-inkjet` | 2016 | private | patented |  |
@@ -934,6 +1020,7 @@
 | High-speed separation of antisense oligonucleotides on a micromachined capillary electrophoresis device | `effenhauser-1993-glass-microchip-electrophoresis` | 1993 | academic | public-domain |  |
 | Hilti HIT-HY Construction Adhesive Microfluidic Static-Mixer Cartridge | `hilti-hit-construction-adhesive-cartridge` | 2003 | private | patented |  |
 | HiMedia Laboratories reagent patent family | `himedia-labs-reagent-patent-family` | 2005 | private | patented |  |
+| Hindson 2011 high-throughput droplet digital PCR system for absolute quantitation of DNA copy number | `hindson-2011-droplet-digital-pcr-system-paper` | 2011 | academic | public-domain |  |
 | Hitachi 7080/7180/7600 clinical chemistry analyzer | `hitachi-7080-clinical-chemistry` | 1995 | private | patented |  |
 | Hitachi 7180/7500 clinical chemistry analyzer patent family | `hitachi-7180-7500-chemistry-patents` | 1995 | private | patented |  |
 | Hitachi 911/917 historic clinical chemistry (1990s) patents | `hitachi-911-917-historic-chemistry-patents` | 1991 | private | patented |  |
@@ -953,6 +1040,7 @@
 | Honeycomb Biotechnologies HIVE CellBox Patent Family | `honeycomb-hive-cellbox-patent-family` | 2020 | private | patented |  |
 | Honeycomb Biotechnologies HIVE scRNAseq solution | `honeycomb-hive-scrnaseq` | 2021 | private | patented |  |
 | Honeywell HEMTOR (Hyperbolic Electrostatic Mass Trap with Orbital Resonance) | `honeywell-hemtor-flight-mass-spectrometer` | 2012 | private | patented | ✓ |
+| Hong and Quake 2003 integrated nanoliter systems | `hong-quake-2003-integrated-nanoliter-systems` | 2003 | academic | public-domain |  |
 | HORIBA SZ-100V2 Nanoparticle Analyzer | `horiba-sz100v2-lnp-sizer` | 2020 | private | patented |  |
 | Horizon Zero Dawn Cradle facility (genetic ark + Elisabet Sobeck reconstruction) | `horizon-zero-dawn-cradle` | 2017 | fictional | fictional |  |
 | Howtek Pixelmaster Hot-Melt Inkjet Printer (historical) | `howtek-pixelmaster-hot-melt-inkjet-historical` | 1984 | private | patented |  |
@@ -961,6 +1049,7 @@
 | HP ThinkJet thermal inkjet printhead | `hp-thinkjet-thermal-inkjet` | 1984 | private | patented |  |
 | Hudson Robotics SOLO and PlateMate liquid-handling robots | `hudson-solo-platemate` | 1996 | private | unknown | ✓ |
 | Hughes & Markx DEP Textbook (Nanoelectromechanics in Engineering and Biology) | `hughes-markx-2002-dep-textbook-foundation` | 1999 | academic | open-permissive |  |
+| Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) | `huh-2013-organ-chip-nature-protocols` | 2013 | academic | public-domain |  |
 | Huygens Aerosol Collector and Pyrolyser (ACP) | `cassini-huygens-acp-aerosol-collector-pyrolyser` | 2002 | private | unknown |  |
 | Hydrodynamics (Lamb, 6th ed. 1932; 1st ed. 1879) | `lamb-1932-hydrodynamics` | 1879 | academic | public-domain |  |
 | Hygiena BAX System Real-Time PCR Pathogen Detection | `hygiena-bax-system-pathogen-pcr` | 1996 | private | patented |  |
@@ -978,6 +1067,7 @@
 | IBA Synthera + Synthera Extension Radiosynthesizer | `iba-synthera` | 2008 | private | patented |  |
 | IBIDI µ-Slide chemotaxis chamber | `ibidi-mu-slide-chemotaxis` | 2007 | private | patented |  |
 | ibidi µ-Slide VI 0.4 Flow Chambers | `ibidi-flow-chambers-mu-slide-vi` | 2008 | private | trade-secret |  |
+| ICP-OES/MS microfluidic nebulizer and sample-introduction system (mining/metallurgy assay labs) | `icp-oes-ms-microfluidic-nebulizer-sample-introduction` | 1992 | private | patented |  |
 | IDEXX Catalyst Dx Chemistry Analyzer | `idexx-catalyst-dx-multilayer-slide` | 2008 | private | patented |  |
 | IDEXX Catalyst One Chemistry Analyzer (CLIP cartridge) | `idexx-catalyst-one-chemistry-cartridge` | 2013 | private | patented |  |
 | IDEXX Colilert / Colilert-18 Reagent Snap-Pack | `idexx-colilert-reagent-snap-pack` | 1989 | private | patented |  |
@@ -1046,6 +1136,7 @@
 | Insulet OmniPod tubeless insulin pump | `insulet-omnipod-cartridge` | 2005 | private | patented |  |
 | Intarcia ITCA 650 Implantable Osmotic Mini-Pump (Exenatide) | `intarcia-itca-650-osmotic-pump` | 2008 | private | patented |  |
 | IntelliCyt iQue Screener Plus / Forecyt Software | `intellicyt-ique-screener-plus` | 2011 | private | patented |  |
+| Intoximeter EC/IR II and Alco-Sensor electrochemical-fuel-cell evidential breath alcohol analyzer | `intoximeter-ecir-fuel-cell-evidential-breathalyzer` | 1981 | private | patented |  |
 | IntroMedic MiroCam Human-Body-Communication Capsule Endoscope | `intromedic-mirocam-capsule` | 2007 | private | patented |  |
 | Inventia Life Science RASTRUM 3D cell-model printer | `inventia-rastrum` | 2019 | private | patented |  |
 | Inventia Life Science RASTRUM iPSC Bioprinting Variant | `inventia-rastrum-ipsc-variant` | 2022 | private | patented |  |
@@ -1072,6 +1163,7 @@
 | Jacobson & Ramsey Electroosmotic Pumping Foundation (1994-1996) | `ehd-electroosmotic-flow-foundation-jacobson` | 1994 | academic | patented |  |
 | James S.A. Corey Expanse MCRN forge ship medical facility (extends wave 1) | `expanse-mcrn-forge-medical` | 2014 | fictional | fictional |  |
 | Jana Care Aina Portable Diagnostic Device | `jana-care-aina-portable-device` | 2014 | private | patented |  |
+| Janasek 2006 scaling and the design of miniaturized chemical-analysis systems | `janasek-manz-2006-scaling-miniaturized-analysis-systems` | 2006 | academic | public-domain |  |
 | Janssen / Johnson & Johnson Prezista (darunavir) continuous manufacturing line | `janssen-tablet-press-cm-line` | 2016 | private | patented |  |
 | Janssen ConTabLine Continuous Tableting Platform | `janssen-contabline-continuous-tableting-line` | 2018 | private | patented |  |
 | Janssen Prezista Continuous Direct Compression Manufacturing Line | `janssen-prezista-continuous-direct-compression-line` | 2016 | private | patented |  |
@@ -1097,11 +1189,13 @@
 | Karniadakis & Beskok 2002 — Micro Flows: Fundamentals and Simulation | `karniadakis-beskok-2002-micro-flows` | 2002 | academic | public-domain |  |
 | Karniadakis, Beskok & Aluru 2005 — Microflows and Nanoflows: Fundamentals and Simulation (textbook) | `karniadakis-beskok-aluru-2005-microflows-nanoflows-textbook` | 2005 | academic | public-domain |  |
 | Karnis & Mason 1963 - Particle migration in Poiseuille flow | `karnis-mason-1963-particle-migration-tubes` | 1963 | academic | public-domain |  |
+| Kateeva YIELDjet inkjet OLED thin-film deposition system | `kateeva-yieldjet-inkjet-oled-deposition` | 2010 | private | patented |  |
 | Kelvin 1871 — Hydrokinetic solutions and observations (capillary waves and surface tension) | `kelvin-1871-capillary-waves` | 1871 | academic | public-domain |  |
 | KEMRI Open Hardware Diagnostics Platform | `kemri-open-diagnostics-platform` | 2019 | open | open-permissive | ✓ |
 | Kenzen ECHO H2 Smart Patch | `kenzen-echo-h2-sweat-patch` | 2017 | private | patented |  |
 | Kew Royal Botanic Gardens pollen DNA metabarcoding extraction | `kew-pollen-dna-metabarcoding` | 2017 | academic | public-domain |  |
 | KGK (Konishi Engineering) Jet Series Continuous Inkjet Coder | `kgk-jet-cij-coder` | 1995 | private | patented | ✓ |
+| Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices | `khandurina-2000-integrated-pcr-ce-microfluidic` | 2000 | academic | public-domain |  |
 | Kidney proximal tubule-on-chip | `jang-suh-2013-kidney-on-chip` | 2013 | academic | patented |  |
 | Kim Stanley Robinson 2312 gene-mod treatment cells | `ksr-2312-gene-mod-cells` | 2012 | fictional | fictional |  |
 | Kim Stanley Robinson Aurora generation-ship life-support cell handling | `ksr-aurora-life-support` | 2015 | fictional | fictional |  |
@@ -1128,6 +1222,7 @@
 | Kozeny 1927 - Uber kapillare Leitung des Wassers im Boden | `kozeny-1927-permeability-porous-media` | 1927 | academic | public-domain |  |
 | Kraken Sense KRAKEN1 Automated Pathogen Detection System | `kraken-sense-pathogen-detection` | 2021 | private | patented |  |
 | Krakoan resurrection protocols -- the Five (House of X / Powers of X) | `x-men-krakoa-resurrection-protocols` | 2019 | fictional | fictional | ✓ |
+| Kronoid AI brain-cloning lab and combat-AI body-fabrication line (Jung_E, 2023) | `jung-e-aibrain-cloning-lab` | 2023 | fictional | fictional | ✓ |
 | Krytox-PFPE surfactant for biocompatible droplet stabilization | `abate-2010-surfactant-survey` | 2008 | academic | patented |  |
 | Kumasi Hive BioLab — Ghanaian Open Bio-Hardware Hub | `kumasi-hive-biolab-ghana` | 2019 | open | open-permissive |  |
 | Kyocera KJ4 Series Bend-Mode Piezo Industrial Printhead | `kyocera-kj4-bend-mode-piezo-printhead` | 2014 | private | patented |  |
@@ -1141,6 +1236,7 @@
 | Lab-on-a-CD: centrifugal microfluidics platform | `madou-2006-centrifugal-microfluidics` | 2006 | academic | patented |  |
 | Lab-on-a-chip: microfluidics in drug discovery | `dittrich-manz-2006-utas-review` | 2006 | academic | public-domain |  |
 | LACE-NMR (Lab on a Chip Experiment Nuclear Magnetic Resonance) Mars Concept | `lace-nmr-mars-in-situ-nmr-concept` | 2014 | academic | unknown | ✓ |
+| Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device | `lagally-2001-single-molecule-pcr-microfluidic` | 2001 | academic | public-domain |  |
 | Lallemand Brewing Yeast Inoculation Cartridge | `lallemand-yeast-inoculation-cartridge` | 2018 | private | trade-secret | ✓ |
 | LAMA Cellpress laser-assisted bioprinter | `lama-cellpress-laser-bioprinter` | 2021 | private | patented |  |
 | Landa S10 Nanographic Sheetfed Press | `landa-s10-nanographic-press` | 2018 | private | patented |  |
@@ -1152,6 +1248,7 @@
 | Latching microfluidic valves and digital logic | `weaver-2010-microfluidic-large-scale-integration` | 2010 | academic | patented |  |
 | Lateral migration of solid particles in Poiseuille flow (Cox and Brenner, 1968) | `cox-brenner-1968-particle-migration-tube-flow` | 1968 | academic | public-domain |  |
 | Lazarus Pit resurrection chemistry (Ra's al Ghul, DC Comics) | `dc-lazarus-pit-resurrection-chemistry` | 1971 | fictional | fictional | ✓ |
+| LCD polyimide alignment-layer inkjet/microdispense system | `lcd-polyimide-alignment-layer-microdispense` | 2003 | private | patented |  |
 | Lee Company / TTP Ventus Disc Pump | `lee-company-disc-pump-piezoelectric` | 2009 | private | patented |  |
 | Lee fixed-volume solenoid dispense pump | `lee-fixed-volume-dispense-pump` | 2007 | private | patented |  |
 | Leica Bond-III automated immunohistochemistry stainer | `leica-bond-iii-staining` | 2007 | private | patented |  |
@@ -1165,12 +1262,16 @@
 | Lifeloc FC20 Breathalyzer Microfluidic Sample Cell | `lifeloc-fc20-breathalyzer` | 2008 | private | patented |  |
 | LifeScan / OneTouch glucose test strip | `lifescan-glucose-test-strip` | 1981 | private | patented |  |
 | LightCycler real-time rapid PCR (Wittwer 1997) | `wittwer-1997-rapid-cycler` | 1997 | academic | patented |  |
+| LIGHTHOUSE Instruments FMS / VeriPac Laser Headspace Analysis (Container-Closure Integrity) | `lighthouse-instruments-fms-laser-headspace-cci` | 2004 | private | patented |  |
+| Link 2004 geometrically mediated breakup of drops in microfluidic devices | `link-2004-geometrically-mediated-drop-breakup` | 2004 | academic | public-domain |  |
 | Linx 7900 Continuous Inkjet Coder | `linx-7900-cij-coder` | 2010 | private | patented |  |
 | Linx 8900 Continuous Inkjet Coder | `linx-8900-cij-coder` | 2015 | private | patented |  |
 | LioniX International TriPleX PIC + Microfluidic Flow Cell | `lionix-triplex-pic-microfluidic` | 2015 | private | patented |  |
 | Lipoid GmbH pharmaceutical-grade phospholipid manufacturing (Lipoid / Phospholipon) | `lipoid-gmbh-pharmaceutical-lipid-manufacturing` | 1973 | private | trade-secret |  |
 | Liquid-biopsy / comprehensive-genomic-profiling patent cluster (Guardant against Foundation Medicine; Caris against Foundation Medicine; Caris against NeoGenomics) | `liquid-biopsy-cgp-litigation-cluster` | 2017 | private | patented |  |
+| Lithium-ion battery cell electrolyte filling and wetting station | `ev-battery-electrolyte-filling-station` | 2011 | private | patented |  |
 | Little Things Factory glass microreactor (LTF-MS, LTF-V) | `little-things-factory-mikroreaktor` | 2005 | private | patented |  |
+| Liu 2002 nanoliter rotary device for polymerase chain reaction | `liu-quake-2002-nanoliter-rotary-pcr-device` | 2002 | academic | public-domain |  |
 | Liu Cixin - Hold Up the Sky stories biofluidics | `liu-cixin-hold-up-the-sky-stories` | 2020 | fictional | fictional |  |
 | Liu Cixin - The Wandering Earth Underground City medical | `liu-cixin-wandering-earth-underground-medical` | 2000 | fictional | fictional |  |
 | Liver hepatocyte sandwich-culture on chip | `bhushan-2013-liver-on-chip` | 2013 | academic | patented |  |
@@ -1184,12 +1285,15 @@
 | Lonza Cocoon CAR-T cell therapy platform | `lonza-cocoon-cell-therapy` | 2017 | private | patented |  |
 | Lonza FlowPlate microreactor (with Ehrfeld BTS) | `lonza-flowplate` | 2008 | private | patented |  |
 | Lonza Nucleofector (classic 2b/2S cuvette platform) | `lonza-nucleofector-classic` | 2001 | private | patented |  |
+| Lonza PyroGene / PyroTec Recombinant Factor C Endotoxin Test | `lonza-pyrogene-recombinant-factor-c-cartridge` | 2003 | private | patented |  |
 | Loop-mediated isothermal amplification (LAMP) | `notomi-2000-loop-mediated-isothermal` | 2000 | academic | patented |  |
 | Lord of Light reincarnation / body-cloning tech (Zelazny) | `zelazny-lord-of-light-reincarnation-tech` | 1967 | fictional | fictional |  |
+| LOreal SkinCeuticals Custom D.O.S.E Bespoke Serum Compounding System | `loreal-skinceuticals-custom-dose` | 2018 | private | patented |  |
 | Los Gatos Research / ABB Off-Axis ICOS Trace Gas Analyzer Microfluidic Inlet | `los-gatos-research-trace-gas-analyzer` | 2003 | private | patented |  |
 | LOT Network (License On Transfer) and the Google Patent Starter Program - anti-troll patent pools | `lot-network-google-patent-starter` | 2014 | open | open-permissive |  |
 | Low Reynolds Number Hydrodynamics (Happel & Brenner, 1965) | `happel-brenner-1965-low-reynolds-hydrodynamics` | 1965 | academic | public-domain |  |
 | Lucas 1918 — Capillary Rise Dynamics | `lucas-1918-capillary-rise-dynamics` | 1918 | academic | public-domain |  |
+| Lucas Clinic celebrity-virus harvesting, attenuation, and injection apparatus (Antiviral, 2012) | `antiviral-lucas-clinic-celebrity-virus-injection` | 2012 | fictional | fictional | ✓ |
 | Lucira Check-It Flu+COVID Home Test | `lucira-check-it-flu-covid-test` | 2023 | private | patented |  |
 | Lucira Flu + COVID OTC test 2024 extend | `lucira-flu-covid-otc-2024` | 2024 | private | patented |  |
 | Lucira Health Check It home COVID-19 isothermal molecular test | `lucira-home-covid-test` | 2020 | private | patented |  |
@@ -1210,9 +1314,11 @@
 | Made in Abyss Crimson Splitjaw Curse Fluid Effects | `made-in-abyss-crimson-splitjaw-fluid-effects` | 2017 | fictional | fictional |  |
 | Made in Abyss Curse-bearing fluid biology and Idofront laboratories | `made-in-abyss-curse-bearing-fluid` | 2017 | fictional | fictional | ✓ |
 | Madou 2011 — Fundamentals of Microfabrication and Nanotechnology (3rd ed, 3-volume) (textbook) | `madou-2011-fundamentals-microfabrication-3rd-edition` | 2011 | academic | public-domain |  |
+| Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) | `maerkl-quake-2007-mitomi-transcription-factor-binding` | 2007 | academic | public-domain |  |
 | Magnetic-activated cell sorting (MACS) | `miltenyi-1990-macs-magnetic-cell-sorting` | 1990 | academic | patented |  |
 | Magnetic-bead microvalve and pump | `leslie-2009-magnetic-bead-valve` | 2009 | academic | patented |  |
 | Magos Biologis Vat-Grown Servitor Facility | `warhammer-40k-magos-biologis-vat-servitor` | 1993 | fictional | fictional |  |
+| Malvern Panalytical Mastersizer 3000 Hydro Wet Dispersion Cell | `malvern-mastersizer-3000-wet-dispersion-cell` | 2011 | private | patented |  |
 | Malvern Panalytical Zetasizer Ultra LNP Sizing Cuvette | `malvern-zetasizer-ultra-lnp` | 2018 | private | patented |  |
 | Mammoth Biosciences DETECTR BOOST cartridge | `mammoth-detectr-boost-cartridge` | 2022 | private | patented |  |
 | Mammoth DETECTR BOOST and Multiplex Cartridge | `mammoth-detectr-cartridge-2024` | 2022 | private | patented |  |
@@ -1227,6 +1333,7 @@
 | Manz, Becker & Lee 1998 — Microsystem Technology in Chemistry and Life Sciences (textbook) | `manz-becker-1998-microsystem-technology-textbook` | 1998 | academic | public-domain |  |
 | Marangoni 1865 — On the expansion of a droplet of liquid floating on the surface of another liquid (surface-tension-driven flow) | `marangoni-1865-surface-tension-flow` | 1865 | academic | public-domain |  |
 | Marangoni convection (thermocapillary and solutocapillary forms) | `marangoni-convection-thermosolutocapillary` | 1865 | academic | public-domain |  |
+| Marcus 2006 microfluidic single-cell mRNA isolation and analysis | `marcus-2006-microfluidic-single-cell-mrna-isolation` | 2006 | academic | public-domain |  |
 | Mardock Scramble medical resurrection chamber | `mardock-scramble-medical-resurrection` | 2003 | fictional | fictional |  |
 | Mark, Haeberle, Roth, von Stetten & Zengerle 2010 — Microfluidic lab-on-a-chip platforms | `mark-2010-microfluidic-platforms-review` | 2010 | academic | public-domain |  |
 | Markem-Imaje 9450 Continuous Inkjet Coder | `markem-imaje-9450-cij-coder` | 2014 | private | patented |  |
@@ -1240,6 +1347,7 @@
 | Martha Wells Murderbot Diaries HubSystem MedSystem | `wells-murderbot-medsystem` | 2017 | fictional | fictional |  |
 | Martin Christ Alpha 2-4 LSCplus laboratory freeze-dryer | `christ-alpha-2-4-lscplus` | 2012 | private | patented |  |
 | Marvel Asgardian healing room (golden apple regeneration chamber) | `asgard-bio-suit-asgardian` | 2011 | fictional | fictional | ✓ |
+| Maselli Misure Inline CO2 / Brix / Inversion Beverage Process Analyzer | `maselli-uc4sa-inline-co2-brix-soft-drink-analyzer` | 2005 | private | patented |  |
 | Masimo Rad-57 pulse CO-oximetry sensor | `masimo-rad57-pulse-co-oximetry` | 2005 | private | patented |  |
 | Mass Effect 3 Genophage cure synthesis platform | `mass-effect-genophage-cure` | 2012 | fictional | fictional |  |
 | Mass Effect Cerberus Lazarus Project (Shepard reconstruction facility) | `mass-effect-cerberus-lazarus-project` | 2010 | fictional | fictional |  |
@@ -1260,8 +1368,11 @@
 | Medtronic Guardian Connect / Guardian 3 Sensor | `medtronic-guardian-3-cgm` | 2017 | private | patented |  |
 | Medtronic MiniMed 780G insulin pump cartridge | `medtronic-780g-pump` | 2017 | private | patented |  |
 | Medtronic Simplera Disposable CGM | `medtronic-simplera-cgm` | 2023 | private | patented |  |
+| Megazyme Enzymatic Bioanalysis Cuvette Kits (Beverage Sugars / Acids) | `megazyme-enzymatic-assay-beverage-cuvette-kit` | 2000 | private | patented |  |
+| Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation | `melin-quake-2007-microfluidic-large-scale-integration-design-rules` | 2007 | academic | public-domain |  |
 | Memjet thermal silicon-MEMS printhead | `memjet-printhead` | 2007 | private | patented |  |
 | Memjet Waterfall MEMS Pagewide Printhead | `memjet-waterfall-mems-printhead` | 2007 | private | patented |  |
+| MEMS cold-gas micro-thruster module for CubeSats (GomSpace/NanoSpace, VACCO ChEMS, Marotta class) | `cubesat-mems-cold-gas-microthruster` | 2007 | private | patented |  |
 | Menarini Silicon Biosystems DEPArray | `menarini-deparray` | 2009 | private | patented |  |
 | Menarini Silicon Biosystems DEPArray NxT | `menarini-silicon-biosystems-deparray-nxt` | 2016 | private | patented |  |
 | Merck KGaA / MilliporeSigma single-use bioprocess patent estate (Pellicon TFF / Mobius bioreactor / Millex chain) | `merck-millipore-sigma-patent-estate` | 1954 | private | patented |  |
@@ -1271,6 +1382,7 @@
 | Metafluidics open microfluidics design repository | `metafluidics-platform` | 2018 | open | open-permissive |  |
 | Metafluidics open-hardware microfluidics database (disclosure entry) | `metafluidics-database-disclosure` | 2017 | open | open-permissive |  |
 | Metafluidics — Open Community Microfluidics Repository (extended) | `metafluidics-2017-community-microfluidics` | 2017 | open | open-permissive |  |
+| Metrohm 851 Titrando / 899 Coulometer Karl Fischer Water Determination | `metrohm-851-titrando-karl-fischer` | 2005 | private | patented |  |
 | Mettler-Toledo InPro 6000 Series Polarographic / Optical DO Sensors | `mettler-toledo-inpro-6000-series` | 2008 | private | patented |  |
 | Mettler-Toledo InPro 6800 / 6850 Dissolved Oxygen Sensor | `mettler-toledo-inpro-6800-do` | 1995 | private | patented |  |
 | Mettler-Toledo ParticleTrack G400 FBRM Probe | `mettler-toledo-particletrack-g400-fbrm` | 2010 | private | patented |  |
@@ -1290,6 +1402,7 @@
 | Microfabricated dielectrophoretic single-cell trap arrays | `voldman-2002-cell-trap-dep-array` | 2002 | academic | patented |  |
 | Microfabricated ESI emitter (Figeys 1997) | `figeys-1997-microfabricated-esi` | 1997 | academic | patented |  |
 | Microflow devices and systems (Shoji & Esashi review, 1994) | `shoji-1994-microflow-devices-systems-review` | 1994 | academic | public-domain |  |
+| Microfluidic / micro-channel solvent-extraction contactor for nuclear reprocessing (PUREX and minor-actinide separation studies) | `purex-microfluidic-solvent-extraction-contactor` | 2007 | academic | patented |  |
 | Microfluidic alginate microbead generation | `choi-weitz-2007-alginate-microbead` | 2007 | academic | patented |  |
 | Microfluidic bioreactor for individual yeast cells | `rusconi-2011-microfluidic-bioreactor` | 2011 | academic | public-domain |  |
 | Microfluidic bubble logic | `prakash-2007-bubble-logic` | 2007 | academic | public-domain |  |
@@ -1298,6 +1411,7 @@
 | Microfluidic cell-pairing trap arrays for cell fusion | `skelley-2009-cell-pairing-trap` | 2009 | academic | patented |  |
 | Microfluidic cell-trap array for single-cell analysis | `di-carlo-2006-cell-trap-array` | 2006 | academic | patented |  |
 | microfluidic ChipShop standard glass and thermoplastic chips | `microfluidic-chipshop-fluidic-chips` | 2002 | private | trade-secret |  |
+| Microfluidic Continuous Synthesis of ZnO / TiO2 Sunscreen Nanoparticle Dispersions | `microfluidic-sunscreen-nanoparticle-synthesis` | 2008 | academic | unknown |  |
 | Microfluidic electroporation for cell therapy manufacturing | `microfluidic-electroporation-cell-therapy` | 2018 | academic | patented |  |
 | Microfluidic emulsion droplets in research and applications | `anna-mayer-2005-droplet-fluidics-review` | 2005 | academic | public-domain |  |
 | Microfluidic extracellular vesicle / exosome isolation | `microfluidic-extracellular-vesicle-isolation` | 2014 | academic | patented |  |
@@ -1312,6 +1426,7 @@
 | Microfluidics: fluid physics at the nanoliter scale | `squires-quake-2005-review` | 2005 | academic | public-domain |  |
 | Microinnova Engineering modular continuous-flow skid | `microinnova-engineering-modular-skid` | 2008 | private | patented |  |
 | Microinnova MICROINNOVA Modular Skid Continuous Manufacturing | `microinnova-modular-skid-continuous` | 2014 | private | patented |  |
+| MicroLED fluidic self-assembly mass-transfer process (eLux / Sharp; PlayNitride / X-Celeprint stamp alternatives) | `microled-fluidic-self-assembly-mass-transfer` | 2017 | private | patented |  |
 | Micromachined Transducers Sourcebook (Kovacs 1998) | `kovacs-1998-bioMEMS-textbook` | 1998 | academic | public-domain |  |
 | Micromachining a miniaturized capillary electrophoresis-based chemical analysis system on a chip (Harrison, Fluri, Seiler, Fan, Effenhauser, Manz, 1993) | `harrison-1993-science-mu-tas-chip` | 1993 | academic | public-domain |  |
 | Microneedle Ocular Patch for Posterior-Segment Drug Delivery | `thakur-2020-microneedle-ocular-patch` | 2020 | academic | patented |  |
@@ -1323,12 +1438,14 @@
 | Microsoft Project Natick + Two-Phase Immersion Cooling Subsea Data Center | `microsoft-natick-twophase-cooling` | 2018 | private | patented |  |
 | Microsoft Project Silica + DNA Storage Research Devices | `microsoft-dna-storage-research-device` | 2019 | academic | patented |  |
 | MicroTAS 1995 conference founding (van den Berg / Bergveld) | `van-den-berg-1995-mu-tas-conference` | 1995 | academic | public-domain |  |
+| Millipore Steritest / Sartorius Sterisart Closed Membrane-Filtration Sterility Funnel | `millipore-steritest-sterisart-membrane-filtration-funnel` | 1985 | private | patented |  |
 | Millrock REVO / MicroSL development freeze-dryer | `millrock-revo-microsl` | 2015 | private | patented |  |
 | Miltenyi CliniMACS Prodigy Adapt module | `miltenyi-prodigy-adapt` | 2023 | private | patented |  |
 | Miltenyi CliniMACS Prodigy cell therapy platform | `miltenyi-clinimacs-prodigy` | 2014 | private | patented |  |
 | Mimaki JFX600-2531 UV-LED Flatbed Inkjet | `mimaki-jfx600-2531-uv-flatbed` | 2022 | private | patented |  |
 | Mimaki TS500P-3200 Industrial Textile Sublimation Printer | `mimaki-tx500p-3200-textile-printer` | 2018 | private | patented |  |
 | Mimaki Tx/JV Textile and Wide-Format Inkjet Printer (OEM Piezo Array) | `mimaki-tx-textile-printer-piezo-array` | 2003 | private | patented | ✓ |
+| Mind flayer ceremorphosis tadpole and nautiloid pod-incubation (Baldurs Gate 3) | `baldurs-gate-3-illithid-ceremorphosis-tadpole` | 2023 | fictional | fictional | ✓ |
 | MindMed MM120 - Pharmaceutical LSD for generalized anxiety | `mindmed-mm120-lsd` | 2020 | private | patented |  |
 | Mindray BC-30 Auto / BC-40 Auto Hematology Analyzers | `mindray-bc-30-auto-hematology` | 2020 | private | patented |  |
 | Mindray BC-6800 Hematology Analyzer SF Cube Flow Cell | `mindray-bc-6800-hematology-flow-cell` | 2011 | private | patented |  |
@@ -1342,6 +1459,7 @@
 | Mister Sinister cloning vats (Madelyne Pryor; the London facility) | `x-men-mister-sinister-cloning-vats` | 1986 | fictional | fictional | ✓ |
 | MIT Center for Bits and Atoms / Fab Lab Network | `openfoundry-cba-fab-lab-network` | 2002 | open | open-permissive |  |
 | Mitra Biotech TumorGRAFT patent family | `mitra-biotech-tumorgraft-patent-family` | 2014 | private | patented |  |
+| MobiPak wearable microfluidic drug-dispenser backpack (Spiderhead, 2022) | `spiderhead-mobipak-drug-dispenser-backpack` | 2022 | fictional | fictional | ✓ |
 | Modern Meadow Zoa biofabricated collagen leather | `modern-meadow-zoa-leather` | 2017 | private | patented |  |
 | Moderna mRNA Continuous-Process Manufacturing Platform | `moderna-mrna-continuous-process` | 2020 | private | patented | ✓ |
 | Moderna Norwood mRNA Continuous-Process Platform | `moderna-norwood-mrna-platform` | 2018 | private | patented |  |
@@ -1360,6 +1478,7 @@
 | Mutoh XpertJet XPJ-460PRT Direct-to-Garment Printer | `mutoh-xpj-460prt-direct-to-garment` | 2017 | private | patented | ✓ |
 | Mycelial network medbay resurrection of Hugh Culber (Star Trek: Discovery S2) | `star-trek-discovery-mycelial-resurrection` | 2019 | fictional | fictional | ✓ |
 | Mylab Discovery Solutions PCR Cartridge Family (India) | `mylab-discovery-cy-tb-cartridge-india` | 2020 | private | patented | ✓ |
+| Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) | `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells` | 2007 | academic | public-domain |  |
 | Namocell Hana Single Cell Dispenser | `namocell-hana-single-cell-dispenser` | 2017 | private | patented |  |
 | Namocell Pala Single Cell Dispenser | `namocell-pala-single-cell-dispenser` | 2020 | private | patented |  |
 | Nano Dimension DragonFly LDM 3D Circuit Printer | `nano-dimension-dragonfly-ldm-3d-circuit-printer` | 2017 | private | patented |  |
@@ -1381,6 +1500,7 @@
 | Neogen ANSR Isothermal Pathogen Detection System | `neogen-ansr-isothermal-pathogen` | 2013 | private | patented |  |
 | Neogen Atlas food pathogen detection cartridge | `neogen-atlas-pathogen` | 2008 | private | patented |  |
 | Neogen GeneQuence DNA Pathogen Detection System | `neogen-genequence-dna-pathogen` | 2006 | private | patented |  |
+| Neogen Igenity Livestock Genomic Profiling (Sample Collection and Genotyping Prep) | `neogen-igenity-livestock-genotyping-prep` | 2010 | private | patented | ✓ |
 | Neogen Reveal Lateral Flow Test Family | `neogen-reveal-lateral-flow-allergen` | 1999 | private | patented |  |
 | Neon Genesis Evangelion LCL entry-plug fluid immersion | `evangelion-lcl-entry-plug` | 1995 | fictional | fictional |  |
 | Nestene Auton plastic-flesh manufacture (Spearhead from Space) | `doctor-who-auton-plastic-flesh-vats` | 1970 | fictional | fictional | ✓ |
@@ -1394,6 +1514,7 @@
 | Nguyen & Wereley 2006 — Fundamentals and Applications of Microfluidics (2nd ed) (textbook) | `nguyen-wereley-2006-fundamentals-microfluidics-textbook` | 2006 | academic | public-domain |  |
 | NIH MPS / NCATS microphysiological systems program | `huh-bhatia-2018-mps-roadmap` | 2012 | academic | public-domain |  |
 | NinjaPCR Open Thermocycler | `ninjapcr-open-thermocycler` | 2018 | open | open-permissive |  |
+| Nirmatas New Asia AI-biology lab and simulant-fabrication line (The Creator, 2023) | `the-creator-nirmata-ai-biology-research` | 2023 | fictional | fictional | ✓ |
 | Niven 'Borderland of Sol' Field Autodoc | `niven-borderland-of-sol-autodoc` | 1975 | fictional | fictional |  |
 | Niven Ringworld Autodoc (1970) | `niven-1970-ringworld-autodoc` | 1970 | fictional | fictional |  |
 | Nix Hydration Biosensor | `nix-hydration-biosensor` | 2021 | private | patented |  |
@@ -1421,6 +1542,7 @@
 | Olink Proteomics Proximity Extension Assay (Target/Explore panels) | `olink-proximity-extension-assay-proteomics` | 2011 | private | patented |  |
 | Olive Diagnostics KG Toilet-Mounted Urine Optical Analyzer | `olive-diagnostics-kg` | 2021 | private | patented |  |
 | OLS Bio CASY Cell Counter and Analyzer (formerly Innovatis CASY-TT) | `ols-bio-casy-tt-cell-counter` | 1991 | private | patented |  |
+| Olympus Bioroid production and life-extension facility (Appleseed) | `appleseed-bioroid-production-facility` | 1985 | fictional | fictional | ✓ |
 | Olympus EndoCapsule EC-10 Capsule Endoscope | `olympus-endocapsule-10` | 2005 | private | patented |  |
 | Olympus Medical fluidic endoscopy patent family | `olympus-medical-fluidic-patents` | 1995 | private | patented |  |
 | On Demand Pharmaceuticals Pharmacy-on-Demand (PoD) refrigerator-scale continuous manufacturing | `on-demand-pharmaceuticals-pharmacy-on-demand` | 2018 | private | patented |  |
@@ -1502,9 +1624,11 @@
 | Parse Biosciences Evercode split-pool single-cell kit | `parse-biosciences-evercode` | 2018 | private | patented |  |
 | Particle Metrix ZetaView - Nanoparticle tracking + zeta potential | `particle-metrix-zetaview-nta` | 2010 | private | patented |  |
 | Passengers (2016) Avalon autodoc medical pod | `passengers-2016-medbay` | 2016 | fictional | fictional |  |
+| Passive-diffusion organic-vapor dosimeter badge (SKC / Assay Technology / 3M class) | `passive-diffusion-organic-vapor-dosimeter-badge` | 1976 | private | patented |  |
 | PatBase (Minesoft) patent search platform | `patbase-minesoft-patent-search` | 2002 | private | trade-secret |  |
 | Paternoster Gang Victorian-era surgical and revival kit (Madame Vastra / Strax) | `doctor-who-paternoster-gang-victorian-medical` | 2012 | fictional | fictional | ✓ |
 | Patexia - prior-art-search and IP-analytics crowdsourcing platform | `patexia-prior-art-crowdsourcing` | 2010 | open | open-permissive |  |
+| Pattern Bioscience Rapid Antibiotic Susceptibility Test (Single-Cell Digital Microfluidics) | `pattern-bioscience-rapid-ast-digital-microfluidics` | 2018 | private | patented |  |
 | PCR (Mullis 1985) | `nelson-polymerase-chain-reaction-1985` | 1985 | academic | patented |  |
 | PCR in silicon microstructures (Wilding, Shoffner & Kricka, 1994) | `wilding-shoffner-kricka-1994-pcr-in-silicon-microstructures` | 1994 | academic | public-domain |  |
 | PDMS-Glass Plasma Bonding Methodology Patent Family | `whitesides-patent-pdms-glass-plasma-bonding` | 1999 | academic | public-domain |  |
@@ -1515,8 +1639,10 @@
 | PEG grafting on PDMS for surface passivation | `eddington-2008-pdms-peg-grafting` | 2003 | academic | public-domain |  |
 | PEGDA hydrogel photopatterning in microfluidic channels | `chen-2003-pegda-hydrogel-photopatterning` | 2003 | academic | patented |  |
 | Peking University microfluidic biotechnology (Cao group) | `peking-u-microfluidics-cao` | 2005 | academic | patented |  |
+| Perfect Day Precision-Fermentation Animal-Free Whey Protein Bioprocess | `perfect-day-precision-fermentation-dairy-protein` | 2015 | private | patented | ✓ |
 | PerkinElmer LabChip GXII Touch / EZ Reader | `perkinelmer-labchip-gxii-ez-reader` | 2002 | private | patented |  |
 | Personalis NeXT Personal (ultra-sensitive tumor-informed MRD) | `personalis-next-personal-ultrasensitive-mrd` | 2023 | private | patented |  |
+| PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) | `pet-cyclotron-target-dissolution-ion-exchange-microfluidic` | 2010 | private | patented |  |
 | Peter F. Hamilton ANA Governance distributed-consciousness substrate (Void Trilogy) | `hamilton-ana-governance-fluidics` | 2007 | fictional | fictional | ✓ |
 | Peter F. Hamilton Edenist affinity-bonding and longevity clinic (Night's Dawn) | `hamilton-edenist-affinity-clinic` | 1996 | fictional | fictional |  |
 | Peter F. Hamilton Highmotive medical pods | `hamilton-highmotive-medical-pod` | 2004 | fictional | fictional |  |
@@ -1532,6 +1658,7 @@
 | Piezoelectric drop-on-demand inkjet (Kyser-Sears 1976) | `kyser-sears-1976-piezo-inkjet` | 1976 | academic | patented |  |
 | Piezoresistance effect in germanium and silicon (C. S. Smith, 1954) | `smith-1954-piezoresistance-germanium-silicon` | 1954 | academic | public-domain |  |
 | Pinched injection on glass CE microchips | `jacobson-1994-pinched-injection` | 1994 | academic | public-domain |  |
+| Pion Rainbow Dynamic Dissolution Monitor (in-situ fiber-optic UV) | `pion-rainbow-insitu-dissolution-fiber-optic` | 2008 | private | patented |  |
 | Pioreactor | `pioreactor-open-bioreactor` | 2021 | open | open-permissive |  |
 | Pioreactor v2 - Open-hardware desktop bioreactor 2024 | `pioreactor-v2-bioreactor` | 2024 | open | open-permissive |  |
 | Planer Plc Kryo 1060 Controlled-Rate Freezer | `planer-kryo-1060-controlled-rate-freezer` | 1990 | private | patented |  |
@@ -1547,6 +1674,7 @@
 | Poly(dimethylsiloxane) as a material for fabricating microfluidic devices (McDonald & Whitesides 2002) | `mcdonald-whitesides-2002-pdms-review` | 2002 | academic | public-domain |  |
 | Poseidon open-source syringe pump | `poseidon-syringe-pump` | 2018 | open | open-permissive |  |
 | Poseidon — Open Syringe Pump and Microscope System | `edmondson-2018-poseidon-syringe-pump-system` | 2019 | open | open-permissive |  |
+| Possessor brain-implant body-hijack rig and Tasya Vos calibration bay (Possessor, 2020) | `possessor-neural-implant-assassination-rig` | 2020 | fictional | fictional | ✓ |
 | POSTECH microfluidic platforms (Kahp-Yang Suh / Korean lineage) | `postech-microfluidics-suh` | 2002 | academic | patented |  |
 | PowerCell Sweden microchannel fuel processor reformer | `powercell-microchannel-fuel-cell-reformer` | 2008 | private | patented |  |
 | Pragmatic Semiconductor FlexIC Thin-Film Readout for Microfluidic Strips | `pragmatic-flexic-microfluidic-readout` | 2018 | private | patented |  |
@@ -1558,7 +1686,9 @@
 | PreSens Precision Sensing Sensor Spot Patches (pH / DO / CO2) | `presens-sensor-spot-patches` | 1998 | private | patented |  |
 | Principles of Colloid and Surface Chemistry (Hiemenz and Rajagopalan, 3rd ed. 1997) | `hiemenz-rajagopalan-1997-colloid-surface-chemistry` | 1977 | academic | public-domain |  |
 | Probstein 1989 — Physicochemical Hydrodynamics (Textbook, 1st ed.) | `probstein-1989-physicochemical-hydrodynamics-textbook` | 1989 | academic | public-domain |  |
+| Procter and Gamble Opte Precision Skincare System (Handheld Inkjet Pigment Wand) | `pg-opte-precision-skincare-wand` | 2019 | private | patented |  |
 | Profusa Lumee implantable hydrogel oxygen sensor | `profusa-lumee-implantable` | 2014 | private | patented |  |
+| Project Apple psychic-induction experiment apparatus (Spy x Family) | `spy-x-family-apple-project-anya-experiment` | 2019 | fictional | fictional | ✓ |
 | Project Cadmus clone vats (Superboy, Match; DC Comics / Young Justice) | `dc-cadmus-clone-vats` | 1971 | fictional | fictional | ✓ |
 | Project Genesis matrix (the Genesis Device) | `star-trek-genesis-device-matrix` | 1982 | fictional | fictional | ✓ |
 | Project Gestalt replicant-decanting facility (NieR Replicant / Gestalt) | `nier-replicant-project-gestalt-facility` | 2010 | fictional | fictional | ✓ |
@@ -1600,6 +1730,7 @@
 | Quantoom Biosciences Ntensify continuous IVT module | `quantoom-ntensify-ivt-module` | 2022 | private | patented |  |
 | Quantoom Biosciences Ntensify mRNA-LNP Platform | `univercells-quantoom-ntensify` | 2022 | private | patented |  |
 | Quantum Diamond Technologies NV-Diamond Cancer-Cell Magnetic-Bead Detector | `lukin-quantum-diamond-technologies` | 2017 | private | patented |  |
+| Quantum-dot inkjet color-conversion layer deposition (Nanosys / Samsung QD-OLED, Nanoco class) | `quantum-dot-inkjet-display-deposition` | 2011 | private | patented |  |
 | Quantum-Si Platinum protein sequencer | `quantum-si-platinum` | 2022 | private | patented |  |
 | QuantumScape Solid-State Battery Slurry Slot-Die Coating | `quantumscape-solid-state-slurry-coating` | 2020 | private | patented |  |
 | Quere 2008 - Wetting and roughness (Annu. Rev. Mater. Res. 38, 71) | `quere-2008-wetting-roughness-review` | 2008 | academic | public-domain |  |
@@ -1608,6 +1739,7 @@
 | Quidel Sofia rapid immunoassay cartridge | `quidel-sofia-cartridge` | 2010 | private | patented |  |
 | Quidel Triage MeterPro Immunoassay Cartridge | `quidel-triage-meterpro-fluorescence-cartridge` | 1995 | private | patented |  |
 | Quincke 1859 - Capillary-rise observations on solid-liquid interfaces | `quincke-1859-capillary-rise-observations` | 1859 | academic | public-domain |  |
+| Quotient MosaiQ Microarray Blood-Typing and Disease-Screening Platform | `quotient-mosaiq-microarray-blood-typing` | 2014 | private | patented |  |
 | Radial capillary-array electrophoresis chip | `mathies-1995-radial-cap-array` | 1995 | academic | patented |  |
 | Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette | `radiometer-abl90-flex-cartridge` | 2009 | private | patented |  |
 | RainDance Technologies droplet platform (acquired by Bio-Rad) | `raindance-bio-rad-acquisition` | 2008 | private | patented |  |
@@ -1616,10 +1748,12 @@
 | Ramez Naam Nexus trilogy nano-pharmaceutical brain interface | `naam-nexus-trilogy-implant` | 2012 | fictional | fictional |  |
 | Ramsey integrated chip-MS extensions (post-1996) | `ramsey-2000-integrated-chip-ms` | 2000 | academic | patented |  |
 | Randox Toxicology BioChip Array Drug Screen Multiplex | `randox-toxicology-biochip-multiplex` | 2009 | private | patented |  |
+| Rapid Micro Biosystems Growth Direct System | `rapid-micro-biosystems-growth-direct` | 2008 | private | patented |  |
 | Rapid prototyping of microfluidic systems in PDMS | `duffy-1998-pdms-soft-lithography-microfluidics` | 1998 | academic | public-domain |  |
 | Ray Bradbury There Will Come Soft Rains automated household fluidics | `bradbury-soft-rains-automated-kitchen` | 1950 | fictional | fictional |  |
 | Rayleigh 1879 — On the instability of jets (Plateau-Rayleigh instability) | `rayleigh-1879-jet-instability` | 1879 | academic | public-domain |  |
 | Raytheon AESA Radar T/R Module Microchannel Cooling | `raytheon-aesa-microchannel-cooling` | 2005 | private | patented |  |
+| REACT Chimera/Archaean parasite research and containment-extraction lab (Rainbow Six Extraction) | `rainbow-six-extraction-chimera-parasite-lab` | 2022 | fictional | fictional | ✓ |
 | Readily3D Tomolite volumetric bioprinter | `readily3d-tomolite` | 2020 | private | patented |  |
 | Real-time DNA sequencing from single polymerase molecules (PacBio SMRT) | `eid-2009-pacbio-smrt` | 2009 | academic | patented |  |
 | Recombinase polymerase amplification (RPA) | `rolando-recombinase-polymerase-amplification` | 2006 | academic | patented |  |
@@ -1630,12 +1764,16 @@
 | Refeyn TwoMP / SamuxMP LNP Characterization Application | `refeyn-twomp-lnp-application` | 2022 | private | patented |  |
 | RegenHU 3DDiscovery / R-GEN bioprinter | `regenhu-3d-discovery-bioplotter` | 2012 | private | patented |  |
 | Relic biochip implantation and engram-substrate fusion (Cyberpunk 2077) | `cyberpunk-2077-relic-biochip-fusion` | 2020 | fictional | fictional | ✓ |
+| Reminiscence memory-immersion sensory-deprivation tank (Reminiscence, 2021) | `reminiscence-memory-immersion-tank` | 2021 | fictional | fictional | ✓ |
+| Renaissance station Z-01 black-goo (Prometheus pathogen) research and cryo bay (Alien: Romulus, 2024) | `alien-romulus-renaissance-station-prometheus-pathogen-lab` | 2024 | fictional | fictional | ✓ |
 | Replenish Inc. Ophthalmic MEMS Drug Delivery Micropump | `replenish-mems-ophthalmic-micropump` | 2008 | private | patented |  |
 | Repligen KrosFlo tangential flow filtration system | `repligen-krosflo-tff` | 2005 | private | patented |  |
 | Repligen OPUS Omega AAV Pre-packed Column | `repligen-omega-aav` | 2021 | private | patented |  |
 | Repligen ProConnex single-use TFF flow path | `repligen-proconnex-single-use-tff` | 2017 | private | patented |  |
 | Repligen XCell ATF alternating tangential flow cell-retention device | `repligen-xcell-atf` | 2002 | private | patented |  |
 | Research Disclosure (Kenneth Mason Publications) Defensive Publication Journal | `research-disclosure-kenneth-mason-publications` | 1960 | private | trade-secret |  |
+| Research International RAPTOR portable fluidic immunoassay analyzer | `research-international-raptor-fluidic-immunoassay-analyzer` | 2000 | private | patented |  |
+| Reservoir-on-chip etched-glass micromodel for enhanced oil recovery and pore-scale flow | `reservoir-on-chip-etched-glass-micromodel` | 1983 | academic | open-permissive |  |
 | Resident Evil T-Virus / G-Virus injection vials and Umbrella labs | `resident-evil-virus-injection-vial` | 1996 | fictional | fictional |  |
 | Resilience (National Resilience) mRNA CDMO Platform | `resilience-mrna-cdmo` | 2020 | private | trade-secret | ✓ |
 | Resilience CGT Manufacturing Platform | `resilience-cgt-manufacturing-platform` | 2020 | private | trade-secret | ✓ |
@@ -1656,6 +1794,7 @@
 | Ricoh GH2220 Silicon Piezo Industrial Printhead | `ricoh-gh2220-silicon-piezo-printhead` | 2013 | private | patented |  |
 | Ricoh MH5420/MH5440 Stainless-Steel Recirculating Industrial Printhead | `ricoh-mh5440-stainless-recirculating-printhead` | 2014 | private | patented |  |
 | Ricoh Ri 1000/2000/6000 Direct-to-Garment Printer Series | `ricoh-ri-garment-printer-series` | 2018 | private | patented |  |
+| Rifter deep-sea bio-modification and the Beebe Station med-bay (Peter Watts, Rifters trilogy) | `watts-rifters-deep-sea-tweaked-biology` | 1999 | fictional | fictional | ✓ |
 | Ringworld Engineers Autodoc (1979 enhancements) | `niven-1979-ringworld-engineers-autodoc` | 1979 | fictional | fictional |  |
 | RISO ComColor GD-Series Fast Cut-Sheet Inkjet | `riso-comcolor-gd-series-fast-cut-sheet-inkjet` | 2014 | private | patented |  |
 | Rissin & Walt Femtoliter Microwell Array (Simoa Foundation) | `rissin-2008-femtoliter-array-foundation` | 2006 | academic | patented |  |
@@ -1681,6 +1820,7 @@
 | Rockley Photonics Bioptx Multi-Analyte Wearable | `rockley-photonics-bioptx-multianalyte` | 2021 | private | patented | ✓ |
 | Roland DG SOLJET DX Eco-Solvent Wide-Format Piezo Printhead | `roland-dg-soljet-dx-piezo-printhead` | 2001 | private | patented |  |
 | Roland VersaUV LEJ-2/LEF-2/LEC2 UV Inkjet Series | `roland-versauv-lej2-flatbed-uv` | 2019 | private | patented |  |
+| Roll-to-roll gravure printing ink-cell and doctor-blade metering for printed electronics | `roll-to-roll-gravure-printed-electronics-ink-metering` | 2008 | private | open-permissive |  |
 | Romer Labs AgraStrip Mycotoxin Lateral Flow Tests | `romer-labs-agrastrip-mycotoxin-lateral-flow` | 2010 | private | patented |  |
 | Romer Labs FluoroQuant Mycotoxin Quantitation System | `romer-labs-fluoroquant-mycotoxin-quant` | 2008 | private | patented |  |
 | RoosterBio xeno-free hMSC manufacturing platform | `roosterbio-rooster-platform` | 2014 | private | patented |  |
@@ -1700,6 +1840,7 @@
 | Samsung Genome Center patent family | `samsung-genome-center-patent-family` | 2014 | academic | patented |  |
 | Sano 1992 ImmunoPCR Foundational Disclosure | `sano-1992-immunopcr-foundational-anchor` | 1992 | academic | public-domain |  |
 | Sanofi AF03 squalene oil-in-water emulsion adjuvant | `sanofi-af03-squalene-emulsion` | 2011 | private | patented |  |
+| Sark autopsy/surgery beds, OrchidBed, and BreakFaster chair (Crimes of the Future, 2022) | `crimes-of-the-future-sark-surgical-units` | 2022 | fictional | fictional | ✓ |
 | Sartorius ambr 15 microbioreactor system | `sartorius-ambr-15` | 2009 | private | patented |  |
 | Sartorius ambr 250 high-throughput single-use bioreactor | `sartorius-ambr-250` | 2013 | private | patented |  |
 | Sartorius ambr 250 Modular Single-Use Bioreactor | `sartorius-ambr-250-modular-bioreactor` | 2014 | private | patented |  |
@@ -1717,6 +1858,7 @@
 | Sartorius Sartocon ultrafiltration cassette family | `sartorius-sartocon-cassette` | 1995 | private | patented |  |
 | Sartorius Sartoflow Smart benchtop TFF skid | `sartorius-sartoflow-smart` | 2018 | private | patented |  |
 | Sartorius Stedim Biotech single-use bioprocessing patent estate (Sartoflow TFF / ambr microbioreactor / Biostat STR chain) | `sartorius-stedim-patent-estate` | 2007 | private | patented |  |
+| Satellite hydrazine monopropellant attitude-control thruster and propellant feed (Aerojet Rocketdyne MR-103/MR-111, ArianeGroup CHT class) | `satellite-hydrazine-monopropellant-feed-thruster` | 1972 | private | patented |  |
 | SC Labs - California cannabis testing infrastructure | `sc-labs-cannabis-testing` | 2010 | private | trade-secret |  |
 | Scale Biosciences single-cell split-pool kit | `scale-bio-split-pool-kit` | 2022 | private | patented |  |
 | Scale Biosciences Split-Pool Combinatorial Indexing Patent Family | `scale-bio-split-pool-patent-family` | 2021 | private | patented |  |
@@ -1729,6 +1871,7 @@
 | SCHOTT TopPac Polymer Prefilled Syringe | `schott-toppac-prefilled-syringe` | 2007 | private | patented |  |
 | Science Jubilee Lab-Automation Fork | `sonderegger-2024-science-jubilee` | 2024 | open | open-permissive |  |
 | SCIEX Eksigent ekspert nanoLC 400 / 425 Nanoflow Liquid Chromatography | `sciex-eksigent-nanolc` | 2002 | private | patented |  |
+| Screen-printed electrode (SPE) fabrication for biosensors and glucose strips | `screen-printed-biosensor-electrode-deposition` | 1984 | private | patented |  |
 | ScreenCell CTC capture cartridge | `screencell-ctc-capture-cartridge` | 2011 | private | patented |  |
 | SD Biosensor STANDARD Q rapid antigen test | `sd-biosensor-rapid-antigen` | 2017 | private | patented |  |
 | Sea-Bird Scientific HydroCAT-EP Microfluidic In-Situ pH Analyzer | `sea-bird-hydrocat-ep` | 2016 | private | trade-secret | ✓ |
@@ -1740,6 +1883,7 @@
 | Seiko Instruments (SII Printek) RC1536 Industrial Piezo Printhead | `seiko-instruments-rc1536-printhead` | 2010 | private | patented |  |
 | Self-assembled monolayers (Ulman 1996 review) | `ulman-1996-self-assembled-monolayers` | 1991 | academic | public-domain |  |
 | Self-optimizing continuous flow chemistry | `reizman-2015-self-optimizing-flow` | 2015 | academic | public-domain |  |
+| SeLux Diagnostics Next-Generation Phenotyping (NGP) Rapid AST System | `selux-diagnostics-rapid-ast-phenotyping` | 2017 | private | patented | ✓ |
 | Senseonics Eversense Implantable Continuous Glucose Monitor | `senseonics-eversense-implantable-cgm` | 2016 | private | patented |  |
 | Sensimed Triggerfish Contact-Lens Continuous IOP Sensor | `sensimed-triggerfish-iop` | 2009 | private | patented |  |
 | Sensirion SLF3S-1300F Single-Use Liquid Flow Sensor | `sensirion-slf3s-1300f-microflow` | 2019 | private | patented |  |
@@ -1764,9 +1908,11 @@
 | SHINE CRISPR-on-paper diagnostic | `myhrvold-zhang-2018-shine-crispr-on-paper` | 2018 | academic | patented |  |
 | Ship-autodoc full-body reconstitution from a neural-lace backup (Surface Detail, the Sense Made Common) | `banks-surface-detail-sense-made-common-reconstitution` | 2010 | fictional | fictional | ✓ |
 | Shiseido HumanFit Vision personalized cosmetics platform | `shiseido-humanfit-vision` | 2017 | private | patented |  |
+| Shiseido Optune AI-Personalized Skincare Cartridge Dispenser | `shiseido-optune-personalized-skincare-cartridge` | 2018 | private | patented |  |
 | Shockwave Rider Plug-In Medical (Worm-Era Telemed) | `brunner-shockwave-rider-medical` | 1975 | fictional | fictional |  |
 | SHUGA POC molecular diagnostic cartridge (2024 demonstration) | `kaminski-shuga-cartridge-2024` | 2024 | academic | patented |  |
 | Shuris vibranium-augmented medical lab and Kimoyo-bead remote surgery (Black Panther / Wakanda Forever) | `black-panther-shuri-vibranium-medical-lab` | 2018 | fictional | fictional | ✓ |
+| Sia and Whitesides 2003 microfluidic devices fabricated in PDMS for biological studies | `sia-whitesides-2003-pdms-microfluidic-devices-biology` | 2003 | academic | public-domain |  |
 | Siemens Atellica CH 930 Clinical Chemistry Analyzer Cuvette Ring | `siemens-atellica-ch-930-cuvette-ring` | 2017 | private | patented |  |
 | Siemens Atellica IM 1300 Immunoassay Analyzer Acridinium Cuvette Module | `siemens-atellica-im-1300-immunoassay` | 2017 | private | patented |  |
 | Siemens epoc Blood Analysis System cartridge | `epoc-blood-gas-analyzer` | 2006 | private | patented |  |
@@ -1783,6 +1929,7 @@
 | Silo (TV adaptation) implant fluid handling depictions | `silo-implant-chip` | 2023 | fictional | fictional |  |
 | Single molecule arrays (Simoa) for ultrasensitive immunoassay | `rissin-2010-quanterix-simoa` | 2010 | academic | patented |  |
 | Single-molecule DNA sequencing through nanopore | `clarke-2009-nanopore-sequencing` | 2009 | academic | patented |  |
+| Single-wafer wet-clean chemistry delivery and megasonic nozzle (SCREEN FREXION / TEL CELLESTA class) | `screen-frexion-tel-cellesta-single-wafer-clean` | 2002 | private | patented |  |
 | Singleron Matrix microwell single-cell platform | `singleron-matrix-microwell` | 2020 | private | unknown | ✓ |
 | Singleron Matrix patent family extensions | `singleron-matrix-patent-extensions` | 2019 | private | patented |  |
 | Singleron Matrix sCircle Barcoding | `singleron-matrix-scircle-barcoding` | 2023 | private | patented | ✓ |
@@ -1790,7 +1937,9 @@
 | Singular Genomics G4 sequencer flow cell | `singular-genomics-g4` | 2022 | private | patented |  |
 | Singular Genomics Layoffs and Restructuring Disclosure (2024) | `singular-genomics-restructuring-2024` | 2024 | private | patented |  |
 | Singulex Erenna single-molecule counting immunoassay | `todd-singulex-erenna-2006` | 2006 | academic | patented |  |
+| SiPix microcup electronic-ink array (E Ink microcup architecture) | `eink-sipix-microcup-electrowetting-array` | 2002 | private | patented |  |
 | Six Million Dollar Man bionic-diagnostic medical scanner | `six-million-dollar-man-bionic-diagnostics` | 1973 | fictional | fictional |  |
+| Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) | `skelley-2005-mars-organic-analyzer-microdevice` | 2005 | academic | public-domain |  |
 | Slide-seq spatial transcriptomics on bead arrays | `rodriques-2019-slide-seq` | 2019 | academic | patented |  |
 | Slot-Die Microfluidic Coating Head for Lithium-Ion Battery Electrodes | `slot-die-battery-electrode-coating` | 2010 | private | patented |  |
 | Slot-Die Microfluidic Coating Head for Perovskite Solar Cells | `slot-die-perovskite-coating-head` | 2015 | academic | patented |  |
@@ -1800,7 +1949,9 @@
 | Smartphone-based semen analysis (Kanakasabapathy 2017) | `kanakasabapathy-shafiee-2017-cellphone-fertility` | 2017 | academic | patented |  |
 | Smith-Root eDNA Sampler (eFishery) | `smith-root-efishery-edna-sampler` | 2017 | private | patented |  |
 | Smith-Root eDNA Sampler Cartridge | `smith-root-edna-sampler` | 2018 | private | patented |  |
+| Smiths Detection IONSCAN 600 explosives and narcotics trace detector | `smiths-detection-ionscan-600-explosives-trace-detector` | 2014 | private | patented |  |
 | Smiths Detection IONSCAN Ion Mobility Spectrometer (Trace Detection) | `smiths-detection-ionscan` | 1995 | private | patented |  |
+| Smiths Detection LCD 3.3 lightweight chemical-warfare-agent detector | `smiths-detection-lcd-3-3-chemical-agent-detector` | 2007 | private | patented |  |
 | Smithsonian Center for Conservation Genomics Microfluidic Workflow | `smithsonian-conservation-genomics-microfluidic` | 2015 | open | public-domain | ✓ |
 | Smoluchowski 1903 — Electroosmotic Velocity Equation | `smoluchowski-1903-electroosmosis-equation` | 1903 | academic | public-domain |  |
 | Smoluchowski 1916 — Diffusion-Controlled Coagulation Theory | `smoluchowski-1916-diffusion-coagulation` | 1916 | academic | public-domain |  |
@@ -1811,9 +1962,11 @@
 | Soft, skin-mounted epidermal microfluidic device for sweat collection and analysis | `koh-rogers-2016-epidermal-microfluidic` | 2016 | academic | patented |  |
 | Solaris Biotech Jupiter Bioreactor / Fermenter | `solaris-jupiter-custom-bioreactor` | 2010 | private | trade-secret | ✓ |
 | SOLID (Signs Of Life Detector) Antibody Microarray Platform | `nasa-solid-signs-of-life-detector` | 2008 | academic | unknown |  |
+| Song 2003 microfluidic system for controlling reaction networks in time (plug-based) | `song-ismagilov-2003-plug-based-reaction-networks` | 2003 | academic | public-domain |  |
 | SonoSep Technologies Acoustic Cell Separator | `sonosep-acoustic-cell-separation` | 2002 | private | patented |  |
 | Sontaran clone-batch hatchery (The Sontaran Stratagem / The Poison Sky) | `doctor-who-sontaran-clone-vats` | 2008 | fictional | fictional | ✓ |
 | Sony SH800 Microfluidic Cell Sorter | `sony-sh800-microfluidic-cell-sorter` | 2013 | private | patented |  |
+| SOTAX CE 7smart USP Apparatus 4 Flow-Through Dissolution Cell | `sotax-ce7smart-flow-through-dissolution-cell` | 2003 | private | patented |  |
 | SP Scientific LyoStar 3 R&D freeze-dryer | `sp-scientific-lyostar-3` | 2013 | private | patented |  |
 | SP Scientific LyoStar 4.0 R&D freeze-dryer | `sp-scientific-lyostar-4` | 2020 | private | patented |  |
 | Space Marine Apothecary Narthecium | `warhammer-40k-apothecary-narthecium` | 1989 | fictional | fictional |  |
@@ -1865,10 +2018,12 @@
 | Stargate Atlantis Wraith feeding hand and stunner extraction biology | `stargate-atlantis-wraith-feeding-hand` | 2004 | fictional | fictional | ✓ |
 | Stargate SG-1 Asgard biological consciousness-transfer device | `stargate-asgard-bio-transfer` | 2000 | fictional | fictional |  |
 | Stargate SG-1 Goa'uld sarcophagus (resurrection / regeneration device) | `stargate-goauld-sarcophagus` | 1997 | fictional | fictional |  |
+| Static headspace GC autosampler for forensic toxicology (volatiles / blood-alcohol confirmation) | `forensic-postmortem-headspace-gc-autosampler` | 1979 | private | patented |  |
 | Steep Hill Labs - Cannabis potency and contaminant testing | `steep-hill-cannabis-testing` | 2008 | private | trade-secret |  |
 | Stelarc — Ear on Arm (in-vivo cell-cultured ear with microfluidic perfusion concept) | `stelarc-ear-on-arm` | 2006 | fictional | fictional |  |
 | STEMCELL Technologies STEMdiff Organoid Differentiation Kits | `stemcell-stemdiff-organoid-kits` | 2016 | private | patented |  |
 | Stemme 1979 Thermal Inkjet Priority Patent (Sweden) | `stemme-1979-thermal-inkjet-priority-patent` | 1979 | private | patented |  |
+| Stenon FarmLab Handheld Real-Time Soil Analyzer | `stenon-farmlab-handheld-soil-analyzer` | 2019 | private | patented | ✓ |
 | Steriline RNF600 Robotic Nest Filler | `steriline-rnf600-robotic-nest` | 2018 | private | patented |  |
 | Stern 1924 — Stern Layer Theory | `stern-1924-stern-layer-theory` | 1924 | academic | public-domain |  |
 | Stevanato Group EZ-fill Ready-to-Use Vials and Syringes | `stevanato-ezfill-vials-syringes` | 2009 | private | patented |  |
@@ -1883,6 +2038,7 @@
 | Stratagene QuikChange Site-Directed Mutagenesis 1995 Foundational Anchor | `stratagene-quikchange-1995-extended-anchor` | 1995 | private | patented |  |
 | Stratasys / Objet PolyJet Multi-Material UV-Cure Printhead | `stratasys-objet-polyjet-printhead` | 1999 | private | patented |  |
 | Strateos cloud lab platform (acquired Transcriptic) | `strateos-emerald-cloud-lab` | 2014 | private | patented |  |
+| Studer 2004 scaling properties of a low-actuation-pressure microfluidic valve | `studer-2004-low-actuation-pressure-microfluidic-valve` | 2004 | academic | public-domain |  |
 | Subnautica Medical Fabricator (First Aid Kit Synthesizer) | `subnautica-medical-fabricator` | 2018 | fictional | fictional |  |
 | Sun Chemical Streamline / SunJet Inkjet Ink Family | `sun-chemical-streamline-inkjet-ink` | 2002 | private | patented | ✓ |
 | Sunburst Sensors SAMI-CO2 Autonomous Ocean CO2 Microfluidic Analyzer | `sunburst-sensors-sami-co2` | 2002 | private | patented |  |
@@ -1893,6 +2049,7 @@
 | Sweet 1965 Continuous-Inkjet Deflection Patent (extended) | `sweet-1965-deflection-patent-extended` | 1965 | private | patented |  |
 | Sycorax Blood Control Apparatus | `doctor-who-sycorax-blood-control` | 2005 | fictional | fictional |  |
 | SymbioticA — Tissue Culture & Art Project (Catts & Zurr) | `symbiotica-tissue-culture-art-project` | 1996 | fictional | fictional |  |
+| Sympatec HELOS / QICPIC Wet Dispersion Measurement Cell | `sympatec-helos-qicpic-wet-dispersion-cell` | 2007 | private | patented |  |
 | Synchron Stentrode Endovascular Brain-Computer Interface | `synchron-stentrode` | 2016 | private | patented |  |
 | Syntegon Versynta FFP / Combotec aseptic filling line | `syntegon-versynta-flexible-aseptic` | 2019 | private | patented |  |
 | Syntegon Versynta Microbatch / Combotec Filler | `syntegon-versynta-microbatch-filler` | 2017 | private | patented |  |
@@ -1923,6 +2080,7 @@
 | Tade Thompson - Rosewater xenobiology fluidics | `tade-thompson-rosewater-xenobiology` | 2016 | fictional | fictional |  |
 | Takara Bio iCell8 cx Single-Cell System (Wafergen) | `takara-icell8-cx` | 2014 | private | patented |  |
 | Talis One COVID-19 Test Cartridge | `talis-one-covid-19-cartridge` | 2021 | private | patented |  |
+| Tan 2004 design of microfluidic channel geometries for control of droplet volume | `tan-2004-microfluidic-droplet-volume-channel-geometry` | 2004 | academic | public-domain |  |
 | Tandem Diabetes t:slim X2 insulin pump cartridge | `tandem-tslim-x2-cartridge` | 2012 | private | patented |  |
 | Tanner 2000 - Engineering Rheology (2nd ed.) | `tanner-2000-engineering-rheology-2e` | 2000 | academic | public-domain |  |
 | TaqMan probe RT-PCR (Livak 1995) | `livak-genmark-1995-rt-pcr-foundations` | 1995 | academic | patented |  |
@@ -1937,10 +2095,12 @@
 | Tecan DreamPrep NGS Sample Prep | `tecan-dreamprep-ngs` | 2018 | private | patented |  |
 | Tecan Fluent automation workstation with Cavro syringe pumps | `tecan-fluent-cavro` | 2014 | private | patented |  |
 | Tecan Resolvex i300 Bead Handling System | `tecan-resolvex-i300-magnetic` | 2021 | private | patented |  |
+| Techno-sapien repair shop and memory-bank extraction rig (After Yang, 2021) | `after-yang-techno-sapien-repair-shop` | 2021 | fictional | fictional | ✓ |
 | Ted Chiang Exhalation argon-air brain chemistry | `chiang-exhalation-argon-brain` | 2008 | fictional | fictional |  |
 | Telesis Bio BioXp 9600 Benchtop DNA Synthesis | `telesis-bioxp-9600-benchtop-synthesis` | 2022 | private | patented |  |
 | Temperature-controlled chip holder with integrated electrodes for NSS | `altenburger-2026-temperature-controlled-chip-holder` | 2026 | academic | public-domain |  |
 | Tempus xF / xF+ liquid biopsy NGS panel (with xT tissue companion) | `tempus-xf-xt-liquid-biopsy` | 2019 | private | patented |  |
+| Teralytic Wireless In-Ground Soil Probe (NPK / Moisture / Salinity / Respiration) | `teralytic-soil-probe-npk-microfluidic-sensor` | 2018 | private | patented |  |
 | Terumo BCT Mirasol PRT System (riboflavin + UV pathogen reduction) | `terumo-mirasol-prt-pathogen-reduction` | 2006 | private | patented |  |
 | Terumo BCT Spectra Optia Apheresis System | `terumo-bct-spectra-optia-apheresis` | 2008 | private | patented |  |
 | Terumo BCT Trima Accel Automated Blood Collection System | `terumo-bct-trima-accel-apheresis` | 2002 | private | patented |  |
@@ -1948,10 +2108,12 @@
 | Tesla 4680 Battery Cell Electrolyte Injection Microfluidic System | `tesla-4680-electrolyte-injection` | 2020 | private | patented |  |
 | Tesla All Our Patent Are Belong To You pledge (2014) | `tesla-all-our-patent-pledge` | 2014 | open | open-permissive |  |
 | Tessera Therapeutics Gene Writing Manufacturing | `tessera-therapeutics-gene-writing` | 2020 | private | patented | ✓ |
+| Texhnolyze prosthetic-limb integration surgery and Class research lab (Texhnolyze) | `texhnolyze-class-prosthetic-integration-lab` | 2003 | fictional | fictional | ✓ |
 | ThalesNano H-Cube continuous-flow hydrogenation reactor | `thalesnano-h-cube-flow-hydrogenation` | 2003 | private | patented |  |
 | ThalesNano X-Cube, Phoenix Flow Reactor, Ice-Cube, and Gas Module | `thalesnano-x-cube-phoenix-icecube-gasmodule` | 2008 | private | patented |  |
 | The Andromeda Strain isolation/analysis lab | `andromeda-strain-isolation-chamber` | 1969 | fictional | fictional |  |
 | The Bunker android maintenance bay and Resource Recovery Unit (NieR: Automata) | `nier-automata-bunker-android-maintenance-bay` | 2017 | fictional | fictional | ✓ |
+| The Carving bio-augmentation surgery and Color-engineering resurrection vats (Pierce Brown, Red Rising) | `pierce-brown-red-rising-carving-vats` | 2014 | fictional | fictional | ✓ |
 | The Eco-Patent Commons (WBCSD, 2008-2016) | `eco-patent-commons` | 2008 | open | open-permissive |  |
 | The Expanse Behemoth (Nauvoo) medbay | `expanse-behemoth-medbay-mormon-ship` | 2014 | fictional | fictional |  |
 | The Expanse Belter station water and air microfluidic recyclers | `expanse-belter-water-air-recycler` | 2011 | fictional | fictional |  |
@@ -1964,7 +2126,9 @@
 | The Flesh / Ganger programmable-matter vats (The Rebel Flesh / The Almost People) | `doctor-who-flesh-ganger-vats` | 2011 | fictional | fictional | ✓ |
 | The flow of suspensions through tubes (Goldsmith and Mason, 1961-1962) | `goldsmith-mason-1962-flow-of-suspensions-through-tubes` | 1961 | academic | public-domain |  |
 | The future of microfluidic point-of-care diagnostic devices (Ren & Lee) | `ren-2013-microfluidics-disposability` | 2013 | academic | public-domain |  |
+| The Glen underground cloning lab and Glen-powder distribution chemistry (They Cloned Tyrone, 2023) | `they-cloned-tyrone-underground-clone-facility` | 2023 | fictional | fictional | ✓ |
 | The Grain memory-recorder implant and the Black Museum consciousness-transfer tech (Black Mirror) | `black-mirror-grain-implant-and-black-museum` | 2011 | fictional | fictional | ✓ |
+| The Helminth infested-biology system and Warframe transference cradle (Warframe) | `warframe-helminth-infested-biology-system` | 2013 | fictional | fictional | ✓ |
 | The Jackal clone vats (Spider-Man Clone Saga; New U Technologies) | `spider-man-jackal-clone-vats` | 1975 | fictional | fictional | ✓ |
 | The Last of Us cordyceps detection field tools | `last-of-us-fungal-infection-detection` | 2013 | fictional | fictional |  |
 | The Matrix human battery pod fluid-immersion + Tetris IV feed | `matrix-pod-fluid-immersion` | 1999 | fictional | fictional |  |
@@ -1975,13 +2139,17 @@
 | The origins and the future of microfluidics (Whitesides 2006) | `whitesides-2006-nature-microfluidics-review` | 2006 | academic | public-domain |  |
 | The Outer Worlds Unreliable medical bay and corporate medical kiosks | `outer-worlds-medical-bay` | 2019 | fictional | fictional |  |
 | The present and future role of microfluidics in biomedical research | `sackmann-2014-microfluidics-medicine-review` | 2014 | academic | public-domain |  |
+| The skein electrostatic organ and its clinical/research apparatus (Naomi Alderman, The Power) | `alderman-the-power-skein-organ-research` | 2016 | fictional | fictional | ✓ |
 | The Strange / Predation - autodoc cyphers | `strange-predation-autodoc-cyphers` | 2014 | fictional | fictional |  |
+| The Substance activator/stabilizer cell-division serum and spinal-fluid switch system (The Substance, 2024) | `the-substance-cell-division-serum` | 2024 | fictional | fictional | ✓ |
 | The Talos Principle medical sequences (simulation infrastructure) | `talos-principle-medical-sequences` | 2014 | fictional | fictional |  |
+| Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology | `theberge-2010-microdroplets-in-microfluidics-platform` | 2010 | academic | public-domain |  |
 | Theranos Bankruptcy and Patent Reassignment to Fortress (2018) | `theranos-bankruptcy-and-patent-reassignment-2018` | 2018 | private | patented |  |
 | Theranos Capillary Blood Microsampling Patent | `theranos-microsample-bloodcollection-patent` | 2008 | private | patented |  |
 | Theranos Cartridge Patent Family | `theranos-cartridge-patent-family` | 2005 | private | patented |  |
 | Theranos Edison / miniLab cartridge (claimed) | `theranos-promised-cartridge` | 2003 | private | patented |  |
 | Thermal bubble-jet foundation (Endo / Canon, 1979) | `endo-1979-canon-thermal-bubble-jet-foundation` | 1979 | academic | patented |  |
+| Thermo Fisher Accula (Mesa Biotech) Dock-and-Go Molecular POC Cartridge | `thermo-fisher-accula-mesa-biotech-cartridge` | 2017 | private | patented |  |
 | Thermo Fisher Applied Biosystems RapidHIT ID System | `thermofisher-rapidhit-id-forensic-dna` | 2012 | private | patented |  |
 | Thermo Fisher Countess 3 / Countess 3 FL Automated Cell Counter | `thermofisher-countess-3` | 2020 | private | patented |  |
 | Thermo Fisher KingFisher Magnetic Particle Processor | `thermofisher-kingfisher-magnetic-bead-handler` | 1996 | private | patented |  |
@@ -2005,10 +2173,14 @@
 | ThermoFisher RapidHIT 200 Human DNA Identification System | `thermofisher-rapidhit-200` | 2012 | private | patented |  |
 | ThermoFisher RapidHIT ID DNA Booking System | `thermofisher-rapidhit-id` | 2017 | private | patented |  |
 | Thermoresponsive hydrogel microvalves | `oh-2006-thermoresponsive-microvalve` | 2006 | academic | public-domain |  |
+| Theseus medbay regeneration pods and the vampire-revival protocol (Peter Watts, Blindsight / Echopraxia) | `watts-blindsight-theseus-medbay-vampire-revival` | 2006 | fictional | fictional | ✓ |
 | ThinkCyte VisionSort / Image-Activated Cell Sorter (Ota 2018) | `ota-thinkcyte-2018-image-activated-sort` | 2018 | academic | patented |  |
 | Three-Body Problem (Netflix) medical and laboratory depictions | `three-body-problem-medical` | 2024 | fictional | fictional |  |
+| ThrustMe NPT30-I2 iodine electric propulsion system | `thrustme-npt30-i2-iodine-electrothermal-thruster` | 2018 | private | patented |  |
 | Tidepool Loop DIY Closed-Loop Insulin Algorithm | `tidepool-loop-diy-closed-loop` | 2016 | open | open-permissive |  |
 | Tiefenthaler & Lukosz IOS-1 Optical Waveguide Sensor | `tiefenthaler-lukosz-1989-IOS-1-grating` | 1989 | academic | patented | ✓ |
+| Titan-shifter serum and Marleyan injection apparatus (Attack on Titan) | `attack-on-titan-titan-serum-injection` | 2014 | fictional | fictional | ✓ |
+| Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module | `tel-clean-track-resist-dispense-nozzle` | 1998 | private | patented |  |
 | Tomotika 1935 - On the instability of a cylindrical thread of a viscous liquid surrounded by another viscous fluid | `tomotika-1935-droplet-breakup-theory` | 1935 | academic | public-domain |  |
 | Tonejet Electrostatic Charged-Particle Drop-on-Demand Printhead | `tonejet-electrostatic-printhead` | 1993 | private | patented |  |
 | Tony Jun Huang Lab Tunable Acoustic Tweezers | `huang-penn-state-2014-tsaw-acoustic-tweezers` | 2014 | academic | patented |  |
@@ -2024,6 +2196,7 @@
 | TRACE Wildlife Forensics Network Microfluidic DNA Protocols | `trace-wildlife-forensics-network-microfluidic-protocols` | 2014 | open | open-permissive | ✓ |
 | Transmetropolitan personal maker / matter compiler | `transmetropolitan-maker-matter-compiler` | 1997 | fictional | fictional |  |
 | Transporter pattern-buffer used as biological stasis (SNW: Ghosts of Illyria / Lift Us Where Suffering Cannot Reach) | `star-trek-snw-transporter-buffer-stasis` | 2022 | fictional | fictional | ✓ |
+| TranStar Neuromod Division injection device and reverse-engineering rig (Prey, 2017) | `prey-2017-transtar-neuromod-division` | 2017 | fictional | fictional | ✓ |
 | Trasis miniAllInOne Compact PET Tracer Synthesizer | `trasis-mini-allinone` | 2014 | private | patented |  |
 | Trauma Center / Trauma Team (Atlus) automated surgical interfaces | `trauma-team-international` | 2005 | fictional | fictional |  |
 | Traveller (Classic) medical autodoc / low berth | `traveller-medical-autodoc` | 1977 | fictional | fictional |  |
@@ -2034,6 +2207,8 @@
 | Trigun / Gungrave biological resurrection apparatus (Vash + Beyond the Grave) | `trigun-vash-gungrave-fluid-resurrection` | 1995 | fictional | fictional |  |
 | TriLink BioTechnologies CleanCap GMP Capping Reagent | `trilink-cleancap-gmp` | 2018 | private | patented |  |
 | Trinity Biotech Premier Hb9210 HbA1c analyzer cartridge | `trinity-biotech-premier-hba1c` | 2009 | private | patented |  |
+| Tritium permeation and extraction microfluidic cell (fusion fuel cycle / breeding-blanket processing) | `tritium-permeation-microfluidic-cell-fusion-fuel-cycle` | 2011 | academic | patented |  |
+| Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) | `truvian-health-desktop-blood-analyzer-disc` | 2018 | private | patented |  |
 | TSI APS 3321 Aerodynamic Particle Sizer Microfluidic Capillary | `tsi-aps-aerodynamic-particle-sizer` | 2002 | private | patented | ✓ |
 | Tsinghua University microfluidics program | `tsinghua-microfluidics-program` | 2000 | academic | patented |  |
 | TTP Mirus / Sphere Fluidics droplet picoinjector | `ttp-mirus` | 2010 | private | patented |  |
@@ -2069,6 +2244,7 @@
 | USPTO Patent Public Search (PPUBS) Tool | `uspto-ppubs-patent-public-search-tool` | 2022 | open | public-domain |  |
 | USS Callister DNA-to-consciousness cloner (Black Mirror) | `black-mirror-uss-callister-dna-consciousness-cloner` | 2017 | fictional | fictional | ✓ |
 | USS Protostar holographic medbay (Holo-Janeway / Star Trek: Prodigy) | `star-trek-prodigy-protostar-holo-medbay` | 2021 | fictional | fictional | ✓ |
+| Utada 2005 monodisperse double emulsions generated from a microcapillary device | `utada-2005-monodisperse-double-emulsions-microcapillary` | 2005 | academic | public-domain |  |
 | UWED — Universal Wireless Electrochemical Detector for Smartphones | `ainla-2018-uwed-wireless-potentiostat` | 2018 | open | open-permissive |  |
 | Vaisala Viewpoint Humidity Monitoring for Tableting | `vaisala-viewpoint-tableting-humidity` | 2015 | private | patented | ✓ |
 | Van Vogt - World of Null-A Gosseyn restoration apparatus | `van-vogt-null-a-gosseyn-restoration` | 1945 | fictional | fictional |  |
@@ -2096,8 +2272,11 @@
 | Verve Therapeutics In Vivo Base-Editing LNP Manufacturing | `verve-therapeutics-in-vivo-base-editing` | 2021 | private | patented |  |
 | Verwey & Overbeek 1948 - Theory of the Stability of Lyophobic Colloids | `verwey-overbeek-1948-dlvo-theory` | 1948 | academic | public-domain |  |
 | Vescent Photonics Compact Cs Vapor Cell Atomic Clock | `vescent-csac` | 2018 | private | patented | ✓ |
+| Vesper seeds bioengineering and the Jugs Citadel synthetic-biology labs (Vesper, 2022) | `vesper-jugs-citadel-seed-bioengineering-lab` | 2022 | fictional | fictional | ✓ |
 | VGXI Plasmid DNA Manufacturing | `vgxi-plasmid-manufacturing` | 2003 | private | trade-secret | ✓ |
+| VIAVI MicroNIR PAT-W / Onsite-W Handheld Near-Infrared Spectrometer | `viavi-micronir-pat-spectrometer` | 2012 | private | patented | ✓ |
 | Vibrant Gastro Vibrating Capsule for Chronic Constipation | `vibrant-gastro-capsule` | 2018 | private | patented |  |
+| VICAM Vertu / Vertu TOUCH Fluorometric Mycotoxin Test (Immunoaffinity Column + Reader) | `vicam-vertu-fluorometric-mycotoxin-cartridge` | 2014 | private | patented |  |
 | Videojet Binary Array Continuous Inkjet Coding Printhead | `videojet-binary-array-cij-coding` | 1969 | private | patented |  |
 | Viking 1/2 GCMS and Biology Package | `viking-1976-gcms-biology-experiment` | 1976 | academic | public-domain |  |
 | Vinge Marooned in Realtime Bobble Medical Suspension | `vinge-marooned-in-realtime-bobble-medical` | 1986 | fictional | fictional |  |
@@ -2144,6 +2323,7 @@
 | Weir - Project Hail Mary coma-slick biofluidic care | `weir-project-hail-mary-coma-slick` | 2021 | fictional | fictional |  |
 | Weir - The Martian improvised medical fluidics | `weir-martian-medical-improvised` | 2011 | fictional | fictional |  |
 | Weissenberg Number Wi = gamma_dot * tau | `weissenberg-number-dimensionless-group` | 1947 | academic | public-domain |  |
+| Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) | `wellsite-mud-gas-microfluidic-chromatograph` | 1999 | private | patented |  |
 | Welty, Wicks, Wilson & Rorrer - Fundamentals of Momentum, Heat, and Mass Transfer | `welty-wicks-wilson-momentum-heat-mass-textbook` | 2007 | academic | public-domain |  |
 | Werfen / Diagast QWALYS (Erythrocyte Magnetized Technology blood grouping) | `werfen-diagast-qwalys-emt-blood-grouping` | 2003 | private | patented |  |
 | Werfen / Instrumentation Laboratory patent estate (GEM blood-gas + ACL coagulation cartridge chain) | `werfen-instrumentation-laboratory-patent-estate` | 1959 | private | patented |  |
@@ -2154,6 +2334,7 @@
 | Westworld host fluid-systems and fabrication tanks | `westworld-host-fluid-systems` | 2016 | fictional | fictional |  |
 | WET Labs WQM Water Quality Monitor Microfluidic Inlet | `wet-labs-wqm-water-quality-monitor` | 2007 | private | patented | ✓ |
 | Whisky barley provenance DNA-tracing platform | `whisky-provenance-dna-tracing` | 2018 | academic | unknown |  |
+| Whitesides 2001 soft lithography in biology and biochemistry | `whitesides-2001-soft-lithography-in-biology` | 2001 | academic | public-domain |  |
 | Whitesides 2013 - Cool, or simple and cheap? Why not both? (origins of microfluidics) | `whitesides-2013-origins-microfluidics-lab-chip` | 2013 | academic | public-domain |  |
 | Whitesides 2014 — Cool, or simple and cheap? Why not both? | `whitesides-2014-cool-or-simple-cheap-editorial` | 2014 | academic | public-domain |  |
 | Whitesides Paper Microfluidics Patent Family | `whitesides-patent-family-paper-microfluidics` | 2007 | academic | patented |  |
@@ -2180,6 +2361,7 @@
 | Withings U-Scan Toilet-Bowl Urine Analyzer (consumer) | `withings-u-scan` | 2023 | private | patented |  |
 | Wittbrodt–Pearce 2015 Open-Source Enzymatic Nitrate Photometer | `wittbrodt-2015-open-nitrate-photometer` | 2015 | open | open-copyleft |  |
 | Wolfenstein: The New Order - Daat Yichud medical fluidics | `wolfenstein-tno-daat-yichud-medical` | 2014 | fictional | fictional |  |
+| Womb Center detachable artificial-womb pod (The Pod Generation, 2023) | `the-pod-generation-womb-center-ectogenesis-pod` | 2023 | fictional | fictional | ✓ |
 | Womersley 1955 — Womersley Number alpha for Pulsatile Flow | `womersley-1955-number-pulsatile-flow` | 1955 | academic | public-domain |  |
 | Wondfo Finecare FIA Meter Plus | `wondfo-finecare-fia-meter` | 2014 | private | patented |  |
 | Wong Lab Saliva-Based Oral Cancer Microfluidic Detection Chip (UCLA) | `wong-2009-saliva-oscc-microfluidic` | 2009 | academic | patented |  |
@@ -2187,17 +2369,22 @@
 | World of Darkness Tzimisce Vicissitude flesh-shaping apparatus | `wod-tzimisce-vicissitude-flesh-shaping` | 1991 | fictional | fictional |  |
 | WuXi NextCODE / Genuity Science patent family | `wuxi-nextcode-patent-family` | 2015 | private | patented |  |
 | Wyatt Technology DAWN HELEOS Multi-Angle Light Scattering for LNP | `wyatt-dawn-heleos-lnp-mals` | 2007 | private | patented |  |
+| Wyatt Technology DynaPro Plate Reader III (Microwell Dynamic Light Scattering) | `wyatt-dynapro-plate-reader-dls` | 2009 | private | patented |  |
 | X-Men Mr. Sinister cloning vats (Madelyne Pryor and beyond) | `xmen-mr-sinister-cloning-vats` | 1986 | fictional | fictional |  |
 | X-Men Weapon X program adamantium-bonding tank (Wolverine origin) | `xmen-weapon-x-adamantium-tank` | 1991 | fictional | fictional |  |
 | Xaar Shared-Wall Shear-Mode Piezo Printhead | `xaar-1988-shared-wall-shear-mode-printhead` | 1988 | private | patented |  |
 | Y: The Last Man Dr. Mann's reproductive cloning facility | `y-last-man-sperm-bank` | 2002 | fictional | fictional |  |
+| Yager 2006 microfluidic diagnostic technologies for global public health | `yager-2006-microfluidic-diagnostics-global-health` | 2006 | academic | public-domain |  |
 | Yeo & Friend Acoustofluidics Review (ARFM 2014 + AnnRev BME 2018) | `yeo-2018-acoustofluidic-review` | 2014 | academic | open-permissive |  |
+| Yokogawa Fluid Imaging Technologies FlowCam Flow Imaging Microscope | `fluid-imaging-flowcam-flow-imaging-microscopy` | 1999 | private | patented |  |
 | Yosioka & Kawasima 1955 - Acoustic radiation pressure on a compressible sphere | `yosioka-kawasima-1955-acoustic-radiation-force` | 1955 | academic | public-domain |  |
 | Young 1805 — An Essay on the Cohesion of Fluids | `young-1805-cohesion-of-fluids` | 1805 | academic | public-domain |  |
 | Young-Laplace Equation (combined 1805-1806) | `young-laplace-equation-combined` | 1806 | academic | public-domain |  |
 | Ypsomed mylife YpsoPump Insulin Pump | `ypsomed-ypsopump` | 2016 | private | patented |  |
 | Yu Lab Aptamer-Functionalized Saliva Cortisol Microfluidic Sensor | `yu-2014-aptamer-saliva-cortisol-chip` | 2014 | academic | open-permissive |  |
+| Yves Saint Laurent Rouge Sur Mesure (Perso) AI Custom Lipstick Device | `ysl-rouge-sur-mesure-lipstick-device` | 2020 | private | patented |  |
 | Zenodo / OSF open microfluidic protocol repositories | `open-protocols-zenodo-microfluidics` | 2018 | open | open-permissive |  |
+| Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) | `bosch-ngk-ceramic-lambda-nox-sensor` | 1997 | private | patented |  |
 | Zoetis VETSCAN HM5 Hematology Analyzer | `zoetis-vetscan-hm5-hematology` | 2010 | private | patented |  |
 | Zoetis VETSCAN i-STAT Alinity v | `zoetis-vetscan-istat-alinity-v` | 2020 | private | patented |  |
 | Zoetis Vetscan Imagyst AI Diagnostic Platform (extended) | `zoetis-imagyst-ai-fecal-blood-smear` | 2020 | private | patented |  |

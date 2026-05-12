@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-thermal-bubble-jet`
 
-**16 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1919
 
@@ -174,3 +174,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Desktop Metal SPJ technology brief (desktopmetal.com/resources/what-is-single-pass-jetting); Production System P-1 / P-50 product pages; press releases 2017–2020
 - **ip status**: patented
 - **prior art notes**: Discloses a bidirectional integrated print bar in which all process steps for binder-jet metal additive manufacturing — powder deposition, powder spreading, powder compaction, ballistic-particle suppression, and binder jetting — are combined onto a single carriage that lays down a complete layer in one pass in either direction. Anticipates: (a) the SPJ architecture as a production-rate alternative to the conventional two-stage 'recoat then jet' binder-jet process, (b) bidirectional multi-step printing as a layer-time minimization strategy, (c) ballistic-particle suppression (e.g., gas-knife or roller geometry) as an explicit process step in production binder jet. Concrete prior art for fast-binder-jet claims by HP Metal Jet, Markforged Digital Metal, and others.
+
+## Procter and Gamble Opte Precision Skincare System (Handheld Inkjet Pigment Wand) (2019)
+
+- **id**: `pg-opte-precision-skincare-wand`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Procter and Gamble
+- **disclosure**: Procter and Gamble Opte Precision Skincare System product literature and CES 2019 press materials; P&G patents on a handheld optical-scanning inkjet skin-treatment device
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld device combining a MEMS inkjet printhead, a replaceable serum cartridge, an imaging camera, and a closed-loop controller that fires individual nozzles only over camera-detected skin features as the device is swept across skin. Anticipates: camera-guided closed-loop inkjet deposition of fluids onto biological surfaces; handheld microprinthead drug/cosmetic dosing; pixel-resolved on-skin fluid application. A genuinely handheld microfluidic device and a high-priority anchor; discontinued by P&G in 2022 but extensively disclosed.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-functionalization-silane`
 
-**17 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1924
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stern, O. (1924). 'Zur Theorie der elektrolytischen Doppelschicht.' Zeitschrift fuer Elektrochemie und angewandte physikalische Chemie 30(21-22): 508-516. doi:10.1002/bbpc.192400182
 - **ip status**: public-domain
 - **prior art notes**: Completes the modern theory of the electric double layer used in all electrokinetic microfluidic and nanofluidic device design. The zeta potential (the potential at the slip plane just outside the Stern layer) is the parameter every commercial EOF pump, every CE chip, and every electrokinetic micromixer is calibrated against. Anticipates patent claims keyed on 'controlled zeta potential surface coatings', 'adsorbed-ion modulated EOF', or 'Stern-layer engineering' as electrokinetic control schemes.
+
+## Passive-diffusion organic-vapor dosimeter badge (SKC / Assay Technology / 3M class) (1976-11-09)
+
+- **id**: `passive-diffusion-organic-vapor-dosimeter-badge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3M (Organic Vapor Monitor), SKC Inc. (UMEx/575 series), Assay Technology, Gradko, Radiello (Sigma-Aldrich)
+- **disclosure**: US3992156A Diffusional dosimeter (Donald W. Underhill / 3M-style passive diffusion sampler), 1976; see also Palmes & Gunnison, Personal monitoring device for gaseous contaminants, Am. Ind. Hyg. Assoc. J. 34, 78 (1973).
+- **ip status**: patented
+- **prior art notes**: Discloses a wearable passive sampler whose precisely defined diffusion gap/aperture geometry sets a known sampling rate so accumulated mass on a sorbent gives a time-weighted-average exposure - a controlled micro-gas-transport dosimetry device. Anticipates claims to (a) badge-format diffusive sampler with a defined diffusion gap/aperture array setting a calibrated sampling rate; (b) derivatizing-reagent sorbent in a passive badge for aldehyde/isocyanate dosimetry; (c) pump-free time-weighted-average personal exposure monitor; (d) tube-and-badge diffusive ambient-air samplers. Foundational prior art for passive-sampler patents (3M, SKC, Assay Technology, Radiello).
 
 ## Affymetrix (now Thermo Fisher) GeneChip Patent Estate (1991)
 
@@ -55,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Illumina patent estate post-Solexa. Anchors claims around: (a) lawn of oligonucleotide capture probes covalently attached to flow-cell glass surface; (b) bridge amplification creating clonal clusters via templated extension between adjacent surface-bound primers; (c) reversible-terminator nucleotides with cleavable fluorescent labels enabling cycle-by-cycle sequencing; (d) flow-cell hardware with patterned-wells (HiSeq X, NovaSeq) for ordered-cluster geometry. Existing companion: bentley-2008-illumina-flow-cell. Anticipates clonal-cluster generation chemistry on flow-cell. Several core members are at or near expiry; this entry timestamps the public-domain transition. Illumina's enforcement actions against BGI/MGI, Element Biosciences, and Singular Genomics (separate litigation entries) all assert subsets of this estate.
 
+## Whitesides 2001 soft lithography in biology and biochemistry (2001-08-01)
+
+- **id**: `whitesides-2001-soft-lithography-in-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard (with Ingber, Wyss precursor)
+- **disclosure**: Whitesides, G. M.; Ostuni, E.; Takayama, S.; Jiang, X.; Ingber, D. E. Soft lithography in biology and biochemistry. Annu. Rev. Biomed. Eng. 2001, 3, 335-373. DOI: 10.1146/annurev.bioeng.3.1.335
+- **ip status**: public-domain
+- **prior art notes**: The canonical review of soft lithography applied to cell biology and biochemistry: microcontact printing of self-assembled monolayers, replica molding of PDMS, microfluidic and stencil patterning of cells and proteins, laminar-flow (multi-stream) patterning to address subcellular regions, and the use of these to build patterned co-cultures and surface gradients. As prior art it anticipates claims to: patterning adherent cells or biomolecules on a substrate by PDMS stamp / stencil / microfluidic channel; laminar co-flow delivery of distinct fluids to selected portions of a cell or surface; and the general toolkit of PDMS-based bio-patterning. Companion to xia-whitesides-1998-soft-lithography-review and the Ingber organ-chip lineage (huh-2010-lung-on-chip). One of the most-cited microfluidics-in-biology references.
+
 ## CapitalBio lab-on-chip patent family (2003)
 
 - **id**: `capitalbio-lab-on-chip-patent-family`
@@ -65,6 +85,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: CapitalBio patent family covers microarray-on-cartridge POC infectious-disease platforms, with hybridization and detection integrated. Anticipates claims directed to integrated microarray-fluidic POC cartridges for infectious-disease panel detection.
 
+## FIB-SEM and TEM-lamella semiconductor failure-analysis sample-prep fluidic handling (KLA / Onto / Thermo Fisher class) (2003-07-08)
+
+- **id**: `semiconductor-fib-sem-cross-section-sample-prep-fluidics`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Thermo Fisher Scientific (FEI Helios), KLA (former 4D / ICOS metrology), Onto Innovation, Hitachi High-Tech, Carl Zeiss; chemistry/etchant cells by Oxford Instruments, SELA
+- **disclosure**: US6589709B1 / US6926935B2 Gas injection system for FIB / charged-particle-beam deposition and etching (FEI, now Thermo Fisher); see also Giannuzzi & Stevie, Introduction to Focused Ion Beams, Springer 2005.
+- **ip status**: patented
+- **prior art notes**: Discloses capillary-needle vapor-dosing microfluidics and localized liquid wet-etch microcells used in semiconductor failure analysis: metered precursor/etchant delivery to a sub-micron working point, plus microliter acid decapsulation. Anticipates claims to (a) capillary gas-injection metering of precursor/etchant to a charged-particle-beam target; (b) gas-assisted selective etching/deposition with imaging endpoint feedback; (c) localized acid microcell decapsulation of a packaged die. Prior art for FEI/Thermo Fisher, Zeiss and Oxford Instruments GIS patents.
+
 ## SCHOTT TopLyo / FIOLAX / Type I Plus - Lyophilization-optimized vials (2007)
 
 - **id**: `schott-toplyo-fiolax-vials`
@@ -74,6 +104,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: SCHOTT TopLyo product release 2007; Type I Plus SiO2-coated vial 2010.
 - **ip status**: patented
 - **prior art notes**: Discloses plasma-CVD SiO2 inner coating on Type I borosilicate vials to prevent siliconization-driven fog and protein-cake adhesion in lyophilized biologic products. Anticipates plasma-deposited silica inner coating for lyophilization vial fogging suppression claims.
+
+## Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) (2007-12-20)
+
+- **id**: `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Mehmet Toner group, Massachusetts General Hospital / Harvard (with Haber, Maheswaran)
+- **disclosure**: Nagrath, S.; Sequist, L. V.; Maheswaran, S.; Bell, D. W.; Irimia, D.; Ulkus, L.; Smith, M. R.; Kwak, E. L.; Digumarthy, S.; Muzikansky, A.; Ryan, P.; Balis, U. J.; Tompkins, R. G.; Haber, D. A.; Toner, M. Isolation of rare circulating tumour cells in cancer patients by microchip technology. Nature 2007, 450, 1235-1239. DOI: 10.1038/nature06385
+- **ip status**: public-domain
+- **prior art notes**: The founding circulating-tumor-cell microchip: a flow chamber packed with tens of thousands of antibody (anti-EpCAM)-functionalized microposts whose geometry and spacing are optimized so that cells in unprocessed whole blood collide with post surfaces frequently enough to be affinity-captured while shear stays below the threshold for cell loss - isolating CTCs at frequencies of a few cells per milliliter at high purity for enumeration and downstream genotyping. Anticipates claims to: affinity capture of rare cells from unprocessed whole blood on an array of antibody-coated microstructures; micropost-array geometry designed via streamline/collision-probability analysis to trade capture efficiency against shear; and integrated rare-cell capture plus on-chip immunostaining and molecular analysis. HIGH-PRIORITY anchor for the liquid-biopsy / CTC industry (CTC-iChip, CellSearch alternatives). Toner-lab MGH lineage; descendant work includes ozkumur-2013-ctc-iChip. Companion to toner-irimia-2005-blood-on-chip.
 
 ## 10x Genomics Visium Spatial Transcriptomics Patent Family (2010)
 

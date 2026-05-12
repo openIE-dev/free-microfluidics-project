@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-electrochemical-on-chip`
 
-**72 corpus entries disclose this subsystem.**
+**99 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1916
 
@@ -75,6 +75,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disposable glucose test strip with capillary-fill sample chamber, glucose oxidase enzyme layer, and electrochemical detection electrodes. The highest-cumulative-volume microfluidic-equivalent product in history (>10B units shipped since 1980s). Architectural ancestor of every modern blood-glucose test strip and many other electrochemical-detection POC strips.
 
+## Intoximeter EC/IR II and Alco-Sensor electrochemical-fuel-cell evidential breath alcohol analyzer (1981-03-31)
+
+- **id**: `intoximeter-ecir-fuel-cell-evidential-breathalyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Intoximeters, Inc. (Alco-Sensor, EC/IR); also Draeger (Alcotest), Lifeloc (FC series), Lion Laboratories
+- **disclosure**: US4209300A Hand-held portable breathalyzer testing device and method of testing (Intoximeters, Inc., late 1970s); fuel-cell breath-alcohol sensing per US4279142A and the established literature (Dubowski, Breath-alcohol analyzers, J. Forensic Sci.).
+- **ip status**: patented
+- **prior art notes**: Discloses a fixed-aliquot breath-capture micro-gas-flow path feeding an electrochemical fuel-cell micro-chamber for ethanol-selective amperometric blood-alcohol estimation, optionally in series with an infrared cell. Anticipates claims to (a) end-exhalation fixed-aliquot breath sampling into a fuel-cell alcohol sensor; (b) acetone-immune fuel-cell breath-alcohol analyzer; (c) dual-principle (electrochemical plus infrared) evidential breath analyzer; (d) flow/pressure-gated mouthpiece path ensuring deep-lung air capture. Prior art for Intoximeters, Draeger, Lifeloc and Lion breath-alcohol-analyzer patents; extends the wave-2 oral-fluid drug-screening lineage.
+
+## Espers research lab, drug-suppression regimen, and Akira cryogenic preservation (Akira) (1982-12-20)
+
+- **id**: `akira-tetsuo-espers-lab-akira-cryo`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Katsuhiro Otomo / Kodansha
+- **disclosure**: Akira (Katsuhiro Otomo, Kodansha; manga from 1982-12-20; film 1988-07-16). The espers research lab, the drug regimen suppressing/managing psychic subjects, and Akiras dismembered cryogenic storage are established in the manga and the 1988 film; IMDB tt0094625.
+- **ip status**: fictional
+- **prior art notes**: Discloses cryogenic specimen storage in numbered sample vessels with staged biopsy/analysis, plus a scheduled drug-regimen delivery managing test subjects with biomonitoring. Cited aspects: the numbered-cryo-specimen-vessel-with-staged-sampling archetype and the scheduled-dose regimen with cohort biomonitoring. Anticipates generic claims to cryogenic biospecimen banking with subsampling and to scheduled-dosing-with-monitoring research workflows. Extends akira-tetsuo-mutation-chamber. Pairs with spy-x-family-apple-project-anya-experiment.
+
+## Screen-printed electrode (SPE) fabrication for biosensors and glucose strips (1984-10-23)
+
+- **id**: `screen-printed-biosensor-electrode-deposition`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: MediSense (now Abbott), Genetics International; ink suppliers DuPont (silver/silver-chloride and carbon pastes), Sun Chemical/Gwent Group, Acheson/Henkel; screen printers DEK, EKRA, Asys
+- **disclosure**: US4545382A Sensor for components of a liquid mixture (Higgins, Hill & Plotkin, Genetics International / MediSense - the foundational screen-printed enzyme-electrode glucose strip); see also Cass et al., Ferrocene-mediated enzyme electrode for amperometric determination of glucose, Anal. Chem. 56, 667 (1984).
+- **ip status**: patented
+- **prior art notes**: Discloses screen-mesh thick-film deposition used to fabricate patterned electrochemical electrodes plus a laminated sub-5-microliter capillary reaction chamber - the canonical screen-printed biosensor strip. Anticipates claims to (a) screen-printed working/counter/reference electrode set on a flexible substrate for amperometric biosensing; (b) overprinted dried enzyme-mediator reagent layer on a screen-printed working electrode; (c) laminated spacer/cover defining a capillary-fill blood chamber over screen-printed electrodes. Foundational prior art for glucose-strip and screen-printed-immunosensor patents (Abbott, Roche, LifeScan, Bayer/Ascensia).
+
 ## Hitachi 911/917 historic clinical chemistry (1990s) patents (1991)
 
 - **id**: `hitachi-911-917-historic-chemistry-patents`
@@ -135,6 +165,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a unified reagent cassette format for ECL immunoassay: barcoded multi-vial cassette with streptavidin-paramagnetic-bead phase + biotinylated capture antibody + ruthenium-labeled detection antibody; the analyzer pipettor draws metered volumes from each vial into a disposable measuring cell, incubates with sample, magnetically captures the bead-immune-complex at a platinum working electrode, washes with TPA buffer, and applies an oxidation pulse exciting Ru(bpy)3 ECL emission detected at 620 nm by a PMT. The cassette form factor and ECL chemistry constitute foundational disclosure for: barcoded ratiometric reagent cassettes with on-board lot tracking; ECL-on-electrode with magnetic-bead capture as a sensitivity-amplification fluidic primitive. Element-by-element coverage applicable to all Roche Cobas e-series analyzers (e411, e601, e801, e402, Cobas pro).
 
+## Zirconia ceramic lambda / NOx automotive exhaust sensor (Bosch LSU, NGK / NTK class) (1997-04-08)
+
+- **id**: `bosch-ngk-ceramic-lambda-nox-sensor`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Robert Bosch GmbH (LSU/LSF), NGK Spark Plug / NTK, Denso, Continental
+- **disclosure**: US5616825A Exhaust gas sensor and a process for producing the same (NGK Spark Plug); see also US5288374A (Bosch) limiting-current oxygen sensor and Riegel, Neumann & Wiedenmann, Exhaust gas sensors for automotive emission control, Solid State Ionics 152-153, 783 (2002).
+- **ip status**: patented
+- **prior art notes**: Discloses a ceramic element with a controlled-porosity micro-diffusion-barrier channel feeding a sub-microliter measurement cavity bounded by pumping/Nernst electrodes, plus multi-chamber successive-barrier architectures and an integrated heater - a solid-state gas microfluidic/diffusion device. Anticipates claims to (a) diffusion-barrier-limited amperometric oxygen sensing with a defined micro-gas-channel; (b) multi-cavity successive-diffusion-barrier NOx sensor with O2 pre-removal; (c) co-fired heater integration in a planar zirconia sensing element. Prior art for Bosch, NGK/NTK, Denso lambda- and NOx-sensor patents.
+
+## FUJIFILM Wako Limulus Color KY / ES-II Endotoxin Microplate Assay (1998)
+
+- **id**: `wako-limulus-color-ky-endotoxin`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FUJIFILM Wako Pure Chemical
+- **disclosure**: FUJIFILM Wako Pure Chemical (formerly Wako) Limulus Color KY and Limulus ES-II Single Test instructions for use
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dispensed single-use cuvette and microwell fluidic formats for compendial LAL endotoxin assay with dried chromogenic reagents. Anticipates: pre-filled single-test endotoxin vessels; the broader pattern of pre-dosed disposable reaction vessels for pharmacopeial QC. Predecessor architecture to the multi-channel Endosafe cartridge.
+
 ## Aberrant - Nova quantum-flesh biofluidics (1999)
 
 - **id**: `aberrant-nova-quantum-flesh`
@@ -144,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: White Wolf, 'Aberrant' core book 1999, ISBN 978-1-56504-755-4
 - **ip status**: fictional
 - **prior art notes**: Disclosure of distinct biofluidic baseline class (nova) with corporate biomonitoring of registered class members. Anticipates claims directed to baseline-class-specific biofluidic cartridges paired with a registry/monitoring infrastructure.
+
+## Wellsite mud-gas analyzer / microfluidic gas chromatograph (mud logging) (1999-09-14)
+
+- **id**: `wellsite-mud-gas-microfluidic-chromatograph`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Geolog International, Halliburton (Sperry Drilling FLAIR/GasView), SLB/Schlumberger, Baker Hughes; micro-GC modules from Agilent (490 Micro GC, formerly Varian/Chrompack CP-4900), INFICON
+- **disclosure**: US5952556A Method for determining the type of fluid in a well by analyzing gas composition (mud-gas analysis); MEMS/micro-GC lineage from US5611846A (Microsensor Technology) miniature gas chromatograph; mud-logging practice per Whittaker, Mud Logging Handbook, PennWell.
+- **ip status**: patented
+- **prior art notes**: Discloses a fast wellsite gas chromatograph (often a silicon-MEMS injector/column/detector chip) with a sub-microliter sample loop continuously analyzing mud-extracted gas into C1-C5 components for fluid typing. Anticipates claims to (a) MEMS micro-GC for continuous wellsite mud-gas analysis; (b) sub-microliter-sample-loop fast chromatography of drilling-fluid-extracted gas; (c) on-chip thermal-conductivity detection of hydrocarbon components in a mud-logging system; (d) automated chromatographic fluid-typing while drilling. Prior art for Geolog, Halliburton, Schlumberger and micro-GC-vendor wellsite-analyzer patents.
 
 ## Cygnus GlucoWatch G2 Biographer (1999-12-06)
 
@@ -155,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
 
+## Megazyme Enzymatic Bioanalysis Cuvette Kits (Beverage Sugars / Acids) (2000)
+
+- **id**: `megazyme-enzymatic-assay-beverage-cuvette-kit`
+- **corpus**: private
+- **device class**: consumable-bulk
+- **creator**: Megazyme International
+- **disclosure**: Megazyme International (Bray, Ireland; now Neogen) enzymatic bioanalysis kit datasheets and assay procedures; AOAC/OIV/EBC-adopted enzymatic methods
+- **ip status**: patented
+- **prior art notes**: Discloses stepwise lyophilized-enzyme assays performed in a cuvette or microliter-scale microplate well, reading NAD(P)H absorbance change for stoichiometric quantitation of beverage analytes. Anticipates: microwell-format enzymatic bioanalysis of beverages; pre-packaged multi-step enzymatic reagent kits with cuvette/microplate vessels; the chemistry underlying cartridge-format beverage assays. Companion to cdr-winelab-beerlab-microfluidic-photometer (which packages similar chemistry in disposable cuvettes).
+
 ## Halo MJOLNIR Smart-Link armor-to-medbay biotelemetry (2001)
 
 - **id**: `halo-smart-link-armor-medbay`
@@ -164,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halo: The Fall of Reach (Nylund 2001); Halo Encyclopedia (DK 2009); Halo 4 (343 Industries, 2012) on-screen Smart-Link HUD.
 - **ip status**: fictional
 - **prior art notes**: MJOLNIR armor continually telemeters wearer biometrics (heart rate, blood gas, hydration, neural activity, wound status) to UNSC medical infrastructure. Architecturally anticipates wearable continuous biosensor + secure radio uplink + clinical decision support feedback loop. Defensive prior art for: combat-armor-integrated continuous biosensor arrays, real-time triage uplink to remote medical AI, and biosensor-driven autonomous drug-delivery decisions.
+
+## Copper-interconnect electroplating bath chemistry point-of-use dosing system (2001-03-27)
+
+- **id**: `copper-electroplating-bath-point-of-use-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Lam Research (Novellus SABRE), Applied Materials (Raider/Slim Cell), ASMPT/Semsysco; bath chemistry by DuPont (MacDermot/Enthone), Atotech (MKS), Dow
+- **disclosure**: US6207049B1 / US6258220B1 Electro-chemical deposition system and method of electroplating on substrates (Novellus / Lam); accelerator/suppressor dosing per Andricacos et al., Damascene copper electroplating for chip interconnections, IBM J. Res. Dev. 1998.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic chemistry-management module for damascene copper plating: metering-pump dosing of microliter additive shots with CVS-feedback replenishment, inline micromixing, and microchannel flow conditioning. Anticipates claims to (a) closed-loop organic-additive replenishment of an electroplating bath by voltammetric feedback; (b) point-of-use blending of accelerator/suppressor/leveler immediately upstream of a plating cell; (c) microchannel diffuser conditioning of cross-wafer flow uniformity. Prior art for Atotech/MKS, DuPont and tool-OEM plating-chemistry-control patents.
 
 ## Werfen GEM Premier 5000 blood gas cartridge (2002)
 
@@ -185,6 +265,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a digital sensor architecture with inductive (transformer-coupled) connector that eliminates wetted electrical contacts: the probe head contains a transformer half-coil and the cable contains the matching half-coil; communication and power transfer occur inductively across the boundary. Calibration data is resident in the probe, allowing the probe to be moved between transmitters or recalibrated off-line then re-installed. Anticipates: inductive-coupled digital sensor connector as alternative to galvanic connector (eliminates contact corrosion and ground-loop issues in process plants); resident-calibration probe architecture for hot-swap workflows. Closely related to Hamilton Arc; differentiated by the inductive coupler vs Hamilton's galvanic digital connector.
 
+## Metrohm 851 Titrando / 899 Coulometer Karl Fischer Water Determination (2005)
+
+- **id**: `metrohm-851-titrando-karl-fischer`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Metrohm
+- **disclosure**: Metrohm AG 851 Titrando and 899 Coulometer Karl Fischer titrator manuals; USP <921> Water Determination (Method I, Karl Fischer)
+- **ip status**: patented
+- **prior art notes**: Discloses a precision burette delivering microliter-scale reagent increments under feedback control into a sealed stirred microreaction vessel, plus a diaphragm-separated electrochemical generator cell. Anticipates: feedback-controlled microliter reagent dosing for endpoint titration; diaphragm-separated dual-compartment electrochemical reaction cells. The microliter dosing unit and the small electrochemical generator cell are the microfluidic-relevant subsystems.
+
 ## Siemens epoc Blood Analysis System cartridge (2006)
 
 - **id**: `epoc-blood-gas-analyzer`
@@ -204,6 +294,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nova Biomedical StatStrip Glucose 510(k) K061893 cleared 2006-12; first FDA-cleared glucose strip for critically ill patients (2014 K140509)
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-electrode glucose test strip with on-strip interferent correction electrodes: in addition to the main GDH-mediator amperometric working electrode, additional working electrodes detect Hct (impedance), oxidizable interferents (acetaminophen, urate, ascorbate, dopamine), and reducing sugars (maltose, galactose, xylose), with the meter algorithm subtracting interferent contribution from glucose readout. Anticipates: multi-channel POC glucose strips with on-strip interferent correction; Hct compensation electrodes integrated into the same capillary chamber; FDA-clearable strip-based POC glucose for critically ill (where interfering substances and abnormal Hct break older single-electrode strips). Foundational to the Nova approach extending to lactate, ketone, and creatinine strips.
+
+## Charles River Endosafe nexgen-PTS LAL Endotoxin Cartridge (2006)
+
+- **id**: `charles-river-endosafe-nexgen-pts-lal-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Charles River Laboratories
+- **disclosure**: Charles River Laboratories Endosafe-PTS / nexgen-PTS product literature and operator manual; FDA-licensed kinetic-chromogenic LAL cartridge assay
+- **ip status**: patented
+- **prior art notes**: Discloses a single-use injection-molded fluidic cartridge that performs a complete kinetic-chromogenic Limulus amebocyte lysate endotoxin assay: a sample is drawn by an instrument pump through parallel channels onto dried LAL+chromogen reagent pads, incubated at controlled temperature, and read optically, with dedicated spiked-sample channels providing the regulatory positive product control and a 2D barcode encoding the reagent lot archived standard curve. Anticipates: (a) dried-reagent endotoxin/pyrogen cartridges with on-board spike-recovery controls; (b) barcode-encoded lot calibration substituting for in-run standard curves on a disposable cartridge; (c) the general architecture of a multi-channel optical-read disposable performing a pharmacopeial release assay at point of use. One of the most widely deployed pharmaceutical QC microfluidic consumables worldwide.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
+
+## Geass Directorate Code/Geass research apparatus and C.C.s immortality study (Code Geass) (2006-10-06)
+
+- **id**: `code-geass-geass-code-research-directorate`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sunrise
+- **disclosure**: Code Geass: Lelouch of the Rebellion (Sunrise, broadcast 2006-10-06 to 2007-07-29; R2 2008). The Geass Directorate and its research into Code and Geass biology, including experiments on children and on the immortal C.C., feature in R1/R2; IMDB tt0994314.
+- **ip status**: fictional
+- **prior art notes**: Discloses a research facility studying and inducing a biological capability in subjects with biomonitoring, plus a transfer mechanism moving a capability-conferring biological factor between bearers. Cited aspects: the induction-with-biomonitoring research loop and the bearer-to-bearer factor-transfer. Anticipates generic claims to capability-induction research workflows with subject monitoring and to transfer-of-biological-factor-between-hosts procedures. Borderline (mechanism is magical), but the research-loop and transfer archetypes are concrete. Pairs with made-in-abyss-bondrewd-cradle-of-desire and spy-x-family-apple-project-anya-experiment.
 
 ## Roche Cobas 6000 Modular Analyzer Fluidic Track (2007)
 
@@ -355,6 +475,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Reach gameplay shows Spartan healing from MJOLNIR-integrated biofoam reservoir with wound-detection sensors triggering auto-administration. Noble Team field medkits depicted as a multi-bay foil pack with biofoam, stim, and antiviral cartridges. Anticipates: armor-integrated trauma reagent reservoirs with wound-detection-triggered auto-injection; multi-bay foil-burst medkits with selectable cartridges; closed-loop wound diagnostics + reagent dispensing in body-worn equipment.
 
+## CDR WineLab / BeerLab / FoodLab Cartridge-Based Multiparameter Photometer (2010)
+
+- **id**: `cdr-winelab-beerlab-microfluidic-photometer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. (Ginestra Fiorentina, Italy) WineLab / BeerLab / FoodLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dispensed disposable optical-cuvette reagent cartridges that serve simultaneously as reagent reservoir and photometric reaction cell, read in a thermostatted block after microliter sample addition. Anticipates: pre-dosed single-test photometric cuvettes for food/beverage QC; the architecture of a cartridge-reagent multiparameter photometer; minimal-instrument enzymatic assay kits for beverages. Companion to foss-winescan-so2-ftir and to enzymatic-assay beverage cartridges.
+
+## PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) (2010-03-25)
+
+- **id**: `pet-cyclotron-target-dissolution-ion-exchange-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: radiopharmacy equipment makers (Trasis, IBA, GE Healthcare, Sumitomo, Comecer) and academic groups (UCLA Crump Institute, ETH/PSI, Univ. of Wisconsin) developing microfluidic radiometal processing
+- **disclosure**: US20100074825A1 / WO2010/032083 Microfluidic apparatus for radiopharmaceutical synthesis (Trasis-style); see also Lin et al., Microfluidic purification of cyclotron-produced radiometals, and Rensch et al., Microfluidics: a groundbreaking technology for PET tracer production?, Molecules 18, 7930 (2013).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated shielded microfluidic train - dissolution, micro-column ion-exchange/extraction-chromatography purification, metered elution - for processing cyclotron-irradiated radiometal targets into radiolabeling-ready fractions with small reagent/resin volumes and in-line radiation monitoring. Anticipates claims to (a) microfluidic micro-column purification of a cyclotron-produced radiometal; (b) automated cassette-based target dissolution and ion-exchange processing module; (c) sequential multi-column microfluidic separation of an actinide/radiometal from its target matrix and daughters; (d) low-volume high-specific-activity radiometal elution for chelator labeling. Prior art for Trasis, IBA, GE, Siemens radiopharmacy-module patents; extends the wave-2 Trasis radiosynthesis lineage.
+
 ## Ion Torrent semiconductor sequencing chip (2011)
 
 - **id**: `rothberg-2011-ion-torrent`
@@ -404,6 +544,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Brin, D., 'Existence' Tor Books 2012, ISBN 978-0-7653-0361-6
 - **ip status**: fictional
 - **prior art notes**: Disclosure of crowd-aggregation of wearable biofluidic patch data with AR overlay for clinical encounter. Anticipates claims directed to wearable diagnostic cartridges that aggregate biofluidic biomarker readouts across users with cloud-aggregation and AR overlay.
+
+## CDR OxiTester Olive-Oil Quality Cartridge Photometer (2012)
+
+- **id**: `cdr-oxitester-olive-oil-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: CDR s.r.l.
+- **disclosure**: CDR s.r.l. OxiTester / OliveOilLab analyzer datasheets and method sheets
+- **ip status**: patented
+- **prior art notes**: Discloses pre-dosed disposable optical-cuvette reagent cartridges for olive-oil quality parameters, read in a thermostatted photometer after microliter sample addition. Anticipates: pre-dispensed photometric cuvette cartridges for edible-oil QC; minimal-instrument colorimetric assays for food authenticity. Same cuvette-cartridge platform as cdr-winelab-beerlab-microfluidic-photometer.
 
 ## Abbott FreeStyle Libre continuous glucose monitor (2014)
 
@@ -505,6 +655,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an integrated contact-lens biosensor in which a thin-film amperometric glucose electrode is embedded in a hydrogel lens between two PDMS-style passivation layers, with capillary tear access and wireless telemetry for power and data. Anticipates: ocular wearable biosensors using tear-film-fed amperometric electrodes; the architectural pattern of embedded antenna + ASIC + electrochemical sensor in a polymer contact lens; tear-film-as-analyte non-invasive metabolite monitoring. Defunct status does not impair prior-art value: the disclosures are public via patents and Google's 2014 blog post and remain citable.
 
+## Dr. Kanous half-ghoul transplant surgery and RC-cell research lab (Tokyo Ghoul) (2014-07-04)
+
+- **id**: `tokyo-ghoul-kanou-half-ghoul-surgery`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sui Ishida / Shueisha
+- **disclosure**: Tokyo Ghoul (Sui Ishida, Shueisha; manga from 2011; anime Pierrot from 2014-07-04). Dr. Akihiro Kanous half-ghoul surgery (transplant of a ghoul kakuhou organ into a human) is established in the first arc; the RC-cell labs feature through Tokyo Ghoul:re; IMDB tt3741634.
+- **ip status**: fictional
+- **prior art notes**: Discloses an organ-transplant surgery under perfusion that confers a new biological capability on the host, plus a bench workflow culturing and quantifying a biomarker fluid, plus incubation of experimentally modified organisms. Cited aspects: the perfusion-supported capability-conferring organ transplant and the biomarker-fluid culture/quantification bench. Anticipates generic claims to perfusion-assisted xenotransplant procedures and to biomarker-fluid culture-and-assay workflows. Pairs with attack-on-titan-titan-serum-injection and one-punch-man-doctor-genus.
+
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
 - **id**: `werfen-gem-premier-5000-cartridge`
@@ -514,6 +674,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Werfen GEM Premier 5000 launch 2015-12; FDA 510(k) K151867; predecessor entry: instrumentation-laboratory-gem-premier (already in corpus, GEM Premier 4000)
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained 'Multi-Use' blood gas cartridge integrating sensors, reagents, calibrants, and waste in a single disposable; the analyzer hardware is reduced to a peristaltic pump, optical bench, electrical interface, and barcode/RFID reader. The cartridge architecture eliminates the user-serviced reagent/waste/sensor reservoirs that defined earlier blood gas analyzers, producing a sealed-system architecture comparable to Siemens RAPIDPoint 500 (separate entry) — with key differentiator: GEM uses a single integrated cartridge whereas Siemens separates 'measurement cartridge' from 'reagent cartridge.' The Werfen iQM (and iQM2) protocol replaces traditional periodic external QC with continuous on-cartridge QC sample passes between patient samples. Anticipates: fully sealed POC blood gas cartridges with on-board waste containment; continuous-QC architectures replacing periodic 2-3 level external QC; cartridge as the disposable failure-mode boundary.
+
+## Perfect Day Precision-Fermentation Animal-Free Whey Protein Bioprocess (2015)
+
+- **id**: `perfect-day-precision-fermentation-dairy-protein`
+- **corpus**: private
+- **device class**: other
+- **creator**: Perfect Day Inc.
+- **disclosure**: Perfect Day Inc. (Berkeley, California) precision-fermentation whey-protein process disclosures and patents on producing milk proteins in microbial culture
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial precision-fermentation bioprocess whose control depends on microliter-resolution feed/titrant dosing skids, inline microsampling, and at-line microfluidic analytics feeding a model-based controller. Anticipates: precision micro-dosing and microanalytics in food-protein fermentation; closed-loop fermentation control via at-line microfluidic product-quality measurement. General ag/food precision-fermentation prior-art anchor; companions: The EVERY Company (egg protein), Motif FoodWorks, Nature Fynd.
 
 ## Dexcom G5 Mobile Continuous Glucose Monitor (2015-08-24)
 
@@ -555,6 +725,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of corporate research-medical bay coupling demonic-substrate triage with energy-conversion biofluidic apparatus. Anticipates claims directed to research-grade cartridge platforms combining unknown-substrate triage with integrated energy-conversion interfaces.
 
+## Claws ultimate-weapon psychic-power amplification research apparatus (Mob Psycho 100) (2016-07-12)
+
+- **id**: `mob-psycho-100-claw-ultimate-weapon-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: ONE / Shogakukan
+- **disclosure**: Mob Psycho 100 (ONE, Shogakukan webcomic from 2012; anime Bones from 2016-07-11). Claws research toward an ultimate-weapon esper and its associated facility appear in the Claw arc (anime first/second seasons); IMDB tt5897304.
+- **ip status**: fictional
+- **prior art notes**: Discloses a research facility administering injectable amplifiers to subjects with biomonitoring across escalating doses. Cited aspect: the dosed-amplifier administration with subject biomonitoring loop. Anticipates generic claims to dose-escalation administration with integrated subject-biosample monitoring. Borderline (mechanism unspecified). Pairs with spy-x-family-apple-project-anya-experiment and one-punch-man-doctor-genus.
+
 ## Deus Ex: Mankind Divided - augmentation chambers (2016-08-23)
 
 - **id**: `deus-ex-md-augmentation-chambers`
@@ -564,6 +744,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Deus Ex: Mankind Divided (Eidos Montreal / Square Enix, 2016)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of segregated augmentation facility with screening biofluid sampling and in vivo upgrade biomarker monitoring. Anticipates claims directed to cartridge-form factor in vivo upgrade modules with integrated rejection-event biomarker monitoring.
+
+## The skein electrostatic organ and its clinical/research apparatus (Naomi Alderman, The Power) (2016-10-27)
+
+- **id**: `alderman-the-power-skein-organ-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Naomi Alderman
+- **disclosure**: Naomi Alderman, The Power (Viking, 2016-10-27, ISBN 978-0670919963; Curtis Brown / Penguin); women develop a striated electric organ (the skein) along the collarbone capable of discharging electricity; the novel depicts clinical imaging, surgical sampling, a suppressant drug (NeuroBlocker), and skein-transfer between individuals.
+- **ip status**: fictional
+- **prior art notes**: Discloses clinical imaging and biopsy of a novel bioelectric organ, a pharmacological suppressant delivered by pill/injection, bench culture and electrical-output measurement of the organs tissue, and a transfer/induction procedure. Cited aspects: the bench culture-and-bioelectric-output-measurement of excised tissue and the suppressant-delivery-plus-organ-imaging clinical workflow. Anticipates generic claims to ex-vivo bioelectric-tissue culture/measurement platforms and to organ-imaging-plus-pharmacological-modulation workflows. HIGH 102 value: the skein is the central element. Pairs with abbott-freestyle-libre-cgm (bioelectric sensing analogue) and warframe-helminth-infested-biology-system (transfer-of-biological-factor archetype).
 
 ## Medtronic MiniMed 780G insulin pump cartridge (2017)
 
@@ -595,6 +785,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a wearable patch using a graphene-functionalized electrode to detect glucose in sweat or interstitial fluid that reaches the skin surface, without piercing skin. Limited primary clinical validation; company has been in development for years. Anticipates: graphene-affinity-electrode wearable biosensor architectures.
 
+## binx health io Point-of-Care Molecular Cartridge (Chlamydia / Gonorrhea) (2017)
+
+- **id**: `binx-health-io-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: binx health
+- **disclosure**: binx health (formerly Atlas Genetics, Bath, UK / Boston, US) io platform disclosures and FDA-cleared CT/NG point-of-care molecular test; patents on an electrochemical-detection PCR cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a sample-to-answer molecular-diagnostic cartridge integrating lysis, PCR, and electrochemical amplicon detection at on-cartridge screen-printed electrodes with blister-pack reagents and valving. Anticipates: electrochemical-readout PCR cartridges for POC; integrated lysis-amplify-detect consumables using non-optical detection. Companion to cepheid-genexpert-cartridge and visby-medical entries (optical or strip readout) -- binx uses electrochemistry instead.
+
 ## Kenzen ECHO H2 Smart Patch (2017-01-05)
 
 - **id**: `kenzen-echo-h2-sweat-patch`
@@ -614,6 +814,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA approval (Guardian Connect) March 2018; Medtronic press release 2017 (Guardian Sensor 3 with MiniMed 670G launch); FDA P160017 (670G system)
 - **ip status**: patented
 - **prior art notes**: Subcutaneous amperometric glucose sensor with multi-electrode redundancy (at least two working electrodes whose ISIG is fused to reject motion artifact). Discloses the architecture of pairing a CGM with an automated insulin pump for closed-loop control. Anticipates: redundant-electrode CGM filament architectures; CGM-pump integration topology in the SmartGuard / Auto Mode hybrid closed loop family.
+
+## Black-market embryonic gene-editing rig and adult phenotype-rewrite kit (Daniel Suarez, Change Agent) (2017-04-18)
+
+- **id**: `suarez-change-agent-black-market-gene-editing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Daniel Suarez
+- **disclosure**: Daniel Suarez, Change Agent (Dutton, 2017-04-18, ISBN 978-1101984666); near-future Singapore, illegal labs perform embryonic CRISPR-class edits and a black-market adult phenotype-rewrite (reflexive genetic editing) that remodels a living persons body to match another genome.
+- **ip status**: fictional
+- **prior art notes**: Discloses a bench gene-editing platform (microfluidic embryo handling + payload synthesis + electroporation/injection) and an injectable self-propagating adult-edit payload remodeling tissues toward a target genome, with sequencing QC. Cited aspects: the integrated embryo-handling-plus-payload-delivery bench and the injectable progressive-phenotype-rewrite payload. Anticipates generic claims to integrated gene-editing benches with microfluidic embryo handling and to systemic progressive-editing therapeutic payloads. HIGH 102 value: the work centers on the editing device/process. Pairs with gattaca-instant-genome-readout, naam-nexus-trilogy-implant, and rajaniemi-darkome-diy-synthetic-biology.
 
 ## Abbott i-STAT Alinity Handheld Blood Analysis Cartridge (2018)
 
@@ -644,6 +854,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex CN-series product launch (Sysmex Corp 2018); JP/US/EP filings via espacenet (assignee: Sysmex)
 - **ip status**: patented
 - **prior art notes**: CN-series patent family extends sysmex-cn-3000-coag-analyzer existing entry with detailed disclosure of integrated coag/chromogenic/immuno fluidic subsystem. Anticipates claims that recite integrated multi-modality coagulation fluidic cartridges with on-cartridge calibration wells.
+
+## Teralytic Wireless In-Ground Soil Probe (NPK / Moisture / Salinity / Respiration) (2018)
+
+- **id**: `teralytic-soil-probe-npk-microfluidic-sensor`
+- **corpus**: private
+- **device class**: other
+- **creator**: Teralytic Inc.
+- **disclosure**: Teralytic Inc. (New York / Las Cruces) soil probe product literature and patents on a multi-depth in-ground soil sensor with ion-selective and gas sensing
+- **ip status**: patented
+- **prior art notes**: Discloses an in-ground multi-depth probe with arrays of ion-selective/electrochemical microsensors interrogating soil pore water in situ, plus a microscale gas-diffusion chamber for soil respiration, telemetering to cloud analytics. Anticipates: in-situ soil-pore-water electrochemical micro-sensor arrays; multi-depth buried fluidic/electrochemical sensing nodes; closed-loop fertigation driven by in-ground micro-sensor data. Companion to stenon-farmlab-handheld-soil-analyzer and to trace-genomics-soil-microbiome-cartridge (already covered).
 
 ## Atmo Biosciences Gas-Sensing Ingestible Capsule (2018-01-08)
 
@@ -705,6 +925,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses reversible quinone-redox electrochemical CO2 adsorbent in flow-through cell. Anticipates electrochemical-swing quinone CO2 capture cell claims.
 
+## Stenon FarmLab Handheld Real-Time Soil Analyzer (2019)
+
+- **id**: `stenon-farmlab-handheld-soil-analyzer`
+- **corpus**: private
+- **device class**: other
+- **creator**: Stenon GmbH
+- **disclosure**: Stenon GmbH (Potsdam, Germany) FarmLab product literature and patents on a handheld in-field soil-property analyzer combining optical and electrochemical sensing with AI calibration
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld probe whose tip combines optical (NIR/multispectral) and electrochemical micro-sensing of a soil-contact zone with AI calibration to lab reference values, giving real-time soil-nutrient readings. Anticipates: handheld multimodal soil-nutrient micro-sensor probes; AI-calibrated optical+electrochemical fusion for in-field analytics. Companion to teralytic-soil-probe-npk-microfluidic-sensor.
+
+## Project Apple psychic-induction experiment apparatus (Spy x Family) (2019-03-25)
+
+- **id**: `spy-x-family-apple-project-anya-experiment`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Tatsuya Endo / Shueisha
+- **disclosure**: Spy x Family (Tatsuya Endo, Shueisha; manga from 2019-03-25; anime Wit Studio/CloverWorks 2022). Anyas origin as the escaped Subject 007 of an organizations experiment (Project Apple) that gave her telepathy is established in the early manga chapters; IMDB tt12343534.
+- **ip status**: fictional
+- **prior art notes**: Discloses a clandestine research facility administering injectable agents to subjects to induce a new capability, with biomonitoring across a cohort. Cited aspects: the injectable-agent administration with subject biomonitoring loop. Anticipates generic claims to dosed-agent administration with integrated subject-biosample monitoring in a research workflow. Borderline (the mechanism is unspecified), but the inject-and-monitor loop is concrete. Pairs with mob-psycho-100 and one-punch-man-doctor-genus fictional entries (psychic-power research labs).
+
 ## Dexcom G7 continuous glucose monitor sensor (2022)
 
 - **id**: `dexcom-g7-cgm`
@@ -714,6 +954,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dexcom G7 Continuous Glucose Monitoring System. https://www.dexcom.com
 - **ip status**: patented
 - **prior art notes**: Skin-mounted continuous glucose monitor with subcutaneous enzymatic glucose sensor wire and integrated wireless transmitter. Architecturally a wearable microfluidic-equivalent biosensor: the sensor wire performs enzymatic glucose oxidation at sub-mm scale with electrochemical detection. The Dexcom and Abbott Libre CGM cartridges are the highest-volume wearable biosensors deployed globally (~10s of millions of units annually).
+
+## Vesper seeds bioengineering and the Jugs Citadel synthetic-biology labs (Vesper, 2022) (2022-09-23)
+
+- **id**: `vesper-jugs-citadel-seed-bioengineering-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kristina Buozyte / Bruno Samper
+- **disclosure**: Vesper (Kristina Buozyte and Bruno Samper; theatrical 2022-09-23, premiered Karlovy Vary 2022); after an ecological collapse the oligarchs Citadels engineer single-use locked seeds traded for blood; the protagonist Vesper runs a makeshift bench engineering self-replicating seeds; IMDB tt15314262.
+- **ip status**: fictional
+- **prior art notes**: Discloses industrial production of genetically locked single-use seeds, a bench workflow editing seeds to remove the lock and self-replicate, and blood-collection-and-assay gating stations. Cited aspects: the genetic-use-restriction (locked-seed) production workflow and the bench gene-editing-to-defeat-lock workflow. Anticipates generic claims to genetic-use-restriction biofabrication and to bench gene-editing pipelines. Pairs with gattaca-instant-genome-readout and change-agent-style gene-editing fictional entries.
+
+## 3EO Health Low-Cost Molecular Point-of-Care Test (COVID-19 / Respiratory) (2023)
+
+- **id**: `3eo-health-low-cost-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3EO Health
+- **disclosure**: 3EO Health (Cambridge, Massachusetts) disclosures of a low-cost molecular POC test and FDA-cleared/authorized COVID-19 test; patents on an electrochemical-readout isothermal-amplification cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a low-cost single-use isothermal-amplification cartridge with on-cartridge screen-printed electrodes for electrochemical amplicon detection read by an inexpensive reusable reader. Anticipates: cost-optimized electrochemical-readout molecular cartridges; antigen-test-economics molecular POC. Companion to binx-health-io-molecular-poc-cartridge (also electrochemical) and to other low-cost-molecular-POC entries.
 
 ## Medtronic Simplera Disposable CGM (2023-09-21)
 
@@ -734,3 +994,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA De Novo DEN230071 March 5 2024 (first OTC CGM clearance); Dexcom press release 2024-03-05
 - **ip status**: patented
 - **prior art notes**: OTC variant of Dexcom G7 sensor stack with extended wear time and consumer-grade alerting (no high/low alarms). Same enzymatic membrane architecture as G6/G7. Anticipates: OTC regulatory pathway for amperometric subcutaneous biosensors; consumer wellness positioning for CGMs without diabetes label.
+
+## DIY synthetic-biology home rig and immune-rewriting platform (Hannu Rajaniemi, Darkome) (2024-10-01)
+
+- **id**: `rajaniemi-darkome-diy-synthetic-biology-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Hannu Rajaniemi
+- **disclosure**: Hannu Rajaniemi, Darkome (Gollancz, 2024; ISBN 978-1399610483); a near-future biohacker thriller in which DIY-bio collectives use home synthetic-biology rigs to design, print, and test self-administered immune-modulating constructs and personalized therapeutics outside the regulated medical system.
+- **ip status**: fictional
+- **prior art notes**: Discloses a benchtop synthetic-biology rig integrating nucleic-acid synthesis, microfluidic cell-free expression cartridges, automated wet-lab steps, on-rig sequencing/assay feedback, and a self-administration injector, in a closed design-build-test loop. Cited aspects: the integrated bench DBT rig with microfluidic cartridges and the rig-output-to-self-administration-injector coupling. Anticipates generic claims to integrated benchtop design-build-test synthetic-biology platforms and to point-of-use biologic synthesis-then-self-administer systems. HIGH 102 value: the work centers on the DIY-bio device/process. Pairs with suarez-change-agent-black-market-gene-editing, metafluidics-platform, and naam-nexus-trilogy-implant.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-capillary-electrophoresis`
 
-**37 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -215,6 +215,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational commercial implementation of glass chip CE for protein and nucleic acid separation. The Caliper LabChip platform was the dominant academic-research chip CE platform 2000-2010 before being eclipsed by capillary instruments. Caliper held a substantial patent estate covering chip-format separations, integrated multi-channel architectures, and droplet manipulation. Acquired by PerkinElmer 2011; underlies many commercial DNA / RNA / protein gel-equivalent chip products.
 
+## Burns 1996 microfabricated structures for integrated DNA analysis (1996-05-28)
+
+- **id**: `burns-1996-microfabricated-dna-analysis-pnas`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Burns / Burke / Mastrangelo group, University of Michigan
+- **disclosure**: Burns, M. A.; Mastrangelo, C. H.; Sammarco, T. S.; Man, F. P.; Webster, J. R.; Johnsons, B. N.; Foerster, B.; Jones, D.; Fields, Y.; Kaiser, A. R.; Burke, D. T. Microfabricated structures for integrated DNA analysis. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 5556-5561. DOI: 10.1073/pnas.93.11.5556
+- **ip status**: public-domain
+- **prior art notes**: The direct precursor to the famous Burns 1998 Science integrated DNA analysis device (burns-1998-integrated-dna-analysis-device). Discloses microfabricated silicon-glass structures combining nanoliter drop metering by hydrophobic surface patterning, thermal-pneumatic (air-bubble) pumping driven by integrated resistive heaters, on-chip mixing of metered drops, a temperature-controlled reaction chamber, and an integrated capillary electrophoresis channel for product size analysis - all on a single wafer. Anticipates claims to: monolithic integration of metering+reaction+separation on a microfabricated substrate; thermal/gas-expansion actuation of discrete aqueous plugs in hydrophilic channels bounded by hydrophobic regions; on-chip drop merging by channel geometry; and end-to-end DNA assay automation in a chip-scale device. Predates the 1998 Science paper by two years.
+
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
+
 ## Sebia Capillarys hemoglobinopathy CE analyzer (2005)
 
 - **id**: `sebia-capillarys-3`
@@ -224,6 +254,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sebia Capillarys product family. https://www.sebia.com
 - **ip status**: patented
 - **prior art notes**: Commercial multi-capillary CE analyzer for hemoglobinopathy screening (sickle cell, beta-thalassemia, etc.) widely used in newborn screening programs. Architectural cousin of academic CE chips at clinical-deployment scale. Reference for the hemoglobinopathy-screening cartridge product segment, particularly relevant for global low-and-middle-income-country newborn screening efforts.
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
+
+## Janasek 2006 scaling and the design of miniaturized chemical-analysis systems (2006-07-27)
+
+- **id**: `janasek-manz-2006-scaling-miniaturized-analysis-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andreas Manz group, ISAS Dortmund
+- **disclosure**: Janasek, D.; Franzke, J.; Manz, A. Scaling and the design of miniaturized chemical-analysis systems. Nature 2006, 442, 374-380. DOI: 10.1038/nature05059
+- **ip status**: public-domain
+- **prior art notes**: The definitive scaling-laws treatment of miniaturized chemical analysis: it works through how separation resolution, mixing time, thermal transport, reaction kinetics and detection limits scale with channel dimensions, showing where miniaturization wins (faster diffusive mixing and equilibration, higher field strengths and efficiency in electrophoresis, lower thermal mass) and where it loses (mass-limited detection). As prior art it anticipates claims to: design methodologies that size microchannel features against target analytical performance via dimensional scaling; and the general principle that electrokinetic separation and diffusion-limited operations benefit from scale reduction. Companion to manz 1990 microTAS and stone-2004-engineering-flows-microfluidics. From the Manz group (ISAS Dortmund), originator of microTAS.
+
+## Smiths Detection LCD 3.3 lightweight chemical-warfare-agent detector (2007-06-12)
+
+- **id**: `smiths-detection-lcd-3-3-chemical-agent-detector`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Smiths Detection (Smiths Group plc)
+- **disclosure**: Smiths Detection LCD 3.3 / JCAD product disclosures and US DoD JCAD program documentation, mid-2000s; underlying ion-mobility CWA-detection patents incl. US7045776B2 (Smiths) ion mobility spectrometer with planar electrodes and US6822226B2 (Smiths) portable ion mobility detector.
+- **ip status**: patented
+- **prior art notes**: Discloses a miniaturized recirculating-purified-drift-gas ion-mobility (and differential-mobility) micro-gas-flow cell with a dryer membrane and millisecond ion gating for continuous CWA detection in a worn package. Anticipates claims to (a) portable recirculating-drift-gas IMS/DMS chemical-agent detector; (b) membrane-dryer-conditioned air inlet to a miniature IMS cell; (c) dual-polarity continuous CWA monitoring with on-board library; (d) FAIMS/DMS micro-channel chemical-warfare-agent sensor. Prior art for Smiths, Bruker (RAID), Environics and competing CWA-detector patents.
 
 ## Schoch 2008 — Transport Phenomena in Nanofluidics (Rev. Mod. Phys.) (2008-07)
 
@@ -304,6 +364,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The ODIN founded 2015 by Josiah Zayner; first public DIY CRISPR kit released 2016; https://www.the-odin.com; documented in Zayner J., 'A Step-by-Step Guide to DIY CRISPR' (2016 e-book) and extensive press coverage (NYT, Wired, MIT Tech Review)
 - **ip status**: open-permissive
 - **prior art notes**: Discloses retail distribution of complete molecular-biology workflows to non-institutional users, including microfluidic-adjacent open hardware (PCR thermocycler, gel rig, mini-centrifuge) bundled with reagents and step-by-step protocols. The ODIN's open documentation of its kits' hardware (BOMs, schematics) and its written protocols are prior art against post-2016 'consumer molecular biology kit' patents and against many 'low-cost integrated PCR-and-gel cartridge' claims. Specifically anticipates: any patent claiming 'a consumer-grade integrated genetic engineering kit comprising thermocycling, electrophoresis, and reagent components.'
+
+## Bio-Techne / ProteinSimple Maurice (Capillary Isoelectric Focusing & CE-SDS) (2016)
+
+- **id**: `proteinsimple-maurice-capillary-isoelectric-focusing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ProteinSimple (Bio-Techne)
+- **disclosure**: ProteinSimple (Bio-Techne) Maurice and Maurice S/C cartridge datasheets; predecessor iCE3 / iCE280 imaged capillary isoelectric focusing literature
+- **ip status**: patented
+- **prior art notes**: Discloses a replaceable cartridge enclosing a coated fused-silica capillary with integrated electrolyte reservoirs, in which proteins are focused along a pH gradient and the entire column is imaged at once by a UV camera, with the same capillary platform reconfigurable for SDS sieving electrophoresis. Anticipates: whole-column-imaging capillary isoelectric focusing in a disposable cartridge; cartridge-format capillary electrophoresis for biologics QC; imaged-detection capillary separations replacing slab-gel methods. A ubiquitous biologics-QC microfluidic-equivalent platform; sister to proteinsimple-westernblot-simple-western.
 
 ## Bento Lab Portable PCR + Centrifuge + Gel Workstation (2016-04)
 

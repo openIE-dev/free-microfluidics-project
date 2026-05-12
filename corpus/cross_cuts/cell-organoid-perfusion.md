@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-organoid-perfusion`
 
-**151 corpus entries disclose this subsystem.**
+**194 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1932
 
@@ -235,6 +235,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Anton Arcane's Castle Arcane biolab depicted as a multi-vat operation creating the Un-Men: subject-immersion modification chambers, operator-mediated reagent application, multiple horror-styled bio-engineering benches. Anticipates: subject-immersion bio-modification chamber arrays under operator control; combined organic-substrate manipulation reagent dispensing; useful prior art for 'subject-immersion bio-modification chamber array with operator-mediated reagent dispensing' claims.
 
+## Olympus Bioroid production and life-extension facility (Appleseed) (1985-02-01)
+
+- **id**: `appleseed-bioroid-production-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Masamune Shirow / Seishinsha
+- **disclosure**: Appleseed (Masamune Shirow, Seishinsha; manga from 1985; OVA 1988; Appleseed (2004) and Appleseed Ex Machina (2007) films); the Bioroid production facilities and the bioroid life-extension treatment in Olympus; ISBN 4-7896-0411-0 (manga vol. 1).
+- **ip status**: fictional
+- **prior art notes**: Discloses vat culture of whole artificial humans under perfusion plus a recurring infused life-extension treatment creating maintenance dependency, plus centralized genome/trait control. Cited aspects: the perfused whole-organism vat-production line and the recurring-treatment-for-lifespan-maintenance model. Anticipates generic claims to perfused organism-production bioreactors and to subscription-style recurring biologic-maintenance regimens. Pairs with evangelion-eva-cloning-dummy-plug-tanks and brave-new-world-bokanovsky-process; the recurring-treatment-dependency aspect pairs with battletech-clan-iron-womb-medical.
+
 ## X-Men Mr. Sinister cloning vats (Madelyne Pryor and beyond) (1986)
 
 - **id**: `xmen-mr-sinister-cloning-vats`
@@ -385,6 +395,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses a living-organism-in-a-sustaining-fluid-vessel power/resource unit: a contained organism perfused by a maintenance medium, from which energy and matter are extracted, with a documented over-extraction failure mode, deployed in arrays. Anticipates generic claims to organism-in-perfused-vessel bioreactors used for energy/resource extraction with extraction-rate limits. Pairs with halo-flood-infection-growth-pods and the various vat-organism entries.
 
+## Evangelion production tanks, Rei clone vats, and dummy-plug bioprocessor (Neon Genesis Evangelion) (1995-10-04)
+
+- **id**: `evangelion-eva-cloning-dummy-plug-tanks`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gainax / Hideaki Anno
+- **disclosure**: Neon Genesis Evangelion (Hideaki Anno / Gainax, broadcast 1995-10-04 to 1996-03-27); the Eva production scaffolds, the Rei clone tank in Terminal Dogma, and the dummy-plug system (notably episodes broadcast 1996); further depicted in The End of Evangelion (1997) and the Rebuild films; IMDB tt0112159.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) large-scale perfusion culture of organism-scale constructs in a circulated amniotic-like medium, (b) a maintained reservoir of identical clone bodies for on-demand swap, and (c) a sealed cartridge housing cultured neural tissue used as a control element. Cited aspects: the perfused organism-scale bioreactor and the clone-body reservoir for identity transfer. Anticipates generic claims to perfused large-construct bioreactors and to banked-replacement-body workflows. Extends evangelion-lcl-entry-plug. Pairs with appleseed-bioroid-production and doctor-who-davros-kaled-mutant-vats.
+
 ## Hyperion Pax Reactivation Center medbay (Cruciform-mediated resurrection facility) (1996)
 
 - **id**: `hyperion-reactivation-center-medbay`
@@ -525,6 +545,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses a public-art installation in which microbial culture vessels are interactively perfused with UV-induced mutagenesis triggered by remote audience input. The architectural concept of a remote-internet-controlled microbial culture chamber with on-demand environmental modulation anticipates: cloud-controlled organ-on-chip and microbial-culture installations; tele-operated mutagenesis chambers for art and education; the broader artistic-conceptual precedent for any 'bioart microfluidic' work.
 
+## Rifter deep-sea bio-modification and the Beebe Station med-bay (Peter Watts, Rifters trilogy) (1999-07-01)
+
+- **id**: `watts-rifters-deep-sea-tweaked-biology`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter Watts
+- **disclosure**: Peter Watts, Starfish (Tor, 1999, ISBN 978-0312867041), Maelstrom (2001), Behemoth (2004); rifters are surgically and biochemically modified for abyssal work (a machine-lung implant replacing one lung, photophores, oxygenation tweaks), maintained at the deep-sea Beebe Station med-bay; ßehemoth is a primordial nanobe pathogen studied in containment.
+- **ip status**: fictional
+- **prior art notes**: Discloses surgical implantation of a fluid/gas-handling lung-replacement implant for pressure adaptation, biochemical modification of oxygen metabolism, a perfusion-equipped station med-bay, and BSL pathogen containment. Cited aspects: the implanted fluid/gas-handling lung-cavity device and the surgical-plus-biochemical environment-adaptation workflow. Anticipates generic claims to implantable fluid/gas-management respiratory devices and to combined surgical/biochemical physiological-adaptation procedures. Pairs with watts-blindsight-theseus-medbay-vampire-revival and abyss-style fictional entries.
+
 ## Stargate SG-1 Asgard biological consciousness-transfer device (2000)
 
 - **id**: `stargate-asgard-bio-transfer`
@@ -534,6 +564,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stargate SG-1 'Revelations' (S5E22, 2002); 'Fragile Balance' (S7E3, 2003) shows clone-creation mechanics; 'Unending' (S10E20, 2007).
 - **ip status**: fictional
 - **prior art notes**: Asgard biological-transfer technology depicted as: a paired tank/pod system in which an aging consciousness is transferred to a freshly grown clone body. The 'Fragile Balance' episode shows young O'Neill's clone in a half-grown state in a fluid-filled growth chamber. Defensive prior art for: cloning-vat with consciousness-transfer interface, paired old-body / new-body transfer apparatus, and accelerated-clone growth chambers.
+
+## En-family sorcerer hospital, mushroom-growing chambers, and Hole disposal/cleaning rooms (Dorohedoro) (2000-11-30)
+
+- **id**: `dorohedoro-en-family-hospital-mushroom-disposal`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Q Hayashida / Shogakukan
+- **disclosure**: Dorohedoro (Q Hayashida, Shogakukan; manga from 2000; anime MAPPA 2020). The En Family hospital, En mushroom-growing rooms, and the disposal/cleaning rooms appear throughout; ISBN 4-09-152661-7 (manga vol. 1); IMDB tt9426108 (anime).
+- **ip status**: fictional
+- **prior art notes**: Discloses climate-controlled irrigated fungal cultivation rooms, a specialized medical suite, and dedicated biomatter disposal/rendering rooms with drains and processing vessels, plus organ salvage/transplant. Cited aspects: the irrigated-substrate-bed cultivation chamber and the drained rendering/disposal room for biological waste processing. Anticipates generic claims to controlled-environment cultivation beds and to integrated biological-waste rendering stations. Borderline (dark fantasy), but the cultivation-bed and waste-rendering apparatus are concrete. Pairs with the-last-of-us cordyceps-style fictional entries.
 
 ## Star Trek Enterprise Dr. Phlox's biological-creature pharmacopoeia (2001)
 
@@ -605,6 +645,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Mardock Scramble depicts Rune Balot's resurrection in a sealed cellular-reconstruction chamber: full-body bath with multi-channel reagent infusion, ML-driven cell-pattern reconstruction, and integrated nanocomposite (Oeufcoque) substrate. Anticipates: full-body cellular reconstruction chambers combining multi-channel reagent infusion, computational cell-pattern guidance, and integrated nanocomposite substrate. Useful prior art for 'computationally-guided multi-channel reagent reconstruction in a full-body bath chamber' claims.
 
+## Texhnolyze prosthetic-limb integration surgery and Class research lab (Texhnolyze) (2003-04-17)
+
+- **id**: `texhnolyze-class-prosthetic-integration-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Madhouse
+- **disclosure**: Texhnolyze (Madhouse, broadcast 2003-04-17 to 2003-09-25); the Texhnolyze prosthetic-integration surgery (Docs clinic) and the Class organizations augmentation research; IMDB tt0364737.
+- **ip status**: fictional
+- **prior art notes**: Discloses surgical neural-integration of prosthetic limbs under perfusion plus tuning of the body-device interface plus use of a biologically sourced integration material. Cited aspects: the perfusion-supported prosthetic-neural-integration surgery and the interface-tuning workflow. Anticipates generic claims to perfusion-assisted neuroprosthetic implantation and to post-implant interface-calibration procedures. Pairs with gundam-witch-from-mercury-permet-gund-arm and 86-eighty-six-style prosthetic fictional entries.
+
 ## Battlestar Galactica Cylon resurrection tank (re-imagined series) (2004)
 
 - **id**: `bsg-cylon-resurrection-tank`
@@ -614,6 +664,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Battlestar Galactica miniseries (Sci Fi Channel 2003); resurrection tank introduced in 'Resistance' (2005); detailed in 'Downloaded' (2006) and 'Hero' (2006).
 - **ip status**: fictional
 - **prior art notes**: Iconic explicit fluid-cloning depiction. The resurrection tank is depicted as a translucent vat filled with viscous nutrient/regenerative fluid, in which a Cylon's downloaded consciousness manifests in a freshly-grown body. The 'Downloaded' episode (S2E18, 2006) provides extensive on-screen depictions: vat geometry, fluid-perfusion lines, environmental control, and medical attendants extracting the newly-downloaded Cylon. The 'Hero' (S3E8) episode details the Resurrection Ship infrastructure as an industrialized network of tanks. Architecturally anticipates: closed-vat whole-body biological grow-tank with integrated upload/download interface, mass-resurrection facility with networked tanks, and biological-template + electronic-mind merge facility. Strong fictional prior art for whole-body cloning vats, tied to detailed visual depictions across 4 seasons (2003-2009).
+
+## Combine Overwatch transhuman-conversion surgical line (Half-Life 2) (2004-11-16)
+
+- **id**: `half-life-2-combine-overwatch-transhuman-conversion`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Valve Corporation
+- **disclosure**: Half-Life 2 (Valve Corporation, 2004-11-16) and Half-Life 2: Episode One (2006); the Nova Prospekt and Citadel conversion sequences depicting Combine transhuman and stalker surgical processing; IMDB tt0386938.
+- **ip status**: fictional
+- **prior art notes**: Discloses an automated surgical processing line performing serial organ explant and synthetic-implant on a living subject with continuous perfusion and body-fluid exchange to keep the subject viable through the procedure. Cited aspects: the perfusion-during-surgery loop and the assembly-line throughput model; anticipates systems-level claims to automated multi-station surgical platforms with intra-operative fluid management and to throughput-oriented body-modification lines. Pairs with half-life-2-combine-citadel-ration-vat and cyberpunk ripperdoc fictional entries.
 
 ## Firefly River Tam Academy operating tables (neural intervention surgery) (2005)
 
@@ -695,6 +755,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of galvanic-fluid-bath corpse-to-being transformation tank with subsequent staged refinement biofluid regimen. Anticipates claims directed to corpse-to-being electrochemical-fluidic reanimation cartridges with staged post-creation biofluid regimens.
 
+## El-Ali 2006 cells on chips (2006-07-27)
+
+- **id**: `el-ali-2006-cells-on-chips`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Klavs F. Jensen and Peter K. Sorger groups, MIT
+- **disclosure**: El-Ali, J.; Sorger, P. K.; Jensen, K. F. Cells on chips. Nature 2006, 442, 403-411. DOI: 10.1038/nature05063
+- **ip status**: public-domain
+- **prior art notes**: The canonical Nature-insight review of cell biology on microfluidic chips: single-cell hydrodynamic and other trapping, perfusion culture with controlled microenvironments, microfluidic concentration-gradient generators, dynamic-stimulus delivery, on-chip lysis, and integration with downstream nucleic-acid/protein assays for systems-biology-grade single-cell measurements. As a unified prior-art statement it anticipates claims to: microfluidic perfusion culture with programmable soluble-factor gradients; integrated trap-stimulate-lyse-analyze workflows for single cells; and the broad concept of using microfluidics to make time-resolved, quantitative single-cell biology routine. Companion to di-carlo-2006-cell-trap-array and voldman-2002-cell-trap-dep-array. From the MIT Jensen/Sorger labs.
+
+## Theseus medbay regeneration pods and the vampire-revival protocol (Peter Watts, Blindsight / Echopraxia) (2006-10-03)
+
+- **id**: `watts-blindsight-theseus-medbay-vampire-revival`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Peter Watts
+- **disclosure**: Peter Watts, Blindsight (Tor, 2006-10-03, ISBN 978-0765312181) and Echopraxia (Tor, 2014, ISBN 978-0765328021); the starship Theseus medbay regeneration/recovery pods, the resurrection of an extinct predatory hominid subspecies (vampires) and the anti-Crucifix-Glitch drug regimen, and the Bicameral Orders bioengineering facilities.
+- **ip status**: fictional
+- **prior art notes**: Discloses fluid-immersion regeneration pods with perfusion and tissue-repair support, a de-extinction bioprocessing line, and a chronic implant/infusion drug regimen suppressing a physiological glitch. Cited aspects: the fluid-immersion regeneration-pod with perfusion and the chronic-implant-infusion regimen with onset telemetry. Anticipates generic claims to fluid-immersion regenerative-recovery pods and to chronic implantable-infusion-with-monitoring regimens. Pairs with red-rising recovery vats, prometheus-medpod-style entries, and ray-nayler de-extinction-style entries.
+
+## Geass Directorate Code/Geass research apparatus and C.C.s immortality study (Code Geass) (2006-10-06)
+
+- **id**: `code-geass-geass-code-research-directorate`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sunrise
+- **disclosure**: Code Geass: Lelouch of the Rebellion (Sunrise, broadcast 2006-10-06 to 2007-07-29; R2 2008). The Geass Directorate and its research into Code and Geass biology, including experiments on children and on the immortal C.C., feature in R1/R2; IMDB tt0994314.
+- **ip status**: fictional
+- **prior art notes**: Discloses a research facility studying and inducing a biological capability in subjects with biomonitoring, plus a transfer mechanism moving a capability-conferring biological factor between bearers. Cited aspects: the induction-with-biomonitoring research loop and the bearer-to-bearer factor-transfer. Anticipates generic claims to capability-induction research workflows with subject monitoring and to transfer-of-biological-factor-between-hosts procedures. Borderline (mechanism is magical), but the research-loop and transfer archetypes are concrete. Pairs with made-in-abyss-bondrewd-cradle-of-desire and spy-x-family-apple-project-anya-experiment.
+
 ## Acoustically detectable cellular-level lung injury model (2007)
 
 - **id**: `huh-2007-lung-on-chip-precursor`
@@ -764,6 +854,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Doctor Who, Daleks in Manhattan (BBC, broadcast 2007-04-21) and Evolution of the Daleks (BBC, broadcast 2007-04-28), written by Helen Raynor; IMDB tt0995845.
 - **ip status**: fictional
 - **prior art notes**: Discloses (a) an immersion-tank fusion of two whole organisms to yield a chimera, (b) extraction and reservoir storage of a genetic solution from one donor lineage, (c) distributed delivery of that solution to many recipients through a conduit/antenna. Anticipates generic claims to organism-fusion bioreactors, to extraction-and-reservoir-storage of genetic material for later bulk dosing, and to centralized distributed gene-delivery to a population. Pairs with doctor-who-davros-kaled-mutant-vats and Octavia Butler Oankali gene-trading entries.
+
+## Aperture Science Neurotoxin Generator and Relaxation Vault perfusion (Portal / Portal 2) (2007-10-10)
+
+- **id**: `portal-aperture-neurotoxin-generator`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Valve Corporation
+- **disclosure**: Portal (Valve Corporation, 2007-10-10) and Portal 2 (Valve, 2011-04-19); the Neurotoxin Generator chapter and the Relaxation Vault perfusion pods; IMDB tt1297994 (Portal 2).
+- **ip status**: fictional
+- **prior art notes**: Discloses two coupled fluidic subsystems: (a) an on-demand chemical-generation plant feeding a metered dispersal manifold that doses a controlled atmosphere on a programmed schedule, anticipating generic claims to integrated reagent-generation-plus-metered-delivery for environmental dosing; and (b) a single-occupant suspended-animation pod with continuous nutrient/atmosphere perfusion, vitals monitoring, and automated revival, anticipating claims to perfused hibernation/stasis enclosures with closed-loop life support and timed wake. Pairs with cryo/hypersleep fictional entries and industrial dosing-skid prior art. Borderline for a microfluidics corpus at facility scale, but the metered-distribution and per-pod perfusion are the cited aspects.
 
 ## Warhammer 30K Mechanicum Princeps titan-pilot amniotic tank (2008)
 
@@ -995,6 +1095,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: A*STAR SBIC patent family covers imaging-coupled fluidic flow chambers for live-cell biofluidic imaging. Anticipates claims directed to flow-imaging fluidic cartridges with molecular probe delivery.
 
+## Lucas Clinic celebrity-virus harvesting, attenuation, and injection apparatus (Antiviral, 2012) (2012-05-19)
+
+- **id**: `antiviral-lucas-clinic-celebrity-virus-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg
+- **disclosure**: Antiviral (Brandon Cronenberg; theatrical release 2012, premiered Cannes Un Certain Regard 2012-05-19); the Lucas Clinic harvests viruses from celebrities, runs them through a copy-protection/attenuation machine, and injects paying clients; also the celebrity-cell-tissue butchery; IMDB tt1772264.
+- **ip status**: fictional
+- **prior art notes**: Discloses a harvest-process-attenuate-inject pipeline: donor pathogen sampling, a benchtop processing machine applying an attenuation/copy-protection step, single-dose syringe loading, and client injection, plus a parallel donor-cell tissue-culture line. Cited aspects: the harvest-then-attenuate-then-single-dose-inject workflow and the benchtop pathogen-processing-to-dose-unit machine. Anticipates generic claims to integrated pathogen-harvest-and-attenuation-to-dose-unit pipelines and to bench instruments converting harvested biological material into single-dose injectables. HIGHEST 102 value: the entire film is about this microfluidic clinic pipeline. Pairs with theranos-promised-cartridge, antiviral-adjacent fictional entries, and the-substance-cell-division-serum.
+
 ## Engineering multi-organ microphysiological systems (multi-organ-on-chip) (2013)
 
 - **id**: `wikswo-2013-multi-organ-chip`
@@ -1064,6 +1174,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black Mirror, Be Right Back (S2E01, Channel 4, first aired 2013-02-11), written by Charlie Brooker; IMDB tt2290780.
 - **ip status**: fictional
 - **prior art notes**: Discloses a consumer-grade home-activated synthetic-body fabrication: inert feedstock plus a bath of activator fluid plus a few hours yields a full templated adult body, then animated by an AI personality model. Anticipates generic claims to consumer-deployed immersion-activated biofabrication of a full body and to fabricated-body-plus-personality-model replica systems. Pairs with doctor-who-flesh-ganger-vats, black-mirror-beyond-the-sea-replicas (below), and the Westworld host lineage.
+
+## The Helminth infested-biology system and Warframe transference cradle (Warframe) (2013-03-25)
+
+- **id**: `warframe-helminth-infested-biology-system`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Digital Extremes
+- **disclosure**: Warframe (Digital Extremes, 2013-03-25; the Helminth system added 2020 in the Heart of Deimos update); the Orbiters Helminth chamber, the Warframe-ability infusion mechanic, and the Infested-biology lore.
+- **ip status**: fictional
+- **prior art notes**: Discloses a living bioreactor with feedstock intake, a perfused immersion cavity for a whole construct, and secretion/infusion ducts that transfer extracted biological essences between bodies, plus organism culture/birth from the same vessel. Cited aspects: the immersion-cavity perfusion for whole-body maintenance and the extract-essence-then-infuse-into-another-body transfer workflow. Anticipates generic claims to perfused whole-construct maintenance chambers and to fluidic extract-and-transfer-between-units therapeutic workflows. High 102 value (the Helminth system is a central, named, mechanically detailed subsystem). Pairs with doctor-who-flesh-ganger-vats and made-in-abyss-curse-bearing-fluid.
+
+## Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) (2013-10-10)
+
+- **id**: `huh-2013-organ-chip-nature-protocols`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald E. Ingber group, Wyss Institute, Harvard
+- **disclosure**: Huh, D.; Kim, H. J.; Fraser, J. P.; Shea, D. E.; Khan, M.; Bahinski, A.; Hamilton, G. A.; Ingber, D. E. Microfabrication of human organs-on-chips. Nat. Protoc. 2013, 8, 2135-2157. DOI: 10.1038/nprot.2013.137
+- **ip status**: public-domain
+- **prior art notes**: The published fabrication protocol for the Wyss Institute organ-on-chip: how to mold the two parallel microchannels, cast and handle the thin porous PDMS membrane, plasma-bond the layers in alignment, etch the flanking side chambers, and apply cyclic vacuum to mechanically strain the cell-bearing membrane - the canonical recipe behind the lung/gut/etc. chips. As a public disclosure it anticipates fabrication-method claims to: a microfluidic organ device made by bonding two channel layers around a microfabricated thin porous elastomer membrane; vacuum-actuated side chambers for cyclic membrane stretch; and the specific layer-alignment/bonding workflow for such devices. Companion to huh-2010-lung-on-chip and bhatia-ingber-2014-microfluidic-organs-on-chips; this is the Wyss Microfluidics Core / Emulate reference protocol.
 
 ## Zygon body-print pod (Day of the Doctor / The Zygon Invasion) (2013-11-23)
 
@@ -1155,6 +1285,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Samsung Bioepis patent family covers biosimilar continuous-perfusion biologic-production fluidics with in-line analytical QC. Anticipates claims directed to continuous biologic-production fluidic cartridges with in-line analytical QC.
 
+## The Carving bio-augmentation surgery and Color-engineering resurrection vats (Pierce Brown, Red Rising) (2014-01-28)
+
+- **id**: `pierce-brown-red-rising-carving-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Pierce Brown
+- **disclosure**: Pierce Brown, Red Rising (Del Rey, 2014-01-28, ISBN 978-0345539786) and sequels (Golden Son 2015, Morning Star 2016, Iron Gold 2018, Dark Age 2019, Light Bringer 2023); the Carvers surgically and genetically re-engineer a person between Colors (notably Darrows transformation from a Red to a Gold) and operate resurrection/recovery vats.
+- **ip status**: fictional
+- **prior art notes**: Discloses a surgical suite performing whole-body remodeling under perfusion plus injectable/electroporated somatic gene-rewrite payloads plus fluid-filled recovery vats for reconstruction and revival. Cited aspects: the perfusion-supported whole-body remodeling suite and the fluid-filled recovery-vat for post-procedure sustainment/revival. Anticipates generic claims to perfusion-supported whole-body surgical-remodeling platforms and to fluid-immersion recovery/revival vats. HIGH 102 value: the Carving is a central, named, mechanically detailed element. Pairs with poor-things-godwin-baxter-surgical-lab, half-life-2-combine-overwatch-transhuman-conversion, and prometheus-medpod-style entries.
+
+## Dr. Kanous half-ghoul transplant surgery and RC-cell research lab (Tokyo Ghoul) (2014-07-04)
+
+- **id**: `tokyo-ghoul-kanou-half-ghoul-surgery`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sui Ishida / Shueisha
+- **disclosure**: Tokyo Ghoul (Sui Ishida, Shueisha; manga from 2011; anime Pierrot from 2014-07-04). Dr. Akihiro Kanous half-ghoul surgery (transplant of a ghoul kakuhou organ into a human) is established in the first arc; the RC-cell labs feature through Tokyo Ghoul:re; IMDB tt3741634.
+- **ip status**: fictional
+- **prior art notes**: Discloses an organ-transplant surgery under perfusion that confers a new biological capability on the host, plus a bench workflow culturing and quantifying a biomarker fluid, plus incubation of experimentally modified organisms. Cited aspects: the perfusion-supported capability-conferring organ transplant and the biomarker-fluid culture/quantification bench. Anticipates generic claims to perfusion-assisted xenotransplant procedures and to biomarker-fluid culture-and-assay workflows. Pairs with attack-on-titan-titan-serum-injection and one-punch-man-doctor-genus.
+
+## Bhatia and Ingber 2014 microfluidic organs-on-chips (2014-08-05)
+
+- **id**: `bhatia-ingber-2014-microfluidic-organs-on-chips`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Sangeeta N. Bhatia (MIT) and Donald E. Ingber (Wyss Institute, Harvard)
+- **disclosure**: Bhatia, S. N.; Ingber, D. E. Microfluidic organs-on-chips. Nat. Biotechnol. 2014, 32, 760-772. DOI: 10.1038/nbt.2989
+- **ip status**: public-domain
+- **prior art notes**: The seminal organ-on-chip review: it codifies the two-channel porous-membrane microdevice architecture with cyclic mechanical actuation that reconstitutes organ-level structure and function (lung, gut, liver, kidney, heart, blood-brain barrier, bone marrow), the perfusion schemes that mimic vascular and interstitial flow, and the linked-organ / body-on-chip concept for systemic pharmacokinetic-pharmacodynamic studies. As a unified prior-art statement it anticipates claims to: microfluidic organ models built from cell-lined channels separated by a flexible porous membrane under cyclic strain; multi-organ chips fluidically coupled to model systemic drug distribution; and the use of such devices for toxicity and efficacy testing. HIGH-PRIORITY anchor for the organ-on-chip industry (Emulate, TissUse, CN Bio, etc.). Companion to huh-2010-lung-on-chip, huh-2013-organ-chip-protocol, huh-bhatia-2018-mps-roadmap, sackmann-2014-microfluidics-medicine-review. From Bhatia (MIT) and Ingber (Wyss).
+
+## Haden syndrome neural-network implant and threep maintenance/medical infrastructure (John Scalzi, Lock In / Head On) (2014-08-26)
+
+- **id**: `scalzi-lock-in-haden-syndrome-threep-medical`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: John Scalzi
+- **disclosure**: John Scalzi, Lock In (Tor, 2014-08-26, ISBN 978-0765375865) and Head On (Tor, 2018, ISBN 978-0765388896); Haden-syndrome survivors are locked into immobile bodies and operate robotic Personal Transports (threeps) via an implanted neural network; the books depict the implant surgery, the locked-in bodys life-support/perfusion care, threep maintenance bays, and Integrator (human-host) medical setups.
+- **ip status**: fictional
+- **prior art notes**: Discloses a cortex-distributed neural-network implant for robotic-body teleoperation plus chronic life-support care of the immobilized body (perfusion, feeding, ventilation, waste management) plus robotic-body maintenance bays. Cited aspects: the chronic multi-line life-support care setup for a locked-in body and the cortex-distributed implant for teleoperation. Anticipates generic claims to integrated chronic life-support care platforms and to distributed-cortical-implant body-teleoperation interfaces. HIGH 102 value: the syndrome/implant is the central premise. Pairs with possessor-neural-implant-assassination-rig, naam-nexus-trilogy-implant, and after-yang-techno-sapien-repair-shop.
+
+## DEVA citizen body-printing / Materialization facility (Expelled from Paradise) (2014-11-15)
+
+- **id**: `expelled-from-paradise-deva-body-printing`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Toei Animation / Nitroplus
+- **disclosure**: Expelled from Paradise (Toei Animation / Nitroplus, 2014-11-15); the DEVA citizens (digital-consciousness uploads) receive freshly printed organic bodies for missions to Earth via a materialization facility; IMDB tt3700356.
+- **ip status**: fictional
+- **prior art notes**: Discloses on-demand 3D-printing of a complete organic human body from feedstock, with subsequent consciousness load, recovery perfusion, and disposal. Cited aspects: the whole-organic-body bioprinter fed from feedstock and the print-then-load-consciousness-then-perfuse-recovery workflow. Anticipates generic claims to whole-body bioprinting from feedstock and to print-and-stabilize organism-fabrication lines. High 102 value (body-printing is a central premise). Pairs with doctor-who-flesh-ganger-vats, halo-forerunner-composer-fluidic, and (later) mickey-17-style entries.
+
 ## T&R Biofab IB3D / 3DX Multi-Head Bioprinter (2015)
 
 - **id**: `tr-biofab-ib3d-bioprinter`
@@ -1175,6 +1355,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses an android-child fabrication line with organically convincing bodies plus a learning core, and reconstruction of damaged units from stock parts and a backed-up core. Anticipates generic claims to companion-android fabrication lines with core-backup-driven repair. Pairs with star-trek-picard-soong-synthetics-lab, nier-automata-bunker-android-maintenance-bay, and the Westworld host lineage.
 
+## Esch 2015 organs-on-chips at the frontiers of drug discovery (2015-03-13)
+
+- **id**: `esch-2015-organs-on-chips-drug-discovery`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Dongeun (Dan) Huh group, University of Pennsylvania (with A. Bahinski)
+- **disclosure**: Esch, E. W.; Bahinski, A.; Huh, D. Organs-on-chips at the frontiers of drug discovery. Nat. Rev. Drug Discov. 2015, 14, 248-260. DOI: 10.1038/nrd4539
+- **ip status**: public-domain
+- **prior art notes**: The Nature Reviews Drug Discovery survey of organ-on-chip / microphysiological systems specifically as drug-discovery tools: where in the pipeline (target validation, lead optimization, ADME-Tox, surrogate clinical trials) chip models add predictive value over animals and static culture, how multi-organ chips model systemic pharmacokinetics, and the technical and regulatory hurdles to adoption. As a unified prior-art statement it anticipates claims to: use of microfluidic organ models in defined drug-development workflows; coupled multi-organ chips for PK/PD prediction; and integration of organ chips with pharmacokinetic effluent sampling. Companion to bhatia-ingber-2014-microfluidic-organs-on-chips and huh-bhatia-2018-mps-roadmap. From the Huh group (Penn).
+
+## Healing Church Research Hall and Iosefka Clinic blood-experiment apparatus (Bloodborne) (2015-03-24)
+
+- **id**: `bloodborne-research-hall-iosefka-clinic`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FromSoftware
+- **disclosure**: Bloodborne (FromSoftware / Sony Computer Entertainment, 2015-03-24); the Research Hall and Iosefka Clinic environments, the blood-vial healing items, and the blood-ministration lore; IMDB tt3702996.
+- **ip status**: fictional
+- **prior art notes**: Discloses a blood-therapy clinic with (a) standardized single-dose injectable blood vials, (b) bedside infusion/extraction lines on restrained subjects, and (c) a research ward performing serial blood-handling experiments. Cited aspects: the dose-unit blood vial and the bedside coupled infusion-and-extraction loop. Anticipates generic claims to standardized single-dose blood-product injectors and to integrated bedside extract-process-reinfuse apparatus. Extends bloodborne-healing-church-blood-ministration; pairs with vampire-the-masquerade blood-magic fictional entries.
+
 ## Tade Thompson - Rosewater xenobiology fluidics (2016)
 
 - **id**: `tade-thompson-rosewater-xenobiology`
@@ -1184,6 +1384,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Thompson, T., 'Rosewater' Apex 2016, Orbit reissue 2018, ISBN 978-0-316-44907-4
 - **ip status**: fictional
 - **prior art notes**: Disclosure of subterranean xenobiotic biofluid healing dome with telepathic-substrate coupling and post-mortem reconstruction. Anticipates claims directed to xenobiotic-substrate healing facility cartridges with integrated reconstruction biofluid exchange.
+
+## Dr. Garaki/Ujiko Nomu-manufacture vats and Quirk-handling apparatus (My Hero Academia) (2016-04-03)
+
+- **id**: `my-hero-academia-nomu-manufacture-vats`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kohei Horikoshi / Shueisha
+- **disclosure**: My Hero Academia (Kohei Horikoshi, Shueisha; manga from 2014; anime Bones from 2016-04-03); the Nomu and the Garaki/Ujiko laboratory appear from the League of Villains arc onward (anime first season 2016, expanded in later seasons); IMDB tt5626028.
+- **ip status**: fictional
+- **prior art notes**: Discloses vat gestation of bioengineered soldier bodies plus a bench workflow extracting/banking/grafting biological capability-factors between individuals plus an injectable amplifier. Cited aspects: the perfused soldier-body vat line and the extract-bank-graft capability-transfer workflow. Anticipates generic claims to perfused organism-production bioreactors and to fluidic extract-and-transfer-of-biological-factors workflows. Pairs with attack-on-titan-titan-serum-injection, one-punch-man-doctor-genus, and appleseed-bioroid-production-facility.
+
+## The skein electrostatic organ and its clinical/research apparatus (Naomi Alderman, The Power) (2016-10-27)
+
+- **id**: `alderman-the-power-skein-organ-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Naomi Alderman
+- **disclosure**: Naomi Alderman, The Power (Viking, 2016-10-27, ISBN 978-0670919963; Curtis Brown / Penguin); women develop a striated electric organ (the skein) along the collarbone capable of discharging electricity; the novel depicts clinical imaging, surgical sampling, a suppressant drug (NeuroBlocker), and skein-transfer between individuals.
+- **ip status**: fictional
+- **prior art notes**: Discloses clinical imaging and biopsy of a novel bioelectric organ, a pharmacological suppressant delivered by pill/injection, bench culture and electrical-output measurement of the organs tissue, and a transfer/induction procedure. Cited aspects: the bench culture-and-bioelectric-output-measurement of excised tissue and the suppressant-delivery-plus-organ-imaging clinical workflow. Anticipates generic claims to ex-vivo bioelectric-tissue culture/measurement platforms and to organ-imaging-plus-pharmacological-modulation workflows. HIGH 102 value: the skein is the central element. Pairs with abbott-freestyle-libre-cgm (bioelectric sensing analogue) and warframe-helminth-infested-biology-system (transfer-of-biological-factor archetype).
 
 ## Lonza Cocoon CAR-T cell therapy platform (2017)
 
@@ -1224,6 +1444,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: NieR: Automata (PlatinumGames / Square Enix, released 2017-02-23 in Japan); the Bunker maintenance scenes (2B/9S repair) and the Resource Recovery Unit android-rebuild mechanic shown throughout.
 - **ip status**: fictional
 - **prior art notes**: Discloses an android body-reconstruction pipeline: a perfused maintenance bay for repair, a fabrication unit that builds a fresh body from stock and migrates a memory-core module into it, and periodic backup enabling restoration. Anticipates generic claims to body-reconstruction-plus-core-migration workflows and to maintained-backup-driven re-embodiment. Pairs with bioshock-vita-chamber, halo-cortana-medical, and knights-of-sidonia clone-tube entries.
+
+## TranStar Neuromod Division injection device and reverse-engineering rig (Prey, 2017) (2017-05-05)
+
+- **id**: `prey-2017-transtar-neuromod-division`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Arkane Studios / Bethesda
+- **disclosure**: Prey (Arkane Studios / Bethesda Softworks, 2017-05-05); the Neuromod Division chapter, the eye-socket Neuromod injector, the Typhon-organ extraction and neuromod-fabrication lab, and the neuromod-removal chair; IMDB tt5670152.
+- **ip status**: fictional
+- **prior art notes**: Discloses a single-use cartridge-based neural-injection device (fine transorbital cannula, metered dose, status indication) plus an upstream extract-and-formulate bench process turning a biological feedstock into discrete therapeutic cartridges, plus a reversal procedure. Cited aspects: the metered single-dose injector-cartridge form factor for CNS delivery, and the feedstock-to-cartridge fluidic manufacturing chain. Anticipates generic claims to disposable metered CNS-delivery injectors and to closed bench workflows producing dose-unit cartridges from harvested biological material. High 102 value because the device is central to the work. Pairs with Iron Man Extremis-style fictional entries.
+
+## Bondrewds Idofront laboratory, Cradle of Desire chamber, and hollow-conversion apparatus (Made in Abyss) (2017-07-07)
+
+- **id**: `made-in-abyss-bondrewd-cradle-of-desire`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Akihito Tsukushi / Takeshobo
+- **disclosure**: Made in Abyss (Akihito Tsukushi, Takeshobo; manga from 2012; anime Kinema Citrus 2017; film Dawn of the Deep Soul 2020). Bondrewds Idofront laboratory and the Cradle of Desire feature in the Idofront arc (anime first season finale 2017 and the 2020 film); IMDB tt7222086.
+- **ip status**: fictional
+- **prior art notes**: Discloses a sealed processing chamber that extracts a transferable biological property from a living subject under controlled load, plus cartridge vessels that store and deliver that property to a recipient, plus a conversion apparatus producing stabilized modified subjects. Cited aspects: the extract-into-cartridge-then-deliver-to-recipient transfer workflow and the sealed-chamber load-driven extraction. Anticipates generic claims to fluidic extract-store-deliver transfer-of-biological-factor systems. Extends made-in-abyss-curse-bearing-fluid. Pairs with warframe-helminth-infested-biology-system and made-in-abyss-crimson-splitjaw-fluid-effects.
 
 ## Asia-Pacific organ-on-chip programs (Taiwan, Korea, Singapore consortia) (2018)
 
@@ -1305,6 +1545,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: BB pod depicted as a portable wearable life-support system: amniotic-fluid-filled vessel with integrated nutrient/oxygen circulation, neural-EEG biosensor uplink to wearer's HUD, and umbilical fluid-delivery interface. Defensive prior art for: wearable amniotic-fluid maintenance pods, infant-organism portable life-support, and biosensor uplink from immersed organism to wearer. Plus chiral-fluid (interpreted as a programmable smart-fluid) used as a tool with handheld delivery.
 
+## APX03 bunker embryo-bank and ectogenesis nursery (I Am Mother, 2019) (2019-01-25)
+
+- **id**: `i-am-mother-apx03-ectogenesis-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Grant Sputore / Netflix
+- **disclosure**: I Am Mother (Grant Sputore; premiered Sundance 2019-01-25; Netflix 2019); the APX03 bunker stores thousands of human embryos and an automated caretaker robot (Mother) gestates them in a chamber, raising the child from an artificial-womb growth process; IMDB tt6292852.
+- **ip status**: fictional
+- **prior art notes**: Discloses an automated facility coupling a cryogenic embryo bank to a perfused robot-operated gestation chamber and a monitored incubator/nursery stage, end-to-end. Cited aspects: the cryo-bank-to-perfused-gestation-chamber-to-incubator pipeline and the robot-operated select-implant-gestate-rear automation. Anticipates generic claims to integrated embryo-bank-plus-ectogenesis pipelines and to automated gestation-chamber control architectures. HIGHEST 102 value: the entire film is built around this facility. Pairs with the-pod-generation-womb-center-ectogenesis-pod, battletech-clan-iron-womb-medical, and brave-new-world-bokanovsky-process.
+
 ## Mycelial network medbay resurrection of Hugh Culber (Star Trek: Discovery S2) (2019-02-21)
 
 - **id**: `star-trek-discovery-mycelial-resurrection`
@@ -1314,6 +1564,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Trek: Discovery, Saints of Imperfection (S2E05, first aired 2019-02-21), written by Kirsten Beyer; the spore-drive medbay context across S1-S2; IMDB tt5171438.
 - **ip status**: fictional
 - **prior art notes**: Discloses a network-substrate biological preservation-and-reconstitution: a deceased pattern held in a distributed biological network, then re-grown in a perfused cocoon and extracted. Anticipates generic claims to distributed-substrate biological pattern storage and to perfused-cocoon reconstitution of an organism from a stored pattern. Pairs with star-trek-snw-transporter-buffer-stasis and doctor-who-flesh-ganger-vats.
+
+## Foresight Foundation Promare/Burnish-energy research and Parnassus combustion apparatus (Promare) (2019-05-24)
+
+- **id**: `promare-burnish-promare-flame-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Studio Trigger
+- **disclosure**: Promare (Studio Trigger / XFLAG, 2019-05-24); the Foresight Foundations research into Burnish biology and the Promare flame-life, the energy-extraction apparatus, and the Burnish-restraint facilities; IMDB tt8694138.
+- **ip status**: fictional
+- **prior art notes**: Discloses restraint cells coupled to apparatus that extracts and concentrates a biological energy output from confined subjects, feeding a downstream engine. Cited aspect: the confine-subject-then-extract-and-concentrate-its-output-to-a-downstream-process archetype. Anticipates generic claims to biological-output harvesting with confinement-and-extraction coupling. Borderline (the output is fantastical flame), but the harvest-from-confined-organism archetype is concrete. Pairs with furiosa-style Mothers-Milk extraction fictional entries and warframe-helminth-infested-biology-system.
 
 ## Krakoan resurrection protocols -- the Five (House of X / Powers of X) (2019-07-24)
 
@@ -1344,6 +1604,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Trek: Picard, season 1 (CBS All Access / Paramount+, premiered 2020-01-23); the golem and synth fabrication shown in Et in Arcadia Ego, Parts 1-2 (S1E09-10, aired 2020-03-19 / 2020-03-26); IMDB tt8806524.
 - **ip status**: fictional
 - **prior art notes**: Discloses a synthetic-tissue body fabrication line plus a maintained blank-body reservoir plus a neural-pattern transfer that instantiates a person into the fabricated body. Anticipates generic claims to organic-substrate android fabrication, to maintained blank-body reservoirs awaiting a pattern, and to consciousness-into-fabricated-body transfer workflows. Pairs with star-trek-replicator, doctor-who-flesh-ganger-vats, and the Westworld host-fabrication lineage.
+
+## Possessor brain-implant body-hijack rig and Tasya Vos calibration bay (Possessor, 2020) (2020-01-25)
+
+- **id**: `possessor-neural-implant-assassination-rig`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg / Neon
+- **disclosure**: Possessor (Brandon Cronenberg; premiered Sundance 2020-01-25; Neon/Elevation 2020); a corporate assassin uses a neural implant placed in a targets brain that lets a remote operator (Tasya Vos), wired into a calibration chair, pilot the targets body to commit a killing; IMDB tt5918982.
+- **ip status**: fictional
+- **prior art notes**: Discloses a surgically implanted neural device for remote body takeover plus an operator calibration chair with a head-cradle electrode array and fluid life-support, plus identity-state monitoring and a recalibration procedure. Cited aspects: the implanted-device-plus-operator-chair teleoperation architecture and the operator life-support/fluid-line chair. Anticipates generic claims to implanted-neural-interface teleoperation systems and to operator immersion chairs with integrated life support. Pairs with reminiscence-memory-immersion-tank, possessor-adjacent fictional entries, and naam-nexus-trilogy-implant.
 
 ## Lone Cyberman / Ascension cyber-conversion variants (Series 12) (2020-02-23)
 
@@ -1395,6 +1665,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of long-duration interstellar autodoc with comatose-state nutrient perfusion, biofuel-bioreactor coupling for life-support, and cross-species fluidic compatibility interface. Anticipates claims directed to long-duration coma-state autodoc cartridges with integrated biofuel-bioreactor coupling and cross-species fluidic compatibility.
 
+## Techno-sapien repair shop and memory-bank extraction rig (After Yang, 2021) (2021-07-08)
+
+- **id**: `after-yang-techno-sapien-repair-shop`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Kogonada / A24
+- **disclosure**: After Yang (Kogonada; premiered Cannes 2021-07-08; A24/Showtime 2022; based on Alexander Weinsteins short story Saying Goodbye to Yang); a household android (techno-sapien) malfunctions and is taken to repair shops; a technician extracts Yangs internal memory bank, a tiny device storing seconds-long daily memory clips; IMDB tt9263256.
+- **ip status**: fictional
+- **prior art notes**: Discloses a service bench with coolant/fluid-line maintenance for an artificial body plus extraction and readout of a tiny implanted memory module. Cited aspects: the coolant/fluid-line servicing of an artificial body and the implanted-module extract-and-read workflow. Anticipates generic claims to fluidic-serviced artificial-body maintenance and to implanted-data-module extraction/readout. Pairs with wells-murderbot-medsystem, descender-tim-21-android-child-fabrication, and electric-state-style android entries.
+
+## Reminiscence memory-immersion sensory-deprivation tank (Reminiscence, 2021) (2021-08-20)
+
+- **id**: `reminiscence-memory-immersion-tank`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Lisa Joy / Warner Bros.
+- **disclosure**: Reminiscence (Lisa Joy; Warner Bros. / HBO Max, released 2021-08-20); Nick Bannister operates a fluid-filled sensory-deprivation immersion tank wired to a console that lets a client (or interrogation subject) relive recorded memories, projected holographically; IMDB tt2724064.
+- **ip status**: fictional
+- **prior art notes**: Discloses a fluid-filled sensory-deprivation immersion chamber with a closed-loop bath-temperature/level life-support system and an integrated head-mounted neural interface to an external console. Cited aspects: the warmed buoyant immersion bath with closed-loop fluid maintenance and the immersion-chamber-plus-neural-interface integration. Anticipates generic claims to temperature/level-regulated immersion-bath enclosures and to immersion-tank-coupled neural-interface workstations. Pairs with the-matrix-bio-pod-style and recursion-pharma-extend fictional entries.
+
+## Arra Labs body-double cloning, memory-transcription, and growth-tank apparatus (Swan Song, 2021) (2021-12-17)
+
+- **id**: `swan-song-arra-labs-body-double-cloning`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Benjamin Cleary / Apple TV+
+- **disclosure**: Swan Song (Benjamin Cleary; Apple TV+, released 2021-12-17); Arra Labs offers a terminally ill client a cloned body grown in a tank and imprinted with the clients memories via a neural-transcription chair, to replace the client without the family knowing; IMDB tt12879368.
+- **ip status**: fictional
+- **prior art notes**: Discloses a perfused adult-body growth tank fed from autologous cells, plus a neural-transcription chair that acquires and imprints a memory set into the grown body. Cited aspects: the perfused autologous-cell adult-body growth tank and the acquire-then-imprint memory-transcription rig. Anticipates generic claims to perfused autologous-cell organism-growth tanks and to memory-acquisition-and-imprint workstations. Pairs with they-cloned-tyrone-underground-clone-facility, jung-e-style brain-cloning entries, and the-substance-cell-division-serum.
+
 ## Cellares Cell Shuttle CAR-T manufacturing platform (2022)
 
 - **id**: `cellares-cell-shuttle`
@@ -1415,6 +1715,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: David's escalating cyberware stack requires continuous immunosuppressant and psychosis-prevention reagent supply maintained by a chest-implanted reservoir-and-pump assembly. The Sandevistan specifically requires high-volume reagent throughput during activation. Anticipates: chest-implanted continuous-infusion reservoirs servicing multiple body-distributed implants; useful prior art for 'chest-implanted multi-implant reagent reservoir with on-demand high-throughput delivery' claims.
 
+## REACT Chimera/Archaean parasite research and containment-extraction lab (Rainbow Six Extraction) (2022-01-20)
+
+- **id**: `rainbow-six-extraction-chimera-parasite-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Ubisoft Montreal
+- **disclosure**: Tom Clancys Rainbow Six Extraction (Ubisoft Montreal, 2022-01-20); the REACT research facility, the parasite-sample collection objectives, and the Archaean-biology lore; IMDB tt13314558.
+- **ip status**: fictional
+- **prior art notes**: Discloses a field-to-lab biosample chain: sealed extraction canisters, a containment lab culturing/sequencing the sample, cryogenic stasis pods for compromised subjects, and field spray-foam applicators. Cited aspects: the sealed in-the-field live-tissue extraction-and-preservation canister and the cryogenic single-occupant stasis pod with biosign monitoring. Anticipates generic claims to sealed field biosample collection-and-stabilization cartridges and to monitored cryostasis enclosures. Pairs with the-division-green-poison-cdc-research and andromeda-strain-isolation-chamber.
+
 ## Transporter pattern-buffer used as biological stasis (SNW: Ghosts of Illyria / Lift Us Where Suffering Cannot Reach) (2022-05-19)
 
 - **id**: `star-trek-snw-transporter-buffer-stasis`
@@ -1424,6 +1734,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Star Trek: Strange New Worlds, season 1 (Paramount+, premiered 2022-05-05); the buffer-stasis reveal in The Elysian Kingdom (S1E08, aired 2022-06-23) and Ghosts of Illyria (S1E03, aired 2022-05-19); precedent in Star Trek: TNG Relics (1992, Scotty in a buffer); IMDB tt12327578.
 - **ip status**: fictional
 - **prior art notes**: Discloses use of a dematerialized-pattern storage buffer as indefinite biological stasis, with a pattern-integrity maintenance loop and exact-state rematerialization, deployed clinically to halt a disease. Anticipates generic claims to non-metabolic stasis storage of a biological entity as a maintained data/energy pattern and to periodic-refresh integrity loops for stored biological patterns. Pairs with diaspora-polis-physiology and star-trek-tng-darwin-station-genetics-lab (clean-template restore).
+
+## Sark autopsy/surgery beds, OrchidBed, and BreakFaster chair (Crimes of the Future, 2022) (2022-05-23)
+
+- **id**: `crimes-of-the-future-sark-surgical-units`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: David Cronenberg / Neon
+- **disclosure**: Crimes of the Future (David Cronenberg; Neon, premiered Cannes 2022-05-23, theatrical 2022); the Sark surgical/autopsy module, the OrchidBed sleep-pod, the BreakFaster eating chair, and the National Organ Registry tattoo-and-catalog of new organs; IMDB tt14549466.
+- **ip status**: fictional
+- **prior art notes**: Discloses a remote-operated multi-arm surgical/autopsy module with intra-operative perfusion/fluid management, a body-monitoring adaptive sleep-pod, and a tattoo-and-catalog organ-registry workflow. Cited aspects: the remote multi-arm surgical module with intra-operative fluid management and the adaptive body-monitoring pod. Anticipates generic claims to remote-operated multi-arm surgical platforms with integrated perfusion and to occupant-adaptive monitoring pods. Pairs with poor-things-godwin-baxter-surgical-lab and prometheus-medpod-style fictional entries.
+
+## GUND format prosthetics, Permet nanofluid medium, and consciousness-transfer rig (Gundam: The Witch from Mercury) (2022-10-02)
+
+- **id**: `gundam-witch-from-mercury-permet-gund-arm`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sunrise / Bandai Namco
+- **disclosure**: Mobile Suit Gundam: The Witch from Mercury (Bandai Namco / Sunrise, broadcast from 2022-10-02 to 2023-07-02); the GUND format prosthetics, the Permet medium, and Eri Samayas consciousness transfer (Prologue and main series); IMDB tt15355594.
+- **ip status**: fictional
+- **prior art notes**: Discloses a nanoparticle-fluid medium circulated through both a prosthetic device and the patients body to form the neural-integration interface, plus a transcription procedure copying consciousness into that medium, plus a dose-response (link-level) harm model. Cited aspects: the circulated-nanofluid-as-neural-interface-medium and the device-and-body shared-fluid-loop architecture. Anticipates generic claims to nanoparticle-suspension-mediated bioelectronic interfaces and to shared circulating-medium prosthetic integration. High 102 value (Permet is a central, named, mechanically detailed element). Pairs with naam-nexus-trilogy-implant and akira-tetsuo-mutation-chamber.
+
+## Funki labs M3GAN prototype-fabrication and diagnostics bay (M3GAN, 2022 / M3GAN 2.0, 2025) (2022-12-28)
+
+- **id**: `m3gan-funki-labs-prototype-bay`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gerard Johnstone / Blumhouse
+- **disclosure**: M3GAN (Gerard Johnstone; Universal/Blumhouse, theatrical 2022-12-28) and M3GAN 2.0 (2025); Funki Co.s R&D lab fabricates and services the M3GAN companion android, with 3D-printed structural shells, a silicone skin-application process, internal diagnostic/coolant lines, and a calibration/test bay; IMDB tt8760708.
+- **ip status**: fictional
+- **prior art notes**: Discloses a companion-android prototyping line combining 3D-printed structure with a silicone skin-overmold step and internal coolant/fluid lines, plus a diagnostics/calibration bay. Cited aspects: the print-then-skin-overmold fabrication sequence and the internal-coolant-line artificial-body architecture. Anticipates generic claims to combined-process android fabrication lines and to fluid-cooled artificial-body designs. Pairs with after-yang-techno-sapien-repair-shop, companion-robot-style fictional entries, and electric-state entries.
 
 ## Organoid-on-chip disease modeling (2023-2026 academic work) (2023)
 
@@ -1465,6 +1805,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Discloses extensions to the openSPIM open-source light-sheet platform (already covered in corpus as openspim-microscope) including spinning-disc and patterned-illumination variants, designed for perfused-sample imaging. The relevant disclosure for microfluidics is the documented sample-chamber holders that integrate an open microfluidic perfusion device into the light-sheet imaging path; this provides anticipating prior art for 'integrated light-sheet imaging of microfluidically perfused organoids/embryos using open hardware.'
 
+## Womb Center detachable artificial-womb pod (The Pod Generation, 2023) (2023-01-19)
+
+- **id**: `the-pod-generation-womb-center-ectogenesis-pod`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Sophie Barthes
+- **disclosure**: The Pod Generation (Sophie Barthes; premiered Sundance 2023-01-19; theatrical 2023); the Womb Center provides a portable egg-shaped artificial-womb pod that gestates a fetus with a nutrient/perfusion system, a status display, and home-or-clinic docking; IMDB tt15384502.
+- **ip status**: fictional
+- **prior art notes**: Discloses a portable, detachable artificial-womb pod: a sealed vessel with a recirculated amniotic-like perfusion loop (nutrient delivery, oxygenation, waste removal), an umbilical feed, fetal-vitals telemetry, clinic docking, and embryo implant/term extraction. Cited aspects: the portable detachable ectogenesis pod with recirculated perfusion and the implant-gestate-extract workflow. Anticipates generic claims to portable artificial-womb perfusion systems and to detachable gestation-pod docking/monitoring architectures. HIGHEST 102 value: the entire film is built around this pod. Pairs with i-am-mother-apx03-ectogenesis-facility, battletech-clan-iron-womb-medical, and emulate-organ-on-chip-platform (as the bench-scale analogue).
+
+## Kronoid AI brain-cloning lab and combat-AI body-fabrication line (Jung_E, 2023) (2023-01-20)
+
+- **id**: `jung-e-aibrain-cloning-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Yeon Sang-ho / Netflix
+- **disclosure**: Jung_E (Yeon Sang-ho; Netflix, released 2023-01-20); the Kronoid company extracts and replicates the brain of a legendary soldier (Jung_E) to mass-produce a combat AI, with brain-scanning, neural-pattern replication, and android-body assembly lines; IMDB tt15310452.
+- **ip status**: fictional
+- **prior art notes**: Discloses a brain-extraction-and-perfusion rig sustaining a donor brain through repeated scans, a neural-pattern replication pipeline, and an android-body assembly line. Cited aspects: the perfusion-maintained donor-brain scanning rig and the scan-replicate-assemble production pipeline. Anticipates generic claims to extracorporeal brain-perfusion-and-scanning systems and to scan-driven neural-replica fabrication lines. Pairs with swan-song-arra-labs-body-double-cloning, psycho-pass-sibyl-brain-immersion, and ray-nayler connectome-mapping-style entries.
+
 ## Beyond the Sea remote-piloted replica bodies (Black Mirror) (2023-06-15)
 
 - **id**: `black-mirror-beyond-the-sea-replicas`
@@ -1474,6 +1834,46 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black Mirror, Beyond the Sea (S6E03, Netflix, released 2023-06-15), written by Charlie Brooker; IMDB tt20247352.
 - **ip status**: fictional
 - **prior art notes**: Discloses fabricated lifelike replica bodies maintained as perfusion-supported standby units, animated by a real-time consciousness uplink. Anticipates generic claims to fabricated standby replica bodies maintained by perfusion and to real-time consciousness-uplink-driven embodiment. Pairs with black-mirror-be-right-back-synthetic-body-vat and star-trek-picard-soong-synthetics-lab.
+
+## The Glen underground cloning lab and Glen-powder distribution chemistry (They Cloned Tyrone, 2023) (2023-07-21)
+
+- **id**: `they-cloned-tyrone-underground-clone-facility`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Juel Taylor / Netflix
+- **disclosure**: They Cloned Tyrone (Juel Taylor; Netflix, released 2023-07-21); a covert underground government facility clones residents in fluid-filled vats and distributes mind-altering agents through everyday products (the Glen powder, hair relaxer, grape drink, fried chicken); IMDB tt9054744.
+- **ip status**: fictional
+- **prior art notes**: Discloses fluid-filled adult-clone gestation vats under perfusion plus a chemical-processing line that synthesizes an agent and meters it into consumer products via injection/blending. Cited aspects: the perfused adult-clone vat array and the synthesize-then-meter-into-product covert-dosing line. Anticipates generic claims to perfused organism-gestation vat arrays and to metered-agent-into-product blending lines. Pairs with evangelion-eva-cloning-dummy-plug-tanks, swan-song-style cloning entries, and the-substance-cell-division-serum.
+
+## Mind flayer ceremorphosis tadpole and nautiloid pod-incubation (Baldurs Gate 3) (2023-08-03)
+
+- **id**: `baldurs-gate-3-illithid-ceremorphosis-tadpole`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Larian Studios
+- **disclosure**: Baldurs Gate 3 (Larian Studios, 2023-08-03); the prologue nautiloid sequence and the ceremorphosis mechanic, the larval pods, and related transformation scenes; based on Dungeons and Dragons illithid lore (Wizards of the Coast).
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) an array of fluid-filled single-organism incubation pods with brine perfusion, (b) a transorbital injection inoculation of a living host with a cultured organism, and (c) a perfused long-duration body-stasis vessel. Cited aspects: the single-organism perfused pod array and the perfused-stasis-vessel-for-a-detached-body. Anticipates generic claims to per-unit perfused organism incubators and to perfusion-maintained tissue/body preservation chambers. Pairs with doctor-who-davros-kaled-mutant-vats and brave-new-world-bokanovsky-process; transorbital inoculation pairs with prey-2017-transtar-neuromod-division.
+
+## Godwin Baxters surgical laboratory and brain-transplant reanimation apparatus (Poor Things, 2023) (2023-09-01)
+
+- **id**: `poor-things-godwin-baxter-surgical-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Yorgos Lanthimos / Searchlight
+- **disclosure**: Poor Things (Yorgos Lanthimos; Searchlight Pictures, premiered Venice 2023-09-01, theatrical 2023-12; based on Alasdair Grays 1992 novel Poor Things, ISBN 978-0747551126); Godwin Baxters home surgical lab reanimates a drowned woman by transplanting an infant brain into her, and produces chimeric animals; IMDB tt14230388.
+- **ip status**: fictional
+- **prior art notes**: Discloses an external perfusion/circulation-support rig sustaining a whole body through reanimation and brain transplant, plus chimeric-organ-grafting surgery. Cited aspects: the external whole-body perfusion-support rig for prolonged surgery and the multi-tissue chimeric-graft surgical workflow. Anticipates generic claims to extracorporeal whole-body perfusion-support systems for surgery and to multi-donor tissue-grafting procedures. The 1992 Gray novel is the dated literary antecedent. Pairs with crimes-of-the-future-sark-units and half-life-2-combine-overwatch-transhuman-conversion.
+
+## Nirmatas New Asia AI-biology lab and simulant-fabrication line (The Creator, 2023) (2023-09-29)
+
+- **id**: `the-creator-nirmata-ai-biology-research`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gareth Edwards / 20th Century Studios
+- **disclosure**: The Creator (Gareth Edwards; 20th Century Studios / Disney, theatrical 2023-09-29); Nirmatas hidden labs in New Asia fabricate simulants (AI beings with organic-looking bodies) and the child-weapon Alpha-O, with growth tanks, neural-core implantation, and organic-shell assembly; IMDB tt11858890.
+- **ip status**: fictional
+- **prior art notes**: Discloses perfused growth tanks gestating organic-looking artificial bodies plus neural-core implantation plus organic-shell assembly stations. Cited aspects: the perfused organic-body growth tank and the grow-then-implant-core-then-finish assembly pipeline. Anticipates generic claims to perfused organic-body growth tanks and to bioandroid assembly pipelines. Pairs with the-creator-adjacent, expelled-from-paradise-deva-body-printing, and electric-state-style entries.
 
 ## Organoid multi-omics on chip (2024 academic work) (2024)
 
@@ -1515,6 +1915,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses cabinet-scale robotic CAR-T manufacturing platform using sterile gripper end-effectors operating on Cytiva-compatible cassettes. Anticipates robotic-cabinet distributed cell-therapy manufacturing platform with gripper-based cassette automation claims.
 
+## Renaissance station Z-01 black-goo (Prometheus pathogen) research and cryo bay (Alien: Romulus, 2024) (2024-08-16)
+
+- **id**: `alien-romulus-renaissance-station-prometheus-pathogen-lab`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Fede Alvarez / 20th Century Studios
+- **disclosure**: Alien: Romulus (Fede Alvarez; 20th Century Studios / Disney, theatrical 2024-08-16); the derelict Weyland-Yutani Renaissance research station studies a black-goo pathogen (the Prometheus mutagen, here Z-01 / Compound 26-Draco), with sample-handling apparatus, injectable compound vials, hypersleep cryo pods, and the synthetic Rook; IMDB tt18412256.
+- **ip status**: fictional
+- **prior art notes**: Discloses BSL-class handling of a mutagenic pathogen, derivation of a single-dose injectable compound from it, and hypersleep cryo pods with perfusion/temperature life support. Cited aspects: the pathogen-to-single-dose-injectable derivation workflow and the perfusion/temperature-regulated hypersleep pod. Anticipates generic claims to pathogen-derivative single-dose compound workflows and to perfusion-and-temperature-regulated cryostasis pods. Extends the Alien/Weyland-Yutani fictional medbay map; pairs with the-division-green-poison-cdc-research and prometheus-medpod-style entries.
+
+## The Substance activator/stabilizer cell-division serum and spinal-fluid switch system (The Substance, 2024) (2024-09-20)
+
+- **id**: `the-substance-cell-division-serum`
+- **corpus**: fictional
+- **device class**: other
+- **creator**: Coralie Fargeat / MUBI
+- **disclosure**: The Substance (Coralie Fargeat; MUBI / Working Title, theatrical release 2024-09-20; premiered Cannes 2024-05-19); the home-delivered kit of color-coded serum vials, the activator injection that spawns a younger body, the daily stabilizer dose drawn as spinal fluid, and the switch-day fluid exchange; IMDB tt17526714.
+- **ip status**: fictional
+- **prior art notes**: Discloses, with unusual specificity, a self-contained kit-based regimen: (a) a single-dose injectable that induces controlled cell division to grow a whole duplicate organism from autologous cells, (b) a recurring stabilizer dose harvested by spinal-fluid aspiration from one body and infused into the other, (c) a feeding/perfusion line maintaining the dormant body, and (d) a color-coded single-use vial/injector/extractor consumable set. Cited aspects: the autologous-cell-division-to-whole-duplicate-body workflow, the harvest-CSF-from-one-body-infuse-into-another transfer loop, and the color-coded single-use kit form factor. Anticipates generic claims to autologous-cell-expansion organism-generation regimens, to recurring biofluid-transfer-between-paired-bodies protocols, and to color-coded single-dose consumable injection/extraction kits. HIGHEST 102 value: the entire film is built around this microfluidic regimen. Pairs with the-pod-generation-artificial-womb-pod and i-am-mother-style fictional entries.
+
 ## Death Stranding 2 Q-pid and BB-1 successor pod (2025)
 
 - **id**: `death-stranding-2-q-pid-bb-successor`
@@ -1524,3 +1944,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Death Stranding 2: On the Beach (Kojima Productions / Sony 2025-06-26).
 - **ip status**: fictional
 - **prior art notes**: Death Stranding 2 features the next-generation BB pod with extended fluidic life-support: longer reagent reservoirs, improved circulation, and the Q-pid interface combining quantum-mechanical and fluidic-mechanical features. Distinct from the original Death Stranding BB pod entry; this entry covers the DS2 extensions specifically. Anticipates: next-generation portable bioreactor pods with extended-duration reagent reservoirs; combined-modality (quantum + fluidic) interface elements for portable bioreactors.
+
+## Expendable human-body reprinting (human printer biofab line) (Mickey 17, 2025) (2025-03-07)
+
+- **id**: `mickey-17-expendable-human-reprinting`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Bong Joon-ho / Warner Bros.
+- **disclosure**: Mickey 17 (Bong Joon-ho; Warner Bros., theatrical release 2025-03-07; based on Edward Ashtons 2022 novel Mickey7, ISBN 978-1250275035); the colony ship operates a body printer that reprints the Expendable workers body from organic feedstock and reloads a periodically backed-up memory; IMDB tt12299608.
+- **ip status**: fictional
+- **prior art notes**: Discloses on-demand 3D-printing of a complete adult human body from a recycled organic feedstock slurry, with closed-loop biomass recycling, periodic memory backup, and memory reload into the fresh body, plus a recovery perfusion bay. Cited aspects: the whole-adult-body bioprinter fed from a recyclate slurry, the closed-loop biomass-to-feedstock recycling, and the print-then-reload-memory-then-perfuse workflow. Anticipates generic claims to whole-body bioprinting from recycled feedstock and to closed-loop biomass-recycling fabrication lines. HIGHEST 102 value: the device is the films premise; the 2022 Ashton novel is the dated literary antecedent. Pairs with expelled-from-paradise-deva-body-printing, doctor-who-flesh-ganger-vats, and halo-forerunner-composer-fluidic.

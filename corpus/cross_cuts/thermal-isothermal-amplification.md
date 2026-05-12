@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-isothermal-amplification`
 
-**32 corpus entries disclose this subsystem.**
+**38 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1936
 
@@ -54,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Piepenburg, O.; Williams, C. H.; Stemple, D. L.; Armes, N. A. DNA detection using recombination proteins. PLOS Biol. 2006, 4, e204. DOI: 10.1371/journal.pbio.0040204
 - **ip status**: patented
 - **prior art notes**: Disclosed recombinase polymerase amplification (RPA): nucleic acid amplification at low constant temperature (37–42 °C) using bacterial recombinase proteins to drive primer-template recognition without thermal denaturation. Even simpler thermal-management requirements than LAMP. Anticipates: low-temperature isothermal NAAT compatible with body-temperature operation and battery-powered POC cartridges. Used in TwistDx (acquired by Abbott 2018), Visby Medical, and several pandemic-response platforms.
+
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
@@ -114,6 +124,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Walters et al., Nucleic Acids Res 42:e10 (2014) doi:10.1093/nar/gkt1101 (foundational dbDNA paper); EP2820164B1 priority 2012
 - **ip status**: patented
 - **prior art notes**: Discloses a continuous-flow microfluidic-bioprocess platform that performs phi29-mediated RCA followed by TelN protelomerase resolution to produce covalently-closed linear dsDNA without bacterial fermentation. Anticipates: chip-scale or skid-scale bioprocess architectures that combine RCA with enzymatic resolution to produce non-plasmid dsDNA therapeutics; replacement of E. coli-based plasmid manufacturing with controlled enzymatic flow processes; integration of in-line analytical sensing with sterile single-use process loops for nucleic-acid manufacturing.
+
+## Agdia AmplifyRP / AmplifyRP XRT Recombinase Polymerase Amplification Plant-Pathogen Test (2014)
+
+- **id**: `agdia-amplifyrp-rpa-plant-pathogen-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Agdia Inc.
+- **disclosure**: Agdia Inc. (Elkhart, Indiana) AmplifyRP and AmplifyRP XRT product literature; recombinase polymerase amplification (TwistDx/Abbott) licensed isothermal chemistry
+- **ip status**: patented
+- **prior art notes**: Discloses a self-contained isothermal RPA reaction device for crude plant-extract samples with either portable fluorescence readout or a sealed-cassette lateral-flow amplicon detection format. Anticipates: closed-cassette isothermal-amplification plant-pathogen tests; lateral-flow amplicon readout integrated to prevent carryover; field-portable molecular ag diagnostics. Companion to abbott-id-now-isothermal-cartridge (clinical RPA/NEAR) and to envirologix-dnable plant-pathogen tests.
+
+## EnviroLogix DNAble / QuickComb Isothermal Plant-Pathogen and GMO Cartridges (2015)
+
+- **id**: `envirologix-dnable-isothermal-plant-pathogen`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: EnviroLogix Inc.
+- **disclosure**: EnviroLogix Inc. (Portland, Maine) DNAble and QuickComb product literature; nicking-enzyme-amplification-reaction isothermal molecular assays for ag
+- **ip status**: patented
+- **prior art notes**: Discloses sealed isothermal nicking-enzyme-amplification reaction devices for crude agricultural samples with portable fluorescence readout, plus comb-format multi-strip lateral-flow immunoassay housings. Anticipates: nicking-enzyme-amplification field cartridges for ag; comb/array lateral-flow strip housings for multiplex ag screening. Sibling to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
+
+## Bee-Health Field Diagnostic Cartridges (Nosema / Varroa-Virus / Foulbrood) (2016)
+
+- **id**: `vita-bee-health-nosema-varroa-diagnostic-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Vita (Europe) Ltd and academic groups
+- **disclosure**: Vita (Europe) Ltd European Foulbrood / American Foulbrood lateral-flow diagnostic kit literature; published field-deployable LAMP/PCR assays for Nosema ceranae and honeybee viruses; BeeOdiversity and academic bee-pathogen test reports
+- **ip status**: patented
+- **prior art notes**: Discloses field-portable lateral-flow and sealed isothermal-amplification cartridges for honeybee pathogens (foulbrood bacteria, Nosema microsporidia, bee RNA viruses) run from crushed-bee or hive-debris samples. Anticipates: apiary-side immunoassay and isothermal molecular cartridges for pollinator-health diagnostics; the extension of closed-cassette ag diagnostics to insect-disease surveillance. Sibling architecture to agdia-amplifyrp-rpa-plant-pathogen-cartridge.
 
 ## SHERLOCK CRISPR-Cas13 nucleic acid detection (2017)
 
@@ -255,6 +295,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a regional Asian-market CRISPR diagnostic cartridge integrating RT-RPA + Cas12a + lateral-flow strip in a single disposable. Anticipates similar regional-market CRISPR diagnostic cartridge architectures.
 
+## Aptitude Medical Systems Metrix COVID-19 Molecular At-Home Test (2022)
+
+- **id**: `aptitude-medical-metrix-covid-molecular-poc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Aptitude Medical Systems
+- **disclosure**: Aptitude Medical Systems (Santa Barbara, California) Metrix COVID-19 Test disclosures and FDA-authorized over-the-counter molecular test; patents on a small isothermal-amplification cartridge with a reusable reader
+- **ip status**: patented
+- **prior art notes**: Discloses a low-step single-use isothermal-amplification cartridge with lyophilized reagents read by a small reusable heater/reader for OTC molecular respiratory testing. Anticipates: consumer-grade isothermal molecular cartridges with reusable readers; minimal-user-step swab-in-cup molecular formats. Companion to lucira-check-it-flu-covid-test and detect-inc-covid-19-rt-lamp-cartridge.
+
 ## Mammoth DETECTR BOOST and Multiplex Cartridge (2022-06)
 
 - **id**: `mammoth-detectr-cartridge-2024`
@@ -274,6 +324,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sherlock Biosciences INSPECTR product family. https://sherlock.bio
 - **ip status**: patented
 - **prior art notes**: Commercial SHERLOCK-platform CRISPR cartridge: SHERLOCK Cas13-based detection in single-use cartridge with smartphone or instrument readout. Direct architectural cousin of Mammoth DETECTR BOOST but with Cas13 enzyme and different sample-prep chemistry. Reference for the broader CRISPR-cartridge product category alongside the academic foundational disclosures.
+
+## 3EO Health Low-Cost Molecular Point-of-Care Test (COVID-19 / Respiratory) (2023)
+
+- **id**: `3eo-health-low-cost-molecular-poc-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: 3EO Health
+- **disclosure**: 3EO Health (Cambridge, Massachusetts) disclosures of a low-cost molecular POC test and FDA-cleared/authorized COVID-19 test; patents on an electrochemical-readout isothermal-amplification cartridge
+- **ip status**: patented
+- **prior art notes**: Discloses a low-cost single-use isothermal-amplification cartridge with on-cartridge screen-printed electrodes for electrochemical amplicon detection read by an inexpensive reusable reader. Anticipates: cost-optimized electrochemical-readout molecular cartridges; antigen-test-economics molecular POC. Companion to binx-health-io-molecular-poc-cartridge (also electrochemical) and to other low-cost-molecular-POC entries.
 
 ## Lucira Check-It Flu+COVID Home Test (2023-02)
 

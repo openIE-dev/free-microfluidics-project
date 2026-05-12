@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `interface-foil-pierce-actuation`
 
-**22 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1970
 
@@ -105,6 +105,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a self-contained passive-microfluidic dispensing cartridge: a pre-loaded reservoir of stabilization buffer in the lid, gated by a frangible foil/burst-valve, that mixes with donor saliva in a fixed volumetric ratio when the lid is closed. The architecture is a single-use, single-action lysis-and-mix cartridge that anticipates: any consumer mail-back DNA kit using a sealed reagent lid that releases on close; passive volumetric mixing of donor sample with preservation reagent without active pumping; room-temperature ambient-shipping nucleic-acid stabilization workflows. The OG-500 variant specifically is the kit shipped by 23andMe and AncestryDNA from 2008 onward and is the most widely-deployed microfluidic-grade sample-prep cartridge in human history (>30 million units shipped).
 
+## Anton Paar PBA-S Packaged Beverage Analyzer (Beer) (2009)
+
+- **id**: `anton-paar-pba-s-beer-analyzer`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Anton Paar
+- **disclosure**: Anton Paar GmbH PBA-S / PBA-B Packaged Beverage Analyzer datasheets and manuals
+- **ip status**: patented
+- **prior art notes**: Discloses a chained fluidic train through a packaged beverage automatically pierced, degassed, and routed in series through resonant density, NIR-alcohol, CO2 and turbidity cells with auto-rinse. Anticipates: integrated multi-cell beverage-analysis trains fed from sealed packages; the architecture of chaining microfluidic sensing cells on a single conditioned sample stream. Builds on anton-paar-alcolyzer-beer-wine-flow-cell.
+
 ## DNA Genotek ORAcollect•DNA OCR-100 Pediatric Saliva Sponge (2010)
 
 - **id**: `dna-genotek-oracollect-dna-pediatric`
@@ -134,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sysmex XN-Series launch 2011-09; XN-9000 modular configuration 2013; FDA 510(k) K112763 (XN); extends sysmex-cbc-cartridge entry already in corpus
 - **ip status**: patented
 - **prior art notes**: Discloses the Sysmex XN-9000 modular hematology track architecture extending the existing sysmex-cbc-cartridge entry (in corpus) with: (1) primary-tube cap-piercing sample aspiration sharing one probe across multiple downstream analyzer modules; (2) the WDF channel using a polymethine fluorescent dye that selectively stains WBC nucleic acid + cytoplasmic granularity, enabling true 5-part diff via two-color cytogram (side scatter × side fluorescence) — replacing the earlier-generation impedance-only differential; (3) the WPC channel using a different polymethine dye selective for blast cells, enabling automated reflexing for hematological malignancy screening; (4) the modular XN-9000 configuration linking up to 6 analyzer modules on a sample-routing track. Anticipates: high-throughput modular hematology with primary-tube cap-piercing + multi-channel optical/impedance + fluorescent intracellular staining for cell classification.
+
+## Lithium-ion battery cell electrolyte filling and wetting station (2011-06-30)
+
+- **id**: `ev-battery-electrolyte-filling-station`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: battery-cell makers (Tesla/Panasonic, CATL, LG Energy Solution, SK On, Samsung SDI) and equipment OEMs (Manz, Dürr Megtec, Wuxi Lead, Hirano Tecseed, Schuler/AIDA)
+- **disclosure**: US20110162202A1 / DE102009060800A1 Method and device for filling electrochemical cells (battery cell electrolyte filling under vacuum); see also Knoche, Surm & Reinhart, A process model for the electrolyte filling of lithium-ion batteries, Procedia CIRP 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic-dosing process: positive-displacement metering of a volatile electrolyte through a fine fill port into an evacuated cell, with vacuum/pressure-cycle wetting and closed-loop dose/seal verification. Anticipates claims to (a) vacuum-assisted metered electrolyte injection into a sealed cell; (b) pressure-cycle wetting protocol for a porous electrode stack; (c) gravimetric closed-loop dose verification with under/overfill rejection; (d) inert-environment fine-needle electrolyte fill of a pouch/prismatic cell. Prior art for cell-maker and equipment-OEM electrolyte-filling patents.
 
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `detection-label-free-imaging`
 
-**72 corpus entries disclose this subsystem.**
+**94 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1863
 
@@ -65,6 +65,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of merchant-vessel autodoc as standard crew-essential equipment with sole-physician deployment, from a 1961 source. Anticipates claims directed to small-vessel sole-physician autodoc cartridge deployments. 1961 anchor substantially predates Star Trek tricorder fictional prior art.
 
+## Reservoir-on-chip etched-glass micromodel for enhanced oil recovery and pore-scale flow (1983-08-01)
+
+- **id**: `reservoir-on-chip-etched-glass-micromodel`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: academic and oil-industry research (Lenormand at IFP/CNRS; Mattax & Kyte at Humble Oil; later Stanford, Univ. of Texas, Imperial College, Shell/Total/BP/ExxonMobil micromodel labs; commercialized via Micronit, Dolomite, Stratum Reservoir)
+- **disclosure**: Lenormand, Touboul & Zarcone, Numerical models and experiments on immiscible displacements in porous media, J. Fluid Mech. 189, 165 (1988); earlier etched-glass micromodel work by Mattax & Kyte (1961) Ever see a waterflood?, Oil & Gas J., and Lenormand et al. (1983); modern lab-on-chip micromodels reviewed in Lifton, Microfluidics: an enabling screening technology for enhanced oil recovery, Lab Chip 16, 1777 (2016).
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an etched two-dimensional pore-throat network chip with controllable geometry and wettability for visualizing pore-scale multiphase displacement and screening EOR fluids. Anticipates claims to (a) etched-glass/silicon micromodel reproducing reservoir-rock pore topology for multiphase-flow imaging; (b) microfluidic screening of enhanced-oil-recovery chemical formulations by direct observation of incremental recovery; (c) wettability-patterned pore-network chip for capillary-trapping studies; (d) micromodel-based validation of pore-network/DNS reservoir-flow simulations. Foundational and prior-art-rich; limits later patents claiming generic reservoir-on-chip devices.
+
 ## Hitachi 911/917 historic clinical chemistry (1990s) patents (1991)
 
 - **id**: `hitachi-911-917-historic-chemistry-patents`
@@ -115,6 +125,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Helena Laboratories patent family covers 1990s clinical CE cartridge platforms for serum protein and hemoglobin variant analysis. Anticipates claims directed to clinical CE cartridges with high-resolution split-beta protein readout.
 
+## Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module (1998-11-10)
+
+- **id**: `tel-clean-track-resist-dispense-nozzle`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tokyo Electron Limited (also SCREEN SOKUDO, Lam Research / SEZ track systems); dispense pumps by CKD, Saint-Gobain Furon, Entegris IntelliGen / NT International
+- **disclosure**: US5985039A Apparatus and method for coating substrate with film of liquid (Tokyo Electron); see also US6471782B1 resist coating apparatus and method.
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic dispense head: positive-displacement resist pump with sub-microliter repeatability, suck-back anti-drip nozzle, inline degas/filter, and programmed dispense profiling onto a spinning substrate. Anticipates claims to (a) anti-drip suck-back nozzle for photochemical dispense; (b) closed-loop volumetric verification of a sub-microliter dispense; (c) point-of-use degassing of a viscous resist immediately before the dispense orifice. Prior art for Entegris IntelliGen / NT International pump patents and for any low-consumption resist dispense claim.
+
+## Yokogawa Fluid Imaging Technologies FlowCam Flow Imaging Microscope (1999)
+
+- **id**: `fluid-imaging-flowcam-flow-imaging-microscopy`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Yokogawa Fluid Imaging Technologies
+- **disclosure**: Fluid Imaging Technologies (now Yokogawa Fluid Imaging) FlowCam product literature; Sieracki et al. 1998 imaging-in-flow particle analyzer publications; US patents on flow imaging microscopy
+- **ip status**: patented
+- **prior art notes**: Discloses a defined-geometry rectangular flow cell through which a focused particle suspension passes a strobed-illumination microscope objective so that every particle is individually imaged and morphologically classified. Anticipates: flow imaging microscopy / imaging flow cytometry for non-biological and protein particulate; morphology-based discrimination of particle classes in a microfluidic flow cell; the architecture of an imaging detector built around a precision micro-channel optical cell. A genuinely microfluidic instrument central to biologics QC.
+
+## Bosch HDEV gasoline direct-injection fuel injector (1999-06-22)
+
+- **id**: `bosch-hdev-gdi-fuel-injector`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (also Continental/Vitesco XL3, Denso, Delphi/BorgWarner DI injectors)
+- **disclosure**: US5915626A Fuel injector (Robert Bosch GmbH); see also US6357676B1 (Bosch) fuel injection valve and the GDI overview in Zhao, Lai & Harrington, Automotive spark-ignited direct-injection gasoline engines, Prog. Energy Combust. Sci. 25, 437 (1999).
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic metering device: an actuated needle valve and a multi-hole micro-orifice nozzle plate delivering microliter-resolution, sub-millisecond fuel doses at high pressure with shaped atomized sprays. Anticipates claims to (a) multi-hole micro-orifice spray plate for direct-injection fuel atomization; (b) multi-pulse micro-injection scheduling per combustion cycle; (c) laser/EDM-drilled stepped-orifice geometry for spray-pattern control; (d) piezo-actuated needle for linear micro-dose metering. Foundational prior art for GDI/common-rail injector patents (Bosch, Continental, Denso, Delphi).
+
 ## Given Imaging PillCam SB Capsule Endoscope (2001-08-01)
 
 - **id**: `given-imaging-pillcam-sb`
@@ -154,6 +194,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Beckman Coulter Vi-CELL XR launch 2003; product datasheet; pharmaceutical bioprocess QC adoption (USP <90>)
 - **ip status**: patented
 - **prior art notes**: Discloses an automated Trypan Blue dye-exclusion cell viability instrument with a flow-cell-capillary image-based discrimination architecture: peristaltic pump aspirates sample from cup, mixes 1:1 with Trypan Blue, transports plug into a 100-µm-deep glass flow capillary positioned in the focal plane of a 10x microscope objective with CCD imaging, and applies image-based discrimination (membrane-intact cells exclude dye and appear bright; membrane-compromised cells absorb dye and appear dark blue). The instrument autoflushes between samples. Anticipates: image-based Trypan Blue cell viability automation for bioreactor monitoring; CHO/Sf9/HEK QC use as a pharmacopeial method; the architectural choice of flow-cell + brightfield imaging vs flow cytometry + propidium iodide for the same endpoint.
+
+## FIB-SEM and TEM-lamella semiconductor failure-analysis sample-prep fluidic handling (KLA / Onto / Thermo Fisher class) (2003-07-08)
+
+- **id**: `semiconductor-fib-sem-cross-section-sample-prep-fluidics`
+- **corpus**: private
+- **device class**: chip-holder
+- **creator**: Thermo Fisher Scientific (FEI Helios), KLA (former 4D / ICOS metrology), Onto Innovation, Hitachi High-Tech, Carl Zeiss; chemistry/etchant cells by Oxford Instruments, SELA
+- **disclosure**: US6589709B1 / US6926935B2 Gas injection system for FIB / charged-particle-beam deposition and etching (FEI, now Thermo Fisher); see also Giannuzzi & Stevie, Introduction to Focused Ion Beams, Springer 2005.
+- **ip status**: patented
+- **prior art notes**: Discloses capillary-needle vapor-dosing microfluidics and localized liquid wet-etch microcells used in semiconductor failure analysis: metered precursor/etchant delivery to a sub-micron working point, plus microliter acid decapsulation. Anticipates claims to (a) capillary gas-injection metering of precursor/etchant to a charged-particle-beam target; (b) gas-assisted selective etching/deposition with imaging endpoint feedback; (c) localized acid microcell decapsulation of a packaged die. Prior art for FEI/Thermo Fisher, Zeiss and Oxford Instruments GIS patents.
+
+## LCD polyimide alignment-layer inkjet/microdispense system (2003-12-25)
+
+- **id**: `lcd-polyimide-alignment-layer-microdispense`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: LG Display, Samsung Display, BOE, Sharp; inkjet PI tools by Toppan/Tokyo Ohka, Nakan, ULVAC, Kateeva-class platforms; PI inks by Nissan Chemical (SUNEVER), JSR, Toray
+- **disclosure**: US20030235648A1 / US7022380B2 Apparatus and method for printing a liquid crystal display alignment layer (LG.Philips LCD); see also Sakai et al., Inkjet printing of polyimide alignment film, IDW proceedings 2004.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of polyimide-precursor alignment-layer ink onto large-area display glass with drop-volume control and film-uniformity engineering. Anticipates claims to (a) inkjet-printed polyimide alignment layer for LCD; (b) pattern-selective alignment-film deposition avoiding edge build-up; (c) PI ink formulated to suppress mura/coffee-ring in a sub-100 nm film. Prior art for LG Display, Samsung, BOE alignment-inkjet patents.
 
 ## EPICA Dome C ice core - 800ka climate record (2004)
 
@@ -215,6 +275,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses an at-line bioreactor sampling fluidic interface coupled to a cuvette-rotor analyzer with brightfield image based viable cell counting. Anticipates feedback-controlled bioreactor sampling with closed-loop glucose feed and automated trypan-blue exclusion brightfield count via cuvette-rotor analyzer claims.
 
+## Sympatec HELOS / QICPIC Wet Dispersion Measurement Cell (2007)
+
+- **id**: `sympatec-helos-qicpic-wet-dispersion-cell`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Sympatec
+- **disclosure**: Sympatec GmbH HELOS laser diffraction and QICPIC dynamic image analysis sensor brochures with CUVETTE, SUCELL and MIXCEL wet dispersion units
+- **ip status**: patented
+- **prior art notes**: Discloses a thin laminar liquid sheet flowing past a high-speed-imaging optical window for single-pass particle shape/size imaging, plus stirred small-volume windowed wet cells for laser diffraction. Anticipates: flow-imaging cytometry-like cells for non-biological particles; laminar sheet-flow optical interrogation geometries; combined diffraction+imaging on a shared fluidic path. Conceptually adjacent to fluid-imaging FlowCam and impedance-cytometry flow cells.
+
+## Electrohydrodynamic (EHD) jet printing for fine-pitch electronics (2007-09-30)
+
+- **id**: `electrohydrodynamic-jet-printing-fine-pitch`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: academic origin (Rogers / Alleyne, University of Illinois Urbana-Champaign; Poulikakos, ETH Zurich nanodripping); commercial: Scrona, XTPL, Enjet, Optomec NanoJet, Nano Ops
+- **disclosure**: Park, Hardy, Kang et al., High-resolution electrohydrodynamic jet printing, Nature Materials 6, 782 (2007); see also US8333874B2 Flexible high-resolution near-field and far-field electrohydrodynamic jet printing (Rogers et al., University of Illinois).
+- **ip status**: patented
+- **prior art notes**: Discloses field-driven microfluidic ejection producing sub-nozzle droplets/jets for sub-micron direct-write deposition of functional inks. Anticipates claims to (a) EHD/e-jet printing of conductive or nanoparticle inks at sub-micron resolution; (b) cone-jet vs pulsating vs electrospray mode selection by field/flow; (c) closed-loop standoff/jet-current control for EHD line writing; (d) EHD repair of display/conductor defects. Prior art for Scrona, XTPL, Enjet, Optomec NanoJet EHD-printing patents.
+
+## Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) (2007-12-20)
+
+- **id**: `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Mehmet Toner group, Massachusetts General Hospital / Harvard (with Haber, Maheswaran)
+- **disclosure**: Nagrath, S.; Sequist, L. V.; Maheswaran, S.; Bell, D. W.; Irimia, D.; Ulkus, L.; Smith, M. R.; Kwak, E. L.; Digumarthy, S.; Muzikansky, A.; Ryan, P.; Balis, U. J.; Tompkins, R. G.; Haber, D. A.; Toner, M. Isolation of rare circulating tumour cells in cancer patients by microchip technology. Nature 2007, 450, 1235-1239. DOI: 10.1038/nature06385
+- **ip status**: public-domain
+- **prior art notes**: The founding circulating-tumor-cell microchip: a flow chamber packed with tens of thousands of antibody (anti-EpCAM)-functionalized microposts whose geometry and spacing are optimized so that cells in unprocessed whole blood collide with post surfaces frequently enough to be affinity-captured while shear stays below the threshold for cell loss - isolating CTCs at frequencies of a few cells per milliliter at high purity for enumeration and downstream genotyping. Anticipates claims to: affinity capture of rare cells from unprocessed whole blood on an array of antibody-coated microstructures; micropost-array geometry designed via streamline/collision-probability analysis to trade capture efficiency against shear; and integrated rare-cell capture plus on-chip immunostaining and molecular analysis. HIGH-PRIORITY anchor for the liquid-biopsy / CTC industry (CTC-iChip, CellSearch alternatives). Toner-lab MGH lineage; descendant work includes ozkumur-2013-ctc-iChip. Companion to toner-irimia-2005-blood-on-chip.
+
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
 - **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
@@ -255,6 +345,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Discloses Continuous Flow Analysis microfluidic train: melt-front decontamination, parallel branching microchannels, and inline laser water-isotope spectroscopy at 1 mm depth resolution. Anticipates microfluidic CFA train for paleoclimate ice-core analysis with simultaneous chemistry and isotope readouts claims.
 
+## Rapid Micro Biosystems Growth Direct System (2008)
+
+- **id**: `rapid-micro-biosystems-growth-direct`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Rapid Micro Biosystems
+- **disclosure**: Rapid Micro Biosystems Growth Direct System product literature and validation guides; FDA-cleared rapid microbial enumeration platform
+- **ip status**: patented
+- **prior art notes**: Discloses a membrane-filtration consumable cassette in which captured microbes form micro-colonies on agar that are detected by automated auto-fluorescence imaging at the ~100-cell stage, with robotic handling through incubator and imager. Anticipates: filter-on-agar cassettes for automated rapid colony imaging; label-free auto-fluorescence colony detection; cassette-format rapid microbiology consumables. The filtration step and cassette are the microfluidic-relevant subsystems.
+
+## Roll-to-roll gravure printing ink-cell and doctor-blade metering for printed electronics (2008-04-17)
+
+- **id**: `roll-to-roll-gravure-printed-electronics-ink-metering`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: academic and industrial (UC Berkeley Subramanian group; Bobst, Windmöller & Hölscher, Schepers/BST gravure lines; VTT, Holst Centre printed-electronics pilot lines)
+- **disclosure**: Sung, de la Fuente Vornbrock & Subramanian, Scaling and optimization of gravure-printed silver nanoparticle lines for printed electronics, IEEE Trans. CPMT 30(4), 2008; see also Kang et al., Direct gravure printing of source/drain electrodes, IEEE EDL 2010.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses microscale-cell volumetric ink metering plus doctor-blade wiping applied to functional electronic inks at web scale - a self-metering microreservoir-array fluidic process. Anticipates claims to (a) gravure deposition of nanoparticle-conductor inks via engraved microcells; (b) cell-geometry control of transferred functional-ink volume and printed line width; (c) roll-to-roll gravure printing of OTFT/sensor/antenna layers with inline sintering. Prior art that limits later patents claiming generic gravure-printed-electronics processes.
+
 ## Roche Cobas u 411 Urine Test Strip Reflectance Fluidic Path (2009)
 
 - **id**: `roche-cobas-u-411-urinalysis-strip-fluidics`
@@ -284,6 +394,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Crosson ER, Appl Phys B 92:403-408 (2008); doi:10.1007/s00340-008-3135-y; Picarro Inc. product datasheets G1xxx/G2xxx series; picarro.com
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic gas inlet manifold (capillary, pressure regulator, optical cavity) coupled to cavity ring-down spectroscopy for trace gas analysis. The capillary-into-cavity architecture is a microfluidic sample-prep stage. Anticipates: gas-microfluidic inlet systems for cavity-enhanced spectroscopy; pressure-regulated capillary inlets for high-finesse optical detection; field-deployable trace-gas microfluidic analyzers.
+
+## Wyatt Technology DynaPro Plate Reader III (Microwell Dynamic Light Scattering) (2009)
+
+- **id**: `wyatt-dynapro-plate-reader-dls`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Wyatt Technology
+- **disclosure**: Wyatt Technology (now part of Waters) DynaPro Plate Reader datasheet and DYNAMICS software documentation
+- **ip status**: patented
+- **prior art notes**: Discloses performing dynamic and static light scattering in situ in the microliter liquid column of standard microwell plates via a fiber-coupled focused laser, with temperature control, for protein aggregation screening. Anticipates: microwell-format DLS aggregation screening; in-well optical interrogation of microliter biologic samples without transfer; the architecture of a plate-reader DLS instrument. Companion biologics-aggregation prior art to unchained-labs-uncle-protein-stability.
 
 ## Werfen ACL TOP 750 Coagulation Analyzer Optical Cuvette Train (2010)
 
@@ -324,6 +444,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Particle Metrix ZetaView product launch, 2010; QUATT 4-laser launch 2020.
 - **ip status**: patented
 - **prior art notes**: Discloses a microfluidic cell combining NTA (Brownian motion measurement) with electrokinetic mobility (zeta potential) in a single chamber. Anticipates integrated NTA + zeta potential exosome characterization cell claims, plus fluorescent EV phenotyping via per-particle fluorescence channels.
+
+## Kateeva YIELDjet inkjet OLED thin-film deposition system (2010-06-10)
+
+- **id**: `kateeva-yieldjet-inkjet-oled-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Kateeva, Inc.
+- **disclosure**: US20100143581A1 / US8235487B2 Method and apparatus for load-locked printing (Kateeva, Inc.); see also Madigan et al., Advancements in inkjet printing for OLED mass production, SID Symposium Digest 2014.
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial drop-on-demand microfluidic printhead system depositing functional organic semiconductor and barrier inks into patterned banks under inert atmosphere with vision-feedback drop control. Anticipates claims to (a) inkjet deposition of OLED emissive layers into sub-pixel banks; (b) load-locked inert-atmosphere inkjet printing of moisture-sensitive films; (c) closed-loop per-nozzle drop-volume compensation guided by inline film-thickness metrology; (d) inkjet-printed thin-film encapsulation of an OLED. Prior art for TCL/CSOT, JOLED, Samsung Display and Tianma inkjet-OLED process patents.
+
+## Malvern Panalytical Mastersizer 3000 Hydro Wet Dispersion Cell (2011)
+
+- **id**: `malvern-mastersizer-3000-wet-dispersion-cell`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Malvern Panalytical
+- **disclosure**: Malvern Instruments (Malvern Panalytical) Mastersizer 3000 with Hydro dispersion units brochure and user manual (2011)
+- **ip status**: patented
+- **prior art notes**: Discloses a recirculating fluidic loop that carries a particle suspension through a windowed optical measurement cell for laser-diffraction sizing, with integrated pump, stirrer, sonicator and a small-volume stirred micro-cuvette option. Anticipates: flow-through optical sizing cells with a defined short optical path; small-volume recirculating dispersion loops for scarce samples. The wet-dispersion cell is a genuine fluidic subsystem (windowed flow cell + recirculation).
+
+## Quantum-dot inkjet color-conversion layer deposition (Nanosys / Samsung QD-OLED, Nanoco class) (2011-09-15)
+
+- **id**: `quantum-dot-inkjet-display-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Nanosys (now Shoei Chemical), Samsung Display (QD-OLED color-conversion layer), Nanoco Technologies, TCL/CSOT, BOE; printheads by Fujifilm Dimatix / Kateeva platforms
+- **disclosure**: US20110233483A1 / US8618528B2 Quantum dot films, lighting devices, and lighting methods (Nanosys / QD Vision lineage); see also Kim et al., Inkjet-printed quantum-dot light-emitting diodes, Nano Letters 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of nanocrystal quantum-dot inks into patterned display sub-pixels for color conversion or electroluminescence, with volumetric metering and film-flatness control. Anticipates claims to (a) inkjet-printed QD color-conversion layer in a sub-pixel bank; (b) inkjet-printed QD electroluminescent emitter layer; (c) solvent-blend QD ink formulated to suppress coffee-ring drying; (d) Cd-free InP QD inkjet ink for displays. Prior art for Samsung, TCL/CSOT, BOE and Nanoco QD-display process patents.
 
 ## A*STAR Singapore Bioimaging Consortium patent family (2012)
 
@@ -425,6 +575,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sight Diagnostics OLO patent family covers POC CBC fluidic cartridges with imaging-cytometry readout. Anticipates claims directed to POC CBC cartridges with on-cartridge imaging-cytometry.
 
+## Beckman Coulter HIAC 9703+ Liquid Particle Counting System (2014)
+
+- **id**: `hiac-9703-plus-liquid-particle-counter`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Beckman Coulter
+- **disclosure**: Beckman Coulter HIAC 9703+ liquid particle counting system datasheet; USP <788> Particulate Matter in Injections (light obscuration method, Apparatus 1)
+- **ip status**: patented
+- **prior art notes**: Discloses a precision capillary flow cell illuminated by a collimated beam in which each passing particle produces a sizeable obscuration pulse, fed by a metered syringe sampler. Anticipates: light-obscuration particle sizing in a defined-geometry micro-channel; syringe-metered sample introduction to an optical sensing cell; the compendial particulate test implemented as flow through a micro optical cell. Companion subvisible-particle prior art to fluid-imaging-flowcam-flow-imaging-microscopy.
+
+## Quotient MosaiQ Microarray Blood-Typing and Disease-Screening Platform (2014)
+
+- **id**: `quotient-mosaiq-microarray-blood-typing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Quotient Limited
+- **disclosure**: Quotient Limited (Eysins, Switzerland / Edinburgh, UK) MosaiQ platform disclosures and patents on a microarray-based consumable for simultaneous blood grouping, antibody screening and infectious-disease serology
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic consumable carrying a printed antigen/antibody microarray over which a small plasma sample is metered, processed and imaged to yield blood-group phenotype, antibody screening and infectious-disease serology together. Anticipates: microarray-in-microfluidic-flow-path consumables for immunohematology; consolidated multi-modal transfusion testing on one chip. Companion to bio-rad-ih-1000-immunohematology (gel-card automation) -- MosaiQ uses a microarray instead of columns.
+
 ## Werfen GEM Premier 5000 Blood Gas Multi-Use Cartridge (2015)
 
 - **id**: `werfen-gem-premier-5000-cartridge`
@@ -454,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unchained Labs Uncle product launch, 2016 (formerly Avacta Optim 1000 acquired 2015).
 - **ip status**: patented
 - **prior art notes**: Discloses a 48-position cuvette array with integrated Peltier ramping and simultaneous intrinsic fluorescence + DLS + SLS per cuvette. Anticipates triple-detection thermal ramp protein stability cuvette array claims.
+
+## Bio-Techne / ProteinSimple Maurice (Capillary Isoelectric Focusing & CE-SDS) (2016)
+
+- **id**: `proteinsimple-maurice-capillary-isoelectric-focusing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: ProteinSimple (Bio-Techne)
+- **disclosure**: ProteinSimple (Bio-Techne) Maurice and Maurice S/C cartridge datasheets; predecessor iCE3 / iCE280 imaged capillary isoelectric focusing literature
+- **ip status**: patented
+- **prior art notes**: Discloses a replaceable cartridge enclosing a coated fused-silica capillary with integrated electrolyte reservoirs, in which proteins are focused along a pH gradient and the entire column is imaged at once by a UV camera, with the same capillary platform reconfigurable for SDS sieving electrophoresis. Anticipates: whole-column-imaging capillary isoelectric focusing in a disposable cartridge; cartridge-format capillary electrophoresis for biologics QC; imaged-detection capillary separations replacing slab-gel methods. A ubiquitous biologics-QC microfluidic-equivalent platform; sister to proteinsimple-westernblot-simple-western.
 
 ## Advanced Instruments / Solentim VIPS PRO single-cell deposition system (2017)
 
@@ -504,6 +684,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aiforia Technologies Plc Aiforia Cloud launch 2017; Aiforia Clinical CE-IVDR mark 2023.
 - **ip status**: patented
 - **prior art notes**: Discloses cloud-hosted pathologist-trained CNN model platform with slide-scanner ecosystem interoperability and regulatory-compliant prostate Gleason grading assistant. Anticipates cloud-trained CNN pathology platform with no-code training UI claims.
+
+## Thermo Fisher Accula (Mesa Biotech) Dock-and-Go Molecular POC Cartridge (2017)
+
+- **id**: `thermo-fisher-accula-mesa-biotech-cartridge`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Thermo Fisher Scientific (Mesa Biotech)
+- **disclosure**: Mesa Biotech (San Diego; acquired by Thermo Fisher Scientific 2021) Accula System disclosures and FDA-cleared/EUA molecular POC tests; patents on a lateral-flow-readout RT-PCR cartridge with a reusable dock
+- **ip status**: patented
+- **prior art notes**: Discloses a palm-sized RT-PCR cassette in which on-cassette amplification (heated by a reusable dock) is followed by lateral-flow amplicon detection with visual lines, achieving PCR sensitivity without reader optics. Anticipates: PCR-then-lateral-flow integrated POC cassettes; reusable-dock + disposable-amplification-cassette architectures. Companion to lucira-check-it-flu-covid-test and other strip-readout molecular POC entries.
+
+## MicroLED fluidic self-assembly mass-transfer process (eLux / Sharp; PlayNitride / X-Celeprint stamp alternatives) (2017-08-03)
+
+- **id**: `microled-fluidic-self-assembly-mass-transfer`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: eLux, Inc. (Sharp-affiliated), Sharp Corporation; competing transfer methods: X-Celeprint (micro-transfer printing), PlayNitride (PixeLED), Rohinni, VueReal
+- **disclosure**: US20170221730A1 / US10243097B2 Fluidic assembly of emissive display elements (Schuele et al., eLux Inc. / Sharp); see also Smith & Heckele, Fluidic self-assembly of microscale parts, MEMS reviews; X-Celeprint micro-transfer-printing US8506867B2.
+- **ip status**: patented
+- **prior art notes**: Discloses liquid-borne microfluidic self-assembly: suspending microscale optoelectronic dice in a carrier fluid and sweeping them across a substrate so capture wells trap them in correct orientation, then draining. Anticipates claims to (a) fluidic self-assembly of LED/semiconductor dice into shaped backplane wells; (b) keyed die/well geometry enforcing orientation under capillary/fluidic forces; (c) sweep-agitate-drain choreography for high single-die-per-well yield. Prior art for eLux, Sharp, VueReal and competing fluidic-assembly display patents; complements (does not anticipate) elastomer-stamp transfer printing.
 
 ## Refeyn TwoMP / OneMP mass photometer with microfluidic flow cell (2018)
 
@@ -594,6 +794,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Foss Analytical SpiritScan product release 2019.
 - **ip status**: patented
 - **prior art notes**: Discloses FTIR cuvette-based rapid spirit quality analysis. Anticipates handheld FTIR distilled-spirits congener-profile analyzer claims.
+
+## Procter and Gamble Opte Precision Skincare System (Handheld Inkjet Pigment Wand) (2019)
+
+- **id**: `pg-opte-precision-skincare-wand`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Procter and Gamble
+- **disclosure**: Procter and Gamble Opte Precision Skincare System product literature and CES 2019 press materials; P&G patents on a handheld optical-scanning inkjet skin-treatment device
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld device combining a MEMS inkjet printhead, a replaceable serum cartridge, an imaging camera, and a closed-loop controller that fires individual nozzles only over camera-detected skin features as the device is swept across skin. Anticipates: camera-guided closed-loop inkjet deposition of fluids onto biological surfaces; handheld microprinthead drug/cosmetic dosing; pixel-resolved on-skin fluid application. A genuinely handheld microfluidic device and a high-priority anchor; discontinued by P&G in 2022 but extensively disclosed.
+
+## Stenon FarmLab Handheld Real-Time Soil Analyzer (2019)
+
+- **id**: `stenon-farmlab-handheld-soil-analyzer`
+- **corpus**: private
+- **device class**: other
+- **creator**: Stenon GmbH
+- **disclosure**: Stenon GmbH (Potsdam, Germany) FarmLab product literature and patents on a handheld in-field soil-property analyzer combining optical and electrochemical sensing with AI calibration
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld probe whose tip combines optical (NIR/multispectral) and electrochemical micro-sensing of a soil-contact zone with AI calibration to lab reference values, giving real-time soil-nutrient readings. Anticipates: handheld multimodal soil-nutrient micro-sensor probes; AI-calibrated optical+electrochemical fusion for in-field analytics. Companion to teralytic-soil-probe-npk-microfluidic-sensor.
 
 ## Mars 2020 Perseverance PIXL (Planetary Instrument for X-ray Lithochemistry) (2020)
 

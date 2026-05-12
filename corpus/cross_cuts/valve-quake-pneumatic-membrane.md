@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-quake-pneumatic-membrane`
 
-**26 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1988
 
@@ -95,6 +95,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Fluidigm patent family covering the IFC controller (the workhorse benchtop instrument for all Fluidigm chip products). Anchors claims around: (a) pneumatic manifold delivering individually-addressable pressurized control lines to a multilayer PDMS chip seated on a holder; (b) integrated thermal cycling stage; (c) optical readout integration with chip alignment; (d) sequential-loading protocols leveraging MLSI multiplexer trees. Built on the Caltech-licensed Quake MLSI valve patent family (quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates pneumatically-actuated chip-controller benchtop instruments for elastomeric microfluidic chips. Expiry: 2022-2030 across family.
 
+## Liu 2002 nanoliter rotary device for polymerase chain reaction (2002-06-01)
+
+- **id**: `liu-quake-2002-nanoliter-rotary-pcr-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Liu, J.; Enzelberger, M.; Quake, S. A nanoliter rotary device for polymerase chain reaction. Electrophoresis 2002, 23, 1531-1536. DOI: 10.1002/1522-2683(200205)23:10<1531::AID-ELPS1531>3.0.CO;2-D
+- **ip status**: public-domain
+- **prior art notes**: Discloses the rotary PCR architecture: a closed-loop nanoliter channel in PDMS with three integrated peristaltic Quake (MLSI) micropumps that convect the reaction mixture around a circuit passing three fixed-temperature zones - thermal cycling in the spatial domain at constant heater temperatures, avoiding the thermal mass and ramp limits of cycling the whole chip. Anticipates claims to: continuous-flow PCR in a recirculating loop driven by an on-chip pump; spatial-domain thermal cycling by transporting reagent past stationary heaters; integration of a closed-loop reactor with monolithic pneumatic peristaltic pumping; and nanoliter-scale recirculating reaction networks generally. Foundational for later continuous-flow / recirculating-loop PCR chips and droplet-recirculation reactors. Quake-lab MLSI lineage (unger-2000-quake-monolithic-membrane-valve).
+
+## Hansen 2002 robust scalable microfluidic metering for protein crystallization by free interface diffusion (2002-12-24)
+
+- **id**: `hansen-2002-microfluidic-protein-crystallization-metering`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hansen, C. L.; Skordalakes, E.; Berger, J. M.; Quake, S. R. A robust and scalable microfluidic metering method that allows protein crystal growth by free interface diffusion. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 16531-16536. DOI: 10.1073/pnas.262485199
+- **ip status**: public-domain
+- **prior art notes**: Discloses the microfluidic metering method underlying chip-format protein crystallization: paired nanoliter chambers loaded by dead-end filling, isolated by monolithic membrane valves, then connected through an interface valve so the two reagents mix only by free-interface diffusion - reproducibly sampling a crystallization trajectory through supersaturation space that is impractical to set up by hand at nanoliter scale. Anticipates claims to: dead-volume-free metering of defined nanoliter aliquots by valve-bounded chamber filling; free-interface-diffusion crystallization in a microfluidic chamber array; and high-throughput crystallization screening from microgram protein quantities. Commercialized as Fluidigm Topaz. Companion to quake-2003-microfluidic-protein-crystallization. Quake-lab MLSI lineage.
+
 ## Fluidigm Dynamic Array Integrated Fluidic Circuit (2003)
 
 - **id**: `fluidigm-dynamic-array-ifc`
@@ -115,6 +135,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Quake-group digital-PCR patent family covering on-chip partitioning of a nucleic-acid sample into a large array of independent reactors followed by amplification and Poisson-statistical absolute quantification. Anchors claims around: (a) MLSI valve isolation of an array of nL/pL reaction chambers; (b) loading dilute template such that chambers contain 0 or 1 target by Poisson distribution; (c) thermal cycling and end-point fluorescence readout per chamber; (d) absolute quantification by counting positive partitions. Different family from droplet-based ddPCR (RainDance/QuantaLife/Bio-Rad lineage) but co-anticipates the absolute-quantification claim space. Vogelstein-Kinzler 1999 (vogelstein-kinzler-1999-digital-pcr) is the conceptual prior art. This patent family fed Fluidigm BioMark digital-array chemistry. Expiry: family members 2023-2026.
 
+## Hong and Quake 2003 integrated nanoliter systems (2003-10-01)
+
+- **id**: `hong-quake-2003-integrated-nanoliter-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hong, J. W.; Quake, S. R. Integrated nanoliter systems. Nat. Biotechnol. 2003, 21, 1179-1183. DOI: 10.1038/nbt871
+- **ip status**: public-domain
+- **prior art notes**: The canonical mid-period statement of microfluidic large-scale integration: assembling thousands of monolithic-membrane valves into multiplexers, peristaltic pumps, rotary mixers, on-chip columns and addressable chamber arrays for nanoliter-scale biochemistry and genomics. Discloses (in a unified review form) the multiplexer scheme that addresses N independent fluidic lines with order log2(N) control inputs, the integration of metering/mixing/incubation/separation modules on a single PDMS chip, and the architecture later commercialized as the Fluidigm dynamic-array / Stanford Microfluidics Foundry platform (cf. fluidigm-patent-family-biomark-dynamic-array, quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates claims to: combinatorial multiplexer addressing of valve arrays; integrated nanoliter reaction-array chips; and chip-scale automation of multi-step biochemical workflows.
+
 ## Fluidigm BioMark Dynamic Array Chemistry Patent Family (2004)
 
 - **id**: `fluidigm-patent-family-biomark-dynamic-array`
@@ -125,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
 
+## Studer 2004 scaling properties of a low-actuation-pressure microfluidic valve (2004-01-01)
+
+- **id**: `studer-2004-low-actuation-pressure-microfluidic-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Studer, V.; Hang, G.; Pandolfi, A.; Ortiz, M.; Anderson, W. F.; Quake, S. R. Scaling properties of a low-actuation-pressure microfluidic valve. J. Appl. Phys. 2004, 95, 393-398. DOI: 10.1063/1.1629781
+- **ip status**: public-domain
+- **prior art notes**: Establishes the quantitative design rules for monolithic-membrane (Quake/MLSI) microvalves and introduces the push-up valve geometry that achieves valve closure at sub-1-psi actuation pressures. Discloses: the mechanical model (membrane bending, contact mechanics) relating closure pressure to membrane thickness and channel width; the push-up vs push-down configuration trade-off; and the scaling that makes large valve arrays driven by modest pressure feasible. Anticipates claims to: low-actuation-pressure elastomeric membrane valves; push-up valve geometry; and parametric design methodologies for membrane-deflection microvalves. Core reference for the Stanford Microfluidics Foundry MLSI design-rule documents (cf. hong-studer-quake-2004-nanoliter-nucleic-acid-processor, unger-2000-quake-monolithic-membrane-valve).
+
 ## A nanoliter-scale nucleic acid processor with parallel architecture (Hong, Studer, Hang, Anderson, Quake, 2004) (2004-03-21)
 
 - **id**: `hong-studer-quake-2004-nanoliter-nucleic-acid-processor`
@@ -134,6 +174,56 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hong, J. W.; Studer, V.; Hang, G.; Anderson, W. F.; Quake, S. R. A nanoliter-scale nucleic acid processor with parallel architecture. Nat. Biotechnol. 2004, 22 (4), 435-439. DOI: 10.1038/nbt951.
 - **ip status**: patented
 - **prior art notes**: An integrated PDMS lab-on-a-chip that performs the full nucleic-acid-preparation workflow - cell isolation, lysis, mRNA/DNA capture on functionalized beads, washing, and recovery of purified product - in parallel nanolitre reactors, built entirely from multilayer-soft-lithography pneumatic membrane valves and peristaltic pumps. Discloses: a parallel-architecture chip in which dozens of membrane valves partition and route fluids among rotary mixers, bead-capture columns, and elution channels; on-chip affinity capture (paramagnetic or affinity beads trapped behind a sieve valve) for solid-phase nucleic-acid purification; on-chip peristaltic metering and rotary mixing; and recovery of purified mRNA/DNA from single-cell-quantity inputs. Anticipates claims to: integrated multi-step nucleic-acid sample preparation in valve-controlled PDMS chips; parallelized nL bead-based extraction columns on chip; rotary-mixer reaction units fed by membrane-valve manifolds; and single-cell nucleic-acid processing pipelines. Builds on unger-2000-quake-monolithic-membrane-valve and thorsen-2002-microfluidic-large-scale-integration; commercialized via Fluidigm.
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
+
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
+## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
+
+- **id**: `maerkl-quake-2007-mitomi-transcription-factor-binding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Stanford / Caltech
+- **disclosure**: Maerkl, S. J.; Quake, S. R. A systems approach to measuring the binding energy landscapes of transcription factors. Science 2007, 315, 233-237. DOI: 10.1126/science.1131007
+- **ip status**: public-domain
+- **prior art notes**: Discloses the MITOMI architecture: a dense array of PDMS unit cells where a circular button membrane valve is lowered onto a functionalized surface to mechanically trap surface-bound molecular complexes at the instant of measurement, defeating dissociation during washing and enabling thousands of true equilibrium-affinity measurements in parallel - here used to map the complete binding-energy landscape of transcription factors against every DNA sequence variant. Anticipates claims to: a button/doormat membrane valve used to capture and protect a surface-immobilized binding complex during washout; massively parallel on-chip equilibrium binding-constant arrays with in-situ-expressed protein; and microfluidic measurement of full sequence-resolved binding landscapes. The MITOMI button-valve trick is widely reused; this is its origin. Quake-lab MLSI lineage.
+
+## Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation (2007-06-01)
+
+- **id**: `melin-quake-2007-microfluidic-large-scale-integration-design-rules`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Stanford
+- **disclosure**: Melin, J.; Quake, S. R. Microfluidic large-scale integration: the evolution of design rules for biological automation. Annu. Rev. Biophys. Biomol. Struct. 2007, 36, 213-231. DOI: 10.1146/annurev.biophys.36.040306.132646
+- **ip status**: public-domain
+- **prior art notes**: The review that explicitly frames microfluidic large-scale integration as having design rules analogous to VLSI: minimum valve dimensions, multiplexer fan-out limits, channel-rounding requirements, push-up vs push-down valve choices, manifold pressure budgets, and the composition rules for assembling valves into pumps, mixers, rotary reactors, micro-columns, addressable chamber arrays, cell traps and MITOMI button cells. As a unified prior-art statement it anticipates claims to: parametric/rule-based design methodologies for elastomeric valve arrays; the standard MLSI primitive library; and software-assisted layout of multilayer soft-lithography chips. Core reference document for the Stanford Microfluidics Foundry (companion to hong-quake-2003-integrated-nanoliter-systems and studer-2004-low-actuation-pressure-microfluidic-valve).
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
 
 ## Magnetic-bead microvalve and pump (2009)
 

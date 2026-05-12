@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-active-electrokinetic`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1947
 
@@ -34,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pakdel, P., McKinley, G. H. (1996). 'Elastic instability and curved streamlines.' Phys. Rev. Lett. 77(12): 2459-2462. doi:10.1103/PhysRevLett.77.2459
 - **ip status**: public-domain
 - **prior art notes**: Discloses the Pakdel-McKinley criterion: viscoelastic flow becomes unstable when streamline curvature times Weissenberg number exceeds a material-dependent threshold. Universal scaling law underlying every viscoelastic-instability microfluidic disclosure: chaotic mixing of viscoelastic fluids in low-Re serpentine channels, elastic-turbulence-enhanced mixing, viscoelastic particle focusing, viscoelastic flow rectifiers. Anticipates patent claims keyed on viscoelastic mixing enhancement, elastic-instability-driven chaotic advection, or low-Re mixing via fluid rheology. Particularly invalidates over-broad 'viscoelastic mixing in serpentine microchannel' claims.
+
+## Hong and Quake 2003 integrated nanoliter systems (2003-10-01)
+
+- **id**: `hong-quake-2003-integrated-nanoliter-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hong, J. W.; Quake, S. R. Integrated nanoliter systems. Nat. Biotechnol. 2003, 21, 1179-1183. DOI: 10.1038/nbt871
+- **ip status**: public-domain
+- **prior art notes**: The canonical mid-period statement of microfluidic large-scale integration: assembling thousands of monolithic-membrane valves into multiplexers, peristaltic pumps, rotary mixers, on-chip columns and addressable chamber arrays for nanoliter-scale biochemistry and genomics. Discloses (in a unified review form) the multiplexer scheme that addresses N independent fluidic lines with order log2(N) control inputs, the integration of metering/mixing/incubation/separation modules on a single PDMS chip, and the architecture later commercialized as the Fluidigm dynamic-array / Stanford Microfluidics Foundry platform (cf. fluidigm-patent-family-biomark-dynamic-array, quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates claims to: combinatorial multiplexer addressing of valve arrays; integrated nanoliter reaction-array chips; and chip-scale automation of multi-step biochemical workflows.
 
 ## The Expanse protomolecule fluid biology (Eros and Venus events) (2011)
 

@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `interface-fluidic-edge-connector`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017
+Earliest disclosure: 1984-10-23
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Screen-printed electrode (SPE) fabrication for biosensors and glucose strips (1984-10-23)
+
+- **id**: `screen-printed-biosensor-electrode-deposition`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: MediSense (now Abbott), Genetics International; ink suppliers DuPont (silver/silver-chloride and carbon pastes), Sun Chemical/Gwent Group, Acheson/Henkel; screen printers DEK, EKRA, Asys
+- **disclosure**: US4545382A Sensor for components of a liquid mixture (Higgins, Hill & Plotkin, Genetics International / MediSense - the foundational screen-printed enzyme-electrode glucose strip); see also Cass et al., Ferrocene-mediated enzyme electrode for amperometric determination of glucose, Anal. Chem. 56, 667 (1984).
+- **ip status**: patented
+- **prior art notes**: Discloses screen-mesh thick-film deposition used to fabricate patterned electrochemical electrodes plus a laminated sub-5-microliter capillary reaction chamber - the canonical screen-printed biosensor strip. Anticipates claims to (a) screen-printed working/counter/reference electrode set on a flexible substrate for amperometric biosensing; (b) overprinted dried enzyme-mediator reagent layer on a screen-printed working electrode; (c) laminated spacer/cover defining a capillary-fill blood chamber over screen-printed electrodes. Foundational prior art for glucose-strip and screen-printed-immunosensor patents (Abbott, Roche, LifeScan, Bayer/Ascensia).
 
 ## SparkFun / Pumping Lemma open microfluidic 'brick' connectors (2017)
 

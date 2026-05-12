@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-glass-hf-etching`
 
-**23 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1953-08-20
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coulter, W.H. US patent application filed 1949-10-20, US2656508A issued 1953-10-20, 'Means for counting particles suspended in a fluid'; Coulter, W.H. 'High speed automatic blood cell counter and cell size analyzer,' Proc. National Electronics Conference vol. 12 pp. 1034-1042 (1956)
 - **ip status**: patented
 - **prior art notes**: Discloses the foundational electrical-sensing-zone (Coulter principle) particle/cell counting technique: an electrolyte-filled chamber is divided by a small aperture (microfluidic constriction) bridged by an applied DC current; particles passing through the aperture displace electrolyte volume, momentarily increasing aperture impedance and producing voltage pulses whose amplitude is proportional to particle volume. Anticipates: ALL subsequent impedance-based microfluidic cell/particle counters (Coulter Counter Z series, all hematology analyzers using impedance, sub-µm 'tunable resistive pulse sensing' nanopore variants, microfluidic on-chip impedance cytometry). The 1953 patent expired in 1971 (17-year US term at the time), placing the foundational technique in the public domain — but downstream design improvements (sapphire apertures, hybrid optical-impedance, sweep-flow geometry) remain patented in modern instruments. This entry serves as the historical anchor making clear that any modern microfluidic impedance counter has 70+ years of expired-patent prior art to draw on.
+
+## Reservoir-on-chip etched-glass micromodel for enhanced oil recovery and pore-scale flow (1983-08-01)
+
+- **id**: `reservoir-on-chip-etched-glass-micromodel`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: academic and oil-industry research (Lenormand at IFP/CNRS; Mattax & Kyte at Humble Oil; later Stanford, Univ. of Texas, Imperial College, Shell/Total/BP/ExxonMobil micromodel labs; commercialized via Micronit, Dolomite, Stratum Reservoir)
+- **disclosure**: Lenormand, Touboul & Zarcone, Numerical models and experiments on immiscible displacements in porous media, J. Fluid Mech. 189, 165 (1988); earlier etched-glass micromodel work by Mattax & Kyte (1961) Ever see a waterflood?, Oil & Gas J., and Lenormand et al. (1983); modern lab-on-chip micromodels reviewed in Lifton, Microfluidics: an enabling screening technology for enhanced oil recovery, Lab Chip 16, 1777 (2016).
+- **ip status**: open-permissive
+- **prior art notes**: Discloses an etched two-dimensional pore-throat network chip with controllable geometry and wettability for visualizing pore-scale multiphase displacement and screening EOR fluids. Anticipates claims to (a) etched-glass/silicon micromodel reproducing reservoir-rock pore topology for multiphase-flow imaging; (b) microfluidic screening of enhanced-oil-recovery chemical formulations by direct observation of incremental recovery; (c) wettability-patterned pore-network chip for capillary-trapping studies; (d) micromodel-based validation of pore-network/DNS reservoir-flow simulations. Foundational and prior-art-rich; limits later patents claiming generic reservoir-on-chip devices.
 
 ## Manz / Ciba-Geigy original µTAS patent (1990 priority) (1990)
 
@@ -175,6 +185,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Post-1996 extensions of the Ramsey chip-ESI architecture: integrated trypsin digestion, on-chip protein-LC, and 2D separations preceding ESI. Cited as the methodological lineage for integrated chip-LC-MS workflows. Cumulative Ramsey-group disclosures define the trajectory from chip-ESI (1996) to commercial chip-LC-MS (Agilent 2005).
 
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
+
 ## Dielectrophoresis-based separation of human cancer cells from blood (2002)
 
 - **id**: `gascoyne-2002-dep-cancer-cells`
@@ -194,6 +224,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Little Things Factory GmbH (Ilmenau, DE) product brochure 2005; Hessel, V.; Hardt, S.; Löwe, H. Chemical Micro Process Engineering: Fundamentals, Modelling and Reactions, Wiley-VCH, 2004 (cites LTF); LTF product catalog rev 2018; product page https://www.ltf-gmbh.com
 - **ip status**: patented
 - **prior art notes**: Discloses an off-the-shelf catalog of standardized borosilicate-glass microreactor chips (T-mixer, V-mixer, HEX with integrated heat exchanger, residence-time meanders) in two standard footprints — a 'commodity glass chip' supplier providing the substrates that other vendors (Future Chemistry, Chemtrix Labtrix, Syrris) integrate into their platforms. Anticipates patent claims to standardized-footprint glass microreactor chip families and to integrated-heat-exchanger glass microreactor plates ('HEX' variants).
+
+## Skelley 2005 microdevice for amino-acid biomarker detection and analysis on Mars (Mars Organic Analyzer) (2005-01-25)
+
+- **id**: `skelley-2005-mars-organic-analyzer-microdevice`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley (with NASA JPL, Scripps)
+- **disclosure**: Skelley, A. M.; Scherer, J. R.; Aubrey, A. D.; Grover, W. H.; Ivester, R. H. C.; Ehrenfreund, P.; Grunthaner, F. J.; Bada, J. L.; Mathies, R. A. Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 1041-1046. DOI: 10.1073/pnas.0406798102
+- **ip status**: public-domain
+- **prior art notes**: Discloses the Mars Organic Analyzer: a portable glass-microchip capillary-electrophoresis instrument that automatically derivatizes (fluorescamine), dilutes, and chirally separates amino acids with laser-induced-fluorescence detection at parts-per-trillion sensitivity, using monolithic pneumatic microvalves/pumps for sample handling, validated in the Atacama Desert as a Mars analog. Anticipates claims to: portable microchip-CE instruments for in-situ extraterrestrial organic/biomarker analysis; on-chip fluorogenic derivatization coupled to electrophoretic chiral separation; integration of membrane-valve fluid handling with CE-LIF in a field/space-deployable package; and amino-acid enantiomeric-ratio measurement as a biosignature on a chip. Foundational for the Mathies-lab planetary-instrument lineage and the ExoMars MOMA microfluidics. Related to mathies-quinn-2017-microchip-ce-mars-amino-acids (later automation work).
+
+## Janasek 2006 scaling and the design of miniaturized chemical-analysis systems (2006-07-27)
+
+- **id**: `janasek-manz-2006-scaling-miniaturized-analysis-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andreas Manz group, ISAS Dortmund
+- **disclosure**: Janasek, D.; Franzke, J.; Manz, A. Scaling and the design of miniaturized chemical-analysis systems. Nature 2006, 442, 374-380. DOI: 10.1038/nature05059
+- **ip status**: public-domain
+- **prior art notes**: The definitive scaling-laws treatment of miniaturized chemical analysis: it works through how separation resolution, mixing time, thermal transport, reaction kinetics and detection limits scale with channel dimensions, showing where miniaturization wins (faster diffusive mixing and equilibration, higher field strengths and efficiency in electrophoresis, lower thermal mass) and where it loses (mass-limited detection). As prior art it anticipates claims to: design methodologies that size microchannel features against target analytical performance via dimensional scaling; and the general principle that electrokinetic separation and diffusion-limited operations benefit from scale reduction. Companion to manz 1990 microTAS and stone-2004-engineering-flows-microfluidics. From the Manz group (ISAS Dortmund), originator of microTAS.
+
+## deMello 2006 control and detection of chemical reactions in microfluidic systems (2006-07-27)
+
+- **id**: `demello-2006-control-detection-chemical-reactions-microfluidic`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Andrew J. deMello group, Imperial College London
+- **disclosure**: deMello, A. J. Control and detection of chemical reactions in microfluidic systems. Nature 2006, 442, 394-402. DOI: 10.1038/nature05062
+- **ip status**: public-domain
+- **prior art notes**: The Nature-insight review of doing and watching chemistry in microfluidic systems: rapid passive/active mixing, tight thermal control, segmented-flow and droplet microreactors, residence-time control by channel length and flow rate, and the full menu of on-chip and chip-hyphenated detection (fluorescence, absorbance, electrochemistry, electrospray-MS, microcoil-NMR). As a unified prior-art statement it anticipates claims to: microreactor architectures for kinetic control via mixing/thermal/residence-time engineering; segmented-flow reactors with downstream-position-encoded reaction time; and integration of microfluidic reactors with named detection modalities. Companion to song-ismagilov-2003-plug-based-reaction-networks and stone-2004-engineering-flows-microfluidics.
 
 ## Corning Advanced-Flow Reactor G1 (2007)
 
@@ -224,6 +284,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chemtrix BV product launch, Labtrix Start (2008) and Labtrix S1 (2009); Hessel, V.; Cortese, B.; de Croon, M. H. J. M. 'Novel process windows — concept, proposition and evaluation methodology, and intensified superheated processing' Chem. Eng. Sci. 2011, 66, 1426–1448; Chemtrix Labtrix S1 datasheet 2009
 - **ip status**: patented
 - **prior art notes**: Discloses a clamped silicon-glass and all-glass microreactor chip platform with: (a) screw-clamped O-ring fluidic interface allowing rapid swapping of reaction-chip designs without re-plumbing; (b) integrated heated stage controlling chip temperature ±0.1 °C; (c) standardized footprint enabling library of chip designs (T-mixer, split-recombine, residence-time loop) all interchangeable; (d) chip-and-clamp architecture amenable to small-volume reaction screening prior to numbering-up via Plantrix sister product. Anticipates patent claims directed to interchangeable microreactor chip stages with clamped fluidic seals and integrated thermal control.
+
+## Du 2009 SlipChip (2009-06-25)
+
+- **id**: `du-ismagilov-2009-slipchip`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Du, W.; Li, L.; Nichols, K. P.; Ismagilov, R. F. SlipChip. Lab Chip 2009, 9, 2286-2292. DOI: 10.1039/b908978k
+- **ip status**: public-domain
+- **prior art notes**: Discloses the SlipChip: two plates bearing complementary patterns of wells and connecting ducts, separated by a lubricating fluid, where simple relative sliding re-routes which wells connect to which - thereby metering nanoliter aliquots, exposing reagents to one another, and initiating hundreds-to-thousands of reactions in parallel without any valves, pumps, or external control. Anticipates claims to: valveless/pumpless microfluidic metering and combinatorial fluid routing by relative translation of two patterned plates with an intervening immiscible lubricant; instrument-free multistep assay cartridges (PCR, immunoassay, crystallization screen) actuated by a slip motion; and digital nucleic-acid quantification by one-step partitioning of a sample into a well array. HIGH-PRIORITY anchor - the SlipChip underlies a family of instrument-light diagnostics and digital-assay products. Ismagilov plug/slip lineage (descends conceptually from song-ismagilov-2003-plug-based-reaction-networks).
 
 ## uFluidix microfluidic chip fabrication services (2014)
 

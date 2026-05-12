@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `pump-peristaltic-on-chip`
 
-**26 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1989
+Earliest disclosure: 1985
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Millipore Steritest / Sartorius Sterisart Closed Membrane-Filtration Sterility Funnel (1985)
+
+- **id**: `millipore-steritest-sterisart-membrane-filtration-funnel`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Merck Millipore / Sartorius
+- **disclosure**: Merck Millipore Steritest and Sartorius Sterisart sterility testing system manuals; USP <71> Sterility Tests / Ph. Eur. 2.6.1 membrane filtration method
+- **ip status**: patented
+- **prior art notes**: Discloses a closed pre-sterilized fluidic consumable: flexible-tubing-fed canisters each enclosing a membrane filter, through which product and rinse solutions are pumped and into which culture medium is then injected for incubation, all without breaching the fluid path. Anticipates: closed membrane-filtration consumables with integrated culture chambers; peristaltic-pumped pre-sterilized fluidic kits; the architecture of a contamination-controlled filtration-then-incubation cartridge. An explicitly fluidic pharmacopeial consumable in near-universal use for sterility testing.
 
 ## Silicon piezoelectric peristaltic micropump (Smits 1989) (1989)
 
@@ -25,6 +35,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed silicon piezoelectric peristaltic micropump with three actively-actuated valves working in sequence to peristaltically drive fluid. Architectural alternative to Van Lintel's check-valve diaphragm topology. Anticipates: peristaltic-on-silicon-MEMS pumping, sequential-actuation valve architecture, and the broader 'all-valves-pumped' (no passive check valves) topology subsequently demonstrated by Berg/Quake.
 
+## ICP-OES/MS microfluidic nebulizer and sample-introduction system (mining/metallurgy assay labs) (1992-06-23)
+
+- **id**: `icp-oes-ms-microfluidic-nebulizer-sample-introduction`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: nebulizer/sample-introduction makers (Meinhard/Elemental Scientific, Glass Expansion, CETAC/Teledyne, Burgener) for ICP instruments by Agilent, PerkinElmer, Thermo Fisher; used in mineral assay/geochemistry labs (ALS, SGS, Bureau Veritas)
+- **disclosure**: US5124127A Apparatus for the analysis of a sample by inductively coupled plasma (concentric/micro nebulizer for ICP); see also Browner & Boorn, Sample introduction: the Achilles heel of atomic spectroscopy?, Anal. Chem. 56, 786A (1984); Meinhard nebulizer literature.
+- **ip status**: patented
+- **prior art notes**: Discloses a microflow concentric/PFA nebulizer (fine sample capillary in an argon gas annulus) plus a droplet-selecting Scott/cyclonic spray chamber and optional desolvating membrane for generating a transport-efficient fine aerosol into an ICP. Anticipates claims to (a) microflow concentric nebulizer with sub-250-micron sample capillary for ICP sample introduction; (b) droplet-selecting double-pass/cyclonic spray chamber conditioning a nebulized aerosol; (c) membrane/heated desolvating accessory upstream of an ICP torch; (d) low-uptake PFA microflow nebulizer for difficult matrices. Prior art for Meinhard/Elemental Scientific, Glass Expansion, CETAC nebulizer patents; extends the wave-4 jet-fuel ICP-OES inlet lineage to mining assay.
+
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 
 - **id**: `unger-2000-quake-monolithic-membrane-valve`
@@ -34,6 +54,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unger, M. A.; Chou, H.-P.; Thorsen, T.; Scherer, A.; Quake, S. R. Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 2000, 288, 113–116. DOI: 10.1126/science.288.5463.113
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of pneumatically actuated elastomeric membrane valves built monolithically into a multilayer PDMS chip. By cyclically actuating three valves in series, a peristaltic pump is realized. This is the architectural ancestor of essentially every subsequent on-chip pneumatic valve and pump. Anticipates: pneumatic membrane valve (control channel + thin membrane + flow channel), peristaltic pumping by sequential valve actuation, large-scale integrated chip-scale fluidic circuits. Subsequent papers (Nordin 2017, Sanchez Noriega 2021) re-implement the same architecture in 3D-printed photopolymer.
+
+## Research International RAPTOR portable fluidic immunoassay analyzer (2000-09-12)
+
+- **id**: `research-international-raptor-fluidic-immunoassay-analyzer`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Research International, Inc. (technology lineage from the Naval Research Laboratory fiber-optic biosensor program)
+- **disclosure**: US6118126A Method for enhancing fluorescence (Research International, evanescent-wave fiber-optic biosensor); see also Anderson et al., A fiber-optic biosensor: combination tapered fibers designed for improved signal acquisition, Biosens. Bioelectron. 8, 249 (1993); RAPTOR product disclosures circa 2000-2003.
+- **ip status**: patented
+- **prior art notes**: Discloses a disposable microfluidic immunoassay coupon with integrated pump, valves and reagent storage running an automated multiplexed sandwich fluoroimmunoassay over antibody-coated fiber waveguides with evanescent-wave readout. Anticipates claims to (a) disposable fluidic coupon with on-board pump/valves for an automated sandwich immunoassay; (b) multi-fiber evanescent-wave fluoroimmunoassay biosensor for biothreats; (c) reusable-analyzer-plus-single-use-cartridge architecture for field immunoassay; (d) on-coupon reagent blister and waste containment for a portable assay. Prior art for Research International, MesoScale, and competing portable-immunoassay-cartridge patents; orthogonal-confirmation partner to UV-LIF bioaerosol triggers.
+
+## Liu 2002 nanoliter rotary device for polymerase chain reaction (2002-06-01)
+
+- **id**: `liu-quake-2002-nanoliter-rotary-pcr-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Liu, J.; Enzelberger, M.; Quake, S. A nanoliter rotary device for polymerase chain reaction. Electrophoresis 2002, 23, 1531-1536. DOI: 10.1002/1522-2683(200205)23:10<1531::AID-ELPS1531>3.0.CO;2-D
+- **ip status**: public-domain
+- **prior art notes**: Discloses the rotary PCR architecture: a closed-loop nanoliter channel in PDMS with three integrated peristaltic Quake (MLSI) micropumps that convect the reaction mixture around a circuit passing three fixed-temperature zones - thermal cycling in the spatial domain at constant heater temperatures, avoiding the thermal mass and ramp limits of cycling the whole chip. Anticipates claims to: continuous-flow PCR in a recirculating loop driven by an on-chip pump; spatial-domain thermal cycling by transporting reagent past stationary heaters; integration of a closed-loop reactor with monolithic pneumatic peristaltic pumping; and nanoliter-scale recirculating reaction networks generally. Foundational for later continuous-flow / recirculating-loop PCR chips and droplet-recirculation reactors. Quake-lab MLSI lineage (unger-2000-quake-monolithic-membrane-valve).
 
 ## Beckman Vi-CELL XR Cell Viability Trypan Blue Cuvette (2003)
 
@@ -55,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The ESP is the canonical autonomous oceanographic microfluidic robotic sampler. Element-by-element prior art for: (a) automated puck-carousel architecture with integrated filtration + lysis + sandwich-hybridization assay + chemiluminescent readout in a long-deployment marine-robotic platform; (b) feedback-controlled adaptive sampling where the on-board assay result triggers subsequent sample collection (LRAUV+ESP plume tracking); (c) integration of ddPCR into a marine autonomous vehicle (3G ESP), which anticipates patents on autonomous in-situ qPCR/ddPCR cartridges for environmental monitoring; (d) the sealed puck format with pre-loaded dry/wet reagents stored at ocean depth for months anticipates patents on long-storage diagnostic cartridges in extreme environments. ESP is also the closest terrestrial analog to a planetary in-situ life detection cartridge.
 
+## Hong and Quake 2003 integrated nanoliter systems (2003-10-01)
+
+- **id**: `hong-quake-2003-integrated-nanoliter-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hong, J. W.; Quake, S. R. Integrated nanoliter systems. Nat. Biotechnol. 2003, 21, 1179-1183. DOI: 10.1038/nbt871
+- **ip status**: public-domain
+- **prior art notes**: The canonical mid-period statement of microfluidic large-scale integration: assembling thousands of monolithic-membrane valves into multiplexers, peristaltic pumps, rotary mixers, on-chip columns and addressable chamber arrays for nanoliter-scale biochemistry and genomics. Discloses (in a unified review form) the multiplexer scheme that addresses N independent fluidic lines with order log2(N) control inputs, the integration of metering/mixing/incubation/separation modules on a single PDMS chip, and the architecture later commercialized as the Fluidigm dynamic-array / Stanford Microfluidics Foundry platform (cf. fluidigm-patent-family-biomark-dynamic-array, quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates claims to: combinatorial multiplexer addressing of valve arrays; integrated nanoliter reaction-array chips; and chip-scale automation of multi-step biochemical workflows.
+
 ## A nanoliter-scale nucleic acid processor with parallel architecture (Hong, Studer, Hang, Anderson, Quake, 2004) (2004-03-21)
 
 - **id**: `hong-studer-quake-2004-nanoliter-nucleic-acid-processor`
@@ -75,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a flow-through electroporation chamber: cells in suspension are pumped between parallel planar electrodes spaced for uniform field; pulse generator delivers shaped electric pulses to volumes of cells transiting the chamber; cargo (DNA/RNA/protein) is co-suspended; output collected sterile downstream. Anticipates: continuous-flow electroporation as alternative to cuvette-batch (Lonza Nucleofector predecessor architecture); use of disposable single-use chamber decoupled from reusable instrument body; protocol-library transfer between research-scale (STX) and GMP-scale (GTx) processing assemblies. Element-by-element: peristaltic infeed + parallel-plate disposable chamber + pulse forming network + sterile collection bag.
 
+## Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation (2007-06-01)
+
+- **id**: `melin-quake-2007-microfluidic-large-scale-integration-design-rules`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Stanford
+- **disclosure**: Melin, J.; Quake, S. R. Microfluidic large-scale integration: the evolution of design rules for biological automation. Annu. Rev. Biophys. Biomol. Struct. 2007, 36, 213-231. DOI: 10.1146/annurev.biophys.36.040306.132646
+- **ip status**: public-domain
+- **prior art notes**: The review that explicitly frames microfluidic large-scale integration as having design rules analogous to VLSI: minimum valve dimensions, multiplexer fan-out limits, channel-rounding requirements, push-up vs push-down valve choices, manifold pressure budgets, and the composition rules for assembling valves into pumps, mixers, rotary reactors, micro-columns, addressable chamber arrays, cell traps and MITOMI button cells. As a unified prior-art statement it anticipates claims to: parametric/rule-based design methodologies for elastomeric valve arrays; the standard MLSI primitive library; and software-assisted layout of multilayer soft-lithography chips. Core reference document for the Stanford Microfluidics Foundry (companion to hong-quake-2003-integrated-nanoliter-systems and studer-2004-low-actuation-pressure-microfluidic-valve).
+
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
 - **id**: `siemens-rapidpoint-500-blood-gas-cartridge`
@@ -84,6 +144,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Siemens RAPIDPoint 500 510(k) K080776 cleared 2008; product datasheet 2008-09; predecessor RAPIDLab 1265 patents (Bayer Diagnostics)
 - **ip status**: patented
 - **prior art notes**: Discloses an all-in-one POC blood gas cartridge integrating: thick-film potentiometric ISE array (pH, pCO2, pNa, pK, pCa, pCl), amperometric pO2 + glucose + lactate enzyme electrodes, and a multi-wavelength CO-oximetry cuvette for total Hb fractionation, all sharing a peristaltic-pump-driven flow path; reagent/calibrant/wash bags integrated into the cartridge body and pierced by mechanical actuators inside the analyzer; auto-calibration runs between samples without user intervention; cartridge-resident sample volume <100 µL. Anticipates: long-life POC blood-gas cartridges with on-board reagent storage and integrated CO-oximetry — the architectural pattern dominating ICU/ER/OR analyzers. Differs from Werfen GEM Premier (separate entry) in cartridge design (Siemens' 'measurement cartridge' separates sensors from reagents).
+
+## FOSS MilkoScan FT3 / CombiScan FT-IR Flow-Cell Milk Analyzer (2008)
+
+- **id**: `foss-milkoscan-ftir-flow-cell`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: FOSS Analytical A/S
+- **disclosure**: FOSS Analytical A/S MilkoScan FT3 / CombiScan datasheets and manuals; IDF/ISO FT-IR milk analysis reference methods
+- **ip status**: patented
+- **prior art notes**: Discloses a thin-path CaF2-windowed mid-IR transmission flow cell fed by an integrated homogenizer and pump for rapid composition analysis of an opaque emulsion, with automatic rinse and thermostatting. Anticipates: sub-50-micron-path IR flow cells for turbid samples; integrated homogenizer-then-flow-cell architectures; FT-IR flow-cell food/beverage analyzers. Same FOSS FT-IR flow-cell lineage as the WineScan and BeerScan analyzers.
 
 ## Radiometer ABL90 FLEX Blood Gas Analyzer Sensor Cassette (2009)
 
@@ -114,6 +184,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Biosafe SA SmartMax product literature ~2010; Biosafe acquired by GE Healthcare 2014, now Cytiva; product literature 2014-2023
 - **ip status**: patented
 - **prior art notes**: Discloses a closed-system fill apparatus that transfers a cell-therapy product from a Sepax-class processing bag into a small-volume cryobag with controlled cryoprotectant addition; integrated with downstream controlled-rate freezing. Anticipates: closed-train cryopreservation fill workflow for autologous cell therapy where cryoprotectant is mixed at controlled rate during fill (managing osmotic shock to cells). Element-by-element: input cell-product bag + cryoprotectant reservoir + peristaltic mixing junction + small-volume cryobag + sterile weld interfaces.
+
+## Agilent 708-DS / 280-DS Dissolution Apparatus with Online UV Flow Cell (2010)
+
+- **id**: `agilent-708-ds-dissolution-apparatus`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Agilent Technologies
+- **disclosure**: Agilent Technologies 708-DS Dissolution Apparatus and 280-DS automated sampling station datasheets; USP <711> Dissolution, Apparatus 1 (basket) and 2 (paddle) with online UV flow-cell detection
+- **ip status**: patented
+- **prior art notes**: Discloses an automated dissolution sampling station that withdraws metered timepoint aliquots through inline cannula filters and routes them through a short-pathlength quartz flow cell for online UV absorbance. Anticipates: short-pathlength flow-through optical cells for dissolution readback; automated timepoint metering with inline filtration; the architecture of a sampling-station + flow-cell dissolution analyzer. Companion to sotax-ce7smart-flow-through-dissolution-cell (Apparatus 4) and pion-rainbow-insitu-dissolution-fiber-optic (in-situ).
+
+## Malvern Panalytical Mastersizer 3000 Hydro Wet Dispersion Cell (2011)
+
+- **id**: `malvern-mastersizer-3000-wet-dispersion-cell`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Malvern Panalytical
+- **disclosure**: Malvern Instruments (Malvern Panalytical) Mastersizer 3000 with Hydro dispersion units brochure and user manual (2011)
+- **ip status**: patented
+- **prior art notes**: Discloses a recirculating fluidic loop that carries a particle suspension through a windowed optical measurement cell for laser-diffraction sizing, with integrated pump, stirrer, sonicator and a small-volume stirred micro-cuvette option. Anticipates: flow-through optical sizing cells with a defined short optical path; small-volume recirculating dispersion loops for scarce samples. The wet-dispersion cell is a genuine fluidic subsystem (windowed flow cell + recirculation).
 
 ## Pearce Lab MOST Open Scientific Hardware Suite (2012)
 

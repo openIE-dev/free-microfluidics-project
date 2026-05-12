@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `pump-stepper-volumetric`
 
-**95 corpus entries disclose this subsystem.**
+**109 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1864
 
@@ -175,6 +175,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Lazaroid treatment described as a series of cellular-rejuvenation infusions delivered over weeks, restoring telomeres, reversing cellular damage, and providing 'gerontology' care. Adamist clinics offer different tier qualities. Defensive prior art for tiered longevity-treatment service offerings and multi-week cellular-rejuvenation infusion protocols.
 
+## Froth flotation reagent (collector/frother/depressant) point-of-addition microdosing system (1996-04-30)
+
+- **id**: `froth-flotation-reagent-microdosing-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: mineral-processing equipment vendors (Metso Outotec, FLSmidth, Eriez) and reagent/dosing-system suppliers (ProMinent, Watson-Marlow, Grundfos metering pumps; reagents from Solvay, Clariant, Nasaco, Cytec/Solvay)
+- **disclosure**: US5511669A Method and apparatus for the flotation of minerals (reagent-addition control); mineral-processing texts e.g. Wills & Finch, Wills Mineral Processing Technology, 8th ed., Elsevier 2016 (flotation reagents and conditioning); equipment from Metso Outotec, FLSmidth, ProMinent/Watson-Marlow metering pumps.
+- **ip status**: patented
+- **prior art notes**: Discloses positive-displacement microdosing of flotation reagents at staged addition points with inline dilution, micromixing, and closed-loop assay/froth-image feedback control. Anticipates claims to (a) staged point-of-addition reagent microdosing along a flotation bank; (b) closed-loop flotation-reagent dose control from online XRF/froth-image feedback; (c) inline dilution-and-micromixing of dilute collector/frother into mineral slurry. Prior art for Metso Outotec, FLSmidth, Eriez and reagent-supplier flotation-dosing patents.
+
 ## Final Fantasy VII Jenova cells injection (Hojo's lab) (1997)
 
 - **id**: `ff7-jenova-cells-injection`
@@ -205,6 +215,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Sisters Hospitaller depicted as field-deployed medical specialists carrying chirurgeon kits with cartridge reagent supply, relic-vial sacred reagent dispensers, and a forearm-integrated injection system. Anticipates: religious-traditional combined-modality field medical kits combining standard reagents with relic-supply sacred reagents; forearm-integrated reagent dispensers with multi-vial selection; useful prior art for 'arm-mounted multi-vial-selectable medical injection system' claims.
 
+## Bosch common-rail diesel fuel injector (CRI / CRIN) (1997-12-09)
+
+- **id**: `bosch-common-rail-diesel-injector`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (also Denso, Delphi/BorgWarner, Continental/Vitesco common-rail systems)
+- **disclosure**: US5697554A Metering valve for metering a fluid (Robert Bosch GmbH, common-rail injector control valve); see also Stumpp & Ricco, Common rail - an attractive fuel injection system for passenger car DI diesel engines, SAE 960870 (1996).
+- **ip status**: patented
+- **prior art notes**: Discloses a high-pressure microfluidic metering injector: hydraulic-servo needle control via a calibrated control-chamber leak orifice plus a multi-hole micro-orifice spray tip, delivering sub-microliter-to-microliter diesel doses in programmable multi-injection sequences. Anticipates claims to (a) servo-controlled needle lift by metered control-chamber depressurization; (b) multi-hole hydro-eroded micro-orifice diesel nozzle; (c) multi-event micro-injection scheduling; (d) piezo-actuated common-rail injector with hydraulic coupler. Foundational prior art for common-rail injector patents (Bosch, Denso, Delphi, Continental).
+
 ## Warhammer 40K Death Korps of Krieg cloning vats (1998)
 
 - **id**: `warhammer-40k-krieg-cloning-vats`
@@ -214,6 +234,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Warhammer 40K Codex: Imperial Guard (Games Workshop 1998); Forge World Imperial Armour Vol 5 'The Siege of Vraks' (Forge World 2007); Black Library Dead Men Walking (Steve Lyons 2010) ISBN 978-1-84416-731-4.
 - **ip status**: fictional
 - **prior art notes**: Krieg cloning vats depicted as industrial-scale facilities maintaining hundreds of thousands of subjects in synchronized maturation tanks, with combined acceleration reagents and indoctrination-fluid neural conditioning. Forge World cross-sections show factory-line vat banks. Anticipates: factory-line synchronized maturation chambers with shared reagent supply; combined cellular-acceleration and neural-conditioning fluid pipelines; useful prior art for 'factory-line synchronized maturation chambers with combined cellular-acceleration and neural-conditioning fluid pipelines' claims.
+
+## Tokyo Electron CLEAN TRACK photoresist dispense nozzle and pump module (1998-11-10)
+
+- **id**: `tel-clean-track-resist-dispense-nozzle`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Tokyo Electron Limited (also SCREEN SOKUDO, Lam Research / SEZ track systems); dispense pumps by CKD, Saint-Gobain Furon, Entegris IntelliGen / NT International
+- **disclosure**: US5985039A Apparatus and method for coating substrate with film of liquid (Tokyo Electron); see also US6471782B1 resist coating apparatus and method.
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic dispense head: positive-displacement resist pump with sub-microliter repeatability, suck-back anti-drip nozzle, inline degas/filter, and programmed dispense profiling onto a spinning substrate. Anticipates claims to (a) anti-drip suck-back nozzle for photochemical dispense; (b) closed-loop volumetric verification of a sub-microliter dispense; (c) point-of-use degassing of a viscous resist immediately before the dispense orifice. Prior art for Entegris IntelliGen / NT International pump patents and for any low-consumption resist dispense claim.
 
 ## The Matrix human battery pod fluid-immersion + Tetris IV feed (1999)
 
@@ -235,6 +265,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Vinge describes Qeng Ho coldsleep coffins in unusual engineering detail: continuous low-temperature life-support cycles, periodic thaw-and-cycle protocols, microbial monitoring, and crew rotation handled at the coffin level. Architecturally anticipates: long-duration coldsleep life-support with active periodic perfusion, distributed coldsleep-array control systems, and thaw-and-cycle pharmacological management. Defensive prior art for cryopreservation-with-active-perfusion systems.
 
+## Chemical-mechanical planarization slurry point-of-use blending and delivery system (1999-06-08)
+
+- **id**: `cmp-slurry-point-of-use-blending-system`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Cabot Microelectronics (CMC Materials), DuPont Electronics, Fujimi Inc., Versum/Air Liquide; slurry delivery hardware by CT Associates, Entegris, Mega Fluid Systems
+- **disclosure**: US5950675A Means and apparatus for chemical mechanical polishing slurry distribution; see also US6280300B1 point-of-use blending of CMP slurry.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic blending and metering train that combines a nanoparticle abrasive concentrate with DI water and reactive additives in-line at the polishing tool, with closed-loop conductivity/density control and large-particle gating. Anticipates claims to (a) on-tool dilution of CMP slurry concentrate by inline static micromixer with ratio control; (b) low-shear positive-displacement metering of colloidal abrasive to prevent agglomeration; (c) inline particle-count interlock that diverts slurry exceeding a large-particle threshold. Prior art for slurry-delivery-module patents asserted by Entegris, Mega Fluid Systems, CT Associates.
+
+## Bosch HDEV gasoline direct-injection fuel injector (1999-06-22)
+
+- **id**: `bosch-hdev-gdi-fuel-injector`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (also Continental/Vitesco XL3, Denso, Delphi/BorgWarner DI injectors)
+- **disclosure**: US5915626A Fuel injector (Robert Bosch GmbH); see also US6357676B1 (Bosch) fuel injection valve and the GDI overview in Zhao, Lai & Harrington, Automotive spark-ignited direct-injection gasoline engines, Prog. Energy Combust. Sci. 25, 437 (1999).
+- **ip status**: patented
+- **prior art notes**: Discloses a precision microfluidic metering device: an actuated needle valve and a multi-hole micro-orifice nozzle plate delivering microliter-resolution, sub-millisecond fuel doses at high pressure with shaped atomized sprays. Anticipates claims to (a) multi-hole micro-orifice spray plate for direct-injection fuel atomization; (b) multi-pulse micro-injection scheduling per combustion cycle; (c) laser/EDM-drilled stepped-orifice geometry for spray-pattern control; (d) piezo-actuated needle for linear micro-dose metering. Foundational prior art for GDI/common-rail injector patents (Bosch, Continental, Denso, Delphi).
+
 ## Halo SPARTAN-II augmentation procedure (Project ORION-derived) (2001)
 
 - **id**: `halo-spartan-ii-augmentation-procedure`
@@ -245,6 +295,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Detailed multi-stage biological augmentation pipeline: candidates undergo coordinated injections of carbide-ceramic ossification compound (skeletal infusion), muscular-density growth catalysts, occipital-capillary reversal protein, superconducting fibrification of neural dendrites, and catalytic thyroid implants. The text describes a sequence of fluid-handling subsystems (perfusion, multi-bolus controlled injection, post-op recovery tanks). Architecturally anticipates a programmable multi-reagent timed-injection regimen administered through a single integrated patient-bed pumping system; couples diagnostic monitoring with sequenced infusion. The ~3:1 mortality figure (33 of 75 candidates surviving) makes the Project ORION protocol one of the most detailed fictional descriptions of an automated multi-channel infusion bed. Defensive prior art for: programmed multi-channel infusion stations, integrated patient-bed perfusion + monitoring loops, and time-resolved augmentation drug regimens.
 
+## Copper-interconnect electroplating bath chemistry point-of-use dosing system (2001-03-27)
+
+- **id**: `copper-electroplating-bath-point-of-use-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Lam Research (Novellus SABRE), Applied Materials (Raider/Slim Cell), ASMPT/Semsysco; bath chemistry by DuPont (MacDermot/Enthone), Atotech (MKS), Dow
+- **disclosure**: US6207049B1 / US6258220B1 Electro-chemical deposition system and method of electroplating on substrates (Novellus / Lam); accelerator/suppressor dosing per Andricacos et al., Damascene copper electroplating for chip interconnections, IBM J. Res. Dev. 1998.
+- **ip status**: patented
+- **prior art notes**: Discloses a point-of-use microfluidic chemistry-management module for damascene copper plating: metering-pump dosing of microliter additive shots with CVS-feedback replenishment, inline micromixing, and microchannel flow conditioning. Anticipates claims to (a) closed-loop organic-additive replenishment of an electroplating bath by voltammetric feedback; (b) point-of-use blending of accelerator/suppressor/leveler immediately upstream of a plating cell; (c) microchannel diffuser conditioning of cross-wafer flow uniformity. Prior art for Atotech/MKS, DuPont and tool-OEM plating-chemistry-control patents.
+
 ## Firefly Niska's Skyplex interrogation/med table (2002)
 
 - **id**: `firefly-niska-skyplex-medtable`
@@ -254,6 +314,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Firefly 'War Stories' (Fox, 2002).
 - **ip status**: fictional
 - **prior art notes**: Adelai Niska's torture/medical table is depicted with fluid-handling for resuscitation between interrogation sessions. Defensive prior art for combined trauma-induction-and-resuscitation patient stations and continuous-resuscitation perfusion systems.
+
+## Single-wafer wet-clean chemistry delivery and megasonic nozzle (SCREEN FREXION / TEL CELLESTA class) (2002-09-19)
+
+- **id**: `screen-frexion-tel-cellesta-single-wafer-clean`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: SCREEN Semiconductor Solutions (SCREEN FREXION/SU-3200), Tokyo Electron (CELLESTA), Lam Research (DV-Prime/EOS), SEMES
+- **disclosure**: US20020134408A1 / US6488037B1 Programmable based dilute chemistry process and apparatus (SCREEN/DNS, point-of-use dilution single-wafer cleaning); see also Kern, The Evolution of Silicon Wafer Cleaning Technology, J. Electrochem. Soc. 1990.
+- **ip status**: patented
+- **prior art notes**: Discloses on-tool microfluidic blending of concentrated cleaning chemicals with hot DI water to make dilute SC-1/SC-2/HF at the point of use, dispensed through scanning or megasonic nozzles onto a spinning wafer. Anticipates claims to (a) point-of-use dilution blending of semiconductor cleaning chemistry with closed-loop concentration control; (b) megasonic energy delivered through a controlled sub-millimeter fluid film/nozzle gap; (c) single-wafer sequential-chemistry processing by programmed microfluidic dispense. Prior art for SCREEN, TEL, Lam and SEMES single-wafer-clean chemistry-module patents.
 
 ## Abbott Cell-Dyn Sapphire Hematology Optical/Impedance Flow Cell (2003)
 
@@ -324,6 +394,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Naoki Urasawa, Pluto (Shogakukan 2003-2009) ISBN 978-1-4215-1918-0 (English Volume 1); Pluto anime (Studio M2 / Netflix 2023-10-26).
 - **ip status**: fictional
 - **prior art notes**: Pluto depicts robot body restoration in a fluid-filled chamber: cooled polymer bath, multi-channel reagent supply, memory-stack preservation throughout. Anticipates: robot/synthetic body restoration in fluid-filled chambers with polymer-substrate cooling and integrated memory-preservation; useful prior art for 'synthetic-body restoration chamber with cooled polymer bath and memory-stack preservation' claims.
+
+## Bosch Denoxtronic urea/DEF (AdBlue) SCR dosing system (2004-05-20)
+
+- **id**: `bosch-denoxtronic-urea-scr-dosing`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: Robert Bosch GmbH (Denoxtronic); also Continental/Vitesco, Cummins, Albonair, Tenneco DEF dosing systems
+- **disclosure**: US20040093856A1 / US6928807B2 Method and device for the metered introduction of a reducing agent into an exhaust gas (Robert Bosch GmbH); Denoxtronic technical disclosures circa 2004-2006.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic dosing system: pump pressurization, metering valve, and multi-hole/air-assisted micro-orifice injector delivering microliter urea micro-doses into exhaust gas under NOx-feedback control, with line heating and purge-back. Anticipates claims to (a) closed-loop NOx-proportional urea micro-dosing for SCR; (b) air-assisted micro-orifice urea atomizer; (c) freeze-protection purge-back of a DEF dosing line; (d) urea-quality-sensor-corrected reductant metering. Prior art for Bosch, Continental, Cummins, Albonair DEF-dosing patents.
 
 ## Ghost in the Shell SAC: Solid State Society medical fluidics (2006)
 
@@ -505,6 +585,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Depicts a small-crew vessel medbay as an integrated patient bed with overhead reagent reservoirs, IV manifolds, automated injection ports, and continuous biometric monitoring closing dose decisions in software. The Naomi decompression-recovery scene specifically shows oxygenated-saline perfusion delivered automatically. Anticipates: self-contained shipboard auto-doc bays with reservoir + manifold + closed-loop biometric dose control; modular reagent cartridges that snap into a manifold; software-titrated continuous infusion driven by physiological sensors. Useful prior art for any 'reagent-cartridge driven autonomous medical bed' patent claim.
 
+## Lithium-ion battery cell electrolyte filling and wetting station (2011-06-30)
+
+- **id**: `ev-battery-electrolyte-filling-station`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: battery-cell makers (Tesla/Panasonic, CATL, LG Energy Solution, SK On, Samsung SDI) and equipment OEMs (Manz, Dürr Megtec, Wuxi Lead, Hirano Tecseed, Schuler/AIDA)
+- **disclosure**: US20110162202A1 / DE102009060800A1 Method and device for filling electrochemical cells (battery cell electrolyte filling under vacuum); see also Knoche, Surm & Reinhart, A process model for the electrolyte filling of lithium-ion batteries, Procedia CIRP 2016.
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic-dosing process: positive-displacement metering of a volatile electrolyte through a fine fill port into an evacuated cell, with vacuum/pressure-cycle wetting and closed-loop dose/seal verification. Anticipates claims to (a) vacuum-assisted metered electrolyte injection into a sealed cell; (b) pressure-cycle wetting protocol for a porous electrode stack; (c) gravimetric closed-loop dose verification with under/overfill rejection; (d) inert-environment fine-needle electrolyte fill of a pouch/prismatic cell. Prior art for cell-maker and equipment-OEM electrolyte-filling patents.
+
 ## Hologic Panther / Panther Fusion Multiplex PCR Cartridge System (2012)
 
 - **id**: `hologic-panther-fusion-cartridge`
@@ -645,6 +735,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Discloses industrial robotic compounder that fills personalized topical formulations from a base reservoir bank via quiz-driven recipe generation. Anticipates DTC personalized cosmetic compounding workflow with quiz-to-formula recipe generation claims.
 
+## Perfect Day Precision-Fermentation Animal-Free Whey Protein Bioprocess (2015)
+
+- **id**: `perfect-day-precision-fermentation-dairy-protein`
+- **corpus**: private
+- **device class**: other
+- **creator**: Perfect Day Inc.
+- **disclosure**: Perfect Day Inc. (Berkeley, California) precision-fermentation whey-protein process disclosures and patents on producing milk proteins in microbial culture
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial precision-fermentation bioprocess whose control depends on microliter-resolution feed/titrant dosing skids, inline microsampling, and at-line microfluidic analytics feeding a model-based controller. Anticipates: precision micro-dosing and microanalytics in food-protein fermentation; closed-loop fermentation control via at-line microfluidic product-quality measurement. General ag/food precision-fermentation prior-art anchor; companions: The EVERY Company (egg protein), Motif FoodWorks, Nature Fynd.
+
 ## Beckman Biomek i5 / i7 automated workstation (2016)
 
 - **id**: `beckman-biomek-iseries`
@@ -755,6 +855,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses countertop multi-cartridge personalized cosmetic dispenser with daily-updated dose recipe from app context. Anticipates daily-adaptive cartridge-based cosmetic dispenser with weather/sleep contextual dosing claims.
 
+## Givaudan / Firmenich Precision Fragrance-Ingredient Microdosing & Robotic Blending (2017)
+
+- **id**: `givaudan-precision-fragrance-microdosing`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Givaudan
+- **disclosure**: Givaudan Carto digital-perfumery platform disclosures; fragrance-house automated microdosing patents (Givaudan, Firmenich, IFF, Symrise)
+- **ip status**: patented
+- **prior art notes**: Discloses robotic arrays of precision positive-displacement and acoustic micro-dosers that dispense microliter/nanoliter aliquots of many fragrance ingredients into formulation vessels under AI/digital-formula control with per-dose gravimetric feedback. Anticipates: automated multi-reservoir micro-dosing for formulation chemistry; AI-directed precision liquid handling of viscous/volatile ingredients; the architecture of a digital-perfumery compounding robot. Adjacent prior art to laboratory liquid-handling and to cosmetic compounding dispensers.
+
 ## Heska Element HT5 Veterinary Hematology Image Cytometry Analyzer (2018)
 
 - **id**: `heska-element-ht5-veterinary-imaging`
@@ -764,6 +874,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Heska Element HT5 launch 2018-09; product datasheet; companion Heska 510(k) K200147
 - **ip status**: patented
 - **prior art notes**: Discloses an in-clinic veterinary hematology analyzer using image cytometry (vs flow cytometry) for the WBC differential: stained WBCs flow through a microfluidic imaging channel under high-magnification CCD imaging, and convolutional-neural-network (CNN)-based image classification produces 5-part diff plus reticulocyte count (since 2019 software updates). Distinguishes from IDEXX ProCyte Dx (Sysmex-licensed flow cytometry), Sysmex XN, Beckman DxH, and Mindray BC-6800 (all flow cytometry-based) by retaining actual cell images for veterinarian review — important in veterinary clinical pathology where edge cases (mast cell tumor mast cells in peripheral blood, exotic species hematology) benefit from image evidence. Anticipates: image-cytometry hematology as an alternative to flow cytometry; CNN-based image classification embedded in a clinical analyzer; the architectural choice of single-cuvette image + impedance hybrid (vs separate multi-channel architecture).
+
+## Shiseido Optune AI-Personalized Skincare Cartridge Dispenser (2018)
+
+- **id**: `shiseido-optune-personalized-skincare-cartridge`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: Shiseido
+- **disclosure**: Shiseido Company Optune service launch press materials (2018-2019); Shiseido IoT skincare-dispenser patents
+- **ip status**: patented
+- **prior art notes**: Discloses a countertop multi-cartridge fluid dispenser with per-cartridge micro-metering pumps that blend a personalized cosmetic dose on demand under cloud/AI control informed by skin imaging and environmental data. Anticipates: point-of-use multi-stream cosmetic blending dispensers; cloud-directed micro-dosing recipes; the architecture of a consumer fluidic compounding appliance. Companion to LOreal Perso and D.O.S.E. cosmetic-personalization prior art.
+
+## LOreal SkinCeuticals Custom D.O.S.E Bespoke Serum Compounding System (2018)
+
+- **id**: `loreal-skinceuticals-custom-dose`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: LOreal (SkinCeuticals / Modiface)
+- **disclosure**: LOreal / SkinCeuticals Custom D.O.S.E launch materials (2018); LOreal in-store cosmetic-compounding device patents
+- **ip status**: patented
+- **prior art notes**: Discloses a benchtop fluidic compounding station that meters multiple cosmetic active and base liquids from identified cartridges, mixes them, and dispenses a single finished personalized bottle under metering feedback. Anticipates: in-store/in-clinic precision cosmetic compounding appliances; cartridge-fed metered blending with per-dose volume verification; the architecture of a point-of-sale fluidic formulation device. Companion to loreal-perso-skincare and shiseido-optune-personalized-skincare-cartridge.
 
 ## L Oreal Perso / Custom D.O.S.E. personalized skincare dispenser (2020)
 
@@ -794,6 +924,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Redefine Meat product launch September 2020.
 - **ip status**: patented
 - **prior art notes**: Discloses triple-extruder 3D printer co-depositing protein gel, lipid, and connective phases to mimic muscle anisotropy in plant-based meat alternatives. Anticipates triple-extruder co-deposition plant-protein meat printer with anisotropic fiber structuring claims.
+
+## Yves Saint Laurent Rouge Sur Mesure (Perso) AI Custom Lipstick Device (2020)
+
+- **id**: `ysl-rouge-sur-mesure-lipstick-device`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: LOreal (Yves Saint Laurent Beaute)
+- **disclosure**: Yves Saint Laurent Beaute / LOreal Rouge Sur Mesure launch press materials (CES 2020, retail 2021); LOreal Perso device patents
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld battery-powered device that meters and blends multiple viscous cosmetic pigment pastes from replaceable cartridges into a single custom-shade dose under app/AI control. Anticipates: handheld multi-cartridge viscous-fluid blending dispensers; color-recipe-driven micro-metering of pigment pastes; consumer fluidic mixing appliances for cosmetics. Sibling device to the Perso skincare module (loreal-perso-skincare) and conceptually adjacent to pg-opte-precision-skincare-wand.
 
 ## OpenFlexure Pump (Stirling et al. 2020) (2020-06)
 

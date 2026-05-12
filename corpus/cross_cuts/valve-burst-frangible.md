@@ -6,14 +6,24 @@ layout: default
 
 # Cross-cut: `valve-burst-frangible`
 
-**32 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1999-01-28
+Earliest disclosure: 1973-04-17
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Crushable-ampoule colorimetric presumptive drug-test pouch (NIK Public Safety / Sirchie NARK II / NARK 20) (1973-04-17)
+
+- **id**: `nik-sirchie-crushable-ampoule-drug-test-pouch`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: NIK Public Safety (formerly Becton Dickinson NIK), Sirchie Finger Print Laboratories, ODV, MMC International
+- **disclosure**: US3728080A Disposable apparatus for analyzing a fluid sample (multiple-reagent crushable-ampoule field test, early 1970s); NIK Public Safety / Becton Dickinson field-test-kit literature; see also UNODC Recommended Methods for the Identification and Analysis of Controlled Substances.
+- **ip status**: patented
+- **prior art notes**: Discloses a sealed pouch with frangible reagent ampoules released in sequence by manual crush to mix with a sample and develop a colorimetric presumptive result - a sequential micro-reagent-release reaction-vessel device. Anticipates claims to (a) crushable-ampoule colorimetric field test pouch with sequential reagent release; (b) reagent isolation in frangible ampoules within a leak-proof analysis pouch; (c) color-and-sequence-keyed presumptive identification of controlled substances; (d) instrument-free field reagent test with operator-protected corrosive reagents. Foundational prior art for NIK, Sirchie, ODV and competing crushable-ampoule field-test patents; also relevant to colorimetric water/explosive field-test pouches.
 
 ## MicroCHIPS / Microchips Biotech Implantable Drug Reservoir Array (1999-01-28)
 
@@ -24,6 +34,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Santini JT, Cima MJ, Langer R Nature 397:335-338 1999 doi:10.1038/16898; first-in-human Farra R et al. Sci Transl Med 4(122):122ra21 2012 doi:10.1126/scitranslmed.3003276
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of an implantable drug-reservoir microchip: silicon substrate with micromachined wells (each holding sub-microliter to nanoliter dose), each well capped by a thin gold membrane that serves both as a hermetic seal and as an anodic electrode. Application of a small potential in chloride-containing biological fluid electrochemically dissolves the chosen membrane, releasing reservoir contents. Anticipates: addressable on-demand microreservoir drug delivery in implantable form; electrochemical-membrane-as-valve architecture; silicon-DRIE fabrication of multi-well drug-storage arrays.
+
+## Khandurina 2000 integrated system for rapid PCR-based DNA analysis in microfluidic devices (2000-06-09)
+
+- **id**: `khandurina-2000-integrated-pcr-ce-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: J. Michael Ramsey group, Oak Ridge National Laboratory
+- **disclosure**: Khandurina, J.; McKnight, T. E.; Jacobson, S. C.; Waters, L. C.; Foote, R. S.; Ramsey, J. M. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 2000, 72, 2995-3000. DOI: 10.1021/ac991471a
+- **ip status**: public-domain
+- **prior art notes**: A canonical integrated-PCR-CE-on-glass paper from the Ramsey lab (the Oak Ridge / later UNC microchip-CE foundry). Discloses a monolithic glass microchip integrating a sub-microliter PCR chamber with an on-chip capillary electrophoresis separation channel, isolated during thermal cycling by a hydrogel/porous-membrane valve, with electrokinetic transfer of the amplification product into the separation channel and laser-induced-fluorescence sizing - the whole assay in ~20 minutes. Anticipates claims to: integration of a thermal-cycled amplification chamber and an electrophoretic separation channel on a single etched-glass substrate; gel/membrane valves that block bulk flow but pass ions/small molecules to decouple a reaction chamber from a downstream channel; and electrokinetic injection of PCR product directly from an on-chip reactor into an on-chip separation column. Foundational for the integrated-genetic-analysis-microchip lineage (Lagally 2001, Mathies MOA, commercial sample-to-answer chips).
 
 ## Halo MJOLNIR armor biofoam emergency wound-sealant injector (2001)
 
@@ -44,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bungie, Halo: Combat Evolved (Microsoft 2001-11-15); Halo Visual Guide (DK 2011) ISBN 978-0-7566-7711-5 — Pelican interior schematics.
 - **ip status**: fictional
 - **prior art notes**: Pelican dropship interiors depicted with wall-mounted medical kits providing immediate single-use biofoam injectors, IV reservoirs, and a fold-out gurney with patient-restraint manifold. Anticipates: vehicle-mounted single-shot medical reagent dispensers with foil-burst activation; combined gurney + reagent manifold built into a transport vehicle bulkhead; ruggedized impact-tolerant reagent reservoirs for combat-vehicle deployment.
+
+## Lagally 2001 single-molecule DNA amplification and analysis in an integrated microfluidic device (2001-01-04)
+
+- **id**: `lagally-2001-single-molecule-pcr-microfluidic`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Richard A. Mathies group, UC Berkeley
+- **disclosure**: Lagally, E. T.; Medintz, I.; Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 2001, 73, 565-570. DOI: 10.1021/ac001026b
+- **ip status**: public-domain
+- **prior art notes**: A milestone integrated-microfluidics paper: single-molecule (single-template) PCR amplification in a nanoliter on-chip reactor with integrated thin-film heater and resistance-temperature-detector, monolithically coupled to an on-chip capillary electrophoresis column for product analysis - the conceptual ancestor of digital PCR done in a microfabricated device. Anticipates claims to: amplification from a statistically single DNA molecule loaded by limiting dilution into a nanoliter chamber; integrated resistive heating + RTD temperature feedback in a glass PCR microchip; and monolithic integration of single-molecule amplification with electrophoretic readout. Cited as a foundational reference for integrated genetic analysis microsystems and for chip-format digital PCR.
 
 ## Gyros Bioaffy CD immunoassay platform (2002)
 
@@ -94,6 +124,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: S.T.A.L.K.E.R.: Shadow of Chernobyl (GSC Game World 2007-03-20); S.T.A.L.K.E.R. 2: Heart of Chornobyl (GSC Game World 2024-11-20).
 - **ip status**: fictional
 - **prior art notes**: Stalker games depict Zone scientists collecting anomaly fluids in shielded containment vessels and processing artifact-derived reagents in mobile labs. Stalker medkits use foil-burst single-shot vials. Anticipates: shielded anomaly-fluid collection vessels with handle-and-vacuum operator interface; mobile field-lab artifact reagent extraction equipment; useful prior art for 'shielded hazardous-fluid collection vessel with operator-handle and remote-vacuum interface' claims.
+
+## Haeberle and Zengerle 2007 microfluidic platforms for lab-on-a-chip applications (2007-08-08)
+
+- **id**: `haeberle-zengerle-2007-microfluidic-platforms-lab-on-chip`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Roland Zengerle group, IMTEK, University of Freiburg / HSG-IMIT
+- **disclosure**: Haeberle, S.; Zengerle, R. Microfluidic platforms for lab-on-a-chip applications. Lab Chip 2007, 7, 1094-1110. DOI: 10.1039/b706364b
+- **ip status**: public-domain
+- **prior art notes**: The Lab on a Chip review that organized the field into microfluidic platforms by liquid-propulsion principle - capillary, pressure-driven, centrifugal (lab-on-a-disc), electrokinetic, droplet/segmented-flow, and electrowetting digital microfluidics - and compared them by the unit operations each supports and their state of commercialization. As a prior-art survey it anticipates claims framing combinations of these propulsion principles and unit operations as integrated lab-on-chip systems, and documents the centrifugal microfluidic / lab-on-a-disc architecture in detail. Companion to and precursor of mark-2010-microfluidic-platforms-review. From the Zengerle group (Freiburg/HSG-IMIT), a major centrifugal-microfluidics center.
 
 ## Siemens RAPIDPoint 500 Blood Gas Cartridge (2008)
 
@@ -264,6 +304,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Park J et al., Sensors and Actuators B: Chemical 268:218-226 (2018); doi:10.1016/j.snb.2018.04.114
 - **ip status**: unknown
 - **prior art notes**: Discloses a centrifugal lab-on-a-disc dedicated to caries-risk assessment from raw saliva, combining bacterial enumeration with biochemical assays on a single injection-molded disc. Builds on Madou centrifugal microfluidics architecture (entry: madou-2006-centrifugal-microfluidics). Anticipates: dental-chairside CD-format saliva cartridges; integrated bacterial-plus-chemistry caries panels on centrifugal platforms; burst-valve sequencing of multi-step saliva sample prep on disc.
+
+## Truvian Health Desktop Blood-Testing System (Centrifugal Microfluidic Cartridge) (2018)
+
+- **id**: `truvian-health-desktop-blood-analyzer-disc`
+- **corpus**: private
+- **device class**: point-of-care-cartridge
+- **creator**: Truvian Health
+- **disclosure**: Truvian Health (formerly Truvian Sciences, San Diego) desktop blood-testing system disclosures and patents on a centrifugal microfluidic cartridge integrating chemistry, immunoassay and hematology from a small whole-blood sample
+- **ip status**: patented
+- **prior art notes**: Discloses a centrifugal microfluidic cartridge that meters and separates plasma from a small whole-blood sample and routes it to multiplexed chemistry, immunoassay and cell-count subassays read optically in a benchtop instrument with dried on-cartridge reagents. Anticipates: integrated centrifugal cartridges combining chemistry/immunoassay/hematology; benchtop full-panel blood analyzers from a fingerstick-scale sample. Companions: abbott-piccolo-xpress (centrifugal chemistry, already covered), sight-diagnostics-olo (POC CBC), babson-diagnostics-ac-workcell.
 
 ## Talis One COVID-19 Test Cartridge (2021-02)
 

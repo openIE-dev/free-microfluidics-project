@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-trap-microwell-array`
 
-**20 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1993
 
@@ -164,6 +164,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: SCIENION/Cellenion product literature 2017; Schoof et al., Nat Commun 12:3341 (2021), doi:10.1038/s41467-021-23667-y (SCoPE-MS using cellenONE); EP3431618 family
 - **ip status**: patented
 - **prior art notes**: Discloses a piezo-driven on-demand single-cell dispenser combining sub-nanoliter droplet ejection with closed-loop optical inspection of the nozzle reservoir, gating dispense on detection of exactly one cell within the droplet field of view. Anticipates: image-gated single-cell isolation into wellplates without sorting (no fluidic FACS pressurization, no microfluidic chip required); deposition of single cells with sub-nanoliter accompanying volume to enable downstream low-input proteomics or genomics; reservoir-based piezo nozzle that recirculates uncommitted cells. Anticipates claims to single-cell printers using machine-vision verification before each ejection event.
+
+## MicroLED fluidic self-assembly mass-transfer process (eLux / Sharp; PlayNitride / X-Celeprint stamp alternatives) (2017-08-03)
+
+- **id**: `microled-fluidic-self-assembly-mass-transfer`
+- **corpus**: private
+- **device class**: separator-component
+- **creator**: eLux, Inc. (Sharp-affiliated), Sharp Corporation; competing transfer methods: X-Celeprint (micro-transfer printing), PlayNitride (PixeLED), Rohinni, VueReal
+- **disclosure**: US20170221730A1 / US10243097B2 Fluidic assembly of emissive display elements (Schuele et al., eLux Inc. / Sharp); see also Smith & Heckele, Fluidic self-assembly of microscale parts, MEMS reviews; X-Celeprint micro-transfer-printing US8506867B2.
+- **ip status**: patented
+- **prior art notes**: Discloses liquid-borne microfluidic self-assembly: suspending microscale optoelectronic dice in a carrier fluid and sweeping them across a substrate so capture wells trap them in correct orientation, then draining. Anticipates claims to (a) fluidic self-assembly of LED/semiconductor dice into shaped backplane wells; (b) keyed die/well geometry enforcing orientation under capillary/fluidic forces; (c) sweep-agitate-drain choreography for high single-die-per-well yield. Prior art for eLux, Sharp, VueReal and competing fluidic-assembly display patents; complements (does not anticipate) elastomer-stamp transfer printing.
 
 ## Berkeley Lights Lightning Optofluidic System (2019)
 

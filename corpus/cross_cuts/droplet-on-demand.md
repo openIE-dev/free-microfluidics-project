@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-on-demand`
 
-**74 corpus entries disclose this subsystem.**
+**81 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1864
 
@@ -365,6 +365,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a multi-jet additive-manufacturing platform jetting both photocurable resin and wax support material from piezo printheads, with a carriage carrying a planarizer (a milling or rolling element to flatten each layer) and one or more UV lamps for resin cure. Anticipates: (a) coexistence of UV-cured and wax materials within a single build via multi-head inkjetting, (b) in-carriage planarizer as a layer-flatness primitive, (c) investment-casting-grade wax 3D-printing as a category (Solidscape lineage). Distinct from Stratasys PolyJet (UV resin only with photopolymer support); concrete prior art for hybrid wax-and-UV multi-material material-jetting claims.
 
+## LCD polyimide alignment-layer inkjet/microdispense system (2003-12-25)
+
+- **id**: `lcd-polyimide-alignment-layer-microdispense`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: LG Display, Samsung Display, BOE, Sharp; inkjet PI tools by Toppan/Tokyo Ohka, Nakan, ULVAC, Kateeva-class platforms; PI inks by Nissan Chemical (SUNEVER), JSR, Toray
+- **disclosure**: US20030235648A1 / US7022380B2 Apparatus and method for printing a liquid crystal display alignment layer (LG.Philips LCD); see also Sakai et al., Inkjet printing of polyimide alignment film, IDW proceedings 2004.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of polyimide-precursor alignment-layer ink onto large-area display glass with drop-volume control and film-uniformity engineering. Anticipates claims to (a) inkjet-printed polyimide alignment layer for LCD; (b) pattern-selective alignment-film deposition avoiding edge build-up; (c) PI ink formulated to suppress mura/coffee-ring in a sub-100 nm film. Prior art for LG Display, Samsung, BOE alignment-inkjet patents.
+
+## Link 2004 geometrically mediated breakup of drops in microfluidic devices (2004-08-04)
+
+- **id**: `link-2004-geometrically-mediated-drop-breakup`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Weitz / Stone groups, Harvard
+- **disclosure**: Link, D. R.; Anna, S. L.; Weitz, D. A.; Stone, H. A. Geometrically mediated breakup of drops in microfluidic devices. Phys. Rev. Lett. 2004, 92, 054503. DOI: 10.1103/PhysRevLett.92.054503
+- **ip status**: public-domain
+- **prior art notes**: Provides the physics of geometrically mediated drop break-up: a drop entering a T-bifurcation either splits or passes intact depending on its initial extension and the capillary number, captured in a quantitative phase diagram, and cascaded bifurcations multiply one mother drop into 2^n monodisperse daughters; obstacles can likewise be used to trigger controlled break-up. Anticipates claims to: passive controlled splitting of microfluidic drops at channel bifurcations or obstacles with break/no-break governed by drop extension and capillary number; biased splitting at asymmetric junctions for volume metering; and cascaded-bifurcation droplet multiplication. Together with tan-2004-microfluidic-droplet-volume-channel-geometry it anchors passive droplet-splitting prior art. Weitz/Stone droplet lineage.
+
 ## ExOne X1-Series Industrial Metal Binder-Jet System (2005)
 
 - **id**: `exone-binder-jet-x1-25pro`
@@ -385,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: OKI/Seiko I Infotech ColorPainter product family captures the pattern of OEM-head + Japanese integrator wide-format solvent printers, complementary to Roland and Mimaki entries. Discloses: (a) carriage architecture for SII RC1536-class heads driven from a host integrator's electronics, (b) eco-solvent ink-system integration with on-machine recirculation and capping, (c) wide-format productization at print widths above 64". Concrete prior art for the OEM-piezo + integrator-machine architectural class outside of the Roland/Mimaki/Mutoh trio.
 
+## Garstecki 2006 formation of droplets and bubbles in a microfluidic T-junction (2006-02-08)
+
+- **id**: `garstecki-2006-t-junction-droplet-formation`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Whitesides / Stone groups, Harvard
+- **disclosure**: Garstecki, P.; Fuerstman, M. J.; Stone, H. A.; Whitesides, G. M. Formation of droplets and bubbles in a microfluidic T-junction - scaling and mechanism of break-up. Lab Chip 2006, 6, 437-446. DOI: 10.1039/b510841a
+- **ip status**: public-domain
+- **prior art notes**: The anchor reference for T-junction droplet generation: it identifies the squeezing regime in which the dispersed phase obstructs the main channel and break-up is driven by the upstream pressure rise rather than by viscous shear, and derives the linear scaling droplet-length = 1 + alpha*(flow-rate ratio) that has become the standard T-junction design rule. As prior art it anticipates claims to: generating monodisperse droplets or bubbles at a T-/cross-junction with size set by the flow-rate ratio in the squeezing regime; and design methods predicting droplet length from junction geometry and flow ratio. Companion to thorsen-2002-droplet-microfluidics-flow-focusing and anna-2003-flow-focusing-droplet; with them it defines the canonical droplet-generator geometries. Whitesides/Stone droplet lineage.
+
 ## Memjet thermal silicon-MEMS printhead (2007)
 
 - **id**: `memjet-printhead`
@@ -404,6 +434,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Toshiba TEC CF1/CF3 printhead launches (TEC Corporation 2007-2018); JP/US filings
 - **ip status**: patented
 - **prior art notes**: Toshiba TEC patent family covers recirculating shared-wall piezo printheads with sub-pL droplet metering, complementing existing toshiba-tec-cf3-recirculating-printhead entry. Anticipates claims directed to recirculating-shared-wall fluidic architectures in droplet-on-demand systems.
+
+## Electrohydrodynamic (EHD) jet printing for fine-pitch electronics (2007-09-30)
+
+- **id**: `electrohydrodynamic-jet-printing-fine-pitch`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: academic origin (Rogers / Alleyne, University of Illinois Urbana-Champaign; Poulikakos, ETH Zurich nanodripping); commercial: Scrona, XTPL, Enjet, Optomec NanoJet, Nano Ops
+- **disclosure**: Park, Hardy, Kang et al., High-resolution electrohydrodynamic jet printing, Nature Materials 6, 782 (2007); see also US8333874B2 Flexible high-resolution near-field and far-field electrohydrodynamic jet printing (Rogers et al., University of Illinois).
+- **ip status**: patented
+- **prior art notes**: Discloses field-driven microfluidic ejection producing sub-nozzle droplets/jets for sub-micron direct-write deposition of functional inks. Anticipates claims to (a) EHD/e-jet printing of conductive or nanoparticle inks at sub-micron resolution; (b) cone-jet vs pulsating vs electrospray mode selection by field/flow; (c) closed-loop standoff/jet-current control for EHD line writing; (d) EHD repair of display/conductor defects. Prior art for Scrona, XTPL, Enjet, Optomec NanoJet EHD-printing patents.
 
 ## Formulatrix Rock Imager / Mantis nanodispenser (2008)
 
@@ -455,6 +495,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Higher-throughput sibling of the original Echo acoustic droplet ejection platform. Echo 650 supports 1536-well plates and DMSO/aqueous/glycerol fluid classes with 25 nL droplet volumes. Architectural extension of the Echo product line — same focused-acoustic-ejection mechanism but with throughput and fluid-class extensions.
 
+## Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets (2009-04-21)
+
+- **id**: `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Daniel T. Chiu group, University of Washington
+- **disclosure**: Chiu, D. T.; Lorenz, R. M. Chemistry and biology in femtoliter and picoliter volume droplets. Acc. Chem. Res. 2009, 42, 649-658. DOI: 10.1021/ar8002464
+- **ip status**: public-domain
+- **prior art notes**: An authoritative account of using femtoliter-to-picoliter droplets as reaction vessels for single-molecule and single-cell chemistry and biology: methods to generate, transport, trap (optical tweezers), fuse, and split ultrasmall aqueous droplets in immiscible carrier fluids, and the concentration-enhancement and stochastic-confinement effects that make single-molecule kinetics, digital enzyme assays, and rare-event detection possible. As prior art it anticipates claims to: confinement of single molecules or cells in fL-pL droplets for digital/single-molecule assays; optical-trap and electric-field manipulation of individual microfluidic droplets; and concentration enhancement by ultrasmall-volume compartmentalization. Companion to song-ismagilov-2003-plug-based-reaction-networks and theberge-2010-microdroplets-in-microfluidics. From the Chiu group (UW).
+
 ## Seiko Instruments (SII Printek) RC1536 Industrial Piezo Printhead (2010)
 
 - **id**: `seiko-instruments-rc1536-printhead`
@@ -464,6 +514,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Seiko Instruments RC1536 product page (seiko-instruments.de/product/rc1536/); SII Printek products at sii.co.jp/spt/eg/products.html
 - **ip status**: patented
 - **prior art notes**: Discloses a high-flow industrial piezo DOD printhead with 1536 nozzles in a 108 mm die and aggressive across-the-nozzle ink recirculation enabling continuous shear at the meniscus to support high-viscosity, high-pigment-load fluids. Anticipates: (a) very high single-drop volumes (up to 225 pL) for industrial deposition (ceramics, glass, additive manufacturing), (b) per-nozzle local recirculation as a baseline industrial-printhead architecture, (c) a single die targeting both UV and solvent / oil chemistries through a wide viscosity tolerance band. Used in industrial ceramics, corrugated, textiles, glass, and printed-electronics machines.
+
+## Kateeva YIELDjet inkjet OLED thin-film deposition system (2010-06-10)
+
+- **id**: `kateeva-yieldjet-inkjet-oled-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Kateeva, Inc.
+- **disclosure**: US20100143581A1 / US8235487B2 Method and apparatus for load-locked printing (Kateeva, Inc.); see also Madigan et al., Advancements in inkjet printing for OLED mass production, SID Symposium Digest 2014.
+- **ip status**: patented
+- **prior art notes**: Discloses an industrial drop-on-demand microfluidic printhead system depositing functional organic semiconductor and barrier inks into patterned banks under inert atmosphere with vision-feedback drop control. Anticipates claims to (a) inkjet deposition of OLED emissive layers into sub-pixel banks; (b) load-locked inert-atmosphere inkjet printing of moisture-sensitive films; (c) closed-loop per-nozzle drop-volume compensation guided by inline film-thickness metrology; (d) inkjet-printed thin-film encapsulation of an OLED. Prior art for TCL/CSOT, JOLED, Samsung Display and Tianma inkjet-OLED process patents.
+
+## Quantum-dot inkjet color-conversion layer deposition (Nanosys / Samsung QD-OLED, Nanoco class) (2011-09-15)
+
+- **id**: `quantum-dot-inkjet-display-deposition`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: Nanosys (now Shoei Chemical), Samsung Display (QD-OLED color-conversion layer), Nanoco Technologies, TCL/CSOT, BOE; printheads by Fujifilm Dimatix / Kateeva platforms
+- **disclosure**: US20110233483A1 / US8618528B2 Quantum dot films, lighting devices, and lighting methods (Nanosys / QD Vision lineage); see also Kim et al., Inkjet-printed quantum-dot light-emitting diodes, Nano Letters 2015.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of nanocrystal quantum-dot inks into patterned display sub-pixels for color conversion or electroluminescence, with volumetric metering and film-flatness control. Anticipates claims to (a) inkjet-printed QD color-conversion layer in a sub-pixel bank; (b) inkjet-printed QD electroluminescent emitter layer; (c) solvent-blend QD ink formulated to suppress coffee-ring drying; (d) Cd-free InP QD inkjet ink for displays. Prior art for Samsung, TCL/CSOT, BOE and Nanoco QD-display process patents.
 
 ## RegenHU 3DDiscovery / R-GEN bioprinter (2012)
 

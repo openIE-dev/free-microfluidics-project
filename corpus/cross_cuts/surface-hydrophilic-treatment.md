@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `surface-hydrophilic-treatment`
 
-**13 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1805-12-20
 
@@ -55,6 +55,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: de Gennes 1985 is the foundational modern review of wetting theory, predating Bonn 2009 by two decades. Documents contact-line motion at finite Ca, precursor films, contact-angle hysteresis, and partial-wetting equilibrium. Anticipates microfluidic claims on dynamic contact-line behavior, droplet-edge motion on patterned surfaces, and capillary-driven flow with viscous dissipation at the contact line. Particularly load-bearing for electrowetting patents that rely on contact-line motion theory.
 
+## Burns 1996 microfabricated structures for integrated DNA analysis (1996-05-28)
+
+- **id**: `burns-1996-microfabricated-dna-analysis-pnas`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Burns / Burke / Mastrangelo group, University of Michigan
+- **disclosure**: Burns, M. A.; Mastrangelo, C. H.; Sammarco, T. S.; Man, F. P.; Webster, J. R.; Johnsons, B. N.; Foerster, B.; Jones, D.; Fields, Y.; Kaiser, A. R.; Burke, D. T. Microfabricated structures for integrated DNA analysis. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 5556-5561. DOI: 10.1073/pnas.93.11.5556
+- **ip status**: public-domain
+- **prior art notes**: The direct precursor to the famous Burns 1998 Science integrated DNA analysis device (burns-1998-integrated-dna-analysis-device). Discloses microfabricated silicon-glass structures combining nanoliter drop metering by hydrophobic surface patterning, thermal-pneumatic (air-bubble) pumping driven by integrated resistive heaters, on-chip mixing of metered drops, a temperature-controlled reaction chamber, and an integrated capillary electrophoresis channel for product size analysis - all on a single wafer. Anticipates claims to: monolithic integration of metering+reaction+separation on a microfabricated substrate; thermal/gas-expansion actuation of discrete aqueous plugs in hydrophilic channels bounded by hydrophobic regions; on-chip drop merging by channel geometry; and end-to-end DNA assay automation in a chip-scale device. Predates the 1998 Science paper by two years.
+
 ## Cygnus GlucoWatch G2 Biographer (1999-12-06)
 
 - **id**: `cygnus-glucowatch-biographer`
@@ -64,6 +74,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FDA PMA P990026 December 6 1999 (first wearable continuous glucose monitor cleared in US); Tamada JA et al. JAMA 282(19):1839-1844 1999 doi:10.1001/jama.282.19.1839
 - **ip status**: patented
 - **prior art notes**: Discloses a watch-form-factor wearable that applies low DC current between two skin-contacting AgCl electrodes to electrokinetically extract interstitial fluid into hydrogel collection discs (reverse iontophoresis), then amperometrically quantifies glucose in the extracted hydrogel. The hydrogel pad is the microfluidic substrate; analyte transport is driven by ion electromigration and electroosmosis across the stratum corneum. Anticipates: noninvasive transdermal microfluidic sample acquisition by reverse iontophoresis; hydrogel-pad-as-microfluidic-reservoir architecture; on-skin enzymatic readout of electrokinetically extracted analytes. Foundational prior art for every subsequent transdermal sweat / interstitial-fluid wearable that does not pierce skin.
+
+## Sia and Whitesides 2003 microfluidic devices fabricated in PDMS for biological studies (2003-11-01)
+
+- **id**: `sia-whitesides-2003-pdms-microfluidic-devices-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard
+- **disclosure**: Sia, S. K.; Whitesides, G. M. Microfluidic devices fabricated in poly(dimethylsiloxane) for biological studies. Electrophoresis 2003, 24, 3563-3576. DOI: 10.1002/elps.200305584
+- **ip status**: public-domain
+- **prior art notes**: The practical handbook-style review of PDMS microfluidics for biology: rapid prototyping by soft lithography, plasma bonding, world-to-chip interconnects, surface modification and passivation strategies, and a catalog of biological uses (heterogeneous immunoassays, cell capture and culture, on-chip protein crystallization, surface and solution-gradient generators) plus a frank treatment of PDMS limitations. As prior art it anticipates claims to: standard PDMS device fabrication and bonding workflows; common PDMS-chip surface-treatment recipes for biocompatibility; and the general designs of PDMS gradient generators and cell-handling chips. Companion to mcdonald-whitesides-2002-pdms-review and whitesides-2001-soft-lithography-in-biology.
+
+## LCD polyimide alignment-layer inkjet/microdispense system (2003-12-25)
+
+- **id**: `lcd-polyimide-alignment-layer-microdispense`
+- **corpus**: private
+- **device class**: inkjet-printhead
+- **creator**: LG Display, Samsung Display, BOE, Sharp; inkjet PI tools by Toppan/Tokyo Ohka, Nakan, ULVAC, Kateeva-class platforms; PI inks by Nissan Chemical (SUNEVER), JSR, Toray
+- **disclosure**: US20030235648A1 / US7022380B2 Apparatus and method for printing a liquid crystal display alignment layer (LG.Philips LCD); see also Sakai et al., Inkjet printing of polyimide alignment film, IDW proceedings 2004.
+- **ip status**: patented
+- **prior art notes**: Discloses inkjet (drop-on-demand microfluidic) deposition of polyimide-precursor alignment-layer ink onto large-area display glass with drop-volume control and film-uniformity engineering. Anticipates claims to (a) inkjet-printed polyimide alignment layer for LCD; (b) pattern-selective alignment-film deposition avoiding edge build-up; (c) PI ink formulated to suppress mura/coffee-ring in a sub-100 nm film. Prior art for LG Display, Samsung, BOE alignment-inkjet patents.
 
 ## de Gennes, Brochard-Wyart & Quere 2004 - Capillarity and Wetting Phenomena (2004)
 

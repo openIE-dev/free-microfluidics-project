@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `valve-thermal-paraffin`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000
 
@@ -54,3 +54,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oh, K. W.; Ahn, C. H. A review of microvalves. J. Micromech. Microeng. 2006, 16, R13–R39. DOI: 10.1088/0960-1317/16/5/R01
 - **ip status**: public-domain
 - **prior art notes**: Comprehensive review of microvalves enumerating active (pneumatic, thermal, electrostatic, electromagnetic, piezoelectric, electrochemical, electrowetting) and passive (check, capillary-burst, hydrophobic) categories. Methodologically essential as the unified reference for microvalve prior art across the entire field; useful for invalidity contention against any patent claiming a 'novel microvalve' that turns out to fall within one of the eight active or three passive categories enumerated here.
+
+## ThrustMe NPT30-I2 iodine electric propulsion system (2018-10-15)
+
+- **id**: `thrustme-npt30-i2-iodine-electrothermal-thruster`
+- **corpus**: private
+- **device class**: flow-controller
+- **creator**: ThrustMe (spun out of Ecole Polytechnique / LPP-CNRS)
+- **disclosure**: Rafalskyi et al., In-orbit demonstration of an iodine electric propulsion system, Nature 599, 411 (2021); patent family WO2019/030035A1 / EP3650351 Propulsion system using a solid propellant (ThrustMe).
+- **ip status**: patented
+- **prior art notes**: Discloses a vapor-microfluidic propellant feed: a heated solid-iodine reservoir whose sublimated vapor is metered to a thruster purely by temperature control of small-bore heated channels and a thermal restrictor/valve. Anticipates claims to (a) solid-propellant (iodine) electric thruster with a heated-reservoir sublimation feed; (b) thermally-throttled vapor mass-flow control via heated micro-channel conductance; (c) tankless, regulator-free propellant feed for a small-satellite thruster; (d) shared iodine-vapor feed serving both gridded-ion and cold-gas modes. Prior art for ThrustMe and other iodine-propulsion patents.

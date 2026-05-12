@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cell-encapsulation-droplet`
 
-**42 corpus entries disclose this subsystem.**
+**49 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941
 
@@ -45,6 +45,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Simmons' Cruciform is a parasitic biological implant that integrates into host tissue, samples and stores cellular/genetic material, and on host-death triggers regeneration of tissue using stored cellular templates. Architecturally a wearable/embedded sample-capture + storage + regrowth system. Defensive prior art for: implanted cell-banking devices, integrated host-cell sampling + cryostorage + regeneration triggering, and parasitic biological-implant communication with external substrate. Strong cumulative-fiction anchor (4-novel canon, 1989-1997).
 
+## Evangelion production tanks, Rei clone vats, and dummy-plug bioprocessor (Neon Genesis Evangelion) (1995-10-04)
+
+- **id**: `evangelion-eva-cloning-dummy-plug-tanks`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Gainax / Hideaki Anno
+- **disclosure**: Neon Genesis Evangelion (Hideaki Anno / Gainax, broadcast 1995-10-04 to 1996-03-27); the Eva production scaffolds, the Rei clone tank in Terminal Dogma, and the dummy-plug system (notably episodes broadcast 1996); further depicted in The End of Evangelion (1997) and the Rebuild films; IMDB tt0112159.
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) large-scale perfusion culture of organism-scale constructs in a circulated amniotic-like medium, (b) a maintained reservoir of identical clone bodies for on-demand swap, and (c) a sealed cartridge housing cultured neural tissue used as a control element. Cited aspects: the perfused organism-scale bioreactor and the clone-body reservoir for identity transfer. Anticipates generic claims to perfused large-construct bioreactors and to banked-replacement-body workflows. Extends evangelion-lcl-entry-plug. Pairs with appleseed-bioroid-production and doctor-who-davros-kaled-mutant-vats.
+
 ## Peter F. Hamilton Edenist affinity-bonding and longevity clinic (Night's Dawn) (1996)
 
 - **id**: `hamilton-edenist-affinity-clinic`
@@ -54,6 +64,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Peter F. Hamilton, The Reality Dysfunction (Macmillan UK 1996) ISBN 0-333-65063-9 (Night's Dawn Trilogy book 1); The Neutronium Alchemist (1997); The Naked God (1999).
 - **ip status**: fictional
 - **prior art notes**: Edenists are genetically engineered to express affinity (telepathic linkage) and depicted with extensive longevity treatments, gestation-ex-utero in habitat tanks, and continuous health maintenance. Habitat clinics depict whole-body perfusion suites and serotonergic gene-expression management. Defensive prior art for: genetically-engineered-population health-maintenance clinics, ex-utero gestation tanks, and integrated continuous longevity-treatment infrastructure.
+
+## E Ink electrophoretic display microcapsule encapsulation process (1998-08-04)
+
+- **id**: `eink-electrophoretic-microcapsule-encapsulation`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: E Ink Corporation (spun out of the MIT Media Lab; majority owned by E Ink Holdings / Yuen Foong Yu)
+- **disclosure**: US5961804A Microencapsulated electrophoretic display (Jacobson et al., MIT / E Ink Corporation), filed 1997, granted 1998; see also Comiskey, Albert, Yoshizawa & Jacobson, An electrophoretic ink for all-printed reflective electronic displays, Nature 394, 253 (1998).
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic emulsification-and-coacervation encapsulation of a charged-pigment electrophoretic fluid into uniform tens-of-micron microcapsules and their monolayer web coating - a literal industrial microfluidic encapsulation process. Anticipates broad claims to (a) microencapsulated electrophoretic display media; (b) emulsion/coacervation encapsulation of a dispersion of oppositely charged pigments in a nonpolar fluid; (c) bistable reflective display by monolayer-coated microcapsules; (d) multi-pigment color electrophoretic capsules. Foundational e-paper prior art; the SiPix microcup architecture is the principal alternative and a lineage descendant of the same problem statement.
 
 ## Vernor Vinge Spider 'Focus' serum (A Deepness in the Sky) (1999)
 
@@ -74,6 +94,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Y: The Last Man #1-60 (DC/Vertigo, 2002-2008), written by Brian K. Vaughan, art by Pia Guerra; Dr. Mann's lab and her self-clone are central from #3 onward; collected as ten trade paperbacks (vol. 1 ISBN 978-1-56389-980-4).
 - **ip status**: fictional
 - **prior art notes**: Discloses a reproductive-biology field lab performing micromanipulation, embryo culture, and cryostorage for cloning and parthenogenesis, plus the management of distributed gamete/embryo banks under scarcity. Anticipates generic claims to austere-field reproductive-biology workflows (oocyte handling + embryo culture + cryostorage in a single small lab) and to distributed gamete-bank allocation systems. Pairs with bujold-vorkosigan-uterine-replicator and gattaca-instant-genome-readout.
+
+## Utada 2005 monodisperse double emulsions generated from a microcapillary device (2005-04-22)
+
+- **id**: `utada-2005-monodisperse-double-emulsions-microcapillary`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: David A. Weitz group, Harvard (with H. A. Stone)
+- **disclosure**: Utada, A. S.; Lorenceau, E.; Link, D. R.; Kaplan, P. D.; Stone, H. A.; Weitz, D. A. Monodisperse double emulsions generated from a microcapillary device. Science 2005, 308, 537-541. DOI: 10.1126/science.1109164
+- **ip status**: public-domain
+- **prior art notes**: The seminal one-step monodisperse double-emulsion device: nested coaxial glass capillaries combining co-flow and flow-focusing so a core fluid is enveloped by a middle fluid and pinched into a continuous outer phase, producing core-shell drops with controllable shell thickness and a defined number of inner drops per shell. Anticipates claims to: glass-microcapillary co-flow/flow-focusing devices for single-step double (and higher-order) emulsion generation; monodisperse double emulsions as templates for microcapsules and controlled-release particles; and the dripping/jetting control of capillary droplet generators. Foundational for the entire structured-emulsion / microcapsule field and for double-emulsion single-cell assays (cf. brouzes-2009-droplet-screening). Weitz/Stone capillary-droplet lineage.
 
 ## Microfluidic alginate microbead generation (2007)
 
@@ -125,6 +155,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Discloses a population-scale program that mass-cultures human-form bodies in perfusion vats while separately storing an extracted essence, with an intended recombination step. Anticipates generic claims to mass-vat body culture coupled with separate essence storage and recombination. Pairs with brave-new-world-bokanovsky-process, doctor-who-flesh-ganger-vats, and cherryh-cyteen azi-decanting entries.
 
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
+
 ## The Expanse protomolecule fluid biology (Eros and Venus events) (2011)
 
 - **id**: `expanse-protomolecule-eros-fluidic-biology`
@@ -154,6 +194,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black Mirror, Be Right Back (S2E01, Channel 4, first aired 2013-02-11), written by Charlie Brooker; IMDB tt2290780.
 - **ip status**: fictional
 - **prior art notes**: Discloses a consumer-grade home-activated synthetic-body fabrication: inert feedstock plus a bath of activator fluid plus a few hours yields a full templated adult body, then animated by an AI personality model. Anticipates generic claims to consumer-deployed immersion-activated biofabrication of a full body and to fabricated-body-plus-personality-model replica systems. Pairs with doctor-who-flesh-ganger-vats, black-mirror-beyond-the-sea-replicas (below), and the Westworld host lineage.
+
+## The Helminth infested-biology system and Warframe transference cradle (Warframe) (2013-03-25)
+
+- **id**: `warframe-helminth-infested-biology-system`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Digital Extremes
+- **disclosure**: Warframe (Digital Extremes, 2013-03-25; the Helminth system added 2020 in the Heart of Deimos update); the Orbiters Helminth chamber, the Warframe-ability infusion mechanic, and the Infested-biology lore.
+- **ip status**: fictional
+- **prior art notes**: Discloses a living bioreactor with feedstock intake, a perfused immersion cavity for a whole construct, and secretion/infusion ducts that transfer extracted biological essences between bodies, plus organism culture/birth from the same vessel. Cited aspects: the immersion-cavity perfusion for whole-body maintenance and the extract-essence-then-infuse-into-another-body transfer workflow. Anticipates generic claims to perfused whole-construct maintenance chambers and to fluidic extract-and-transfer-between-units therapeutic workflows. High 102 value (the Helminth system is a central, named, mechanically detailed subsystem). Pairs with doctor-who-flesh-ganger-vats and made-in-abyss-curse-bearing-fluid.
 
 ## Broad Institute Drop-seq Patent Family (Macosko / McCarroll lineage) (2013-04-26)
 
@@ -355,6 +405,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Microfluidic constriction-based mechanical poration: cells passing through narrow constriction transiently form membrane pores, allowing delivery of macromolecules without electrical field. Architectural alternative to electroporation for non-viral cell engineering. Underlies SQZ Biotechnologies (acquired 2024) and several academic spinout efforts.
 
+## Pattern Bioscience Rapid Antibiotic Susceptibility Test (Single-Cell Digital Microfluidics) (2018)
+
+- **id**: `pattern-bioscience-rapid-ast-digital-microfluidics`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: Pattern Bioscience
+- **disclosure**: Pattern Bioscience (Austin, Texas) rapid phenotypic AST platform disclosures and patents on partitioning single bacterial cells into thousands of nanoliter reactors with antibiotics and machine-learning metabolic-fingerprint readout; FDA-cleared rapid AST system
+- **ip status**: patented
+- **prior art notes**: Discloses partitioning a bacterial sample into thousands of nanoliter compartments each containing a defined antibiotic, then reading per-compartment metabolic-reporter kinetics and classifying susceptibility with a machine-learning model on single-cell fingerprints. Anticipates: digital/partition-microfluidic phenotypic AST; single-cell metabolic-fingerprint susceptibility calling; ML-interpreted nanowell antibiotic arrays. A genuinely novel AST architecture and a high-priority anchor; recently FDA-cleared.
+
 ## Parse Biosciences Evercode split-pool single-cell kit (2018-04-13)
 
 - **id**: `parse-biosciences-evercode`
@@ -424,6 +484,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Singleron Biotechnologies product update 2023; technical brief; CN patent family CN112538505A and US application
 - **ip status**: patented
 - **prior art notes**: Discloses circular-barcode bead chemistry deployed on the Singleron Matrix microwell platform, increasing barcode diversity available per cell. Anticipates circular DNA-barcoded bead pools used in microwell-based single-cell platforms.
+
+## Mind flayer ceremorphosis tadpole and nautiloid pod-incubation (Baldurs Gate 3) (2023-08-03)
+
+- **id**: `baldurs-gate-3-illithid-ceremorphosis-tadpole`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Larian Studios
+- **disclosure**: Baldurs Gate 3 (Larian Studios, 2023-08-03); the prologue nautiloid sequence and the ceremorphosis mechanic, the larval pods, and related transformation scenes; based on Dungeons and Dragons illithid lore (Wizards of the Coast).
+- **ip status**: fictional
+- **prior art notes**: Discloses (a) an array of fluid-filled single-organism incubation pods with brine perfusion, (b) a transorbital injection inoculation of a living host with a cultured organism, and (c) a perfused long-duration body-stasis vessel. Cited aspects: the single-organism perfused pod array and the perfused-stasis-vessel-for-a-detached-body. Anticipates generic claims to per-unit perfused organism incubators and to perfusion-maintained tissue/body preservation chambers. Pairs with doctor-who-davros-kaled-mutant-vats and brave-new-world-bokanovsky-process; transorbital inoculation pairs with prey-2017-transtar-neuromod-division.
 
 ## Mission Bio Tapestri PRIM (Pre-Integrated Multi-omics) (2024)
 

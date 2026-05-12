@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `thermal-two-phase-cooling`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1984
 
@@ -24,6 +24,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BattleTech (FASA Corporation, 1984); first detailed in BattleMech Technical Readout 3025 (1986)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of a non-Newtonian inertial-damping cockpit immersion fluid with integrated breathing inlet and conductive neurohelmet electrode-array. Anticipates claims directed to non-Newtonian impact-damping immersive operator chambers with integrated electrode-fluid neural interface and respiratory bypass. Especially relevant to combat vehicle and aerospace operator-cabin immersion damping claims.
+
+## Automotive A/C microchannel (parallel-flow) condenser and evaporator (1991-09-24)
+
+- **id**: `automotive-microchannel-condenser-evaporator`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Denso (Nippondenso), Modine Manufacturing, Mahle (Behr), Valeo, Hanon Systems; multiport-tube extruders incl. Sapa/Hydro
+- **disclosure**: US5048602A Condenser for automotive air conditioning systems (Nippondenso); see also US5172761A (Showa Aluminum) heat exchanger with multiport flat tubes; SAE technical papers on parallel-flow automotive condensers, early 1990s.
+- **ip status**: patented
+- **prior art notes**: Discloses arrays of sub-millimeter parallel microchannels in extruded flat tubes, with louvered fins and baffled headers for multi-pass refrigerant flow, brazed monolithically - the canonical automotive microchannel heat exchanger. Anticipates claims to (a) multiport flat-tube microchannel condenser/evaporator; (b) header-baffle multi-pass routing through a microchannel tube bank; (c) brazed-aluminum microchannel HX for mobile refrigeration; (d) low-charge microchannel A/C with R-1234yf. Prior art for Modine, Mahle/Behr, Valeo, Hanon microchannel-HX patents and a relative of EV battery cold-plate designs.
 
 ## Bowers & Mudawar 1994 - High flux boiling in mini/micro-channel heat sinks (1994)
 

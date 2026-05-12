@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-pdms-soft-lithography`
 
-**83 corpus entries disclose this subsystem.**
+**103 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1898-05-12
 
@@ -125,6 +125,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Disclosed the iconic 'Christmas tree' splitting-and-recombining microfluidic network for arbitrary-shape concentration gradient generation. Anticipates: branched diffusion-mixer cascade for gradient generation, parallel-channel concentration gradient as a primitive in chemotaxis assays, and the gradient-generator microfluidic motif appearing in hundreds of subsequent cell-biology papers.
 
+## Whitesides 2001 soft lithography in biology and biochemistry (2001-08-01)
+
+- **id**: `whitesides-2001-soft-lithography-in-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard (with Ingber, Wyss precursor)
+- **disclosure**: Whitesides, G. M.; Ostuni, E.; Takayama, S.; Jiang, X.; Ingber, D. E. Soft lithography in biology and biochemistry. Annu. Rev. Biomed. Eng. 2001, 3, 335-373. DOI: 10.1146/annurev.bioeng.3.1.335
+- **ip status**: public-domain
+- **prior art notes**: The canonical review of soft lithography applied to cell biology and biochemistry: microcontact printing of self-assembled monolayers, replica molding of PDMS, microfluidic and stencil patterning of cells and proteins, laminar-flow (multi-stream) patterning to address subcellular regions, and the use of these to build patterned co-cultures and surface gradients. As prior art it anticipates claims to: patterning adherent cells or biomolecules on a substrate by PDMS stamp / stencil / microfluidic channel; laminar co-flow delivery of distinct fluids to selected portions of a cell or surface; and the general toolkit of PDMS-based bio-patterning. Companion to xia-whitesides-1998-soft-lithography-review and the Ingber organ-chip lineage (huh-2010-lung-on-chip). One of the most-cited microfluidics-in-biology references.
+
 ## Chaotic mixer for microchannels (staggered herringbone) (2002)
 
 - **id**: `stroock-2002-staggered-herringbone-mixer`
@@ -175,6 +185,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Disclosed PDMS-Quake-valve-based protein crystallization screening: hundreds of nanoliter-scale crystallization chambers in parallel using free-interface diffusion as the supersaturation mechanism. Architectural ancestor of Fluidigm Topaz protein crystallization chip — and of the broader nanoliter-screen / structural-biology automation that competes with Mosquito / Formulatrix dispensers.
 
+## Liu 2002 nanoliter rotary device for polymerase chain reaction (2002-06-01)
+
+- **id**: `liu-quake-2002-nanoliter-rotary-pcr-device`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Liu, J.; Enzelberger, M.; Quake, S. A nanoliter rotary device for polymerase chain reaction. Electrophoresis 2002, 23, 1531-1536. DOI: 10.1002/1522-2683(200205)23:10<1531::AID-ELPS1531>3.0.CO;2-D
+- **ip status**: public-domain
+- **prior art notes**: Discloses the rotary PCR architecture: a closed-loop nanoliter channel in PDMS with three integrated peristaltic Quake (MLSI) micropumps that convect the reaction mixture around a circuit passing three fixed-temperature zones - thermal cycling in the spatial domain at constant heater temperatures, avoiding the thermal mass and ramp limits of cycling the whole chip. Anticipates claims to: continuous-flow PCR in a recirculating loop driven by an on-chip pump; spatial-domain thermal cycling by transporting reagent past stationary heaters; integration of a closed-loop reactor with monolithic pneumatic peristaltic pumping; and nanoliter-scale recirculating reaction networks generally. Foundational for later continuous-flow / recirculating-loop PCR chips and droplet-recirculation reactors. Quake-lab MLSI lineage (unger-2000-quake-monolithic-membrane-valve).
+
+## Hansen 2002 robust scalable microfluidic metering for protein crystallization by free interface diffusion (2002-12-24)
+
+- **id**: `hansen-2002-microfluidic-protein-crystallization-metering`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hansen, C. L.; Skordalakes, E.; Berger, J. M.; Quake, S. R. A robust and scalable microfluidic metering method that allows protein crystal growth by free interface diffusion. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 16531-16536. DOI: 10.1073/pnas.262485199
+- **ip status**: public-domain
+- **prior art notes**: Discloses the microfluidic metering method underlying chip-format protein crystallization: paired nanoliter chambers loaded by dead-end filling, isolated by monolithic membrane valves, then connected through an interface valve so the two reagents mix only by free-interface diffusion - reproducibly sampling a crystallization trajectory through supersaturation space that is impractical to set up by hand at nanoliter scale. Anticipates claims to: dead-volume-free metering of defined nanoliter aliquots by valve-bounded chamber filling; free-interface-diffusion crystallization in a microfluidic chamber array; and high-throughput crystallization screening from microgram protein quantities. Commercialized as Fluidigm Topaz. Companion to quake-2003-microfluidic-protein-crystallization. Quake-lab MLSI lineage.
+
 ## Flow-focusing droplet generation in microfluidic devices (2003)
 
 - **id**: `anna-2003-flow-focusing-droplet`
@@ -215,6 +245,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Beebe-group establishment of in-channel PEGDA hydrogel photopatterning as a route to autonomous valve and trap structures. Subsequent papers (post Beebe 2000 Nature) demonstrated systematic PEGDA structure formation, sub-100 µm feature definition, and biocompatible cell encapsulation in situ. Anticipates: PEGDA as the canonical photopatternable hydrogel for chips, distinct from the alginate-bead and gelatin approaches.
 
+## Song 2003 microfluidic system for controlling reaction networks in time (plug-based) (2003-02-10)
+
+- **id**: `song-ismagilov-2003-plug-based-reaction-networks`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Rustem F. Ismagilov group, University of Chicago
+- **disclosure**: Song, H.; Tice, J. D.; Ismagilov, R. F. A microfluidic system for controlling reaction networks in time. Angew. Chem. Int. Ed. 2003, 42, 768-772. DOI: 10.1002/anie.200390203
+- **ip status**: public-domain
+- **prior art notes**: Establishes plug-based (segmented-flow droplet) microfluidics for controlled reaction kinetics: aqueous reagents are compartmentalized into nanoliter plugs by an immiscible carrier fluid, internally mixed within milliseconds by chaotic advection in winding channels, and transported so that downstream position maps directly to reaction time - eliminating Taylor dispersion and enabling time-resolved chemistry/kinetics in a microchannel. Anticipates claims to: segmented-flow plug reactors for kinetic measurement with time encoded by channel length; rapid intra-plug mixing by serpentine-channel chaotic advection; and merging of distinct reagent plugs to trigger reactions. Foundational for the Ismagilov plug-microfluidics lineage (cf. du-ismagilov-2009-slipchip) and for droplet-based screening/crystallization generally.
+
 ## Quake Digital PCR Microfluidic Patent Family (2003-04-03)
 
 - **id**: `quake-patent-family-digital-pcr-on-chip`
@@ -235,6 +275,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Harvard-anchored patent family covering hydrodynamic flow-focusing droplet generation. Anchors claims around: (a) a microfluidic device with an inner phase channel meeting two outer continuous-phase channels at an orifice; (b) generation of monodisperse droplets via Rayleigh-Plateau breakup at the orifice; (c) independent control of droplet diameter via continuous-phase flow rate while inner-phase flow rate sets generation frequency; (d) chip geometry compatible with PDMS soft lithography. Anticipates flow-focusing droplet-generator chips in microfluidic context. Underlying Anna 2003 paper (anna-2003-flow-focusing-droplet) is the published companion. The patent family was a precursor for the licensing chains that fed RainDance, QuantaLife, and 10x Genomics droplet platforms. Expiry: ~2023-2024 for earliest members, but continuations may extend coverage on specific geometries.
 
+## Hong and Quake 2003 integrated nanoliter systems (2003-10-01)
+
+- **id**: `hong-quake-2003-integrated-nanoliter-systems`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Hong, J. W.; Quake, S. R. Integrated nanoliter systems. Nat. Biotechnol. 2003, 21, 1179-1183. DOI: 10.1038/nbt871
+- **ip status**: public-domain
+- **prior art notes**: The canonical mid-period statement of microfluidic large-scale integration: assembling thousands of monolithic-membrane valves into multiplexers, peristaltic pumps, rotary mixers, on-chip columns and addressable chamber arrays for nanoliter-scale biochemistry and genomics. Discloses (in a unified review form) the multiplexer scheme that addresses N independent fluidic lines with order log2(N) control inputs, the integration of metering/mixing/incubation/separation modules on a single PDMS chip, and the architecture later commercialized as the Fluidigm dynamic-array / Stanford Microfluidics Foundry platform (cf. fluidigm-patent-family-biomark-dynamic-array, quake-patent-family-mlsi-monolithic-membrane-valve). Anticipates claims to: combinatorial multiplexer addressing of valve arrays; integrated nanoliter reaction-array chips; and chip-scale automation of multi-step biochemical workflows.
+
+## Sia and Whitesides 2003 microfluidic devices fabricated in PDMS for biological studies (2003-11-01)
+
+- **id**: `sia-whitesides-2003-pdms-microfluidic-devices-biology`
+- **corpus**: academic
+- **device class**: other
+- **creator**: George M. Whitesides group, Harvard
+- **disclosure**: Sia, S. K.; Whitesides, G. M. Microfluidic devices fabricated in poly(dimethylsiloxane) for biological studies. Electrophoresis 2003, 24, 3563-3576. DOI: 10.1002/elps.200305584
+- **ip status**: public-domain
+- **prior art notes**: The practical handbook-style review of PDMS microfluidics for biology: rapid prototyping by soft lithography, plasma bonding, world-to-chip interconnects, surface modification and passivation strategies, and a catalog of biological uses (heterogeneous immunoassays, cell capture and culture, on-chip protein crystallization, surface and solution-gradient generators) plus a frank treatment of PDMS limitations. As prior art it anticipates claims to: standard PDMS device fabrication and bonding workflows; common PDMS-chip surface-treatment recipes for biocompatibility; and the general designs of PDMS gradient generators and cell-handling chips. Companion to mcdonald-whitesides-2002-pdms-review and whitesides-2001-soft-lithography-in-biology.
+
 ## Fluidigm BioMark Dynamic Array Chemistry Patent Family (2004)
 
 - **id**: `fluidigm-patent-family-biomark-dynamic-array`
@@ -245,6 +305,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Fluidigm BioMark Dynamic Array patent family. Anchors claims around: (a) two-axis valve matrix combinatorially addressing N x M reaction chambers from N samples and M assays; (b) MLSI valves isolating each reaction chamber after combinatorial loading; (c) thermal cycling and end-point fluorescence per chamber; (d) specific 48.48 / 96.96 / 192.24 array geometries. Anticipates combinatorial qPCR microfluidic chips and high-multiplex digital PCR cartridges. Companion to existing fluidigm-dynamic-array-ifc entry. Expiry: 2024-2028 across family.
 
+## Studer 2004 scaling properties of a low-actuation-pressure microfluidic valve (2004-01-01)
+
+- **id**: `studer-2004-low-actuation-pressure-microfluidic-valve`
+- **corpus**: academic
+- **device class**: valve-component
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Studer, V.; Hang, G.; Pandolfi, A.; Ortiz, M.; Anderson, W. F.; Quake, S. R. Scaling properties of a low-actuation-pressure microfluidic valve. J. Appl. Phys. 2004, 95, 393-398. DOI: 10.1063/1.1629781
+- **ip status**: public-domain
+- **prior art notes**: Establishes the quantitative design rules for monolithic-membrane (Quake/MLSI) microvalves and introduces the push-up valve geometry that achieves valve closure at sub-1-psi actuation pressures. Discloses: the mechanical model (membrane bending, contact mechanics) relating closure pressure to membrane thickness and channel width; the push-up vs push-down configuration trade-off; and the scaling that makes large valve arrays driven by modest pressure feasible. Anticipates claims to: low-actuation-pressure elastomeric membrane valves; push-up valve geometry; and parametric design methodologies for membrane-deflection microvalves. Core reference for the Stanford Microfluidics Foundry MLSI design-rule documents (cf. hong-studer-quake-2004-nanoliter-nucleic-acid-processor, unger-2000-quake-monolithic-membrane-valve).
+
 ## A nanoliter-scale nucleic acid processor with parallel architecture (Hong, Studer, Hang, Anderson, Quake, 2004) (2004-03-21)
 
 - **id**: `hong-studer-quake-2004-nanoliter-nucleic-acid-processor`
@@ -254,6 +324,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hong, J. W.; Studer, V.; Hang, G.; Anderson, W. F.; Quake, S. R. A nanoliter-scale nucleic acid processor with parallel architecture. Nat. Biotechnol. 2004, 22 (4), 435-439. DOI: 10.1038/nbt951.
 - **ip status**: patented
 - **prior art notes**: An integrated PDMS lab-on-a-chip that performs the full nucleic-acid-preparation workflow - cell isolation, lysis, mRNA/DNA capture on functionalized beads, washing, and recovery of purified product - in parallel nanolitre reactors, built entirely from multilayer-soft-lithography pneumatic membrane valves and peristaltic pumps. Discloses: a parallel-architecture chip in which dozens of membrane valves partition and route fluids among rotary mixers, bead-capture columns, and elution channels; on-chip affinity capture (paramagnetic or affinity beads trapped behind a sieve valve) for solid-phase nucleic-acid purification; on-chip peristaltic metering and rotary mixing; and recovery of purified mRNA/DNA from single-cell-quantity inputs. Anticipates claims to: integrated multi-step nucleic-acid sample preparation in valve-controlled PDMS chips; parallelized nL bead-based extraction columns on chip; rotary-mixer reaction units fed by membrane-valve manifolds; and single-cell nucleic-acid processing pipelines. Builds on unger-2000-quake-monolithic-membrane-valve and thorsen-2002-microfluidic-large-scale-integration; commercialized via Fluidigm.
+
+## Tan 2004 design of microfluidic channel geometries for control of droplet volume (2004-06-21)
+
+- **id**: `tan-2004-microfluidic-droplet-volume-channel-geometry`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Abraham P. Lee group, UC Irvine (with Cristini, UCI math)
+- **disclosure**: Tan, Y.-C.; Fisher, J. S.; Lee, A. I.; Cristini, V.; Lee, A. P. Design of microfluidic channel geometries for the control of droplet volume, chemical concentration, and sorting. Lab Chip 2004, 4, 292-298. DOI: 10.1039/b403280m
+- **ip status**: public-domain
+- **prior art notes**: Discloses use of downstream channel geometry (expansions, contractions, T- and Y-bifurcations) to passively control droplet volume, to split a mother droplet into daughter droplets of designed volume ratio, to build on-chip dilution series, and to sort droplets by size at asymmetric bifurcations - all without active actuators. Anticipates claims to: passive geometric splitting of microfluidic droplets at channel branches with volume ratio set by branch hydrodynamic resistance; downstream-geometry control of droplet size from a single upstream generator; and passive bifurcation-based droplet sorting. Foundational droplet-handling-primitive paper from the A. P. Lee group, predating and complementing the Link 2004 geometric-breakup analysis.
+
+## Link 2004 geometrically mediated breakup of drops in microfluidic devices (2004-08-04)
+
+- **id**: `link-2004-geometrically-mediated-drop-breakup`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Weitz / Stone groups, Harvard
+- **disclosure**: Link, D. R.; Anna, S. L.; Weitz, D. A.; Stone, H. A. Geometrically mediated breakup of drops in microfluidic devices. Phys. Rev. Lett. 2004, 92, 054503. DOI: 10.1103/PhysRevLett.92.054503
+- **ip status**: public-domain
+- **prior art notes**: Provides the physics of geometrically mediated drop break-up: a drop entering a T-bifurcation either splits or passes intact depending on its initial extension and the capillary number, captured in a quantitative phase diagram, and cascaded bifurcations multiply one mother drop into 2^n monodisperse daughters; obstacles can likewise be used to trigger controlled break-up. Anticipates claims to: passive controlled splitting of microfluidic drops at channel bifurcations or obstacles with break/no-break governed by drop extension and capillary number; biased splitting at asymmetric junctions for volume metering; and cascaded-bifurcation droplet multiplication. Together with tan-2004-microfluidic-droplet-volume-channel-geometry it anchors passive droplet-splitting prior art. Weitz/Stone droplet lineage.
 
 ## OpenWetWare Community Wiki (2005)
 
@@ -274,6 +364,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Di Carlo, D.; Aghdam, N.; Lee, L. P. Single-cell enzyme concentrations, kinetics, and inhibition analysis using high-density hydrodynamic cell isolation arrays. Anal. Chem. 2006, 78, 4925–4930. DOI: 10.1021/ac060541s
 - **ip status**: patented
 - **prior art notes**: Disclosed high-density hydrodynamic cell trap array: PDMS chip with serial-arranged U-shaped cup traps, each capturing exactly one cell from flowing suspension by streamline-following. Anticipates: U-cup hydrodynamic single-cell trap as a primitive, addressable single-cell observation arrays, and the architectural pattern subsequently elaborated by Tay-group and others for time-resolved single-cell measurement.
+
+## Garstecki 2006 formation of droplets and bubbles in a microfluidic T-junction (2006-02-08)
+
+- **id**: `garstecki-2006-t-junction-droplet-formation`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Whitesides / Stone groups, Harvard
+- **disclosure**: Garstecki, P.; Fuerstman, M. J.; Stone, H. A.; Whitesides, G. M. Formation of droplets and bubbles in a microfluidic T-junction - scaling and mechanism of break-up. Lab Chip 2006, 6, 437-446. DOI: 10.1039/b510841a
+- **ip status**: public-domain
+- **prior art notes**: The anchor reference for T-junction droplet generation: it identifies the squeezing regime in which the dispersed phase obstructs the main channel and break-up is driven by the upstream pressure rise rather than by viscous shear, and derives the linear scaling droplet-length = 1 + alpha*(flow-rate ratio) that has become the standard T-junction design rule. As prior art it anticipates claims to: generating monodisperse droplets or bubbles at a T-/cross-junction with size set by the flow-rate ratio in the squeezing regime; and design methods predicting droplet length from junction geometry and flow ratio. Companion to thorsen-2002-droplet-microfluidics-flow-focusing and anna-2003-flow-focusing-droplet; with them it defines the canonical droplet-generator geometries. Whitesides/Stone droplet lineage.
+
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
+## El-Ali 2006 cells on chips (2006-07-27)
+
+- **id**: `el-ali-2006-cells-on-chips`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Klavs F. Jensen and Peter K. Sorger groups, MIT
+- **disclosure**: El-Ali, J.; Sorger, P. K.; Jensen, K. F. Cells on chips. Nature 2006, 442, 403-411. DOI: 10.1038/nature05063
+- **ip status**: public-domain
+- **prior art notes**: The canonical Nature-insight review of cell biology on microfluidic chips: single-cell hydrodynamic and other trapping, perfusion culture with controlled microenvironments, microfluidic concentration-gradient generators, dynamic-stimulus delivery, on-chip lysis, and integration with downstream nucleic-acid/protein assays for systems-biology-grade single-cell measurements. As a unified prior-art statement it anticipates claims to: microfluidic perfusion culture with programmable soluble-factor gradients; integrated trap-stimulate-lyse-analyze workflows for single cells; and the broad concept of using microfluidics to make time-resolved, quantitative single-cell biology routine. Companion to di-carlo-2006-cell-trap-array and voldman-2002-cell-trap-dep-array. From the MIT Jensen/Sorger labs.
 
 ## Continuous inertial focusing, ordering, and separation of particles in microchannels (2007)
 
@@ -325,6 +445,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of microfluidic alginate microbead generation: aqueous alginate flow-focused into oil with downstream calcium-mediated gelation produces monodisperse alginate microbeads suitable for cell encapsulation. Anticipates: alginate-as-microbead-substrate-in-droplet-microfluidics, which became the backbone of single-cell sequencing platforms (Drop-seq, inDrops, Tapestri) where the bead encapsulates barcoding oligos.
 
+## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
+
+- **id**: `maerkl-quake-2007-mitomi-transcription-factor-binding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Stanford / Caltech
+- **disclosure**: Maerkl, S. J.; Quake, S. R. A systems approach to measuring the binding energy landscapes of transcription factors. Science 2007, 315, 233-237. DOI: 10.1126/science.1131007
+- **ip status**: public-domain
+- **prior art notes**: Discloses the MITOMI architecture: a dense array of PDMS unit cells where a circular button membrane valve is lowered onto a functionalized surface to mechanically trap surface-bound molecular complexes at the instant of measurement, defeating dissociation during washing and enabling thousands of true equilibrium-affinity measurements in parallel - here used to map the complete binding-energy landscape of transcription factors against every DNA sequence variant. Anticipates claims to: a button/doormat membrane valve used to capture and protect a surface-immobilized binding complex during washout; massively parallel on-chip equilibrium binding-constant arrays with in-situ-expressed protein; and microfluidic measurement of full sequence-resolved binding landscapes. The MITOMI button-valve trick is widely reused; this is its origin. Quake-lab MLSI lineage.
+
+## Melin and Quake 2007 microfluidic large-scale integration: evolution of design rules for biological automation (2007-06-01)
+
+- **id**: `melin-quake-2007-microfluidic-large-scale-integration-design-rules`
+- **corpus**: academic
+- **device class**: other
+- **creator**: Stephen R. Quake group, Stanford
+- **disclosure**: Melin, J.; Quake, S. R. Microfluidic large-scale integration: the evolution of design rules for biological automation. Annu. Rev. Biophys. Biomol. Struct. 2007, 36, 213-231. DOI: 10.1146/annurev.biophys.36.040306.132646
+- **ip status**: public-domain
+- **prior art notes**: The review that explicitly frames microfluidic large-scale integration as having design rules analogous to VLSI: minimum valve dimensions, multiplexer fan-out limits, channel-rounding requirements, push-up vs push-down valve choices, manifold pressure budgets, and the composition rules for assembling valves into pumps, mixers, rotary reactors, micro-columns, addressable chamber arrays, cell traps and MITOMI button cells. As a unified prior-art statement it anticipates claims to: parametric/rule-based design methodologies for elastomeric valve arrays; the standard MLSI primitive library; and software-assisted layout of multilayer soft-lithography chips. Core reference document for the Stanford Microfluidics Foundry (companion to hong-quake-2003-integrated-nanoliter-systems and studer-2004-low-actuation-pressure-microfluidic-valve).
+
 ## RainDance Technologies droplet platform (acquired by Bio-Rad) (2008)
 
 - **id**: `raindance-bio-rad-acquisition`
@@ -354,6 +494,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Karnik, R.; Gu, F.; Basto, P.; Cannizzaro, C.; Dean, L.; Kyei-Manu, W.; Langer, R.; Farokhzad, O. C. Microfluidic platform for controlled synthesis of polymeric nanoparticles. Nano Lett. 2008, 8, 2906–2912. DOI: 10.1021/nl801736q
 - **ip status**: patented
 - **prior art notes**: Foundational disclosure of microfluidic polymeric nanoparticle synthesis: rapid solvent-displacement mixing in microfluidic device drives controlled self-assembly of PLGA-PEG drug-loaded nanoparticles. Architectural cousin of LNP synthesis but for hydrophobic-drug-loaded polymeric (rather than lipid) nanoparticles. Anticipates: microfluidic-controlled nanomedicine manufacturing as a commercial category.
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
 
 ## Droplet microfluidic technology for single-cell high-throughput screening (2009)
 
@@ -404,6 +554,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wei F, Patel P, Liao W, et al., Clinical Cancer Research 15(13):4446-4452 (2009); doi:10.1158/1078-0432.CCR-09-0050
 - **ip status**: patented
 - **prior art notes**: Discloses an electrochemical microfluidic chip for direct multiplex detection of salivary RNA biomarkers in unamplified oral fluid for oral squamous cell carcinoma diagnosis. Anticipates: amplification-free salivary mRNA diagnostic cartridges using electrode-functionalized capture probes; PDMS chips integrating RNA-detection-from-saliva for oral cancer; the four-biomarker IL-8/IL-1B/S100P/OAZ1 panel itself for any downstream POC cartridge.
+
+## Chiu and Lorenz 2009 chemistry and biology in femtoliter and picoliter volume droplets (2009-04-21)
+
+- **id**: `chiu-lorenz-2009-chemistry-biology-femtoliter-picoliter-droplets`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Daniel T. Chiu group, University of Washington
+- **disclosure**: Chiu, D. T.; Lorenz, R. M. Chemistry and biology in femtoliter and picoliter volume droplets. Acc. Chem. Res. 2009, 42, 649-658. DOI: 10.1021/ar8002464
+- **ip status**: public-domain
+- **prior art notes**: An authoritative account of using femtoliter-to-picoliter droplets as reaction vessels for single-molecule and single-cell chemistry and biology: methods to generate, transport, trap (optical tweezers), fuse, and split ultrasmall aqueous droplets in immiscible carrier fluids, and the concentration-enhancement and stochastic-confinement effects that make single-molecule kinetics, digital enzyme assays, and rare-event detection possible. As prior art it anticipates claims to: confinement of single molecules or cells in fL-pL droplets for digital/single-molecule assays; optical-trap and electric-field manipulation of individual microfluidic droplets; and concentration enhancement by ultrasmall-volume compartmentalization. Companion to song-ismagilov-2003-plug-based-reaction-networks and theberge-2010-microdroplets-in-microfluidics. From the Chiu group (UW).
 
 ## Lung-on-a-chip (2010)
 
@@ -494,6 +654,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Qin, D.; Xia, Y.; Whitesides, G. M. Soft lithography for micro- and nanoscale patterning. Nat. Protoc. 2010, 5 (3), 491-502. DOI: 10.1038/nprot.2009.234.
 - **ip status**: public-domain
 - **prior art notes**: The widely-followed step-by-step protocol that codified PDMS soft-lithography microfabrication for non-specialist laboratories - the de facto foundry recipe behind a large fraction of academic microfluidic devices. Discloses, in reproducible detail: photomask layout and printing; SU-8 photoresist master fabrication on silicon with feature heights from a few microns to hundreds of microns; degassed-PDMS casting, curing, and demolding; oxygen-plasma activation and irreversible PDMS-glass and PDMS-PDMS bonding; inlet/outlet punching and tubing interfacing; and multilayer alignment for valve chips. Anticipates claims to: standardized PDMS replica-molding microfluidic fabrication workflows; plasma-bonded PDMS-glass channel sealing; SU-8-master-defined microchannel geometries; and the generic rapid-prototyping foundry process. Distinct from existing duffy-1998-pdms-soft-lithography-microfluidics, xia-whitesides-1998-soft-lithography-review, mcdonald-whitesides-2002-pdms-review, and whitesides-2010-mu-pads-systematic; cross-referenced as the published protocol node of the Whitesides soft-lithography lineage (the patented aspects are covered by whitesides-patent-family-soft-lithography).
+
+## Theberge 2010 microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology (2010-07-26)
+
+- **id**: `theberge-2010-microdroplets-in-microfluidics-platform`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: Wilhelm Huck and Florian Hollfelder groups, University of Cambridge
+- **disclosure**: Theberge, A. B.; Courtois, F.; Schaerli, Y.; Fischlechner, M.; Abell, C.; Hollfelder, F.; Huck, W. T. S. Microdroplets in microfluidics: an evolving platform for discoveries in chemistry and biology. Angew. Chem. Int. Ed. 2010, 49, 5846-5868. DOI: 10.1002/anie.200906653
+- **ip status**: public-domain
+- **prior art notes**: The comprehensive survey of droplet microfluidics as a platform: it catalogs the full unit-operation toolkit (droplet generation by T-junction/flow-focusing/step-emulsification; on-demand merging, splitting, sorting, picoinjection, on-chip incubation, droplet reinjection) and the applications built from them (in-vitro directed evolution, single-cell encapsulation and analysis, digital PCR, nanoparticle and microparticle synthesis, high-throughput drug screening). As a unified prior-art statement it anticipates claims to: pipelines composed of named droplet operations; fluorescence-activated droplet sorting; picoinjection of reagent into pre-formed droplets; and droplet-library-based screening generally. Companion to chiu-lorenz-2009 and the Weitz/Stone droplet lineage; widely cited reference for droplet-microfluidics prior art. From the Cambridge Huck/Hollfelder groups.
 
 ## Microfluidic bioreactor for individual yeast cells (2011)
 
@@ -625,6 +795,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Broad Institute / Harvard / McCarroll lab patent family for Drop-seq. Anchors claims around: (a) microfluidic flow-focusing co-encapsulation of a single cell with a single barcoded bead and lysis buffer in an aqueous-in-oil droplet; (b) bead-bound primer architecture (PCR handle + cell barcode + UMI + poly-T capture); (c) cell lysis in droplet with mRNA capture by bead; (d) bead recovery and pooled cDNA library construction. Companion academic disclosure already in corpus: macosko-2015-drop-seq. This entry maps the patent estate that 10x Genomics licensed (one of multiple licenses underlying the Chromium platform) and that Broad Institute can assert against unauthorized commercial implementations. Defensive value: timestamps the academic Macosko 2015 paper plus the Broad-assigned patent family as combined 102/103 prior art for any droplet-based single-cell barcoding implementation.
 
+## Huh 2013 microfabrication of human organs-on-chips (Nature Protocols) (2013-10-10)
+
+- **id**: `huh-2013-organ-chip-nature-protocols`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Donald E. Ingber group, Wyss Institute, Harvard
+- **disclosure**: Huh, D.; Kim, H. J.; Fraser, J. P.; Shea, D. E.; Khan, M.; Bahinski, A.; Hamilton, G. A.; Ingber, D. E. Microfabrication of human organs-on-chips. Nat. Protoc. 2013, 8, 2135-2157. DOI: 10.1038/nprot.2013.137
+- **ip status**: public-domain
+- **prior art notes**: The published fabrication protocol for the Wyss Institute organ-on-chip: how to mold the two parallel microchannels, cast and handle the thin porous PDMS membrane, plasma-bond the layers in alignment, etch the flanking side chambers, and apply cyclic vacuum to mechanically strain the cell-bearing membrane - the canonical recipe behind the lung/gut/etc. chips. As a public disclosure it anticipates fabrication-method claims to: a microfluidic organ device made by bonding two channel layers around a microfabricated thin porous elastomer membrane; vacuum-actuated side chambers for cyclic membrane stretch; and the specific layer-alignment/bonding workflow for such devices. Companion to huh-2010-lung-on-chip and bhatia-ingber-2014-microfluidic-organs-on-chips; this is the Wyss Microfluidics Core / Emulate reference protocol.
+
 ## Emulate Inc. Organ-Chip platform (2014)
 
 - **id**: `emulate-organ-on-chip-platform`
@@ -665,6 +845,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Composite reference for the microfluidic exosome / EV isolation subfield. Combines size-based (DLD adapted for sub-200-nm cutoff), affinity-based (immunomagnetic), and electrokinetic (DEP) strategies. Anticipates: clinical-grade microfluidic exosome isolation for liquid biopsy applications. Underlies commercial efforts by Exosome Diagnostics, NX Pharmagen, and academic spinouts.
 
+## Bhatia and Ingber 2014 microfluidic organs-on-chips (2014-08-05)
+
+- **id**: `bhatia-ingber-2014-microfluidic-organs-on-chips`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Sangeeta N. Bhatia (MIT) and Donald E. Ingber (Wyss Institute, Harvard)
+- **disclosure**: Bhatia, S. N.; Ingber, D. E. Microfluidic organs-on-chips. Nat. Biotechnol. 2014, 32, 760-772. DOI: 10.1038/nbt.2989
+- **ip status**: public-domain
+- **prior art notes**: The seminal organ-on-chip review: it codifies the two-channel porous-membrane microdevice architecture with cyclic mechanical actuation that reconstitutes organ-level structure and function (lung, gut, liver, kidney, heart, blood-brain barrier, bone marrow), the perfusion schemes that mimic vascular and interstitial flow, and the linked-organ / body-on-chip concept for systemic pharmacokinetic-pharmacodynamic studies. As a unified prior-art statement it anticipates claims to: microfluidic organ models built from cell-lined channels separated by a flexible porous membrane under cyclic strain; multi-organ chips fluidically coupled to model systemic drug distribution; and the use of such devices for toxicity and efficacy testing. HIGH-PRIORITY anchor for the organ-on-chip industry (Emulate, TissUse, CN Bio, etc.). Companion to huh-2010-lung-on-chip, huh-2013-organ-chip-protocol, huh-bhatia-2018-mps-roadmap, sackmann-2014-microfluidics-medicine-review. From Bhatia (MIT) and Ingber (Wyss).
+
 ## Drop-seq single-cell RNA sequencing (2015)
 
 - **id**: `macosko-2015-drop-seq`
@@ -694,6 +884,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Klein, A. M.; Mazutis, L.; et al. (inDrops paper, see klein-2015-indrops). Zilionis, R. et al. Single-cell barcoding and sequencing using droplet microfluidics. Nat. Protoc. 2017, 12, 44–73.
 - **ip status**: public-domain
 - **prior art notes**: Disclosed barcoded-hydrogel-bead manufacturing for single-cell RNA-seq: split-and-pool synthesis on alginate beads in microfluidic encapsulation produces a library of beads each bearing a unique barcode, used in inDrops and similar platforms. Anticipates: split-pool-bead-barcoding architecture, which became central to the inDrops and 10x Chromium commercial platforms.
+
+## Esch 2015 organs-on-chips at the frontiers of drug discovery (2015-03-13)
+
+- **id**: `esch-2015-organs-on-chips-drug-discovery`
+- **corpus**: academic
+- **device class**: organ-on-chip
+- **creator**: Dongeun (Dan) Huh group, University of Pennsylvania (with A. Bahinski)
+- **disclosure**: Esch, E. W.; Bahinski, A.; Huh, D. Organs-on-chips at the frontiers of drug discovery. Nat. Rev. Drug Discov. 2015, 14, 248-260. DOI: 10.1038/nrd4539
+- **ip status**: public-domain
+- **prior art notes**: The Nature Reviews Drug Discovery survey of organ-on-chip / microphysiological systems specifically as drug-discovery tools: where in the pipeline (target validation, lead optimization, ADME-Tox, surrogate clinical trials) chip models add predictive value over animals and static culture, how multi-organ chips model systemic pharmacokinetics, and the technical and regulatory hurdles to adoption. As a unified prior-art statement it anticipates claims to: use of microfluidic organ models in defined drug-development workflows; coupled multi-organ chips for PK/PD prediction; and integration of organ chips with pharmacokinetic effluent sampling. Companion to bhatia-ingber-2014-microfluidic-organs-on-chips and huh-bhatia-2018-mps-roadmap. From the Huh group (Penn).
 
 ## Soft, skin-mounted epidermal microfluidic device for sweat collection and analysis (2016)
 

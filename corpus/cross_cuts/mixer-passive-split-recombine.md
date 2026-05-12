@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mixer-passive-split-recombine`
 
-**21 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1841
 
@@ -224,3 +224,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Corning Inc. ULC-G2 product brochure 2018; Corning press release Achema 2018 launch; Lavric, E. D.; Roberge, D. M. 'Lab-scale Corning ULC reactor for fast prototyping' Chem. Eng. Process. 2019 supplement; product page https://www.corning.com/worldwide/en/innovation/corning-emerging-innovations/advanced-flow-reactors/laboratory-reactors.html
 - **ip status**: patented
 - **prior art notes**: Discloses Corning's ultra-low-cost entry-level variant of the AFR family, marketed at the academic/teaching/screening price point (<$10k). Maintains the same heart-shape channel motif as G1/G3/G4 — confirming that the fundamental mixing geometry is the IP, and form-factor cost-engineering is the productization decision. Anticipates patent claims to compact academic-priced single-module microreactors derived from production-scale microreactor families.
+
+## Yves Saint Laurent Rouge Sur Mesure (Perso) AI Custom Lipstick Device (2020)
+
+- **id**: `ysl-rouge-sur-mesure-lipstick-device`
+- **corpus**: private
+- **device class**: dispenser-pipettor
+- **creator**: LOreal (Yves Saint Laurent Beaute)
+- **disclosure**: Yves Saint Laurent Beaute / LOreal Rouge Sur Mesure launch press materials (CES 2020, retail 2021); LOreal Perso device patents
+- **ip status**: patented
+- **prior art notes**: Discloses a handheld battery-powered device that meters and blends multiple viscous cosmetic pigment pastes from replaceable cartridges into a single custom-shade dose under app/AI control. Anticipates: handheld multi-cartridge viscous-fluid blending dispensers; color-recipe-driven micro-metering of pigment pastes; consumer fluidic mixing appliances for cosmetics. Sibling device to the Perso skincare module (loreal-perso-skincare) and conceptually adjacent to pg-opte-precision-skincare-wand.

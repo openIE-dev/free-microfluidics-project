@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `separation-affinity-capture`
 
-**113 corpus entries disclose this subsystem.**
+**124 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941
 
@@ -265,6 +265,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses heparin-conjugated rigid methacrylic polymer base for AAV polishing leveraging native AAV2 heparin sulfate receptor binding. Anticipates heparin affinity resin for AAV serotype polishing claims.
 
+## Marcus 2006 microfluidic single-cell mRNA isolation and analysis (2006-05-01)
+
+- **id**: `marcus-2006-microfluidic-single-cell-mrna-isolation`
+- **corpus**: academic
+- **device class**: single-cell-platform
+- **creator**: Stephen R. Quake group, Caltech
+- **disclosure**: Marcus, J. S.; Anderson, W. F.; Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 2006, 78, 3084-3089. DOI: 10.1021/ac0519460
+- **ip status**: public-domain
+- **prior art notes**: An early end-to-end single-cell mRNA sample-preparation chip: a multilayer PDMS device that captures one cell in an isolated nanoliter chamber, lyses it, captures the released mRNA on an oligo-dT affinity bead column, washes, and reverse-transcribes / elutes cDNA for downstream qPCR - all with monolithic membrane valves and dead-volume-controlled metering. Anticipates claims to: isolation of a single cell in a valve-bounded nanoliter reaction chamber for nucleic-acid extraction; on-chip oligo-dT affinity capture of polyadenylated RNA from a single-cell lysate; and integrated single-cell lysis + RNA purification + reverse transcription in one microfluidic device. Conceptual ancestor of later single-cell RNA-seq sample-prep chips (Fluidigm C1 and droplet scRNA-seq). Quake-lab MLSI lineage.
+
 ## Bead-based cell capture in microfluidic channels (2007)
 
 - **id**: `yu-2010-cell-pull-down-bead`
@@ -315,6 +325,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses a single-domain antibody ligand coupled via flexible spacer to highly cross-linked Sepharose for broad-serotype AAV capture. Anticipates pan-serotype single-domain-antibody AAV affinity capture resin claims.
 
+## Maerkl and Quake 2007 systems approach to measuring transcription-factor binding energy landscapes (MITOMI) (2007-01-12)
+
+- **id**: `maerkl-quake-2007-mitomi-transcription-factor-binding`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: Stephen R. Quake group, Stanford / Caltech
+- **disclosure**: Maerkl, S. J.; Quake, S. R. A systems approach to measuring the binding energy landscapes of transcription factors. Science 2007, 315, 233-237. DOI: 10.1126/science.1131007
+- **ip status**: public-domain
+- **prior art notes**: Discloses the MITOMI architecture: a dense array of PDMS unit cells where a circular button membrane valve is lowered onto a functionalized surface to mechanically trap surface-bound molecular complexes at the instant of measurement, defeating dissociation during washing and enabling thousands of true equilibrium-affinity measurements in parallel - here used to map the complete binding-energy landscape of transcription factors against every DNA sequence variant. Anticipates claims to: a button/doormat membrane valve used to capture and protect a surface-immobilized binding complex during washout; massively parallel on-chip equilibrium binding-constant arrays with in-situ-expressed protein; and microfluidic measurement of full sequence-resolved binding landscapes. The MITOMI button-valve trick is widely reused; this is its origin. Quake-lab MLSI lineage.
+
+## Microfluidic / micro-channel solvent-extraction contactor for nuclear reprocessing (PUREX and minor-actinide separation studies) (2007-06-15)
+
+- **id**: `purex-microfluidic-solvent-extraction-contactor`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: academic and national-lab research (Kitamori group, Univ. of Tokyo; Japan Atomic Energy Agency; Argonne National Laboratory; Idaho National Laboratory; ORNL; Savannah River National Laboratory; CEA/Marcoule)
+- **disclosure**: Tsukahara, Hibara, Kim & Kitamori, Microfluidic chemical processing for nuclear fuel reprocessing - solvent extraction in microchannels; see Hotokezaka et al., Development of the innovative nuclide separation system for high-level radioactive waste using microchannel chip extraction, Prog. Nucl. Energy 47, 439 (2005); also Argonne/SRNL/INL microchannel-contactor reports.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel liquid-liquid extraction contactors (parallel-laminar and slug-flow) with downstream microfluidic phase separation applied to actinide/lanthanide separations in nuclear reprocessing, with low radioactive holdup and numbering-up scalability. Anticipates claims to (a) microchannel solvent-extraction contactor for U/Pu (PUREX) or minor-actinide separation; (b) slug-flow microfluidic liquid-liquid extraction with integrated phase separator; (c) numbered-up parallel microchannel contactor for low-inventory radiochemical processing; (d) on-chip extractant screening for reprocessing flowsheets. Prior art for academic, JAEA, PNNL/Battelle and national-lab microchannel-contactor patents; extends the wave-2/3 radiochemistry lineage.
+
 ## BioShock - ADAM extraction from Little Sisters (2007-08-21)
 
 - **id**: `bioshock-adam-extraction-little-sisters`
@@ -324,6 +354,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: 2K Boston/2K Australia, BioShock (2K Games 2007)
 - **ip status**: fictional
 - **prior art notes**: Disclosure of host-parasite biofluid harvesting via oral cannula, with downstream volumetric measurement and SKU-format bottling. Anticipates claims directed to host-parasite biofluid extraction cartridges with downstream volumetric metering and SKU-format dispensing.
+
+## Nagrath 2007 isolation of rare circulating tumour cells in cancer patients by microchip technology (CTC-chip) (2007-12-20)
+
+- **id**: `nagrath-2007-ctc-chip-microchip-circulating-tumor-cells`
+- **corpus**: academic
+- **device class**: separator-component
+- **creator**: Mehmet Toner group, Massachusetts General Hospital / Harvard (with Haber, Maheswaran)
+- **disclosure**: Nagrath, S.; Sequist, L. V.; Maheswaran, S.; Bell, D. W.; Irimia, D.; Ulkus, L.; Smith, M. R.; Kwak, E. L.; Digumarthy, S.; Muzikansky, A.; Ryan, P.; Balis, U. J.; Tompkins, R. G.; Haber, D. A.; Toner, M. Isolation of rare circulating tumour cells in cancer patients by microchip technology. Nature 2007, 450, 1235-1239. DOI: 10.1038/nature06385
+- **ip status**: public-domain
+- **prior art notes**: The founding circulating-tumor-cell microchip: a flow chamber packed with tens of thousands of antibody (anti-EpCAM)-functionalized microposts whose geometry and spacing are optimized so that cells in unprocessed whole blood collide with post surfaces frequently enough to be affinity-captured while shear stays below the threshold for cell loss - isolating CTCs at frequencies of a few cells per milliliter at high purity for enumeration and downstream genotyping. Anticipates claims to: affinity capture of rare cells from unprocessed whole blood on an array of antibody-coated microstructures; micropost-array geometry designed via streamline/collision-probability analysis to trade capture efficiency against shear; and integrated rare-cell capture plus on-chip immunostaining and molecular analysis. HIGH-PRIORITY anchor for the liquid-biopsy / CTC industry (CTC-iChip, CellSearch alternatives). Toner-lab MGH lineage; descendant work includes ozkumur-2013-ctc-iChip. Companion to toner-irimia-2005-blood-on-chip.
 
 ## Thermo Fisher Phadia 2500 Allergy/Autoimmune ImmunoCAP Cartridge (2008)
 
@@ -344,6 +384,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: QIAGEN QIAsymphony product launch 2008; user manual HB-0212; FDA-cleared QIAsymphony RGQ MDx 510(k) K133314
 - **ip status**: patented
 - **prior art notes**: Discloses a modular two-stage clinical-laboratory automation architecture where one module performs NA extraction continuously while a downstream module sets up downstream PCR/assay reactions with the same pipetting infrastructure. Anticipates: random-access continuous-loading clinical-lab extraction architectures; modular-track plus shared-robotics extraction-plus-assay-setup automation; FDA-cleared NA-extraction modules feeding integrated downstream PCR systems.
+
+## Fan 2008 integrated barcode chips for rapid multiplexed analysis of proteins in microliter quantities of blood (2008-11-16)
+
+- **id**: `fan-2008-integrated-barcode-chip-blood-protein-analysis`
+- **corpus**: academic
+- **device class**: lab-on-chip
+- **creator**: James R. Heath group, Caltech (with Leroy Hood, ISB)
+- **disclosure**: Fan, R.; Vermesh, O.; Srivastava, A.; Yen, B. K. H.; Qin, L.; Ahmad, H.; Kwong, G. A.; Liu, C.-C.; Gould, J.; Hood, L.; Heath, J. R. Integrated barcode chips for rapid, multiplexed analysis of proteins in microliter quantities of blood. Nat. Biotechnol. 2008, 26, 1373-1378. DOI: 10.1038/nbt.1507
+- **ip status**: public-domain
+- **prior art notes**: Discloses the integrated antibody-barcode chip: a glass surface flow-patterned with stripes of distinct DNA-encoded antibodies (DEAL chemistry), bonded to a PDMS microfluidic layer that on-chip separates plasma from a microliter whole-blood drop (no centrifuge) and routes it across the barcode for a multiplexed (~12-plex) fluorescence immunoassay - turning a finger-prick into a quantitative serum-protein panel in minutes. Anticipates claims to: spatially multiplexed protein immunoassays using flow-patterned antibody-stripe barcodes addressed by DNA hybridization; on-chip membrane-free plasma separation from small whole-blood volumes; and integration of blood fractionation with multiplexed protein readout in one device. Direct precursor of the Heath single-cell barcode chip (SCBC) for single-cell secretomics/proteomics (cf. fan-2015-cellular-research-microwell). From the Heath group (Caltech) and Hood (ISB).
 
 ## Roche MagNA Pure 96 Magnetic-Bead Nucleic Acid Extraction Cartridge (2009)
 
@@ -465,6 +515,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Discloses genomic-selection-driven salmon broodstock pipeline coupled to qPCR sea-lice surveillance. Anticipates broodstock genomic-selection-plus-pathogen-surveillance integrated aquaculture workflow claims.
 
+## PET/SPECT cyclotron radiometal target processing - microfluidic dissolution and ion-exchange purification (Ga-68/Cu-64/Zr-89/Ac-225 class) (2010-03-25)
+
+- **id**: `pet-cyclotron-target-dissolution-ion-exchange-microfluidic`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: radiopharmacy equipment makers (Trasis, IBA, GE Healthcare, Sumitomo, Comecer) and academic groups (UCLA Crump Institute, ETH/PSI, Univ. of Wisconsin) developing microfluidic radiometal processing
+- **disclosure**: US20100074825A1 / WO2010/032083 Microfluidic apparatus for radiopharmaceutical synthesis (Trasis-style); see also Lin et al., Microfluidic purification of cyclotron-produced radiometals, and Rensch et al., Microfluidics: a groundbreaking technology for PET tracer production?, Molecules 18, 7930 (2013).
+- **ip status**: patented
+- **prior art notes**: Discloses an automated shielded microfluidic train - dissolution, micro-column ion-exchange/extraction-chromatography purification, metered elution - for processing cyclotron-irradiated radiometal targets into radiolabeling-ready fractions with small reagent/resin volumes and in-line radiation monitoring. Anticipates claims to (a) microfluidic micro-column purification of a cyclotron-produced radiometal; (b) automated cassette-based target dissolution and ion-exchange processing module; (c) sequential multi-column microfluidic separation of an actinide/radiometal from its target matrix and daughters; (d) low-volume high-specific-activity radiometal elution for chelator labeling. Prior art for Trasis, IBA, GE, Siemens radiopharmacy-module patents; extends the wave-2 Trasis radiosynthesis lineage.
+
 ## Quanterix Simoa HD-X / HD-1 Single-Molecule Array Bead Cartridge (2011)
 
 - **id**: `quanterix-simoa-hd-x-bead-cartridge`
@@ -525,6 +585,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Macrogen patent family covers sequencing-prep cartridge protocols and Asian-population reference sequencing kits. Anticipates claims directed to population-reference sequencing-prep cartridges with regional optimization.
 
+## Lucas Clinic celebrity-virus harvesting, attenuation, and injection apparatus (Antiviral, 2012) (2012-05-19)
+
+- **id**: `antiviral-lucas-clinic-celebrity-virus-injection`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: Brandon Cronenberg
+- **disclosure**: Antiviral (Brandon Cronenberg; theatrical release 2012, premiered Cannes Un Certain Regard 2012-05-19); the Lucas Clinic harvests viruses from celebrities, runs them through a copy-protection/attenuation machine, and injects paying clients; also the celebrity-cell-tissue butchery; IMDB tt1772264.
+- **ip status**: fictional
+- **prior art notes**: Discloses a harvest-process-attenuate-inject pipeline: donor pathogen sampling, a benchtop processing machine applying an attenuation/copy-protection step, single-dose syringe loading, and client injection, plus a parallel donor-cell tissue-culture line. Cited aspects: the harvest-then-attenuate-then-single-dose-inject workflow and the benchtop pathogen-processing-to-dose-unit machine. Anticipates generic claims to integrated pathogen-harvest-and-attenuation-to-dose-unit pipelines and to bench instruments converting harvested biological material into single-dose injectables. HIGHEST 102 value: the entire film is about this microfluidic clinic pipeline. Pairs with theranos-promised-cartridge, antiviral-adjacent fictional entries, and the-substance-cell-division-serum.
+
 ## QIAGEN QIAcube HT Sample Prep (2013)
 
 - **id**: `qiagen-qiacube-ht-extraction`
@@ -554,6 +624,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: GE Healthcare Life Sciences AKTA PCC 75 product release announcement, 2013.
 - **ip status**: patented
 - **prior art notes**: Discloses 3-column protein A PCC with delta-UV trigger algorithm. Anticipates claims to breakthrough-driven column rotation in N>=3 column continuous capture and UV inline difference signal as column switching trigger.
+
+## bioMerieux ENDONEXT EndoZyme II / ENDOLISA Recombinant Factor C Assay (2013)
+
+- **id**: `biomerieux-endonext-recombinant-factor-c`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: bioMerieux (Hyglos)
+- **disclosure**: Hyglos GmbH (now bioMerieux) EndoZyme II Recombinant Factor C and ENDOLISA endotoxin assay technical notes; bioMerieux ENDONEXT product line (2018)
+- **ip status**: patented
+- **prior art notes**: Discloses recombinant Factor C endotoxin detection in microplate fluidic format including a solid-phase endotoxin-capture variant (ENDOLISA) that immobilizes endotoxin on an EBP-coated surface before enzymatic readout. Anticipates: solid-phase-capture endotoxin assays decoupling sample matrix from the enzymatic step; animal-free BET in disposable microwell format. Companion to lonza-pyrogene-recombinant-factor-c-cartridge.
 
 ## Waters ionKey/MS chip (2014)
 
@@ -635,6 +715,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Discloses integrated automated NA extraction + PCR amplification system in continuous-loader format for high-throughput central-lab molecular diagnostics. Anticipates continuous-loader automated NAAT system with multi-target multiplex PCR claims.
 
+## VICAM Vertu / Vertu TOUCH Fluorometric Mycotoxin Test (Immunoaffinity Column + Reader) (2014)
+
+- **id**: `vicam-vertu-fluorometric-mycotoxin-cartridge`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: VICAM (Waters Corporation)
+- **disclosure**: VICAM (a Waters business) Vertu / Vertu TOUCH and AflaTest / OchraTest / FumoniTest immunoaffinity column system datasheets and methods (AOAC-adopted)
+- **ip status**: patented
+- **prior art notes**: Discloses a packed antibody-bead affinity micro-column for selective capture of mycotoxins from a grain-extract flow, with elution into a fluorometric readout. Anticipates: immunoaffinity micro-column cleanup integrated to a portable fluorometer; affinity-capture-then-elute sample-prep cartridges for food contaminants. Companion to romer-labs-fluoroquant-mycotoxin-quant and neogen-reveal mycotoxin tests (already covered).
+
+## Quotient MosaiQ Microarray Blood-Typing and Disease-Screening Platform (2014)
+
+- **id**: `quotient-mosaiq-microarray-blood-typing`
+- **corpus**: private
+- **device class**: lab-on-chip
+- **creator**: Quotient Limited
+- **disclosure**: Quotient Limited (Eysins, Switzerland / Edinburgh, UK) MosaiQ platform disclosures and patents on a microarray-based consumable for simultaneous blood grouping, antibody screening and infectious-disease serology
+- **ip status**: patented
+- **prior art notes**: Discloses a microfluidic consumable carrying a printed antigen/antibody microarray over which a small plasma sample is metered, processed and imaged to yield blood-group phenotype, antibody screening and infectious-disease serology together. Anticipates: microarray-in-microfluidic-flow-path consumables for immunohematology; consolidated multi-modal transfusion testing on one chip. Companion to bio-rad-ih-1000-immunohematology (gel-card automation) -- MosaiQ uses a microarray instead of columns.
+
 ## Open Insulin Foundation (2015)
 
 - **id**: `open-insulin-foundation`
@@ -664,6 +764,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Be The Match BioTherapies (formerly NMDP BioCenter) launch ~2015; Be The Match BioTherapies service literature; National Marrow Donor Program publications
 - **ip status**: trade-secret
 - **prior art notes**: Process disclosure: Be The Match BioTherapies provides apheresis-derived starting material plus closed-system cell processing services (Sepax cell wash, CliniMACS selection, MaxCyte electroporation, G-Rex expansion, fill-finish) supporting autologous and allogeneic cell therapy programs. Microfluidic content is the cumulative content of the constituent unit operations (each separately covered in corpus); Be The Match's platform-level disclosure is the apheresis-to-formulated-product chain-of-custody architecture and the donor-pool supply integration. Trade-secret on operational specifics; entry rests on service literature.
+
+## Healing Church Research Hall and Iosefka Clinic blood-experiment apparatus (Bloodborne) (2015-03-24)
+
+- **id**: `bloodborne-research-hall-iosefka-clinic`
+- **corpus**: fictional
+- **device class**: fictional-laboratory
+- **creator**: FromSoftware
+- **disclosure**: Bloodborne (FromSoftware / Sony Computer Entertainment, 2015-03-24); the Research Hall and Iosefka Clinic environments, the blood-vial healing items, and the blood-ministration lore; IMDB tt3702996.
+- **ip status**: fictional
+- **prior art notes**: Discloses a blood-therapy clinic with (a) standardized single-dose injectable blood vials, (b) bedside infusion/extraction lines on restrained subjects, and (c) a research ward performing serial blood-handling experiments. Cited aspects: the dose-unit blood vial and the bedside coupled infusion-and-extraction loop. Anticipates generic claims to standardized single-dose blood-product injectors and to integrated bedside extract-process-reinfuse apparatus. Extends bloodborne-healing-church-blood-ministration; pairs with vampire-the-masquerade blood-magic fictional entries.
 
 ## Promega Maxwell RSC 48 Instrument (2016)
 

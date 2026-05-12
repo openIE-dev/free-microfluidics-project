@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fabrication-multilayer-lamination`
 
-**16 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1970
 
@@ -25,6 +25,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Polaroid blister-pod chemistry patent family covers blister-pod reagent storage with frangible-seal roller-burst metering across substrate, and multi-stage sequential pod chemistry. Extends existing polaroid-sx-70-fluid-pod-1972 and polaroid-spectra-1986 entries. Anticipates claims directed to blister-pod cartridges with roller-burst metering and multi-stage layered reactive substrates. Foundational disclosure for downstream POC diagnostic blister-pod cartridge prior art.
 
+## Screen-printed electrode (SPE) fabrication for biosensors and glucose strips (1984-10-23)
+
+- **id**: `screen-printed-biosensor-electrode-deposition`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: MediSense (now Abbott), Genetics International; ink suppliers DuPont (silver/silver-chloride and carbon pastes), Sun Chemical/Gwent Group, Acheson/Henkel; screen printers DEK, EKRA, Asys
+- **disclosure**: US4545382A Sensor for components of a liquid mixture (Higgins, Hill & Plotkin, Genetics International / MediSense - the foundational screen-printed enzyme-electrode glucose strip); see also Cass et al., Ferrocene-mediated enzyme electrode for amperometric determination of glucose, Anal. Chem. 56, 667 (1984).
+- **ip status**: patented
+- **prior art notes**: Discloses screen-mesh thick-film deposition used to fabricate patterned electrochemical electrodes plus a laminated sub-5-microliter capillary reaction chamber - the canonical screen-printed biosensor strip. Anticipates claims to (a) screen-printed working/counter/reference electrode set on a flexible substrate for amperometric biosensing; (b) overprinted dried enzyme-mediator reagent layer on a screen-printed working electrode; (c) laminated spacer/cover defining a capillary-fill blood chamber over screen-printed electrodes. Foundational prior art for glucose-strip and screen-printed-immunosensor patents (Abbott, Roche, LifeScan, Bayer/Ascensia).
+
+## Automotive A/C microchannel (parallel-flow) condenser and evaporator (1991-09-24)
+
+- **id**: `automotive-microchannel-condenser-evaporator`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Denso (Nippondenso), Modine Manufacturing, Mahle (Behr), Valeo, Hanon Systems; multiport-tube extruders incl. Sapa/Hydro
+- **disclosure**: US5048602A Condenser for automotive air conditioning systems (Nippondenso); see also US5172761A (Showa Aluminum) heat exchanger with multiport flat tubes; SAE technical papers on parallel-flow automotive condensers, early 1990s.
+- **ip status**: patented
+- **prior art notes**: Discloses arrays of sub-millimeter parallel microchannels in extruded flat tubes, with louvered fins and baffled headers for multi-pass refrigerant flow, brazed monolithically - the canonical automotive microchannel heat exchanger. Anticipates claims to (a) multiport flat-tube microchannel condenser/evaporator; (b) header-baffle multi-pass routing through a microchannel tube bank; (c) brazed-aluminum microchannel HX for mobile refrigeration; (d) low-charge microchannel A/C with R-1234yf. Prior art for Modine, Mahle/Behr, Valeo, Hanon microchannel-HX patents and a relative of EV battery cold-plate designs.
+
 ## IMM Institut für Mikrotechnik Mainz modular microreactors (slit/interdigital/Caterpillar) (1997)
 
 - **id**: `imm-mainz-modular-microreactors`
@@ -34,6 +54,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ehrfeld, W.; Golbig, K.; Hessel, V.; Löwe, H.; Richter, T. 'Characterization of mixing in micromixers by a test reaction: single mixing units and mixer arrays' Ind. Eng. Chem. Res. 1999, 38, 1075–1082; IMM Mainz technical report 1997; DE19536856A1 1995 priority
 - **ip status**: patented
 - **prior art notes**: IMM Mainz is the canonical academic-industrial bridge for European microreactors. Discloses (a) interdigital multilamination as a numerable industrial mixing primitive — alternating thin feed streams produce diffusion-limited mixing at orders-of-magnitude reduced length scale; (b) the 'slit-and-interdigital' mixer (SIMM) family covering laboratory through 3 m³/h production; (c) the canonical Caterpillar split-recombine pattern later commercialized by Ehrfeld BTS; (d) the entire architectural language of 'numbering up' (parallel modules) versus 'scaling up' (larger channels). Should be cited against later patent claims to interdigital lamination mixers, multilamination plate-stack mixers, and slit-focused multistream contactors.
+
+## E Ink electrophoretic display microcapsule encapsulation process (1998-08-04)
+
+- **id**: `eink-electrophoretic-microcapsule-encapsulation`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: E Ink Corporation (spun out of the MIT Media Lab; majority owned by E Ink Holdings / Yuen Foong Yu)
+- **disclosure**: US5961804A Microencapsulated electrophoretic display (Jacobson et al., MIT / E Ink Corporation), filed 1997, granted 1998; see also Comiskey, Albert, Yoshizawa & Jacobson, An electrophoretic ink for all-printed reflective electronic displays, Nature 394, 253 (1998).
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic emulsification-and-coacervation encapsulation of a charged-pigment electrophoretic fluid into uniform tens-of-micron microcapsules and their monolayer web coating - a literal industrial microfluidic encapsulation process. Anticipates broad claims to (a) microencapsulated electrophoretic display media; (b) emulsion/coacervation encapsulation of a dispersion of oppositely charged pigments in a nonpolar fluid; (c) bistable reflective display by monolayer-coated microcapsules; (d) multi-pigment color electrophoretic capsules. Foundational e-paper prior art; the SiPix microcup architecture is the principal alternative and a lineage descendant of the same problem statement.
 
 ## Quake monolithic pneumatic membrane valve and pump (2000)
 
@@ -65,6 +95,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Demonstrated 'microfluidic large-scale integration' — thousands of Quake valves operated as binary multiplexers to address hundreds of chambers from a few control lines. The conceptual analog of VLSI for microfluidics. Anticipates: hierarchical valve multiplexing for chamber-array addressing (n chambers from O(log n) control lines), and the architectural model that underlies Fluidigm IFCs and most chip-scale microfluidic automation. Companion to Unger 2000 valve disclosure; together they define MLSI.
 
+## SiPix microcup electronic-ink array (E Ink microcup architecture) (2002-10-31)
+
+- **id**: `eink-sipix-microcup-electrowetting-array`
+- **corpus**: private
+- **device class**: digital-microfluidics
+- **creator**: SiPix Imaging, Inc. (acquired by E Ink Holdings)
+- **disclosure**: US20020163624A1 / US6788452B2 Process for manufacture of improved color displays / Electrophoretic display and novel process for its manufacture (Liang et al., SiPix Imaging); SiPix later acquired by E Ink.
+- **ip status**: patented
+- **prior art notes**: Discloses roll-to-roll microembossing of an array of open microcups and continuous fill-and-seal of each with a display fluid - a web-manufactured microfluidic micro-reservoir array. Anticipates claims to (a) microembossed open-microcup display cell array; (b) roll-to-roll fill-and-seal of microcells with electro-optic fluid; (c) mechanically isolated fluid pixels on a flexible substrate; (d) microcup as a confinement cell for electrowetting/electrofluidic media. Sibling architecture to E Ink microcapsule encapsulation; prior art for microcell-confined e-paper and electrofluidic-display patents.
+
 ## Fluidigm Dynamic Array Integrated Fluidic Circuit (2003)
 
 - **id**: `fluidigm-dynamic-array-ifc`
@@ -94,6 +134,16 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kobe Steel Ltd. SUMC microchannel reactor product brochure 2005; Yoshida, J.; Kim, H.; Nagaki, A. 'Green and sustainable chemical synthesis using flow microreactors' ChemSusChem 2011, 4, 331–340 (cites SUMC); JP4438168 Kobe Steel patent 2005
 - **ip status**: patented
 - **prior art notes**: Discloses Japanese commercial industrial microreactor platform (Kobelco/Sumitomo) using diffusion-bonded stacked metal plates with sub-millimeter etched channels. Distinct from the Velocys/Ineratec axis (FT/PtX) by targeting fine-chemicals/pharma rather than gas-to-liquids. Provides prior-art evidence of multiple independent commercial implementations of the diffusion-bonded-laminate microreactor pattern in the 2003–2008 window. Anticipates patent claims to diffusion-bonded stacked-plate microreactors for high-pressure exothermic chemistry.
+
+## Yager 2006 microfluidic diagnostic technologies for global public health (2006-07-27)
+
+- **id**: `yager-2006-microfluidic-diagnostics-global-health`
+- **corpus**: academic
+- **device class**: point-of-care-cartridge
+- **creator**: Paul Yager group, University of Washington (with PATH / Micronics)
+- **disclosure**: Yager, P.; Edwards, T.; Fu, E.; Helton, K.; Nelson, K.; Tam, M. R.; Weigl, B. H. Microfluidic diagnostic technologies for global public health. Nature 2006, 442, 412-418. DOI: 10.1038/nature05064
+- **ip status**: public-domain
+- **prior art notes**: The seminal review of microfluidic diagnostics for the developing world: it lays out the design constraints for instrument-free, low-power, low-cost point-of-care testing (the ASSURED criteria), surveys laminate, paper, and capillary-driven cartridge architectures, and presents diffusion-based assay primitives (H-filter, T-sensor) suited to field use. As prior art it anticipates claims to: instrument-free capillary/laminate microfluidic diagnostic cartridges; integration of sample prep, reaction and colorimetric readout in a disposable card without external pumps; and the general system requirements of resource-limited-setting point-of-care microfluidics. HIGH-PRIORITY anchor - this paper essentially defined the low-cost-diagnostics microfluidics field and anchors paper-microfluidics, lateral-flow-plus-microfluidics, and instrument-light cartridge industries. Companion to brody-yager-1997-h-filter and whitesides-2010-mu-pads-systematic.
 
 ## BioFire FilmArray multiplex PCR cartridge (2008)
 
@@ -134,6 +184,36 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PowerCell Sweden AB founding 2008 (Volvo SOFC spinout); Karlsson, P.; Lundberg, J.; Sjöstrand, M. 'Diesel-fueled SOFC APU using a microchannel reformer' SAE Technical Paper 2011-01-2271, 2011; PowerCell datasheet rev 2018; Volvo Powertrain microchannel reformer prior art DE19712114A1 1997
 - **ip status**: patented
 - **prior art notes**: Discloses a diffusion-bonded stainless-steel microchannel autothermal reformer with catalyst-coated reaction channels and parallel combustion channels for in-situ heating, sized for vehicle-APU SOFC integration. Anticipates patent claims directed to integrated microchannel reformer-combustor architectures for distributed hydrogen production. Pairs with Velocys (FT side) and Air Products (steam reforming) to broadly cover the microchannel-reformer prior art.
+
+## Roll-to-roll gravure printing ink-cell and doctor-blade metering for printed electronics (2008-04-17)
+
+- **id**: `roll-to-roll-gravure-printed-electronics-ink-metering`
+- **corpus**: private
+- **device class**: printer-tooling
+- **creator**: academic and industrial (UC Berkeley Subramanian group; Bobst, Windmöller & Hölscher, Schepers/BST gravure lines; VTT, Holst Centre printed-electronics pilot lines)
+- **disclosure**: Sung, de la Fuente Vornbrock & Subramanian, Scaling and optimization of gravure-printed silver nanoparticle lines for printed electronics, IEEE Trans. CPMT 30(4), 2008; see also Kang et al., Direct gravure printing of source/drain electrodes, IEEE EDL 2010.
+- **ip status**: open-permissive
+- **prior art notes**: Discloses microscale-cell volumetric ink metering plus doctor-blade wiping applied to functional electronic inks at web scale - a self-metering microreservoir-array fluidic process. Anticipates claims to (a) gravure deposition of nanoparticle-conductor inks via engraved microcells; (b) cell-geometry control of transferred functional-ink volume and printed line width; (c) roll-to-roll gravure printing of OTFT/sensor/antenna layers with inline sintering. Prior art that limits later patents claiming generic gravure-printed-electronics processes.
+
+## EV traction-inverter power-module microchannel cold plate (pin-fin / ShowerPower-class) (2008-06-12)
+
+- **id**: `ev-power-electronics-microchannel-cold-plate`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Danfoss Silicon Power (ShowerPower), Semikron, Infineon (HybridPACK), Wolfspeed, Hitachi, Toyota/Denso power-control units; cold plates by Wieland, Mersen
+- **disclosure**: US20080144291A1 / US7393226B2 Power module assembly with integrated micro/mini-channel cooler (Semikron / DenmarkPower-class disclosures); see also Schulz-Harder, Efficient cooling of power electronics, 2008 PCIM; Danfoss ShowerPower cooling concept.
+- **ip status**: patented
+- **prior art notes**: Discloses microchannel/pin-fin liquid cooling integrated with a power-semiconductor baseplate or substrate, including distributed-jet architectures for uniform coolant temperature. Anticipates claims to (a) pin-fin baseplate microchannel cooler for an IGBT/SiC module; (b) direct-substrate (baseplate-less) microchannel cooling of power dies; (c) distributed parallel-jet (ShowerPower-type) cooler for uniform die temperature; (d) shared-manifold multi-module inverter cooler. Prior art for Danfoss, Semikron, Infineon, Toyota/Denso power-module cooling patents.
+
+## Automotive PEM fuel-cell bipolar-plate microchannel flow field (Toyota Mirai / Hyundai NEXO class) (2008-12-23)
+
+- **id**: `toyota-mirai-fuel-cell-bipolar-plate-flow-field`
+- **corpus**: private
+- **device class**: cooling-substrate
+- **creator**: Toyota Motor Corporation (Mirai), Hyundai/Kia (NEXO), Honda, Ballard, Plug Power/Hydrogenics; plate forming by Dana, Borit, Gräbener
+- **disclosure**: US7470483B2 / US20090029235A1 Fuel cell separator and fuel cell (Toyota Motor Corp.); see also Yoshida & Kojima, Toyota MIRAI fuel cell vehicle and progress toward a future hydrogen society, Electrochem. Soc. Interface 24(2), 45 (2015).
+- **ip status**: patented
+- **prior art notes**: Discloses bipolar plates bearing sub-millimeter reactant and coolant microchannel networks, including 3D lattice cathode flow fields for oxygen transport and water removal, stacked in series - microchannel fluid distribution at stack scale. Anticipates claims to (a) microchannel flow-field bipolar plate for a PEM fuel cell; (b) 3D mesh/lattice cathode flow field for enhanced O2 transport and water management; (c) interleaved coolant microchannel network in a stamped metal bipolar plate. Prior art for Toyota, Hyundai, Honda, GM, Ballard fuel-cell-plate patents.
 
 ## ALine integrated multilayer flow cells (laminate microfluidics) (2010)
 

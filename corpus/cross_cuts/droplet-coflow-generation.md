@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `droplet-coflow-generation`
 
-**8 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1879
 
@@ -64,6 +64,26 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Buchi B-191 mini spray dryer launch (predecessor) 1988; B-290 launch 2003; B-90 Nano launch 2009; Encapsulator B-390 2010.
 - **ip status**: patented
 - **prior art notes**: Discloses three independent atomization architectures - two-fluid nozzle (B-290), piezo vibrating-mesh (B-90 Nano), and Rayleigh-disturbed co-axial jet (Encapsulator B-390) - each used for biopharma powder formation or microcapsule production. Anticipates vibrating-mesh sub-micron spray dryer and piezo-modulated co-axial alginate microbead encapsulator claims.
+
+## E Ink electrophoretic display microcapsule encapsulation process (1998-08-04)
+
+- **id**: `eink-electrophoretic-microcapsule-encapsulation`
+- **corpus**: private
+- **device class**: droplet-generator
+- **creator**: E Ink Corporation (spun out of the MIT Media Lab; majority owned by E Ink Holdings / Yuen Foong Yu)
+- **disclosure**: US5961804A Microencapsulated electrophoretic display (Jacobson et al., MIT / E Ink Corporation), filed 1997, granted 1998; see also Comiskey, Albert, Yoshizawa & Jacobson, An electrophoretic ink for all-printed reflective electronic displays, Nature 394, 253 (1998).
+- **ip status**: patented
+- **prior art notes**: Discloses microfluidic emulsification-and-coacervation encapsulation of a charged-pigment electrophoretic fluid into uniform tens-of-micron microcapsules and their monolayer web coating - a literal industrial microfluidic encapsulation process. Anticipates broad claims to (a) microencapsulated electrophoretic display media; (b) emulsion/coacervation encapsulation of a dispersion of oppositely charged pigments in a nonpolar fluid; (c) bistable reflective display by monolayer-coated microcapsules; (d) multi-pigment color electrophoretic capsules. Foundational e-paper prior art; the SiPix microcup architecture is the principal alternative and a lineage descendant of the same problem statement.
+
+## Utada 2005 monodisperse double emulsions generated from a microcapillary device (2005-04-22)
+
+- **id**: `utada-2005-monodisperse-double-emulsions-microcapillary`
+- **corpus**: academic
+- **device class**: droplet-generator
+- **creator**: David A. Weitz group, Harvard (with H. A. Stone)
+- **disclosure**: Utada, A. S.; Lorenceau, E.; Link, D. R.; Kaplan, P. D.; Stone, H. A.; Weitz, D. A. Monodisperse double emulsions generated from a microcapillary device. Science 2005, 308, 537-541. DOI: 10.1126/science.1109164
+- **ip status**: public-domain
+- **prior art notes**: The seminal one-step monodisperse double-emulsion device: nested coaxial glass capillaries combining co-flow and flow-focusing so a core fluid is enveloped by a middle fluid and pinched into a continuous outer phase, producing core-shell drops with controllable shell thickness and a defined number of inner drops per shell. Anticipates claims to: glass-microcapillary co-flow/flow-focusing devices for single-step double (and higher-order) emulsion generation; monodisperse double emulsions as templates for microcapsules and controlled-release particles; and the dripping/jetting control of capillary droplet generators. Foundational for the entire structured-emulsion / microcapsule field and for double-emulsion single-cell assays (cf. brouzes-2009-droplet-screening). Weitz/Stone capillary-droplet lineage.
 
 ## Fogler 2006 - Elements of Chemical Reaction Engineering (4th ed.) (2006)
 
